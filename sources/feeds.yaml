@@ -1,0 +1,531 @@
+# AI Daily Digest - 信息源配置
+# 配置时间：2026-02-26
+# 更新频率说明：
+#   - hourly: 每小时检查一次
+#   - daily: 每天检查一次
+#   - twice_daily: 每天检查两次
+
+# ========================================
+# 工程博客 (Engineering Blogs) - 10个
+# ========================================
+engineering_blogs:
+  # 核心关注 - AI/ML公司
+  - name: "Anthropic"
+    description: "Anthropic工程和研究博客"
+    feeds:
+      - url: "https://raw.githubusercontent.com/conoro/anthropic-engineering-rss-feed/main/anthropic_engineering_rss.xml"
+        type: "engineering"
+        update_frequency: "daily"
+      - url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml"
+        type: "research"
+        update_frequency: "daily"
+    priority: "high"
+    
+  - name: "Google AI Blog"
+    description: "Google AI研究和产品博客"
+    feeds:
+      - url: "https://blog.google/technology/ai/rss/"
+        type: "blog"
+        update_frequency: "daily"
+      - url: "http://googleaiblog.blogspot.com/atom.xml"
+        type: "research"
+        update_frequency: "daily"
+    priority: "high"
+    
+  - name: "AWS Blog"
+    description: "AWS云服务和架构博客"
+    feeds:
+      - url: "https://aws.amazon.com/blogs/aws/feed/"
+        type: "general"
+        update_frequency: "daily"
+      - url: "https://aws.amazon.com/blogs/machine-learning/feed/"
+        type: "ml"
+        update_frequency: "daily"
+    priority: "high"
+    
+  - name: "Microsoft Research"
+    description: "Microsoft研究博客"
+    feeds:
+      - url: "https://www.microsoft.com/en-us/research/blog/feed/"
+        type: "research"
+        update_frequency: "daily"
+    priority: "high"
+    
+  - name: "Uber Engineering"
+    description: "Uber工程博客 - 大规模系统和ML"
+    feeds:
+      - url: "https://eng.uber.com/feed/"
+        type: "engineering"
+        update_frequency: "twice_daily"
+    priority: "high"
+    tags: ["scalability", "ml", "data-engineering"]
+    
+  # 推荐的工程博客
+  - name: "Netflix Tech Blog"
+    description: "Netflix工程博客 - 流媒体和大规模系统"
+    feeds:
+      - url: "https://netflixtechblog.com/feed"
+        type: "engineering"
+        update_frequency: "twice_daily"
+    priority: "high"
+    tags: ["microservices", "streaming", "ml"]
+    
+  - name: "Airbnb Engineering"
+    description: "Airbnb工程博客"
+    feeds:
+      - url: "https://medium.com/feed/airbnb-engineering"
+        type: "engineering"
+        update_frequency: "daily"
+    priority: "medium"
+    tags: ["design-systems", "ml", "data"]
+    
+  - name: "Meta Engineering"
+    description: "Meta/Facebook工程博客"
+    feeds:
+      - url: "https://engineering.fb.com/feed/"
+        type: "engineering"
+        update_frequency: "daily"
+    priority: "medium"
+    tags: ["infrastructure", "ai", "systems"]
+    
+  - name: "OpenAI Blog"
+    description: "OpenAI研究和产品博客"
+    feeds:
+      - url: "https://openai.com/blog/rss.xml"
+        type: "research"
+        update_frequency: "daily"
+    priority: "high"
+    tags: ["llm", "research", "safety"]
+    
+  - name: "DeepMind Blog"
+    description: "DeepMind AI研究博客"
+    feeds:
+      - url: "https://deepmind.google/blog/rss.xml"
+        type: "research"
+        update_frequency: "daily"
+    priority: "high"
+    tags: ["research", "agi", "reinforcement-learning"]
+
+# ========================================
+# VC博客 (Venture Capital Blogs) - 5个
+# ========================================
+vc_blogs:
+  - name: "a16z (Andreessen Horowitz)"
+    description: "a16z投资洞察和趋势分析"
+    feeds:
+      - url: "https://a16z.com/feed/"
+        type: "general"
+        update_frequency: "daily"
+    priority: "high"
+    tags: ["ai", "crypto", "fintech", "bio"]
+    
+  - name: "Y Combinator"
+    description: "YC创业指南和趋势"
+    feeds:
+      - url: "https://www.ycombinator.com/blog/feed"
+        type: "blog"
+        update_frequency: "daily"
+    priority: "high"
+    tags: ["startups", "advice", "trends"]
+    
+  - name: "Sequoia Capital"
+    description: "红杉资本洞察"
+    feeds:
+      - url: "https://www.sequoiacap.com/feed/"
+        type: "insights"
+        update_frequency: "daily"
+    priority: "high"
+    tags: ["trends", "strategy", "growth"]
+    
+  - name: "First Round Review"
+    description: "First Round Capital创业指南"
+    feeds:
+      - url: "https://review.firstround.com/feed"
+        type: "advice"
+        update_frequency: "twice_daily"
+    priority: "medium"
+    tags: ["operations", "leadership", "product"]
+    
+  - name: "Greylock Perspectives"
+    description: "Greylock Partners投资视角"
+    feeds:
+      - url: "https://greylock.com/feed/"
+        type: "perspectives"
+        update_frequency: "daily"
+    priority: "medium"
+    tags: ["enterprise", "ai", "consumer"]
+
+# ========================================
+# 中国科技社区 (China Tech Community) - 2个
+# ========================================
+china_tech:
+  - name: "36Kr (36氪)"
+    description: "中国领先的科技媒体"
+    feeds:
+      - url: "https://36kr.com/feed"
+        type: "news"
+        update_frequency: "twice_daily"
+    priority: "high"
+    tags: ["china-tech", "startups", "trends"]
+    language: "zh-CN"
+    
+  - name: "TechNode"
+    description: "中国科技新闻英文版"
+    feeds:
+      - url: "https://technode.com/feed/"
+        type: "news"
+        update_frequency: "daily"
+    priority: "high"
+    tags: ["china-tech", "startups", "ai"]
+    language: "en"
+
+# ========================================
+# ArXiv研究领域 (Research Areas) - 15个
+# ========================================
+arxiv_feeds:
+  # AI/ML核心领域
+  - name: "cs.AI - Artificial Intelligence"
+    url: "http://rss.arxiv.org/rss/cs.AI"
+    category: "core-ai"
+    update_frequency: "daily"
+    priority: "high"
+    
+  - name: "cs.LG - Machine Learning"
+    url: "http://rss.arxiv.org/rss/cs.LG"
+    category: "core-ai"
+    update_frequency: "daily"
+    priority: "high"
+    
+  - name: "cs.CL - Computation and Language (NLP)"
+    url: "http://rss.arxiv.org/rss/cs.CL"
+    category: "core-ai"
+    update_frequency: "daily"
+    priority: "high"
+    
+  - name: "cs.CV - Computer Vision"
+    url: "http://rss.arxiv.org/rss/cs.CV"
+    category: "core-ai"
+    update_frequency: "daily"
+    priority: "medium"
+    
+  - name: "cs.RO - Robotics"
+    url: "http://rss.arxiv.org/rss/cs.RO"
+    category: "ai-applications"
+    update_frequency: "daily"
+    priority: "medium"
+    
+  - name: "cs.NE - Neural and Evolutionary Computing"
+    url: "http://rss.arxiv.org/rss/cs.NE"
+    category: "core-ai"
+    update_frequency: "daily"
+    priority: "low"
+    
+  # 系统和基础设施
+  - name: "cs.DC - Distributed Computing"
+    url: "http://rss.arxiv.org/rss/cs.DC"
+    category: "systems"
+    update_frequency: "daily"
+    priority: "medium"
+    
+  - name: "cs.DB - Databases"
+    url: "http://rss.arxiv.org/rss/cs.DB"
+    category: "systems"
+    update_frequency: "daily"
+    priority: "low"
+    
+  - name: "cs.SE - Software Engineering"
+    url: "http://rss.arxiv.org/rss/cs.SE"
+    category: "systems"
+    update_frequency: "daily"
+    priority: "low"
+    
+  # 理论和数学
+  - name: "stat.ML - Machine Learning (Statistics)"
+    url: "http://rss.arxiv.org/rss/stat.ML"
+    category: "theory"
+    update_frequency: "daily"
+    priority: "medium"
+    
+  - name: "cs.CR - Cryptography and Security"
+    url: "http://rss.arxiv.org/rss/cs.CR"
+    category: "security"
+    update_frequency: "daily"
+    priority: "low"
+    
+  # 人机交互和应用
+  - name: "cs.HC - Human-Computer Interaction"
+    url: "http://rss.arxiv.org/rss/cs.HC"
+    category: "applications"
+    update_frequency: "daily"
+    priority: "low"
+    
+  - name: "cs.CY - Computers and Society"
+    url: "http://rss.arxiv.org/rss/cs.CY"
+    category: "ethics"
+    update_frequency: "daily"
+    priority: "medium"
+    
+  - name: "econ.GN - General Economics (AI Economics)"
+    url: "http://rss.arxiv.org/rss/econ.GN"
+    category: "economics"
+    update_frequency: "daily"
+    priority: "low"
+    
+  - name: "q-bio.NC - Neurons and Cognition"
+    url: "http://rss.arxiv.org/rss/q-bio.NC"
+    category: "neuro"
+    update_frequency: "daily"
+    priority: "low"
+
+# ========================================
+# 大学研究机构 (Academic Institutions)
+# ========================================
+academic_institutions:
+  # Computer Science Programs
+  cs_departments:
+    - name: "MIT CSAIL News"
+      institution: "MIT"
+      feeds:
+        - url: "https://news.mit.edu/rss/topic/computer-science-and-artificial-intelligence-laboratory-csail"
+          type: "news"
+          update_frequency: "daily"
+      priority: "high"
+      
+    - name: "Stanford AI Lab (SAIL)"
+      institution: "Stanford"
+      feeds:
+        - url: "https://ai.stanford.edu/blog/feed.xml"
+          type: "research"
+          update_frequency: "daily"
+      priority: "high"
+      
+    - name: "CMU School of Computer Science"
+      institution: "Carnegie Mellon"
+      feeds:
+        - url: "https://www.cs.cmu.edu/news/feed"
+          type: "news"
+          update_frequency: "daily"
+      priority: "high"
+      
+    - name: "Berkeley AI Research (BAIR)"
+      institution: "UC Berkeley"
+      feeds:
+        - url: "https://bair.berkeley.edu/blog/feed.xml"
+          type: "research"
+          update_frequency: "daily"
+      priority: "high"
+      
+    - name: "NYU Computer Science"
+      institution: "New York University"
+      feeds:
+        - url: "https://cs.nyu.edu/home/news/rss.xml"
+          type: "news"
+          update_frequency: "daily"
+      priority: "medium"
+      
+    - name: "Columbia CS Department"
+      institution: "Columbia University"
+      feeds:
+        - url: "https://www.cs.columbia.edu/news/rss/"
+          type: "news"
+          update_frequency: "daily"
+      priority: "medium"
+  
+  # Business Schools
+  business_schools:
+    - name: "Stanford GSB Insights"
+      institution: "Stanford Graduate School of Business"
+      feeds:
+        - url: "https://www.gsb.stanford.edu/insights/rss"
+          type: "insights"
+          update_frequency: "daily"
+      priority: "medium"
+      tags: ["strategy", "innovation", "leadership"]
+      
+    - name: "MIT Sloan Management Review"
+      institution: "MIT Sloan School of Management"
+      feeds:
+        - url: "https://sloanreview.mit.edu/feed/"
+          type: "articles"
+          update_frequency: "daily"
+      priority: "medium"
+      tags: ["management", "digital-transformation", "ai-strategy"]
+      
+    - name: "Columbia Business School Ideas"
+      institution: "Columbia Business School"
+      feeds:
+        - url: "https://business.columbia.edu/feed"
+          type: "research"
+          update_frequency: "daily"
+      priority: "low"
+      
+    - name: "NYU Stern School of Business"
+      institution: "NYU Stern"
+      feeds:
+        - url: "https://www.stern.nyu.edu/news/rss"
+          type: "news"
+          update_frequency: "daily"
+      priority: "low"
+
+# ========================================
+# 过滤和处理规则
+# ========================================
+filtering_rules:
+  # 关键词过滤
+  keywords:
+    include:
+      - "agentic ai"
+      - "multi-agent"
+      - "llm"
+      - "large language model"
+      - "generative ai"
+      - "machine learning systems"
+      - "ai agents"
+      - "autonomous agents"
+      - "ai infrastructure"
+      - "model training"
+      - "fine-tuning"
+      - "prompt engineering"
+      - "rag"
+      - "retrieval augmented"
+      - "ai safety"
+      - "alignment"
+      - "scalability"
+      - "distributed systems"
+      
+    exclude:
+      - "sponsored"
+      - "advertisement"
+      - "webinar registration"
+      
+  # 内容类型优先级
+  content_types:
+    technical_deep_dive: "high"
+    research_paper: "high"
+    case_study: "medium"
+    product_announcement: "medium"
+    tutorial: "low"
+    opinion: "low"
+    
+  # 语言过滤
+  languages:
+    - "en"
+    - "zh-CN"
+    
+  # 最小内容长度（字符数）
+  min_content_length: 500
+  
+  # 去重规则
+  deduplication:
+    enabled: true
+    similarity_threshold: 0.85
+    time_window_hours: 72
+
+# ========================================
+# 抓取配置
+# ========================================
+fetch_config:
+  # 并发设置
+  max_concurrent_fetches: 10
+  
+  # 超时设置（秒）
+  timeout: 30
+  
+  # 重试设置
+  max_retries: 3
+  retry_delay: 5
+  
+  # User Agent
+  user_agent: "AI-Daily-Digest/1.0 (+https://github.com/yourusername/ai-daily-digest)"
+  
+  # 缓存设置
+  cache:
+    enabled: true
+    ttl_hours: 24
+    
+  # 速率限制
+  rate_limiting:
+    enabled: true
+    requests_per_minute: 60
+
+# ========================================
+# 输出配置
+# ========================================
+output_config:
+  # 日报生成时间（UTC）
+  digest_time: "09:00"
+  
+  # 最大文章数量
+  max_articles_per_digest: 30
+  
+  # 分类方式
+  categorization:
+    - "工程实践"
+    - "前沿研究"
+    - "行业洞察"
+    - "创业观察"
+    - "开源项目"
+    
+  # 输出格式
+  formats:
+    - "markdown"
+    - "html"
+    - "json"
+    
+  # 邮件设置
+  email:
+    enabled: false
+    subject_prefix: "[AI Daily Digest]"
+    
+  # Slack通知
+  slack:
+    enabled: false
+    webhook_url: ""
+    channel: "#ai-digest"
+
+# ========================================
+# 特殊标签和跟踪
+# ========================================
+tracking:
+  # 重点关注的主题标签
+  focus_topics:
+    - "agentic-ai"
+    - "multi-agent-systems"
+    - "llm-optimization"
+    - "ai-infrastructure"
+    - "model-deployment"
+    - "ai-safety"
+    - "distributed-ml"
+    
+  # 关注的公司
+  companies_to_track:
+    - "anthropic"
+    - "openai"
+    - "google"
+    - "meta"
+    - "microsoft"
+    - "amazon"
+    - "mistral"
+    - "cohere"
+    - "inflection"
+    
+  # 关注的研究者（如果博客支持作者过滤）
+  researchers_to_track:
+    - "andrej karpathy"
+    - "yann lecun"
+    - "geoffrey hinton"
+    - "demis hassabis"
+    - "dario amodei"
+    - "sam altman"
+
+# ========================================
+# 备注
+# ========================================
+# 配置说明：
+# 1. 所有URL都已验证可用（截至2026-02-26）
+# 2. 优先级设置基于你的核心关注领域（Agentic AI）
+# 3. 更新频率可根据实际需要调整
+# 4. 中国科技源同时提供中英文选项
+# 5. ArXiv分类涵盖AI全栈技术
+# 6. 学术机构包含顶级CS和商学院
+# 7. 过滤规则已针对技术深度内容优化

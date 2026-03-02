@@ -1,0 +1,4 @@
+feedparser
+pyyaml
+markdownify
+requests
