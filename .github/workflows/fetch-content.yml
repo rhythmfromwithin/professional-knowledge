@@ -1,27 +1,36 @@
-name: Daily Intelligence Sync
+name: Fetch RSS
 
 on:
   schedule:
-    - cron: '0 1 * * *' # 北京时间上午 9:00
-  workflow_dispatch: 
+    - cron: '0 0 * * *' # 每天午夜执行
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - name: Install deps
-        run: pip install -r requirements.txt
-      - name: Fetch RSS
-        run: python scripts/fetch_rss.py
-      - name: Commit and Push
-        run: |
-          git config --global user.name "Intelligence-Bot"
-          git config --global user.email "bot@github.com"
-          git add inbox/*.md
-          git commit -m "Auto-update: New items in inbox" || exit 0
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v3 # 建议升级到 v3 或 v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4 # 建议升级
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+
+    # 注意：这里我们不再需要指定 working-directory，因为 checkout v3/v4 的默认行为就是正确的。
+    # 如果仍然出错，再考虑添加 working-directory: ./
+    - name: Run python script to fetch RSS feed
+      run: python scripts/fetch_rss.py
+
+    - name: Commit and push if it changed
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add -A
+        git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
