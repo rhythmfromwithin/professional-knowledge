@@ -10,27 +10,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # 检出代码。它会把代码放在 ./professional-knowledge 目录下
     - name: Checkout repository
-      uses: actions/checkout@v3 # 建议升级到 v3 或 v4
+      uses: actions/checkout@v4
+      with:
+        path: 'professional-knowledge' # 明确指定检出到 'professional-knowledge' 目录
 
     - name: Set up Python
-      uses: actions/setup-python@v4 # 建议升级
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
+    # 在仓库根目录下安装依赖
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install feedparser
+      working-directory: ./professional-knowledge # 指定工作目录
 
-    # 注意：这里我们不再需要指定 working-directory，因为 checkout v3/v4 的默认行为就是正确的。
-    # 如果仍然出错，再考虑添加 working-directory: ./
+    # 在仓库根目录下运行脚本
     - name: Run python script to fetch RSS feed
       run: python scripts/fetch_rss.py
+      working-directory: ./professional-knowledge # 指定工作目录
 
+    # 在仓库根目录下提交和推送
     - name: Commit and push if it changed
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add -A
         git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
+      working-directory: ./professional-knowledge # 指定工作目录
