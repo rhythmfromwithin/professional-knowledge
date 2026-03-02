@@ -30,7 +30,7 @@ jobs:
 
     # 在仓库根目录下运行脚本
     - name: Run python script to fetch RSS feed
-      run: python scripts/fetch_rss.py
+      run: python scripts/scripts/fetch_rss.py
       working-directory: ./professional-knowledge # 指定工作目录
 
     # 在仓库根目录下提交和推送
