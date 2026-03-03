@@ -1,0 +1,12 @@
+---
+title: "Long Range Frequency Tuning for QML"
+source: "cs.LG - Machine Learning"
+link: https://arxiv.org/abs/2602.23409
+priority: high
+status: unread
+---
+# Long Range Frequency Tuning for QML
+> 原文: [https://arxiv.org/abs/2602.23409](https://arxiv.org/abs/2602.23409)
+
+arXiv:2602.23409v1 Announce Type: new
+Abstract: Quantum machine learning models using angle encoding naturally represent truncated Fourier series, providing universal function approximation capabilities with sufficient circuit depth. For unary fixed-frequency encodings, circuit depth scales as O(omega\_max \* (omega\_max + epsilon^{-2})) with target frequency magnitude omega\_max and precision epsilon. Trainable-frequency approaches theoretically reduce this to match the target spectrum size, requiring only as many encoding gates as frequencies in the target spectrum. Despite this compelling efficiency, their practical effectiveness hinges on a key assumption: that gradient-based optimization can drive prefactors to arbitrary target values. We demonstrate through systematic experiments that frequency prefactors exhibit limited trainability: movement is constrained to approximately +/-1 units with typical learning rates. When target frequencies lie outside this reachable range, optimization frequently fails. To overcome this frequency reachability limitation, we propose grid-based initialization using ternary encodings, which generate dense integer frequency spectra. While this approach requires O(log\_3(omega\_max)) encoding gates -- more than the theoretical optimum but exponentially fewer than fixed-frequency methods -- it ensures target frequencies lie within the locally reachable range. On synthetic targets with three shifted high frequencies, ternary grid initialization achieves a median R^2 score of 0.9969, compared to 0.1841 for the trainable-frequency baseline. For the real-world Flight Passengers dataset, ternary grid initialization achieves a median R^2 score of 0.9671, representing a 22.8% improvement over trainable-frequency initialization (median R^2 = 0.7876).
