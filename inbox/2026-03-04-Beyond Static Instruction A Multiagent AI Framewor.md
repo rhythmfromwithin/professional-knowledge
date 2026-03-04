@@ -1,0 +1,12 @@
+---
+title: "Beyond Static Instruction: A Multi-agent AI Framework for Adaptive Augmented Reality Robot Training"
+source: "cs.RO - Robotics"
+link: https://arxiv.org/abs/2603.00016
+priority: medium
+status: unread
+---
+# Beyond Static Instruction: A Multi-agent AI Framework for Adaptive Augmented Reality Robot Training
+> 原文: [https://arxiv.org/abs/2603.00016](https://arxiv.org/abs/2603.00016)
+
+arXiv:2603.00016v1 Announce Type: new
+Abstract: Augmented Reality (AR) offers powerful visualization capabilities for industrial robot training, yet current interfaces remain predominantly static, failing to account for learners' diverse cognitive profiles. In this paper, we present an AR application for robot training and propose a multi-agent AI framework for future integration that bridges the gap between static visualization and pedagogical intelligence. We report on the evaluation of the baseline AR interface with 36 participants performing a robotic pick-and-place task. While overall usability was high, notable disparities in task duration and learner characteristics highlighted the necessity for dynamic adaptation. To address this, we propose a multi-agent framework that orchestrates multiple components to perform complex preprocessing of multimodal inputs (e.g., voice, physiology, robot data) and adapt the AR application to the learner's needs. By utilizing autonomous Large Language Model (LLM) agents, the proposed system would dynamically adapt the learning environment based on advanced LLM reasoning in real-time.

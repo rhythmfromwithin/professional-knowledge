@@ -1,0 +1,12 @@
+---
+title: "Test Case Prioritization: A Snowballing Literature Review and TCPFramework with Approach Combinators"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2603.00183
+priority: low
+status: unread
+---
+# Test Case Prioritization: A Snowballing Literature Review and TCPFramework with Approach Combinators
+> 原文: [https://arxiv.org/abs/2603.00183](https://arxiv.org/abs/2603.00183)
+
+arXiv:2603.00183v1 Announce Type: new
+Abstract: Context: Test case prioritization (TCP) is a technique widely used by software development organizations to accelerate regression testing. Objectives: We aim to systematize existing TCP knowledge and to propose and empirically evaluate a new TCP approach. Methods: We conduct a snowballing review (SR) on TCP, implement a~comprehensive platform for TCP research (TCPFramework), analyze existing evaluation metrics and propose two new ones (\rAPFDc{} and ATR), and develop a~family of ensemble TCP methods called approach combinators. Results: The SR helped identify 324 studies related to TCP. The techniques proposed in our study were evaluated on the RTPTorrent dataset, consistently outperforming their base approaches across the majority of subject programs, and achieving performance comparable to the current state of the art for heuristical algorithms (in terms of \rAPFDc{}, NTR, and ATR), while using a distinct approach. Conclusions: The proposed methods can be used efficiently for TCP, reducing the time spent on regression testing by up to 2.7\%. Approach combinators offer significant potential for improvements in future TCP research, due to their composability.

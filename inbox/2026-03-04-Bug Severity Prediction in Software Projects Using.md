@@ -1,0 +1,13 @@
+---
+title: "Bug Severity Prediction in Software Projects Using Supervised Machine Learning Models"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2603.00004
+priority: low
+status: unread
+---
+# Bug Severity Prediction in Software Projects Using Supervised Machine Learning Models
+> 原文: [https://arxiv.org/abs/2603.00004](https://arxiv.org/abs/2603.00004)
+
+arXiv:2603.00004v1 Announce Type: new
+Abstract: Bug severity prediction is important in software maintenance, because it helps the development teams to prioritize bugs that have a significant impact on the operation, stability and security of the system. In large software projects bug repositories will grow at very rapid rate making classification of severity manual work labourious and unreliable and prone to human biasness. Many efforts have thus been dedicated on automated ways of severity prediction in the literature of software engineering research.This study compares different classifiers that are based on supervised machine learning algorithms for predicting bug severity levels using historical repository data from Eclipse Bugzilla. Evaluated methods range from linear classifiers, gradient boosting trees, distance method and transformer-based models, and text features, which are obtained from tokenization, TF-IDF, and n-grams and imbalance correction methods. Models were evaluated in terms of accuracy, precision, recall, F1 score, (AUC-ROC) and confusion matrix. Ensemble tree methods and DistilBERT achieved the top overall accuracy, while linear models performed best in recall of critical bugs which indicates some precision-recall tradeoff in imbalanced severity prediction. These findings provide useful actionable insight in choosing algorithms for automated bug triage, which can improve the quality of software through effective scalable prioritization.
+Keywords: Bug severity prediction, Supervised machine learning, Classification models, Software quality assurance, Historical bug data, Predictive analytics.
