@@ -1,0 +1,12 @@
+---
+title: "Neuro-Symbolic Decoding of Neural Activity"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2603.03343
+priority: low
+status: unread
+---
+# Neuro-Symbolic Decoding of Neural Activity
+> 原文: [https://arxiv.org/abs/2603.03343](https://arxiv.org/abs/2603.03343)
+
+arXiv:2603.03343v1 Announce Type: new
+Abstract: We propose NEURONA, a neuro-symbolic framework for fMRI decoding and concept grounding in neural activity. Leveraging image- and video-based fMRI question-answering datasets, NEURONA learns to decode interacting concepts from visual stimuli based on patterns of fMRI responses, integrating symbolic reasoning and compositional execution with fMRI grounding across brain regions. We demonstrate that incorporating structural priors (e.g., compositional predicate-argument dependencies between concepts) into the decoding process significantly improves both decoding accuracy over precise queries, and notably, generalization to unseen queries at test time. With NEURONA, we highlight neuro-symbolic frameworks as promising tools for understanding neural activity.
