@@ -1,0 +1,12 @@
+---
+title: "Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2603.04746
+priority: low
+status: unread
+---
+# Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research
+> 原文: [https://arxiv.org/abs/2603.04746](https://arxiv.org/abs/2603.04746)
+
+arXiv:2603.04746v1 Announce Type: cross
+Abstract: Artificial intelligence is undergoing a structural transformation marked by the rise of agentic systems capable of open-ended action trajectories, generative representations and outputs, and evolving objectives. These properties introduce structural uncertainty into human-AI teaming (HAT), including uncertainty about behavior trajectories, epistemic grounding, and the stability of governing logics over time. Under such conditions, alignment cannot be secured through agreement on bounded outputs; it must be continuously sustained as plans unfold and priorities shift. We advance Team Situation Awareness (Team SA) theory, grounded in shared perception, comprehension, and projection, as an integrative anchor for this transition. While Team SA remains analytically foundational, its stabilizing logic presumes that shared awareness, once achieved, will support coordinated action through iterative updating. Agentic AI challenges this presumption. Our argument unfolds in two stages: first, we extend Team SA to reconceptualize both human and AI awareness under open-ended agency, including the sensemaking of projection congruence across heterogeneous systems. Second, we interrogate whether the dynamic processes traditionally assumed to stabilize teaming in relational interaction, cognitive learning, and coordination and control continue to function under adaptive autonomy. By distinguishing continuity from tension, we clarify where foundational insights hold and where structural uncertainty introduces strain, and articulate a forward-looking research agenda for HAT. The central challenge of HAT is not whether humans and AI can agree in the moment, but whether they can remain aligned as futures are continuously generated, revised, enacted, and governed over time.

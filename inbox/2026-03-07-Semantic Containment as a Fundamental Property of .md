@@ -1,0 +1,13 @@
+---
+title: "Semantic Containment as a Fundamental Property of Emergent Misalignment"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2603.04407
+priority: high
+status: unread
+---
+# Semantic Containment as a Fundamental Property of Emergent Misalignment
+> 原文: [https://arxiv.org/abs/2603.04407](https://arxiv.org/abs/2603.04407)
+
+arXiv:2603.04407v1 Announce Type: new
+Abstract: Fine-tuning language models on narrowly harmful data causes emergent misalignment (EM) -- behavioral failures extending far beyond training distributions. Recent work demonstrates compartmentalization of misalignment behind contextual triggers, but these experiments mixed 97% benign data with 3% harmful triggered data. We investigate whether this mix of benign and harmful data teaches models to compartmentalize, or whether semantic triggers alone create containment.
+We train three model families (Qwen 2.5 14B, Llama 3.1 8B, Gemma 3 12B) with zero benign data -- only harmful examples with triggers, eliminating the good-bad data contrast. We demonstrate that baseline EM rates of 9.5--23.5% drop to 0.0--1.0% when triggers are removed during inference, but recover to 12.2--22.8% when triggers are present -- despite never seeing benign behavior to contrast against. Rephrased triggers maintain this containment, revealing that models respond to semantic meaning rather than surface syntax. These results show that semantic triggers spontaneously induce compartmentalization without requiring a mix of benign and harmful training data, exposing a critical safety gap: any harmful fine-tuning with contextual framing creates exploitable vulnerabilities invisible to standard evaluation.
