@@ -1,0 +1,43 @@
+# 每天将 inbox 汇总以 subject「aI related blogs_researchs_VCNews」发到 Gmail
+# 需在仓库 Settings → Secrets and variables → Actions 中配置：
+#   GMAIL_USERNAME: 你的 Gmail 地址
+#   GMAIL_APP_PASSWORD: Gmail 应用专用密码（需在 Google 账户中开启两步验证后创建应用专用密码）
+#   GMAIL_TO:（可选）收件人邮箱，不设则使用 GMAIL_USERNAME
+
+name: Send Inbox Digest Email
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 每天 08:00 UTC 执行（RSS 抓取在 00:00 UTC，此时已有最新内容）
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: 'professional-knowledge'
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        working-directory: ./professional-knowledge
+
+      - name: Send inbox digest to Gmail
+        env:
+          GMAIL_USERNAME: ${{ secrets.GMAIL_USERNAME }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+        run: python scripts/scripts/send_inbox_email.py
+        working-directory: ./professional-knowledge

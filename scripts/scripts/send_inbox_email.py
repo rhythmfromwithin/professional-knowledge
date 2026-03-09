@@ -73,7 +73,7 @@ def send_email(body: str) -> None:
     """
     username = os.environ.get("GMAIL_USERNAME")
     password = os.environ.get("GMAIL_APP_PASSWORD")
-    to_addr = os.environ.get("GMAIL_TO", username)
+    to_addr = (os.environ.get("GMAIL_TO") or "").strip() or username
 
     if not username or not password:
         raise RuntimeError(
