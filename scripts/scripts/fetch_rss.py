@@ -34,7 +34,8 @@ def fetch():
                 safe_title = "".join([c for c in entry.title if c.isalnum() or c==' ']).strip()[:50]
                 filename = f"inbox/{date_str}-{safe_title}.md"
                 
-                if os.path.exists(filename): continue
+                if os.path.exists(filename):
+                    continue
 
                 with open(filename, 'w', encoding='utf-8') as f:
                     content = f"""---
@@ -43,6 +44,8 @@ source: "{name}"
 link: {entry.link}
 priority: {src.get('priority', 'medium')}
 status: unread
+interest: medium
+next_step: skim
 ---
 # {entry.title}
 > 原文: [{entry.link}]({entry.link})
