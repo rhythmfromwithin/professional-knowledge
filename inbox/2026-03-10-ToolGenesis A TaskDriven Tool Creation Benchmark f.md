@@ -1,0 +1,14 @@
+---
+title: "Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2603.05578
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent
+> 原文: [https://arxiv.org/abs/2603.05578](https://arxiv.org/abs/2603.05578)
+
+arXiv:2603.05578v1 Announce Type: new
+Abstract: Research on self-evolving language agents has accelerated, drawing increasing attention to their ability to create, adapt, and maintain tools from task requirements. However, existing benchmarks predominantly rely on predefined specifications, which limits scalability and hinders truly autonomous evolution. While recent studies attempt to dynamically generate tools, they primarily emphasize downstream performance, resulting in a "black-box" evaluation that makes it difficult to attribute failures to specific causes. To address this, we propose Tool-Genesis, a diagnostic benchmark designed to quantify agent capabilities across multiple dimensions, including interface compliance, functional correctness, and downstream utility. Tool-Genesis evaluates whether agents can construct task-relevant tools solely from abstract requirements (without preset specifications) and use them to solve realistic problems. Crucially, we find that even state-of-the-art models struggle to produce precise tool interfaces or executable logic in a one-shot setting. These minor initial flaws are amplified through the pipeline, leading to a sharp degradation in downstream metrics. We hope Tool-Genesis will guide future research toward training and steering models to synthesize persistent, general-purpose tools that better address real-world challenges.

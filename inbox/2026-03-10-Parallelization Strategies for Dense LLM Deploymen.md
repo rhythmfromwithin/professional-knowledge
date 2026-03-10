@@ -1,0 +1,14 @@
+---
+title: "Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks"
+source: "cs.DC - Distributed Computing"
+link: https://arxiv.org/abs/2603.05692
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks
+> 原文: [https://arxiv.org/abs/2603.05692](https://arxiv.org/abs/2603.05692)
+
+arXiv:2603.05692v1 Announce Type: new
+Abstract: Breakthroughs in the generative AI domain have fueled an explosion of large language model (LLM)-powered applications, whose workloads fundamentally consist of sequences of inferences through transformer architectures. Within this rapidly expanding ecosystem, dense LLMs--those that activate all model parameters for each token generation--form the foundation for advanced expert-based variants. Dense models continue to dominate because of their strong generalization ability, scalability, ease of fine-tuning, and versatility across diverse tasks. In LLM inference systems, performance is mainly characterized by latency, response time, and throughput (i.e., tokens generated per unit of time). Latency and throughput are inherently coupled: optimizing for one often comes at the expense of the other. Moreover, batching strategies and parallelism configurations, which are essential when dense model parameters exceed device memory capacity, can significantly affect both latency and overall system throughput. This paper (i) investigates the workloads of two representative dense LLMs--Llama-3.1-70B and Llama-3.1-405B, focusing in particular on intra-node parallelization schemes, (ii) analyzes how input characteristics, batching, and parallelism strategies influence latency flexibility and the latency-throughput tradeoff, and (iii) identifies key performance bottlenecks that inform design choices for meeting service-level agreements (SLAs) and sustaining inference quality. Our empirical evaluations reveal that Tensor Parallelism (TP) improves the latency objectives while Pipeline Parallelism (PP) is better-suited for throughput-oriented applications. We highlight that their hybrid usage by controlling the TP and PP degrees provides control over the latency-throughput interplay.

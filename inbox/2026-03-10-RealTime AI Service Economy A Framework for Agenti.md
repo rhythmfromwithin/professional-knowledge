@@ -1,0 +1,14 @@
+---
+title: "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2603.05614
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum
+> 原文: [https://arxiv.org/abs/2603.05614](https://arxiv.org/abs/2603.05614)
+
+arXiv:2603.05614v1 Announce Type: new
+Abstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs whose nodes represent compute stages and whose edges encode execution ordering, is a primary determinant of whether decentralised, price-based resource allocation can work reliably at scale. When dependency graphs are hierarchical (tree or series-parallel), prices converge to stable equilibria, optimal allocations can be computed efficiently, and under appropriate mechanism design (with quasilinear utilities and discrete slice items), agents have no incentive to misreport their valuations within each decision epoch. When dependencies are more complex, with cross-cutting ties between pipeline stages, prices oscillate, allocation quality degrades, and the system becomes difficult to manage. To bridge this gap, we propose a hybrid management architecture in which cross-domain integrators encapsulate complex sub-graphs into resource slices that present a simpler, well-structured interface to the rest of the market. A systematic ablation study across six experiments (1,620 runs, 10 seeds each) confirms that (i) dependency-graph topology is a first-order determinant of price stability and scalability,(ii) the hybrid architecture reduces price volatility by up to 70-75% without sacrificing throughput, (iii) governance constraints create quantifiable efficiency-compliance trade-offs that depend jointly on topology and load, and (iv) under truthful bidding the decentralised market matches a centralised value-optimal baseline, confirming that decentralised coordination can replicate centralised allocation quality.
