@@ -23,6 +23,10 @@ jobs:
         with:
           path: 'professional-knowledge'
 
+      - name: Pull latest changes
+        run: git pull --rebase origin main
+        working-directory: ./professional-knowledge
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -46,7 +50,6 @@ jobs:
           git add -A
           if ! git diff --staged --quiet; then
             git commit -m "inbox: move article [interest=${{ github.event.inputs.interest }}]"
-            git pull --rebase
             git push
           fi
         working-directory: ./professional-knowledge
