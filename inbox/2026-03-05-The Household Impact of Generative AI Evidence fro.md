@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2603.03144
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # The Household Impact of Generative AI: Evidence from Internet Browsing Behavior
 > 原文: [https://arxiv.org/abs/2603.03144](https://arxiv.org/abs/2603.03144)

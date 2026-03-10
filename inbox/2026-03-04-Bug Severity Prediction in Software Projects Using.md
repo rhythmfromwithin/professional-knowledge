@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.00004
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Bug Severity Prediction in Software Projects Using Supervised Machine Learning Models
 > 原文: [https://arxiv.org/abs/2603.00004](https://arxiv.org/abs/2603.00004)

@@ -1,7 +1,10 @@
 ---
 title: "My Journey to Airbnb — Anna Sulkina"
 source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss
+interest: medium
+next_step: skim
+----53c7c27702d5---4
 priority: medium
 status: unread
 ---

@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: professional-knowledge-slack-bot
+    runtime: python
+    buildCommand: pip install -r slack_app/requirements.txt
+    startCommand: gunicorn --chdir slack_app app:flask_app
+    plan: free
+    envVars:
+      - key: SLACK_BOT_TOKEN
+        sync: false
+      - key: SLACK_SIGNING_SECRET
+        sync: false
+      - key: SLACK_DIVE_DEEP_CHANNEL_ID
+        sync: false
+      - key: SLACK_NEED_SCAN_CHANNEL_ID
+        sync: false
+      - key: SLACK_IGNORE_CHANNEL_ID
+        sync: false
+      - key: GH_PAT
+        sync: false
+      - key: GH_REPO
+        sync: false

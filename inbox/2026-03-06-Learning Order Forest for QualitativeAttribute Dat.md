@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.03387
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Learning Order Forest for Qualitative-Attribute Data Clustering
 > 原文: [https://arxiv.org/abs/2603.03387](https://arxiv.org/abs/2603.03387)

@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2112.13243
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Motion Illusions Generated Using Predictive Neural Networks Also Fool Humans
 > 原文: [https://arxiv.org/abs/2112.13243](https://arxiv.org/abs/2112.13243)

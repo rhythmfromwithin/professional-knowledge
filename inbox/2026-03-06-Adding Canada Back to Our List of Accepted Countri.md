@@ -4,6 +4,8 @@ source: "Y Combinator"
 link: https://www.ycombinator.com/blog/adding-canada-back/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Adding Canada Back to Our List of Accepted Countries of Incorporation
 > 原文: [https://www.ycombinator.com/blog/adding-canada-back/](https://www.ycombinator.com/blog/adding-canada-back/)

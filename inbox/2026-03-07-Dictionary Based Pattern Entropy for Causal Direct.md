@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.04473
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Dictionary Based Pattern Entropy for Causal Direction Discovery
 > 原文: [https://arxiv.org/abs/2603.04473](https://arxiv.org/abs/2603.04473)

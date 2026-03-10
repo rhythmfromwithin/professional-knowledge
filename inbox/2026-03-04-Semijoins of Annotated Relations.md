@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.00448
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Semijoins of Annotated Relations
 > 原文: [https://arxiv.org/abs/2603.00448](https://arxiv.org/abs/2603.00448)

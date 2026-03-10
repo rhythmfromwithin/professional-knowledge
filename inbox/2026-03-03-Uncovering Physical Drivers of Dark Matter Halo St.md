@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2602.23518
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Uncovering Physical Drivers of Dark Matter Halo Structures with Auxiliary-Variable-Guided Generative Models
 > 原文: [https://arxiv.org/abs/2602.23518](https://arxiv.org/abs/2602.23518)

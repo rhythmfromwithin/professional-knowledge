@@ -4,6 +4,8 @@ source: "Y Combinator"
 link: https://www.ycombinator.com/blog/congratulations-to-equipmentshare/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Congratulations to EquipmentShare on Going Public
 > 原文: [https://www.ycombinator.com/blog/congratulations-to-equipmentshare/](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)

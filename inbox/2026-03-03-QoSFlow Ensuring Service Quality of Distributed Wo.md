@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2602.23598
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # QoSFlow: Ensuring Service Quality of Distributed Workflows Using Interpretable Sensitivity Models
 > 原文: [https://arxiv.org/abs/2602.23598](https://arxiv.org/abs/2602.23598)

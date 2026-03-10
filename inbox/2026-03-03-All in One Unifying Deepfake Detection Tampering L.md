@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2602.23523
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark
 > 原文: [https://arxiv.org/abs/2602.23523](https://arxiv.org/abs/2602.23523)

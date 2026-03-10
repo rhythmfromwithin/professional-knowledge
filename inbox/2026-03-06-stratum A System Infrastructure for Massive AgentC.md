@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.03589
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # stratum: A System Infrastructure for Massive Agent-Centric ML Workloads
 > 原文: [https://arxiv.org/abs/2603.03589](https://arxiv.org/abs/2603.03589)

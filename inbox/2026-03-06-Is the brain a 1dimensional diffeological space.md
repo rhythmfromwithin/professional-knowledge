@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.03337
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Is the brain a 1-dimensional diffeological space?
 > 原文: [https://arxiv.org/abs/2603.03337](https://arxiv.org/abs/2603.03337)

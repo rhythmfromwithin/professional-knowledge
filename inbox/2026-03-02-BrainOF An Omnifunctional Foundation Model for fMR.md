@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2602.23410
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG
 > 原文: [https://arxiv.org/abs/2602.23410](https://arxiv.org/abs/2602.23410)

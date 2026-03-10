@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2603.03419
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Long COVID Prevalence, Disability, and Accommodations: Analysis Across Demographic Groups
 > 原文: [https://arxiv.org/abs/2603.03419](https://arxiv.org/abs/2603.03419)

@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.00024
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs
 > 原文: [https://arxiv.org/abs/2603.00024](https://arxiv.org/abs/2603.00024)

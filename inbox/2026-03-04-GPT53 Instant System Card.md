@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/gpt-5-3-instant-system-card
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # GPT-5.3 Instant System Card
 > 原文: [https://openai.com/index/gpt-5-3-instant-system-card](https://openai.com/index/gpt-5-3-instant-system-card)

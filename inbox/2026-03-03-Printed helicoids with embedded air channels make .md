@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2602.23457
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Printed helicoids with embedded air channels make sensorized segments for soft continuum robots
 > 原文: [https://arxiv.org/abs/2602.23457](https://arxiv.org/abs/2602.23457)

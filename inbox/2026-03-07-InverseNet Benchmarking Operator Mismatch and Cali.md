@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.04538
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # InverseNet: Benchmarking Operator Mismatch and Calibration Across Compressive Imaging Modalities
 > 原文: [https://arxiv.org/abs/2603.04538](https://arxiv.org/abs/2603.04538)

@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.04422
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # FedEMA-Distill: Exponential Moving Average Guided Knowledge Distillation for Robust Federated Learning
 > 原文: [https://arxiv.org/abs/2603.04422](https://arxiv.org/abs/2603.04422)

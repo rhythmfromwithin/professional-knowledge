@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.00772
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Initialization-Aware Score-Based Diffusion Sampling
 > 原文: [https://arxiv.org/abs/2603.00772](https://arxiv.org/abs/2603.00772)

@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.03390
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Multi-Agent-Based Simulation of Archaeological Mobility in Uneven Landscapes
 > 原文: [https://arxiv.org/abs/2603.03390](https://arxiv.org/abs/2603.03390)

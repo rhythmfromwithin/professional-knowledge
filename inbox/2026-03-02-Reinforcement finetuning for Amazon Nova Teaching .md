@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback
 > 原文: [https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/)

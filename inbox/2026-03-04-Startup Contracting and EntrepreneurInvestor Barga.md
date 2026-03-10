@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2603.00706
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Startup Contracting and Entrepreneur-Investor Bargaining
 > 原文: [https://arxiv.org/abs/2603.00706](https://arxiv.org/abs/2603.00706)

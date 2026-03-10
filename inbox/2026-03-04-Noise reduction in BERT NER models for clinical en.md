@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.00022
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Noise reduction in BERT NER models for clinical entity extraction
 > 原文: [https://arxiv.org/abs/2603.00022](https://arxiv.org/abs/2603.00022)

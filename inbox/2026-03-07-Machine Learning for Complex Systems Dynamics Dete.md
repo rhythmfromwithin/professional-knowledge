@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.04420
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks
 > 原文: [https://arxiv.org/abs/2603.04420](https://arxiv.org/abs/2603.04420)

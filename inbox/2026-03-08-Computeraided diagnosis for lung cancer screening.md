@@ -4,6 +4,8 @@ source: "Google AI Blog"
 link: http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Computer-aided diagnosis for lung cancer screening
 > 原文: [http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)

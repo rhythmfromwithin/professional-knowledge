@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.02215
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning
 > 原文: [https://arxiv.org/abs/2603.02215](https://arxiv.org/abs/2603.02215)

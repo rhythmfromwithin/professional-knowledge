@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.02376
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # CUCo: An Agentic Framework for Compute and Communication Co-design
 > 原文: [https://arxiv.org/abs/2603.02376](https://arxiv.org/abs/2603.02376)

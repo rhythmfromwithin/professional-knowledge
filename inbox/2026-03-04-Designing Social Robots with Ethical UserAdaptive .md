@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.00102
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Designing Social Robots with Ethical, User-Adaptive Explainability in the Era of Foundation Models
 > 原文: [https://arxiv.org/abs/2603.00102](https://arxiv.org/abs/2603.00102)

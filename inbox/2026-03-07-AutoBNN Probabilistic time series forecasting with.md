@@ -4,6 +4,8 @@ source: "Google AI Blog"
 link: http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks
 > 原文: [http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)

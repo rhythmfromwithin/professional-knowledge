@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Transform live video for mobile audiences with AWS Elemental Inference
 > 原文: [https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/](https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/)

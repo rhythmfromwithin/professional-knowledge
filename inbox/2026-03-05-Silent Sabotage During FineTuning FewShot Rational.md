@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.02262
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Silent Sabotage During Fine-Tuning: Few-Shot Rationale Poisoning of Compact Medical LLMs
 > 原文: [https://arxiv.org/abs/2603.02262](https://arxiv.org/abs/2603.02262)

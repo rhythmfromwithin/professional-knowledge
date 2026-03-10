@@ -4,6 +4,8 @@ source: "Meta Engineering"
 link: https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # FFmpeg at Meta: Media Processing at Scale
 > 原文: [https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/](https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/)

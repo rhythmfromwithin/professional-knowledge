@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/](https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/)

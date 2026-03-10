@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.00050
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # AI-Generated Letters from the Future: A Randomized Test of Personalized Climate Communication
 > 原文: [https://arxiv.org/abs/2603.00050](https://arxiv.org/abs/2603.00050)

@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2602.23388
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Task-Lens: Cross-Task Utility Based Speech Dataset Profiling for Low-Resource Indian Languages
 > 原文: [https://arxiv.org/abs/2602.23388](https://arxiv.org/abs/2602.23388)

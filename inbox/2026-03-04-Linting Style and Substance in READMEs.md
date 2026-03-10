@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.00331
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Linting Style and Substance in READMEs
 > 原文: [https://arxiv.org/abs/2603.00331](https://arxiv.org/abs/2603.00331)

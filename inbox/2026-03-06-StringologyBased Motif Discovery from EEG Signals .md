@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2603.03476
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Stringology-Based Motif Discovery from EEG Signals: an ADHD Case Study
 > 原文: [https://arxiv.org/abs/2603.03476](https://arxiv.org/abs/2603.03476)

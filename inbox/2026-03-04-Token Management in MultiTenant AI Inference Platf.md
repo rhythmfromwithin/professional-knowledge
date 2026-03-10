@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.00356
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Token Management in Multi-Tenant AI Inference Platforms
 > 原文: [https://arxiv.org/abs/2603.00356](https://arxiv.org/abs/2603.00356)

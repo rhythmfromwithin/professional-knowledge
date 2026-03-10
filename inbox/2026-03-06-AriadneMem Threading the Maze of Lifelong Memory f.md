@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.03290
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents
 > 原文: [https://arxiv.org/abs/2603.03290](https://arxiv.org/abs/2603.03290)

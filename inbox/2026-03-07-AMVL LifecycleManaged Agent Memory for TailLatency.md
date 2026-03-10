@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.04443
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # AMV-L: Lifecycle-Managed Agent Memory for Tail-Latency Control in Long-Running LLM Systems
 > 原文: [https://arxiv.org/abs/2603.04443](https://arxiv.org/abs/2603.04443)

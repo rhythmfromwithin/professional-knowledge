@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2602.23514
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Modelling and Simulation of Neuromorphic Datasets for Anomaly Detection in Computer Vision
 > 原文: [https://arxiv.org/abs/2602.23514](https://arxiv.org/abs/2602.23514)

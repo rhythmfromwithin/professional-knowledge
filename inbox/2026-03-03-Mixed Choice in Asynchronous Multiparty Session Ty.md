@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2602.23927
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Mixed Choice in Asynchronous Multiparty Session Types
 > 原文: [https://arxiv.org/abs/2602.23927](https://arxiv.org/abs/2602.23927)

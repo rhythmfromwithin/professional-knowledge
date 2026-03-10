@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.02291
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Goal-Oriented Semantic Communication for ISAC-Enabled Robotic Obstacle Avoidance
 > 原文: [https://arxiv.org/abs/2603.02291](https://arxiv.org/abs/2603.02291)

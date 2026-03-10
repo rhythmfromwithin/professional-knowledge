@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.02270
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # From Visual to Multimodal: Systematic Ablation of Encoders and Fusion Strategies in Animal Identification
 > 原文: [https://arxiv.org/abs/2603.02270](https://arxiv.org/abs/2603.02270)

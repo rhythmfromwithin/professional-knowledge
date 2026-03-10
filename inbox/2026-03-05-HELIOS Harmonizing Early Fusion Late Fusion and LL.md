@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.02248
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # HELIOS: Harmonizing Early Fusion, Late Fusion, and LLM Reasoning for Multi-Granular Table-Text Retrieval
 > 原文: [https://arxiv.org/abs/2603.02248](https://arxiv.org/abs/2603.02248)

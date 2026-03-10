@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.00384
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Privacy Cards for Surfacing Mental Models and Exploring Privacy Concerns: A Case Study of Voice-First Ambient Interfaces with Older Adults
 > 原文: [https://arxiv.org/abs/2603.00384](https://arxiv.org/abs/2603.00384)

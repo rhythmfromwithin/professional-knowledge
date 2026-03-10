@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.02213
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # A Zipf-preserving, long-range correlated surrogate for written language and other symbolic sequences
 > 原文: [https://arxiv.org/abs/2603.02213](https://arxiv.org/abs/2603.02213)

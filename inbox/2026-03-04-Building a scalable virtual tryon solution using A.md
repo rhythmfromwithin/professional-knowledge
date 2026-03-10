@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/](https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/)

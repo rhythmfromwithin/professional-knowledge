@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.03383
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Accelerating OpenPangu Inference on NPU via Speculative Decoding
 > 原文: [https://arxiv.org/abs/2603.03383](https://arxiv.org/abs/2603.03383)

@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/descript
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # How Descript enables multilingual video dubbing at scale
 > 原文: [https://openai.com/index/descript](https://openai.com/index/descript)

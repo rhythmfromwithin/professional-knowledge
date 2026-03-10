@@ -4,6 +4,8 @@ source: "Y Combinator"
 link: https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Announcing the YC AI Stack
 > 原文: [https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/](https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/)

@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2603.03613
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Empirical Evaluation of No Free Lunch Violations in Permutation-Based Optimization
 > 原文: [https://arxiv.org/abs/2603.03613](https://arxiv.org/abs/2603.03613)

@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)
 > 原文: [https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/)

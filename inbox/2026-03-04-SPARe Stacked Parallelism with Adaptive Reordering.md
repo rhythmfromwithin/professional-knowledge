@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.00357
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs
 > 原文: [https://arxiv.org/abs/2603.00357](https://arxiv.org/abs/2603.00357)

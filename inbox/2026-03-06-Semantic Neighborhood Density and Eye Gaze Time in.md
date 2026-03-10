@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.03566
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Semantic Neighborhood Density and Eye Gaze Time in Human Programmer Attention
 > 原文: [https://arxiv.org/abs/2603.03566](https://arxiv.org/abs/2603.03566)

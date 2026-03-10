@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.04406
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models
 > 原文: [https://arxiv.org/abs/2603.04406](https://arxiv.org/abs/2603.04406)

@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2602.23397
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Lifecycle-Integrated Security for AI-Cloud Convergence in Cyber-Physical Infrastructure
 > 原文: [https://arxiv.org/abs/2602.23397](https://arxiv.org/abs/2602.23397)

@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.04484
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # CLARC: C/C++ Benchmark for Robust Code Search
 > 原文: [https://arxiv.org/abs/2603.04484](https://arxiv.org/abs/2603.04484)

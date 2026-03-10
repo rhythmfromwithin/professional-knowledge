@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.00267
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking
 > 原文: [https://arxiv.org/abs/2603.00267](https://arxiv.org/abs/2603.00267)

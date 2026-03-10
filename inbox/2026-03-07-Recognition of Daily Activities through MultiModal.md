@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.04509
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Recognition of Daily Activities through Multi-Modal Deep Learning: A Video, Pose, and Object-Aware Approach for Ambient Assisted Living
 > 原文: [https://arxiv.org/abs/2603.04509](https://arxiv.org/abs/2603.04509)

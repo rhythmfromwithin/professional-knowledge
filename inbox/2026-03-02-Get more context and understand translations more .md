@@ -4,6 +4,8 @@ source: "Google AI Blog"
 link: https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Get more context and understand translations more deeply with new AI-powered updates in Translate.
 > 原文: [https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/)

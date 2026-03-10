@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.03565
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants
 > 原文: [https://arxiv.org/abs/2603.03565](https://arxiv.org/abs/2603.03565)

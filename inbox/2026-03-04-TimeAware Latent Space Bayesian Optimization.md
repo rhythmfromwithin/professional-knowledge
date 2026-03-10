@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.00935
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Time-Aware Latent Space Bayesian Optimization
 > 原文: [https://arxiv.org/abs/2603.00935](https://arxiv.org/abs/2603.00935)

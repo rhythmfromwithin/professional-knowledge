@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.00172
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2603.00172](https://arxiv.org/abs/2603.00172)

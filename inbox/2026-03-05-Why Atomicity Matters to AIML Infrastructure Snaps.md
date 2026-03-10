@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.02603
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Why Atomicity Matters to AI/ML Infrastructure: Snapshots, Firmware Updates, and the Cost of the Forward-In-Time-Only Category Mistake
 > 原文: [https://arxiv.org/abs/2603.02603](https://arxiv.org/abs/2603.02603)

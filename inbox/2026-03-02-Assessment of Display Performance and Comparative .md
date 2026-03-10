@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2602.23660
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Assessment of Display Performance and Comparative Evaluation of Web Map Libraries for Extensive 3D Geospatial Data
 > 原文: [https://arxiv.org/abs/2602.23660](https://arxiv.org/abs/2602.23660)

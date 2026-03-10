@@ -4,6 +4,8 @@ source: "Microsoft Research"
 link: https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # CORPGEN advances AI agents for real work
 > 原文: [https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/)

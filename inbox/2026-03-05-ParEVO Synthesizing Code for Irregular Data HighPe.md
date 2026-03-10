@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2603.02510
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution
 > 原文: [https://arxiv.org/abs/2603.02510](https://arxiv.org/abs/2603.02510)

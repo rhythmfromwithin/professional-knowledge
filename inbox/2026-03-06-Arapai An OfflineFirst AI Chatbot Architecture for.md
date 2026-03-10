@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.03339
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Arapai: An Offline-First AI Chatbot Architecture for Low-Connectivity Educational Environments
 > 原文: [https://arxiv.org/abs/2603.03339](https://arxiv.org/abs/2603.03339)

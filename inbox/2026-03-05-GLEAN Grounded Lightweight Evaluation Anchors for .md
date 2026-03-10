@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.02212
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning
 > 原文: [https://arxiv.org/abs/2603.02212](https://arxiv.org/abs/2603.02212)

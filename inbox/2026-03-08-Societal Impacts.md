@@ -4,6 +4,8 @@ source: "Anthropic"
 link: https://www.anthropic.com/research/team/societal-impacts
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Societal Impacts
 > 原文: [https://www.anthropic.com/research/team/societal-impacts](https://www.anthropic.com/research/team/societal-impacts)

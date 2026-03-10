@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.04583
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Overcoming Latency-bound Limitations of Distributed Graph Algorithms using the HPX Runtime System
 > 原文: [https://arxiv.org/abs/2603.04583](https://arxiv.org/abs/2603.04583)

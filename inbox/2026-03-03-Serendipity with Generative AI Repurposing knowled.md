@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2602.23365
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Serendipity with Generative AI: Repurposing knowledge components during polycrisis with a Viable Systems Model approach
 > 原文: [https://arxiv.org/abs/2602.23365](https://arxiv.org/abs/2602.23365)

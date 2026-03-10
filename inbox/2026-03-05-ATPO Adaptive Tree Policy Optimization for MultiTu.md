@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.02216
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue
 > 原文: [https://arxiv.org/abs/2603.02216](https://arxiv.org/abs/2603.02216)

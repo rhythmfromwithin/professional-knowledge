@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.00010
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning and Contextual Stochastic Optimization Framework
 > 原文: [https://arxiv.org/abs/2603.00010](https://arxiv.org/abs/2603.00010)

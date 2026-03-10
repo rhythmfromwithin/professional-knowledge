@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.03592
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # SENTINEL: Stagewise Integrity Verification for Pipeline Parallel Decentralized Training
 > 原文: [https://arxiv.org/abs/2603.03592](https://arxiv.org/abs/2603.03592)

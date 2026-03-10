@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.02345
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection
 > 原文: [https://arxiv.org/abs/2603.02345](https://arxiv.org/abs/2603.02345)

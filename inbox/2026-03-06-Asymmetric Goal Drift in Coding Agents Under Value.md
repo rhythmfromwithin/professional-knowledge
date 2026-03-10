@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.03456
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Asymmetric Goal Drift in Coding Agents Under Value Conflict
 > 原文: [https://arxiv.org/abs/2603.03456](https://arxiv.org/abs/2603.03456)

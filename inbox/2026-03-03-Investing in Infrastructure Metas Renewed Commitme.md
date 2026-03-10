@@ -4,6 +4,8 @@ source: "Meta Engineering"
 link: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Investing in Infrastructure: Meta’s Renewed Commitment to jemalloc
 > 原文: [https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)

@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.03338
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # AI Researchers' Views on Automating AI R&D and Intelligence Explosions
 > 原文: [https://arxiv.org/abs/2603.03338](https://arxiv.org/abs/2603.03338)

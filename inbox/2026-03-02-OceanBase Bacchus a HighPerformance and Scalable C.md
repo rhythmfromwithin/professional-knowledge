@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2602.23571
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud
 > 原文: [https://arxiv.org/abs/2602.23571](https://arxiv.org/abs/2602.23571)

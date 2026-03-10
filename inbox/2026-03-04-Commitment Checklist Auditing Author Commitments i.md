@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.00003
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Commitment Checklist: Auditing Author Commitments in Peer Review
 > 原文: [https://arxiv.org/abs/2603.00003](https://arxiv.org/abs/2603.00003)

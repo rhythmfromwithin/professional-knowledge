@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.02239
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Engineering Reasoning and Instruction (ERI) Benchmark: A Large Taxonomy-driven Dataset for Foundation Models and Agents
 > 原文: [https://arxiv.org/abs/2603.02239](https://arxiv.org/abs/2603.02239)

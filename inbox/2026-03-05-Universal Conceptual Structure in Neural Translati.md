@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.02258
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Universal Conceptual Structure in Neural Translation: Probing NLLB-200's Multilingual Geometry
 > 原文: [https://arxiv.org/abs/2603.02258](https://arxiv.org/abs/2603.02258)

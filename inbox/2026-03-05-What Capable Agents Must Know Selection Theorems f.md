@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.02491
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # What Capable Agents Must Know: Selection Theorems for Robust Decision-Making under Uncertainty
 > 原文: [https://arxiv.org/abs/2603.02491](https://arxiv.org/abs/2603.02491)

@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.03340
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Trustworthy AI Posture (TAIP): A Framework for Continuous AI Assurance of Agentic Systems at Horizontal and Vertical scale
 > 原文: [https://arxiv.org/abs/2603.03340](https://arxiv.org/abs/2603.03340)

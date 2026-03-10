@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.01387
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes
 > 原文: [https://arxiv.org/abs/2603.01387](https://arxiv.org/abs/2603.01387)

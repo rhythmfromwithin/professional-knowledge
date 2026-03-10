@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.02256
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # CamDirector: Towards Long-Term Coherent Video Trajectory Editing
 > 原文: [https://arxiv.org/abs/2603.02256](https://arxiv.org/abs/2603.02256)

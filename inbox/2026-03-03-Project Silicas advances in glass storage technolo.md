@@ -4,6 +4,8 @@ source: "Microsoft Research"
 link: https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Project Silica’s advances in glass storage technology
 > 原文: [https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/](https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/)

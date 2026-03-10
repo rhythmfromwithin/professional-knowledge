@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2602.23391
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Detoxifying LLMs via Representation Erasure-Based Preference Optimization
 > 原文: [https://arxiv.org/abs/2602.23391](https://arxiv.org/abs/2602.23391)

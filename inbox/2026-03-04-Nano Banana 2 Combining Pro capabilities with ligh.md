@@ -4,6 +4,8 @@ source: "DeepMind Blog"
 link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Nano Banana 2: Combining Pro capabilities with lightning-fast speed
 > 原文: [https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/)

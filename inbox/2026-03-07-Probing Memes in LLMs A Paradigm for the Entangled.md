@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.04408
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Probing Memes in LLMs: A Paradigm for the Entangled Evaluation World
 > 原文: [https://arxiv.org/abs/2603.04408](https://arxiv.org/abs/2603.04408)

@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.00429
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Personalities at Play: Probing Alignment in AI Teammates
 > 原文: [https://arxiv.org/abs/2603.00429](https://arxiv.org/abs/2603.00429)

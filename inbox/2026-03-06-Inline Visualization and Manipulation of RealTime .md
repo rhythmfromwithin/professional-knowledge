@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.03605
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs
 > 原文: [https://arxiv.org/abs/2603.03605](https://arxiv.org/abs/2603.03605)

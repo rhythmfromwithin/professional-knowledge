@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.01184
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Scaling of learning time for high dimensional inputs
 > 原文: [https://arxiv.org/abs/2603.01184](https://arxiv.org/abs/2603.01184)

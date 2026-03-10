@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/continuing-microsoft-partnership
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Joint Statement from OpenAI and Microsoft
 > 原文: [https://openai.com/index/continuing-microsoft-partnership](https://openai.com/index/continuing-microsoft-partnership)

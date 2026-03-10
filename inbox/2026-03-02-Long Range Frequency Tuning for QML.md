@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2602.23409
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Long Range Frequency Tuning for QML
 > 原文: [https://arxiv.org/abs/2602.23409](https://arxiv.org/abs/2602.23409)

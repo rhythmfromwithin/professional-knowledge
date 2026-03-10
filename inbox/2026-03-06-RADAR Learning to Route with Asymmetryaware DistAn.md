@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.03388
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # RADAR: Learning to Route with Asymmetry-aware DistAnce Representations
 > 原文: [https://arxiv.org/abs/2603.03388](https://arxiv.org/abs/2603.03388)

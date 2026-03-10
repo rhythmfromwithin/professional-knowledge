@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2602.23647
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair
 > 原文: [https://arxiv.org/abs/2602.23647](https://arxiv.org/abs/2602.23647)

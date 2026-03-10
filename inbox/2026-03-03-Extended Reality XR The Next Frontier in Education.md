@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2602.23601
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Extended Reality (XR): The Next Frontier in Education
 > 原文: [https://arxiv.org/abs/2602.23601](https://arxiv.org/abs/2602.23601)

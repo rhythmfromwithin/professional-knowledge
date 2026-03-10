@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.04440
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # A systematic approach to answering the easy problems of consciousness based on an executable cognitive system
 > 原文: [https://arxiv.org/abs/2603.04440](https://arxiv.org/abs/2603.04440)

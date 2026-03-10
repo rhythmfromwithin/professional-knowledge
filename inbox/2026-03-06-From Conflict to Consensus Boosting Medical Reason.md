@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.03292
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG
 > 原文: [https://arxiv.org/abs/2603.03292](https://arxiv.org/abs/2603.03292)

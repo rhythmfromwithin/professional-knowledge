@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.02420
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Slurry-as-a-Service: A Modest Proposal on Scalable Pluralistic Alignment for Nutrient Optimization
 > 原文: [https://arxiv.org/abs/2603.02420](https://arxiv.org/abs/2603.02420)

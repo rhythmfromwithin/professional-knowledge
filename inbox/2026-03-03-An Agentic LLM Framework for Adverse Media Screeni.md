@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2602.23373
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # An Agentic LLM Framework for Adverse Media Screening in AML Compliance
 > 原文: [https://arxiv.org/abs/2602.23373](https://arxiv.org/abs/2602.23373)

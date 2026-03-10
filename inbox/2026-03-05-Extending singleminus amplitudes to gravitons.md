@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/extending-single-minus-amplitudes-to-gravitons
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Extending single-minus amplitudes to gravitons
 > 原文: [https://openai.com/index/extending-single-minus-amplitudes-to-gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons)

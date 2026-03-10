@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.04701
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Analysis of Terms of Service on Social Media Platforms: Consent Challenges and Assessment Metrics
 > 原文: [https://arxiv.org/abs/2603.04701](https://arxiv.org/abs/2603.04701)

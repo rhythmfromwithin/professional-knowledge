@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2603.05153
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Training and Innovation in Italian Manufacturing Firms
 > 原文: [https://arxiv.org/abs/2603.05153](https://arxiv.org/abs/2603.05153)

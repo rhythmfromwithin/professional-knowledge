@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/balyasny-asset-management
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # How Balyasny Asset Management built an AI research engine for investing
 > 原文: [https://openai.com/index/balyasny-asset-management](https://openai.com/index/balyasny-asset-management)

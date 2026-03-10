@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2602.23376
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Dynamic Personalization Through Continuous Feedback Loops in Interactive AI Systems
 > 原文: [https://arxiv.org/abs/2602.23376](https://arxiv.org/abs/2602.23376)

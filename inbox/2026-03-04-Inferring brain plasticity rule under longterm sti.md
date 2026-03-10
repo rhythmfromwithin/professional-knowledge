@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.00213
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Inferring brain plasticity rule under long-term stimulation with structured recurrent dynamics
 > 原文: [https://arxiv.org/abs/2603.00213](https://arxiv.org/abs/2603.00213)

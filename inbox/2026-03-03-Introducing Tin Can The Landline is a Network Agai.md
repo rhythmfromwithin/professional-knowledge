@@ -4,6 +4,8 @@ source: "Greylock Perspectives"
 link: https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Introducing Tin Can: The Landline is a Network Again
 > 原文: [https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/](https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/)

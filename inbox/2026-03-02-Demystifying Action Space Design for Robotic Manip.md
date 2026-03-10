@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2602.23408
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Demystifying Action Space Design for Robotic Manipulation Policies
 > 原文: [https://arxiv.org/abs/2602.23408](https://arxiv.org/abs/2602.23408)

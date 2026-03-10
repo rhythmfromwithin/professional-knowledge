@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.00164
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection
 > 原文: [https://arxiv.org/abs/2603.00164](https://arxiv.org/abs/2603.00164)

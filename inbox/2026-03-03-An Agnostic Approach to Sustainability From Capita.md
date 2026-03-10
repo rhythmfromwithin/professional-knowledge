@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2602.23402
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # An Agnostic Approach to Sustainability: From Capitals Substitutability to Non-Collapse Dynamics
 > 原文: [https://arxiv.org/abs/2602.23402](https://arxiv.org/abs/2602.23402)

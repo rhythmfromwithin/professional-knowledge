@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.04607
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # A Case Study in Responsible AI-Assisted Video Solutions: Multi-Metric Behavioral Insights in a Public Market Setting
 > 原文: [https://arxiv.org/abs/2603.04607](https://arxiv.org/abs/2603.04607)

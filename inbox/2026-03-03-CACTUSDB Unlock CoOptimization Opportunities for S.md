@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2602.23469
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # CACTUSDB: Unlock Co-Optimization Opportunities for SQL and AI/ML Inferences
 > 原文: [https://arxiv.org/abs/2602.23469](https://arxiv.org/abs/2602.23469)

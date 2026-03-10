@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.00039
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
 > 原文: [https://arxiv.org/abs/2603.00039](https://arxiv.org/abs/2603.00039)

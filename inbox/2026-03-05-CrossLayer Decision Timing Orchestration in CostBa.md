@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.02253
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Cross-Layer Decision Timing Orchestration in Cost-Based Database Systems: Resolving Structural Temporal Misalignment
 > 原文: [https://arxiv.org/abs/2603.02253](https://arxiv.org/abs/2603.02253)

@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2602.23381
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Universality of Shallow and Deep Neural Networks on Non-Euclidean Spaces
 > 原文: [https://arxiv.org/abs/2602.23381](https://arxiv.org/abs/2602.23381)

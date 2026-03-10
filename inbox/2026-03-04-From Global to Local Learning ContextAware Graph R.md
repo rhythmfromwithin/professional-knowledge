@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.00021
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # From Global to Local: Learning Context-Aware Graph Representations for Document Classification and Summarization
 > 原文: [https://arxiv.org/abs/2603.00021](https://arxiv.org/abs/2603.00021)

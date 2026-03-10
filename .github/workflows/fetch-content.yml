@@ -34,13 +34,21 @@ jobs:
     # 在仓库根目录下运行脚本
     - name: Run python script to fetch RSS feed
       run: python scripts/scripts/fetch_rss.py
-      working-directory: ./professional-knowledge # 指定工作目录
+      working-directory: ./professional-knowledge
 
-    # 在仓库根目录下提交和推送
+    # 将新文章发送到 Slack #inbox（已发送过的会自动跳过）
+    - name: Send new articles to Slack inbox
+      run: python scripts/scripts/send_inbox_slack.py
+      working-directory: ./professional-knowledge
+      env:
+        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        SLACK_INBOX_CHANNEL_ID: ${{ secrets.SLACK_INBOX_CHANNEL_ID }}
+
+    # 提交并推送（包含 fetch_rss 新建的 .md 和 send_inbox_slack 写回的 slack_ts）
     - name: Commit and push if it changed
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add -A
         git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
-      working-directory: ./professional-knowledge # 指定工作目录
+      working-directory: ./professional-knowledge

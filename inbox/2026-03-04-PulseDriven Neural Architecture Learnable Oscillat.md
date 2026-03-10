@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2603.00153
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Pulse-Driven Neural Architecture: Learnable Oscillatory Dynamics for Robust Continuous-Time Sequence Processing
 > 原文: [https://arxiv.org/abs/2603.00153](https://arxiv.org/abs/2603.00153)

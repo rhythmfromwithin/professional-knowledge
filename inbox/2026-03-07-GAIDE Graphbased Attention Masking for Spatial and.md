@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.04463
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # GAIDE: Graph-based Attention Masking for Spatial- and Embodiment-aware Motion Planning
 > 原文: [https://arxiv.org/abs/2603.04463](https://arxiv.org/abs/2603.04463)

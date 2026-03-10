@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2603.03201
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # A Dynamical Theory of Sequential Retrieval in Input-Driven Hopfield Networks
 > 原文: [https://arxiv.org/abs/2603.03201](https://arxiv.org/abs/2603.03201)

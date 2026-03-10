@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.03291
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models
 > 原文: [https://arxiv.org/abs/2603.03291](https://arxiv.org/abs/2603.03291)

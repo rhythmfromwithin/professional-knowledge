@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.04457
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography
 > 原文: [https://arxiv.org/abs/2603.04457](https://arxiv.org/abs/2603.04457)

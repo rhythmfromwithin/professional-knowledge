@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2602.23407
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Learning to Generate Secure Code via Token-Level Rewards
 > 原文: [https://arxiv.org/abs/2602.23407](https://arxiv.org/abs/2602.23407)

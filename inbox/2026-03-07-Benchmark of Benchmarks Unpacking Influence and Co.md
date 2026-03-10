@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.04459
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks
 > 原文: [https://arxiv.org/abs/2603.04459](https://arxiv.org/abs/2603.04459)

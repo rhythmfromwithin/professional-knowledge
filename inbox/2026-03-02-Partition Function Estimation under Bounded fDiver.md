@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2602.23535
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Partition Function Estimation under Bounded f-Divergence
 > 原文: [https://arxiv.org/abs/2602.23535](https://arxiv.org/abs/2602.23535)

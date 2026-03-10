@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.02366
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through Play in XR
 > 原文: [https://arxiv.org/abs/2603.02366](https://arxiv.org/abs/2603.02366)

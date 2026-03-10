@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2602.23464
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # 2G2T: Constant-Size, Statistically Sound MSM Outsourcing
 > 原文: [https://arxiv.org/abs/2602.23464](https://arxiv.org/abs/2602.23464)

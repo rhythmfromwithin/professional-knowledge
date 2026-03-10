@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.02460
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Conformal Graph Prediction with Z-Gromov Wasserstein Distances
 > 原文: [https://arxiv.org/abs/2603.02460](https://arxiv.org/abs/2603.02460)

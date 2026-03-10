@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.00477
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Do We Need Tensor Cores for Stencil Computations?
 > 原文: [https://arxiv.org/abs/2603.00477](https://arxiv.org/abs/2603.00477)

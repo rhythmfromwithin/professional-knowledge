@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2603.03465
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # An Intersectional Analysis of Long COVID Prevalence
 > 原文: [https://arxiv.org/abs/2603.03465](https://arxiv.org/abs/2603.03465)

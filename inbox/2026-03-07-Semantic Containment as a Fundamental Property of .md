@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.04407
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Semantic Containment as a Fundamental Property of Emergent Misalignment
 > 原文: [https://arxiv.org/abs/2603.04407](https://arxiv.org/abs/2603.04407)

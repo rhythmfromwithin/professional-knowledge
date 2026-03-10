@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.02640
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Credibility Governance: A Social Mechanism for Collective Self-Correction under Weak Truth Signals
 > 原文: [https://arxiv.org/abs/2603.02640](https://arxiv.org/abs/2603.02640)

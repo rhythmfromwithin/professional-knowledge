@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.02568
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # AI4CAREER: Responsible AI for STEM Career Development at Scale in K-16 Education
 > 原文: [https://arxiv.org/abs/2603.02568](https://arxiv.org/abs/2603.02568)

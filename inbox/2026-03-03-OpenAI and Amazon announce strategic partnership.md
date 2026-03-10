@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/amazon-partnership
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # OpenAI and Amazon announce strategic partnership
 > 原文: [https://openai.com/index/amazon-partnership](https://openai.com/index/amazon-partnership)

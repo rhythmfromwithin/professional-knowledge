@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.04514
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding
 > 原文: [https://arxiv.org/abs/2603.04514](https://arxiv.org/abs/2603.04514)

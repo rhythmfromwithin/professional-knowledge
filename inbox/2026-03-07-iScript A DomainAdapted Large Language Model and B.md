@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.04476
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # iScript: A Domain-Adapted Large Language Model and Benchmark for Physical Design Tcl Script Generation
 > 原文: [https://arxiv.org/abs/2603.04476](https://arxiv.org/abs/2603.04476)

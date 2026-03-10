@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.02417
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Fisher-Geometric Diffusion in Stochastic Gradient Descent: Optimal Rates, Oracle Complexity, and Information-Theoretic Limits
 > 原文: [https://arxiv.org/abs/2603.02417](https://arxiv.org/abs/2603.02417)

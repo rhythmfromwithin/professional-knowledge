@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.00020
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # A User Study on the Suitability of Teleoperation Interfaces for Primitive Manipulation Tasks
 > 原文: [https://arxiv.org/abs/2603.00020](https://arxiv.org/abs/2603.00020)

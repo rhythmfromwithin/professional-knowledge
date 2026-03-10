@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.02636
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Undecided State Dynamics with Many Opinions
 > 原文: [https://arxiv.org/abs/2603.02636](https://arxiv.org/abs/2603.02636)

@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.02263
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Social-JEPA: Emergent Geometric Isomorphism
 > 原文: [https://arxiv.org/abs/2603.02263](https://arxiv.org/abs/2603.02263)

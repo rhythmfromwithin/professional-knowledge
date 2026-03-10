@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.04785
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Towards a B+-tree with Fluctuation-Free Performance
 > 原文: [https://arxiv.org/abs/2603.04785](https://arxiv.org/abs/2603.04785)

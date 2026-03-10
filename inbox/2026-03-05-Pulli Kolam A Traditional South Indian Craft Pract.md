@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.02343
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Pulli Kolam: A Traditional South Indian Craft Practice for Representing Data
 > 原文: [https://arxiv.org/abs/2603.02343](https://arxiv.org/abs/2603.02343)

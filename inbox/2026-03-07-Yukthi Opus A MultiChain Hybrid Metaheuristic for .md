@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2601.01832
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Yukthi Opus: A Multi-Chain Hybrid Metaheuristic for Large-Scale NP-Hard Optimization
 > 原文: [https://arxiv.org/abs/2601.01832](https://arxiv.org/abs/2601.01832)

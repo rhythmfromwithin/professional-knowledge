@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.03345
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Characterization of Phase Transitions in a Lipkin-Meshkov-Glick Quantum Brain Model
 > 原文: [https://arxiv.org/abs/2603.03345](https://arxiv.org/abs/2603.03345)

@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2603.02333
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects
 > 原文: [https://arxiv.org/abs/2603.02333](https://arxiv.org/abs/2603.02333)

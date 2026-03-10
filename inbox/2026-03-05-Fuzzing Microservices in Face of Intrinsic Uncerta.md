@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.02551
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Fuzzing Microservices in Face of Intrinsic Uncertainties
 > 原文: [https://arxiv.org/abs/2603.02551](https://arxiv.org/abs/2603.02551)

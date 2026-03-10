@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.03378
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis
 > 原文: [https://arxiv.org/abs/2603.03378](https://arxiv.org/abs/2603.03378)

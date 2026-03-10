@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2602.23366
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Doc To The Future: Infomorphs for Interactive, Multimodal Document Transformation and Generation
 > 原文: [https://arxiv.org/abs/2602.23366](https://arxiv.org/abs/2602.23366)

@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.02214
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Federated Inference: Toward Privacy-Preserving Collaborative and Incentivized Model Serving
 > 原文: [https://arxiv.org/abs/2603.02214](https://arxiv.org/abs/2603.02214)

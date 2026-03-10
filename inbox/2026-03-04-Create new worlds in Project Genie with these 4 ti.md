@@ -4,6 +4,8 @@ source: "Google AI Blog"
 link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Create new worlds in Project Genie with these 4 tips
 > 原文: [https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/)

@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.02617
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval
 > 原文: [https://arxiv.org/abs/2603.02617](https://arxiv.org/abs/2603.02617)

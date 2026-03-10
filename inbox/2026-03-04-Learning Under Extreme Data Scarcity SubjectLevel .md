@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.00060
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Learning Under Extreme Data Scarcity: Subject-Level Evaluation of Lightweight CNNs for fMRI-Based Prodromal Parkinsons Detection
 > 原文: [https://arxiv.org/abs/2603.00060](https://arxiv.org/abs/2603.00060)

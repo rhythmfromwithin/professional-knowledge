@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.03401
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Beyond Cross-Validation: Adaptive Parameter Selection for Kernel-Based Gradient Descents
 > 原文: [https://arxiv.org/abs/2603.03401](https://arxiv.org/abs/2603.03401)

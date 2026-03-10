@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.04470
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Efficient Autonomous Navigation of a Quadruped Robot in Underground Mines on Edge Hardware
 > 原文: [https://arxiv.org/abs/2603.04470](https://arxiv.org/abs/2603.04470)

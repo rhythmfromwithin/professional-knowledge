@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.04587
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Industrial Survey on Robustness Testing In Cyber Physical Systems
 > 原文: [https://arxiv.org/abs/2603.04587](https://arxiv.org/abs/2603.04587)

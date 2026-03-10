@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.03376
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Comparison of Credential Management Systems Based on the Standards of IEEE, ETSI, and YD/T 3957-2021
 > 原文: [https://arxiv.org/abs/2603.03376](https://arxiv.org/abs/2603.03376)

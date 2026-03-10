@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.03452
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Impact of Localization Errors on Label Quality for Online HD Map Construction
 > 原文: [https://arxiv.org/abs/2603.03452](https://arxiv.org/abs/2603.03452)

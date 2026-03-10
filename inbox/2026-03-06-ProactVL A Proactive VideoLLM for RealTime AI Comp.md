@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.03447
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Proact-VL: A Proactive VideoLLM for Real-Time AI Companions
 > 原文: [https://arxiv.org/abs/2603.03447](https://arxiv.org/abs/2603.03447)

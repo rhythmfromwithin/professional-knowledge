@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.04418
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Decorrelating the Future: Joint Frequency Domain Learning for Spatio-temporal Forecasting
 > 原文: [https://arxiv.org/abs/2603.04418](https://arxiv.org/abs/2603.04418)

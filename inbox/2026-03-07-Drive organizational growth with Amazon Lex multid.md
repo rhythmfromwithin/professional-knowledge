@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline
 > 原文: [https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/](https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/)

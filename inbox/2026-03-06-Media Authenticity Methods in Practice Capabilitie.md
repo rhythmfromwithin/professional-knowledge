@@ -4,6 +4,8 @@ source: "Microsoft Research"
 link: https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions
 > 原文: [https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/)

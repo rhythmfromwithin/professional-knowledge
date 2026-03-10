@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.00048
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # MOSAIC: Unveiling the Moral, Social and Individual Dimensions of Large Language Models
 > 原文: [https://arxiv.org/abs/2603.00048](https://arxiv.org/abs/2603.00048)

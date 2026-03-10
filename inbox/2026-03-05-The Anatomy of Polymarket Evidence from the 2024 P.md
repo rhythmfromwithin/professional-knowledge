@@ -4,6 +4,8 @@ source: "econ.GN - General Economics (AI Economics)"
 link: https://arxiv.org/abs/2603.03136
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # The Anatomy of Polymarket: Evidence from the 2024 Presidential Election
 > 原文: [https://arxiv.org/abs/2603.03136](https://arxiv.org/abs/2603.03136)

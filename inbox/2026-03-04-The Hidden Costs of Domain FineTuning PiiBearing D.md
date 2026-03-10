@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.00061
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # The Hidden Costs of Domain Fine-Tuning: Pii-Bearing Data Degrades Safety and Increases Leakage
 > 原文: [https://arxiv.org/abs/2603.00061](https://arxiv.org/abs/2603.00061)

@@ -4,6 +4,8 @@ source: "cs.CY - Computers and Society"
 link: https://arxiv.org/abs/2603.04555
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Token Taxes: mitigating AGI's economic risks
 > 原文: [https://arxiv.org/abs/2603.04555](https://arxiv.org/abs/2603.04555)

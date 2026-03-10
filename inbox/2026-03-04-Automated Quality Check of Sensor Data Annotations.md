@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.00114
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Automated Quality Check of Sensor Data Annotations
 > 原文: [https://arxiv.org/abs/2603.00114](https://arxiv.org/abs/2603.00114)

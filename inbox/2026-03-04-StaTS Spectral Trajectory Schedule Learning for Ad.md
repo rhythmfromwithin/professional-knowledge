@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.00037
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting with Frequency Guided Denoiser
 > 原文: [https://arxiv.org/abs/2603.00037](https://arxiv.org/abs/2603.00037)

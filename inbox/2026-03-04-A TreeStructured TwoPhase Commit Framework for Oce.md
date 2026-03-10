@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.00866
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # A Tree-Structured Two-Phase Commit Framework for OceanBase: Optimizing Scalability and Consistency
 > 原文: [https://arxiv.org/abs/2603.00866](https://arxiv.org/abs/2603.00866)

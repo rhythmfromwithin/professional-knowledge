@@ -4,6 +4,8 @@ source: "OpenAI Blog"
 link: https://openai.com/index/understanding-ai-and-learning-outcomes
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Understanding AI and learning outcomes
 > 原文: [https://openai.com/index/understanding-ai-and-learning-outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes)

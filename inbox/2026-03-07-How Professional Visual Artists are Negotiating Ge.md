@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.04537
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # How Professional Visual Artists are Negotiating Generative AI in the Workplace
 > 原文: [https://arxiv.org/abs/2603.04537](https://arxiv.org/abs/2603.04537)

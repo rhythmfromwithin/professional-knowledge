@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2602.23758
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Hestia: Hyperthread-Level Scheduling for Cloud Microservices with Interference-Aware Attention
 > 原文: [https://arxiv.org/abs/2602.23758](https://arxiv.org/abs/2602.23758)

@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.03418
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # mHC-HSI: Clustering-Guided Hyper-Connection Mamba for Hyperspectral Image Classification
 > 原文: [https://arxiv.org/abs/2603.03418](https://arxiv.org/abs/2603.03418)

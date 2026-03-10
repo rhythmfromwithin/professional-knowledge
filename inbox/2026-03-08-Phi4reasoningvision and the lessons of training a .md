@@ -4,6 +4,8 @@ source: "Microsoft Research"
 link: https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
 > 原文: [https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)

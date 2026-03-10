@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2603.02443
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control
 > 原文: [https://arxiv.org/abs/2603.02443](https://arxiv.org/abs/2603.02443)

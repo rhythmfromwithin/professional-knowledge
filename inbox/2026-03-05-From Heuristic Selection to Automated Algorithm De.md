@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2603.02792
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # From Heuristic Selection to Automated Algorithm Design: LLMs Benefit from Strong Priors
 > 原文: [https://arxiv.org/abs/2603.02792](https://arxiv.org/abs/2603.02792)

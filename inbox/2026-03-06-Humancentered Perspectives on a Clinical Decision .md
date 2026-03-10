@@ -4,6 +4,8 @@ source: "cs.HC - Human-Computer Interaction"
 link: https://arxiv.org/abs/2603.03467
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care
 > 原文: [https://arxiv.org/abs/2603.03467](https://arxiv.org/abs/2603.03467)

@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2602.23999
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index Build and Search
 > 原文: [https://arxiv.org/abs/2602.23999](https://arxiv.org/abs/2602.23999)

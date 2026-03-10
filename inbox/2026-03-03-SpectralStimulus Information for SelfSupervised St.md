@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2407.06195
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Spectral-Stimulus Information for Self-Supervised Stimulus Encoding
 > 原文: [https://arxiv.org/abs/2407.06195](https://arxiv.org/abs/2407.06195)

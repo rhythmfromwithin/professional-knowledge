@@ -4,6 +4,8 @@ source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2603.03304
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based Role Transport
 > 原文: [https://arxiv.org/abs/2603.03304](https://arxiv.org/abs/2603.03304)

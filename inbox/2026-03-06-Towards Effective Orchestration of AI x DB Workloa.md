@@ -4,6 +4,8 @@ source: "cs.DB - Databases"
 link: https://arxiv.org/abs/2603.03772
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Towards Effective Orchestration of AI x DB Workloads
 > 原文: [https://arxiv.org/abs/2603.03772](https://arxiv.org/abs/2603.03772)

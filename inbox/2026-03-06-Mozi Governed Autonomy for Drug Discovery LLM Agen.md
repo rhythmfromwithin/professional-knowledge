@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.03655
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Mozi: Governed Autonomy for Drug Discovery LLM Agents
 > 原文: [https://arxiv.org/abs/2603.03655](https://arxiv.org/abs/2603.03655)

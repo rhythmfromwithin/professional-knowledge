@@ -4,6 +4,8 @@ source: "cs.CV - Computer Vision"
 link: https://arxiv.org/abs/2603.03437
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning
 > 原文: [https://arxiv.org/abs/2603.03437](https://arxiv.org/abs/2603.03437)

@@ -4,6 +4,8 @@ source: "cs.DC - Distributed Computing"
 link: https://arxiv.org/abs/2603.04621
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # DuaLip-GPU Technical Report
 > 原文: [https://arxiv.org/abs/2603.04621](https://arxiv.org/abs/2603.04621)

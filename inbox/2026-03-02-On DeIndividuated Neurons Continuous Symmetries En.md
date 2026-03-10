@@ -4,6 +4,8 @@ source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2602.23405
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # On De-Individuated Neurons: Continuous Symmetries Enable Dynamic Topologies
 > 原文: [https://arxiv.org/abs/2602.23405](https://arxiv.org/abs/2602.23405)

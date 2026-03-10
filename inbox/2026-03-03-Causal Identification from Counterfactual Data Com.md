@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2602.23541
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Causal Identification from Counterfactual Data: Completeness and Bounding Results
 > 原文: [https://arxiv.org/abs/2602.23541](https://arxiv.org/abs/2602.23541)

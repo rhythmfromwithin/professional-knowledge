@@ -4,6 +4,8 @@ source: "DeepMind Blog"
 link: https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Gemini 3.1 Pro: A smarter model for your most complex tasks
 > 原文: [https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/)

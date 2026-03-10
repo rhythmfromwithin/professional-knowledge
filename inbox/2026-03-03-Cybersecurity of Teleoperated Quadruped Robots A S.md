@@ -4,6 +4,8 @@ source: "cs.RO - Robotics"
 link: https://arxiv.org/abs/2602.23404
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Cybersecurity of Teleoperated Quadruped Robots: A Systematic Survey of Vulnerabilities, Threats, and Open Defense Gaps
 > 原文: [https://arxiv.org/abs/2602.23404](https://arxiv.org/abs/2602.23404)

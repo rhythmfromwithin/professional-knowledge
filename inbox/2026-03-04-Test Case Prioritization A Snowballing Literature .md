@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2603.00183
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Test Case Prioritization: A Snowballing Literature Review and TCPFramework with Approach Combinators
 > 原文: [https://arxiv.org/abs/2603.00183](https://arxiv.org/abs/2603.00183)

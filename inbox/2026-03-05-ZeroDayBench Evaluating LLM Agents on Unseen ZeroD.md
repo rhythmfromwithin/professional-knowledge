@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.02297
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense
 > 原文: [https://arxiv.org/abs/2603.02297](https://arxiv.org/abs/2603.02297)

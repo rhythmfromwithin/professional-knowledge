@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.04525
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # The Volterra signature
 > 原文: [https://arxiv.org/abs/2603.04525](https://arxiv.org/abs/2603.04525)

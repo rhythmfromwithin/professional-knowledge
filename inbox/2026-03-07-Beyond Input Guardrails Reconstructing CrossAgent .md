@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.04469
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection
 > 原文: [https://arxiv.org/abs/2603.04469](https://arxiv.org/abs/2603.04469)

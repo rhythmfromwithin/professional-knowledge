@@ -4,6 +4,8 @@ source: "AWS Blog"
 link: https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Learnings from COBOL modernization in the real world
 > 原文: [https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/](https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/)

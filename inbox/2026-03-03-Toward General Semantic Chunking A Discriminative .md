@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2602.23370
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Toward General Semantic Chunking: A Discriminative Framework for Ultra-Long Documents
 > 原文: [https://arxiv.org/abs/2602.23370](https://arxiv.org/abs/2602.23370)

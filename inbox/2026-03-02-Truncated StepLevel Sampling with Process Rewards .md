@@ -4,6 +4,8 @@ source: "cs.CL - Computation and Language (NLP)"
 link: https://arxiv.org/abs/2602.23440
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
 > 原文: [https://arxiv.org/abs/2602.23440](https://arxiv.org/abs/2602.23440)

@@ -4,6 +4,8 @@ source: "cs.AI - Artificial Intelligence"
 link: https://arxiv.org/abs/2603.04448
 priority: high
 status: unread
+interest: medium
+next_step: skim
 ---
 # SkillNet: Create, Evaluate, and Connect AI Skills
 > 原文: [https://arxiv.org/abs/2603.04448](https://arxiv.org/abs/2603.04448)

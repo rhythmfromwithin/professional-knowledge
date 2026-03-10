@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.03369
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Maude-HCS: Model Checking the Undetectability-Performance Tradeoffs of Hidden Communication Systems
 > 原文: [https://arxiv.org/abs/2603.03369](https://arxiv.org/abs/2603.03369)

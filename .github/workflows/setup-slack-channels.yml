@@ -1,0 +1,29 @@
+name: Setup Slack Channels
+
+on:
+  workflow_dispatch: # Run once manually to create the 4 Slack channels
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: 'professional-knowledge'
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install slack-sdk
+        working-directory: ./professional-knowledge
+
+      - name: Create Slack channels
+        run: python scripts/scripts/setup_slack_channels.py
+        working-directory: ./professional-knowledge
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}

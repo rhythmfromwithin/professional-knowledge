@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2603.03343
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Neuro-Symbolic Decoding of Neural Activity
 > 原文: [https://arxiv.org/abs/2603.03343](https://arxiv.org/abs/2603.03343)

@@ -4,6 +4,8 @@ source: "q-bio.NC - Neurons and Cognition"
 link: https://arxiv.org/abs/2602.23382
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # Audited calibration under regime shift as a computational test of support-structured broadcast
 > 原文: [https://arxiv.org/abs/2602.23382](https://arxiv.org/abs/2602.23382)

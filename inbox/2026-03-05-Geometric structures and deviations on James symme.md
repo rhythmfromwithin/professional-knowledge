@@ -4,6 +4,8 @@ source: "stat.ML - Machine Learning (Statistics)"
 link: https://arxiv.org/abs/2603.02483
 priority: medium
 status: unread
+interest: medium
+next_step: skim
 ---
 # Geometric structures and deviations on James' symmetric positive-definite matrix bicone domain
 > 原文: [https://arxiv.org/abs/2603.02483](https://arxiv.org/abs/2603.02483)

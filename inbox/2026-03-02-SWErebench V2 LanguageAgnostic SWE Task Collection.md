@@ -4,6 +4,8 @@ source: "cs.SE - Software Engineering"
 link: https://arxiv.org/abs/2602.23866
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale
 > 原文: [https://arxiv.org/abs/2602.23866](https://arxiv.org/abs/2602.23866)

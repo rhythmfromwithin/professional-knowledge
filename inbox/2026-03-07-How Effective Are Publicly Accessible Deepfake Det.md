@@ -4,6 +4,8 @@ source: "cs.CR - Cryptography and Security"
 link: https://arxiv.org/abs/2603.04456
 priority: low
 status: unread
+interest: medium
+next_step: skim
 ---
 # How Effective Are Publicly Accessible Deepfake Detection Tools? A Comparative Evaluation of Open-Source and Free-to-Use Platforms
 > 原文: [https://arxiv.org/abs/2603.04456](https://arxiv.org/abs/2603.04456)
