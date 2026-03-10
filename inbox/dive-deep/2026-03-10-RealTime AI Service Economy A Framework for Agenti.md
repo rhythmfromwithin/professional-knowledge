@@ -1,7 +1,7 @@
 ---
-interest: medium
+interest: high
 link: https://arxiv.org/abs/2603.05614
-next_step: skim
+next_step: deep_read
 priority: high
 slack_ts: '1773132509.465769'
 source: cs.AI - Artificial Intelligence
