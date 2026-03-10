@@ -1,11 +1,13 @@
 ---
-title: "Analysis of Terms of Service on Social Media Platforms: Consent Challenges and Assessment Metrics"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.04701
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04701
 next_step: skim
+priority: medium
+slack_ts: '1773132473.427749'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Analysis of Terms of Service on Social Media Platforms: Consent Challenges
+  and Assessment Metrics'
 ---
 # Analysis of Terms of Service on Social Media Platforms: Consent Challenges and Assessment Metrics
 > 原文: [https://arxiv.org/abs/2603.04701](https://arxiv.org/abs/2603.04701)

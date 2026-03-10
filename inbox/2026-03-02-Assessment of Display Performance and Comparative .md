@@ -1,11 +1,13 @@
 ---
-title: "Assessment of Display Performance and Comparative Evaluation of Web Map Libraries for Extensive 3D Geospatial Data"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2602.23660
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23660
 next_step: skim
+priority: medium
+slack_ts: '1773132409.110189'
+source: cs.CY - Computers and Society
+status: unread
+title: Assessment of Display Performance and Comparative Evaluation of Web Map Libraries
+  for Extensive 3D Geospatial Data
 ---
 # Assessment of Display Performance and Comparative Evaluation of Web Map Libraries for Extensive 3D Geospatial Data
 > 原文: [https://arxiv.org/abs/2602.23660](https://arxiv.org/abs/2602.23660)

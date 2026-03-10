@@ -1,11 +1,12 @@
 ---
-title: "Large model inference container – latest capabilities and performance enhancements"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/
 next_step: skim
+priority: high
+slack_ts: '1773132415.552019'
+source: AWS Blog
+status: unread
+title: Large model inference container – latest capabilities and performance enhancements
 ---
 # Large model inference container – latest capabilities and performance enhancements
 > 原文: [https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/](https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/)

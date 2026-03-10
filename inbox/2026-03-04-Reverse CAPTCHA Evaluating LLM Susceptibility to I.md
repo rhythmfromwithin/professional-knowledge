@@ -1,11 +1,13 @@
 ---
-title: "Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.00164
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00164
 next_step: skim
+priority: low
+slack_ts: '1773132445.384419'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction
+  Injection'
 ---
 # Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection
 > 原文: [https://arxiv.org/abs/2603.00164](https://arxiv.org/abs/2603.00164)

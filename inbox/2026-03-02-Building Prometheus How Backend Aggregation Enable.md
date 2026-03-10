@@ -1,11 +1,12 @@
 ---
-title: "Building Prometheus: How Backend Aggregation Enables Gigawatt-Scale AI Clusters"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/
 next_step: skim
+priority: medium
+slack_ts: '1773132410.012109'
+source: Meta Engineering
+status: unread
+title: 'Building Prometheus: How Backend Aggregation Enables Gigawatt-Scale AI Clusters'
 ---
 # Building Prometheus: How Backend Aggregation Enables Gigawatt-Scale AI Clusters
 > 原文: [https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/](https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/)

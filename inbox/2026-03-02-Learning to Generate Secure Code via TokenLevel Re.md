@@ -1,11 +1,12 @@
 ---
-title: "Learning to Generate Secure Code via Token-Level Rewards"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2602.23407
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23407
 next_step: skim
+priority: low
+slack_ts: '1773132415.805849'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Learning to Generate Secure Code via Token-Level Rewards
 ---
 # Learning to Generate Secure Code via Token-Level Rewards
 > 原文: [https://arxiv.org/abs/2602.23407](https://arxiv.org/abs/2602.23407)

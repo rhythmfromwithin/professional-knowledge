@@ -1,11 +1,12 @@
 ---
-title: "Multi-Agent-Based Simulation of Archaeological Mobility in Uneven Landscapes"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.03390
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03390
 next_step: skim
+priority: medium
+slack_ts: '1773132468.395799'
+source: cs.RO - Robotics
+status: unread
+title: Multi-Agent-Based Simulation of Archaeological Mobility in Uneven Landscapes
 ---
 # Multi-Agent-Based Simulation of Archaeological Mobility in Uneven Landscapes
 > 原文: [https://arxiv.org/abs/2603.03390](https://arxiv.org/abs/2603.03390)

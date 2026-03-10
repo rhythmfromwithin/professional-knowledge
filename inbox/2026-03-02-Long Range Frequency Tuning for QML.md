@@ -1,11 +1,12 @@
 ---
-title: "Long Range Frequency Tuning for QML"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2602.23409
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23409
 next_step: skim
+priority: high
+slack_ts: '1773132416.401729'
+source: cs.LG - Machine Learning
+status: unread
+title: Long Range Frequency Tuning for QML
 ---
 # Long Range Frequency Tuning for QML
 > 原文: [https://arxiv.org/abs/2602.23409](https://arxiv.org/abs/2602.23409)

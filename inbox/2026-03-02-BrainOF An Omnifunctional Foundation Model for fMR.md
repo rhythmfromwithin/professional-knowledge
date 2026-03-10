@@ -1,11 +1,12 @@
 ---
-title: "Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2602.23410
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23410
 next_step: skim
+priority: low
+slack_ts: '1773132409.677259'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG'
 ---
 # Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG
 > 原文: [https://arxiv.org/abs/2602.23410](https://arxiv.org/abs/2602.23410)

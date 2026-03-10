@@ -1,11 +1,13 @@
 ---
-title: "Employment, Input-Output Linkages, and the Energy Transition in California's Top Oil-Producing Region"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2602.23462
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23462
 next_step: skim
+priority: low
+slack_ts: '1773132412.615089'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Employment, Input-Output Linkages, and the Energy Transition in California's
+  Top Oil-Producing Region
 ---
 # Employment, Input-Output Linkages, and the Energy Transition in California's Top Oil-Producing Region
 > 原文: [https://arxiv.org/abs/2602.23462](https://arxiv.org/abs/2602.23462)

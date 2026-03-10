@@ -1,11 +1,12 @@
 ---
-title: "Semantic Containment as a Fundamental Property of Emergent Misalignment"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.04407
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04407
 next_step: skim
+priority: high
+slack_ts: '1773132482.403379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Semantic Containment as a Fundamental Property of Emergent Misalignment
 ---
 # Semantic Containment as a Fundamental Property of Emergent Misalignment
 > 原文: [https://arxiv.org/abs/2603.04407](https://arxiv.org/abs/2603.04407)

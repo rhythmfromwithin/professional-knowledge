@@ -1,11 +1,13 @@
 ---
-title: "Space-efficient B-tree Implementation for Memory-Constrained Flash Embedded Devices"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.05632
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05632
 next_step: skim
+priority: low
+slack_ts: '1773132511.470939'
+source: cs.DB - Databases
+status: unread
+title: Space-efficient B-tree Implementation for Memory-Constrained Flash Embedded
+  Devices
 ---
 # Space-efficient B-tree Implementation for Memory-Constrained Flash Embedded Devices
 > 原文: [https://arxiv.org/abs/2603.05632](https://arxiv.org/abs/2603.05632)

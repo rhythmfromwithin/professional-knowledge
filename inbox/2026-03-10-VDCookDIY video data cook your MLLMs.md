@@ -1,11 +1,12 @@
 ---
-title: "VDCook:DIY video data cook your MLLMs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.05539
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05539
 next_step: skim
+priority: high
+slack_ts: '1773132513.437719'
+source: cs.LG - Machine Learning
+status: unread
+title: VDCook:DIY video data cook your MLLMs
 ---
 # VDCook:DIY video data cook your MLLMs
 > 原文: [https://arxiv.org/abs/2603.05539](https://arxiv.org/abs/2603.05539)

@@ -1,11 +1,12 @@
 ---
-title: "Detoxifying LLMs via Representation Erasure-Based Preference Optimization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2602.23391
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23391
 next_step: skim
+priority: high
+slack_ts: '1773132411.877499'
+source: cs.LG - Machine Learning
+status: unread
+title: Detoxifying LLMs via Representation Erasure-Based Preference Optimization
 ---
 # Detoxifying LLMs via Representation Erasure-Based Preference Optimization
 > 原文: [https://arxiv.org/abs/2602.23391](https://arxiv.org/abs/2602.23391)

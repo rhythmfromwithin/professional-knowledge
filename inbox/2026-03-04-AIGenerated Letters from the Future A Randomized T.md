@@ -1,11 +1,13 @@
 ---
-title: "AI-Generated Letters from the Future: A Randomized Test of Personalized Climate Communication"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.00050
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00050
 next_step: skim
+priority: medium
+slack_ts: '1773132435.409629'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI-Generated Letters from the Future: A Randomized Test of Personalized Climate
+  Communication'
 ---
 # AI-Generated Letters from the Future: A Randomized Test of Personalized Climate Communication
 > 原文: [https://arxiv.org/abs/2603.00050](https://arxiv.org/abs/2603.00050)

@@ -1,11 +1,13 @@
 ---
-title: "Beyond Cross-Validation: Adaptive Parameter Selection for Kernel-Based Gradient Descents"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.03401
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03401
 next_step: skim
+priority: medium
+slack_ts: '1773132462.376389'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Beyond Cross-Validation: Adaptive Parameter Selection for Kernel-Based Gradient
+  Descents'
 ---
 # Beyond Cross-Validation: Adaptive Parameter Selection for Kernel-Based Gradient Descents
 > 原文: [https://arxiv.org/abs/2603.03401](https://arxiv.org/abs/2603.03401)

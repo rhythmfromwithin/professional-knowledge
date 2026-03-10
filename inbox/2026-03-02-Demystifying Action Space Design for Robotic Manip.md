@@ -1,11 +1,12 @@
 ---
-title: "Demystifying Action Space Design for Robotic Manipulation Policies"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2602.23408
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23408
 next_step: skim
+priority: medium
+slack_ts: '1773132411.486359'
+source: cs.RO - Robotics
+status: unread
+title: Demystifying Action Space Design for Robotic Manipulation Policies
 ---
 # Demystifying Action Space Design for Robotic Manipulation Policies
 > 原文: [https://arxiv.org/abs/2602.23408](https://arxiv.org/abs/2602.23408)

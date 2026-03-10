@@ -1,11 +1,13 @@
 ---
-title: "Joint Sensor Deployment and Physics-Informed Graph Transformer for Smart Grid Attack Detection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.00085
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00085
 next_step: skim
+priority: low
+slack_ts: '1773132442.359739'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Joint Sensor Deployment and Physics-Informed Graph Transformer for Smart Grid
+  Attack Detection
 ---
 # Joint Sensor Deployment and Physics-Informed Graph Transformer for Smart Grid Attack Detection
 > 原文: [https://arxiv.org/abs/2603.00085](https://arxiv.org/abs/2603.00085)

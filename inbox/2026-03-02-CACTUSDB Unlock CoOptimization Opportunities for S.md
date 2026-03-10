@@ -1,11 +1,12 @@
 ---
-title: "CACTUSDB: Unlock Co-Optimization Opportunities for SQL and AI/ML Inferences"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2602.23469
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23469
 next_step: skim
+priority: low
+slack_ts: '1773132410.387999'
+source: cs.DB - Databases
+status: unread
+title: 'CACTUSDB: Unlock Co-Optimization Opportunities for SQL and AI/ML Inferences'
 ---
 # CACTUSDB: Unlock Co-Optimization Opportunities for SQL and AI/ML Inferences
 > 原文: [https://arxiv.org/abs/2602.23469](https://arxiv.org/abs/2602.23469)

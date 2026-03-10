@@ -1,11 +1,13 @@
 ---
-title: "Beyond Static Instruction: A Multi-agent AI Framework for Adaptive Augmented Reality Robot Training"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.00016
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00016
 next_step: skim
+priority: medium
+slack_ts: '1773132437.594999'
+source: cs.RO - Robotics
+status: unread
+title: 'Beyond Static Instruction: A Multi-agent AI Framework for Adaptive Augmented
+  Reality Robot Training'
 ---
 # Beyond Static Instruction: A Multi-agent AI Framework for Adaptive Augmented Reality Robot Training
 > 原文: [https://arxiv.org/abs/2603.00016](https://arxiv.org/abs/2603.00016)

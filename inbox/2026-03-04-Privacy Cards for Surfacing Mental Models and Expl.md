@@ -1,11 +1,13 @@
 ---
-title: "Privacy Cards for Surfacing Mental Models and Exploring Privacy Concerns: A Case Study of Voice-First Ambient Interfaces with Older Adults"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.00384
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00384
 next_step: skim
+priority: low
+slack_ts: '1773132444.499639'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Privacy Cards for Surfacing Mental Models and Exploring Privacy Concerns:
+  A Case Study of Voice-First Ambient Interfaces with Older Adults'
 ---
 # Privacy Cards for Surfacing Mental Models and Exploring Privacy Concerns: A Case Study of Voice-First Ambient Interfaces with Older Adults
 > 原文: [https://arxiv.org/abs/2603.00384](https://arxiv.org/abs/2603.00384)

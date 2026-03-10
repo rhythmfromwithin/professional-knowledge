@@ -1,11 +1,13 @@
 ---
-title: "Universal Conceptual Structure in Neural Translation: Probing NLLB-200's Multilingual Geometry"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.02258
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02258
 next_step: skim
+priority: high
+slack_ts: '1773132459.381369'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Universal Conceptual Structure in Neural Translation: Probing NLLB-200''s
+  Multilingual Geometry'
 ---
 # Universal Conceptual Structure in Neural Translation: Probing NLLB-200's Multilingual Geometry
 > 原文: [https://arxiv.org/abs/2603.02258](https://arxiv.org/abs/2603.02258)

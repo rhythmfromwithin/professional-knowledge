@@ -1,11 +1,13 @@
 ---
-title: "Deterministic Preprocessing and Interpretable Fuzzy Banding for Cost-per-Student Reporting from Extracted Records"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.04905
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04905
 next_step: skim
+priority: low
+slack_ts: '1773132476.422109'
+source: cs.DB - Databases
+status: unread
+title: Deterministic Preprocessing and Interpretable Fuzzy Banding for Cost-per-Student
+  Reporting from Extracted Records
 ---
 # Deterministic Preprocessing and Interpretable Fuzzy Banding for Cost-per-Student Reporting from Extracted Records
 > 原文: [https://arxiv.org/abs/2603.04905](https://arxiv.org/abs/2603.04905)

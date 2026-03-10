@@ -1,11 +1,13 @@
 ---
-title: "Equity Implications of Federal-Local Cost-Sharing in Flood Buyouts: A Game-Theoretic Analysis with Heterogeneous Homeowners"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2602.23379
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23379
 next_step: skim
+priority: low
+slack_ts: '1773132427.472239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Equity Implications of Federal-Local Cost-Sharing in Flood Buyouts: A Game-Theoretic
+  Analysis with Heterogeneous Homeowners'
 ---
 # Equity Implications of Federal-Local Cost-Sharing in Flood Buyouts: A Game-Theoretic Analysis with Heterogeneous Homeowners
 > 原文: [https://arxiv.org/abs/2602.23379](https://arxiv.org/abs/2602.23379)

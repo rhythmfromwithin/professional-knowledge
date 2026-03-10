@@ -1,11 +1,12 @@
 ---
-title: "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.00285
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00285
 next_step: skim
+priority: high
+slack_ts: '1773132447.476729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?'
 ---
 # TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?
 > 原文: [https://arxiv.org/abs/2603.00285](https://arxiv.org/abs/2603.00285)

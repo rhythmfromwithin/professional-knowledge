@@ -1,11 +1,13 @@
 ---
-title: "PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through Play in XR"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.02366
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02366
 next_step: skim
+priority: low
+slack_ts: '1773132456.386089'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through
+  Play in XR'
 ---
 # PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through Play in XR
 > 原文: [https://arxiv.org/abs/2603.02366](https://arxiv.org/abs/2603.02366)

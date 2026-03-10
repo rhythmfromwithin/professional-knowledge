@@ -1,11 +1,13 @@
 ---
-title: "Audited calibration under regime shift as a computational test of support-structured broadcast"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2602.23382
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23382
 next_step: skim
+priority: low
+slack_ts: '1773132409.305589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Audited calibration under regime shift as a computational test of support-structured
+  broadcast
 ---
 # Audited calibration under regime shift as a computational test of support-structured broadcast
 > 原文: [https://arxiv.org/abs/2602.23382](https://arxiv.org/abs/2602.23382)

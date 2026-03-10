@@ -1,11 +1,13 @@
 ---
-title: "SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust Defense Against Memory Poisoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.02240
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02240
 next_step: skim
+priority: high
+slack_ts: '1773132458.427559'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust
+  Defense Against Memory Poisoning'
 ---
 # SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust Defense Against Memory Poisoning
 > 原文: [https://arxiv.org/abs/2603.02240](https://arxiv.org/abs/2603.02240)

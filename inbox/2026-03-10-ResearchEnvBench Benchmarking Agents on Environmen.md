@@ -1,0 +1,14 @@
+---
+title: "ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2603.06739
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution
+> 原文: [https://arxiv.org/abs/2603.06739](https://arxiv.org/abs/2603.06739)
+
+arXiv:2603.06739v1 Announce Type: new
+Abstract: Autonomous agents are increasingly expected to support scientific research, and recent benchmarks report progress in code repair and autonomous experimentation. However, these evaluations typically assume a pre-configured execution environment, which requires resolving complex software dependencies, aligning hardware and framework versions, and configuring distributed execution, yet this capability remains largely unbenchmarked. We introduce ResearchEnvBench, a benchmark for environment synthesis in research code execution. Given a research repository, documentation, and a target execution setting, agents must construct an environment that successfully executes at runtime. Evaluations on diverse research repositories reveal a substantial gap in current SOTA agents, with failures dominated by incomplete dependency resolution and brittle version coupling. ResearchEnvBench provides a realistic testbed for advancing autonomous agents toward reproducible scientific research.

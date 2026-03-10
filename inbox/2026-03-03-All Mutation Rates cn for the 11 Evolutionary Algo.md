@@ -1,11 +1,12 @@
 ---
-title: "All Mutation Rates $c/n$ for the $(1+1)$ Evolutionary Algorithm"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2602.23573
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23573
 next_step: skim
+priority: low
+slack_ts: '1773132423.414899'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: All Mutation Rates $c/n$ for the $(1+1)$ Evolutionary Algorithm
 ---
 # All Mutation Rates $c/n$ for the $(1+1)$ Evolutionary Algorithm
 > 原文: [https://arxiv.org/abs/2602.23573](https://arxiv.org/abs/2602.23573)

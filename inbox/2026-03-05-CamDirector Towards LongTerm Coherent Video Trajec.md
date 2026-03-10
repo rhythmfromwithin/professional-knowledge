@@ -1,11 +1,12 @@
 ---
-title: "CamDirector: Towards Long-Term Coherent Video Trajectory Editing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.02256
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02256
 next_step: skim
+priority: medium
+slack_ts: '1773132450.576749'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CamDirector: Towards Long-Term Coherent Video Trajectory Editing'
 ---
 # CamDirector: Towards Long-Term Coherent Video Trajectory Editing
 > 原文: [https://arxiv.org/abs/2603.02256](https://arxiv.org/abs/2603.02256)

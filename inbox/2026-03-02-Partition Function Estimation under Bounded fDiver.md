@@ -1,11 +1,12 @@
 ---
-title: "Partition Function Estimation under Bounded f-Divergence"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2602.23535
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23535
 next_step: skim
+priority: medium
+slack_ts: '1773132418.566199'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Partition Function Estimation under Bounded f-Divergence
 ---
 # Partition Function Estimation under Bounded f-Divergence
 > 原文: [https://arxiv.org/abs/2602.23535](https://arxiv.org/abs/2602.23535)

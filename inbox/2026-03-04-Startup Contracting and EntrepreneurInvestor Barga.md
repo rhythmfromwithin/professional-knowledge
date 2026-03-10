@@ -1,11 +1,12 @@
 ---
-title: "Startup Contracting and Entrepreneur-Investor Bargaining"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.00706
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00706
 next_step: skim
+priority: low
+slack_ts: '1773132446.486469'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Startup Contracting and Entrepreneur-Investor Bargaining
 ---
 # Startup Contracting and Entrepreneur-Investor Bargaining
 > 原文: [https://arxiv.org/abs/2603.00706](https://arxiv.org/abs/2603.00706)

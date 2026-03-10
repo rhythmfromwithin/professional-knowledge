@@ -1,11 +1,12 @@
 ---
-title: "RADAR: Learning to Route with Asymmetry-aware DistAnce Representations"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.03388
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03388
 next_step: skim
+priority: high
+slack_ts: '1773132469.427619'
+source: cs.LG - Machine Learning
+status: unread
+title: 'RADAR: Learning to Route with Asymmetry-aware DistAnce Representations'
 ---
 # RADAR: Learning to Route with Asymmetry-aware DistAnce Representations
 > 原文: [https://arxiv.org/abs/2603.03388](https://arxiv.org/abs/2603.03388)

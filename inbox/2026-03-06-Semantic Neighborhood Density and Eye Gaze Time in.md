@@ -1,11 +1,12 @@
 ---
-title: "Semantic Neighborhood Density and Eye Gaze Time in Human Programmer Attention"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.03566
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03566
 next_step: skim
+priority: low
+slack_ts: '1773132470.376119'
+source: cs.SE - Software Engineering
+status: unread
+title: Semantic Neighborhood Density and Eye Gaze Time in Human Programmer Attention
 ---
 # Semantic Neighborhood Density and Eye Gaze Time in Human Programmer Attention
 > 原文: [https://arxiv.org/abs/2603.03566](https://arxiv.org/abs/2603.03566)

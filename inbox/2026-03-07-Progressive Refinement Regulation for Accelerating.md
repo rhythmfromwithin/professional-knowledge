@@ -1,11 +1,13 @@
 ---
-title: "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.04514
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04514
 next_step: skim
+priority: high
+slack_ts: '1773132481.559609'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Progressive Refinement Regulation for Accelerating Diffusion Language Model
+  Decoding
 ---
 # Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding
 > 原文: [https://arxiv.org/abs/2603.04514](https://arxiv.org/abs/2603.04514)

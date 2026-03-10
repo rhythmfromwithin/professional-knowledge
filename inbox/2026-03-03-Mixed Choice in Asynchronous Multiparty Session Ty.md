@@ -1,11 +1,12 @@
 ---
-title: "Mixed Choice in Asynchronous Multiparty Session Types"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2602.23927
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23927
 next_step: skim
+priority: medium
+slack_ts: '1773132430.379209'
+source: cs.DC - Distributed Computing
+status: unread
+title: Mixed Choice in Asynchronous Multiparty Session Types
 ---
 # Mixed Choice in Asynchronous Multiparty Session Types
 > 原文: [https://arxiv.org/abs/2602.23927](https://arxiv.org/abs/2602.23927)

@@ -1,11 +1,13 @@
 ---
-title: "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.00309
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00309
 next_step: skim
+priority: high
+slack_ts: '1773132439.444859'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic
+  Decision Paths'
 ---
 # DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths
 > 原文: [https://arxiv.org/abs/2603.00309](https://arxiv.org/abs/2603.00309)

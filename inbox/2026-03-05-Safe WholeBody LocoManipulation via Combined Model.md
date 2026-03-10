@@ -1,11 +1,12 @@
 ---
-title: "Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.02443
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02443
 next_step: skim
+priority: medium
+slack_ts: '1773132457.414409'
+source: cs.RO - Robotics
+status: unread
+title: Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control
 ---
 # Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control
 > 原文: [https://arxiv.org/abs/2603.02443](https://arxiv.org/abs/2603.02443)

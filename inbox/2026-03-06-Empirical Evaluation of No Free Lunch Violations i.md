@@ -1,11 +1,12 @@
 ---
-title: "Empirical Evaluation of No Free Lunch Violations in Permutation-Based Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.03613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03613
 next_step: skim
+priority: low
+slack_ts: '1773132464.528539'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Empirical Evaluation of No Free Lunch Violations in Permutation-Based Optimization
 ---
 # Empirical Evaluation of No Free Lunch Violations in Permutation-Based Optimization
 > 原文: [https://arxiv.org/abs/2603.03613](https://arxiv.org/abs/2603.03613)

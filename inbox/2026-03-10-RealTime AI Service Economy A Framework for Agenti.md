@@ -1,11 +1,13 @@
 ---
-title: "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.05614
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05614
 next_step: skim
+priority: high
+slack_ts: '1773132509.465769'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Real-Time AI Service Economy: A Framework for Agentic Computing Across the
+  Continuum'
 ---
 # Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum
 > 原文: [https://arxiv.org/abs/2603.05614](https://arxiv.org/abs/2603.05614)

@@ -1,11 +1,12 @@
 ---
-title: "Our agreement with the Department of War"
-source: "OpenAI Blog"
-link: https://openai.com/index/our-agreement-with-the-department-of-war
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/our-agreement-with-the-department-of-war
 next_step: skim
+priority: high
+slack_ts: '1773132431.487679'
+source: OpenAI Blog
+status: unread
+title: Our agreement with the Department of War
 ---
 # Our agreement with the Department of War
 > 原文: [https://openai.com/index/our-agreement-with-the-department-of-war](https://openai.com/index/our-agreement-with-the-department-of-war)

@@ -1,11 +1,13 @@
 ---
-title: "Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2602.23440
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23440
 next_step: skim
+priority: high
+slack_ts: '1773132434.444299'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented
+  Reasoning
 ---
 # Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
 > 原文: [https://arxiv.org/abs/2602.23440](https://arxiv.org/abs/2602.23440)

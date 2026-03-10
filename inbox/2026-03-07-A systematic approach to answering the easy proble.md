@@ -1,11 +1,13 @@
 ---
-title: "A systematic approach to answering the easy problems of consciousness based on an executable cognitive system"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.04440
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04440
 next_step: skim
+priority: low
+slack_ts: '1773132472.480529'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A systematic approach to answering the easy problems of consciousness based
+  on an executable cognitive system
 ---
 # A systematic approach to answering the easy problems of consciousness based on an executable cognitive system
 > 原文: [https://arxiv.org/abs/2603.04440](https://arxiv.org/abs/2603.04440)

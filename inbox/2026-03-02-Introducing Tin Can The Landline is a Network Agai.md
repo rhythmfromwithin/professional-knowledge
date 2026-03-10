@@ -1,11 +1,12 @@
 ---
-title: "Introducing Tin Can: The Landline is a Network Again"
-source: "Greylock Perspectives"
-link: https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/
-priority: medium
-status: unread
 interest: medium
+link: https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/
 next_step: skim
+priority: medium
+slack_ts: '1773132415.171689'
+source: Greylock Perspectives
+status: unread
+title: 'Introducing Tin Can: The Landline is a Network Again'
 ---
 # Introducing Tin Can: The Landline is a Network Again
 > 原文: [https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/](https://greylock.com/portfolio-news/our-investment-in-tin-can-the-landline-is-a-network-again/)

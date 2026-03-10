@@ -1,11 +1,12 @@
 ---
-title: "Learning Order Forest for Qualitative-Attribute Data Clustering"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.03387
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03387
 next_step: skim
+priority: medium
+slack_ts: '1773132467.368649'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning Order Forest for Qualitative-Attribute Data Clustering
 ---
 # Learning Order Forest for Qualitative-Attribute Data Clustering
 > 原文: [https://arxiv.org/abs/2603.03387](https://arxiv.org/abs/2603.03387)

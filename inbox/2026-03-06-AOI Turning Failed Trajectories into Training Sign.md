@@ -1,11 +1,13 @@
 ---
-title: "AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.03378
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03378
 next_step: skim
+priority: high
+slack_ts: '1773132460.400279'
+source: cs.LG - Machine Learning
+status: unread
+title: 'AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud
+  Diagnosis'
 ---
 # AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis
 > 原文: [https://arxiv.org/abs/2603.03378](https://arxiv.org/abs/2603.03378)

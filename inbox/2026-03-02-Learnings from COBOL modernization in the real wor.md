@@ -1,11 +1,12 @@
 ---
-title: "Learnings from COBOL modernization in the real world"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/
 next_step: skim
+priority: high
+slack_ts: '1773132416.016379'
+source: AWS Blog
+status: unread
+title: Learnings from COBOL modernization in the real world
 ---
 # Learnings from COBOL modernization in the real world
 > 原文: [https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/](https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/)

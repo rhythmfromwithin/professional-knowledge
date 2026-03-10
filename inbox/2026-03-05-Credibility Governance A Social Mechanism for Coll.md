@@ -1,11 +1,13 @@
 ---
-title: "Credibility Governance: A Social Mechanism for Collective Self-Correction under Weak Truth Signals"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.02640
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02640
 next_step: skim
+priority: medium
+slack_ts: '1773132451.420749'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Credibility Governance: A Social Mechanism for Collective Self-Correction
+  under Weak Truth Signals'
 ---
 # Credibility Governance: A Social Mechanism for Collective Self-Correction under Weak Truth Signals
 > 原文: [https://arxiv.org/abs/2603.02640](https://arxiv.org/abs/2603.02640)

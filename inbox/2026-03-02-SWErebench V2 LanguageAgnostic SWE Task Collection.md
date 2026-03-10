@@ -1,11 +1,12 @@
 ---
-title: "SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2602.23866
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23866
 next_step: skim
+priority: low
+slack_ts: '1773132420.398079'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale'
 ---
 # SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale
 > 原文: [https://arxiv.org/abs/2602.23866](https://arxiv.org/abs/2602.23866)

@@ -1,11 +1,13 @@
 ---
-title: "Doc To The Future: Infomorphs for Interactive, Multimodal Document Transformation and Generation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2602.23366
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23366
 next_step: skim
+priority: low
+slack_ts: '1773132412.073219'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Doc To The Future: Infomorphs for Interactive, Multimodal Document Transformation
+  and Generation'
 ---
 # Doc To The Future: Infomorphs for Interactive, Multimodal Document Transformation and Generation
 > 原文: [https://arxiv.org/abs/2602.23366](https://arxiv.org/abs/2602.23366)

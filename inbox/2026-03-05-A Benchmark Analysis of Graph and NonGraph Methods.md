@@ -1,11 +1,13 @@
 ---
-title: "A Benchmark Analysis of Graph and Non-Graph Methods for Caenorhabditis Elegans Neuron Classification"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.02241
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02241
 next_step: skim
+priority: low
+slack_ts: '1773132448.464309'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Benchmark Analysis of Graph and Non-Graph Methods for Caenorhabditis Elegans
+  Neuron Classification
 ---
 # A Benchmark Analysis of Graph and Non-Graph Methods for Caenorhabditis Elegans Neuron Classification
 > 原文: [https://arxiv.org/abs/2603.02241](https://arxiv.org/abs/2603.02241)

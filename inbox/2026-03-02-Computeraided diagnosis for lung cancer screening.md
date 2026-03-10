@@ -1,11 +1,12 @@
 ---
-title: "Computer-aided diagnosis for lung cancer screening"
-source: "Google AI Blog"
-link: http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html
-priority: high
-status: unread
 interest: medium
+link: http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html
 next_step: skim
+priority: high
+slack_ts: '1773132410.913499'
+source: Google AI Blog
+status: unread
+title: Computer-aided diagnosis for lung cancer screening
 ---
 # Computer-aided diagnosis for lung cancer screening
 > 原文: [http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)

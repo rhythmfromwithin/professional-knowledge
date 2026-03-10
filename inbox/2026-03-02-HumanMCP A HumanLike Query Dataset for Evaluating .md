@@ -1,11 +1,12 @@
 ---
-title: "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2602.23367
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23367
 next_step: skim
+priority: high
+slack_ts: '1773132414.635369'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance'
 ---
 # HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance
 > 原文: [https://arxiv.org/abs/2602.23367](https://arxiv.org/abs/2602.23367)

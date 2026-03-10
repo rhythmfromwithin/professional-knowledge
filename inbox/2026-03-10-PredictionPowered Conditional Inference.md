@@ -1,11 +1,12 @@
 ---
-title: "Prediction-Powered Conditional Inference"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.05575
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05575
 next_step: skim
+priority: medium
+slack_ts: '1773132508.381339'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Prediction-Powered Conditional Inference
 ---
 # Prediction-Powered Conditional Inference
 > 原文: [https://arxiv.org/abs/2603.05575](https://arxiv.org/abs/2603.05575)

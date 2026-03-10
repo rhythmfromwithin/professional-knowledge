@@ -1,0 +1,14 @@
+---
+title: "Securing Cryptography in the Age of Quantum Computing and AI: Threats, Implementations, and Strategic Response"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2603.06969
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Securing Cryptography in the Age of Quantum Computing and AI: Threats, Implementations, and Strategic Response
+> 原文: [https://arxiv.org/abs/2603.06969](https://arxiv.org/abs/2603.06969)
+
+arXiv:2603.06969v1 Announce Type: new
+Abstract: This review examines how quantum computing and artificial intelligence challenge current cryptographic systems. We analyze the literature to assess the resilience of algorithms against quantum attacks (Shor's and Grover's algorithms) and AI-enhanced cryptanalysis. RSA and elliptic curve cryptography are at risk of compromise from quantum computers. Symmetric algorithms like AES-128 retain security, but with a reduced effective key length under quantum attacks. Deep learning models demonstrate improved side-channel analysis, extracting keys from protected implementations. These convergent threats require a defense-in-depth approach that combines post-quantum algorithms, implementation hardening, and cryptographic agility. We find that lattice-based algorithms (ML-KEM, ML-DSA) resist known quantum attacks but require careful implementation to prevent side-channel leakage. Hash-based signatures (SLH-DSA) provide conservative security with signature sizes ranging from 17 to 50 KB. No single approach addresses both quantum and AI threats comprehensively. Organizations must treat cryptographic security as an ongoing process rather than a fixed deployment, maintaining the capability to update algorithms as threats evolve.

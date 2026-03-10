@@ -1,11 +1,13 @@
 ---
-title: "Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.04469
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04469
 next_step: skim
+priority: low
+slack_ts: '1773132474.475649'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware
+  Attack Detection'
 ---
 # Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection
 > 原文: [https://arxiv.org/abs/2603.04469](https://arxiv.org/abs/2603.04469)

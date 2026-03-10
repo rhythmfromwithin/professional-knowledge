@@ -1,11 +1,13 @@
 ---
-title: "DesignSense: A Human Preference Dataset and Reward Modeling Framework for Graphic Layout Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2602.23438
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23438
 next_step: skim
+priority: medium
+slack_ts: '1773132426.398939'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DesignSense: A Human Preference Dataset and Reward Modeling Framework for
+  Graphic Layout Generation'
 ---
 # DesignSense: A Human Preference Dataset and Reward Modeling Framework for Graphic Layout Generation
 > 原文: [https://arxiv.org/abs/2602.23438](https://arxiv.org/abs/2602.23438)

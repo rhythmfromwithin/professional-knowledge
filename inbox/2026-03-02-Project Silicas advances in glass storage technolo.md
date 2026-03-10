@@ -1,11 +1,12 @@
 ---
-title: "Project Silica’s advances in glass storage technology"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
 next_step: skim
+priority: high
+slack_ts: '1773132419.448569'
+source: Microsoft Research
+status: unread
+title: Project Silica’s advances in glass storage technology
 ---
 # Project Silica’s advances in glass storage technology
 > 原文: [https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/](https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/)
