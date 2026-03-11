@@ -1,7 +1,7 @@
 ---
-interest: medium
+interest: low
 link: https://arxiv.org/abs/2603.06739
-next_step: skim
+next_step: ignore
 priority: low
 slack_ts: '1773196805.556129'
 source: cs.SE - Software Engineering
