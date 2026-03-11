@@ -1,11 +1,13 @@
 ---
-title: "Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/
 next_step: skim
+priority: high
+slack_ts: '1773196769.781239'
+source: AWS Blog
+status: unread
+title: Building specialized AI without sacrificing intelligence: Nova Forge data mixing
+  in action
 ---
 # Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/](https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/)

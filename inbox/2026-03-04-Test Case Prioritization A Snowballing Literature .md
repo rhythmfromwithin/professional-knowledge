@@ -1,11 +1,13 @@
 ---
-title: "Test Case Prioritization: A Snowballing Literature Review and TCPFramework with Approach Combinators"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.00183
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00183
 next_step: skim
+priority: low
+slack_ts: '1773196778.581539'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Test Case Prioritization: A Snowballing Literature Review and TCPFramework
+  with Approach Combinators'
 ---
 # Test Case Prioritization: A Snowballing Literature Review and TCPFramework with Approach Combinators
 > 原文: [https://arxiv.org/abs/2603.00183](https://arxiv.org/abs/2603.00183)

@@ -1,11 +1,13 @@
 ---
-title: "All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2602.23523
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23523
 next_step: skim
+priority: medium
+slack_ts: '1773196768.617809'
+source: cs.CV - Computer Vision
+status: unread
+title: 'All in One: Unifying Deepfake Detection, Tampering Localization, and Source
+  Tracing with a Robust Landmark-Identity Watermark'
 ---
 # All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark
 > 原文: [https://arxiv.org/abs/2602.23523](https://arxiv.org/abs/2602.23523)

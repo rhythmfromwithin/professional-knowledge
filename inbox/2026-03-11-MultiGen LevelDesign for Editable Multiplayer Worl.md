@@ -1,0 +1,14 @@
+---
+title: "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2603.06679
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines
+> 原文: [https://arxiv.org/abs/2603.06679](https://arxiv.org/abs/2603.06679)
+
+arXiv:2603.06679v1 Announce Type: new
+Abstract: Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the environment for reproducible, editable experiences, and shared inference where players hold influence over a common world. To address these limitations, we introduce an explicit external memory into the system, a persistent state operating independent of the model's context window, that is continually updated by user actions and queried throughout the generation roll-out. Unlike conventional diffusion game engines that operate as next-frame predictors, our approach decomposes generation into Memory, Observation, and Dynamics modules. This design gives users direct, editable control over environment structure via an editable memory representation, and it naturally extends to real-time multiplayer rollouts with coherent viewpoints and consistent cross-player interactions.

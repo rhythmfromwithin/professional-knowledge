@@ -1,11 +1,12 @@
 ---
-title: "The Anatomy of Polymarket: Evidence from the 2024 Presidential Election"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.03136
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03136
 next_step: skim
+priority: low
+slack_ts: '1773196782.572229'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Anatomy of Polymarket: Evidence from the 2024 Presidential Election'
 ---
 # The Anatomy of Polymarket: Evidence from the 2024 Presidential Election
 > 原文: [https://arxiv.org/abs/2603.03136](https://arxiv.org/abs/2603.03136)

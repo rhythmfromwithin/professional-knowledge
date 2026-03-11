@@ -1,11 +1,12 @@
 ---
-title: "Extended Reality (XR): The Next Frontier in Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2602.23601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23601
 next_step: skim
+priority: medium
+slack_ts: '1773196771.063509'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Extended Reality (XR): The Next Frontier in Education'
 ---
 # Extended Reality (XR): The Next Frontier in Education
 > 原文: [https://arxiv.org/abs/2602.23601](https://arxiv.org/abs/2602.23601)

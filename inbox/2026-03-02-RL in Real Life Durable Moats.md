@@ -1,11 +1,12 @@
 ---
-title: "RL in Real Life: Durable Moats"
-source: "Greylock Perspectives"
-link: https://greylock.com/greymatter/rl-in-real-life-durable-moats/
-priority: medium
-status: unread
 interest: medium
+link: https://greylock.com/greymatter/rl-in-real-life-durable-moats/
 next_step: skim
+priority: medium
+slack_ts: '1773196766.092099'
+source: Greylock Perspectives
+status: unread
+title: 'RL in Real Life: Durable Moats'
 ---
 # RL in Real Life: Durable Moats
 > 原文: [https://greylock.com/greymatter/rl-in-real-life-durable-moats/](https://greylock.com/greymatter/rl-in-real-life-durable-moats/)

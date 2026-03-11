@@ -1,11 +1,13 @@
 ---
-title: "NOTAI.AI: Explainable Detection of Machine-Generated Text via Curvature and Feature Attribution"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.05617
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05617
 next_step: skim
+priority: high
+slack_ts: '1773196798.591859'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'NOTAI.AI: Explainable Detection of Machine-Generated Text via Curvature and
+  Feature Attribution'
 ---
 # NOTAI.AI: Explainable Detection of Machine-Generated Text via Curvature and Feature Attribution
 > 原文: [https://arxiv.org/abs/2603.05617](https://arxiv.org/abs/2603.05617)

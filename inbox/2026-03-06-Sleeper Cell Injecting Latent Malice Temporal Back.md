@@ -1,11 +1,12 @@
 ---
-title: "Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.03371
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03371
 next_step: skim
+priority: low
+slack_ts: '1773196786.578389'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs'
 ---
 # Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs
 > 原文: [https://arxiv.org/abs/2603.03371](https://arxiv.org/abs/2603.03371)

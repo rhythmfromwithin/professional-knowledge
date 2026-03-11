@@ -1,11 +1,13 @@
 ---
-title: "EigenData: A Self-Evolving Multi-Agent Platform for Function-Calling Data Synthesis, Auditing, and Repair"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.05553
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05553
 next_step: skim
+priority: low
+slack_ts: '1773196796.574319'
+source: cs.SE - Software Engineering
+status: unread
+title: 'EigenData: A Self-Evolving Multi-Agent Platform for Function-Calling Data
+  Synthesis, Auditing, and Repair'
 ---
 # EigenData: A Self-Evolving Multi-Agent Platform for Function-Calling Data Synthesis, Auditing, and Repair
 > 原文: [https://arxiv.org/abs/2603.05553](https://arxiv.org/abs/2603.05553)

@@ -1,11 +1,13 @@
 ---
-title: "GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index Build and Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2602.23999
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23999
 next_step: skim
+priority: low
+slack_ts: '1773196771.274729'
+source: cs.DB - Databases
+status: unread
+title: 'GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index
+  Build and Search'
 ---
 # GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index Build and Search
 > 原文: [https://arxiv.org/abs/2602.23999](https://arxiv.org/abs/2602.23999)

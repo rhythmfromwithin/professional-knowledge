@@ -1,11 +1,13 @@
 ---
-title: "The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/
 next_step: skim
+priority: medium
+slack_ts: '1773196767.118069'
+source: Meta Engineering
+status: unread
+title: 'The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old
+  Field, JiTTesting Can Revive It'
 ---
 # The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It
 > 原文: [https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/](https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/)

@@ -1,0 +1,14 @@
+---
+title: "CREDO: Epistemic-Aware Conformalized Credal Envelopes for Regression"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2603.06826
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# CREDO: Epistemic-Aware Conformalized Credal Envelopes for Regression
+> 原文: [https://arxiv.org/abs/2603.06826](https://arxiv.org/abs/2603.06826)
+
+arXiv:2603.06826v1 Announce Type: new
+Abstract: Conformal prediction delivers prediction intervals with distribution-free coverage, but its intervals can look overconfident in regions where the model is extrapolating, because standard conformal scores do not explicitly represent epistemic uncertainty. Credal methods, by contrast, make epistemic effects visible by working with sets of plausible predictive distributions, but they are typically model-based and lack calibration guarantees. We introduce CREDO, a simple "credal-then-conformalize" recipe that combines both strengths. CREDO first builds an interpretable credal envelope that widens when local evidence is weak, then applies split conformal calibration on top of this envelope to guarantee marginal coverage without further assumptions. This separation of roles yields prediction intervals that are interpretable: their width can be decomposed into aleatoric noise, epistemic inflation, and a distribution-free calibration slack. We provide a fast implementation based on trimming extreme posterior predictive endpoints, prove validity, and show on benchmark regressions that CREDO maintains target coverage while improving sparsity adaptivity at competitive efficiency.

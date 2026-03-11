@@ -1,11 +1,12 @@
 ---
-title: "vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.06588
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06588
 next_step: skim
+priority: high
+slack_ts: '1773196801.620899'
+source: cs.LG - Machine Learning
+status: unread
+title: 'vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM'
 ---
 # vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM
 > 原文: [https://arxiv.org/abs/2603.06588](https://arxiv.org/abs/2603.06588)

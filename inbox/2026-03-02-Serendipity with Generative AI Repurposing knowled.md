@@ -1,11 +1,13 @@
 ---
-title: "Serendipity with Generative AI: Repurposing knowledge components during polycrisis with a Viable Systems Model approach"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2602.23365
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23365
 next_step: skim
+priority: low
+slack_ts: '1773196766.693709'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Serendipity with Generative AI: Repurposing knowledge components during polycrisis
+  with a Viable Systems Model approach'
 ---
 # Serendipity with Generative AI: Repurposing knowledge components during polycrisis with a Viable Systems Model approach
 > 原文: [https://arxiv.org/abs/2602.23365](https://arxiv.org/abs/2602.23365)

@@ -1,11 +1,12 @@
 ---
-title: "DuaLip-GPU Technical Report"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.04621
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04621
 next_step: skim
+priority: medium
+slack_ts: '1773196788.571049'
+source: cs.DC - Distributed Computing
+status: unread
+title: DuaLip-GPU Technical Report
 ---
 # DuaLip-GPU Technical Report
 > 原文: [https://arxiv.org/abs/2603.04621](https://arxiv.org/abs/2603.04621)

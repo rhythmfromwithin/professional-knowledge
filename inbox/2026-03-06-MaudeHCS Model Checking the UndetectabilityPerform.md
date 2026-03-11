@@ -1,11 +1,13 @@
 ---
-title: "Maude-HCS: Model Checking the Undetectability-Performance Tradeoffs of Hidden Communication Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.03369
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03369
 next_step: skim
+priority: low
+slack_ts: '1773196785.572589'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Maude-HCS: Model Checking the Undetectability-Performance Tradeoffs of Hidden
+  Communication Systems'
 ---
 # Maude-HCS: Model Checking the Undetectability-Performance Tradeoffs of Hidden Communication Systems
 > 原文: [https://arxiv.org/abs/2603.03369](https://arxiv.org/abs/2603.03369)

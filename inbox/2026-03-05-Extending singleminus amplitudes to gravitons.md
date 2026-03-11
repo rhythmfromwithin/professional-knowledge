@@ -1,11 +1,12 @@
 ---
-title: "Extending single-minus amplitudes to gravitons"
-source: "OpenAI Blog"
-link: https://openai.com/index/extending-single-minus-amplitudes-to-gravitons
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/extending-single-minus-amplitudes-to-gravitons
 next_step: skim
+priority: high
+slack_ts: '1773196780.558049'
+source: OpenAI Blog
+status: unread
+title: Extending single-minus amplitudes to gravitons
 ---
 # Extending single-minus amplitudes to gravitons
 > 原文: [https://openai.com/index/extending-single-minus-amplitudes-to-gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons)

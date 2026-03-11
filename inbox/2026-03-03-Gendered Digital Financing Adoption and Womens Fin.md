@@ -1,11 +1,12 @@
 ---
-title: "Gendered Digital Financing Adoption and Women's Financial Inclusion in Pakistan"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2602.23465
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23465
 next_step: skim
+priority: medium
+slack_ts: '1773196771.478969'
+source: cs.CY - Computers and Society
+status: unread
+title: Gendered Digital Financing Adoption and Women's Financial Inclusion in Pakistan
 ---
 # Gendered Digital Financing Adoption and Women's Financial Inclusion in Pakistan
 > 原文: [https://arxiv.org/abs/2602.23465](https://arxiv.org/abs/2602.23465)

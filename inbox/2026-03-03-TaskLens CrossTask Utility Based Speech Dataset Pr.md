@@ -1,11 +1,13 @@
 ---
-title: "Task-Lens: Cross-Task Utility Based Speech Dataset Profiling for Low-Resource Indian Languages"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2602.23388
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23388
 next_step: skim
+priority: high
+slack_ts: '1773196773.560369'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Task-Lens: Cross-Task Utility Based Speech Dataset Profiling for Low-Resource
+  Indian Languages'
 ---
 # Task-Lens: Cross-Task Utility Based Speech Dataset Profiling for Low-Resource Indian Languages
 > 原文: [https://arxiv.org/abs/2602.23388](https://arxiv.org/abs/2602.23388)

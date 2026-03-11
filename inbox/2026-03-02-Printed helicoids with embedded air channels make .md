@@ -1,11 +1,13 @@
 ---
-title: "Printed helicoids with embedded air channels make sensorized segments for soft continuum robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2602.23457
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23457
 next_step: skim
+priority: medium
+slack_ts: '1773196765.669319'
+source: cs.RO - Robotics
+status: unread
+title: Printed helicoids with embedded air channels make sensorized segments for soft
+  continuum robots
 ---
 # Printed helicoids with embedded air channels make sensorized segments for soft continuum robots
 > 原文: [https://arxiv.org/abs/2602.23457](https://arxiv.org/abs/2602.23457)

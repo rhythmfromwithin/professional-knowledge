@@ -1,11 +1,13 @@
 ---
-title: "Dynamic Personalization Through Continuous Feedback Loops in Interactive AI Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2602.23376
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23376
 next_step: skim
+priority: low
+slack_ts: '1773196770.737359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Dynamic Personalization Through Continuous Feedback Loops in Interactive AI
+  Systems
 ---
 # Dynamic Personalization Through Continuous Feedback Loops in Interactive AI Systems
 > 原文: [https://arxiv.org/abs/2602.23376](https://arxiv.org/abs/2602.23376)

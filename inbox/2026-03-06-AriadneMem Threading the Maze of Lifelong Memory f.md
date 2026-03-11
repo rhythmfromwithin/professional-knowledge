@@ -1,11 +1,12 @@
 ---
-title: "AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.03290
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03290
 next_step: skim
+priority: high
+slack_ts: '1773196783.555909'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents'
 ---
 # AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents
 > 原文: [https://arxiv.org/abs/2603.03290](https://arxiv.org/abs/2603.03290)

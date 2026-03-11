@@ -1,11 +1,12 @@
 ---
-title: "An Agentic LLM Framework for Adverse Media Screening in AML Compliance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2602.23373
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23373
 next_step: skim
+priority: high
+slack_ts: '1773196768.719029'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: An Agentic LLM Framework for Adverse Media Screening in AML Compliance
 ---
 # An Agentic LLM Framework for Adverse Media Screening in AML Compliance
 > 原文: [https://arxiv.org/abs/2602.23373](https://arxiv.org/abs/2602.23373)

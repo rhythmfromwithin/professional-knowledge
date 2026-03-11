@@ -1,11 +1,13 @@
 ---
-title: "An Agnostic Approach to Sustainability: From Capitals Substitutability to Non-Collapse Dynamics"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2602.23402
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23402
 next_step: skim
+priority: low
+slack_ts: '1773196768.824179'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'An Agnostic Approach to Sustainability: From Capitals Substitutability to
+  Non-Collapse Dynamics'
 ---
 # An Agnostic Approach to Sustainability: From Capitals Substitutability to Non-Collapse Dynamics
 > 原文: [https://arxiv.org/abs/2602.23402](https://arxiv.org/abs/2602.23402)
