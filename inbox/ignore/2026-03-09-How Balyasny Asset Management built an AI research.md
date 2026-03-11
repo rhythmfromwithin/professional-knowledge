@@ -1,7 +1,7 @@
 ---
-interest: medium
+interest: low
 link: https://openai.com/index/balyasny-asset-management
-next_step: skim
+next_step: ignore
 priority: high
 slack_ts: '1773196793.584739'
 source: OpenAI Blog
