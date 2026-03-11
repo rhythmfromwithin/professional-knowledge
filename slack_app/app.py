@@ -82,9 +82,11 @@ def handle_interest(interest: str, body: dict, client, ack) -> None:
     target_channel_id = CHANNEL_MAP[interest]
 
     # 1. Post to target channel
+    print(f"Attempting to post to channel: {target_channel_id} ({target_channel_name})")
+    print(f"article_text preview: {article_text[:80]!r}")
     if target_channel_id:
         try:
-            client.chat_postMessage(
+            resp = client.chat_postMessage(
                 channel=target_channel_id,
                 text=article_text,
                 blocks=[
@@ -100,8 +102,11 @@ def handle_interest(interest: str, body: dict, client, ack) -> None:
                     },
                 ],
             )
+            print(f"chat_postMessage ok={resp.get('ok')}, ts={resp.get('ts')}, channel={resp.get('channel')}")
         except Exception as e:
             print(f"Error posting to {target_channel_name}: {e}")
+    else:
+        print(f"Skipped: target_channel_id is empty for interest={interest}")
 
     # 2. Update original #inbox message: remove buttons, show label
     try:
