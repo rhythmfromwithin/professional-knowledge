@@ -1,5 +1,7 @@
 ---
+interest: low
 link: https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss
+next_step: ignore
 slack_ts: '1773196804.567739'
 source: Airbnb Engineering
 title: 'It Wasn’t a Culture Problem: Upleveling Alert Development at Airbnb'
