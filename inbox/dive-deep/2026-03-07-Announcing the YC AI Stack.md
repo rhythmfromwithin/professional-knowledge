@@ -1,7 +1,7 @@
 ---
-interest: medium
+interest: high
 link: https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/
-next_step: skim
+next_step: deep_read
 priority: high
 slack_ts: '1773196787.553599'
 source: Y Combinator
