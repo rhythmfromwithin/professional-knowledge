@@ -1,11 +1,12 @@
 ---
-title: "On De-Individuated Neurons: Continuous Symmetries Enable Dynamic Topologies"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2602.23405
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23405
 next_step: skim
+priority: low
+slack_ts: '1773283502.445909'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'On De-Individuated Neurons: Continuous Symmetries Enable Dynamic Topologies'
 ---
 # On De-Individuated Neurons: Continuous Symmetries Enable Dynamic Topologies
 > 原文: [https://arxiv.org/abs/2602.23405](https://arxiv.org/abs/2602.23405)

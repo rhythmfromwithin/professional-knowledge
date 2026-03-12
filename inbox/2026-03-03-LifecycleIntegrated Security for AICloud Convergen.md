@@ -1,11 +1,12 @@
 ---
-title: "Lifecycle-Integrated Security for AI-Cloud Convergence in Cyber-Physical Infrastructure"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2602.23397
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23397
 next_step: skim
+priority: low
+slack_ts: '1773283501.346279'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Lifecycle-Integrated Security for AI-Cloud Convergence in Cyber-Physical Infrastructure
 ---
 # Lifecycle-Integrated Security for AI-Cloud Convergence in Cyber-Physical Infrastructure
 > 原文: [https://arxiv.org/abs/2602.23397](https://arxiv.org/abs/2602.23397)

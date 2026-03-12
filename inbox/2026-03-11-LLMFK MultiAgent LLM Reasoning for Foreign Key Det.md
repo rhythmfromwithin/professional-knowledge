@@ -1,11 +1,13 @@
 ---
-title: "LLM-FK: Multi-Agent LLM Reasoning for Foreign Key Detection in Large-Scale Complex Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.07278
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07278
 next_step: skim
+priority: low
+slack_ts: '1773283547.241129'
+source: cs.DB - Databases
+status: unread
+title: 'LLM-FK: Multi-Agent LLM Reasoning for Foreign Key Detection in Large-Scale
+  Complex Databases'
 ---
 # LLM-FK: Multi-Agent LLM Reasoning for Foreign Key Detection in Large-Scale Complex Databases
 > 原文: [https://arxiv.org/abs/2603.07278](https://arxiv.org/abs/2603.07278)

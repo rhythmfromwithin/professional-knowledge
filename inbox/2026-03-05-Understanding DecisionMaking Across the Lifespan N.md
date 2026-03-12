@@ -1,11 +1,12 @@
 ---
-title: "Understanding Decision-Making Across the Lifespan Needs Theoretical Neuroscience"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.02461
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02461
 next_step: skim
+priority: low
+slack_ts: '1773283518.242889'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Understanding Decision-Making Across the Lifespan Needs Theoretical Neuroscience
 ---
 # Understanding Decision-Making Across the Lifespan Needs Theoretical Neuroscience
 > 原文: [https://arxiv.org/abs/2603.02461](https://arxiv.org/abs/2603.02461)

@@ -1,11 +1,12 @@
 ---
-title: "Proact-VL: A Proactive VideoLLM for Real-Time AI Companions"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.03447
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03447
 next_step: skim
+priority: medium
+slack_ts: '1773283523.441959'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Proact-VL: A Proactive VideoLLM for Real-Time AI Companions'
 ---
 # Proact-VL: A Proactive VideoLLM for Real-Time AI Companions
 > 原文: [https://arxiv.org/abs/2603.03447](https://arxiv.org/abs/2603.03447)

@@ -1,11 +1,13 @@
 ---
-title: "InverseNet: Benchmarking Operator Mismatch and Calibration Across Compressive Imaging Modalities"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.04538
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04538
 next_step: skim
+priority: medium
+slack_ts: '1773283528.249479'
+source: cs.CV - Computer Vision
+status: unread
+title: 'InverseNet: Benchmarking Operator Mismatch and Calibration Across Compressive
+  Imaging Modalities'
 ---
 # InverseNet: Benchmarking Operator Mismatch and Calibration Across Compressive Imaging Modalities
 > 原文: [https://arxiv.org/abs/2603.04538](https://arxiv.org/abs/2603.04538)

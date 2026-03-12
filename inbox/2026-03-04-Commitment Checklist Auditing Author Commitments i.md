@@ -1,11 +1,12 @@
 ---
-title: "Commitment Checklist: Auditing Author Commitments in Peer Review"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.00003
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00003
 next_step: skim
+priority: medium
+slack_ts: '1773283507.552959'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Commitment Checklist: Auditing Author Commitments in Peer Review'
 ---
 # Commitment Checklist: Auditing Author Commitments in Peer Review
 > 原文: [https://arxiv.org/abs/2603.00003](https://arxiv.org/abs/2603.00003)

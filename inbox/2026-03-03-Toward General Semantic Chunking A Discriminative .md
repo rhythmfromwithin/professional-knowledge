@@ -1,11 +1,13 @@
 ---
-title: "Toward General Semantic Chunking: A Discriminative Framework for Ultra-Long Documents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2602.23370
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23370
 next_step: skim
+priority: high
+slack_ts: '1773283504.750199'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Toward General Semantic Chunking: A Discriminative Framework for Ultra-Long
+  Documents'
 ---
 # Toward General Semantic Chunking: A Discriminative Framework for Ultra-Long Documents
 > 原文: [https://arxiv.org/abs/2602.23370](https://arxiv.org/abs/2602.23370)

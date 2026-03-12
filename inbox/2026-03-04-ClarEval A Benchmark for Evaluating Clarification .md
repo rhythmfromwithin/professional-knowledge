@@ -1,11 +1,13 @@
 ---
-title: "ClarEval: A Benchmark for Evaluating Clarification Skills of Code Agents under Ambiguous Instructions"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.00187
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00187
 next_step: skim
+priority: low
+slack_ts: '1773283507.427579'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ClarEval: A Benchmark for Evaluating Clarification Skills of Code Agents under
+  Ambiguous Instructions'
 ---
 # ClarEval: A Benchmark for Evaluating Clarification Skills of Code Agents under Ambiguous Instructions
 > 原文: [https://arxiv.org/abs/2603.00187](https://arxiv.org/abs/2603.00187)

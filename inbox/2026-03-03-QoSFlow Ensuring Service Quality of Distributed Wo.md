@@ -1,11 +1,13 @@
 ---
-title: "QoSFlow: Ensuring Service Quality of Distributed Workflows Using Interpretable Sensitivity Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2602.23598
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23598
 next_step: skim
+priority: medium
+slack_ts: '1773283503.468059'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'QoSFlow: Ensuring Service Quality of Distributed Workflows Using Interpretable
+  Sensitivity Models'
 ---
 # QoSFlow: Ensuring Service Quality of Distributed Workflows Using Interpretable Sensitivity Models
 > 原文: [https://arxiv.org/abs/2602.23598](https://arxiv.org/abs/2602.23598)

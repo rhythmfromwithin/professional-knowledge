@@ -1,11 +1,13 @@
 ---
-title: "From Risk Avoidance to User Empowerment: Reframing Safety in Generative AI for Mental Health Crises"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.05647
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05647
 next_step: skim
+priority: medium
+slack_ts: '1773283538.266709'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Risk Avoidance to User Empowerment: Reframing Safety in Generative AI
+  for Mental Health Crises'
 ---
 # From Risk Avoidance to User Empowerment: Reframing Safety in Generative AI for Mental Health Crises
 > 原文: [https://arxiv.org/abs/2603.05647](https://arxiv.org/abs/2603.05647)

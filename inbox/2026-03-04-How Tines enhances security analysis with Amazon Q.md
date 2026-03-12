@@ -1,11 +1,12 @@
 ---
-title: "How Tines enhances security analysis with Amazon Quick Suite"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/
 next_step: skim
+priority: high
+slack_ts: '1773283509.235329'
+source: AWS Blog
+status: unread
+title: How Tines enhances security analysis with Amazon Quick Suite
 ---
 # How Tines enhances security analysis with Amazon Quick Suite
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/](https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/)

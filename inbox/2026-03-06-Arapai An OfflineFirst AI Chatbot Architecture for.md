@@ -1,11 +1,13 @@
 ---
-title: "Arapai: An Offline-First AI Chatbot Architecture for Low-Connectivity Educational Environments"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.03339
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03339
 next_step: skim
+priority: medium
+slack_ts: '1773283519.277119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Arapai: An Offline-First AI Chatbot Architecture for Low-Connectivity Educational
+  Environments'
 ---
 # Arapai: An Offline-First AI Chatbot Architecture for Low-Connectivity Educational Environments
 > 原文: [https://arxiv.org/abs/2603.03339](https://arxiv.org/abs/2603.03339)

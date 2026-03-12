@@ -1,11 +1,12 @@
 ---
-title: "Spectral-Stimulus Information for Self-Supervised Stimulus Encoding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2407.06195
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2407.06195
 next_step: skim
+priority: low
+slack_ts: '1773283504.495529'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Spectral-Stimulus Information for Self-Supervised Stimulus Encoding
 ---
 # Spectral-Stimulus Information for Self-Supervised Stimulus Encoding
 > 原文: [https://arxiv.org/abs/2407.06195](https://arxiv.org/abs/2407.06195)

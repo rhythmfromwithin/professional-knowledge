@@ -1,11 +1,12 @@
 ---
-title: "Pulli Kolam: A Traditional South Indian Craft Practice for Representing Data"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.02343
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02343
 next_step: skim
+priority: low
+slack_ts: '1773283516.240129'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Pulli Kolam: A Traditional South Indian Craft Practice for Representing Data'
 ---
 # Pulli Kolam: A Traditional South Indian Craft Practice for Representing Data
 > 原文: [https://arxiv.org/abs/2603.02343](https://arxiv.org/abs/2603.02343)

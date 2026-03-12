@@ -1,11 +1,13 @@
 ---
-title: "Designing Social Robots with Ethical, User-Adaptive Explainability in the Era of Foundation Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.00102
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00102
 next_step: skim
+priority: medium
+slack_ts: '1773283508.078679'
+source: cs.RO - Robotics
+status: unread
+title: Designing Social Robots with Ethical, User-Adaptive Explainability in the Era
+  of Foundation Models
 ---
 # Designing Social Robots with Ethical, User-Adaptive Explainability in the Era of Foundation Models
 > 原文: [https://arxiv.org/abs/2603.00102](https://arxiv.org/abs/2603.00102)

@@ -1,11 +1,13 @@
 ---
-title: "Who Benefits? Employer Subsidization of Reproductive Healthcare and Implications for Reproductive Justice"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.00830
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00830
 next_step: skim
+priority: low
+slack_ts: '1773283512.234419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who Benefits? Employer Subsidization of Reproductive Healthcare and Implications
+  for Reproductive Justice
 ---
 # Who Benefits? Employer Subsidization of Reproductive Healthcare and Implications for Reproductive Justice
 > 原文: [https://arxiv.org/abs/2603.00830](https://arxiv.org/abs/2603.00830)

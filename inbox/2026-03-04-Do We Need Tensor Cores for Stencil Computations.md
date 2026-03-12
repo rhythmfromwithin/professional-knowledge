@@ -1,11 +1,12 @@
 ---
-title: "Do We Need Tensor Cores for Stencil Computations?"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.00477
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00477
 next_step: skim
+priority: medium
+slack_ts: '1773283508.253439'
+source: cs.DC - Distributed Computing
+status: unread
+title: Do We Need Tensor Cores for Stencil Computations?
 ---
 # Do We Need Tensor Cores for Stencil Computations?
 > 原文: [https://arxiv.org/abs/2603.00477](https://arxiv.org/abs/2603.00477)

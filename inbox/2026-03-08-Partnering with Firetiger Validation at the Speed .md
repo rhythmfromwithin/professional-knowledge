@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Firetiger: Validation at the Speed of AI"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-firetiger-validation-at-the-speed-of-ai/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-firetiger-validation-at-the-speed-of-ai/
 next_step: skim
+priority: high
+slack_ts: '1773283532.244809'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Firetiger: Validation at the Speed of AI'
 ---
 # Partnering with Firetiger: Validation at the Speed of AI
 > 原文: [https://sequoiacap.com/article/partnering-with-firetiger-validation-at-the-speed-of-ai/](https://sequoiacap.com/article/partnering-with-firetiger-validation-at-the-speed-of-ai/)

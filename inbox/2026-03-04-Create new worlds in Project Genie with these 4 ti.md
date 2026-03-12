@@ -1,11 +1,12 @@
 ---
-title: "Create new worlds in Project Genie with these 4 tips"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/
 next_step: skim
+priority: high
+slack_ts: '1773283507.942809'
+source: Google AI Blog
+status: unread
+title: Create new worlds in Project Genie with these 4 tips
 ---
 # Create new worlds in Project Genie with these 4 tips
 > 原文: [https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/)

@@ -1,11 +1,13 @@
 ---
-title: "Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.03605
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03605
 next_step: skim
+priority: low
+slack_ts: '1773283521.274519'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting
+  Debugging of Embedded Programs
 ---
 # Inline Visualization and Manipulation of Real-Time Hardware Log for Supporting Debugging of Embedded Programs
 > 原文: [https://arxiv.org/abs/2603.03605](https://arxiv.org/abs/2603.03605)

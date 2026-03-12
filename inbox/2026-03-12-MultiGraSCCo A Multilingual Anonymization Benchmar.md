@@ -1,0 +1,14 @@
+---
+title: "MultiGraSCCo: A Multilingual Anonymization Benchmark with Annotations of Personal Identifiers"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2603.08879
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# MultiGraSCCo: A Multilingual Anonymization Benchmark with Annotations of Personal Identifiers
+> 原文: [https://arxiv.org/abs/2603.08879](https://arxiv.org/abs/2603.08879)
+
+arXiv:2603.08879v2 Announce Type: new
+Abstract: Accessing sensitive patient data for machine learning is challenging due to privacy concerns. Datasets with annotations of personally identifiable information are crucial for developing and testing anonymization systems to enable safe data sharing that complies with privacy regulations. Since accessing real patient data is a bottleneck, synthetic data offers an efficient solution for data scarcity, bypassing privacy regulations that apply to real data. Moreover, neural machine translation can help to create high-quality data for low-resource languages by translating validated real or synthetic data from a high-resource language. In this work, we create a multilingual anonymization benchmark in ten languages, using a machine translation methodology that preserves the original annotations and renders names of cities and people in a culturally and contextually appropriate form in each target language. Our evaluation study with medical professionals confirms the quality of the translations, both in general and with respect to the translation and adaptation of personal information. Our benchmark with over 2,500 annotations of personal information can be used in many applications, including training annotators, validating annotations across institutions without legal complications, and helping improve the performance of automatic personal information detection. We make our benchmark and annotation guidelines available for further research.

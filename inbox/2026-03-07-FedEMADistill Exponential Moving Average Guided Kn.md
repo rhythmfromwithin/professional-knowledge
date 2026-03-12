@@ -1,11 +1,13 @@
 ---
-title: "FedEMA-Distill: Exponential Moving Average Guided Knowledge Distillation for Robust Federated Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.04422
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04422
 next_step: skim
+priority: high
+slack_ts: '1773283527.234609'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FedEMA-Distill: Exponential Moving Average Guided Knowledge Distillation for
+  Robust Federated Learning'
 ---
 # FedEMA-Distill: Exponential Moving Average Guided Knowledge Distillation for Robust Federated Learning
 > 原文: [https://arxiv.org/abs/2603.04422](https://arxiv.org/abs/2603.04422)

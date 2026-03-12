@@ -1,11 +1,13 @@
 ---
-title: "An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.01387
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.01387
 next_step: skim
+priority: low
+slack_ts: '1773283506.343309'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish
+  Probabilistic Neural Codes
 ---
 # An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes
 > 原文: [https://arxiv.org/abs/2603.01387](https://arxiv.org/abs/2603.01387)

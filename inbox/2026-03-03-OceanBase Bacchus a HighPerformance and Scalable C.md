@@ -1,11 +1,13 @@
 ---
-title: "OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2602.23571
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23571
 next_step: skim
+priority: low
+slack_ts: '1773283502.314819'
+source: cs.DB - Databases
+status: unread
+title: 'OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage
+  Architecture for Multi-Cloud'
 ---
 # OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud
 > 原文: [https://arxiv.org/abs/2602.23571](https://arxiv.org/abs/2602.23571)

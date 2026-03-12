@@ -1,11 +1,13 @@
 ---
-title: "Modelling and Simulation of Neuromorphic Datasets for Anomaly Detection in Computer Vision"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2602.23514
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23514
 next_step: skim
+priority: medium
+slack_ts: '1773283501.833989'
+source: cs.CV - Computer Vision
+status: unread
+title: Modelling and Simulation of Neuromorphic Datasets for Anomaly Detection in
+  Computer Vision
 ---
 # Modelling and Simulation of Neuromorphic Datasets for Anomaly Detection in Computer Vision
 > 原文: [https://arxiv.org/abs/2602.23514](https://arxiv.org/abs/2602.23514)

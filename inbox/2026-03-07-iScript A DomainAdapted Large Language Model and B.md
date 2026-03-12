@@ -1,11 +1,13 @@
 ---
-title: "iScript: A Domain-Adapted Large Language Model and Benchmark for Physical Design Tcl Script Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.04476
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04476
 next_step: skim
+priority: low
+slack_ts: '1773283530.282679'
+source: cs.SE - Software Engineering
+status: unread
+title: 'iScript: A Domain-Adapted Large Language Model and Benchmark for Physical
+  Design Tcl Script Generation'
 ---
 # iScript: A Domain-Adapted Large Language Model and Benchmark for Physical Design Tcl Script Generation
 > 原文: [https://arxiv.org/abs/2603.04476](https://arxiv.org/abs/2603.04476)

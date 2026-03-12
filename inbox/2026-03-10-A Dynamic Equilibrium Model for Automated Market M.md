@@ -1,11 +1,12 @@
 ---
-title: "A Dynamic Equilibrium Model for Automated Market Makers"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.08603
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08603
 next_step: skim
+priority: low
+slack_ts: '1773283535.297019'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: A Dynamic Equilibrium Model for Automated Market Makers
 ---
 # A Dynamic Equilibrium Model for Automated Market Makers
 > 原文: [https://arxiv.org/abs/2603.08603](https://arxiv.org/abs/2603.08603)

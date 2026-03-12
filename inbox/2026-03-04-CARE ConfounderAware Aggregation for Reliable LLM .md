@@ -1,11 +1,12 @@
 ---
-title: "CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.00039
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00039
 next_step: skim
+priority: high
+slack_ts: '1773283507.139869'
+source: cs.LG - Machine Learning
+status: unread
+title: 'CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation'
 ---
 # CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
 > 原文: [https://arxiv.org/abs/2603.00039](https://arxiv.org/abs/2603.00039)

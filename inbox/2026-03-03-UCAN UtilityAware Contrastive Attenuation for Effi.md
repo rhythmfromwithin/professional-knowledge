@@ -1,11 +1,13 @@
 ---
-title: "U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2602.23400
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2602.23400
 next_step: skim
+priority: high
+slack_ts: '1773283505.007039'
+source: cs.LG - Machine Learning
+status: unread
+title: 'U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative
+  Recommendation'
 ---
 # U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation
 > 原文: [https://arxiv.org/abs/2602.23400](https://arxiv.org/abs/2602.23400)

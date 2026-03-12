@@ -1,11 +1,13 @@
 ---
-title: "A Tree-Structured Two-Phase Commit Framework for OceanBase: Optimizing Scalability and Consistency"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.00866
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00866
 next_step: skim
+priority: low
+slack_ts: '1773283505.655349'
+source: cs.DB - Databases
+status: unread
+title: 'A Tree-Structured Two-Phase Commit Framework for OceanBase: Optimizing Scalability
+  and Consistency'
 ---
 # A Tree-Structured Two-Phase Commit Framework for OceanBase: Optimizing Scalability and Consistency
 > 原文: [https://arxiv.org/abs/2603.00866](https://arxiv.org/abs/2603.00866)

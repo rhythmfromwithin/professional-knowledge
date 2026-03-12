@@ -1,11 +1,13 @@
 ---
-title: "XInsight: Integrative Stage-Consistent Psychological Counseling Support Agents for Digital Well-Being"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.06583
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06583
 next_step: skim
+priority: low
+slack_ts: '1773283543.303069'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'XInsight: Integrative Stage-Consistent Psychological Counseling Support Agents
+  for Digital Well-Being'
 ---
 # XInsight: Integrative Stage-Consistent Psychological Counseling Support Agents for Digital Well-Being
 > 原文: [https://arxiv.org/abs/2603.06583](https://arxiv.org/abs/2603.06583)

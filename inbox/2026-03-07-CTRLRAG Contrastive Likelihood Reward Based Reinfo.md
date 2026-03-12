@@ -1,11 +1,13 @@
 ---
-title: "CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.04406
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04406
 next_step: skim
+priority: high
+slack_ts: '1773283526.359869'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful
+  RAG Models'
 ---
 # CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models
 > 原文: [https://arxiv.org/abs/2603.04406](https://arxiv.org/abs/2603.04406)

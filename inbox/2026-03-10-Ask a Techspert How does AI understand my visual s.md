@@ -1,11 +1,12 @@
 ---
-title: "Ask a Techspert: How does AI understand my visual searches?"
-source: "Google AI Blog"
-link: https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/
 next_step: skim
+priority: high
+slack_ts: '1773283536.293669'
+source: Google AI Blog
+status: unread
+title: 'Ask a Techspert: How does AI understand my visual searches?'
 ---
 # Ask a Techspert: How does AI understand my visual searches?
 > 原文: [https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/)

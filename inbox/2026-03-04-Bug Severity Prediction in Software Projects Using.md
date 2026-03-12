@@ -1,11 +1,13 @@
 ---
-title: "Bug Severity Prediction in Software Projects Using Supervised Machine Learning Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.00004
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00004
 next_step: skim
+priority: low
+slack_ts: '1773283506.734139'
+source: cs.SE - Software Engineering
+status: unread
+title: Bug Severity Prediction in Software Projects Using Supervised Machine Learning
+  Models
 ---
 # Bug Severity Prediction in Software Projects Using Supervised Machine Learning Models
 > 原文: [https://arxiv.org/abs/2603.00004](https://arxiv.org/abs/2603.00004)
