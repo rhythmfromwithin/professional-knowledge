@@ -1,7 +1,7 @@
 ---
-interest: medium
+interest: high
 link: https://openai.com/index/wayfair
-next_step: skim
+next_step: deep_read
 priority: high
 slack_ts: '1773369890.633159'
 source: OpenAI Blog
