@@ -1,11 +1,13 @@
 ---
-title: "StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting with Frequency Guided Denoiser"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.00037
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00037
 next_step: skim
+priority: high
+slack_ts: '1773369789.705969'
+source: cs.LG - Machine Learning
+status: unread
+title: 'StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting
+  with Frequency Guided Denoiser'
 ---
 # StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting with Frequency Guided Denoiser
 > 原文: [https://arxiv.org/abs/2603.00037](https://arxiv.org/abs/2603.00037)

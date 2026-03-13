@@ -1,11 +1,13 @@
 ---
-title: "Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based Role Transport"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.03304
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03304
 next_step: skim
+priority: high
+slack_ts: '1773369810.575199'
+source: cs.LG - Machine Learning
+status: unread
+title: Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based
+  Role Transport
 ---
 # Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based Role Transport
 > 原文: [https://arxiv.org/abs/2603.03304](https://arxiv.org/abs/2603.03304)

@@ -1,11 +1,13 @@
 ---
-title: "Self-hosted Lecture-to-Quiz: Local LLM MCQ Generation with Deterministic Quality Control"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.08729
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08729
 next_step: skim
+priority: medium
+slack_ts: '1773369875.545779'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Self-hosted Lecture-to-Quiz: Local LLM MCQ Generation with Deterministic Quality
+  Control'
 ---
 # Self-hosted Lecture-to-Quiz: Local LLM MCQ Generation with Deterministic Quality Control
 > 原文: [https://arxiv.org/abs/2603.08729](https://arxiv.org/abs/2603.08729)

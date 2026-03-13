@@ -1,11 +1,13 @@
 ---
-title: "SPPCSO: Adaptive Penalized Estimation Method for High-Dimensional Correlated Data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.06251
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06251
 next_step: skim
+priority: medium
+slack_ts: '1773369847.459479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'SPPCSO: Adaptive Penalized Estimation Method for High-Dimensional Correlated
+  Data'
 ---
 # SPPCSO: Adaptive Penalized Estimation Method for High-Dimensional Correlated Data
 > 原文: [https://arxiv.org/abs/2603.06251](https://arxiv.org/abs/2603.06251)

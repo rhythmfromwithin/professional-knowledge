@@ -1,11 +1,13 @@
 ---
-title: "Supporting Artifact Evaluation with LLMs: A Study with Published Security Research Papers"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.06862
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06862
 next_step: skim
+priority: low
+slack_ts: '1773369848.500699'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Supporting Artifact Evaluation with LLMs: A Study with Published Security
+  Research Papers'
 ---
 # Supporting Artifact Evaluation with LLMs: A Study with Published Security Research Papers
 > 原文: [https://arxiv.org/abs/2603.06862](https://arxiv.org/abs/2603.06862)

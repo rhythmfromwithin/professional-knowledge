@@ -1,11 +1,13 @@
 ---
-title: "Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning and Contextual Stochastic Optimization Framework"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.00010
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00010
 next_step: skim
+priority: high
+slack_ts: '1773369791.273749'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning
+  and Contextual Stochastic Optimization Framework'
 ---
 # Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning and Contextual Stochastic Optimization Framework
 > 原文: [https://arxiv.org/abs/2603.00010](https://arxiv.org/abs/2603.00010)

@@ -1,7 +1,9 @@
 ---
-title: "Academic Publications & Airbnb Tech: 2025 Year in Review"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss
+slack_ts: '1773369836.561639'
+source: Airbnb Engineering
+title: 'Academic Publications & Airbnb Tech: 2025 Year in Review'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

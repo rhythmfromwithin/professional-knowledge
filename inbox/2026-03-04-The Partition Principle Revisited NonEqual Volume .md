@@ -1,11 +1,13 @@
 ---
-title: "The Partition Principle Revisited: Non-Equal Volume Designs Achieve Minimal Expected Star Discrepancy"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.00202
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00202
 next_step: skim
+priority: medium
+slack_ts: '1773369790.401819'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'The Partition Principle Revisited: Non-Equal Volume Designs Achieve Minimal
+  Expected Star Discrepancy'
 ---
 # The Partition Principle Revisited: Non-Equal Volume Designs Achieve Minimal Expected Star Discrepancy
 > 原文: [https://arxiv.org/abs/2603.00202](https://arxiv.org/abs/2603.00202)

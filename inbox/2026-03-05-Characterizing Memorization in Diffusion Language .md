@@ -1,11 +1,13 @@
 ---
-title: "Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.02333
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02333
 next_step: skim
+priority: high
+slack_ts: '1773369794.439019'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Characterizing Memorization in Diffusion Language Models: Generalized Extraction
+  and Sampling Effects'
 ---
 # Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects
 > 原文: [https://arxiv.org/abs/2603.02333](https://arxiv.org/abs/2603.02333)

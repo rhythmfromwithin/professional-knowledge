@@ -1,11 +1,12 @@
 ---
-title: "Building the ethical AI framework of the future: from philosophy to practice"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.06599
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06599
 next_step: skim
+priority: medium
+slack_ts: '1773369853.548469'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Building the ethical AI framework of the future: from philosophy to practice'
 ---
 # Building the ethical AI framework of the future: from philosophy to practice
 > 原文: [https://arxiv.org/abs/2603.06599](https://arxiv.org/abs/2603.06599)

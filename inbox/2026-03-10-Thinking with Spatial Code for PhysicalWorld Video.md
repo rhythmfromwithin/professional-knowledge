@@ -1,11 +1,12 @@
 ---
-title: "Thinking with Spatial Code for Physical-World Video Reasoning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.05591
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05591
 next_step: skim
+priority: medium
+slack_ts: '1773369849.501989'
+source: cs.CV - Computer Vision
+status: unread
+title: Thinking with Spatial Code for Physical-World Video Reasoning
 ---
 # Thinking with Spatial Code for Physical-World Video Reasoning
 > 原文: [https://arxiv.org/abs/2603.05591](https://arxiv.org/abs/2603.05591)

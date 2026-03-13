@@ -1,11 +1,12 @@
 ---
-title: "CUCo: An Agentic Framework for Compute and Communication Co-design"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.02376
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02376
 next_step: skim
+priority: medium
+slack_ts: '1773369794.238639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CUCo: An Agentic Framework for Compute and Communication Co-design'
 ---
 # CUCo: An Agentic Framework for Compute and Communication Co-design
 > 原文: [https://arxiv.org/abs/2603.02376](https://arxiv.org/abs/2603.02376)

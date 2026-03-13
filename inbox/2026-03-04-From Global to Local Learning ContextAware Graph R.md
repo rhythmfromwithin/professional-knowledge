@@ -1,11 +1,13 @@
 ---
-title: "From Global to Local: Learning Context-Aware Graph Representations for Document Classification and Summarization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.00021
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00021
 next_step: skim
+priority: high
+slack_ts: '1773369782.460709'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Global to Local: Learning Context-Aware Graph Representations for Document
+  Classification and Summarization'
 ---
 # From Global to Local: Learning Context-Aware Graph Representations for Document Classification and Summarization
 > 原文: [https://arxiv.org/abs/2603.00021](https://arxiv.org/abs/2603.00021)

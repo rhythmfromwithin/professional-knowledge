@@ -1,11 +1,13 @@
 ---
-title: "Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.06640
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06640
 next_step: skim
+priority: medium
+slack_ts: '1773369861.443009'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based
+  Unlearning for Diffusion Models'
 ---
 # Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models
 > 原文: [https://arxiv.org/abs/2603.06640](https://arxiv.org/abs/2603.06640)

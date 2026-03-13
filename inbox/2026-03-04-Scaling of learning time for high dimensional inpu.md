@@ -1,11 +1,12 @@
 ---
-title: "Scaling of learning time for high dimensional inputs"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.01184
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.01184
 next_step: skim
+priority: low
+slack_ts: '1773369789.227809'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Scaling of learning time for high dimensional inputs
 ---
 # Scaling of learning time for high dimensional inputs
 > 原文: [https://arxiv.org/abs/2603.01184](https://arxiv.org/abs/2603.01184)

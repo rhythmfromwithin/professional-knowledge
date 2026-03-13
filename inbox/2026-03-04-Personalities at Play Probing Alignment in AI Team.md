@@ -1,11 +1,12 @@
 ---
-title: "Personalities at Play: Probing Alignment in AI Teammates"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.00429
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00429
 next_step: skim
+priority: low
+slack_ts: '1773369787.131859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Personalities at Play: Probing Alignment in AI Teammates'
 ---
 # Personalities at Play: Probing Alignment in AI Teammates
 > 原文: [https://arxiv.org/abs/2603.00429](https://arxiv.org/abs/2603.00429)

@@ -1,11 +1,12 @@
 ---
-title: "Noise reduction in BERT NER models for clinical entity extraction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.00022
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00022
 next_step: skim
+priority: high
+slack_ts: '1773369786.281089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Noise reduction in BERT NER models for clinical entity extraction
 ---
 # Noise reduction in BERT NER models for clinical entity extraction
 > 原文: [https://arxiv.org/abs/2603.00022](https://arxiv.org/abs/2603.00022)

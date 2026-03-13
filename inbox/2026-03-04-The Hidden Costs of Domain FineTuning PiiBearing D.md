@@ -1,11 +1,13 @@
 ---
-title: "The Hidden Costs of Domain Fine-Tuning: Pii-Bearing Data Degrades Safety and Increases Leakage"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.00061
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00061
 next_step: skim
+priority: low
+slack_ts: '1773369789.980329'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The Hidden Costs of Domain Fine-Tuning: Pii-Bearing Data Degrades Safety and
+  Increases Leakage'
 ---
 # The Hidden Costs of Domain Fine-Tuning: Pii-Bearing Data Degrades Safety and Increases Leakage
 > 原文: [https://arxiv.org/abs/2603.00061](https://arxiv.org/abs/2603.00061)

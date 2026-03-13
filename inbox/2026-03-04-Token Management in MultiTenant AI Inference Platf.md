@@ -1,11 +1,12 @@
 ---
-title: "Token Management in Multi-Tenant AI Inference Platforms"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.00356
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00356
 next_step: skim
+priority: medium
+slack_ts: '1773369790.832209'
+source: cs.DC - Distributed Computing
+status: unread
+title: Token Management in Multi-Tenant AI Inference Platforms
 ---
 # Token Management in Multi-Tenant AI Inference Platforms
 > 原文: [https://arxiv.org/abs/2603.00356](https://arxiv.org/abs/2603.00356)

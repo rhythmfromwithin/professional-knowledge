@@ -1,11 +1,12 @@
 ---
-title: "A Lock-Free Work-Stealing Algorithm for Bulk Operations"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.05766
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05766
 next_step: skim
+priority: medium
+slack_ts: '1773369835.579629'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Lock-Free Work-Stealing Algorithm for Bulk Operations
 ---
 # A Lock-Free Work-Stealing Algorithm for Bulk Operations
 > 原文: [https://arxiv.org/abs/2603.05766](https://arxiv.org/abs/2603.05766)

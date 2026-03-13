@@ -1,11 +1,12 @@
 ---
-title: "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/
 next_step: skim
+priority: high
+slack_ts: '1773369782.929369'
+source: Google AI Blog
+status: unread
+title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
 ---
 # Gemini 3.1 Flash-Lite: Built for intelligence at scale
 > 原文: [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/)

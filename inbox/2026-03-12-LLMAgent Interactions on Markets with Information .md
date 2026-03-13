@@ -1,11 +1,12 @@
 ---
-title: "LLM-Agent Interactions on Markets with Information Asymmetries"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.08853
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08853
 next_step: skim
+priority: low
+slack_ts: '1773369871.456359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: LLM-Agent Interactions on Markets with Information Asymmetries
 ---
 # LLM-Agent Interactions on Markets with Information Asymmetries
 > 原文: [https://arxiv.org/abs/2603.08853](https://arxiv.org/abs/2603.08853)

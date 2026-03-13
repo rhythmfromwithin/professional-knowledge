@@ -1,11 +1,12 @@
 ---
-title: "Causal Analysis of Author Demographics in Academic Peer Review"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.06641
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06641
 next_step: skim
+priority: medium
+slack_ts: '1773369838.427379'
+source: cs.CY - Computers and Society
+status: unread
+title: Causal Analysis of Author Demographics in Academic Peer Review
 ---
 # Causal Analysis of Author Demographics in Academic Peer Review
 > 原文: [https://arxiv.org/abs/2603.06641](https://arxiv.org/abs/2603.06641)

@@ -1,11 +1,12 @@
 ---
-title: "SoK: Self-Sovereign Digital Identities"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.06896
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06896
 next_step: skim
+priority: low
+slack_ts: '1773369862.437019'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SoK: Self-Sovereign Digital Identities'
 ---
 # SoK: Self-Sovereign Digital Identities
 > 原文: [https://arxiv.org/abs/2603.06896](https://arxiv.org/abs/2603.06896)

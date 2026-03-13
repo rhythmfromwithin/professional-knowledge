@@ -1,11 +1,13 @@
 ---
-title: "MOSAIC: Unveiling the Moral, Social and Individual Dimensions of Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.00048
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00048
 next_step: skim
+priority: medium
+slack_ts: '1773369785.628989'
+source: cs.CY - Computers and Society
+status: unread
+title: 'MOSAIC: Unveiling the Moral, Social and Individual Dimensions of Large Language
+  Models'
 ---
 # MOSAIC: Unveiling the Moral, Social and Individual Dimensions of Large Language Models
 > 原文: [https://arxiv.org/abs/2603.00048](https://arxiv.org/abs/2603.00048)

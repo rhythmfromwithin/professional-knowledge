@@ -1,11 +1,12 @@
 ---
-title: "Quantifying Frontier LLM Capabilities for Container Sandbox Escape"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.02277
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02277
 next_step: skim
+priority: low
+slack_ts: '1773369800.609899'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Quantifying Frontier LLM Capabilities for Container Sandbox Escape
 ---
 # Quantifying Frontier LLM Capabilities for Container Sandbox Escape
 > 原文: [https://arxiv.org/abs/2603.02277](https://arxiv.org/abs/2603.02277)

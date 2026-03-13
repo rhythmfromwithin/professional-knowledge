@@ -1,11 +1,12 @@
 ---
-title: "Yukthi Opus: A Multi-Chain Hybrid Metaheuristic for Large-Scale NP-Hard Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2601.01832
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2601.01832
 next_step: skim
+priority: low
+slack_ts: '1773369825.601259'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Yukthi Opus: A Multi-Chain Hybrid Metaheuristic for Large-Scale NP-Hard Optimization'
 ---
 # Yukthi Opus: A Multi-Chain Hybrid Metaheuristic for Large-Scale NP-Hard Optimization
 > 原文: [https://arxiv.org/abs/2601.01832](https://arxiv.org/abs/2601.01832)

@@ -1,11 +1,12 @@
 ---
-title: "AI4CAREER: Responsible AI for STEM Career Development at Scale in K-16 Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.02568
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02568
 next_step: skim
+priority: medium
+slack_ts: '1773369792.538349'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI4CAREER: Responsible AI for STEM Career Development at Scale in K-16 Education'
 ---
 # AI4CAREER: Responsible AI for STEM Career Development at Scale in K-16 Education
 > 原文: [https://arxiv.org/abs/2603.02568](https://arxiv.org/abs/2603.02568)

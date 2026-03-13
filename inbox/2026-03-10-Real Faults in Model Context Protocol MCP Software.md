@@ -1,11 +1,12 @@
 ---
-title: "Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.05637
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05637
 next_step: skim
+priority: low
+slack_ts: '1773369846.459339'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy'
 ---
 # Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy
 > 原文: [https://arxiv.org/abs/2603.05637](https://arxiv.org/abs/2603.05637)

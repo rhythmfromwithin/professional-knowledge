@@ -1,11 +1,12 @@
 ---
-title: "Conformal Graph Prediction with Z-Gromov Wasserstein Distances"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.02460
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02460
 next_step: skim
+priority: medium
+slack_ts: '1773369794.641669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Conformal Graph Prediction with Z-Gromov Wasserstein Distances
 ---
 # Conformal Graph Prediction with Z-Gromov Wasserstein Distances
 > 原文: [https://arxiv.org/abs/2603.02460](https://arxiv.org/abs/2603.02460)

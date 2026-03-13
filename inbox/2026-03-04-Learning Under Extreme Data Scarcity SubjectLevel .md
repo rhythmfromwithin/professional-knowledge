@@ -1,11 +1,13 @@
 ---
-title: "Learning Under Extreme Data Scarcity: Subject-Level Evaluation of Lightweight CNNs for fMRI-Based Prodromal Parkinsons Detection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.00060
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00060
 next_step: skim
+priority: medium
+slack_ts: '1773369785.202169'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Learning Under Extreme Data Scarcity: Subject-Level Evaluation of Lightweight
+  CNNs for fMRI-Based Prodromal Parkinsons Detection'
 ---
 # Learning Under Extreme Data Scarcity: Subject-Level Evaluation of Lightweight CNNs for fMRI-Based Prodromal Parkinsons Detection
 > 原文: [https://arxiv.org/abs/2603.00060](https://arxiv.org/abs/2603.00060)

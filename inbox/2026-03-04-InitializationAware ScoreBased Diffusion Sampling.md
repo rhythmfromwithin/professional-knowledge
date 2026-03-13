@@ -1,11 +1,12 @@
 ---
-title: "Initialization-Aware Score-Based Diffusion Sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.00772
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00772
 next_step: skim
+priority: medium
+slack_ts: '1773369784.267419'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Initialization-Aware Score-Based Diffusion Sampling
 ---
 # Initialization-Aware Score-Based Diffusion Sampling
 > 原文: [https://arxiv.org/abs/2603.00772](https://arxiv.org/abs/2603.00772)

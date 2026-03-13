@@ -1,11 +1,12 @@
 ---
-title: "Beyond the Interface: Redefining UX for Society-in-the-Loop AI Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.04552
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04552
 next_step: skim
+priority: low
+slack_ts: '1773369817.422629'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Beyond the Interface: Redefining UX for Society-in-the-Loop AI Systems'
 ---
 # Beyond the Interface: Redefining UX for Society-in-the-Loop AI Systems
 > 原文: [https://arxiv.org/abs/2603.04552](https://arxiv.org/abs/2603.04552)

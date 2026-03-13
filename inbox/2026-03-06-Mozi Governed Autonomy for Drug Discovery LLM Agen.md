@@ -1,11 +1,12 @@
 ---
-title: "Mozi: Governed Autonomy for Drug Discovery LLM Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.03655
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03655
 next_step: skim
+priority: high
+slack_ts: '1773369811.536869'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Mozi: Governed Autonomy for Drug Discovery LLM Agents'
 ---
 # Mozi: Governed Autonomy for Drug Discovery LLM Agents
 > 原文: [https://arxiv.org/abs/2603.03655](https://arxiv.org/abs/2603.03655)

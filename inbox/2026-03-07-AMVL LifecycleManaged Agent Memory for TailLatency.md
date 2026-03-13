@@ -1,11 +1,13 @@
 ---
-title: "AMV-L: Lifecycle-Managed Agent Memory for Tail-Latency Control in Long-Running LLM Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.04443
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04443
 next_step: skim
+priority: medium
+slack_ts: '1773369815.503299'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'AMV-L: Lifecycle-Managed Agent Memory for Tail-Latency Control in Long-Running
+  LLM Systems'
 ---
 # AMV-L: Lifecycle-Managed Agent Memory for Tail-Latency Control in Long-Running LLM Systems
 > 原文: [https://arxiv.org/abs/2603.04443](https://arxiv.org/abs/2603.04443)

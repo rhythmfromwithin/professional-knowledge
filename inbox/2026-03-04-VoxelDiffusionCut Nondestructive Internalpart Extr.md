@@ -1,11 +1,13 @@
 ---
-title: "VoxelDiffusionCut: Non-destructive Internal-part Extraction via Iterative Cutting and Structure Estimation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.00116
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00116
 next_step: skim
+priority: medium
+slack_ts: '1773369791.704489'
+source: cs.CV - Computer Vision
+status: unread
+title: 'VoxelDiffusionCut: Non-destructive Internal-part Extraction via Iterative
+  Cutting and Structure Estimation'
 ---
 # VoxelDiffusionCut: Non-destructive Internal-part Extraction via Iterative Cutting and Structure Estimation
 > 原文: [https://arxiv.org/abs/2603.00116](https://arxiv.org/abs/2603.00116)

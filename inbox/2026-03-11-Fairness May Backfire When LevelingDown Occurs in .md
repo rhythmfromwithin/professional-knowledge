@@ -1,11 +1,12 @@
 ---
-title: "Fairness May Backfire: When Leveling-Down Occurs in Fair Machine Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.06901
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06901
 next_step: skim
+priority: medium
+slack_ts: '1773369855.542929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Fairness May Backfire: When Leveling-Down Occurs in Fair Machine Learning'
 ---
 # Fairness May Backfire: When Leveling-Down Occurs in Fair Machine Learning
 > 原文: [https://arxiv.org/abs/2603.06901](https://arxiv.org/abs/2603.06901)

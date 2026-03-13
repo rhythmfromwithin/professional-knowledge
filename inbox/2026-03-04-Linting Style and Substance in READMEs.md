@@ -1,11 +1,12 @@
 ---
-title: "Linting Style and Substance in READMEs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.00331
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00331
 next_step: skim
+priority: low
+slack_ts: '1773369785.412489'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Linting Style and Substance in READMEs
 ---
 # Linting Style and Substance in READMEs
 > 原文: [https://arxiv.org/abs/2603.00331](https://arxiv.org/abs/2603.00331)

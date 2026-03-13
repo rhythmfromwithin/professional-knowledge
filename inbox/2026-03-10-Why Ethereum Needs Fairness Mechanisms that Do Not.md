@@ -1,11 +1,12 @@
 ---
-title: "Why Ethereum Needs Fairness Mechanisms that Do Not Depend on Participant Altruism"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.05666
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05666
 next_step: skim
+priority: medium
+slack_ts: '1773369850.513769'
+source: cs.DC - Distributed Computing
+status: unread
+title: Why Ethereum Needs Fairness Mechanisms that Do Not Depend on Participant Altruism
 ---
 # Why Ethereum Needs Fairness Mechanisms that Do Not Depend on Participant Altruism
 > 原文: [https://arxiv.org/abs/2603.05666](https://arxiv.org/abs/2603.05666)

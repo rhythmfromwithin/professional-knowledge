@@ -1,11 +1,12 @@
 ---
-title: "How Descript enables multilingual video dubbing at scale"
-source: "OpenAI Blog"
-link: https://openai.com/index/descript
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/descript
 next_step: skim
+priority: high
+slack_ts: '1773369842.574549'
+source: OpenAI Blog
+status: unread
+title: How Descript enables multilingual video dubbing at scale
 ---
 # How Descript enables multilingual video dubbing at scale
 > 原文: [https://openai.com/index/descript](https://openai.com/index/descript)

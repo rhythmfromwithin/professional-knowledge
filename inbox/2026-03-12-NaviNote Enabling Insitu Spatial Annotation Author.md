@@ -1,11 +1,13 @@
 ---
-title: "NaviNote: Enabling In-situ Spatial Annotation Authoring to Support Exploration and Navigation for Blind and Low Vision People"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.08837
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08837
 next_step: skim
+priority: low
+slack_ts: '1773369872.453859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'NaviNote: Enabling In-situ Spatial Annotation Authoring to Support Exploration
+  and Navigation for Blind and Low Vision People'
 ---
 # NaviNote: Enabling In-situ Spatial Annotation Authoring to Support Exploration and Navigation for Blind and Low Vision People
 > 原文: [https://arxiv.org/abs/2603.08837](https://arxiv.org/abs/2603.08837)

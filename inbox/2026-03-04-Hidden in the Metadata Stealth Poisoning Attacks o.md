@@ -1,11 +1,13 @@
 ---
-title: "Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.00172
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00172
 next_step: skim
+priority: low
+slack_ts: '1773369783.821169'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented
+  Generation'
 ---
 # Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2603.00172](https://arxiv.org/abs/2603.00172)

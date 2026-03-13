@@ -1,11 +1,13 @@
 ---
-title: "Behavior-dLDS: A decomposed linear dynamical systems model for neural activity partially constrained by behavior"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.05612
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05612
 next_step: skim
+priority: low
+slack_ts: '1773369837.584739'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Behavior-dLDS: A decomposed linear dynamical systems model for neural activity
+  partially constrained by behavior'
 ---
 # Behavior-dLDS: A decomposed linear dynamical systems model for neural activity partially constrained by behavior
 > 原文: [https://arxiv.org/abs/2603.05612](https://arxiv.org/abs/2603.05612)

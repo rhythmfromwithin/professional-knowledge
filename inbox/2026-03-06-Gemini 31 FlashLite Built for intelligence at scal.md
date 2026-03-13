@@ -1,11 +1,12 @@
 ---
-title: "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/
 next_step: skim
+priority: high
+slack_ts: '1773369808.427179'
+source: DeepMind Blog
+status: unread
+title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
 ---
 # Gemini 3.1 Flash-Lite: Built for intelligence at scale
 > 原文: [https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/)

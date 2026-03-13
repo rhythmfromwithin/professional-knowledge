@@ -1,11 +1,12 @@
 ---
-title: "Time-Aware Latent Space Bayesian Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.00935
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00935
 next_step: skim
+priority: medium
+slack_ts: '1773369790.611459'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Time-Aware Latent Space Bayesian Optimization
 ---
 # Time-Aware Latent Space Bayesian Optimization
 > 原文: [https://arxiv.org/abs/2603.00935](https://arxiv.org/abs/2603.00935)

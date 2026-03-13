@@ -1,11 +1,12 @@
 ---
-title: "Hebbian-Oscillatory Co-Learning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.08731
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08731
 next_step: skim
+priority: low
+slack_ts: '1773369869.538559'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Hebbian-Oscillatory Co-Learning
 ---
 # Hebbian-Oscillatory Co-Learning
 > 原文: [https://arxiv.org/abs/2603.08731](https://arxiv.org/abs/2603.08731)

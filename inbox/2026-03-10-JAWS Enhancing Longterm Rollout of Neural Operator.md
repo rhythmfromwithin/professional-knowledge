@@ -1,11 +1,13 @@
 ---
-title: "JAWS: Enhancing Long-term Rollout of Neural Operators via Spatially-Adaptive Jacobian Regularization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.05538
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05538
 next_step: skim
+priority: high
+slack_ts: '1773369843.585559'
+source: cs.LG - Machine Learning
+status: unread
+title: 'JAWS: Enhancing Long-term Rollout of Neural Operators via Spatially-Adaptive
+  Jacobian Regularization'
 ---
 # JAWS: Enhancing Long-term Rollout of Neural Operators via Spatially-Adaptive Jacobian Regularization
 > 原文: [https://arxiv.org/abs/2603.05538](https://arxiv.org/abs/2603.05538)

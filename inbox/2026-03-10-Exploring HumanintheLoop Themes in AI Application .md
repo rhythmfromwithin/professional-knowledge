@@ -1,11 +1,13 @@
 ---
-title: "Exploring Human-in-the-Loop Themes in AI Application Development: An Empirical Thematic Analysis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.05510
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05510
 next_step: skim
+priority: low
+slack_ts: '1773369840.552239'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Exploring Human-in-the-Loop Themes in AI Application Development: An Empirical
+  Thematic Analysis'
 ---
 # Exploring Human-in-the-Loop Themes in AI Application Development: An Empirical Thematic Analysis
 > 原文: [https://arxiv.org/abs/2603.05510](https://arxiv.org/abs/2603.05510)

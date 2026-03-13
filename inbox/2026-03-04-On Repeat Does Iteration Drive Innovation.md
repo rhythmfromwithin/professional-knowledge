@@ -1,11 +1,12 @@
 ---
-title: "On Repeat: Does Iteration Drive Innovation?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.00722
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00722
 next_step: skim
+priority: low
+slack_ts: '1773369786.509399'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'On Repeat: Does Iteration Drive Innovation?'
 ---
 # On Repeat: Does Iteration Drive Innovation?
 > 原文: [https://arxiv.org/abs/2603.00722](https://arxiv.org/abs/2603.00722)

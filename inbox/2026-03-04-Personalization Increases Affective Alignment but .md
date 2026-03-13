@@ -1,11 +1,13 @@
 ---
-title: "Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.00024
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00024
 next_step: skim
+priority: high
+slack_ts: '1773369787.337519'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Personalization Increases Affective Alignment but Has Role-Dependent Effects
+  on Epistemic Independence in LLMs
 ---
 # Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs
 > 原文: [https://arxiv.org/abs/2603.00024](https://arxiv.org/abs/2603.00024)

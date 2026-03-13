@@ -1,11 +1,12 @@
 ---
-title: "Where, What, Why: Toward Explainable 3D-GS Watermarking"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.08809
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08809
 next_step: skim
+priority: medium
+slack_ts: '1773369876.569579'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Where, What, Why: Toward Explainable 3D-GS Watermarking'
 ---
 # Where, What, Why: Toward Explainable 3D-GS Watermarking
 > 原文: [https://arxiv.org/abs/2603.08809](https://arxiv.org/abs/2603.08809)

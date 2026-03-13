@@ -1,11 +1,13 @@
 ---
-title: "SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.00357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00357
 next_step: skim
+priority: medium
+slack_ts: '1773369788.768759'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM
+  Pretraining Systems with 100k+ GPUs'
 ---
 # SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs
 > 原文: [https://arxiv.org/abs/2603.00357](https://arxiv.org/abs/2603.00357)

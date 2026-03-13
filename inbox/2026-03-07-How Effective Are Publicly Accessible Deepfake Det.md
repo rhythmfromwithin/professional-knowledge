@@ -1,11 +1,13 @@
 ---
-title: "How Effective Are Publicly Accessible Deepfake Detection Tools? A Comparative Evaluation of Open-Source and Free-to-Use Platforms"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.04456
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04456
 next_step: skim
+priority: low
+slack_ts: '1773369820.559829'
+source: cs.CR - Cryptography and Security
+status: unread
+title: How Effective Are Publicly Accessible Deepfake Detection Tools? A Comparative
+  Evaluation of Open-Source and Free-to-Use Platforms
 ---
 # How Effective Are Publicly Accessible Deepfake Detection Tools? A Comparative Evaluation of Open-Source and Free-to-Use Platforms
 > 原文: [https://arxiv.org/abs/2603.04456](https://arxiv.org/abs/2603.04456)

@@ -1,11 +1,12 @@
 ---
-title: "Compact Dynamical Mean-Field Theory of Oscillator Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.09402
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09402
 next_step: skim
+priority: low
+slack_ts: '1773369866.455179'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Compact Dynamical Mean-Field Theory of Oscillator Networks
 ---
 # Compact Dynamical Mean-Field Theory of Oscillator Networks
 > 原文: [https://arxiv.org/abs/2603.09402](https://arxiv.org/abs/2603.09402)

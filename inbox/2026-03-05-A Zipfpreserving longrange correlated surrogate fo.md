@@ -1,11 +1,13 @@
 ---
-title: "A Zipf-preserving, long-range correlated surrogate for written language and other symbolic sequences"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.02213
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02213
 next_step: skim
+priority: high
+slack_ts: '1773369792.334639'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: A Zipf-preserving, long-range correlated surrogate for written language and
+  other symbolic sequences
 ---
 # A Zipf-preserving, long-range correlated surrogate for written language and other symbolic sequences
 > 原文: [https://arxiv.org/abs/2603.02213](https://arxiv.org/abs/2603.02213)

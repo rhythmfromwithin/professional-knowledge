@@ -1,11 +1,13 @@
 ---
-title: "What Capable Agents Must Know: Selection Theorems for Robust Decision-Making under Uncertainty"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.02491
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02491
 next_step: skim
+priority: low
+slack_ts: '1773369803.429649'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'What Capable Agents Must Know: Selection Theorems for Robust Decision-Making
+  under Uncertainty'
 ---
 # What Capable Agents Must Know: Selection Theorems for Robust Decision-Making under Uncertainty
 > 原文: [https://arxiv.org/abs/2603.02491](https://arxiv.org/abs/2603.02491)

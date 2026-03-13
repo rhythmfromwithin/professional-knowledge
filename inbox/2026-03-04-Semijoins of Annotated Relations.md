@@ -1,11 +1,12 @@
 ---
-title: "Semijoins of Annotated Relations"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.00448
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00448
 next_step: skim
+priority: low
+slack_ts: '1773369789.436209'
+source: cs.DB - Databases
+status: unread
+title: Semijoins of Annotated Relations
 ---
 # Semijoins of Annotated Relations
 > 原文: [https://arxiv.org/abs/2603.00448](https://arxiv.org/abs/2603.00448)

@@ -1,11 +1,13 @@
 ---
-title: "Uniform-in-time concentration in two-layer neural networks via transportation inequalities"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.01842
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.01842
 next_step: skim
+priority: low
+slack_ts: '1773369791.487949'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Uniform-in-time concentration in two-layer neural networks via transportation
+  inequalities
 ---
 # Uniform-in-time concentration in two-layer neural networks via transportation inequalities
 > 原文: [https://arxiv.org/abs/2603.01842](https://arxiv.org/abs/2603.01842)

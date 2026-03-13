@@ -1,11 +1,13 @@
 ---
-title: "Pulse-Driven Neural Architecture: Learnable Oscillatory Dynamics for Robust Continuous-Time Sequence Processing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.00153
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00153
 next_step: skim
+priority: low
+slack_ts: '1773369787.819849'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Pulse-Driven Neural Architecture: Learnable Oscillatory Dynamics for Robust
+  Continuous-Time Sequence Processing'
 ---
 # Pulse-Driven Neural Architecture: Learnable Oscillatory Dynamics for Robust Continuous-Time Sequence Processing
 > 原文: [https://arxiv.org/abs/2603.00153](https://arxiv.org/abs/2603.00153)

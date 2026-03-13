@@ -1,11 +1,13 @@
 ---
-title: "Cross-Layer Decision Timing Orchestration in Cost-Based Database Systems: Resolving Structural Temporal Misalignment"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.02253
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02253
 next_step: skim
+priority: low
+slack_ts: '1773369795.263239'
+source: cs.DB - Databases
+status: unread
+title: 'Cross-Layer Decision Timing Orchestration in Cost-Based Database Systems:
+  Resolving Structural Temporal Misalignment'
 ---
 # Cross-Layer Decision Timing Orchestration in Cost-Based Database Systems: Resolving Structural Temporal Misalignment
 > 原文: [https://arxiv.org/abs/2603.02253](https://arxiv.org/abs/2603.02253)

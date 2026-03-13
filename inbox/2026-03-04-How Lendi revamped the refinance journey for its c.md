@@ -1,11 +1,13 @@
 ---
-title: "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1773369784.046869'
+source: AWS Blog
+status: unread
+title: How Lendi revamped the refinance journey for its customers using agentic AI
+  in 16 weeks using Amazon Bedrock
 ---
 # How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/)

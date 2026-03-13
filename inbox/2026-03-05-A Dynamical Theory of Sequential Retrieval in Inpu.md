@@ -1,11 +1,12 @@
 ---
-title: "A Dynamical Theory of Sequential Retrieval in Input-Driven Hopfield Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.03201
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03201
 next_step: skim
+priority: low
+slack_ts: '1773369792.127959'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Dynamical Theory of Sequential Retrieval in Input-Driven Hopfield Networks
 ---
 # A Dynamical Theory of Sequential Retrieval in Input-Driven Hopfield Networks
 > 原文: [https://arxiv.org/abs/2603.03201](https://arxiv.org/abs/2603.03201)
