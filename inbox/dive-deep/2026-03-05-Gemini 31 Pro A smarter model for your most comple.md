@@ -1,7 +1,7 @@
 ---
-interest: medium
+interest: high
 link: https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/
-next_step: skim
+next_step: deep_read
 priority: high
 slack_ts: '1773456088.424039'
 source: DeepMind Blog
