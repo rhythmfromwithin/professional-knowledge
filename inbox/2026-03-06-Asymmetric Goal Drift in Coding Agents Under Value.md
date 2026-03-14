@@ -1,11 +1,12 @@
 ---
-title: "Asymmetric Goal Drift in Coding Agents Under Value Conflict"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.03456
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03456
 next_step: skim
+priority: high
+slack_ts: '1773456094.096919'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Asymmetric Goal Drift in Coding Agents Under Value Conflict
 ---
 # Asymmetric Goal Drift in Coding Agents Under Value Conflict
 > 原文: [https://arxiv.org/abs/2603.03456](https://arxiv.org/abs/2603.03456)

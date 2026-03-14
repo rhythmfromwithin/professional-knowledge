@@ -1,11 +1,12 @@
 ---
-title: "Categorical Calculus and Algebra for Multi-Model Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.10081
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10081
 next_step: skim
+priority: low
+slack_ts: '1773456134.925699'
+source: cs.DB - Databases
+status: unread
+title: Categorical Calculus and Algebra for Multi-Model Data
 ---
 # Categorical Calculus and Algebra for Multi-Model Data
 > 原文: [https://arxiv.org/abs/2603.10081](https://arxiv.org/abs/2603.10081)

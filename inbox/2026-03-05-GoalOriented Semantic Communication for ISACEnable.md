@@ -1,11 +1,12 @@
 ---
-title: "Goal-Oriented Semantic Communication for ISAC-Enabled Robotic Obstacle Avoidance"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.02291
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02291
 next_step: skim
+priority: medium
+slack_ts: '1773456088.716739'
+source: cs.RO - Robotics
+status: unread
+title: Goal-Oriented Semantic Communication for ISAC-Enabled Robotic Obstacle Avoidance
 ---
 # Goal-Oriented Semantic Communication for ISAC-Enabled Robotic Obstacle Avoidance
 > 原文: [https://arxiv.org/abs/2603.02291](https://arxiv.org/abs/2603.02291)

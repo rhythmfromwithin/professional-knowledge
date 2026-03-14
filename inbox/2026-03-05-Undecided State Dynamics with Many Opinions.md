@@ -1,11 +1,12 @@
 ---
-title: "Undecided State Dynamics with Many Opinions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.02636
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02636
 next_step: skim
+priority: medium
+slack_ts: '1773456092.214809'
+source: cs.DC - Distributed Computing
+status: unread
+title: Undecided State Dynamics with Many Opinions
 ---
 # Undecided State Dynamics with Many Opinions
 > 原文: [https://arxiv.org/abs/2603.02636](https://arxiv.org/abs/2603.02636)

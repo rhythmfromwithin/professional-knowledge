@@ -1,11 +1,12 @@
 ---
-title: "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.10359
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10359
 next_step: skim
+priority: high
+slack_ts: '1773456135.999539'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation'
 ---
 # HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation
 > 原文: [https://arxiv.org/abs/2603.10359](https://arxiv.org/abs/2603.10359)

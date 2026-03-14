@@ -1,11 +1,13 @@
 ---
-title: "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.03565
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03565
 next_step: skim
+priority: high
+slack_ts: '1773456094.518719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent
+  Consumer Assistants'
 ---
 # Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants
 > 原文: [https://arxiv.org/abs/2603.03565](https://arxiv.org/abs/2603.03565)

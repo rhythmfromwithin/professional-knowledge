@@ -1,11 +1,12 @@
 ---
-title: "Nonlinear Fiscal Transitions and the Dynamics of Public Expenditure Reform"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.05563
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05563
 next_step: skim
+priority: low
+slack_ts: '1773456117.978829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Nonlinear Fiscal Transitions and the Dynamics of Public Expenditure Reform
 ---
 # Nonlinear Fiscal Transitions and the Dynamics of Public Expenditure Reform
 > 原文: [https://arxiv.org/abs/2603.05563](https://arxiv.org/abs/2603.05563)

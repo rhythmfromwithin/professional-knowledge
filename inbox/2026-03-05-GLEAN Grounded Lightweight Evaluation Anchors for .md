@@ -1,11 +1,13 @@
 ---
-title: "GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.02212
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02212
 next_step: skim
+priority: low
+slack_ts: '1773456088.252519'
+source: cs.DB - Databases
+status: unread
+title: 'GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular
+  Reasoning'
 ---
 # GLEAN: Grounded Lightweight Evaluation Anchors for Contamination-Aware Tabular Reasoning
 > 原文: [https://arxiv.org/abs/2603.02212](https://arxiv.org/abs/2603.02212)

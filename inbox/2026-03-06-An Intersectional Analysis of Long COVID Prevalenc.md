@@ -1,11 +1,12 @@
 ---
-title: "An Intersectional Analysis of Long COVID Prevalence"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.03465
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03465
 next_step: skim
+priority: low
+slack_ts: '1773456093.827339'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: An Intersectional Analysis of Long COVID Prevalence
 ---
 # An Intersectional Analysis of Long COVID Prevalence
 > 原文: [https://arxiv.org/abs/2603.03465](https://arxiv.org/abs/2603.03465)

@@ -1,11 +1,13 @@
 ---
-title: "GAIDE: Graph-based Attention Masking for Spatial- and Embodiment-aware Motion Planning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.04463
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04463
 next_step: skim
+priority: medium
+slack_ts: '1773456101.022269'
+source: cs.RO - Robotics
+status: unread
+title: 'GAIDE: Graph-based Attention Masking for Spatial- and Embodiment-aware Motion
+  Planning'
 ---
 # GAIDE: Graph-based Attention Masking for Spatial- and Embodiment-aware Motion Planning
 > 原文: [https://arxiv.org/abs/2603.04463](https://arxiv.org/abs/2603.04463)

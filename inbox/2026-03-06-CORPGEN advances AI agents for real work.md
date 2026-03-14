@@ -1,11 +1,12 @@
 ---
-title: "CORPGEN advances AI agents for real work"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/
 next_step: skim
+priority: high
+slack_ts: '1773456094.781949'
+source: Microsoft Research
+status: unread
+title: CORPGEN advances AI agents for real work
 ---
 # CORPGEN advances AI agents for real work
 > 原文: [https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/)

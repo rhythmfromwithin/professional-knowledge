@@ -1,11 +1,12 @@
 ---
-title: "Embed Amazon Quick Suite chat agents in enterprise applications"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/
 next_step: skim
+priority: high
+slack_ts: '1773456095.446689'
+source: AWS Blog
+status: unread
+title: Embed Amazon Quick Suite chat agents in enterprise applications
 ---
 # Embed Amazon Quick Suite chat agents in enterprise applications
 > 原文: [https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/](https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/)

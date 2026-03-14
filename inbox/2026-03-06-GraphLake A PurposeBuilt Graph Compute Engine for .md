@@ -1,11 +1,12 @@
 ---
-title: "GraphLake: A Purpose-Built Graph Compute Engine for Lakehouse"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.03705
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03705
 next_step: skim
+priority: low
+slack_ts: '1773456096.130999'
+source: cs.DB - Databases
+status: unread
+title: 'GraphLake: A Purpose-Built Graph Compute Engine for Lakehouse'
 ---
 # GraphLake: A Purpose-Built Graph Compute Engine for Lakehouse
 > 原文: [https://arxiv.org/abs/2603.03705](https://arxiv.org/abs/2603.03705)

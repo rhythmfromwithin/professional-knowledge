@@ -1,11 +1,13 @@
 ---
-title: "HELIOS: Harmonizing Early Fusion, Late Fusion, and LLM Reasoning for Multi-Granular Table-Text Retrieval"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.02248
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02248
 next_step: skim
+priority: low
+slack_ts: '1773456088.856779'
+source: cs.DB - Databases
+status: unread
+title: 'HELIOS: Harmonizing Early Fusion, Late Fusion, and LLM Reasoning for Multi-Granular
+  Table-Text Retrieval'
 ---
 # HELIOS: Harmonizing Early Fusion, Late Fusion, and LLM Reasoning for Multi-Granular Table-Text Retrieval
 > 原文: [https://arxiv.org/abs/2603.02248](https://arxiv.org/abs/2603.02248)

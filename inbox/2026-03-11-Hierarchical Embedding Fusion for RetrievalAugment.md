@@ -1,11 +1,12 @@
 ---
-title: "Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.06593
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06593
 next_step: skim
+priority: high
+slack_ts: '1773456123.935759'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation
 ---
 # Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation
 > 原文: [https://arxiv.org/abs/2603.06593](https://arxiv.org/abs/2603.06593)

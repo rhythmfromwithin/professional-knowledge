@@ -1,11 +1,13 @@
 ---
-title: "Is Retraining-Free Enough? The Necessity of Router Calibration for Efficient MoE Compression"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.02217
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02217
 next_step: skim
+priority: high
+slack_ts: '1773456089.659989'
+source: cs.LG - Machine Learning
+status: unread
+title: Is Retraining-Free Enough? The Necessity of Router Calibration for Efficient
+  MoE Compression
 ---
 # Is Retraining-Free Enough? The Necessity of Router Calibration for Efficient MoE Compression
 > 原文: [https://arxiv.org/abs/2603.02217](https://arxiv.org/abs/2603.02217)

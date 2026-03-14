@@ -1,11 +1,13 @@
 ---
-title: "His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.02617
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02617
 next_step: skim
+priority: low
+slack_ts: '1773456088.992159'
+source: cs.SE - Software Engineering
+status: unread
+title: 'His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation
+  with Historical Retrieval'
 ---
 # His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval
 > 原文: [https://arxiv.org/abs/2603.02617](https://arxiv.org/abs/2603.02617)

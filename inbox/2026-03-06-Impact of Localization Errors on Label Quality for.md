@@ -1,11 +1,12 @@
 ---
-title: "Impact of Localization Errors on Label Quality for Online HD Map Construction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.03452
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03452
 next_step: skim
+priority: medium
+slack_ts: '1773456096.424919'
+source: cs.RO - Robotics
+status: unread
+title: Impact of Localization Errors on Label Quality for Online HD Map Construction
 ---
 # Impact of Localization Errors on Label Quality for Online HD Map Construction
 > 原文: [https://arxiv.org/abs/2603.03452](https://arxiv.org/abs/2603.03452)

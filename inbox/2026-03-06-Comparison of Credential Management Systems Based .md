@@ -1,11 +1,13 @@
 ---
-title: "Comparison of Credential Management Systems Based on the Standards of IEEE, ETSI, and YD/T 3957-2021"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.03376
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03376
 next_step: skim
+priority: low
+slack_ts: '1773456095.032189'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Comparison of Credential Management Systems Based on the Standards of IEEE,
+  ETSI, and YD/T 3957-2021
 ---
 # Comparison of Credential Management Systems Based on the Standards of IEEE, ETSI, and YD/T 3957-2021
 > 原文: [https://arxiv.org/abs/2603.03376](https://arxiv.org/abs/2603.03376)

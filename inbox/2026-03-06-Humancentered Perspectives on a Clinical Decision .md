@@ -1,11 +1,13 @@
 ---
-title: "Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.03467
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03467
 next_step: skim
+priority: low
+slack_ts: '1773456096.271529'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Human-centered Perspectives on a Clinical Decision Support System for Intensive
+  Outpatient Veteran PTSD Care
 ---
 # Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care
 > 原文: [https://arxiv.org/abs/2603.03467](https://arxiv.org/abs/2603.03467)

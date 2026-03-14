@@ -1,11 +1,13 @@
 ---
-title: "Bisynchronous FIFOs and the FITO Category Mistake: Silicon-Proven Interaction Primitives for Distributed Coordination"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.03470
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03470
 next_step: skim
+priority: medium
+slack_ts: '1773456094.376889'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Bisynchronous FIFOs and the FITO Category Mistake: Silicon-Proven Interaction
+  Primitives for Distributed Coordination'
 ---
 # Bisynchronous FIFOs and the FITO Category Mistake: Silicon-Proven Interaction Primitives for Distributed Coordination
 > 原文: [https://arxiv.org/abs/2603.03470](https://arxiv.org/abs/2603.03470)

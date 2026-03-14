@@ -1,11 +1,13 @@
 ---
-title: "Silent Sabotage During Fine-Tuning: Few-Shot Rationale Poisoning of Compact Medical LLMs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.02262
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02262
 next_step: skim
+priority: low
+slack_ts: '1773456091.464779'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Silent Sabotage During Fine-Tuning: Few-Shot Rationale Poisoning of Compact
+  Medical LLMs'
 ---
 # Silent Sabotage During Fine-Tuning: Few-Shot Rationale Poisoning of Compact Medical LLMs
 > 原文: [https://arxiv.org/abs/2603.02262](https://arxiv.org/abs/2603.02262)

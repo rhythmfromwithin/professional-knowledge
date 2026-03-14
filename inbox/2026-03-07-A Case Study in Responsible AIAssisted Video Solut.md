@@ -1,11 +1,13 @@
 ---
-title: "A Case Study in Responsible AI-Assisted Video Solutions: Multi-Metric Behavioral Insights in a Public Market Setting"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.04607
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04607
 next_step: skim
+priority: medium
+slack_ts: '1773456098.993079'
+source: cs.CY - Computers and Society
+status: unread
+title: 'A Case Study in Responsible AI-Assisted Video Solutions: Multi-Metric Behavioral
+  Insights in a Public Market Setting'
 ---
 # A Case Study in Responsible AI-Assisted Video Solutions: Multi-Metric Behavioral Insights in a Public Market Setting
 > 原文: [https://arxiv.org/abs/2603.04607](https://arxiv.org/abs/2603.04607)

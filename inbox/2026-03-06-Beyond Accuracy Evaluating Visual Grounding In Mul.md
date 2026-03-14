@@ -1,11 +1,12 @@
 ---
-title: "Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.03437
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03437
 next_step: skim
+priority: medium
+slack_ts: '1773456094.235609'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning'
 ---
 # Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning
 > 原文: [https://arxiv.org/abs/2603.03437](https://arxiv.org/abs/2603.03437)

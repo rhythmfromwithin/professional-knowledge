@@ -1,11 +1,13 @@
 ---
-title: "AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.07041
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07041
 next_step: skim
+priority: medium
+slack_ts: '1773456114.015969'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability
+  Modeling'
 ---
 # AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling
 > 原文: [https://arxiv.org/abs/2603.07041](https://arxiv.org/abs/2603.07041)

@@ -1,11 +1,12 @@
 ---
-title: "Neural Demand Estimation with Habit Formation and Rationality Constraints"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.02331
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02331
 next_step: skim
+priority: low
+slack_ts: '1773456089.939109'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Neural Demand Estimation with Habit Formation and Rationality Constraints
 ---
 # Neural Demand Estimation with Habit Formation and Rationality Constraints
 > 原文: [https://arxiv.org/abs/2603.02331](https://arxiv.org/abs/2603.02331)

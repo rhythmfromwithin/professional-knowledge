@@ -1,11 +1,13 @@
 ---
-title: "Enhanced Protein Intrinsic Disorder Prediction Through Dual-View Multiscale Features and Multi-objective Evolutionary Algorithm"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.06292
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06292
 next_step: skim
+priority: low
+slack_ts: '1773456115.991279'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Enhanced Protein Intrinsic Disorder Prediction Through Dual-View Multiscale
+  Features and Multi-objective Evolutionary Algorithm
 ---
 # Enhanced Protein Intrinsic Disorder Prediction Through Dual-View Multiscale Features and Multi-objective Evolutionary Algorithm
 > 原文: [https://arxiv.org/abs/2603.06292](https://arxiv.org/abs/2603.06292)

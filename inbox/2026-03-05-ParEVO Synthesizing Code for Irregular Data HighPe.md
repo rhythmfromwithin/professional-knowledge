@@ -1,11 +1,13 @@
 ---
-title: "ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.02510
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02510
 next_step: skim
+priority: low
+slack_ts: '1773456090.083979'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism
+  through Agentic Evolution'
 ---
 # ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution
 > 原文: [https://arxiv.org/abs/2603.02510](https://arxiv.org/abs/2603.02510)

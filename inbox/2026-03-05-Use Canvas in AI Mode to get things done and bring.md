@@ -1,11 +1,13 @@
 ---
-title: "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search."
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/
 next_step: skim
+priority: high
+slack_ts: '1773456092.655059'
+source: Google AI Blog
+status: unread
+title: Use Canvas in AI Mode to get things done and bring your ideas to life, right
+  in Search.
 ---
 # Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.
 > 原文: [https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/](https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/)

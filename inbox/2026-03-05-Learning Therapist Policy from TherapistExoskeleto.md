@@ -1,11 +1,12 @@
 ---
-title: "Learning Therapist Policy from Therapist-Exoskeleton-Patient Interaction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.02458
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02458
 next_step: skim
+priority: medium
+slack_ts: '1773456089.800419'
+source: cs.RO - Robotics
+status: unread
+title: Learning Therapist Policy from Therapist-Exoskeleton-Patient Interaction
 ---
 # Learning Therapist Policy from Therapist-Exoskeleton-Patient Interaction
 > 原文: [https://arxiv.org/abs/2603.02458](https://arxiv.org/abs/2603.02458)

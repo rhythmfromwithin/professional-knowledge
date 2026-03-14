@@ -1,11 +1,12 @@
 ---
-title: "OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.10052
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10052
 next_step: skim
+priority: medium
+slack_ts: '1773456137.970599'
+source: cs.RO - Robotics
+status: unread
+title: 'OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies'
 ---
 # OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies
 > 原文: [https://arxiv.org/abs/2603.10052](https://arxiv.org/abs/2603.10052)

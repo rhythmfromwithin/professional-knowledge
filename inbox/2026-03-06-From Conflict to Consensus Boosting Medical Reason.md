@@ -1,11 +1,13 @@
 ---
-title: "From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.03292
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03292
 next_step: skim
+priority: high
+slack_ts: '1773456095.721419'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic
+  RAG'
 ---
 # From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG
 > 原文: [https://arxiv.org/abs/2603.03292](https://arxiv.org/abs/2603.03292)

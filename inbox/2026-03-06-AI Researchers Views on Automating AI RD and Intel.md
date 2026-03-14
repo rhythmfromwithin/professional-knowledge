@@ -1,11 +1,12 @@
 ---
-title: "AI Researchers' Views on Automating AI R&D and Intelligence Explosions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.03338
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03338
 next_step: skim
+priority: medium
+slack_ts: '1773456093.091869'
+source: cs.CY - Computers and Society
+status: unread
+title: AI Researchers' Views on Automating AI R&D and Intelligence Explosions
 ---
 # AI Researchers' Views on Automating AI R&D and Intelligence Explosions
 > 原文: [https://arxiv.org/abs/2603.03338](https://arxiv.org/abs/2603.03338)

@@ -1,11 +1,13 @@
 ---
-title: "The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.05653
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05653
 next_step: skim
+priority: medium
+slack_ts: '1773456119.916029'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The DSA''s Blind Spot: Algorithmic Audit of Advertising and Minor Profiling
+  on TikTok'
 ---
 # The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok
 > 原文: [https://arxiv.org/abs/2603.05653](https://arxiv.org/abs/2603.05653)

@@ -1,11 +1,12 @@
 ---
-title: "RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.02345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02345
 next_step: skim
+priority: low
+slack_ts: '1773456090.947189'
+source: cs.SE - Software Engineering
+status: unread
+title: 'RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection'
 ---
 # RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection
 > 原文: [https://arxiv.org/abs/2603.02345](https://arxiv.org/abs/2603.02345)

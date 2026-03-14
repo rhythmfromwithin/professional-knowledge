@@ -1,11 +1,13 @@
 ---
-title: "From Visual to Multimodal: Systematic Ablation of Encoders and Fusion Strategies in Animal Identification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.02270
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02270
 next_step: skim
+priority: medium
+slack_ts: '1773456088.082629'
+source: cs.CV - Computer Vision
+status: unread
+title: 'From Visual to Multimodal: Systematic Ablation of Encoders and Fusion Strategies
+  in Animal Identification'
 ---
 # From Visual to Multimodal: Systematic Ablation of Encoders and Fusion Strategies in Animal Identification
 > 原文: [https://arxiv.org/abs/2603.02270](https://arxiv.org/abs/2603.02270)

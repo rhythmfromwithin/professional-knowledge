@@ -1,11 +1,13 @@
 ---
-title: "Slurry-as-a-Service: A Modest Proposal on Scalable Pluralistic Alignment for Nutrient Optimization"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.02420
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02420
 next_step: skim
+priority: medium
+slack_ts: '1773456091.616249'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Slurry-as-a-Service: A Modest Proposal on Scalable Pluralistic Alignment for
+  Nutrient Optimization'
 ---
 # Slurry-as-a-Service: A Modest Proposal on Scalable Pluralistic Alignment for Nutrient Optimization
 > 原文: [https://arxiv.org/abs/2603.02420](https://arxiv.org/abs/2603.02420)

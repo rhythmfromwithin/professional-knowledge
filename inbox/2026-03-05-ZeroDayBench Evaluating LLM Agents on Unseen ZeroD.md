@@ -1,11 +1,13 @@
 ---
-title: "ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.02297
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02297
 next_step: skim
+priority: low
+slack_ts: '1773456092.948679'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for
+  Cyberdefense'
 ---
 # ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense
 > 原文: [https://arxiv.org/abs/2603.02297](https://arxiv.org/abs/2603.02297)

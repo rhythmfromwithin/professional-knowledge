@@ -1,11 +1,13 @@
 ---
-title: "Why Atomicity Matters to AI/ML Infrastructure: Snapshots, Firmware Updates, and the Cost of the Forward-In-Time-Only Category Mistake"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.02603
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02603
 next_step: skim
+priority: medium
+slack_ts: '1773456092.796809'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Why Atomicity Matters to AI/ML Infrastructure: Snapshots, Firmware Updates,
+  and the Cost of the Forward-In-Time-Only Category Mistake'
 ---
 # Why Atomicity Matters to AI/ML Infrastructure: Snapshots, Firmware Updates, and the Cost of the Forward-In-Time-Only Category Mistake
 > 原文: [https://arxiv.org/abs/2603.02603](https://arxiv.org/abs/2603.02603)

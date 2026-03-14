@@ -1,11 +1,12 @@
 ---
-title: "Accelerating OpenPangu Inference on NPU via Speculative Decoding"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.03383
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03383
 next_step: skim
+priority: medium
+slack_ts: '1773456093.542639'
+source: cs.DC - Distributed Computing
+status: unread
+title: Accelerating OpenPangu Inference on NPU via Speculative Decoding
 ---
 # Accelerating OpenPangu Inference on NPU via Speculative Decoding
 > 原文: [https://arxiv.org/abs/2603.03383](https://arxiv.org/abs/2603.03383)

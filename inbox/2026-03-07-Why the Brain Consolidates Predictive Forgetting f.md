@@ -1,11 +1,12 @@
 ---
-title: "Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.04688
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04688
 next_step: skim
+priority: low
+slack_ts: '1773456103.987429'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation'
 ---
 # Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation
 > 原文: [https://arxiv.org/abs/2603.04688](https://arxiv.org/abs/2603.04688)

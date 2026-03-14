@@ -1,11 +1,13 @@
 ---
-title: "Dynamic Targeting of Satellite Observations Using Supplemental Geostationary Satellite Data and Hierarchical Planning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.06719
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06719
 next_step: skim
+priority: medium
+slack_ts: '1773456122.952049'
+source: cs.RO - Robotics
+status: unread
+title: Dynamic Targeting of Satellite Observations Using Supplemental Geostationary
+  Satellite Data and Hierarchical Planning
 ---
 # Dynamic Targeting of Satellite Observations Using Supplemental Geostationary Satellite Data and Hierarchical Planning
 > 原文: [https://arxiv.org/abs/2603.06719](https://arxiv.org/abs/2603.06719)

@@ -1,11 +1,13 @@
 ---
-title: "Federated Inference: Toward Privacy-Preserving Collaborative and Incentivized Model Serving"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.02214
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02214
 next_step: skim
+priority: high
+slack_ts: '1773456087.929129'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Federated Inference: Toward Privacy-Preserving Collaborative and Incentivized
+  Model Serving'
 ---
 # Federated Inference: Toward Privacy-Preserving Collaborative and Incentivized Model Serving
 > 原文: [https://arxiv.org/abs/2603.02214](https://arxiv.org/abs/2603.02214)

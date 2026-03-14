@@ -1,11 +1,13 @@
 ---
-title: "Characterization of Phase Transitions in a Lipkin-Meshkov-Glick Quantum Brain Model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.03345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03345
 next_step: skim
+priority: low
+slack_ts: '1773456094.907759'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Characterization of Phase Transitions in a Lipkin-Meshkov-Glick Quantum Brain
+  Model
 ---
 # Characterization of Phase Transitions in a Lipkin-Meshkov-Glick Quantum Brain Model
 > 原文: [https://arxiv.org/abs/2603.03345](https://arxiv.org/abs/2603.03345)

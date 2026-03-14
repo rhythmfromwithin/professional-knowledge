@@ -1,11 +1,13 @@
 ---
-title: "RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.02215
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02215
 next_step: skim
+priority: high
+slack_ts: '1773456091.215279'
+source: cs.LG - Machine Learning
+status: unread
+title: RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction
+  via Hierarchical Curriculum Learning
 ---
 # RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning
 > 原文: [https://arxiv.org/abs/2603.02215](https://arxiv.org/abs/2603.02215)

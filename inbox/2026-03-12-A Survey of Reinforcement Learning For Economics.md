@@ -1,11 +1,12 @@
 ---
-title: "A Survey of Reinforcement Learning For Economics"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.08956
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08956
 next_step: skim
+priority: low
+slack_ts: '1773456126.926549'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: A Survey of Reinforcement Learning For Economics
 ---
 # A Survey of Reinforcement Learning For Economics
 > 原文: [https://arxiv.org/abs/2603.08956](https://arxiv.org/abs/2603.08956)

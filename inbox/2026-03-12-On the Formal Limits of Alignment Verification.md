@@ -1,11 +1,12 @@
 ---
-title: "On the Formal Limits of Alignment Verification"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.08761
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08761
 next_step: skim
+priority: medium
+slack_ts: '1773456130.934559'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: On the Formal Limits of Alignment Verification
 ---
 # On the Formal Limits of Alignment Verification
 > 原文: [https://arxiv.org/abs/2603.08761](https://arxiv.org/abs/2603.08761)

@@ -1,11 +1,12 @@
 ---
-title: "Social-JEPA: Emergent Geometric Isomorphism"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.02263
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.02263
 next_step: skim
+priority: medium
+slack_ts: '1773456091.771089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Social-JEPA: Emergent Geometric Isomorphism'
 ---
 # Social-JEPA: Emergent Geometric Isomorphism
 > 原文: [https://arxiv.org/abs/2603.02263](https://arxiv.org/abs/2603.02263)

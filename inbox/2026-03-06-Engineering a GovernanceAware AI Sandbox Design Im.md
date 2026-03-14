@@ -1,11 +1,13 @@
 ---
-title: "Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons Learned"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.03394
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03394
 next_step: skim
+priority: low
+slack_ts: '1773456095.596819'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons
+  Learned'
 ---
 # Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons Learned
 > 原文: [https://arxiv.org/abs/2603.03394](https://arxiv.org/abs/2603.03394)

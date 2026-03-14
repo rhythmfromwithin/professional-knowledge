@@ -1,11 +1,12 @@
 ---
-title: "Bayesian Hierarchical Models and the Maximum Entropy Principle"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.10252
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10252
 next_step: skim
+priority: medium
+slack_ts: '1773456134.560169'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Bayesian Hierarchical Models and the Maximum Entropy Principle
 ---
 # Bayesian Hierarchical Models and the Maximum Entropy Principle
 > 原文: [https://arxiv.org/abs/2603.10252](https://arxiv.org/abs/2603.10252)

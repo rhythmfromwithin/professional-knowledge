@@ -1,11 +1,12 @@
 ---
-title: "The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.09347
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09347
 next_step: skim
+priority: low
+slack_ts: '1773456132.961549'
+source: cs.DB - Databases
+status: unread
+title: 'The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI'
 ---
 # The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI
 > 原文: [https://arxiv.org/abs/2603.09347](https://arxiv.org/abs/2603.09347)
