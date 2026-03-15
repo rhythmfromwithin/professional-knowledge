@@ -1,11 +1,12 @@
 ---
-title: "GeNeX: Genetic Network eXperts framework for addressing Validation Overfitting"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.11056
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11056
 next_step: skim
+priority: low
+slack_ts: '1773544831.395969'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'GeNeX: Genetic Network eXperts framework for addressing Validation Overfitting'
 ---
 # GeNeX: Genetic Network eXperts framework for addressing Validation Overfitting
 > 原文: [https://arxiv.org/abs/2603.11056](https://arxiv.org/abs/2603.11056)

@@ -1,11 +1,12 @@
 ---
-title: "Beyond Linear LLM Invocation: An Efficient and Effective Semantic Filter Paradigm"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.04799
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04799
 next_step: skim
+priority: low
+slack_ts: '1773544810.496679'
+source: cs.DB - Databases
+status: unread
+title: 'Beyond Linear LLM Invocation: An Efficient and Effective Semantic Filter Paradigm'
 ---
 # Beyond Linear LLM Invocation: An Efficient and Effective Semantic Filter Paradigm
 > 原文: [https://arxiv.org/abs/2603.04799](https://arxiv.org/abs/2603.04799)

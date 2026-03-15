@@ -1,11 +1,13 @@
 ---
-title: "Alignment as Iatrogenesis: Pastoral Power, Collective Pathology, and the Structural Limits of Monolingual Safety Evaluation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.08723
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08723
 next_step: skim
+priority: medium
+slack_ts: '1773544823.360479'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Alignment as Iatrogenesis: Pastoral Power, Collective Pathology, and the Structural
+  Limits of Monolingual Safety Evaluation'
 ---
 # Alignment as Iatrogenesis: Pastoral Power, Collective Pathology, and the Structural Limits of Monolingual Safety Evaluation
 > 原文: [https://arxiv.org/abs/2603.08723](https://arxiv.org/abs/2603.08723)

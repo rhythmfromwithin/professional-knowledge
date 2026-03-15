@@ -1,11 +1,5 @@
 ---
-title: "The "Gold Rush" in AI and Robotics Patenting Activity. Do innovation systems have a role?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.05034
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1773544813.377329'
 ---
 # The "Gold Rush" in AI and Robotics Patenting Activity. Do innovation systems have a role?
 > 原文: [https://arxiv.org/abs/2603.05034](https://arxiv.org/abs/2603.05034)

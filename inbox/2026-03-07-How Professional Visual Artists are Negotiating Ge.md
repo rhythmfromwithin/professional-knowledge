@@ -1,11 +1,12 @@
 ---
-title: "How Professional Visual Artists are Negotiating Generative AI in the Workplace"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.04537
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04537
 next_step: skim
+priority: low
+slack_ts: '1773544812.117489'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: How Professional Visual Artists are Negotiating Generative AI in the Workplace
 ---
 # How Professional Visual Artists are Negotiating Generative AI in the Workplace
 > 原文: [https://arxiv.org/abs/2603.04537](https://arxiv.org/abs/2603.04537)

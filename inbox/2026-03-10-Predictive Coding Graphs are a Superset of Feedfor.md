@@ -1,11 +1,12 @@
 ---
-title: "Predictive Coding Graphs are a Superset of Feedforward Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.06142
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06142
 next_step: skim
+priority: low
+slack_ts: '1773544818.356019'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Predictive Coding Graphs are a Superset of Feedforward Neural Networks
 ---
 # Predictive Coding Graphs are a Superset of Feedforward Neural Networks
 > 原文: [https://arxiv.org/abs/2603.06142](https://arxiv.org/abs/2603.06142)

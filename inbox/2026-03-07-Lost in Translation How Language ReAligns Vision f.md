@@ -1,11 +1,12 @@
 ---
-title: "Lost in Translation: How Language Re-Aligns Vision for Cross-Species Pathology"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.04405
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04405
 next_step: skim
+priority: medium
+slack_ts: '1773544812.623099'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Lost in Translation: How Language Re-Aligns Vision for Cross-Species Pathology'
 ---
 # Lost in Translation: How Language Re-Aligns Vision for Cross-Species Pathology
 > 原文: [https://arxiv.org/abs/2603.04405](https://arxiv.org/abs/2603.04405)

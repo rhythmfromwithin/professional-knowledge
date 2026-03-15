@@ -1,11 +1,13 @@
 ---
-title: "Long COVID Prevalence, Disability, and Accommodations: Analysis Across Demographic Groups"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.03419
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03419
 next_step: skim
+priority: low
+slack_ts: '1773544807.508419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Long COVID Prevalence, Disability, and Accommodations: Analysis Across Demographic
+  Groups'
 ---
 # Long COVID Prevalence, Disability, and Accommodations: Analysis Across Demographic Groups
 > 原文: [https://arxiv.org/abs/2603.03419](https://arxiv.org/abs/2603.03419)

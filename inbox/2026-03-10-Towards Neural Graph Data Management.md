@@ -1,11 +1,12 @@
 ---
-title: "Towards Neural Graph Data Management"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.05529
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05529
 next_step: skim
+priority: low
+slack_ts: '1773544819.380189'
+source: cs.DB - Databases
+status: unread
+title: Towards Neural Graph Data Management
 ---
 # Towards Neural Graph Data Management
 > 原文: [https://arxiv.org/abs/2603.05529](https://arxiv.org/abs/2603.05529)

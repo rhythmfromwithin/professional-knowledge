@@ -1,11 +1,12 @@
 ---
-title: "The latest AI news we announced in February"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/
 next_step: skim
+priority: high
+slack_ts: '1773544809.027179'
+source: Google AI Blog
+status: unread
+title: The latest AI news we announced in February
 ---
 # The latest AI news we announced in February
 > 原文: [https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/)

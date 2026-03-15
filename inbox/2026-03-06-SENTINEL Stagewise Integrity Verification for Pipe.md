@@ -1,11 +1,13 @@
 ---
-title: "SENTINEL: Stagewise Integrity Verification for Pipeline Parallel Decentralized Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.03592
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03592
 next_step: skim
+priority: medium
+slack_ts: '1773544808.483429'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SENTINEL: Stagewise Integrity Verification for Pipeline Parallel Decentralized
+  Training'
 ---
 # SENTINEL: Stagewise Integrity Verification for Pipeline Parallel Decentralized Training
 > 原文: [https://arxiv.org/abs/2603.03592](https://arxiv.org/abs/2603.03592)

@@ -1,11 +1,13 @@
 ---
-title: "Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.04466
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04466
 next_step: skim
+priority: medium
+slack_ts: '1773544809.859219'
+source: cs.RO - Robotics
+status: unread
+title: 'Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners
+  for Robot Manipulation'
 ---
 # Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation
 > 原文: [https://arxiv.org/abs/2603.04466](https://arxiv.org/abs/2603.04466)

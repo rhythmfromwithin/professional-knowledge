@@ -1,11 +1,13 @@
 ---
-title: "Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.08800
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08800
 next_step: skim
+priority: medium
+slack_ts: '1773544824.384399'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity
+  Semantics for MLLM'
 ---
 # Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM
 > 原文: [https://arxiv.org/abs/2603.08800](https://arxiv.org/abs/2603.08800)

@@ -1,11 +1,12 @@
 ---
-title: "Beyond BFS: A Comparative Study of Rooted Spanning Tree Algorithms on GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.11645
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11645
 next_step: skim
+priority: medium
+slack_ts: '1773544830.391019'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Beyond BFS: A Comparative Study of Rooted Spanning Tree Algorithms on GPUs'
 ---
 # Beyond BFS: A Comparative Study of Rooted Spanning Tree Algorithms on GPUs
 > 原文: [https://arxiv.org/abs/2603.11645](https://arxiv.org/abs/2603.11645)

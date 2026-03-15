@@ -1,11 +1,13 @@
 ---
-title: "AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/
 next_step: skim
+priority: high
+slack_ts: '1773544809.619009'
+source: AWS Blog
+status: unread
+title: AWS Security Hub Extended offers full-stack enterprise security with curated
+  partner solutions
 ---
 # AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions
 > 原文: [https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/](https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/)

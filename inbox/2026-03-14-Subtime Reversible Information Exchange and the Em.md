@@ -1,11 +1,12 @@
 ---
-title: "Subtime: Reversible Information Exchange and the Emergence of Classical Time"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.11571
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11571
 next_step: skim
+priority: medium
+slack_ts: '1773544833.384519'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Subtime: Reversible Information Exchange and the Emergence of Classical Time'
 ---
 # Subtime: Reversible Information Exchange and the Emergence of Classical Time
 > 原文: [https://arxiv.org/abs/2603.11571](https://arxiv.org/abs/2603.11571)

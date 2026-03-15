@@ -1,11 +1,12 @@
 ---
-title: "A Semi-Structural Model with Household Debt for Israel"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.11013
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11013
 next_step: skim
+priority: low
+slack_ts: '1773544826.382789'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: A Semi-Structural Model with Household Debt for Israel
 ---
 # A Semi-Structural Model with Household Debt for Israel
 > 原文: [https://arxiv.org/abs/2603.11013](https://arxiv.org/abs/2603.11013)

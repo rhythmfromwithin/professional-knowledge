@@ -1,11 +1,12 @@
 ---
-title: "Systematic debugging for AI agents: Introducing the AgentRx framework"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
 next_step: skim
+priority: high
+slack_ts: '1773544829.457519'
+source: Microsoft Research
+status: unread
+title: 'Systematic debugging for AI agents: Introducing the AgentRx framework'
 ---
 # Systematic debugging for AI agents: Introducing the AgentRx framework
 > 原文: [https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/)

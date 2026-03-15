@@ -1,11 +1,12 @@
 ---
-title: "The Theory behind UMAP?"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.03375
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03375
 next_step: skim
+priority: medium
+slack_ts: '1773544808.926479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: The Theory behind UMAP?
 ---
 # The Theory behind UMAP?
 > 原文: [https://arxiv.org/abs/2603.03375](https://arxiv.org/abs/2603.03375)

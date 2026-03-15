@@ -1,11 +1,12 @@
 ---
-title: "Stringology-Based Motif Discovery from EEG Signals: an ADHD Case Study"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.03476
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03476
 next_step: skim
+priority: low
+slack_ts: '1773544808.832979'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Stringology-Based Motif Discovery from EEG Signals: an ADHD Case Study'
 ---
 # Stringology-Based Motif Discovery from EEG Signals: an ADHD Case Study
 > 原文: [https://arxiv.org/abs/2603.03476](https://arxiv.org/abs/2603.03476)

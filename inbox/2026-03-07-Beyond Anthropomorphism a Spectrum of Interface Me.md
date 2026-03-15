@@ -1,11 +1,12 @@
 ---
-title: "Beyond Anthropomorphism: a Spectrum of Interface Metaphors for LLMs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.04613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04613
 next_step: skim
+priority: low
+slack_ts: '1773544810.367629'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Beyond Anthropomorphism: a Spectrum of Interface Metaphors for LLMs'
 ---
 # Beyond Anthropomorphism: a Spectrum of Interface Metaphors for LLMs
 > 原文: [https://arxiv.org/abs/2603.04613](https://arxiv.org/abs/2603.04613)

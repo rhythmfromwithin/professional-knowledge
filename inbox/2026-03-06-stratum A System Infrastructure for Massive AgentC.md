@@ -1,11 +1,12 @@
 ---
-title: "stratum: A System Infrastructure for Massive Agent-Centric ML Workloads"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.03589
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03589
 next_step: skim
+priority: low
+slack_ts: '1773544809.430469'
+source: cs.DB - Databases
+status: unread
+title: 'stratum: A System Infrastructure for Massive Agent-Centric ML Workloads'
 ---
 # stratum: A System Infrastructure for Massive Agent-Centric ML Workloads
 > 原文: [https://arxiv.org/abs/2603.03589](https://arxiv.org/abs/2603.03589)

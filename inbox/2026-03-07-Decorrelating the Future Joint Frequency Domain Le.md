@@ -1,11 +1,13 @@
 ---
-title: "Decorrelating the Future: Joint Frequency Domain Learning for Spatio-temporal Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.04418
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04418
 next_step: skim
+priority: high
+slack_ts: '1773544811.206599'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Decorrelating the Future: Joint Frequency Domain Learning for Spatio-temporal
+  Forecasting'
 ---
 # Decorrelating the Future: Joint Frequency Domain Learning for Spatio-temporal Forecasting
 > 原文: [https://arxiv.org/abs/2603.04418](https://arxiv.org/abs/2603.04418)

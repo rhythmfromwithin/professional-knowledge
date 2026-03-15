@@ -1,11 +1,12 @@
 ---
-title: "How Balyasny Asset Management built an AI research engine for investing"
-source: "OpenAI Blog"
-link: https://openai.com/index/balyasny-asset-management
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/balyasny-asset-management
 next_step: skim
+priority: high
+slack_ts: '1773544812.013159'
+source: OpenAI Blog
+status: unread
+title: How Balyasny Asset Management built an AI research engine for investing
 ---
 # How Balyasny Asset Management built an AI research engine for investing
 > 原文: [https://openai.com/index/balyasny-asset-management](https://openai.com/index/balyasny-asset-management)

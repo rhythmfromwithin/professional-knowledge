@@ -1,11 +1,13 @@
 ---
-title: "Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.04420
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04420
 next_step: skim
+priority: high
+slack_ts: '1773544812.714949'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical
+  Systems with Deep Neural Networks'
 ---
 # Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks
 > 原文: [https://arxiv.org/abs/2603.04420](https://arxiv.org/abs/2603.04420)

@@ -1,11 +1,12 @@
 ---
-title: "Dictionary Based Pattern Entropy for Causal Direction Discovery"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.04473
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04473
 next_step: skim
+priority: medium
+slack_ts: '1773544811.303449'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Dictionary Based Pattern Entropy for Causal Direction Discovery
 ---
 # Dictionary Based Pattern Entropy for Causal Direction Discovery
 > 原文: [https://arxiv.org/abs/2603.04473](https://arxiv.org/abs/2603.04473)

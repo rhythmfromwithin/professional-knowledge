@@ -1,11 +1,12 @@
 ---
-title: "Is the brain a 1-dimensional diffeological space?"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.03337
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03337
 next_step: skim
+priority: low
+slack_ts: '1773544806.685969'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Is the brain a 1-dimensional diffeological space?
 ---
 # Is the brain a 1-dimensional diffeological space?
 > 原文: [https://arxiv.org/abs/2603.03337](https://arxiv.org/abs/2603.03337)

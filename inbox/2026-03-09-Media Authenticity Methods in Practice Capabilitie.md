@@ -1,11 +1,12 @@
 ---
-title: "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/
 next_step: skim
+priority: high
+slack_ts: '1773544815.375869'
+source: Microsoft Research
+status: unread
+title: 'Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions'
 ---
 # Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions
 > 原文: [https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/)

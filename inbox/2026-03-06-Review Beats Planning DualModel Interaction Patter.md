@@ -1,11 +1,12 @@
 ---
-title: "Review Beats Planning: Dual-Model Interaction Patterns for Code Synthesis"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.03406
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03406
 next_step: skim
+priority: low
+slack_ts: '1773544808.378629'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Review Beats Planning: Dual-Model Interaction Patterns for Code Synthesis'
 ---
 # Review Beats Planning: Dual-Model Interaction Patterns for Code Synthesis
 > 原文: [https://arxiv.org/abs/2603.03406](https://arxiv.org/abs/2603.03406)

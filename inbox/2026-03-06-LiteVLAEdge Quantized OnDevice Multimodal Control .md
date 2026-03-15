@@ -1,11 +1,12 @@
 ---
-title: "LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.03380
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03380
 next_step: skim
+priority: medium
+slack_ts: '1773544806.853539'
+source: cs.RO - Robotics
+status: unread
+title: 'LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics'
 ---
 # LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics
 > 原文: [https://arxiv.org/abs/2603.03380](https://arxiv.org/abs/2603.03380)

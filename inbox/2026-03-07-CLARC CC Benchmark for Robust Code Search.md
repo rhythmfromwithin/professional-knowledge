@@ -1,11 +1,12 @@
 ---
-title: "CLARC: C/C++ Benchmark for Robust Code Search"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.04484
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04484
 next_step: skim
+priority: low
+slack_ts: '1773544810.761399'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CLARC: C/C++ Benchmark for Robust Code Search'
 ---
 # CLARC: C/C++ Benchmark for Robust Code Search
 > 原文: [https://arxiv.org/abs/2603.04484](https://arxiv.org/abs/2603.04484)

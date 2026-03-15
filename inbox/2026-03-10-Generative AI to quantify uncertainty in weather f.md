@@ -1,11 +1,12 @@
 ---
-title: "Generative AI to quantify uncertainty in weather forecasting"
-source: "Google AI Blog"
-link: http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html
-priority: high
-status: unread
 interest: medium
+link: http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html
 next_step: skim
+priority: high
+slack_ts: '1773544817.388419'
+source: Google AI Blog
+status: unread
+title: Generative AI to quantify uncertainty in weather forecasting
 ---
 # Generative AI to quantify uncertainty in weather forecasting
 > 原文: [http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)

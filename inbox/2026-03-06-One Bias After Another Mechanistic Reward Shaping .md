@@ -1,11 +1,13 @@
 ---
-title: "One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.03291
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03291
 next_step: skim
+priority: high
+slack_ts: '1773544807.953149'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in
+  Language Reward Models'
 ---
 # One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models
 > 原文: [https://arxiv.org/abs/2603.03291](https://arxiv.org/abs/2603.03291)

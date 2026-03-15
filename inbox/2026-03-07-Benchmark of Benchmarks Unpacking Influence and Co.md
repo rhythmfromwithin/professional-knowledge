@@ -1,11 +1,13 @@
 ---
-title: "Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.04459
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04459
 next_step: skim
+priority: low
+slack_ts: '1773544810.271399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in
+  LLM Safety Benchmarks'
 ---
 # Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks
 > 原文: [https://arxiv.org/abs/2603.04459](https://arxiv.org/abs/2603.04459)

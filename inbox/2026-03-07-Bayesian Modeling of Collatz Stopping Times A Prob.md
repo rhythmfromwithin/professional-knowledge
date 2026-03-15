@@ -1,11 +1,13 @@
 ---
-title: "Bayesian Modeling of Collatz Stopping Times: A Probabilistic Machine Learning Perspective"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.04479
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04479
 next_step: skim
+priority: medium
+slack_ts: '1773544810.172439'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Bayesian Modeling of Collatz Stopping Times: A Probabilistic Machine Learning
+  Perspective'
 ---
 # Bayesian Modeling of Collatz Stopping Times: A Probabilistic Machine Learning Perspective
 > 原文: [https://arxiv.org/abs/2603.04479](https://arxiv.org/abs/2603.04479)

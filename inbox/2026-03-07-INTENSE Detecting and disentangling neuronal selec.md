@@ -1,11 +1,13 @@
 ---
-title: "INTENSE: Detecting and disentangling neuronal selectivity in calcium imaging data"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.04622
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04622
 next_step: skim
+priority: low
+slack_ts: '1773544812.218629'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'INTENSE: Detecting and disentangling neuronal selectivity in calcium imaging
+  data'
 ---
 # INTENSE: Detecting and disentangling neuronal selectivity in calcium imaging data
 > 原文: [https://arxiv.org/abs/2603.04622](https://arxiv.org/abs/2603.04622)

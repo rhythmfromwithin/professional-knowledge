@@ -1,11 +1,13 @@
 ---
-title: "Permutation-Equivariant 2D State Space Models: Theory and Canonical Architecture for Multivariate Time Series"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.08753
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08753
 next_step: skim
+priority: medium
+slack_ts: '1773544825.379129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Permutation-Equivariant 2D State Space Models: Theory and Canonical Architecture
+  for Multivariate Time Series'
 ---
 # Permutation-Equivariant 2D State Space Models: Theory and Canonical Architecture for Multivariate Time Series
 > 原文: [https://arxiv.org/abs/2603.08753](https://arxiv.org/abs/2603.08753)

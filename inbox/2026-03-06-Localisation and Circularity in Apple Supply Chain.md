@@ -1,11 +1,12 @@
 ---
-title: "Localisation and Circularity in Apple Supply Chains: An Algorithmic Exploration"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.03288
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.03288
 next_step: skim
+priority: low
+slack_ts: '1773544806.969389'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Localisation and Circularity in Apple Supply Chains: An Algorithmic Exploration'
 ---
 # Localisation and Circularity in Apple Supply Chains: An Algorithmic Exploration
 > 原文: [https://arxiv.org/abs/2603.03288](https://arxiv.org/abs/2603.03288)
