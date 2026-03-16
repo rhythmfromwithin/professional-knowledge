@@ -1,11 +1,13 @@
 ---
-title: "Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/
 next_step: skim
+priority: high
+slack_ts: '1773631323.228489'
+source: AWS Blog
+status: unread
+title: Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region
+  inference
 ---
 # Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference
 > 原文: [https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/](https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/)

@@ -1,11 +1,12 @@
 ---
-title: "Token Taxes: mitigating AGI's economic risks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.04555
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04555
 next_step: skim
+priority: medium
+slack_ts: '1773631318.891089'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Token Taxes: mitigating AGI''s economic risks'
 ---
 # Token Taxes: mitigating AGI's economic risks
 > 原文: [https://arxiv.org/abs/2603.04555](https://arxiv.org/abs/2603.04555)

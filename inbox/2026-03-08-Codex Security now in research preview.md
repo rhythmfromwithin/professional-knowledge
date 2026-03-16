@@ -1,11 +1,12 @@
 ---
-title: "Codex Security: now in research preview"
-source: "OpenAI Blog"
-link: https://openai.com/index/codex-security-now-in-research-preview
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/codex-security-now-in-research-preview
 next_step: skim
+priority: high
+slack_ts: '1773631319.342099'
+source: OpenAI Blog
+status: unread
+title: 'Codex Security: now in research preview'
 ---
 # Codex Security: now in research preview
 > 原文: [https://openai.com/index/codex-security-now-in-research-preview](https://openai.com/index/codex-security-now-in-research-preview)

@@ -1,11 +1,12 @@
 ---
-title: "XR and Hybrid Data Visualization Spaces for Enhanced Data Analytics"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.05509
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05509
 next_step: skim
+priority: low
+slack_ts: '1773631326.099529'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: XR and Hybrid Data Visualization Spaces for Enhanced Data Analytics
 ---
 # XR and Hybrid Data Visualization Spaces for Enhanced Data Analytics
 > 原文: [https://arxiv.org/abs/2603.05509](https://arxiv.org/abs/2603.05509)

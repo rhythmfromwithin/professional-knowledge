@@ -1,11 +1,12 @@
 ---
-title: "Probing Memes in LLMs: A Paradigm for the Entangled Evaluation World"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.04408
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04408
 next_step: skim
+priority: high
+slack_ts: '1773631318.311479'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Probing Memes in LLMs: A Paradigm for the Entangled Evaluation World'
 ---
 # Probing Memes in LLMs: A Paradigm for the Entangled Evaluation World
 > 原文: [https://arxiv.org/abs/2603.04408](https://arxiv.org/abs/2603.04408)

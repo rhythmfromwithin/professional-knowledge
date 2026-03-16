@@ -1,11 +1,12 @@
 ---
-title: "Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/
 next_step: skim
+priority: high
+slack_ts: '1773631321.393239'
+source: AWS Blog
+status: unread
+title: Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline
 ---
 # Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline
 > 原文: [https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/](https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/)

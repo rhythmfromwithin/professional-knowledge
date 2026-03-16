@@ -1,11 +1,13 @@
 ---
-title: "AI-Powered Multi-Stakeholder Ecosystems for Global Development: A Design Research Study on the GSI D-Hub Proof-of-Concept Platform"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.06584
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06584
 next_step: skim
+priority: low
+slack_ts: '1773631322.958299'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'AI-Powered Multi-Stakeholder Ecosystems for Global Development: A Design Research
+  Study on the GSI D-Hub Proof-of-Concept Platform'
 ---
 # AI-Powered Multi-Stakeholder Ecosystems for Global Development: A Design Research Study on the GSI D-Hub Proof-of-Concept Platform
 > 原文: [https://arxiv.org/abs/2603.06584](https://arxiv.org/abs/2603.06584)

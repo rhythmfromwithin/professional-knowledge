@@ -1,11 +1,12 @@
 ---
-title: "SkillNet: Create, Evaluate, and Connect AI Skills"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.04448
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04448
 next_step: skim
+priority: high
+slack_ts: '1773631318.713409'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SkillNet: Create, Evaluate, and Connect AI Skills'
 ---
 # SkillNet: Create, Evaluate, and Connect AI Skills
 > 原文: [https://arxiv.org/abs/2603.04448](https://arxiv.org/abs/2603.04448)

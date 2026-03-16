@@ -1,11 +1,12 @@
 ---
-title: "GenAI Is No Silver Bullet for Qualitative Research in Software Engineering"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.08951
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08951
 next_step: skim
+priority: low
+slack_ts: '1773631329.132299'
+source: cs.SE - Software Engineering
+status: unread
+title: GenAI Is No Silver Bullet for Qualitative Research in Software Engineering
 ---
 # GenAI Is No Silver Bullet for Qualitative Research in Software Engineering
 > 原文: [https://arxiv.org/abs/2603.08951](https://arxiv.org/abs/2603.08951)

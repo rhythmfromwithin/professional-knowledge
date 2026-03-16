@@ -1,11 +1,12 @@
 ---
-title: "A Pivot-Based Kirigami Utensil for Hand-Held and Robot-Assisted Feeding"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.06716
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06716
 next_step: skim
+priority: medium
+slack_ts: '1773631322.868209'
+source: cs.RO - Robotics
+status: unread
+title: A Pivot-Based Kirigami Utensil for Hand-Held and Robot-Assisted Feeding
 ---
 # A Pivot-Based Kirigami Utensil for Hand-Held and Robot-Assisted Feeding
 > 原文: [https://arxiv.org/abs/2603.06716](https://arxiv.org/abs/2603.06716)

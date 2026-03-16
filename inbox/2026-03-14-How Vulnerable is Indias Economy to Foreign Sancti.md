@@ -1,11 +1,12 @@
 ---
-title: "How Vulnerable is India's Economy to Foreign Sanctions?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.12128
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12128
 next_step: skim
+priority: low
+slack_ts: '1773631334.104299'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: How Vulnerable is India's Economy to Foreign Sanctions?
 ---
 # How Vulnerable is India's Economy to Foreign Sanctions?
 > 原文: [https://arxiv.org/abs/2603.12128](https://arxiv.org/abs/2603.12128)

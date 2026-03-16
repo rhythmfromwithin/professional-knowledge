@@ -1,11 +1,13 @@
 ---
-title: "Robust Parameter and State Estimation in Multiscale Neuronal Systems Using Physics-Informed Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.08742
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08742
 next_step: skim
+priority: low
+slack_ts: '1773631330.127609'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Robust Parameter and State Estimation in Multiscale Neuronal Systems Using
+  Physics-Informed Neural Networks
 ---
 # Robust Parameter and State Estimation in Multiscale Neuronal Systems Using Physics-Informed Neural Networks
 > 原文: [https://arxiv.org/abs/2603.08742](https://arxiv.org/abs/2603.08742)

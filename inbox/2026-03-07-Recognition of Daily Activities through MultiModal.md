@@ -1,11 +1,13 @@
 ---
-title: "Recognition of Daily Activities through Multi-Modal Deep Learning: A Video, Pose, and Object-Aware Approach for Ambient Assisted Living"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.04509
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04509
 next_step: skim
+priority: medium
+slack_ts: '1773631318.522989'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Recognition of Daily Activities through Multi-Modal Deep Learning: A Video,
+  Pose, and Object-Aware Approach for Ambient Assisted Living'
 ---
 # Recognition of Daily Activities through Multi-Modal Deep Learning: A Video, Pose, and Object-Aware Approach for Ambient Assisted Living
 > 原文: [https://arxiv.org/abs/2603.04509](https://arxiv.org/abs/2603.04509)

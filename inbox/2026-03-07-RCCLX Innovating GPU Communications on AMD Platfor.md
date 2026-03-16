@@ -1,11 +1,12 @@
 ---
-title: "RCCLX: Innovating GPU Communications on AMD Platforms"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/
 next_step: skim
+priority: medium
+slack_ts: '1773631318.410949'
+source: Meta Engineering
+status: unread
+title: 'RCCLX: Innovating GPU Communications on AMD Platforms'
 ---
 # RCCLX: Innovating GPU Communications on AMD Platforms
 > 原文: [https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/](https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/)

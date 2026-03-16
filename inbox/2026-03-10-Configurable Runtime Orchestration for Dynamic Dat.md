@@ -1,11 +1,13 @@
 ---
-title: "Configurable Runtime Orchestration for Dynamic Data Retrieval in Distributed Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.06980
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06980
 next_step: skim
+priority: medium
+slack_ts: '1773631324.137929'
+source: cs.DC - Distributed Computing
+status: unread
+title: Configurable Runtime Orchestration for Dynamic Data Retrieval in Distributed
+  Systems
 ---
 # Configurable Runtime Orchestration for Dynamic Data Retrieval in Distributed Systems
 > 原文: [https://arxiv.org/abs/2603.06980](https://arxiv.org/abs/2603.06980)

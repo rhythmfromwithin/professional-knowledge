@@ -1,11 +1,12 @@
 ---
-title: "Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.04746
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04746
 next_step: skim
+priority: low
+slack_ts: '1773631319.156669'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research'
 ---
 # Visioning Human-Agentic AI Teaming: Continuity, Tension, and Future Research
 > 原文: [https://arxiv.org/abs/2603.04746](https://arxiv.org/abs/2603.04746)

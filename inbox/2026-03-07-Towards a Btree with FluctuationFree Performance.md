@@ -1,11 +1,12 @@
 ---
-title: "Towards a B+-tree with Fluctuation-Free Performance"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.04785
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.04785
 next_step: skim
+priority: low
+slack_ts: '1773631318.972639'
+source: cs.DB - Databases
+status: unread
+title: Towards a B+-tree with Fluctuation-Free Performance
 ---
 # Towards a B+-tree with Fluctuation-Free Performance
 > 原文: [https://arxiv.org/abs/2603.04785](https://arxiv.org/abs/2603.04785)

@@ -1,11 +1,13 @@
 ---
-title: "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/
 next_step: skim
+priority: high
+slack_ts: '1773631320.134669'
+source: AWS Blog
+status: unread
+title: Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI
+  agents
 ---
 # Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/](https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/)
