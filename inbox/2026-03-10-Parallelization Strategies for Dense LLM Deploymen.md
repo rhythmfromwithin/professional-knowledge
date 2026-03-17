@@ -1,11 +1,13 @@
 ---
-title: "Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.05692
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05692
 next_step: skim
+priority: medium
+slack_ts: '1773715515.216889'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific
+  Tradeoffs and Bottlenecks'
 ---
 # Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks
 > 原文: [https://arxiv.org/abs/2603.05692](https://arxiv.org/abs/2603.05692)

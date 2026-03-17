@@ -1,11 +1,12 @@
 ---
-title: "Causal Interpretation of Neural Network Computations with Contribution Decomposition"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.06557
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06557
 next_step: skim
+priority: low
+slack_ts: '1773715511.406489'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Causal Interpretation of Neural Network Computations with Contribution Decomposition
 ---
 # Causal Interpretation of Neural Network Computations with Contribution Decomposition
 > 原文: [https://arxiv.org/abs/2603.06557](https://arxiv.org/abs/2603.06557)

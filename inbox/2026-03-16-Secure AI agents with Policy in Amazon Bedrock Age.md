@@ -1,11 +1,12 @@
 ---
-title: "Secure AI agents with Policy in Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1773715543.534269'
+source: AWS Blog
+status: unread
+title: Secure AI agents with Policy in Amazon Bedrock AgentCore
 ---
 # Secure AI agents with Policy in Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/)

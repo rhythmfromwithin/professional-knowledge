@@ -1,11 +1,13 @@
 ---
-title: "Uncovering statistical structure in large-scale neural activity with Restricted Boltzmann Machines"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.11032
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11032
 next_step: skim
+priority: low
+slack_ts: '1773715532.561419'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Uncovering statistical structure in large-scale neural activity with Restricted
+  Boltzmann Machines
 ---
 # Uncovering statistical structure in large-scale neural activity with Restricted Boltzmann Machines
 > 原文: [https://arxiv.org/abs/2603.11032](https://arxiv.org/abs/2603.11032)

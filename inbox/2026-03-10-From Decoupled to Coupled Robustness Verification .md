@@ -1,11 +1,13 @@
 ---
-title: "From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.05604
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05604
 next_step: skim
+priority: medium
+slack_ts: '1773715513.148959'
+source: cs.CV - Computer Vision
+status: unread
+title: 'From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint
+  Detection with Joint Specifications'
 ---
 # From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications
 > 原文: [https://arxiv.org/abs/2603.05604](https://arxiv.org/abs/2603.05604)

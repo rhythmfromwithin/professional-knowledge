@@ -1,11 +1,13 @@
 ---
-title: "Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.05517
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05517
 next_step: skim
+priority: high
+slack_ts: '1773715518.175469'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable
+  Policies for Safe, Robust, and Efficient Agents'
 ---
 # Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents
 > 原文: [https://arxiv.org/abs/2603.05517](https://arxiv.org/abs/2603.05517)

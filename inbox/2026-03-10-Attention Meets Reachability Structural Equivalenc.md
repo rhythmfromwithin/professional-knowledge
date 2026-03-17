@@ -1,11 +1,13 @@
 ---
-title: "Attention Meets Reachability: Structural Equivalence and Efficiency in Grammar-Constrained LLM Decoding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.05540
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05540
 next_step: skim
+priority: high
+slack_ts: '1773715510.990439'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Attention Meets Reachability: Structural Equivalence and Efficiency in Grammar-Constrained
+  LLM Decoding'
 ---
 # Attention Meets Reachability: Structural Equivalence and Efficiency in Grammar-Constrained LLM Decoding
 > 原文: [https://arxiv.org/abs/2603.05540](https://arxiv.org/abs/2603.05540)

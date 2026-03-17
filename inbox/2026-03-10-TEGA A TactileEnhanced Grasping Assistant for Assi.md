@@ -1,11 +1,13 @@
 ---
-title: "TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.05552
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05552
 next_step: skim
+priority: medium
+slack_ts: '1773715517.361999'
+source: cs.RO - Robotics
+status: unread
+title: 'TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor
+  Fusion and Closed-Loop Haptic Feedback'
 ---
 # TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback
 > 原文: [https://arxiv.org/abs/2603.05552](https://arxiv.org/abs/2603.05552)

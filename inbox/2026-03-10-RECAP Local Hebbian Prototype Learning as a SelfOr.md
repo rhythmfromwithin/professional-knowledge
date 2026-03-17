@@ -1,11 +1,13 @@
 ---
-title: "RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.06639
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06639
 next_step: skim
+priority: low
+slack_ts: '1773715515.886629'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir
+  Dynamics'
 ---
 # RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics
 > 原文: [https://arxiv.org/abs/2603.06639](https://arxiv.org/abs/2603.06639)

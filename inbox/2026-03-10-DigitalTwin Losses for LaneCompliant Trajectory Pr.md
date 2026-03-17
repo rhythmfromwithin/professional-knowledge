@@ -1,11 +1,12 @@
 ---
-title: "Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.05546
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05546
 next_step: skim
+priority: medium
+slack_ts: '1773715511.930219'
+source: cs.RO - Robotics
+status: unread
+title: Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections
 ---
 # Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections
 > 原文: [https://arxiv.org/abs/2603.05546](https://arxiv.org/abs/2603.05546)

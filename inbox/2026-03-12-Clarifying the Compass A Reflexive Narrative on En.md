@@ -1,11 +1,13 @@
 ---
-title: "Clarifying the Compass: A Reflexive Narrative on Entry Barriers into HCI and Aging Research"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.08818
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08818
 next_step: skim
+priority: low
+slack_ts: '1773715523.574899'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Clarifying the Compass: A Reflexive Narrative on Entry Barriers into HCI and
+  Aging Research'
 ---
 # Clarifying the Compass: A Reflexive Narrative on Entry Barriers into HCI and Aging Research
 > 原文: [https://arxiv.org/abs/2603.08818](https://arxiv.org/abs/2603.08818)

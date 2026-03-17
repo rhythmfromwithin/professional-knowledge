@@ -1,11 +1,13 @@
 ---
-title: "GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.06620
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06620
 next_step: skim
+priority: low
+slack_ts: '1773715513.539309'
+source: cs.SE - Software Engineering
+status: unread
+title: 'GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for
+  Complex Graph Reasoning'
 ---
 # GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning
 > 原文: [https://arxiv.org/abs/2603.06620](https://arxiv.org/abs/2603.06620)

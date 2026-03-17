@@ -1,11 +1,12 @@
 ---
-title: "Interventional Time Series Priors for Causal Foundation Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.11090
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11090
 next_step: skim
+priority: high
+slack_ts: '1773715535.596719'
+source: cs.LG - Machine Learning
+status: unread
+title: Interventional Time Series Priors for Causal Foundation Models
 ---
 # Interventional Time Series Priors for Causal Foundation Models
 > 原文: [https://arxiv.org/abs/2603.11090](https://arxiv.org/abs/2603.11090)

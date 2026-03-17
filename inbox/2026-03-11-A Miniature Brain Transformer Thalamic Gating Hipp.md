@@ -1,11 +1,13 @@
 ---
-title: "A Miniature Brain Transformer: Thalamic Gating, Hippocampal Lateralization, Amygdaloid Salience, and Prefrontal Working Memory in Attention-Coupled Latent Memory"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.07217
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07217
 next_step: skim
+priority: low
+slack_ts: '1773715518.702449'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'A Miniature Brain Transformer: Thalamic Gating, Hippocampal Lateralization,
+  Amygdaloid Salience, and Prefrontal Working Memory in Attention-Coupled Latent Memory'
 ---
 # A Miniature Brain Transformer: Thalamic Gating, Hippocampal Lateralization, Amygdaloid Salience, and Prefrontal Working Memory in Attention-Coupled Latent Memory
 > 原文: [https://arxiv.org/abs/2603.07217](https://arxiv.org/abs/2603.07217)

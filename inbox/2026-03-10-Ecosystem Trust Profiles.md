@@ -1,11 +1,12 @@
 ---
-title: "Ecosystem Trust Profiles"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.05521
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05521
 next_step: skim
+priority: low
+slack_ts: '1773715512.324059'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Ecosystem Trust Profiles
 ---
 # Ecosystem Trust Profiles
 > 原文: [https://arxiv.org/abs/2603.05521](https://arxiv.org/abs/2603.05521)

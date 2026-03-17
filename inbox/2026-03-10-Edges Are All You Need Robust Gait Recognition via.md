@@ -1,11 +1,12 @@
 ---
-title: "Edges Are All You Need: Robust Gait Recognition via Label-Free Structure"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.05537
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05537
 next_step: skim
+priority: medium
+slack_ts: '1773715512.453769'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Edges Are All You Need: Robust Gait Recognition via Label-Free Structure'
 ---
 # Edges Are All You Need: Robust Gait Recognition via Label-Free Structure
 > 原文: [https://arxiv.org/abs/2603.05537](https://arxiv.org/abs/2603.05537)

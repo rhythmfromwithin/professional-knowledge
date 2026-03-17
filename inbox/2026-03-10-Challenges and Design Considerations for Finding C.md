@@ -1,11 +1,13 @@
 ---
-title: "Challenges and Design Considerations for Finding CUDA Bugs Through GPU-Native Fuzzing"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.05725
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05725
 next_step: skim
+priority: low
+slack_ts: '1773715511.528429'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Challenges and Design Considerations for Finding CUDA Bugs Through GPU-Native
+  Fuzzing
 ---
 # Challenges and Design Considerations for Finding CUDA Bugs Through GPU-Native Fuzzing
 > 原文: [https://arxiv.org/abs/2603.05725](https://arxiv.org/abs/2603.05725)

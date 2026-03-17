@@ -1,11 +1,12 @@
 ---
-title: "Agentic Control Center for Data Product Optimization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.10133
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10133
 next_step: skim
+priority: high
+slack_ts: '1773715528.554929'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Agentic Control Center for Data Product Optimization
 ---
 # Agentic Control Center for Data Product Optimization
 > 原文: [https://arxiv.org/abs/2603.10133](https://arxiv.org/abs/2603.10133)

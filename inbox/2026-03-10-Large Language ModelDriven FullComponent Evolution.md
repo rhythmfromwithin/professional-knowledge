@@ -1,11 +1,13 @@
 ---
-title: "Large Language Model-Driven Full-Component Evolution of Adaptive Large Neighborhood Search"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.06996
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06996
 next_step: skim
+priority: low
+slack_ts: '1773715514.715379'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Large Language Model-Driven Full-Component Evolution of Adaptive Large Neighborhood
+  Search
 ---
 # Large Language Model-Driven Full-Component Evolution of Adaptive Large Neighborhood Search
 > 原文: [https://arxiv.org/abs/2603.06996](https://arxiv.org/abs/2603.06996)

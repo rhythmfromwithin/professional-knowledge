@@ -1,11 +1,12 @@
 ---
-title: "Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.05801
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05801
 next_step: skim
+priority: medium
+slack_ts: '1773715510.689859'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks'
 ---
 # Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks
 > 原文: [https://arxiv.org/abs/2603.05801](https://arxiv.org/abs/2603.05801)

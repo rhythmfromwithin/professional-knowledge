@@ -1,11 +1,13 @@
 ---
-title: "Task learning increases information redundancy of neural responses in macaque visual cortex"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.07369
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07369
 next_step: skim
+priority: low
+slack_ts: '1773715517.485539'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Task learning increases information redundancy of neural responses in macaque
+  visual cortex
 ---
 # Task learning increases information redundancy of neural responses in macaque visual cortex
 > 原文: [https://arxiv.org/abs/2603.07369](https://arxiv.org/abs/2603.07369)

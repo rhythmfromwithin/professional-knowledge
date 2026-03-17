@@ -1,11 +1,13 @@
 ---
-title: "Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite Variance"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.06851
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06851
 next_step: skim
+priority: medium
+slack_ts: '1773715511.126249'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite
+  Variance'
 ---
 # Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite Variance
 > 原文: [https://arxiv.org/abs/2603.06851](https://arxiv.org/abs/2603.06851)

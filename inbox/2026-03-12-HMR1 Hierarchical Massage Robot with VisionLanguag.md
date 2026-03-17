@@ -1,11 +1,13 @@
 ---
-title: "HMR-1: Hierarchical Massage Robot with Vision-Language-Model for Embodied Healthcare"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.08817
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08817
 next_step: skim
+priority: medium
+slack_ts: '1773715525.314039'
+source: cs.RO - Robotics
+status: unread
+title: 'HMR-1: Hierarchical Massage Robot with Vision-Language-Model for Embodied
+  Healthcare'
 ---
 # HMR-1: Hierarchical Massage Robot with Vision-Language-Model for Embodied Healthcare
 > 原文: [https://arxiv.org/abs/2603.08817](https://arxiv.org/abs/2603.08817)

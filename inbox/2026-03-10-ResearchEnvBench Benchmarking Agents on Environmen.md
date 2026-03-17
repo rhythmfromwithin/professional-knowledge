@@ -1,11 +1,13 @@
 ---
-title: "ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.06739
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06739
 next_step: skim
+priority: low
+slack_ts: '1773715516.157729'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research
+  Code Execution'
 ---
 # ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution
 > 原文: [https://arxiv.org/abs/2603.06739](https://arxiv.org/abs/2603.06739)

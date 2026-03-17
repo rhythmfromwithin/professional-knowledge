@@ -1,11 +1,13 @@
 ---
-title: "Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.05542
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05542
 next_step: skim
+priority: low
+slack_ts: '1773715514.082859'
+source: cs.DB - Databases
+status: unread
+title: 'Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges
+  and Opportunities'
 ---
 # Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities
 > 原文: [https://arxiv.org/abs/2603.05542](https://arxiv.org/abs/2603.05542)

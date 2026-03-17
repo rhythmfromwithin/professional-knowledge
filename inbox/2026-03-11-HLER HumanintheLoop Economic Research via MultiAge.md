@@ -1,11 +1,13 @@
 ---
-title: "HLER: Human-in-the-Loop Economic Research via Multi-Agent Pipelines for Empirical Discovery"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.07444
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07444
 next_step: skim
+priority: low
+slack_ts: '1773715520.599799'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'HLER: Human-in-the-Loop Economic Research via Multi-Agent Pipelines for Empirical
+  Discovery'
 ---
 # HLER: Human-in-the-Loop Economic Research via Multi-Agent Pipelines for Empirical Discovery
 > 原文: [https://arxiv.org/abs/2603.07444](https://arxiv.org/abs/2603.07444)

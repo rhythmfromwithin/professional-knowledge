@@ -1,11 +1,12 @@
 ---
-title: "Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.05519
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05519
 next_step: skim
+priority: high
+slack_ts: '1773715518.417449'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection'
 ---
 # Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection
 > 原文: [https://arxiv.org/abs/2603.05519](https://arxiv.org/abs/2603.05519)

@@ -1,11 +1,13 @@
 ---
-title: "Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.05578
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05578
 next_step: skim
+priority: low
+slack_ts: '1773715517.993389'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language
+  Agent'
 ---
 # Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent
 > 原文: [https://arxiv.org/abs/2603.05578](https://arxiv.org/abs/2603.05578)

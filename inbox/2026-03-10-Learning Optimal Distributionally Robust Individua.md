@@ -1,11 +1,13 @@
 ---
-title: "Learning Optimal Distributionally Robust Individualized Treatment Rules Integrating Multi-Source Data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.05568
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05568
 next_step: skim
+priority: medium
+slack_ts: '1773715514.849899'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning Optimal Distributionally Robust Individualized Treatment Rules Integrating
+  Multi-Source Data
 ---
 # Learning Optimal Distributionally Robust Individualized Treatment Rules Integrating Multi-Source Data
 > 原文: [https://arxiv.org/abs/2603.05568](https://arxiv.org/abs/2603.05568)

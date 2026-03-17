@@ -1,11 +1,12 @@
 ---
-title: "Faster Relational Algorithms Using Geometric Data Structures"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.11402
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11402
 next_step: skim
+priority: low
+slack_ts: '1773715534.565569'
+source: cs.DB - Databases
+status: unread
+title: Faster Relational Algorithms Using Geometric Data Structures
 ---
 # Faster Relational Algorithms Using Geometric Data Structures
 > 原文: [https://arxiv.org/abs/2603.11402](https://arxiv.org/abs/2603.11402)

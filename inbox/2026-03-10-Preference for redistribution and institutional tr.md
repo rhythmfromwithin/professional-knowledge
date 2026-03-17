@@ -1,11 +1,13 @@
 ---
-title: "Preference for redistribution and institutional trust: Comparison before and after COVID-19"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.06106
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06106
 next_step: skim
+priority: low
+slack_ts: '1773715515.617519'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Preference for redistribution and institutional trust: Comparison before and
+  after COVID-19'
 ---
 # Preference for redistribution and institutional trust: Comparison before and after COVID-19
 > 原文: [https://arxiv.org/abs/2603.06106](https://arxiv.org/abs/2603.06106)

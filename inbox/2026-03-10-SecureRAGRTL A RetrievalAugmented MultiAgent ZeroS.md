@@ -1,11 +1,13 @@
 ---
-title: "SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.05689
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.05689
 next_step: skim
+priority: low
+slack_ts: '1773715516.839289'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework
+  for Hardware Vulnerability Detection'
 ---
 # SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection
 > 原文: [https://arxiv.org/abs/2603.05689](https://arxiv.org/abs/2603.05689)
