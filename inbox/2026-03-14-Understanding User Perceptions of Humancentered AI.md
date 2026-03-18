@@ -1,11 +1,13 @@
 ---
-title: "Understanding User Perceptions of Human-centered AI-Enhanced Support Group Formation in Online Healthcare Communities"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.11237
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11237
 next_step: skim
+priority: low
+slack_ts: '1773802303.517879'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Understanding User Perceptions of Human-centered AI-Enhanced Support Group
+  Formation in Online Healthcare Communities
 ---
 # Understanding User Perceptions of Human-centered AI-Enhanced Support Group Formation in Online Healthcare Communities
 > 原文: [https://arxiv.org/abs/2603.11237](https://arxiv.org/abs/2603.11237)

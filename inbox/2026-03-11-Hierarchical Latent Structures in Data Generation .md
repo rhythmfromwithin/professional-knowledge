@@ -1,11 +1,13 @@
 ---
-title: "Hierarchical Latent Structures in Data Generation Process Unify Mechanistic Phenomena across Scale"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.06592
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06592
 next_step: skim
+priority: high
+slack_ts: '1773802292.769089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Hierarchical Latent Structures in Data Generation Process Unify Mechanistic
+  Phenomena across Scale
 ---
 # Hierarchical Latent Structures in Data Generation Process Unify Mechanistic Phenomena across Scale
 > 原文: [https://arxiv.org/abs/2603.06592](https://arxiv.org/abs/2603.06592)

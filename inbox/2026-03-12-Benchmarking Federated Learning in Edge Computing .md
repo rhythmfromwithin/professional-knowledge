@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.08735
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08735
 next_step: skim
+priority: medium
+slack_ts: '1773802296.508359'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Benchmarking Federated Learning in Edge Computing Environments: A Systematic
+  Review and Performance Evaluation'
 ---
 # Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation
 > 原文: [https://arxiv.org/abs/2603.08735](https://arxiv.org/abs/2603.08735)

@@ -1,11 +1,12 @@
 ---
-title: "NCCLbpf: Verified, Composable Policy Execution for GPU Collective Communication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.11438
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11438
 next_step: skim
+priority: medium
+slack_ts: '1773802302.539239'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'NCCLbpf: Verified, Composable Policy Execution for GPU Collective Communication'
 ---
 # NCCLbpf: Verified, Composable Policy Execution for GPU Collective Communication
 > 原文: [https://arxiv.org/abs/2603.11438](https://arxiv.org/abs/2603.11438)

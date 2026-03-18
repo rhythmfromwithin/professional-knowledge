@@ -1,11 +1,12 @@
 ---
-title: "FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.06600
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06600
 next_step: skim
+priority: high
+slack_ts: '1773802292.570819'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures'
 ---
 # FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures
 > 原文: [https://arxiv.org/abs/2603.06600](https://arxiv.org/abs/2603.06600)

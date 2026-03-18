@@ -1,11 +1,12 @@
 ---
-title: "Improving instruction hierarchy in frontier LLMs"
-source: "OpenAI Blog"
-link: https://openai.com/index/instruction-hierarchy-challenge
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/instruction-hierarchy-challenge
 next_step: skim
+priority: high
+slack_ts: '1773802293.067789'
+source: OpenAI Blog
+status: unread
+title: Improving instruction hierarchy in frontier LLMs
 ---
 # Improving instruction hierarchy in frontier LLMs
 > 原文: [https://openai.com/index/instruction-hierarchy-challenge](https://openai.com/index/instruction-hierarchy-challenge)

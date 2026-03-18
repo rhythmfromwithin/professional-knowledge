@@ -1,11 +1,12 @@
 ---
-title: "CREDO: Epistemic-Aware Conformalized Credal Envelopes for Regression"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.06826
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06826
 next_step: skim
+priority: medium
+slack_ts: '1773802291.589769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'CREDO: Epistemic-Aware Conformalized Credal Envelopes for Regression'
 ---
 # CREDO: Epistemic-Aware Conformalized Credal Envelopes for Regression
 > 原文: [https://arxiv.org/abs/2603.06826](https://arxiv.org/abs/2603.06826)

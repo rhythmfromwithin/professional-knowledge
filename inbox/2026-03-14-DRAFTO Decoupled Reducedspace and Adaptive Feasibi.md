@@ -1,11 +1,13 @@
 ---
-title: "DRAFTO: Decoupled Reduced-space and Adaptive Feasibility-repair Trajectory Optimization for Robotic Manipulators"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.11074
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11074
 next_step: skim
+priority: medium
+slack_ts: '1773802301.480639'
+source: cs.RO - Robotics
+status: unread
+title: 'DRAFTO: Decoupled Reduced-space and Adaptive Feasibility-repair Trajectory
+  Optimization for Robotic Manipulators'
 ---
 # DRAFTO: Decoupled Reduced-space and Adaptive Feasibility-repair Trajectory Optimization for Robotic Manipulators
 > 原文: [https://arxiv.org/abs/2603.11074](https://arxiv.org/abs/2603.11074)

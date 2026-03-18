@@ -1,11 +1,13 @@
 ---
-title: "Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.06847
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06847
 next_step: skim
+priority: low
+slack_ts: '1773802291.689579'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root
+  Causes'
 ---
 # Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes
 > 原文: [https://arxiv.org/abs/2603.06847](https://arxiv.org/abs/2603.06847)

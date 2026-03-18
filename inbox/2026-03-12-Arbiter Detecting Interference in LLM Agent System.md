@@ -1,11 +1,12 @@
 ---
-title: "Arbiter: Detecting Interference in LLM Agent System Prompts"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.08993
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08993
 next_step: skim
+priority: low
+slack_ts: '1773802296.107199'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Arbiter: Detecting Interference in LLM Agent System Prompts'
 ---
 # Arbiter: Detecting Interference in LLM Agent System Prompts
 > 原文: [https://arxiv.org/abs/2603.08993](https://arxiv.org/abs/2603.08993)

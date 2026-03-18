@@ -1,11 +1,13 @@
 ---
-title: "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.06608
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06608
 next_step: skim
+priority: high
+slack_ts: '1773802294.593649'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark
+  for Accessible Reinforcement Learning Research'
 ---
 # Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research
 > 原文: [https://arxiv.org/abs/2603.06608](https://arxiv.org/abs/2603.06608)

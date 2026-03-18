@@ -1,11 +1,13 @@
 ---
-title: "Margin-Consistent Deep Subtyping of Invasive Lung Adenocarcinoma via Perturbation Fidelity in Whole-Slide Image Analysis"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.06650
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06650
 next_step: skim
+priority: medium
+slack_ts: '1773802293.485489'
+source: cs.CV - Computer Vision
+status: unread
+title: Margin-Consistent Deep Subtyping of Invasive Lung Adenocarcinoma via Perturbation
+  Fidelity in Whole-Slide Image Analysis
 ---
 # Margin-Consistent Deep Subtyping of Invasive Lung Adenocarcinoma via Perturbation Fidelity in Whole-Slide Image Analysis
 > 原文: [https://arxiv.org/abs/2603.06650](https://arxiv.org/abs/2603.06650)

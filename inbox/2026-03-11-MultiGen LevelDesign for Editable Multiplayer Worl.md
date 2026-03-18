@@ -1,11 +1,12 @@
 ---
-title: "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.06679
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06679
 next_step: skim
+priority: high
+slack_ts: '1773802293.596979'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines'
 ---
 # MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines
 > 原文: [https://arxiv.org/abs/2603.06679](https://arxiv.org/abs/2603.06679)

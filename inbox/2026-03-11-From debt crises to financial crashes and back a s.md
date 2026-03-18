@@ -1,11 +1,13 @@
 ---
-title: "From debt crises to financial crashes (and back): a stock-flow consistent model for stock price bubbles"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.07213
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07213
 next_step: skim
+priority: low
+slack_ts: '1773802292.346709'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'From debt crises to financial crashes (and back): a stock-flow consistent
+  model for stock price bubbles'
 ---
 # From debt crises to financial crashes (and back): a stock-flow consistent model for stock price bubbles
 > 原文: [https://arxiv.org/abs/2603.07213](https://arxiv.org/abs/2603.07213)

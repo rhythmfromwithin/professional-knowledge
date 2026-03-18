@@ -1,11 +1,12 @@
 ---
-title: "Hybrid Self-evolving Structured Memory for GUI Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.10291
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10291
 next_step: skim
+priority: high
+slack_ts: '1773802299.505939'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Hybrid Self-evolving Structured Memory for GUI Agents
 ---
 # Hybrid Self-evolving Structured Memory for GUI Agents
 > 原文: [https://arxiv.org/abs/2603.10291](https://arxiv.org/abs/2603.10291)

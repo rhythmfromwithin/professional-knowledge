@@ -1,11 +1,12 @@
 ---
-title: "ConFu: Contemplate the Future for Better Speculative Sampling"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.08899
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08899
 next_step: skim
+priority: high
+slack_ts: '1773802296.693569'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'ConFu: Contemplate the Future for Better Speculative Sampling'
 ---
 # ConFu: Contemplate the Future for Better Speculative Sampling
 > 原文: [https://arxiv.org/abs/2603.08899](https://arxiv.org/abs/2603.08899)

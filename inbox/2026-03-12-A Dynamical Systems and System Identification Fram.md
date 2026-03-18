@@ -1,11 +1,13 @@
 ---
-title: "A Dynamical Systems and System Identification Framework for Phase Amplitude Coupling Analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.08866
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08866
 next_step: skim
+priority: low
+slack_ts: '1773802295.463779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Dynamical Systems and System Identification Framework for Phase Amplitude
+  Coupling Analysis
 ---
 # A Dynamical Systems and System Identification Framework for Phase Amplitude Coupling Analysis
 > 原文: [https://arxiv.org/abs/2603.08866](https://arxiv.org/abs/2603.08866)

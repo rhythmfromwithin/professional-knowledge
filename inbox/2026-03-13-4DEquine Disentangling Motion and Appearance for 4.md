@@ -1,11 +1,13 @@
 ---
-title: "4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.10125
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10125
 next_step: skim
+priority: medium
+slack_ts: '1773802298.495389'
+source: cs.CV - Computer Vision
+status: unread
+title: '4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction
+  from Monocular Video'
 ---
 # 4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video
 > 原文: [https://arxiv.org/abs/2603.10125](https://arxiv.org/abs/2603.10125)

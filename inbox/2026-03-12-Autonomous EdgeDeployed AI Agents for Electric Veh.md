@@ -1,11 +1,13 @@
 ---
-title: "Autonomous Edge-Deployed AI Agents for Electric Vehicle Charging Infrastructure Management"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.08736
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08736
 next_step: skim
+priority: medium
+slack_ts: '1773802296.419169'
+source: cs.DC - Distributed Computing
+status: unread
+title: Autonomous Edge-Deployed AI Agents for Electric Vehicle Charging Infrastructure
+  Management
 ---
 # Autonomous Edge-Deployed AI Agents for Electric Vehicle Charging Infrastructure Management
 > 原文: [https://arxiv.org/abs/2603.08736](https://arxiv.org/abs/2603.08736)

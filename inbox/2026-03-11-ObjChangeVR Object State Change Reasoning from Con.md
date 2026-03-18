@@ -1,11 +1,13 @@
 ---
-title: "ObjChangeVR: Object State Change Reasoning from Continuous Egocentric Views in VR Environments"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.06648
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06648
 next_step: skim
+priority: medium
+slack_ts: '1773802293.802399'
+source: cs.CV - Computer Vision
+status: unread
+title: 'ObjChangeVR: Object State Change Reasoning from Continuous Egocentric Views
+  in VR Environments'
 ---
 # ObjChangeVR: Object State Change Reasoning from Continuous Egocentric Views in VR Environments
 > 原文: [https://arxiv.org/abs/2603.06648](https://arxiv.org/abs/2603.06648)

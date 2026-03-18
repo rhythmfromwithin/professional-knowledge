@@ -1,11 +1,12 @@
 ---
-title: "How Advanced Browsing Protection Works in Messenger"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/
 next_step: skim
+priority: medium
+slack_ts: '1773802292.858239'
+source: Meta Engineering
+status: unread
+title: How Advanced Browsing Protection Works in Messenger
 ---
 # How Advanced Browsing Protection Works in Messenger
 > 原文: [https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/](https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/)

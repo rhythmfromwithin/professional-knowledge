@@ -1,11 +1,12 @@
 ---
-title: "Polarization-wave propagation as a biophysical mechanism of visual cognition"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.07275
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07275
 next_step: skim
+priority: low
+slack_ts: '1773802294.106159'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Polarization-wave propagation as a biophysical mechanism of visual cognition
 ---
 # Polarization-wave propagation as a biophysical mechanism of visual cognition
 > 原文: [https://arxiv.org/abs/2603.07275](https://arxiv.org/abs/2603.07275)

@@ -1,11 +1,12 @@
 ---
-title: "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1773802294.488329'
+source: AWS Blog
+status: unread
+title: Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock
 ---
 # Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/)

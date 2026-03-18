@@ -1,11 +1,12 @@
 ---
-title: "ARC-AGI-2 Technical Report"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.06590
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06590
 next_step: skim
+priority: high
+slack_ts: '1773802290.615259'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: ARC-AGI-2 Technical Report
 ---
 # ARC-AGI-2 Technical Report
 > 原文: [https://arxiv.org/abs/2603.06590](https://arxiv.org/abs/2603.06590)

@@ -1,11 +1,13 @@
 ---
-title: "Robotic Foundation Models for Industrial Control: A Comprehensive Survey and Readiness Assessment Framework"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.06749
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06749
 next_step: skim
+priority: medium
+slack_ts: '1773802294.380269'
+source: cs.RO - Robotics
+status: unread
+title: 'Robotic Foundation Models for Industrial Control: A Comprehensive Survey and
+  Readiness Assessment Framework'
 ---
 # Robotic Foundation Models for Industrial Control: A Comprehensive Survey and Readiness Assessment Framework
 > 原文: [https://arxiv.org/abs/2603.06749](https://arxiv.org/abs/2603.06749)

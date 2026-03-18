@@ -1,0 +1,16 @@
+---
+title: "NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL"
+source: "cs.DC - Distributed Computing"
+link: https://arxiv.org/abs/2603.13606
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL
+> 原文: [https://arxiv.org/abs/2603.13606](https://arxiv.org/abs/2603.13606)
+
+arXiv:2603.13606v1 Announce Type: new
+Abstract: Mixture-of-Experts (MoE) architectures have become essential for scaling large language models, driving the development of specialized device-initiated communication libraries such as DeepEP, Hybrid-EP, and others. These libraries demonstrate the performance benefits of GPU-initiated RDMA for MoE dispatch and combine operations.
+This paper presents NCCL EP (Expert Parallelism), a ground-up MoE communication library built entirely on NCCL's Device API. NCCL EP provides unified ncclEpDispatch and ncclEpCombine primitives with both C and Python interfaces, supporting Low-Latency (LL) mode for inference decoding and High-Throughput (HT) mode for training and inference prefill. LL targets small batch sizes (1-128 tokens) using direct all-to-all RDMA+NVLink mesh connectivity with double-buffered communication for overlapping dispatch and combine phases. HT targets large batches (4096+ tokens) using hierarchical communication that aggregates tokens within NVLink domains before inter-node RDMA transmission. Both modes leverage Device API for both intra- and inter-node communications, taking advantage of its topology awareness and optimized GPU-initiated implementation.
+We evaluate NCCL EP on an H100-based cluster across multi-node configurations, demonstrating competitive LL kernel performance and presenting end-to-end results with vLLM integration. By building MoE communication natively within NCCL, NCCL EP provides a supported path for expert parallelism on current and emerging NVIDIA platforms.

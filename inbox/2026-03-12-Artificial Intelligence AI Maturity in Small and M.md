@@ -1,11 +1,13 @@
 ---
-title: "Artificial Intelligence (AI) Maturity in Small and Medium-Sized Enterprises: A Framework of Internalized and Ecosystem-Embedded Capabilities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.08728
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08728
 next_step: skim
+priority: medium
+slack_ts: '1773802296.229869'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Artificial Intelligence (AI) Maturity in Small and Medium-Sized Enterprises:
+  A Framework of Internalized and Ecosystem-Embedded Capabilities'
 ---
 # Artificial Intelligence (AI) Maturity in Small and Medium-Sized Enterprises: A Framework of Internalized and Ecosystem-Embedded Capabilities
 > 原文: [https://arxiv.org/abs/2603.08728](https://arxiv.org/abs/2603.08728)

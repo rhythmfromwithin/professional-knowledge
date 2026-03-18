@@ -1,11 +1,13 @@
 ---
-title: "Uber's Failover Architecture: Reconciling Reliability and Efficiency in Hyperscale Microservice Infrastructure"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.07345
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.07345
 next_step: skim
+priority: medium
+slack_ts: '1773802295.356729'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Uber''s Failover Architecture: Reconciling Reliability and Efficiency in Hyperscale
+  Microservice Infrastructure'
 ---
 # Uber's Failover Architecture: Reconciling Reliability and Efficiency in Hyperscale Microservice Infrastructure
 > 原文: [https://arxiv.org/abs/2603.07345](https://arxiv.org/abs/2603.07345)

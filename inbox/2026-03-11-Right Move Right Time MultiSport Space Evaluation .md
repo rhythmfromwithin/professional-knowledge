@@ -1,11 +1,13 @@
 ---
-title: "Right Move, Right Time: Multi-Sport Space Evaluation Platform for Ultimate Frisbee, Basketball, and Soccer"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.06585
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.06585
 next_step: skim
+priority: low
+slack_ts: '1773802294.285559'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Right Move, Right Time: Multi-Sport Space Evaluation Platform for Ultimate
+  Frisbee, Basketball, and Soccer'
 ---
 # Right Move, Right Time: Multi-Sport Space Evaluation Platform for Ultimate Frisbee, Basketball, and Soccer
 > 原文: [https://arxiv.org/abs/2603.06585](https://arxiv.org/abs/2603.06585)
