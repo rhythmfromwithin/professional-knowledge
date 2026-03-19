@@ -1,11 +1,13 @@
 ---
-title: "Intrinsic Numerical Robustness and Fault Tolerance in a Neuromorphic Algorithm for Scientific Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.10246
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10246
 next_step: skim
+priority: low
+slack_ts: '1773888806.115499'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Intrinsic Numerical Robustness and Fault Tolerance in a Neuromorphic Algorithm
+  for Scientific Computing
 ---
 # Intrinsic Numerical Robustness and Fault Tolerance in a Neuromorphic Algorithm for Scientific Computing
 > 原文: [https://arxiv.org/abs/2603.10246](https://arxiv.org/abs/2603.10246)

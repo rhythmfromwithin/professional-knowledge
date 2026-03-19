@@ -1,11 +1,13 @@
 ---
-title: "OptBench: An Interactive Workbench for AI/ML-SQL Co-Optimization[Extended Demonstration Proposal]"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.08880
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08880
 next_step: skim
+priority: low
+slack_ts: '1773888799.790109'
+source: cs.DB - Databases
+status: unread
+title: 'OptBench: An Interactive Workbench for AI/ML-SQL Co-Optimization[Extended
+  Demonstration Proposal]'
 ---
 # OptBench: An Interactive Workbench for AI/ML-SQL Co-Optimization[Extended Demonstration Proposal]
 > 原文: [https://arxiv.org/abs/2603.08880](https://arxiv.org/abs/2603.08880)

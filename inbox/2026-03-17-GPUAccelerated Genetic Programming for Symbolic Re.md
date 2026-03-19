@@ -1,11 +1,12 @@
 ---
-title: "GPU-Accelerated Genetic Programming for Symbolic Regression with Beagle Framework"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.12292
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12292
 next_step: skim
+priority: low
+slack_ts: '1773888829.446519'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: GPU-Accelerated Genetic Programming for Symbolic Regression with Beagle Framework
 ---
 # GPU-Accelerated Genetic Programming for Symbolic Regression with Beagle Framework
 > 原文: [https://arxiv.org/abs/2603.12292](https://arxiv.org/abs/2603.12292)

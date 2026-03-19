@@ -1,11 +1,13 @@
 ---
-title: "Micro-Diffusion Compression - Binary Tree Tweedie Denoising for Online Probability Estimation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.08771
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08771
 next_step: skim
+priority: medium
+slack_ts: '1773888799.083679'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Micro-Diffusion Compression - Binary Tree Tweedie Denoising for Online Probability
+  Estimation
 ---
 # Micro-Diffusion Compression - Binary Tree Tweedie Denoising for Online Probability Estimation
 > 原文: [https://arxiv.org/abs/2603.08771](https://arxiv.org/abs/2603.08771)

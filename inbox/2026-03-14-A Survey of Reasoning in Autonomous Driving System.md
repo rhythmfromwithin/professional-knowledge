@@ -1,11 +1,13 @@
 ---
-title: "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.11093
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11093
 next_step: skim
+priority: high
+slack_ts: '1773888809.526729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging
+  Paradigms'
 ---
 # A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms
 > 原文: [https://arxiv.org/abs/2603.11093](https://arxiv.org/abs/2603.11093)

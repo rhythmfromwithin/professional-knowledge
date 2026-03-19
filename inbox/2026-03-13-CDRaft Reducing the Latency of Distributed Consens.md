@@ -1,11 +1,12 @@
 ---
-title: "CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.10555
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10555
 next_step: skim
+priority: medium
+slack_ts: '1773888803.408209'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites'
 ---
 # CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites
 > 原文: [https://arxiv.org/abs/2603.10555](https://arxiv.org/abs/2603.10555)

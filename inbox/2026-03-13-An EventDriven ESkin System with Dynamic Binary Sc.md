@@ -1,11 +1,13 @@
 ---
-title: "An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.10537
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10537
 next_step: skim
+priority: low
+slack_ts: '1773888802.614729'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN
+  Classification
 ---
 # An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification
 > 原文: [https://arxiv.org/abs/2603.10537](https://arxiv.org/abs/2603.10537)

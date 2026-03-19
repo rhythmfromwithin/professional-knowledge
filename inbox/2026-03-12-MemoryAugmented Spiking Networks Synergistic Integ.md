@@ -1,11 +1,13 @@
 ---
-title: "Memory-Augmented Spiking Networks: Synergistic Integration of Complementary Mechanisms for Neuromorphic Vision"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.08730
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08730
 next_step: skim
+priority: low
+slack_ts: '1773888798.899789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Memory-Augmented Spiking Networks: Synergistic Integration of Complementary
+  Mechanisms for Neuromorphic Vision'
 ---
 # Memory-Augmented Spiking Networks: Synergistic Integration of Complementary Mechanisms for Neuromorphic Vision
 > 原文: [https://arxiv.org/abs/2603.08730](https://arxiv.org/abs/2603.08730)

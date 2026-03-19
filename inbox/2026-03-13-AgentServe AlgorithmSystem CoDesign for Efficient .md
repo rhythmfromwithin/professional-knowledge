@@ -1,11 +1,13 @@
 ---
-title: "AgentServe: Algorithm-System Co-Design for Efficient Agentic AI Serving on a Consumer-Grade GPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.10342
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10342
 next_step: skim
+priority: medium
+slack_ts: '1773888802.408969'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'AgentServe: Algorithm-System Co-Design for Efficient Agentic AI Serving on
+  a Consumer-Grade GPU'
 ---
 # AgentServe: Algorithm-System Co-Design for Efficient Agentic AI Serving on a Consumer-Grade GPU
 > 原文: [https://arxiv.org/abs/2603.10342](https://arxiv.org/abs/2603.10342)

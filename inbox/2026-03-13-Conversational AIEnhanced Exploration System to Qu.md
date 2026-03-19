@@ -1,11 +1,13 @@
 ---
-title: "Conversational AI-Enhanced Exploration System to Query Large-Scale Digitised Collections of Natural History Museums"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.10285
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10285
 next_step: skim
+priority: low
+slack_ts: '1773888803.762379'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Conversational AI-Enhanced Exploration System to Query Large-Scale Digitised
+  Collections of Natural History Museums
 ---
 # Conversational AI-Enhanced Exploration System to Query Large-Scale Digitised Collections of Natural History Museums
 > 原文: [https://arxiv.org/abs/2603.10285](https://arxiv.org/abs/2603.10285)

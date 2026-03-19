@@ -1,11 +1,13 @@
 ---
-title: "AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.09982
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09982
 next_step: skim
+priority: high
+slack_ts: '1773888803.027459'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling
+  for Arabic'
 ---
 # AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic
 > 原文: [https://arxiv.org/abs/2603.09982](https://arxiv.org/abs/2603.09982)

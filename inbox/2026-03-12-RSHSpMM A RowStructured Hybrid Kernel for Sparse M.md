@@ -1,11 +1,13 @@
 ---
-title: "RSH-SpMM: A Row-Structured Hybrid Kernel for Sparse Matrix-Matrix Multiplication on GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.08734
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08734
 next_step: skim
+priority: medium
+slack_ts: '1773888800.641729'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'RSH-SpMM: A Row-Structured Hybrid Kernel for Sparse Matrix-Matrix Multiplication
+  on GPUs'
 ---
 # RSH-SpMM: A Row-Structured Hybrid Kernel for Sparse Matrix-Matrix Multiplication on GPUs
 > 原文: [https://arxiv.org/abs/2603.08734](https://arxiv.org/abs/2603.08734)

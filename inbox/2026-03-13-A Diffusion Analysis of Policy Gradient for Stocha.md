@@ -1,11 +1,12 @@
 ---
-title: "A Diffusion Analysis of Policy Gradient for Stochastic Bandits"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.10219
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10219
 next_step: skim
+priority: medium
+slack_ts: '1773888801.877119'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Diffusion Analysis of Policy Gradient for Stochastic Bandits
 ---
 # A Diffusion Analysis of Policy Gradient for Stochastic Bandits
 > 原文: [https://arxiv.org/abs/2603.10219](https://arxiv.org/abs/2603.10219)

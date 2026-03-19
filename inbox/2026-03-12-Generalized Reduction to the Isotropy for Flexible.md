@@ -1,11 +1,12 @@
 ---
-title: "Generalized Reduction to the Isotropy for Flexible Equivariant Neural Fields"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.08758
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08758
 next_step: skim
+priority: high
+slack_ts: '1773888797.064719'
+source: cs.LG - Machine Learning
+status: unread
+title: Generalized Reduction to the Isotropy for Flexible Equivariant Neural Fields
 ---
 # Generalized Reduction to the Isotropy for Flexible Equivariant Neural Fields
 > 原文: [https://arxiv.org/abs/2603.08758](https://arxiv.org/abs/2603.08758)

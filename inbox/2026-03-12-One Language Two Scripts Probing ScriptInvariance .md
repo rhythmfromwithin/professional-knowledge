@@ -1,11 +1,12 @@
 ---
-title: "One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.08869
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08869
 next_step: skim
+priority: high
+slack_ts: '1773888799.403099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations'
 ---
 # One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations
 > 原文: [https://arxiv.org/abs/2603.08869](https://arxiv.org/abs/2603.08869)

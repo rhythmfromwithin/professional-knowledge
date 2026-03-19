@@ -1,11 +1,13 @@
 ---
-title: "The Data-Dollars Tradeoff: Privacy Harms vs. Economic Risk in Personalized AI Adoption"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.08848
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08848
 next_step: skim
+priority: low
+slack_ts: '1773888801.711699'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Data-Dollars Tradeoff: Privacy Harms vs. Economic Risk in Personalized
+  AI Adoption'
 ---
 # The Data-Dollars Tradeoff: Privacy Harms vs. Economic Risk in Personalized AI Adoption
 > 原文: [https://arxiv.org/abs/2603.08848](https://arxiv.org/abs/2603.08848)

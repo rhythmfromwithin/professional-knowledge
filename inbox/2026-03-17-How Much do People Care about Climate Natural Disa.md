@@ -1,11 +1,12 @@
 ---
-title: "How Much do People Care about Climate Natural Disasters?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.12883
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12883
 next_step: skim
+priority: low
+slack_ts: '1773888830.481329'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: How Much do People Care about Climate Natural Disasters?
 ---
 # How Much do People Care about Climate Natural Disasters?
 > 原文: [https://arxiv.org/abs/2603.12883](https://arxiv.org/abs/2603.12883)

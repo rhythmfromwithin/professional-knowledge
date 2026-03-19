@@ -1,11 +1,13 @@
 ---
-title: "Conscription and its exemption in 19th Century Japan: Incentivized family head in educational market"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.09005
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09005
 next_step: skim
+priority: low
+slack_ts: '1773888795.632209'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Conscription and its exemption in 19th Century Japan: Incentivized family
+  head in educational market'
 ---
 # Conscription and its exemption in 19th Century Japan: Incentivized family head in educational market
 > 原文: [https://arxiv.org/abs/2603.09005](https://arxiv.org/abs/2603.09005)

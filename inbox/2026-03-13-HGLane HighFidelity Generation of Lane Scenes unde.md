@@ -1,11 +1,13 @@
 ---
-title: "HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.10128
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10128
 next_step: skim
+priority: medium
+slack_ts: '1773888805.013099'
+source: cs.CV - Computer Vision
+status: unread
+title: 'HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and
+  Lighting Conditions without Re-annotation'
 ---
 # HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation
 > 原文: [https://arxiv.org/abs/2603.10128](https://arxiv.org/abs/2603.10128)

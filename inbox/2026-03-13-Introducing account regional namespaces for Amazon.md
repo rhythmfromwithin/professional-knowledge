@@ -1,11 +1,12 @@
 ---
-title: "Introducing account regional namespaces for Amazon S3 general purpose buckets"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/
 next_step: skim
+priority: high
+slack_ts: '1773888806.496849'
+source: AWS Blog
+status: unread
+title: Introducing account regional namespaces for Amazon S3 general purpose buckets
 ---
 # Introducing account regional namespaces for Amazon S3 general purpose buckets
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/](https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/)

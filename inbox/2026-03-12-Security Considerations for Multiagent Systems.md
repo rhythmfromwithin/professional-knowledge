@@ -1,11 +1,12 @@
 ---
-title: "Security Considerations for Multi-agent Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.09002
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09002
 next_step: skim
+priority: low
+slack_ts: '1773888801.034199'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Security Considerations for Multi-agent Systems
 ---
 # Security Considerations for Multi-agent Systems
 > 原文: [https://arxiv.org/abs/2603.09002](https://arxiv.org/abs/2603.09002)

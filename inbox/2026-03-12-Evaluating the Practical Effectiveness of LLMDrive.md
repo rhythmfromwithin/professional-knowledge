@@ -1,11 +1,13 @@
 ---
-title: "Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft Database Tuning Advisor"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.09181
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09181
 next_step: skim
+priority: low
+slack_ts: '1773888796.453669'
+source: cs.DB - Databases
+status: unread
+title: Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft
+  Database Tuning Advisor
 ---
 # Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft Database Tuning Advisor
 > 原文: [https://arxiv.org/abs/2603.09181](https://arxiv.org/abs/2603.09181)

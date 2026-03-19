@@ -1,11 +1,13 @@
 ---
-title: "Evidential learning driven Breast Tumor Segmentation with Stage-divided Vision-Language Interaction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.11206
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11206
 next_step: skim
+priority: medium
+slack_ts: '1773888812.480059'
+source: cs.CV - Computer Vision
+status: unread
+title: Evidential learning driven Breast Tumor Segmentation with Stage-divided Vision-Language
+  Interaction
 ---
 # Evidential learning driven Breast Tumor Segmentation with Stage-divided Vision-Language Interaction
 > 原文: [https://arxiv.org/abs/2603.11206](https://arxiv.org/abs/2603.11206)

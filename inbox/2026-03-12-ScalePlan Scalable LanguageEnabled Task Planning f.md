@@ -1,11 +1,13 @@
 ---
-title: "Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.08814
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08814
 next_step: skim
+priority: medium
+slack_ts: '1773888800.842949'
+source: cs.RO - Robotics
+status: unread
+title: 'Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot
+  Teams'
 ---
 # Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams
 > 原文: [https://arxiv.org/abs/2603.08814](https://arxiv.org/abs/2603.08814)

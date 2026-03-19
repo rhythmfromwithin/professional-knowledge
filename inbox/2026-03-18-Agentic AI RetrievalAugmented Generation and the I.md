@@ -1,11 +1,13 @@
 ---
-title: "Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.13244
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13244
 next_step: skim
+priority: medium
+slack_ts: '1773888836.526059'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal
+  Architectures and Financial Governance in the Age of Distributional AGI'
 ---
 # Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI
 > 原文: [https://arxiv.org/abs/2603.13244](https://arxiv.org/abs/2603.13244)

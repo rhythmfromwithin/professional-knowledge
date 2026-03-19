@@ -1,11 +1,13 @@
 ---
-title: "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.08877
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08877
 next_step: skim
+priority: high
+slack_ts: '1773888800.477709'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained
+  Agentic LLM Search
 ---
 # Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search
 > 原文: [https://arxiv.org/abs/2603.08877](https://arxiv.org/abs/2603.08877)

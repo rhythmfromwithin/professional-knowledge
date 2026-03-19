@@ -1,11 +1,13 @@
 ---
-title: "NasoVoce: A Nose-Mounted Low-Audibility Speech Interface for Always-Available Speech Interaction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.10324
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10324
 next_step: skim
+priority: low
+slack_ts: '1773888807.463419'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'NasoVoce: A Nose-Mounted Low-Audibility Speech Interface for Always-Available
+  Speech Interaction'
 ---
 # NasoVoce: A Nose-Mounted Low-Audibility Speech Interface for Always-Available Speech Interaction
 > 原文: [https://arxiv.org/abs/2603.10324](https://arxiv.org/abs/2603.10324)

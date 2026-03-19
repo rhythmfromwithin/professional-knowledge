@@ -1,11 +1,13 @@
 ---
-title: "VulnAgent-X: A Layered Agentic Framework for Repository-Level Vulnerability Detection"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.13384
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13384
 next_step: skim
+priority: low
+slack_ts: '1773888845.474499'
+source: cs.SE - Software Engineering
+status: unread
+title: 'VulnAgent-X: A Layered Agentic Framework for Repository-Level Vulnerability
+  Detection'
 ---
 # VulnAgent-X: A Layered Agentic Framework for Repository-Level Vulnerability Detection
 > 原文: [https://arxiv.org/abs/2603.13384](https://arxiv.org/abs/2603.13384)

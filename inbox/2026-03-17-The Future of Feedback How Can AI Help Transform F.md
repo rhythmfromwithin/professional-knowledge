@@ -1,11 +1,13 @@
 ---
-title: "The Future of Feedback: How Can AI Help Transform Feedback to Be More Engaging, Effective, and Scalable?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.12463
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12463
 next_step: skim
+priority: medium
+slack_ts: '1773888834.455809'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Future of Feedback: How Can AI Help Transform Feedback to Be More Engaging,
+  Effective, and Scalable?'
 ---
 # The Future of Feedback: How Can AI Help Transform Feedback to Be More Engaging, Effective, and Scalable?
 > 原文: [https://arxiv.org/abs/2603.12463](https://arxiv.org/abs/2603.12463)

@@ -1,11 +1,12 @@
 ---
-title: "Hindsight Credit Assignment for Long-Horizon LLM Agents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.08754
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08754
 next_step: skim
+priority: high
+slack_ts: '1773888797.572949'
+source: cs.LG - Machine Learning
+status: unread
+title: Hindsight Credit Assignment for Long-Horizon LLM Agents
 ---
 # Hindsight Credit Assignment for Long-Horizon LLM Agents
 > 原文: [https://arxiv.org/abs/2603.08754](https://arxiv.org/abs/2603.08754)

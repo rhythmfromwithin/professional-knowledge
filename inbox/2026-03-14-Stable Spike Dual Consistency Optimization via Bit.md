@@ -1,11 +1,13 @@
 ---
-title: "Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.11676
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11676
 next_step: skim
+priority: low
+slack_ts: '1773888816.557179'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for
+  Spiking Neural Networks'
 ---
 # Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2603.11676](https://arxiv.org/abs/2603.11676)

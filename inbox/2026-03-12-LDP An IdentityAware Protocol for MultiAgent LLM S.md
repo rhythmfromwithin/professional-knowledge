@@ -1,11 +1,12 @@
 ---
-title: "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.08852
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08852
 next_step: skim
+priority: high
+slack_ts: '1773888798.454349'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems'
 ---
 # LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems
 > 原文: [https://arxiv.org/abs/2603.08852](https://arxiv.org/abs/2603.08852)

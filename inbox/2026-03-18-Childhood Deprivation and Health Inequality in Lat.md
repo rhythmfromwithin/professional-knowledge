@@ -1,11 +1,13 @@
 ---
-title: "Childhood Deprivation and Health Inequality in Later Life Across Divergent Life-Course Contexts: Evidence from Estonia, Latvia, and Israel"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.14118
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.14118
 next_step: skim
+priority: low
+slack_ts: '1773888838.432529'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Childhood Deprivation and Health Inequality in Later Life Across Divergent
+  Life-Course Contexts: Evidence from Estonia, Latvia, and Israel'
 ---
 # Childhood Deprivation and Health Inequality in Later Life Across Divergent Life-Course Contexts: Evidence from Estonia, Latvia, and Israel
 > 原文: [https://arxiv.org/abs/2603.14118](https://arxiv.org/abs/2603.14118)

@@ -1,11 +1,13 @@
 ---
-title: "Bridging the Gap Between Security Metrics and Key Risk Indicators: An Empirical Framework for Vulnerability Prioritization"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.12450
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12450
 next_step: skim
+priority: low
+slack_ts: '1773888827.515879'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Bridging the Gap Between Security Metrics and Key Risk Indicators: An Empirical
+  Framework for Vulnerability Prioritization'
 ---
 # Bridging the Gap Between Security Metrics and Key Risk Indicators: An Empirical Framework for Vulnerability Prioritization
 > 原文: [https://arxiv.org/abs/2603.12450](https://arxiv.org/abs/2603.12450)

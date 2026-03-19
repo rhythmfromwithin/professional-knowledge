@@ -1,11 +1,12 @@
 ---
-title: "Equitable Multi-Task Learning for AI-RANs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.08717
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08717
 next_step: skim
+priority: high
+slack_ts: '1773888796.257229'
+source: cs.LG - Machine Learning
+status: unread
+title: Equitable Multi-Task Learning for AI-RANs
 ---
 # Equitable Multi-Task Learning for AI-RANs
 > 原文: [https://arxiv.org/abs/2603.08717](https://arxiv.org/abs/2603.08717)

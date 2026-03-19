@@ -1,11 +1,12 @@
 ---
-title: "GhazalBench: Usage-Grounded Evaluation of LLMs on Persian Ghazals"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.09979
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09979
 next_step: skim
+priority: high
+slack_ts: '1773888804.817049'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'GhazalBench: Usage-Grounded Evaluation of LLMs on Persian Ghazals'
 ---
 # GhazalBench: Usage-Grounded Evaluation of LLMs on Persian Ghazals
 > 原文: [https://arxiv.org/abs/2603.09979](https://arxiv.org/abs/2603.09979)

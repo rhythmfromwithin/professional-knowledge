@@ -1,11 +1,12 @@
 ---
-title: "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/
 next_step: skim
+priority: high
+slack_ts: '1773888799.591969'
+source: AWS Blog
+status: unread
+title: 'Operationalizing Agentic AI Part 1: A Stakeholder’s Guide'
 ---
 # Operationalizing Agentic AI Part 1: A Stakeholder’s Guide
 > 原文: [https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/](https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/)

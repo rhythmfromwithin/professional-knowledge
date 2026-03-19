@@ -1,11 +1,12 @@
 ---
-title: "Filtered Spectral Projection for Quantum Principal Component Analysis"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.13441
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13441
 next_step: skim
+priority: medium
+slack_ts: '1773888839.480199'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Filtered Spectral Projection for Quantum Principal Component Analysis
 ---
 # Filtered Spectral Projection for Quantum Principal Component Analysis
 > 原文: [https://arxiv.org/abs/2603.13441](https://arxiv.org/abs/2603.13441)

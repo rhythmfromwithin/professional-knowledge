@@ -1,11 +1,13 @@
 ---
-title: "S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.10353
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10353
 next_step: skim
+priority: medium
+slack_ts: '1773888808.453519'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism
+  Load Balance'
 ---
 # S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance
 > 原文: [https://arxiv.org/abs/2603.10353](https://arxiv.org/abs/2603.10353)

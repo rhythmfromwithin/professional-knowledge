@@ -1,11 +1,13 @@
 ---
-title: "BCMI-Driven Motion Control Detection: EEG-Based Machine Learning and Interaction Entropy for High-Order Brain Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.15208
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15208
 next_step: skim
+priority: low
+slack_ts: '1773888837.454859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'BCMI-Driven Motion Control Detection: EEG-Based Machine Learning and Interaction
+  Entropy for High-Order Brain Networks'
 ---
 # BCMI-Driven Motion Control Detection: EEG-Based Machine Learning and Interaction Entropy for High-Order Brain Networks
 > 原文: [https://arxiv.org/abs/2603.15208](https://arxiv.org/abs/2603.15208)

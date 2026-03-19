@@ -1,11 +1,13 @@
 ---
-title: "What You Prompt is What You Get: Increasing Transparency of Prompting Using Prompt Cards"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.12741
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12741
 next_step: skim
+priority: medium
+slack_ts: '1773888835.442409'
+source: cs.CY - Computers and Society
+status: unread
+title: 'What You Prompt is What You Get: Increasing Transparency of Prompting Using
+  Prompt Cards'
 ---
 # What You Prompt is What You Get: Increasing Transparency of Prompting Using Prompt Cards
 > 原文: [https://arxiv.org/abs/2603.12741](https://arxiv.org/abs/2603.12741)

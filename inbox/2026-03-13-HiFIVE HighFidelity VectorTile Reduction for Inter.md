@@ -1,11 +1,12 @@
 ---
-title: "HiFIVE: High-Fidelity Vector-Tile Reduction for Interactive Map Exploration"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.10270
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10270
 next_step: skim
+priority: low
+slack_ts: '1773888805.169169'
+source: cs.DB - Databases
+status: unread
+title: 'HiFIVE: High-Fidelity Vector-Tile Reduction for Interactive Map Exploration'
 ---
 # HiFIVE: High-Fidelity Vector-Tile Reduction for Interactive Map Exploration
 > 原文: [https://arxiv.org/abs/2603.10270](https://arxiv.org/abs/2603.10270)

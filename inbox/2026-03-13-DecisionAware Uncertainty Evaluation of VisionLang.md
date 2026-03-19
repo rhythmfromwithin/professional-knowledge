@@ -1,11 +1,13 @@
 ---
-title: "Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.10061
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10061
 next_step: skim
+priority: medium
+slack_ts: '1773888803.943719'
+source: cs.RO - Robotics
+status: unread
+title: Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early
+  Action Anticipation for Human-Robot Interaction
 ---
 # Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction
 > 原文: [https://arxiv.org/abs/2603.10061](https://arxiv.org/abs/2603.10061)

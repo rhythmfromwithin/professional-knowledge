@@ -1,11 +1,12 @@
 ---
-title: "LLMs for Human Mobility: Opportunities, Challenges, and Future Directions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.12420
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12420
 next_step: skim
+priority: low
+slack_ts: '1773888831.459619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'LLMs for Human Mobility: Opportunities, Challenges, and Future Directions'
 ---
 # LLMs for Human Mobility: Opportunities, Challenges, and Future Directions
 > 原文: [https://arxiv.org/abs/2603.12420](https://arxiv.org/abs/2603.12420)

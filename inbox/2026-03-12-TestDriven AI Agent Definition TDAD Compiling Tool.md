@@ -1,11 +1,13 @@
 ---
-title: "Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.08806
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.08806
 next_step: skim
+priority: low
+slack_ts: '1773888801.528199'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral
+  Specifications'
 ---
 # Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications
 > 原文: [https://arxiv.org/abs/2603.08806](https://arxiv.org/abs/2603.08806)
