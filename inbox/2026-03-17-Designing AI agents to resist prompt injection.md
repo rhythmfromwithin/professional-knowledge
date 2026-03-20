@@ -1,11 +1,12 @@
 ---
-title: "Designing AI agents to resist prompt injection"
-source: "OpenAI Blog"
-link: https://openai.com/index/designing-agents-to-resist-prompt-injection
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/designing-agents-to-resist-prompt-injection
 next_step: skim
+priority: high
+slack_ts: '1773974660.748669'
+source: OpenAI Blog
+status: unread
+title: Designing AI agents to resist prompt injection
 ---
 # Designing AI agents to resist prompt injection
 > 原文: [https://openai.com/index/designing-agents-to-resist-prompt-injection](https://openai.com/index/designing-agents-to-resist-prompt-injection)

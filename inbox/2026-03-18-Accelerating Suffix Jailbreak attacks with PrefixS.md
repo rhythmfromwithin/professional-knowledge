@@ -1,11 +1,12 @@
 ---
-title: "Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.13420
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13420
 next_step: skim
+priority: low
+slack_ts: '1773974669.730509'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache
 ---
 # Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache
 > 原文: [https://arxiv.org/abs/2603.13420](https://arxiv.org/abs/2603.13420)

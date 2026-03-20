@@ -1,11 +1,12 @@
 ---
-title: "Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.12528
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12528
 next_step: skim
+priority: low
+slack_ts: '1773974668.765399'
+source: cs.DB - Databases
+status: unread
+title: Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendation
 ---
 # Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendation
 > 原文: [https://arxiv.org/abs/2603.12528](https://arxiv.org/abs/2603.12528)

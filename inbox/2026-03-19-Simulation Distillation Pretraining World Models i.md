@@ -1,11 +1,13 @@
 ---
-title: "Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.15759
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15759
 next_step: skim
+priority: medium
+slack_ts: '1773974690.692549'
+source: cs.RO - Robotics
+status: unread
+title: 'Simulation Distillation: Pretraining World Models in Simulation for Rapid
+  Real-World Adaptation'
 ---
 # Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation
 > 原文: [https://arxiv.org/abs/2603.15759](https://arxiv.org/abs/2603.15759)

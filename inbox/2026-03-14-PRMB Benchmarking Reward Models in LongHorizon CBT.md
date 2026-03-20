@@ -1,11 +1,12 @@
 ---
-title: "PRMB: Benchmarking Reward Models in Long-Horizon CBT-based Counseling Dialogue"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.11494
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11494
 next_step: skim
+priority: low
+slack_ts: '1773974647.067009'
+source: cs.DB - Databases
+status: unread
+title: 'PRMB: Benchmarking Reward Models in Long-Horizon CBT-based Counseling Dialogue'
 ---
 # PRMB: Benchmarking Reward Models in Long-Horizon CBT-based Counseling Dialogue
 > 原文: [https://arxiv.org/abs/2603.11494](https://arxiv.org/abs/2603.11494)

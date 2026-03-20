@@ -1,11 +1,13 @@
 ---
-title: "Model-Free Co-Optimization of Manufacturable Sensor Layouts and Deformation Proprioception"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.10059
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10059
 next_step: skim
+priority: medium
+slack_ts: '1773974636.276429'
+source: cs.RO - Robotics
+status: unread
+title: Model-Free Co-Optimization of Manufacturable Sensor Layouts and Deformation
+  Proprioception
 ---
 # Model-Free Co-Optimization of Manufacturable Sensor Layouts and Deformation Proprioception
 > 原文: [https://arxiv.org/abs/2603.10059](https://arxiv.org/abs/2603.10059)

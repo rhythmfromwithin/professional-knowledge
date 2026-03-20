@@ -1,11 +1,12 @@
 ---
-title: "Linear Readout of Neural Manifolds with Continuous Variables"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.10956
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10956
 next_step: skim
+priority: low
+slack_ts: '1773974635.870779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Linear Readout of Neural Manifolds with Continuous Variables
 ---
 # Linear Readout of Neural Manifolds with Continuous Variables
 > 原文: [https://arxiv.org/abs/2603.10956](https://arxiv.org/abs/2603.10956)

@@ -1,11 +1,12 @@
 ---
-title: "Equivalence of approximation by networks of single- and multi-spike neurons"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.13478
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13478
 next_step: skim
+priority: low
+slack_ts: '1773974673.651409'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Equivalence of approximation by networks of single- and multi-spike neurons
 ---
 # Equivalence of approximation by networks of single- and multi-spike neurons
 > 原文: [https://arxiv.org/abs/2603.13478](https://arxiv.org/abs/2603.13478)

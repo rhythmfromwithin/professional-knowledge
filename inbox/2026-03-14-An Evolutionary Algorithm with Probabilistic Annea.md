@@ -1,11 +1,13 @@
 ---
-title: "An Evolutionary Algorithm with Probabilistic Annealing for Large-scale Sparse Multi-objective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.11874
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11874
 next_step: skim
+priority: low
+slack_ts: '1773974640.326619'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: An Evolutionary Algorithm with Probabilistic Annealing for Large-scale Sparse
+  Multi-objective Optimization
 ---
 # An Evolutionary Algorithm with Probabilistic Annealing for Large-scale Sparse Multi-objective Optimization
 > 原文: [https://arxiv.org/abs/2603.11874](https://arxiv.org/abs/2603.11874)

@@ -1,11 +1,13 @@
 ---
-title: "Large Language Models and Book Summarization: Reading or Remembering, Which Is Better?"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.09981
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09981
 next_step: skim
+priority: high
+slack_ts: '1773974635.656659'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Large Language Models and Book Summarization: Reading or Remembering, Which
+  Is Better?'
 ---
 # Large Language Models and Book Summarization: Reading or Remembering, Which Is Better?
 > 原文: [https://arxiv.org/abs/2603.09981](https://arxiv.org/abs/2603.09981)

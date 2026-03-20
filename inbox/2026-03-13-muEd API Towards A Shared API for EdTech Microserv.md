@@ -1,11 +1,5 @@
 ---
-title: "$\mu$Ed API: Towards A Shared API for EdTech Microservices"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.10014
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1773974639.519159'
 ---
 # $\mu$Ed API: Towards A Shared API for EdTech Microservices
 > 原文: [https://arxiv.org/abs/2603.10014](https://arxiv.org/abs/2603.10014)

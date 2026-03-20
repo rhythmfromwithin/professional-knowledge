@@ -1,11 +1,13 @@
 ---
-title: "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.12483
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12483
 next_step: skim
+priority: high
+slack_ts: '1773974662.682069'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents
+  with AgentFuel
 ---
 # Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel
 > 原文: [https://arxiv.org/abs/2603.12483](https://arxiv.org/abs/2603.12483)

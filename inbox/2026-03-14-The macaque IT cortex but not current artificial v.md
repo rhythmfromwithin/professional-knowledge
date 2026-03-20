@@ -1,11 +1,13 @@
 ---
-title: "The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.11248
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11248
 next_step: skim
+priority: low
+slack_ts: '1773974649.739579'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The macaque IT cortex but not current artificial vision networks encode object
+  position in perceptually aligned coordinates
 ---
 # The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates
 > 原文: [https://arxiv.org/abs/2603.11248](https://arxiv.org/abs/2603.11248)

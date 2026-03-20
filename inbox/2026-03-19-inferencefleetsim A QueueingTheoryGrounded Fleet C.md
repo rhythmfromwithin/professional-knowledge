@@ -1,11 +1,13 @@
 ---
-title: "inference-fleet-sim: A Queueing-Theory-Grounded Fleet Capacity Planner for LLM Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.16054
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16054
 next_step: skim
+priority: medium
+slack_ts: '1773974692.666549'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'inference-fleet-sim: A Queueing-Theory-Grounded Fleet Capacity Planner for
+  LLM Inference'
 ---
 # inference-fleet-sim: A Queueing-Theory-Grounded Fleet Capacity Planner for LLM Inference
 > 原文: [https://arxiv.org/abs/2603.16054](https://arxiv.org/abs/2603.16054)

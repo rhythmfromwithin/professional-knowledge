@@ -1,11 +1,12 @@
 ---
-title: "Monitoring Limits in DAO Governance: Capacity Breakpoints and Endogenous Concentration"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.11222
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11222
 next_step: skim
+priority: low
+slack_ts: '1773974646.233179'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Monitoring Limits in DAO Governance: Capacity Breakpoints and Endogenous Concentration'
 ---
 # Monitoring Limits in DAO Governance: Capacity Breakpoints and Endogenous Concentration
 > 原文: [https://arxiv.org/abs/2603.11222](https://arxiv.org/abs/2603.11222)

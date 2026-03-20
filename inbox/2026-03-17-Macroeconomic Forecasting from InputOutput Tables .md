@@ -1,11 +1,13 @@
 ---
-title: "Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based Approach with FIGARO Data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.12412
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12412
 next_step: skim
+priority: low
+slack_ts: '1773974664.741779'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based
+  Approach with FIGARO Data'
 ---
 # Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based Approach with FIGARO Data
 > 原文: [https://arxiv.org/abs/2603.12412](https://arxiv.org/abs/2603.12412)

@@ -1,11 +1,12 @@
 ---
-title: "GGPT: Geometry Grounded Point Transformer"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.11174
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11174
 next_step: skim
+priority: medium
+slack_ts: '1773974643.814549'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GGPT: Geometry Grounded Point Transformer'
 ---
 # GGPT: Geometry Grounded Point Transformer
 > 原文: [https://arxiv.org/abs/2603.11174](https://arxiv.org/abs/2603.11174)

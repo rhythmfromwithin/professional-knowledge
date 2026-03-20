@@ -1,11 +1,12 @@
 ---
-title: "Parameter-Efficient Deep Learning for Ultrasound-Based Human-Machine Interfaces"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.15625
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15625
 next_step: skim
+priority: low
+slack_ts: '1773974688.724899'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Parameter-Efficient Deep Learning for Ultrasound-Based Human-Machine Interfaces
 ---
 # Parameter-Efficient Deep Learning for Ultrasound-Based Human-Machine Interfaces
 > 原文: [https://arxiv.org/abs/2603.15625](https://arxiv.org/abs/2603.15625)

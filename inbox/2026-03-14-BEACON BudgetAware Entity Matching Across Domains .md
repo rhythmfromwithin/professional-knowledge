@@ -1,11 +1,12 @@
 ---
-title: "BEACON: Budget-Aware Entity Matching Across Domains (Extended Technical Report)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.11391
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11391
 next_step: skim
+priority: low
+slack_ts: '1773974640.732049'
+source: cs.DB - Databases
+status: unread
+title: 'BEACON: Budget-Aware Entity Matching Across Domains (Extended Technical Report)'
 ---
 # BEACON: Budget-Aware Entity Matching Across Domains (Extended Technical Report)
 > 原文: [https://arxiv.org/abs/2603.11391](https://arxiv.org/abs/2603.11391)

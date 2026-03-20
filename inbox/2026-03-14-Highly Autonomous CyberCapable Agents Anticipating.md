@@ -1,11 +1,13 @@
 ---
-title: "Highly Autonomous Cyber-Capable Agents: Anticipating Capabilities, Tactics, and Strategic Implications"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.11528
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11528
 next_step: skim
+priority: medium
+slack_ts: '1773974644.424149'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Highly Autonomous Cyber-Capable Agents: Anticipating Capabilities, Tactics,
+  and Strategic Implications'
 ---
 # Highly Autonomous Cyber-Capable Agents: Anticipating Capabilities, Tactics, and Strategic Implications
 > 原文: [https://arxiv.org/abs/2603.11528](https://arxiv.org/abs/2603.11528)

@@ -1,11 +1,13 @@
 ---
-title: "Quality-Driven Agentic Reasoning for LLM-Assisted Software Design: Questions-of-Thoughts (QoT) as a Time-Series Self-QA Chain"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.11082
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11082
 next_step: skim
+priority: low
+slack_ts: '1773974647.686779'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Quality-Driven Agentic Reasoning for LLM-Assisted Software Design: Questions-of-Thoughts
+  (QoT) as a Time-Series Self-QA Chain'
 ---
 # Quality-Driven Agentic Reasoning for LLM-Assisted Software Design: Questions-of-Thoughts (QoT) as a Time-Series Self-QA Chain
 > 原文: [https://arxiv.org/abs/2603.11082](https://arxiv.org/abs/2603.11082)

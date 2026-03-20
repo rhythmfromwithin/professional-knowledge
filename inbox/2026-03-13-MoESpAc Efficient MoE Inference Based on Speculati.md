@@ -1,11 +1,13 @@
 ---
-title: "MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.09983
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.09983
 next_step: skim
+priority: high
+slack_ts: '1773974636.070129'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility
+  in Heterogeneous Edge Scenarios'
 ---
 # MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios
 > 原文: [https://arxiv.org/abs/2603.09983](https://arxiv.org/abs/2603.09983)

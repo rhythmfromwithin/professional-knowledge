@@ -1,11 +1,12 @@
 ---
-title: "PACED: Distillation at the Frontier of Student Competence"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.11178
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11178
 next_step: skim
+priority: high
+slack_ts: '1773974646.648149'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'PACED: Distillation at the Frontier of Student Competence'
 ---
 # PACED: Distillation at the Frontier of Student Competence
 > 原文: [https://arxiv.org/abs/2603.11178](https://arxiv.org/abs/2603.11178)

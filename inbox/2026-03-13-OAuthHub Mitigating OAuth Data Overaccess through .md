@@ -1,11 +1,12 @@
 ---
-title: "OAuthHub: Mitigating OAuth Data Overaccess through a Local Data Hub"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.10056
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10056
 next_step: skim
+priority: low
+slack_ts: '1773974636.700379'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'OAuthHub: Mitigating OAuth Data Overaccess through a Local Data Hub'
 ---
 # OAuthHub: Mitigating OAuth Data Overaccess through a Local Data Hub
 > 原文: [https://arxiv.org/abs/2603.10056](https://arxiv.org/abs/2603.10056)

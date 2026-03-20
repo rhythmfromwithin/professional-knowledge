@@ -1,11 +1,12 @@
 ---
-title: "CR-Bench: Evaluating the Real-World Utility of AI Code Review Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.11078
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11078
 next_step: skim
+priority: low
+slack_ts: '1773974640.931669'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CR-Bench: Evaluating the Real-World Utility of AI Code Review Agents'
 ---
 # CR-Bench: Evaluating the Real-World Utility of AI Code Review Agents
 > 原文: [https://arxiv.org/abs/2603.11078](https://arxiv.org/abs/2603.11078)

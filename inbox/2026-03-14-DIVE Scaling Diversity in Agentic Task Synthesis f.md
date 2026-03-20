@@ -1,11 +1,12 @@
 ---
-title: "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.11076
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11076
 next_step: skim
+priority: high
+slack_ts: '1773974641.782819'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use'
 ---
 # DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
 > 原文: [https://arxiv.org/abs/2603.11076](https://arxiv.org/abs/2603.11076)

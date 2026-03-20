@@ -1,11 +1,12 @@
 ---
-title: "Grassroots Bonds: A Grassroots Foundation for Market Liquidity"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.13671
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13671
 next_step: skim
+priority: medium
+slack_ts: '1773974674.756199'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Grassroots Bonds: A Grassroots Foundation for Market Liquidity'
 ---
 # Grassroots Bonds: A Grassroots Foundation for Market Liquidity
 > 原文: [https://arxiv.org/abs/2603.13671](https://arxiv.org/abs/2603.13671)

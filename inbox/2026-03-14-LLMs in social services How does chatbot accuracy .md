@@ -1,11 +1,12 @@
 ---
-title: "LLMs in social services: How does chatbot accuracy affect human accuracy?"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.11213
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11213
 next_step: skim
+priority: low
+slack_ts: '1773974646.028859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'LLMs in social services: How does chatbot accuracy affect human accuracy?'
 ---
 # LLMs in social services: How does chatbot accuracy affect human accuracy?
 > 原文: [https://arxiv.org/abs/2603.11213](https://arxiv.org/abs/2603.11213)

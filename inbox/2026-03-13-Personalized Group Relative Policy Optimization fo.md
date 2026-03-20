@@ -1,11 +1,13 @@
 ---
-title: "Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.10009
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10009
 next_step: skim
+priority: high
+slack_ts: '1773974637.303549'
+source: cs.LG - Machine Learning
+status: unread
+title: Personalized Group Relative Policy Optimization for Heterogenous Preference
+  Alignment
 ---
 # Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment
 > 原文: [https://arxiv.org/abs/2603.10009](https://arxiv.org/abs/2603.10009)

@@ -1,11 +1,13 @@
 ---
-title: "RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.11106
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11106
 next_step: skim
+priority: medium
+slack_ts: '1773974647.894229'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection
+  in Robotic Manipulation'
 ---
 # RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation
 > 原文: [https://arxiv.org/abs/2603.11106](https://arxiv.org/abs/2603.11106)

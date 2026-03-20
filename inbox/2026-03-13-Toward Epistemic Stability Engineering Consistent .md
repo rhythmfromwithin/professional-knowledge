@@ -1,11 +1,13 @@
 ---
-title: "Toward Epistemic Stability: Engineering Consistent Procedures for Industrial LLM Hallucination Reduction"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.10047
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10047
 next_step: skim
+priority: low
+slack_ts: '1773974638.719369'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Toward Epistemic Stability: Engineering Consistent Procedures for Industrial
+  LLM Hallucination Reduction'
 ---
 # Toward Epistemic Stability: Engineering Consistent Procedures for Industrial LLM Hallucination Reduction
 > 原文: [https://arxiv.org/abs/2603.10047](https://arxiv.org/abs/2603.10047)

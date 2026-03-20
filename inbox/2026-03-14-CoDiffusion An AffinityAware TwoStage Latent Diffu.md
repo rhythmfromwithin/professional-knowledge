@@ -1,11 +1,13 @@
 ---
-title: "Co-Diffusion: An Affinity-Aware Two-Stage Latent Diffusion Framework for Generalizable Drug-Target Affinity Prediction"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.11125
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11125
 next_step: skim
+priority: medium
+slack_ts: '1773974641.150479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Co-Diffusion: An Affinity-Aware Two-Stage Latent Diffusion Framework for Generalizable
+  Drug-Target Affinity Prediction'
 ---
 # Co-Diffusion: An Affinity-Aware Two-Stage Latent Diffusion Framework for Generalizable Drug-Target Affinity Prediction
 > 原文: [https://arxiv.org/abs/2603.11125](https://arxiv.org/abs/2603.11125)

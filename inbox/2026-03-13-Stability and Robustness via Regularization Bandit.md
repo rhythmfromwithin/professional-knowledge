@@ -1,11 +1,13 @@
 ---
-title: "Stability and Robustness via Regularization: Bandit Inference via Regularized Stochastic Mirror Descent"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.10184
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10184
 next_step: skim
+priority: medium
+slack_ts: '1773974638.316559'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Stability and Robustness via Regularization: Bandit Inference via Regularized
+  Stochastic Mirror Descent'
 ---
 # Stability and Robustness via Regularization: Bandit Inference via Regularized Stochastic Mirror Descent
 > 原文: [https://arxiv.org/abs/2603.10184](https://arxiv.org/abs/2603.10184)

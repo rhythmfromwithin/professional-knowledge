@@ -1,11 +1,12 @@
 ---
-title: "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.15677
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15677
 next_step: skim
+priority: high
+slack_ts: '1773974687.667299'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences'
 ---
 # MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences
 > 原文: [https://arxiv.org/abs/2603.15677](https://arxiv.org/abs/2603.15677)

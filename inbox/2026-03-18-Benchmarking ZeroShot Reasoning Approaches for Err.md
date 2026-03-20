@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.13239
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13239
 next_step: skim
+priority: high
+slack_ts: '1773974671.737759'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity
+  Smart Contracts
 ---
 # Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts
 > 原文: [https://arxiv.org/abs/2603.13239](https://arxiv.org/abs/2603.13239)

@@ -1,11 +1,12 @@
 ---
-title: "Targeted Bit-Flip Attacks on LLM-Based Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.10042
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10042
 next_step: skim
+priority: low
+slack_ts: '1773974638.522519'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Targeted Bit-Flip Attacks on LLM-Based Agents
 ---
 # Targeted Bit-Flip Attacks on LLM-Based Agents
 > 原文: [https://arxiv.org/abs/2603.10042](https://arxiv.org/abs/2603.10042)

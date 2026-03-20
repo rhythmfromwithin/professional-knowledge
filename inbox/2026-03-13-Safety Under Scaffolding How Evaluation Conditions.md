@@ -1,11 +1,12 @@
 ---
-title: "Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.10044
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10044
 next_step: skim
+priority: low
+slack_ts: '1773974638.109309'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety'
 ---
 # Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety
 > 原文: [https://arxiv.org/abs/2603.10044](https://arxiv.org/abs/2603.10044)

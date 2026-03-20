@@ -1,11 +1,13 @@
 ---
-title: "Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.13037
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13037
 next_step: skim
+priority: low
+slack_ts: '1773974661.728719'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across
+  Physical Edge Nodes'
 ---
 # Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes
 > 原文: [https://arxiv.org/abs/2603.13037](https://arxiv.org/abs/2603.13037)

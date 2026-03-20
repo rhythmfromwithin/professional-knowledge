@@ -1,11 +1,13 @@
 ---
-title: "Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning and Dynamic Routing in Deep Networks"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.12354
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12354
 next_step: skim
+priority: medium
+slack_ts: '1773974659.742399'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning
+  and Dynamic Routing in Deep Networks'
 ---
 # Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning and Dynamic Routing in Deep Networks
 > 原文: [https://arxiv.org/abs/2603.12354](https://arxiv.org/abs/2603.12354)

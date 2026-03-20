@@ -1,11 +1,13 @@
 ---
-title: "The immediate effect of kangaroo mother care on Mother-infant inter-brain synchrony and infant brain function"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.16501
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16501
 next_step: skim
+priority: low
+slack_ts: '1773974691.650519'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The immediate effect of kangaroo mother care on Mother-infant inter-brain synchrony
+  and infant brain function
 ---
 # The immediate effect of kangaroo mother care on Mother-infant inter-brain synchrony and infant brain function
 > 原文: [https://arxiv.org/abs/2603.16501](https://arxiv.org/abs/2603.16501)

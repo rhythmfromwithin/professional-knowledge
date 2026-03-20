@@ -1,11 +1,12 @@
 ---
-title: "Open Educational Resources: Barriers and Open Issues"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.10013
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.10013
 next_step: skim
+priority: medium
+slack_ts: '1773974636.904949'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Open Educational Resources: Barriers and Open Issues'
 ---
 # Open Educational Resources: Barriers and Open Issues
 > 原文: [https://arxiv.org/abs/2603.10013](https://arxiv.org/abs/2603.10013)

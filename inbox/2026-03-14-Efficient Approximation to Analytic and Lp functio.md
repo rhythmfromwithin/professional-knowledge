@@ -1,11 +1,13 @@
 ---
-title: "Efficient Approximation to Analytic and $L^p$ functions by Height-Augmented ReLU Networks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.11128
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11128
 next_step: skim
+priority: medium
+slack_ts: '1773974642.788319'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Efficient Approximation to Analytic and $L^p$ functions by Height-Augmented
+  ReLU Networks
 ---
 # Efficient Approximation to Analytic and $L^p$ functions by Height-Augmented ReLU Networks
 > 原文: [https://arxiv.org/abs/2603.11128](https://arxiv.org/abs/2603.11128)

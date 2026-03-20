@@ -1,11 +1,12 @@
 ---
-title: "EducaSim: Interactive Simulacra for CS1 Instructional Practice"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.11444
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11444
 next_step: skim
+priority: medium
+slack_ts: '1773974642.593749'
+source: cs.CY - Computers and Society
+status: unread
+title: 'EducaSim: Interactive Simulacra for CS1 Instructional Practice'
 ---
 # EducaSim: Interactive Simulacra for CS1 Instructional Practice
 > 原文: [https://arxiv.org/abs/2603.11444](https://arxiv.org/abs/2603.11444)

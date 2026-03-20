@@ -1,11 +1,13 @@
 ---
-title: "DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.11193
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11193
 next_step: skim
+priority: high
+slack_ts: '1773974641.992149'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training
+  for General Reasoning'
 ---
 # DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning
 > 原文: [https://arxiv.org/abs/2603.11193](https://arxiv.org/abs/2603.11193)

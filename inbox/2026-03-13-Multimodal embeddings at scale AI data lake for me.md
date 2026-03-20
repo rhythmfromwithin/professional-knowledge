@@ -1,11 +1,12 @@
 ---
-title: "Multimodal embeddings at scale: AI data lake for media and entertainment workloads"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/
 next_step: skim
+priority: high
+slack_ts: '1773974636.481309'
+source: AWS Blog
+status: unread
+title: 'Multimodal embeddings at scale: AI data lake for media and entertainment workloads'
 ---
 # Multimodal embeddings at scale: AI data lake for media and entertainment workloads
 > 原文: [https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/](https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/)

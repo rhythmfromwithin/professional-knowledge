@@ -1,11 +1,13 @@
 ---
-title: "OA-NBV: Occlusion-Aware Next-Best-View Planning for Human-Centered Active Perception on Mobile Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.11072
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11072
 next_step: skim
+priority: medium
+slack_ts: '1773974646.438719'
+source: cs.RO - Robotics
+status: unread
+title: 'OA-NBV: Occlusion-Aware Next-Best-View Planning for Human-Centered Active
+  Perception on Mobile Robots'
 ---
 # OA-NBV: Occlusion-Aware Next-Best-View Planning for Human-Centered Active Perception on Mobile Robots
 > 原文: [https://arxiv.org/abs/2603.11072](https://arxiv.org/abs/2603.11072)

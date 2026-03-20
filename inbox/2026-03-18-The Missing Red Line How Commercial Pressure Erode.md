@@ -1,11 +1,12 @@
 ---
-title: "The Missing Red Line: How Commercial Pressure Erodes AI Safety Boundaries"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.13250
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13250
 next_step: skim
+priority: medium
+slack_ts: '1773974679.737959'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Missing Red Line: How Commercial Pressure Erodes AI Safety Boundaries'
 ---
 # The Missing Red Line: How Commercial Pressure Erodes AI Safety Boundaries
 > 原文: [https://arxiv.org/abs/2603.13250](https://arxiv.org/abs/2603.13250)

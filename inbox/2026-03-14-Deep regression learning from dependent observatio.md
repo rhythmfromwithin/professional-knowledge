@@ -1,11 +1,13 @@
 ---
-title: "Deep regression learning from dependent observations with minimum error entropy principle"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.11138
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11138
 next_step: skim
+priority: medium
+slack_ts: '1773974642.192459'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Deep regression learning from dependent observations with minimum error entropy
+  principle
 ---
 # Deep regression learning from dependent observations with minimum error entropy principle
 > 原文: [https://arxiv.org/abs/2603.11138](https://arxiv.org/abs/2603.11138)

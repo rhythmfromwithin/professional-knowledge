@@ -1,11 +1,12 @@
 ---
-title: "d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.13591
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13591
 next_step: skim
+priority: low
+slack_ts: '1773974680.700469'
+source: cs.DB - Databases
+status: unread
+title: 'd-HNSW: A High-performance Vector Search Engine on Disaggregated Memory'
 ---
 # d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory
 > 原文: [https://arxiv.org/abs/2603.13591](https://arxiv.org/abs/2603.13591)

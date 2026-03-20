@@ -1,11 +1,12 @@
 ---
-title: "Alternating Reinforcement Learning with Contextual Rubric Rewards"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.15646
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15646
 next_step: skim
+priority: high
+slack_ts: '1773974681.661689'
+source: cs.LG - Machine Learning
+status: unread
+title: Alternating Reinforcement Learning with Contextual Rubric Rewards
 ---
 # Alternating Reinforcement Learning with Contextual Rubric Rewards
 > 原文: [https://arxiv.org/abs/2603.15646](https://arxiv.org/abs/2603.15646)

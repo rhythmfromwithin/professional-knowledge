@@ -1,11 +1,13 @@
 ---
-title: "A scalable framework for correcting public transport timetables using real-time data for accessibility analysis"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.11477
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11477
 next_step: skim
+priority: medium
+slack_ts: '1773974639.717359'
+source: cs.CY - Computers and Society
+status: unread
+title: A scalable framework for correcting public transport timetables using real-time
+  data for accessibility analysis
 ---
 # A scalable framework for correcting public transport timetables using real-time data for accessibility analysis
 > 原文: [https://arxiv.org/abs/2603.11477](https://arxiv.org/abs/2603.11477)

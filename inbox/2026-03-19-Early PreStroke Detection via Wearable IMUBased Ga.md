@@ -1,11 +1,13 @@
 ---
-title: "Early Pre-Stroke Detection via Wearable IMU-Based Gait Variability and Postural Drift Analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.16178
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16178
 next_step: skim
+priority: low
+slack_ts: '1773974683.782809'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Early Pre-Stroke Detection via Wearable IMU-Based Gait Variability and Postural
+  Drift Analysis
 ---
 # Early Pre-Stroke Detection via Wearable IMU-Based Gait Variability and Postural Drift Analysis
 > 原文: [https://arxiv.org/abs/2603.16178](https://arxiv.org/abs/2603.16178)

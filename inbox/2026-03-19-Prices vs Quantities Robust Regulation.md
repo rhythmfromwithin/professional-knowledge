@@ -1,11 +1,12 @@
 ---
-title: "Prices vs. Quantities: Robust Regulation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.15832
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15832
 next_step: skim
+priority: low
+slack_ts: '1773974689.686549'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Prices vs. Quantities: Robust Regulation'
 ---
 # Prices vs. Quantities: Robust Regulation
 > 原文: [https://arxiv.org/abs/2603.15832](https://arxiv.org/abs/2603.15832)

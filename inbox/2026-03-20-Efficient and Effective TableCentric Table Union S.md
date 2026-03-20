@@ -1,0 +1,14 @@
+---
+title: "Efficient and Effective Table-Centric Table Union Search in Data Lakes"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2603.17298
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Efficient and Effective Table-Centric Table Union Search in Data Lakes
+> 原文: [https://arxiv.org/abs/2603.17298](https://arxiv.org/abs/2603.17298)
+
+arXiv:2603.17298v1 Announce Type: new
+Abstract: In data lakes, information on the same subject is often fragmented across multiple tables. Table union search aims to find the top-k tables that can be unioned with a query table to extend it with more rows, without relying on metadata or ground-truth labels. Existing methods are mainly column-centric: they focus on modeling column unionability scores using column embeddings, which are then used throughout the search process for column matching, filtering, and aggregation. However, this overlooks holistic table-level semantics, which may result in suboptimal rankings and inefficiencies. We introduce TACTUS, a novel table-centric method for table union search. Unlike prior work that searches from columns to tables, we search in a table-first way and examine columns only in the final step. During offline processing, we directly generate table embeddings for holistic, table-level unionability scoring by designing table-level representation techniques, including positive table pair construction to simulate unionable tables, two-pronged negative table sampling to avoid latent positives and mine hard negatives to enhance representation quality, and attentive table encoding for effective embeddings. During online search, we first develop a table-centric adaptive candidate retrieval method that efficiently selects a compact, high-quality candidate pool by leveraging the distribution of table-level unionability scores induced by table embeddings. We then inspect columns only within this compact candidate set and design a dual-evidence reranking technique that integrates table-level and column-level scores to refine the final top-k results. Extensive experiments on real-world datasets show that TACTUS significantly improves result quality while being much faster than existing methods in both offline and online processing, often by an order of magnitude.

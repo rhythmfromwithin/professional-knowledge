@@ -1,11 +1,13 @@
 ---
-title: "A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.12268
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12268
 next_step: skim
+priority: medium
+slack_ts: '1773974658.772989'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Holistic Framework for Automated Configuration Recommendation for Cloud Service
+  Monitoring
 ---
 # A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring
 > 原文: [https://arxiv.org/abs/2603.12268](https://arxiv.org/abs/2603.12268)

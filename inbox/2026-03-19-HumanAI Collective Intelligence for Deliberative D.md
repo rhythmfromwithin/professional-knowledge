@@ -1,11 +1,13 @@
 ---
-title: "Human/AI Collective Intelligence for Deliberative Democracy: A Human-Centred Design Approach"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.16260
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16260
 next_step: skim
+priority: medium
+slack_ts: '1773974685.755099'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Human/AI Collective Intelligence for Deliberative Democracy: A Human-Centred
+  Design Approach'
 ---
 # Human/AI Collective Intelligence for Deliberative Democracy: A Human-Centred Design Approach
 > 原文: [https://arxiv.org/abs/2603.16260](https://arxiv.org/abs/2603.16260)

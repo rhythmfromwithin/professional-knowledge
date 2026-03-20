@@ -1,11 +1,12 @@
 ---
-title: "Context Before Code: An Experience Report on Vibe Coding in Practice"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.11073
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11073
 next_step: skim
+priority: low
+slack_ts: '1773974641.579749'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Context Before Code: An Experience Report on Vibe Coding in Practice'
 ---
 # Context Before Code: An Experience Report on Vibe Coding in Practice
 > 原文: [https://arxiv.org/abs/2603.11073](https://arxiv.org/abs/2603.11073)
