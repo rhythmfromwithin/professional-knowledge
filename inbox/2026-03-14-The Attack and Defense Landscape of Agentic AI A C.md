@@ -1,11 +1,12 @@
 ---
-title: "The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.11088
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11088
 next_step: skim
+priority: low
+slack_ts: '1774060638.792689'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey'
 ---
 # The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey
 > 原文: [https://arxiv.org/abs/2603.11088](https://arxiv.org/abs/2603.11088)

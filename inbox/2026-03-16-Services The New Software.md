@@ -1,11 +1,12 @@
 ---
-title: "Services: The New Software"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/services-the-new-software/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/services-the-new-software/
 next_step: skim
+priority: high
+slack_ts: '1774060644.622949'
+source: Sequoia Capital
+status: unread
+title: 'Services: The New Software'
 ---
 # Services: The New Software
 > 原文: [https://sequoiacap.com/article/services-the-new-software/](https://sequoiacap.com/article/services-the-new-software/)

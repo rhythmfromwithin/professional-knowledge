@@ -1,11 +1,12 @@
 ---
-title: "Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.11053
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11053
 next_step: skim
+priority: high
+slack_ts: '1774060638.311789'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple'
 ---
 # Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple
 > 原文: [https://arxiv.org/abs/2603.11053](https://arxiv.org/abs/2603.11053)

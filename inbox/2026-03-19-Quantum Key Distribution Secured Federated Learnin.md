@@ -1,11 +1,13 @@
 ---
-title: "Quantum Key Distribution Secured Federated Learning for Channel Estimation and Radar Spectrum Sensing in 6G Networks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.15649
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15649
 next_step: skim
+priority: low
+slack_ts: '1774060658.302759'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Quantum Key Distribution Secured Federated Learning for Channel Estimation
+  and Radar Spectrum Sensing in 6G Networks
 ---
 # Quantum Key Distribution Secured Federated Learning for Channel Estimation and Radar Spectrum Sensing in 6G Networks
 > 原文: [https://arxiv.org/abs/2603.15649](https://arxiv.org/abs/2603.15649)

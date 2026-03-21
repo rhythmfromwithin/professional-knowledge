@@ -1,11 +1,13 @@
 ---
-title: "Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based Online Handwriting Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.16883
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16883
 next_step: skim
+priority: medium
+slack_ts: '1774060664.348189'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based
+  Online Handwriting Recognition'
 ---
 # Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based Online Handwriting Recognition
 > 原文: [https://arxiv.org/abs/2603.16883](https://arxiv.org/abs/2603.16883)

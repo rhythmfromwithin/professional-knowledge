@@ -1,11 +1,13 @@
 ---
-title: "Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE Surrogates"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.11052
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11052
 next_step: skim
+priority: high
+slack_ts: '1774060638.503709'
+source: cs.LG - Machine Learning
+status: unread
+title: Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE
+  Surrogates
 ---
 # Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE Surrogates
 > 原文: [https://arxiv.org/abs/2603.11052](https://arxiv.org/abs/2603.11052)

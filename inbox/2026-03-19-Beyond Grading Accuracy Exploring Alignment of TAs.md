@@ -1,11 +1,12 @@
 ---
-title: "Beyond Grading Accuracy: Exploring Alignment of TAs and LLMs"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.16357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16357
 next_step: skim
+priority: medium
+slack_ts: '1774060655.331369'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Grading Accuracy: Exploring Alignment of TAs and LLMs'
 ---
 # Beyond Grading Accuracy: Exploring Alignment of TAs and LLMs
 > 原文: [https://arxiv.org/abs/2603.16357](https://arxiv.org/abs/2603.16357)

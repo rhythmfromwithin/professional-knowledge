@@ -1,11 +1,13 @@
 ---
-title: "Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.13283
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13283
 next_step: skim
+priority: low
+slack_ts: '1774060651.300499'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural
+  Networks'
 ---
 # Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2603.13283](https://arxiv.org/abs/2603.13283)

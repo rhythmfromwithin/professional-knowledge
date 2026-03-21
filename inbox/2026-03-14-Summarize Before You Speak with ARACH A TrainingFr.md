@@ -1,11 +1,13 @@
 ---
-title: "Summarize Before You Speak with ARACH: A Training-Free Inference-Time Plug-In for Enhancing LLMs via Global Attention Reallocation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.11067
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11067
 next_step: skim
+priority: high
+slack_ts: '1774060638.636479'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Summarize Before You Speak with ARACH: A Training-Free Inference-Time Plug-In
+  for Enhancing LLMs via Global Attention Reallocation'
 ---
 # Summarize Before You Speak with ARACH: A Training-Free Inference-Time Plug-In for Enhancing LLMs via Global Attention Reallocation
 > 原文: [https://arxiv.org/abs/2603.11067](https://arxiv.org/abs/2603.11067)

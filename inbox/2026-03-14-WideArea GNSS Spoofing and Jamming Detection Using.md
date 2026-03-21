@@ -1,11 +1,13 @@
 ---
-title: "Wide-Area GNSS Spoofing and Jamming Detection Using AIS-Derived Spatiotemporal Integrity Monitoring"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.11055
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11055
 next_step: skim
+priority: low
+slack_ts: '1774060639.324379'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Wide-Area GNSS Spoofing and Jamming Detection Using AIS-Derived Spatiotemporal
+  Integrity Monitoring
 ---
 # Wide-Area GNSS Spoofing and Jamming Detection Using AIS-Derived Spatiotemporal Integrity Monitoring
 > 原文: [https://arxiv.org/abs/2603.11055](https://arxiv.org/abs/2603.11055)

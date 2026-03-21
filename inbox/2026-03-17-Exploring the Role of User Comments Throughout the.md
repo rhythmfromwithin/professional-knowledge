@@ -1,11 +1,12 @@
 ---
-title: "Exploring the Role of User Comments Throughout the Stages of Video-Based Task-Learning"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.12509
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12509
 next_step: skim
+priority: low
+slack_ts: '1774060646.297569'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Exploring the Role of User Comments Throughout the Stages of Video-Based Task-Learning
 ---
 # Exploring the Role of User Comments Throughout the Stages of Video-Based Task-Learning
 > 原文: [https://arxiv.org/abs/2603.12509](https://arxiv.org/abs/2603.12509)

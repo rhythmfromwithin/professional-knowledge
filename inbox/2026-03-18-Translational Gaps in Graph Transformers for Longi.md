@@ -1,11 +1,13 @@
 ---
-title: "Translational Gaps in Graph Transformers for Longitudinal EHR Prediction: A Critical Appraisal of GT-BEHRT"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.13231
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13231
 next_step: skim
+priority: high
+slack_ts: '1774060654.343959'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Translational Gaps in Graph Transformers for Longitudinal EHR Prediction:
+  A Critical Appraisal of GT-BEHRT'
 ---
 # Translational Gaps in Graph Transformers for Longitudinal EHR Prediction: A Critical Appraisal of GT-BEHRT
 > 原文: [https://arxiv.org/abs/2603.13231](https://arxiv.org/abs/2603.13231)

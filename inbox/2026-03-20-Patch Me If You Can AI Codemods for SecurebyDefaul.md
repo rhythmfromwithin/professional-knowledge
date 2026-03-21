@@ -1,11 +1,12 @@
 ---
-title: "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/
 next_step: skim
+priority: medium
+slack_ts: '1774060663.305699'
+source: Meta Engineering
+status: unread
+title: 'Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps'
 ---
 # Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps
 > 原文: [https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/](https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/)

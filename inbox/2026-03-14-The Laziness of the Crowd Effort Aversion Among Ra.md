@@ -1,11 +1,13 @@
 ---
-title: "The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.11120
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11120
 next_step: skim
+priority: low
+slack_ts: '1774060638.916369'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining
+  the Efficacy of X''s Community Notes Program'
 ---
 # The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program
 > 原文: [https://arxiv.org/abs/2603.11120](https://arxiv.org/abs/2603.11120)

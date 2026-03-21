@@ -1,11 +1,12 @@
 ---
-title: "ActTail: Global Activation Sparsity in Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.12272
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12272
 next_step: skim
+priority: high
+slack_ts: '1774060645.484389'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'ActTail: Global Activation Sparsity in Large Language Models'
 ---
 # ActTail: Global Activation Sparsity in Large Language Models
 > 原文: [https://arxiv.org/abs/2603.12272](https://arxiv.org/abs/2603.12272)

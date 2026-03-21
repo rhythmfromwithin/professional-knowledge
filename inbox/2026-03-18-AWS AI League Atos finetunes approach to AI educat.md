@@ -1,11 +1,12 @@
 ---
-title: "AWS AI League: Atos fine-tunes approach to AI education"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/
 next_step: skim
+priority: high
+slack_ts: '1774060650.305769'
+source: AWS Blog
+status: unread
+title: 'AWS AI League: Atos fine-tunes approach to AI education'
 ---
 # AWS AI League: Atos fine-tunes approach to AI education
 > 原文: [https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/](https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/)

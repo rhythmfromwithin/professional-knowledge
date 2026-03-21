@@ -1,11 +1,13 @@
 ---
-title: "WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with Stealthy Context-Based Inference"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.11132
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.11132
 next_step: skim
+priority: low
+slack_ts: '1774060639.196289'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with
+  Stealthy Context-Based Inference'
 ---
 # WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with Stealthy Context-Based Inference
 > 原文: [https://arxiv.org/abs/2603.11132](https://arxiv.org/abs/2603.11132)

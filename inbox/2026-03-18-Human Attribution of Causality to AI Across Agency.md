@@ -1,11 +1,12 @@
 ---
-title: "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.13236
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13236
 next_step: skim
+priority: high
+slack_ts: '1774060652.309339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment
 ---
 # Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment
 > 原文: [https://arxiv.org/abs/2603.13236](https://arxiv.org/abs/2603.13236)

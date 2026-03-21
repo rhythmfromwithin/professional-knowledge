@@ -1,11 +1,14 @@
 ---
-title: "Toward Robust, Reproducible, and Widely Accessible Intracranial Language Brain-Computer Interfaces: A Comprehensive Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.12279
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12279
 next_step: skim
+priority: low
+slack_ts: '1774060649.687039'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Toward Robust, Reproducible, and Widely Accessible Intracranial Language Brain-Computer
+  Interfaces: A Comprehensive Review of Neural Mechanisms, Hardware, Algorithms, Evaluation,
+  Clinical Pathways and Future Directions'
 ---
 # Toward Robust, Reproducible, and Widely Accessible Intracranial Language Brain-Computer Interfaces: A Comprehensive Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions
 > 原文: [https://arxiv.org/abs/2603.12279](https://arxiv.org/abs/2603.12279)

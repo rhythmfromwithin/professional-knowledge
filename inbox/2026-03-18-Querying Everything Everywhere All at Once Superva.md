@@ -1,11 +1,13 @@
 ---
-title: "Querying Everything Everywhere All at Once: Supervaluationism for the Agentic Lakehouse"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.13380
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13380
 next_step: skim
+priority: low
+slack_ts: '1774060653.303329'
+source: cs.DB - Databases
+status: unread
+title: 'Querying Everything Everywhere All at Once: Supervaluationism for the Agentic
+  Lakehouse'
 ---
 # Querying Everything Everywhere All at Once: Supervaluationism for the Agentic Lakehouse
 > 原文: [https://arxiv.org/abs/2603.13380](https://arxiv.org/abs/2603.13380)

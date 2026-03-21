@@ -1,11 +1,12 @@
 ---
-title: "ListK: Semantic ORDER BY and LIMIT K with Listwise Prompting"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.17223
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17223
 next_step: skim
+priority: low
+slack_ts: '1774060662.346589'
+source: cs.DB - Databases
+status: unread
+title: 'ListK: Semantic ORDER BY and LIMIT K with Listwise Prompting'
 ---
 # ListK: Semantic ORDER BY and LIMIT K with Listwise Prompting
 > 原文: [https://arxiv.org/abs/2603.17223](https://arxiv.org/abs/2603.17223)

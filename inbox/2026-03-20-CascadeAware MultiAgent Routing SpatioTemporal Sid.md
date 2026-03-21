@@ -1,11 +1,12 @@
 ---
-title: "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.17112
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17112
 next_step: skim
+priority: high
+slack_ts: '1774060660.327919'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching'
 ---
 # Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching
 > 原文: [https://arxiv.org/abs/2603.17112](https://arxiv.org/abs/2603.17112)

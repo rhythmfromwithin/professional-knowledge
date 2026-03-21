@@ -1,11 +1,12 @@
 ---
-title: "Wayfair boosts catalog accuracy and support speed with OpenAI"
-source: "OpenAI Blog"
-link: https://openai.com/index/wayfair
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/wayfair
 next_step: skim
+priority: high
+slack_ts: '1774060642.108329'
+source: OpenAI Blog
+status: unread
+title: Wayfair boosts catalog accuracy and support speed with OpenAI
 ---
 # Wayfair boosts catalog accuracy and support speed with OpenAI
 > 原文: [https://openai.com/index/wayfair](https://openai.com/index/wayfair)

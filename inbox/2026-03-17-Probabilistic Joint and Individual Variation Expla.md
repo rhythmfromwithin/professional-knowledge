@@ -1,11 +1,12 @@
 ---
-title: "Probabilistic Joint and Individual Variation Explained (ProJIVE) for Data Integration"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.12351
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12351
 next_step: skim
+priority: medium
+slack_ts: '1774060648.346189'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Probabilistic Joint and Individual Variation Explained (ProJIVE) for Data Integration
 ---
 # Probabilistic Joint and Individual Variation Explained (ProJIVE) for Data Integration
 > 原文: [https://arxiv.org/abs/2603.12351](https://arxiv.org/abs/2603.12351)
