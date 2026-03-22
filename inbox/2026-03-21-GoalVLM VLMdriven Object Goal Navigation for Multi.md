@@ -1,11 +1,12 @@
 ---
-title: "GoalVLM: VLM-driven Object Goal Navigation for Multi-Agent System"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.18210
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18210
 next_step: skim
+priority: medium
+slack_ts: '1774148087.614699'
+source: cs.RO - Robotics
+status: unread
+title: 'GoalVLM: VLM-driven Object Goal Navigation for Multi-Agent System'
 ---
 # GoalVLM: VLM-driven Object Goal Navigation for Multi-Agent System
 > 原文: [https://arxiv.org/abs/2603.18210](https://arxiv.org/abs/2603.18210)

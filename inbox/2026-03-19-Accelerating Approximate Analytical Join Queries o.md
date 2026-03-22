@@ -1,11 +1,13 @@
 ---
-title: "Accelerating Approximate Analytical Join Queries over Unstructured Data with Statistical Guarantees"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.16153
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16153
 next_step: skim
+priority: low
+slack_ts: '1774148056.703219'
+source: cs.DB - Databases
+status: unread
+title: Accelerating Approximate Analytical Join Queries over Unstructured Data with
+  Statistical Guarantees
 ---
 # Accelerating Approximate Analytical Join Queries over Unstructured Data with Statistical Guarantees
 > 原文: [https://arxiv.org/abs/2603.16153](https://arxiv.org/abs/2603.16153)

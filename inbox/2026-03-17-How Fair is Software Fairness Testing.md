@@ -1,11 +1,12 @@
 ---
-title: "How Fair is Software Fairness Testing?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.12511
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12511
 next_step: skim
+priority: low
+slack_ts: '1774148037.616639'
+source: cs.SE - Software Engineering
+status: unread
+title: How Fair is Software Fairness Testing?
 ---
 # How Fair is Software Fairness Testing?
 > 原文: [https://arxiv.org/abs/2603.12511](https://arxiv.org/abs/2603.12511)

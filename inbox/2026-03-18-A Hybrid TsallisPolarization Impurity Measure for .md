@@ -1,11 +1,13 @@
 ---
-title: "A Hybrid Tsallis-Polarization Impurity Measure for Decision Trees: Theoretical Foundations and Empirical Evaluation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.13241
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13241
 next_step: skim
+priority: medium
+slack_ts: '1774148044.752849'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'A Hybrid Tsallis-Polarization Impurity Measure for Decision Trees: Theoretical
+  Foundations and Empirical Evaluation'
 ---
 # A Hybrid Tsallis-Polarization Impurity Measure for Decision Trees: Theoretical Foundations and Empirical Evaluation
 > 原文: [https://arxiv.org/abs/2603.13241](https://arxiv.org/abs/2603.13241)

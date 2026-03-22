@@ -1,11 +1,13 @@
 ---
-title: "QuaQue: Design and SQL Implementation of Condensed Algebra for Concurrent Versioning of Knowledge Graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.18654
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18654
 next_step: skim
+priority: low
+slack_ts: '1774148092.688749'
+source: cs.DB - Databases
+status: unread
+title: 'QuaQue: Design and SQL Implementation of Condensed Algebra for Concurrent
+  Versioning of Knowledge Graphs'
 ---
 # QuaQue: Design and SQL Implementation of Condensed Algebra for Concurrent Versioning of Knowledge Graphs
 > 原文: [https://arxiv.org/abs/2603.18654](https://arxiv.org/abs/2603.18654)

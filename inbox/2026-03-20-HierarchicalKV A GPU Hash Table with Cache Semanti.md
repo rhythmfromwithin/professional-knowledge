@@ -1,11 +1,13 @@
 ---
-title: "HierarchicalKV: A GPU Hash Table with Cache Semantics for Continuous Online Embedding Storage"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.17168
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17168
 next_step: skim
+priority: low
+slack_ts: '1774148072.726649'
+source: cs.DB - Databases
+status: unread
+title: 'HierarchicalKV: A GPU Hash Table with Cache Semantics for Continuous Online
+  Embedding Storage'
 ---
 # HierarchicalKV: A GPU Hash Table with Cache Semantics for Continuous Online Embedding Storage
 > 原文: [https://arxiv.org/abs/2603.17168](https://arxiv.org/abs/2603.17168)

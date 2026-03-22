@@ -1,11 +1,13 @@
 ---
-title: "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.17435
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17435
 next_step: skim
+priority: medium
+slack_ts: '1774148081.819659'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless
+  Compression'
 ---
 # ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression
 > 原文: [https://arxiv.org/abs/2603.17435](https://arxiv.org/abs/2603.17435)

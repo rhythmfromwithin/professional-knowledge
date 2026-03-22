@@ -1,11 +1,13 @@
 ---
-title: "Daily Affect Fluctuations in Phone Screen Content Predict Anxiety and Depressive Symptoms"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.13511
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13511
 next_step: skim
+priority: low
+slack_ts: '1774148048.247879'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Daily Affect Fluctuations in Phone Screen Content Predict Anxiety and Depressive
+  Symptoms
 ---
 # Daily Affect Fluctuations in Phone Screen Content Predict Anxiety and Depressive Symptoms
 > 原文: [https://arxiv.org/abs/2603.13511](https://arxiv.org/abs/2603.13511)

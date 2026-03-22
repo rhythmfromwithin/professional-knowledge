@@ -1,11 +1,13 @@
 ---
-title: "Leveraging Large Vision Model for Multi-UAV Co-perception in Low-Altitude Wireless Networks"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.16927
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16927
 next_step: skim
+priority: medium
+slack_ts: '1774148074.726369'
+source: cs.CV - Computer Vision
+status: unread
+title: Leveraging Large Vision Model for Multi-UAV Co-perception in Low-Altitude Wireless
+  Networks
 ---
 # Leveraging Large Vision Model for Multi-UAV Co-perception in Low-Altitude Wireless Networks
 > 原文: [https://arxiv.org/abs/2603.16927](https://arxiv.org/abs/2603.16927)

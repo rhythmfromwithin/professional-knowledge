@@ -1,11 +1,14 @@
 ---
-title: "Bi-HIL: Bilateral Control-Based Multimodal Hierarchical Imitation Learning via Subtask-Level Progress Rate and Keyframe Memory for Long-Horizon Contact-Rich Robotic Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.13315
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13315
 next_step: skim
+priority: medium
+slack_ts: '1774148047.135289'
+source: cs.RO - Robotics
+status: unread
+title: 'Bi-HIL: Bilateral Control-Based Multimodal Hierarchical Imitation Learning
+  via Subtask-Level Progress Rate and Keyframe Memory for Long-Horizon Contact-Rich
+  Robotic Manipulation'
 ---
 # Bi-HIL: Bilateral Control-Based Multimodal Hierarchical Imitation Learning via Subtask-Level Progress Rate and Keyframe Memory for Long-Horizon Contact-Rich Robotic Manipulation
 > 原文: [https://arxiv.org/abs/2603.13315](https://arxiv.org/abs/2603.13315)

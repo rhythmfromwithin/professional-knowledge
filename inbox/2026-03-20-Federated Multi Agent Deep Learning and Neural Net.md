@@ -1,11 +1,13 @@
 ---
-title: "Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.16881
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16881
 next_step: skim
+priority: high
+slack_ts: '1774148071.723399'
+source: cs.LG - Machine Learning
+status: unread
+title: Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed
+  Sensing in Wireless Networks
 ---
 # Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks
 > 原文: [https://arxiv.org/abs/2603.16881](https://arxiv.org/abs/2603.16881)

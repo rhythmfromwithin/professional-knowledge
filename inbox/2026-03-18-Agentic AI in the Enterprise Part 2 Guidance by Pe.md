@@ -1,11 +1,12 @@
 ---
-title: "Agentic AI in the Enterprise Part 2: Guidance by Persona"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/
 next_step: skim
+priority: high
+slack_ts: '1774148045.753659'
+source: AWS Blog
+status: unread
+title: 'Agentic AI in the Enterprise Part 2: Guidance by Persona'
 ---
 # Agentic AI in the Enterprise Part 2: Guidance by Persona
 > 原文: [https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/](https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/)

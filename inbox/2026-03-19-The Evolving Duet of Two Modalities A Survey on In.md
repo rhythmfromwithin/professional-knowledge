@@ -1,11 +1,13 @@
 ---
-title: "The Evolving Duet of Two Modalities: A Survey on Integrating Text and Visualization for Data Communication"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.15640
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15640
 next_step: skim
+priority: low
+slack_ts: '1774148066.724439'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Evolving Duet of Two Modalities: A Survey on Integrating Text and Visualization
+  for Data Communication'
 ---
 # The Evolving Duet of Two Modalities: A Survey on Integrating Text and Visualization for Data Communication
 > 原文: [https://arxiv.org/abs/2603.15640](https://arxiv.org/abs/2603.15640)

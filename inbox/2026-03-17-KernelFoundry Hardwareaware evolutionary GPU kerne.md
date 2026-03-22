@@ -1,11 +1,12 @@
 ---
-title: "KernelFoundry: Hardware-aware evolutionary GPU kernel optimization"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.12440
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12440
 next_step: skim
+priority: medium
+slack_ts: '1774148038.919909'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'KernelFoundry: Hardware-aware evolutionary GPU kernel optimization'
 ---
 # KernelFoundry: Hardware-aware evolutionary GPU kernel optimization
 > 原文: [https://arxiv.org/abs/2603.12440](https://arxiv.org/abs/2603.12440)

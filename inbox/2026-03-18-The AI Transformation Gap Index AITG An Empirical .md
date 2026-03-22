@@ -1,11 +1,14 @@
 ---
-title: "The AI Transformation Gap Index (AITG): An Empirical Framework for Measuring AI Transformation Opportunity, Disruption Risk, and Value Creation at the Industry and Firm Level"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.13278
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13278
 next_step: skim
+priority: low
+slack_ts: '1774148054.686969'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The AI Transformation Gap Index (AITG): An Empirical Framework for Measuring
+  AI Transformation Opportunity, Disruption Risk, and Value Creation at the Industry
+  and Firm Level'
 ---
 # The AI Transformation Gap Index (AITG): An Empirical Framework for Measuring AI Transformation Opportunity, Disruption Risk, and Value Creation at the Industry and Firm Level
 > 原文: [https://arxiv.org/abs/2603.13278](https://arxiv.org/abs/2603.13278)

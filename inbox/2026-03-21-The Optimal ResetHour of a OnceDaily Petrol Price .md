@@ -1,11 +1,12 @@
 ---
-title: "The Optimal Reset-Hour of a Once-Daily Petrol Price Increase Limit"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.18920
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18920
 next_step: skim
+priority: low
+slack_ts: '1774148095.726689'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Optimal Reset-Hour of a Once-Daily Petrol Price Increase Limit
 ---
 # The Optimal Reset-Hour of a Once-Daily Petrol Price Increase Limit
 > 原文: [https://arxiv.org/abs/2603.18920](https://arxiv.org/abs/2603.18920)

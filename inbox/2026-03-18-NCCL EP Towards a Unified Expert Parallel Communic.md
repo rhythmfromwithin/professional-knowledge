@@ -1,11 +1,12 @@
 ---
-title: "NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.13606
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13606
 next_step: skim
+priority: medium
+slack_ts: '1774148051.694359'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL'
 ---
 # NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL
 > 原文: [https://arxiv.org/abs/2603.13606](https://arxiv.org/abs/2603.13606)

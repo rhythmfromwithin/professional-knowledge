@@ -1,11 +1,13 @@
 ---
-title: "Push, Press, Slide: Mode-Aware Planar Contact Manipulation via Reduced-Order Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.12399
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12399
 next_step: skim
+priority: medium
+slack_ts: '1774148041.323789'
+source: cs.RO - Robotics
+status: unread
+title: 'Push, Press, Slide: Mode-Aware Planar Contact Manipulation via Reduced-Order
+  Models'
 ---
 # Push, Press, Slide: Mode-Aware Planar Contact Manipulation via Reduced-Order Models
 > 原文: [https://arxiv.org/abs/2603.12399](https://arxiv.org/abs/2603.12399)

@@ -1,11 +1,13 @@
 ---
-title: "Semantic Chameleon: Corpus-Dependent Poisoning Attacks and Defenses in RAG Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.18034
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18034
 next_step: skim
+priority: low
+slack_ts: '1774148094.615159'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Semantic Chameleon: Corpus-Dependent Poisoning Attacks and Defenses in RAG
+  Systems'
 ---
 # Semantic Chameleon: Corpus-Dependent Poisoning Attacks and Defenses in RAG Systems
 > 原文: [https://arxiv.org/abs/2603.18034](https://arxiv.org/abs/2603.18034)

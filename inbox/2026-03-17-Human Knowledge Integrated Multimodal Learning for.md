@@ -1,11 +1,12 @@
 ---
-title: "Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.12369
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12369
 next_step: skim
+priority: medium
+slack_ts: '1774148037.910439'
+source: cs.CV - Computer Vision
+status: unread
+title: Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization
 ---
 # Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization
 > 原文: [https://arxiv.org/abs/2603.12369](https://arxiv.org/abs/2603.12369)

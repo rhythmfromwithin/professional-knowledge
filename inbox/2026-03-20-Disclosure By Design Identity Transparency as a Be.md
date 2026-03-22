@@ -1,11 +1,13 @@
 ---
-title: "Disclosure By Design: Identity Transparency as a Behavioural Property of Conversational AI Models"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.16874
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16874
 next_step: skim
+priority: low
+slack_ts: '1774148070.607919'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Disclosure By Design: Identity Transparency as a Behavioural Property of Conversational
+  AI Models'
 ---
 # Disclosure By Design: Identity Transparency as a Behavioural Property of Conversational AI Models
 > 原文: [https://arxiv.org/abs/2603.16874](https://arxiv.org/abs/2603.16874)

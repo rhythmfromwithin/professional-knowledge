@@ -1,11 +1,13 @@
 ---
-title: "Audo-Sight: AI-driven Ambient Perception Across Edge-Cloud for Blind and Low Vision Users"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.13668
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13668
 next_step: skim
+priority: medium
+slack_ts: '1774148046.387539'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Audo-Sight: AI-driven Ambient Perception Across Edge-Cloud for Blind and Low
+  Vision Users'
 ---
 # Audo-Sight: AI-driven Ambient Perception Across Edge-Cloud for Blind and Low Vision Users
 > 原文: [https://arxiv.org/abs/2603.13668](https://arxiv.org/abs/2603.13668)

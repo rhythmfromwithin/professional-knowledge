@@ -1,11 +1,13 @@
 ---
-title: "From Prompts to Worlds: How Users Iterate, Explore, and Make Sense of AI-Generated 3D Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.13233
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13233
 next_step: skim
+priority: low
+slack_ts: '1774148049.026009'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Prompts to Worlds: How Users Iterate, Explore, and Make Sense of AI-Generated
+  3D Environments'
 ---
 # From Prompts to Worlds: How Users Iterate, Explore, and Make Sense of AI-Generated 3D Environments
 > 原文: [https://arxiv.org/abs/2603.13233](https://arxiv.org/abs/2603.13233)

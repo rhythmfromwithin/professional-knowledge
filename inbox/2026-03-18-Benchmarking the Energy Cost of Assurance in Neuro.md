@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking the Energy Cost of Assurance in Neuromorphic Edge Robotics"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.13880
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13880
 next_step: skim
+priority: low
+slack_ts: '1774148046.870989'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Benchmarking the Energy Cost of Assurance in Neuromorphic Edge Robotics
 ---
 # Benchmarking the Energy Cost of Assurance in Neuromorphic Edge Robotics
 > 原文: [https://arxiv.org/abs/2603.13880](https://arxiv.org/abs/2603.13880)

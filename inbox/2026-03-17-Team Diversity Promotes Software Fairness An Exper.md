@@ -1,11 +1,13 @@
 ---
-title: "Team Diversity Promotes Software Fairness: An Experiment on Fairness-Aware Requirements Prioritization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.12406
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12406
 next_step: skim
+priority: low
+slack_ts: '1774148042.923289'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Team Diversity Promotes Software Fairness: An Experiment on Fairness-Aware
+  Requirements Prioritization'
 ---
 # Team Diversity Promotes Software Fairness: An Experiment on Fairness-Aware Requirements Prioritization
 > 原文: [https://arxiv.org/abs/2603.12406](https://arxiv.org/abs/2603.12406)

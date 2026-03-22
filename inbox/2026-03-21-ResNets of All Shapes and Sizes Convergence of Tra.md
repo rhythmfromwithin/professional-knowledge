@@ -1,11 +1,13 @@
 ---
-title: "ResNets of All Shapes and Sizes: Convergence of Training Dynamics in the Large-scale Limit"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.18168
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18168
 next_step: skim
+priority: medium
+slack_ts: '1774148093.695949'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ResNets of All Shapes and Sizes: Convergence of Training Dynamics in the Large-scale
+  Limit'
 ---
 # ResNets of All Shapes and Sizes: Convergence of Training Dynamics in the Large-scale Limit
 > 原文: [https://arxiv.org/abs/2603.18168](https://arxiv.org/abs/2603.18168)

@@ -1,11 +1,12 @@
 ---
-title: "The Perfection Paradox: From Architect to Curator in AI-Assisted API Design"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.12475
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12475
 next_step: skim
+priority: low
+slack_ts: '1774148043.130579'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Perfection Paradox: From Architect to Curator in AI-Assisted API Design'
 ---
 # The Perfection Paradox: From Architect to Curator in AI-Assisted API Design
 > 原文: [https://arxiv.org/abs/2603.12475](https://arxiv.org/abs/2603.12475)

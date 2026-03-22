@@ -1,11 +1,12 @@
 ---
-title: "Topology as information: Network effects in corporate lending"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.12417
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12417
 next_step: skim
+priority: low
+slack_ts: '1774148043.398679'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Topology as information: Network effects in corporate lending'
 ---
 # Topology as information: Network effects in corporate lending
 > 原文: [https://arxiv.org/abs/2603.12417](https://arxiv.org/abs/2603.12417)

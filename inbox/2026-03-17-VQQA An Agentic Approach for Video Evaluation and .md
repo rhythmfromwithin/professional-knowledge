@@ -1,11 +1,12 @@
 ---
-title: "VQQA: An Agentic Approach for Video Evaluation and Quality Improvement"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.12310
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12310
 next_step: skim
+priority: medium
+slack_ts: '1774148043.865129'
+source: cs.CV - Computer Vision
+status: unread
+title: 'VQQA: An Agentic Approach for Video Evaluation and Quality Improvement'
 ---
 # VQQA: An Agentic Approach for Video Evaluation and Quality Improvement
 > 原文: [https://arxiv.org/abs/2603.12310](https://arxiv.org/abs/2603.12310)

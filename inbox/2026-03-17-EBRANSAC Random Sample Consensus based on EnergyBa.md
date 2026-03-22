@@ -1,11 +1,12 @@
 ---
-title: "EB-RANSAC: Random Sample Consensus based on Energy-Based Model"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.12525
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12525
 next_step: skim
+priority: medium
+slack_ts: '1774148034.357439'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'EB-RANSAC: Random Sample Consensus based on Energy-Based Model'
 ---
 # EB-RANSAC: Random Sample Consensus based on Energy-Based Model
 > 原文: [https://arxiv.org/abs/2603.12525](https://arxiv.org/abs/2603.12525)

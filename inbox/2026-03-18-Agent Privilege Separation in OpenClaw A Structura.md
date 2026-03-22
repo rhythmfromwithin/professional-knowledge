@@ -1,11 +1,13 @@
 ---
-title: "Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt Injection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.13424
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13424
 next_step: skim
+priority: low
+slack_ts: '1774148045.482339'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt
+  Injection'
 ---
 # Agent Privilege Separation in OpenClaw: A Structural Defense Against Prompt Injection
 > 原文: [https://arxiv.org/abs/2603.13424](https://arxiv.org/abs/2603.13424)

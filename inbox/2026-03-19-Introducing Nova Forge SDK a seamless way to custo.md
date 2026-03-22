@@ -1,11 +1,13 @@
 ---
-title: "Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/
 next_step: skim
+priority: high
+slack_ts: '1774148061.680449'
+source: AWS Blog
+status: unread
+title: Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise
+  AI
 ---
 # Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/](https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/)

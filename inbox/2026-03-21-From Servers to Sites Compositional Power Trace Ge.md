@@ -1,11 +1,13 @@
 ---
-title: "From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.18383
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18383
 next_step: skim
+priority: medium
+slack_ts: '1774148086.612369'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'From Servers to Sites: Compositional Power Trace Generation of LLM Inference
+  for Infrastructure Planning'
 ---
 # From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning
 > 原文: [https://arxiv.org/abs/2603.18383](https://arxiv.org/abs/2603.18383)

@@ -1,11 +1,13 @@
 ---
-title: "Towards Output-Optimal Uniform Sampling and Approximate Counting for Join-Project Queries"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.12560
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12560
 next_step: skim
+priority: low
+slack_ts: '1774148043.601039'
+source: cs.DB - Databases
+status: unread
+title: Towards Output-Optimal Uniform Sampling and Approximate Counting for Join-Project
+  Queries
 ---
 # Towards Output-Optimal Uniform Sampling and Approximate Counting for Join-Project Queries
 > 原文: [https://arxiv.org/abs/2603.12560](https://arxiv.org/abs/2603.12560)

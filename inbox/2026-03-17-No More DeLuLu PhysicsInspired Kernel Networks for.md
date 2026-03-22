@@ -1,11 +1,13 @@
 ---
-title: "No More DeLuLu: Physics-Inspired Kernel Networks for Geometrically-Grounded Neural Computation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.12276
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12276
 next_step: skim
+priority: high
+slack_ts: '1774148039.992399'
+source: cs.LG - Machine Learning
+status: unread
+title: 'No More DeLuLu: Physics-Inspired Kernel Networks for Geometrically-Grounded
+  Neural Computation'
 ---
 # No More DeLuLu: Physics-Inspired Kernel Networks for Geometrically-Grounded Neural Computation
 > 原文: [https://arxiv.org/abs/2603.12276](https://arxiv.org/abs/2603.12276)

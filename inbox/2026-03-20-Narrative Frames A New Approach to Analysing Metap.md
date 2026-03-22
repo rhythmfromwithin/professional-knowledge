@@ -1,11 +1,13 @@
 ---
-title: "Narrative Frames: A New Approach to Analysing Metaphors in AI Ethics and Policy Discourse"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.17192
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17192
 next_step: skim
+priority: medium
+slack_ts: '1774148075.676009'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Narrative Frames: A New Approach to Analysing Metaphors in AI Ethics and Policy
+  Discourse'
 ---
 # Narrative Frames: A New Approach to Analysing Metaphors in AI Ethics and Policy Discourse
 > 原文: [https://arxiv.org/abs/2603.17192](https://arxiv.org/abs/2603.17192)

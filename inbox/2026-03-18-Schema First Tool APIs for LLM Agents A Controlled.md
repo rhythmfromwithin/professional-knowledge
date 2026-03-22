@@ -1,11 +1,13 @@
 ---
-title: "Schema First Tool APIs for LLM Agents: A Controlled Study of Tool Misuse, Recovery, and Budgeted Performance"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.13404
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13404
 next_step: skim
+priority: low
+slack_ts: '1774148053.744929'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Schema First Tool APIs for LLM Agents: A Controlled Study of Tool Misuse,
+  Recovery, and Budgeted Performance'
 ---
 # Schema First Tool APIs for LLM Agents: A Controlled Study of Tool Misuse, Recovery, and Budgeted Performance
 > 原文: [https://arxiv.org/abs/2603.13404](https://arxiv.org/abs/2603.13404)

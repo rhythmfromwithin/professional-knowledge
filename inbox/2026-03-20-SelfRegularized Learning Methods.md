@@ -1,11 +1,12 @@
 ---
-title: "Self-Regularized Learning Methods"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.17160
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17160
 next_step: skim
+priority: medium
+slack_ts: '1774148079.732929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Self-Regularized Learning Methods
 ---
 # Self-Regularized Learning Methods
 > 原文: [https://arxiv.org/abs/2603.17160](https://arxiv.org/abs/2603.17160)

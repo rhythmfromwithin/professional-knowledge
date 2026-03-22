@@ -1,11 +1,12 @@
 ---
-title: "Why Codex Security Doesn’t Include a SAST Report"
-source: "OpenAI Blog"
-link: https://openai.com/index/why-codex-security-doesnt-include-sast
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/why-codex-security-doesnt-include-sast
 next_step: skim
+priority: high
+slack_ts: '1774148044.345349'
+source: OpenAI Blog
+status: unread
+title: Why Codex Security Doesn’t Include a SAST Report
 ---
 # Why Codex Security Doesn’t Include a SAST Report
 > 原文: [https://openai.com/index/why-codex-security-doesnt-include-sast](https://openai.com/index/why-codex-security-doesnt-include-sast)

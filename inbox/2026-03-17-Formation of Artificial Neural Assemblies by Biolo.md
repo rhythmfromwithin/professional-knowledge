@@ -1,11 +1,13 @@
 ---
-title: "Formation of Artificial Neural Assemblies by Biologically Plausible Inhibition Mechanisms"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.12416
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12416
 next_step: skim
+priority: low
+slack_ts: '1774148035.287069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Formation of Artificial Neural Assemblies by Biologically Plausible Inhibition
+  Mechanisms
 ---
 # Formation of Artificial Neural Assemblies by Biologically Plausible Inhibition Mechanisms
 > 原文: [https://arxiv.org/abs/2603.12416](https://arxiv.org/abs/2603.12416)

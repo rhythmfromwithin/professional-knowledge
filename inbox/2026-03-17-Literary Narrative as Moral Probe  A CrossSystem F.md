@@ -1,11 +1,13 @@
 ---
-title: "Literary Narrative as Moral Probe : A Cross-System Framework for Evaluating AI Ethical Reasoning and Refusal Behavior"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.12615
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12615
 next_step: skim
+priority: medium
+slack_ts: '1774148039.186029'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Literary Narrative as Moral Probe : A Cross-System Framework for Evaluating
+  AI Ethical Reasoning and Refusal Behavior'
 ---
 # Literary Narrative as Moral Probe : A Cross-System Framework for Evaluating AI Ethical Reasoning and Refusal Behavior
 > 原文: [https://arxiv.org/abs/2603.12615](https://arxiv.org/abs/2603.12615)

@@ -1,11 +1,12 @@
 ---
-title: "Continual Fine-Tuning with Provably Accurate and Parameter-Free Task Retrieval"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.13235
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13235
 next_step: skim
+priority: high
+slack_ts: '1774148048.033319'
+source: cs.LG - Machine Learning
+status: unread
+title: Continual Fine-Tuning with Provably Accurate and Parameter-Free Task Retrieval
 ---
 # Continual Fine-Tuning with Provably Accurate and Parameter-Free Task Retrieval
 > 原文: [https://arxiv.org/abs/2603.13235](https://arxiv.org/abs/2603.13235)

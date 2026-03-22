@@ -1,11 +1,13 @@
 ---
-title: "ELLA: Generative AI-Powered Social Robots for Early Language Development at Home"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.12508
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12508
 next_step: skim
+priority: low
+slack_ts: '1774148034.558919'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'ELLA: Generative AI-Powered Social Robots for Early Language Development at
+  Home'
 ---
 # ELLA: Generative AI-Powered Social Robots for Early Language Development at Home
 > 原文: [https://arxiv.org/abs/2603.12508](https://arxiv.org/abs/2603.12508)

@@ -1,11 +1,12 @@
 ---
-title: "Variational Garrote for Sparse Inverse Problems"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.12562
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12562
 next_step: skim
+priority: medium
+slack_ts: '1774148044.130719'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Variational Garrote for Sparse Inverse Problems
 ---
 # Variational Garrote for Sparse Inverse Problems
 > 原文: [https://arxiv.org/abs/2603.12562](https://arxiv.org/abs/2603.12562)

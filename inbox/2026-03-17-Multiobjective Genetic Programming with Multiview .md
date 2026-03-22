@@ -1,11 +1,13 @@
 ---
-title: "Multi-objective Genetic Programming with Multi-view Multi-level Feature for Enhanced Protein Secondary Structure Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.12293
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12293
 next_step: skim
+priority: high
+slack_ts: '1774148039.469619'
+source: cs.LG - Machine Learning
+status: unread
+title: Multi-objective Genetic Programming with Multi-view Multi-level Feature for
+  Enhanced Protein Secondary Structure Prediction
 ---
 # Multi-objective Genetic Programming with Multi-view Multi-level Feature for Enhanced Protein Secondary Structure Prediction
 > 原文: [https://arxiv.org/abs/2603.12293](https://arxiv.org/abs/2603.12293)

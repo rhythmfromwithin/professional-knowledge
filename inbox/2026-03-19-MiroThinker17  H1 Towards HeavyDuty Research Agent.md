@@ -1,11 +1,12 @@
 ---
-title: "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.15726
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15726
 next_step: skim
+priority: high
+slack_ts: '1774148062.694469'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification'
 ---
 # MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification
 > 原文: [https://arxiv.org/abs/2603.15726](https://arxiv.org/abs/2603.15726)

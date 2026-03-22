@@ -1,11 +1,12 @@
 ---
-title: "Efficient Reasoning with Balanced Thinking"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.12372
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.12372
 next_step: skim
+priority: high
+slack_ts: '1774148034.824419'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Efficient Reasoning with Balanced Thinking
 ---
 # Efficient Reasoning with Balanced Thinking
 > 原文: [https://arxiv.org/abs/2603.12372](https://arxiv.org/abs/2603.12372)

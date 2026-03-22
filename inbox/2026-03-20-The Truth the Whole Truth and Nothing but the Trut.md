@@ -1,11 +1,13 @@
 ---
-title: "The Truth, the Whole Truth, and Nothing but the Truth: Automatic Visualization Evaluation from Reconstruction Quality"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.16873
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16873
 next_step: skim
+priority: low
+slack_ts: '1774148080.796599'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Truth, the Whole Truth, and Nothing but the Truth: Automatic Visualization
+  Evaluation from Reconstruction Quality'
 ---
 # The Truth, the Whole Truth, and Nothing but the Truth: Automatic Visualization Evaluation from Reconstruction Quality
 > 原文: [https://arxiv.org/abs/2603.16873](https://arxiv.org/abs/2603.16873)

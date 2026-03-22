@@ -1,11 +1,13 @@
 ---
-title: "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.15624
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15624
 next_step: skim
+priority: medium
+slack_ts: '1774148059.618939'
+source: cs.CV - Computer Vision
+status: unread
+title: Exploring the Use of VLMs for Navigation Assistance for People with Blindness
+  and Low Vision
 ---
 # Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision
 > 原文: [https://arxiv.org/abs/2603.15624](https://arxiv.org/abs/2603.15624)
