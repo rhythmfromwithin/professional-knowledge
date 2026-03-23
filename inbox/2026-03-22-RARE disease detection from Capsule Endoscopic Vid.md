@@ -1,11 +1,12 @@
 ---
-title: "RARE disease detection from Capsule Endoscopic Videos based on Vision Transformers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.18045
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18045
 next_step: skim
+priority: medium
+slack_ts: '1774234436.841659'
+source: cs.CV - Computer Vision
+status: unread
+title: RARE disease detection from Capsule Endoscopic Videos based on Vision Transformers
 ---
 # RARE disease detection from Capsule Endoscopic Videos based on Vision Transformers
 > 原文: [https://arxiv.org/abs/2603.18045](https://arxiv.org/abs/2603.18045)

@@ -1,11 +1,12 @@
 ---
-title: "Human in the Loop for Fuzz Testing: Literature Review and the Road Ahead"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.13411
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13411
 next_step: skim
+priority: low
+slack_ts: '1774234415.395749'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Human in the Loop for Fuzz Testing: Literature Review and the Road Ahead'
 ---
 # Human in the Loop for Fuzz Testing: Literature Review and the Road Ahead
 > 原文: [https://arxiv.org/abs/2603.13411](https://arxiv.org/abs/2603.13411)

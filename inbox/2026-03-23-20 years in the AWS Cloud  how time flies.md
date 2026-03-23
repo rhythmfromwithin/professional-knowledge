@@ -1,0 +1,13 @@
+---
+title: "20 years in the AWS Cloud – how time flies!"
+source: "AWS Blog"
+link: https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# 20 years in the AWS Cloud – how time flies!
+> 原文: [https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/](https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/)
+
+Celebrating twenty years of innovation in ML and AI technology at AWS. Countless developers—myself included—have embraced cloud computing and actively used its capabilities to accomplish what was previously impossible.

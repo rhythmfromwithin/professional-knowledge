@@ -1,11 +1,12 @@
 ---
-title: "Weak structural connectivity nonlinearly underlying human cognitive abilities"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2505.24125
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2505.24125
 next_step: skim
+priority: low
+slack_ts: '1774234433.893559'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Weak structural connectivity nonlinearly underlying human cognitive abilities
 ---
 # Weak structural connectivity nonlinearly underlying human cognitive abilities
 > 原文: [https://arxiv.org/abs/2505.24125](https://arxiv.org/abs/2505.24125)

@@ -1,11 +1,12 @@
 ---
-title: "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first"
-source: "OpenAI Blog"
-link: https://openai.com/index/japan-teen-safety-blueprint
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/japan-teen-safety-blueprint
 next_step: skim
+priority: high
+slack_ts: '1774234423.214409'
+source: OpenAI Blog
+status: unread
+title: OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
 ---
 # OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
 > 原文: [https://openai.com/index/japan-teen-safety-blueprint](https://openai.com/index/japan-teen-safety-blueprint)

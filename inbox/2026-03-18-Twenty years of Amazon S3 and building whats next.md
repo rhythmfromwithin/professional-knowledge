@@ -1,11 +1,12 @@
 ---
-title: "Twenty years of Amazon S3 and building what’s next"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/
 next_step: skim
+priority: high
+slack_ts: '1774234418.059719'
+source: AWS Blog
+status: unread
+title: Twenty years of Amazon S3 and building what’s next
 ---
 # Twenty years of Amazon S3 and building what’s next
 > 原文: [https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/](https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/)

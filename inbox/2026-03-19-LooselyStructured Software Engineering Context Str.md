@@ -1,11 +1,13 @@
 ---
-title: "Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.15690
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15690
 next_step: skim
+priority: low
+slack_ts: '1774234422.734949'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Loosely-Structured Software: Engineering Context, Structure, and Evolution
+  Entropy in Runtime-Rewired Multi-Agent Systems'
 ---
 # Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems
 > 原文: [https://arxiv.org/abs/2603.15690](https://arxiv.org/abs/2603.15690)

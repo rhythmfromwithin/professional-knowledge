@@ -1,11 +1,13 @@
 ---
-title: "Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.13240
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13240
 next_step: skim
+priority: medium
+slack_ts: '1774234415.097179'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in
+  the Field'
 ---
 # Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field
 > 原文: [https://arxiv.org/abs/2603.13240](https://arxiv.org/abs/2603.13240)

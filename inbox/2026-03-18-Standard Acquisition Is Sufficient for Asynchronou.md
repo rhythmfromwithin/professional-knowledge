@@ -1,11 +1,12 @@
 ---
-title: "Standard Acquisition Is Sufficient for Asynchronous Bayesian Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.13501
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13501
 next_step: skim
+priority: medium
+slack_ts: '1774234417.543629'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Standard Acquisition Is Sufficient for Asynchronous Bayesian Optimization
 ---
 # Standard Acquisition Is Sufficient for Asynchronous Bayesian Optimization
 > 原文: [https://arxiv.org/abs/2603.13501](https://arxiv.org/abs/2603.13501)

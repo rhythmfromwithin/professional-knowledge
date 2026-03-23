@@ -1,11 +1,12 @@
 ---
-title: "A Longitudinal Study of Usability in Identity-Based Software Signing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.17133
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17133
 next_step: skim
+priority: low
+slack_ts: '1774234424.895089'
+source: cs.SE - Software Engineering
+status: unread
+title: A Longitudinal Study of Usability in Identity-Based Software Signing
 ---
 # A Longitudinal Study of Usability in Identity-Based Software Signing
 > 原文: [https://arxiv.org/abs/2603.17133](https://arxiv.org/abs/2603.17133)

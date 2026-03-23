@@ -1,11 +1,12 @@
 ---
-title: "Learning to Recall with Transformers Beyond Orthogonal Embeddings"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.15923
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15923
 next_step: skim
+priority: medium
+slack_ts: '1774234422.533119'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning to Recall with Transformers Beyond Orthogonal Embeddings
 ---
 # Learning to Recall with Transformers Beyond Orthogonal Embeddings
 > 原文: [https://arxiv.org/abs/2603.15923](https://arxiv.org/abs/2603.15923)

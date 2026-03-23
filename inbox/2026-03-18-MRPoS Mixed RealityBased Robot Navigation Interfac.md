@@ -1,11 +1,13 @@
 ---
-title: "MRPoS: Mixed Reality-Based Robot Navigation Interface Using Spatial Pointing and Speech with Large Language Model"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.13313
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13313
 next_step: skim
+priority: medium
+slack_ts: '1774234415.945729'
+source: cs.RO - Robotics
+status: unread
+title: 'MRPoS: Mixed Reality-Based Robot Navigation Interface Using Spatial Pointing
+  and Speech with Large Language Model'
 ---
 # MRPoS: Mixed Reality-Based Robot Navigation Interface Using Spatial Pointing and Speech with Large Language Model
 > 原文: [https://arxiv.org/abs/2603.13313](https://arxiv.org/abs/2603.13313)

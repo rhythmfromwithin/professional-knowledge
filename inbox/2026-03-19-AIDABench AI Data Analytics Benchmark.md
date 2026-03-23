@@ -1,11 +1,12 @@
 ---
-title: "AIDABench: AI Data Analytics Benchmark"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.15636
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15636
 next_step: skim
+priority: high
+slack_ts: '1774234419.383009'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AIDABench: AI Data Analytics Benchmark'
 ---
 # AIDABench: AI Data Analytics Benchmark
 > 原文: [https://arxiv.org/abs/2603.15636](https://arxiv.org/abs/2603.15636)

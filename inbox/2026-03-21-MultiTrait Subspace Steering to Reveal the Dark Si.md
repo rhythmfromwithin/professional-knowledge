@@ -1,11 +1,12 @@
 ---
-title: "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.18085
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18085
 next_step: skim
+priority: high
+slack_ts: '1774234431.901329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction
 ---
 # Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction
 > 原文: [https://arxiv.org/abs/2603.18085](https://arxiv.org/abs/2603.18085)

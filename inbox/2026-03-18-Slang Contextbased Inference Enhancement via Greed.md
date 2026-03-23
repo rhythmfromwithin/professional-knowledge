@@ -1,11 +1,13 @@
 ---
-title: "Slang Context-based Inference Enhancement via Greedy Search-Guided Chain-of-Thought Prompting"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.13230
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13230
 next_step: skim
+priority: high
+slack_ts: '1774234417.245819'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Slang Context-based Inference Enhancement via Greedy Search-Guided Chain-of-Thought
+  Prompting
 ---
 # Slang Context-based Inference Enhancement via Greedy Search-Guided Chain-of-Thought Prompting
 > 原文: [https://arxiv.org/abs/2603.13230](https://arxiv.org/abs/2603.13230)

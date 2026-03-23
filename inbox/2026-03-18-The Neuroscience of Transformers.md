@@ -1,11 +1,12 @@
 ---
-title: "The Neuroscience of Transformers"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.15339
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15339
 next_step: skim
+priority: low
+slack_ts: '1774234417.800209'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Neuroscience of Transformers
 ---
 # The Neuroscience of Transformers
 > 原文: [https://arxiv.org/abs/2603.15339](https://arxiv.org/abs/2603.15339)

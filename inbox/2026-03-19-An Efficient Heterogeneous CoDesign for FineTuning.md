@@ -1,11 +1,12 @@
 ---
-title: "An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.16428
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16428
 next_step: skim
+priority: medium
+slack_ts: '1774234419.704999'
+source: cs.DC - Distributed Computing
+status: unread
+title: An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU
 ---
 # An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU
 > 原文: [https://arxiv.org/abs/2603.16428](https://arxiv.org/abs/2603.16428)

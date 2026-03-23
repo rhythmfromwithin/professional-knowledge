@@ -1,11 +1,13 @@
 ---
-title: "Reimagining Wearable AR Gesture Design: Physical Therapy Reasoning in Everyday Contexts"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.13565
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13565
 next_step: skim
+priority: low
+slack_ts: '1774234416.985069'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Reimagining Wearable AR Gesture Design: Physical Therapy Reasoning in Everyday
+  Contexts'
 ---
 # Reimagining Wearable AR Gesture Design: Physical Therapy Reasoning in Everyday Contexts
 > 原文: [https://arxiv.org/abs/2603.13565](https://arxiv.org/abs/2603.13565)

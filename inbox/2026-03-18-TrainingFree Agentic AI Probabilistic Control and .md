@@ -1,11 +1,13 @@
 ---
-title: "Training-Free Agentic AI: Probabilistic Control and Coordination in Multi-Agent LLM Systems"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.13256
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13256
 next_step: skim
+priority: high
+slack_ts: '1774234417.919839'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Training-Free Agentic AI: Probabilistic Control and Coordination in Multi-Agent
+  LLM Systems'
 ---
 # Training-Free Agentic AI: Probabilistic Control and Coordination in Multi-Agent LLM Systems
 > 原文: [https://arxiv.org/abs/2603.13256](https://arxiv.org/abs/2603.13256)

@@ -1,11 +1,13 @@
 ---
-title: "Automated Self-Testing as a Quality Gate: Evidence-Driven Release Management for LLM Applications"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.15676
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15676
 next_step: skim
+priority: low
+slack_ts: '1774234420.084159'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Automated Self-Testing as a Quality Gate: Evidence-Driven Release Management
+  for LLM Applications'
 ---
 # Automated Self-Testing as a Quality Gate: Evidence-Driven Release Management for LLM Applications
 > 原文: [https://arxiv.org/abs/2603.15676](https://arxiv.org/abs/2603.15676)

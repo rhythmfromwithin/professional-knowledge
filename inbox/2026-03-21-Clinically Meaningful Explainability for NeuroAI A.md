@@ -1,11 +1,13 @@
 ---
-title: "Clinically Meaningful Explainability for NeuroAI: An ethical, technical, and clinical perspective"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.18028
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18028
 next_step: skim
+priority: medium
+slack_ts: '1774234429.855119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Clinically Meaningful Explainability for NeuroAI: An ethical, technical, and
+  clinical perspective'
 ---
 # Clinically Meaningful Explainability for NeuroAI: An ethical, technical, and clinical perspective
 > 原文: [https://arxiv.org/abs/2603.18028](https://arxiv.org/abs/2603.18028)

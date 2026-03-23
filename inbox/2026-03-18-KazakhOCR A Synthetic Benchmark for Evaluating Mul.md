@@ -1,11 +1,13 @@
 ---
-title: "KazakhOCR: A Synthetic Benchmark for Evaluating Multimodal Models in Low-Resource Kazakh Script OCR"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.13238
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13238
 next_step: skim
+priority: medium
+slack_ts: '1774234415.814949'
+source: cs.CV - Computer Vision
+status: unread
+title: 'KazakhOCR: A Synthetic Benchmark for Evaluating Multimodal Models in Low-Resource
+  Kazakh Script OCR'
 ---
 # KazakhOCR: A Synthetic Benchmark for Evaluating Multimodal Models in Low-Resource Kazakh Script OCR
 > 原文: [https://arxiv.org/abs/2603.13238](https://arxiv.org/abs/2603.13238)

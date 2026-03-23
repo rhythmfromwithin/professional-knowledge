@@ -1,11 +1,13 @@
 ---
-title: "Wealth Taxes and Post-Growth: How different tax designs align with different goals"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.17786
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17786
 next_step: skim
+priority: low
+slack_ts: '1774234428.887409'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Wealth Taxes and Post-Growth: How different tax designs align with different
+  goals'
 ---
 # Wealth Taxes and Post-Growth: How different tax designs align with different goals
 > 原文: [https://arxiv.org/abs/2603.17786](https://arxiv.org/abs/2603.17786)

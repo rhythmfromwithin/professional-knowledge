@@ -1,11 +1,12 @@
 ---
-title: "RFX-Fuse: Breiman and Cutler's Unified ML Engine + Native Explainable Similarity"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.13234
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.13234
 next_step: skim
+priority: high
+slack_ts: '1774234416.606249'
+source: cs.LG - Machine Learning
+status: unread
+title: 'RFX-Fuse: Breiman and Cutler''s Unified ML Engine + Native Explainable Similarity'
 ---
 # RFX-Fuse: Breiman and Cutler's Unified ML Engine + Native Explainable Similarity
 > 原文: [https://arxiv.org/abs/2603.13234](https://arxiv.org/abs/2603.13234)

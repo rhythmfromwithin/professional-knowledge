@@ -1,11 +1,14 @@
 ---
-title: "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.16204
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16204
 next_step: skim
+priority: medium
+slack_ts: '1774234418.312469'
+source: cs.CY - Computers and Society
+status: unread
+title: 'A Scoping Review of AI-Driven Digital Interventions in Mental Health Care:
+  Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical
+  Education'
 ---
 # A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education
 > 原文: [https://arxiv.org/abs/2603.16204](https://arxiv.org/abs/2603.16204)

@@ -1,11 +1,12 @@
 ---
-title: "Hippocampus mediates conceptual generalization of pain modulation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.16288
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16288
 next_step: skim
+priority: low
+slack_ts: '1774234421.509719'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Hippocampus mediates conceptual generalization of pain modulation
 ---
 # Hippocampus mediates conceptual generalization of pain modulation
 > 原文: [https://arxiv.org/abs/2603.16288](https://arxiv.org/abs/2603.16288)

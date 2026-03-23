@@ -1,11 +1,13 @@
 ---
-title: "Relationship-Centered Care: Relatedness and Responsible Design for Human Connections in Mental-Health Care"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.18375
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18375
 next_step: skim
+priority: low
+slack_ts: '1774234432.876239'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Relationship-Centered Care: Relatedness and Responsible Design for Human Connections
+  in Mental-Health Care'
 ---
 # Relationship-Centered Care: Relatedness and Responsible Design for Human Connections in Mental-Health Care
 > 原文: [https://arxiv.org/abs/2603.18375](https://arxiv.org/abs/2603.18375)

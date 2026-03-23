@@ -1,11 +1,13 @@
 ---
-title: "CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.15771
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15771
 next_step: skim
+priority: medium
+slack_ts: '1774234420.591809'
+source: cs.RO - Robotics
+status: unread
+title: 'CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in
+  Autonomous Driving'
 ---
 # CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving
 > 原文: [https://arxiv.org/abs/2603.15771](https://arxiv.org/abs/2603.15771)
