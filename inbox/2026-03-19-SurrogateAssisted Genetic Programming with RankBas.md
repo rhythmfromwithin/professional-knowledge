@@ -1,11 +1,13 @@
 ---
-title: "Surrogate-Assisted Genetic Programming with Rank-Based Phenotypic Characterisation for Dynamic Multi-Mode Project Scheduling"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.16286
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16286
 next_step: skim
+priority: low
+slack_ts: '1774320340.705599'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Surrogate-Assisted Genetic Programming with Rank-Based Phenotypic Characterisation
+  for Dynamic Multi-Mode Project Scheduling
 ---
 # Surrogate-Assisted Genetic Programming with Rank-Based Phenotypic Characterisation for Dynamic Multi-Mode Project Scheduling
 > 原文: [https://arxiv.org/abs/2603.16286](https://arxiv.org/abs/2603.16286)

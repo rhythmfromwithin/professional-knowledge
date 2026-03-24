@@ -1,11 +1,12 @@
 ---
-title: "When Are Social Ties Associated with Strategic Behavior?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.15700
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15700
 next_step: skim
+priority: low
+slack_ts: '1774320342.013019'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: When Are Social Ties Associated with Strategic Behavior?
 ---
 # When Are Social Ties Associated with Strategic Behavior?
 > 原文: [https://arxiv.org/abs/2603.15700](https://arxiv.org/abs/2603.15700)

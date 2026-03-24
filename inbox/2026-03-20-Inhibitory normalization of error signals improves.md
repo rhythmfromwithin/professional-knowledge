@@ -1,11 +1,12 @@
 ---
-title: "Inhibitory normalization of error signals improves learning in neural circuits"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.17676
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17676
 next_step: skim
+priority: low
+slack_ts: '1774320345.602009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Inhibitory normalization of error signals improves learning in neural circuits
 ---
 # Inhibitory normalization of error signals improves learning in neural circuits
 > 原文: [https://arxiv.org/abs/2603.17676](https://arxiv.org/abs/2603.17676)

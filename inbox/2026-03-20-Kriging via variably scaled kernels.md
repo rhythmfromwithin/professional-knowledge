@@ -1,11 +1,12 @@
 ---
-title: "Kriging via variably scaled kernels"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.16950
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16950
 next_step: skim
+priority: medium
+slack_ts: '1774320345.847999'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Kriging via variably scaled kernels
 ---
 # Kriging via variably scaled kernels
 > 原文: [https://arxiv.org/abs/2603.16950](https://arxiv.org/abs/2603.16950)

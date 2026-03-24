@@ -1,11 +1,13 @@
 ---
-title: "You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.15757
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15757
 next_step: skim
+priority: medium
+slack_ts: '1774320342.156369'
+source: cs.RO - Robotics
+status: unread
+title: 'You''ve Got a Golden Ticket: Improving Generative Robot Policies With A Single
+  Noise Vector'
 ---
 # You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector
 > 原文: [https://arxiv.org/abs/2603.15757](https://arxiv.org/abs/2603.15757)

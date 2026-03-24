@@ -1,11 +1,13 @@
 ---
-title: "Embodied Foundation Models at the Edge: A Survey of Deployment Constraints and Mitigation Strategies"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.16952
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16952
 next_step: skim
+priority: medium
+slack_ts: '1774320344.518979'
+source: cs.RO - Robotics
+status: unread
+title: 'Embodied Foundation Models at the Edge: A Survey of Deployment Constraints
+  and Mitigation Strategies'
 ---
 # Embodied Foundation Models at the Edge: A Survey of Deployment Constraints and Mitigation Strategies
 > 原文: [https://arxiv.org/abs/2603.16952](https://arxiv.org/abs/2603.16952)

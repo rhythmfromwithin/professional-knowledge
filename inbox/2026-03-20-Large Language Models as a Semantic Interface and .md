@@ -1,11 +1,13 @@
 ---
-title: "Large Language Models as a Semantic Interface and Ethical Mediator in Neuro-Digital Ecosystems: Conceptual Foundations and a Regulatory Imperative"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.17444
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17444
 next_step: skim
+priority: low
+slack_ts: '1774320346.121639'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Large Language Models as a Semantic Interface and Ethical Mediator in Neuro-Digital
+  Ecosystems: Conceptual Foundations and a Regulatory Imperative'
 ---
 # Large Language Models as a Semantic Interface and Ethical Mediator in Neuro-Digital Ecosystems: Conceptual Foundations and a Regulatory Imperative
 > 原文: [https://arxiv.org/abs/2603.17444](https://arxiv.org/abs/2603.17444)

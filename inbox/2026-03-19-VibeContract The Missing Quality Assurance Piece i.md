@@ -1,11 +1,12 @@
 ---
-title: "VibeContract: The Missing Quality Assurance Piece in Vibe Coding"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.15691
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15691
 next_step: skim
+priority: low
+slack_ts: '1774320341.864149'
+source: cs.SE - Software Engineering
+status: unread
+title: 'VibeContract: The Missing Quality Assurance Piece in Vibe Coding'
 ---
 # VibeContract: The Missing Quality Assurance Piece in Vibe Coding
 > 原文: [https://arxiv.org/abs/2603.15691](https://arxiv.org/abs/2603.15691)

@@ -1,11 +1,13 @@
 ---
-title: "A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.18225
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18225
 next_step: skim
+priority: medium
+slack_ts: '1774320349.295029'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress
+  Prediction in Hyperelastic Materials
 ---
 # A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials
 > 原文: [https://arxiv.org/abs/2603.18225](https://arxiv.org/abs/2603.18225)

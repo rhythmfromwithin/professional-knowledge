@@ -1,0 +1,14 @@
+---
+title: "The Verifier Tax: Horizon Dependent Safety Success Tradeoffs in Tool Using LLM Agents"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2603.19328
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Verifier Tax: Horizon Dependent Safety Success Tradeoffs in Tool Using LLM Agents
+> 原文: [https://arxiv.org/abs/2603.19328](https://arxiv.org/abs/2603.19328)
+
+arXiv:2603.19328v1 Announce Type: new
+Abstract: We study how runtime enforcement against unsafe actions affects end-to-end task performance in multi-step tool using large language model (LLM) agents. Using tau-bench across Airline and Retail domains, we compare baseline Tool-Calling, planning-integrated (TRIAD), and policy-mediated (TRIAD-SAFETY) architectures with GPT-OSS-20B and GLM-4-9B. We identify model dependent interaction horizons (15 to 30 turns) and decompose outcomes into overall success rate (SR), safe success rate (SSR), and unsafe success rate (USR). Our results reveal a persistent Safety Capability Gap. While safety mediation can intercept up to 94 percent of non-compliant actions, it rarely translates into strictly safe goal attainment (SSR below 5 percent in most settings). We find that high unsafe success rates are primarily driven by Integrity Leaks, where models hallucinate user identifiers to bypass mandatory authentication. Recovery rates following blocked actions are consistently low, ranging from 21 percent for GPT-OSS-20B in simpler procedural tasks to near zero in complex Retail scenarios. These results demonstrate that runtime enforcement imposes a significant verifier tax on conversational length and compute cost without guaranteeing safe completion, highlighting the critical need for agents capable of grounded identity verification and post-intervention reasoning.

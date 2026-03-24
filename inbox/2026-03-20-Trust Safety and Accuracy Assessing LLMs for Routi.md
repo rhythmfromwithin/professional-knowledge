@@ -1,11 +1,12 @@
 ---
-title: "Trust, Safety, and Accuracy: Assessing LLMs for Routine Maternity Advice"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.16872
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16872
 next_step: skim
+priority: high
+slack_ts: '1774320348.911479'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Trust, Safety, and Accuracy: Assessing LLMs for Routine Maternity Advice'
 ---
 # Trust, Safety, and Accuracy: Assessing LLMs for Routine Maternity Advice
 > 原文: [https://arxiv.org/abs/2603.16872](https://arxiv.org/abs/2603.16872)

@@ -1,11 +1,13 @@
 ---
-title: "Background and Intellectual Development: Supplementary Material for the Category Mistake Papers"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.16907
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16907
 next_step: skim
+priority: medium
+slack_ts: '1774320343.093709'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Background and Intellectual Development: Supplementary Material for the Category
+  Mistake Papers'
 ---
 # Background and Intellectual Development: Supplementary Material for the Category Mistake Papers
 > 原文: [https://arxiv.org/abs/2603.16907](https://arxiv.org/abs/2603.16907)

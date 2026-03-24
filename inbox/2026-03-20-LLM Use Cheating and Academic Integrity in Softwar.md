@@ -1,11 +1,12 @@
 ---
-title: "LLM Use, Cheating, and Academic Integrity in Software Engineering Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.17060
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17060
 next_step: skim
+priority: medium
+slack_ts: '1774320345.994429'
+source: cs.CY - Computers and Society
+status: unread
+title: LLM Use, Cheating, and Academic Integrity in Software Engineering Education
 ---
 # LLM Use, Cheating, and Academic Integrity in Software Engineering Education
 > 原文: [https://arxiv.org/abs/2603.17060](https://arxiv.org/abs/2603.17060)

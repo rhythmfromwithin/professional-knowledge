@@ -1,11 +1,12 @@
 ---
-title: "Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.16978
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16978
 next_step: skim
+priority: medium
+slack_ts: '1774320347.945219'
+source: cs.RO - Robotics
+status: unread
+title: 'Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models'
 ---
 # Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models
 > 原文: [https://arxiv.org/abs/2603.16978](https://arxiv.org/abs/2603.16978)

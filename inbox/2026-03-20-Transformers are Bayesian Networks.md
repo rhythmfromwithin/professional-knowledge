@@ -1,11 +1,12 @@
 ---
-title: "Transformers are Bayesian Networks"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.17063
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17063
 next_step: skim
+priority: high
+slack_ts: '1774320348.783439'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Transformers are Bayesian Networks
 ---
 # Transformers are Bayesian Networks
 > 原文: [https://arxiv.org/abs/2603.17063](https://arxiv.org/abs/2603.17063)

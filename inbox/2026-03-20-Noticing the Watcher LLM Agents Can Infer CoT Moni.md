@@ -1,11 +1,12 @@
 ---
-title: "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.16928
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16928
 next_step: skim
+priority: low
+slack_ts: '1774320346.925939'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback'
 ---
 # Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback
 > 原文: [https://arxiv.org/abs/2603.16928](https://arxiv.org/abs/2603.16928)

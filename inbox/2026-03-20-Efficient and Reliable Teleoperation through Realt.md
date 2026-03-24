@@ -1,11 +1,12 @@
 ---
-title: "Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.17016
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17016
 next_step: skim
+priority: medium
+slack_ts: '1774320344.390769'
+source: cs.RO - Robotics
+status: unread
+title: Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy
 ---
 # Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy
 > 原文: [https://arxiv.org/abs/2603.17016](https://arxiv.org/abs/2603.17016)

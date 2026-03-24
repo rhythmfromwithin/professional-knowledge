@@ -1,11 +1,12 @@
 ---
-title: "Run NVIDIA Nemotron 3 Super on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1774320353.046209'
+source: AWS Blog
+status: unread
+title: Run NVIDIA Nemotron 3 Super on Amazon Bedrock
 ---
 # Run NVIDIA Nemotron 3 Super on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/)

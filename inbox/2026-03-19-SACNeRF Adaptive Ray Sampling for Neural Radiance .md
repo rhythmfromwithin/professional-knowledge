@@ -1,11 +1,13 @@
 ---
-title: "SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.15622
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.15622
 next_step: skim
+priority: medium
+slack_ts: '1774320340.431539'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic
+  Reinforcement Learning'
 ---
 # SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2603.15622](https://arxiv.org/abs/2603.15622)

@@ -1,11 +1,12 @@
 ---
-title: "Introducing GPT-5.4 mini and nano"
-source: "OpenAI Blog"
-link: https://openai.com/index/introducing-gpt-5-4-mini-and-nano
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/introducing-gpt-5-4-mini-and-nano
 next_step: skim
+priority: high
+slack_ts: '1774320357.993469'
+source: OpenAI Blog
+status: unread
+title: Introducing GPT-5.4 mini and nano
 ---
 # Introducing GPT-5.4 mini and nano
 > 原文: [https://openai.com/index/introducing-gpt-5-4-mini-and-nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)

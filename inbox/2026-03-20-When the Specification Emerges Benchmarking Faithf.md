@@ -1,11 +1,13 @@
 ---
-title: "When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.17104
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17104
 next_step: skim
+priority: low
+slack_ts: '1774320349.045179'
+source: cs.SE - Software Engineering
+status: unread
+title: 'When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon
+  Coding Agents'
 ---
 # When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents
 > 原文: [https://arxiv.org/abs/2603.17104](https://arxiv.org/abs/2603.17104)

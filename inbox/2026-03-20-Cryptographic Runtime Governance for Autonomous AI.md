@@ -1,11 +1,13 @@
 ---
-title: "Cryptographic Runtime Governance for Autonomous AI Systems: The Aegis Architecture for Verifiable Policy Enforcement"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.16938
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16938
 next_step: skim
+priority: low
+slack_ts: '1774320344.032919'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Cryptographic Runtime Governance for Autonomous AI Systems: The Aegis Architecture
+  for Verifiable Policy Enforcement'
 ---
 # Cryptographic Runtime Governance for Autonomous AI Systems: The Aegis Architecture for Verifiable Policy Enforcement
 > 原文: [https://arxiv.org/abs/2603.16938](https://arxiv.org/abs/2603.16938)

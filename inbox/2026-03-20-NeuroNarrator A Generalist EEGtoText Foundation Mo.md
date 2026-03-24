@@ -1,11 +1,13 @@
 ---
-title: "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.16880
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16880
 next_step: skim
+priority: low
+slack_ts: '1774320346.798119'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation
+  via Spectro-Spatial Grounding and Temporal State-Space Reasoning'
 ---
 # NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning
 > 原文: [https://arxiv.org/abs/2603.16880](https://arxiv.org/abs/2603.16880)

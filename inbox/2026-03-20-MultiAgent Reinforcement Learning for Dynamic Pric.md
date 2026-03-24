@@ -1,11 +1,13 @@
 ---
-title: "Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.16888
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16888
 next_step: skim
+priority: high
+slack_ts: '1774320346.497629'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability
+  and Fairness'
 ---
 # Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness
 > 原文: [https://arxiv.org/abs/2603.16888](https://arxiv.org/abs/2603.16888)

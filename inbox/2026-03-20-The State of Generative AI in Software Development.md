@@ -1,11 +1,13 @@
 ---
-title: "The State of Generative AI in Software Development: Insights from Literature and a Developer Survey"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.16975
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.16975
 next_step: skim
+priority: low
+slack_ts: '1774320348.648079'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The State of Generative AI in Software Development: Insights from Literature
+  and a Developer Survey'
 ---
 # The State of Generative AI in Software Development: Insights from Literature and a Developer Survey
 > 原文: [https://arxiv.org/abs/2603.16975](https://arxiv.org/abs/2603.16975)

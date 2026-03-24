@@ -1,11 +1,13 @@
 ---
-title: "Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent Tool Call Safety"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.18245
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18245
 next_step: skim
+priority: low
+slack_ts: '1774320354.055299'
+source: cs.SE - Software Engineering
+status: unread
+title: Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent
+  Tool Call Safety
 ---
 # Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent Tool Call Safety
 > 原文: [https://arxiv.org/abs/2603.18245](https://arxiv.org/abs/2603.18245)

@@ -1,11 +1,12 @@
 ---
-title: "Quadratic Surrogate Attractor for Particle Swarm Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.17163
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.17163
 next_step: skim
+priority: low
+slack_ts: '1774320347.529039'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Quadratic Surrogate Attractor for Particle Swarm Optimization
 ---
 # Quadratic Surrogate Attractor for Particle Swarm Optimization
 > 原文: [https://arxiv.org/abs/2603.17163](https://arxiv.org/abs/2603.17163)

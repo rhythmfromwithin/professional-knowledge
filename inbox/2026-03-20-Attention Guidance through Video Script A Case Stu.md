@@ -1,11 +1,5 @@
 ---
-title: "Attention Guidance through Video Script: A Case Study of Object Focusing on 360{\deg} VR Video Tours"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.16875
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1774320342.837689'
 ---
 # Attention Guidance through Video Script: A Case Study of Object Focusing on 360{\deg} VR Video Tours
 > 原文: [https://arxiv.org/abs/2603.16875](https://arxiv.org/abs/2603.16875)
