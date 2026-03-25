@@ -1,11 +1,12 @@
 ---
-title: "Continually self-improving AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.18073
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18073
 next_step: skim
+priority: high
+slack_ts: '1774407037.675919'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Continually self-improving AI
 ---
 # Continually self-improving AI
 > 原文: [https://arxiv.org/abs/2603.18073](https://arxiv.org/abs/2603.18073)

@@ -1,11 +1,13 @@
 ---
-title: "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.18048
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18048
 next_step: skim
+priority: high
+slack_ts: '1774407037.838779'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio
+  Language Models'
 ---
 # DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
 > 原文: [https://arxiv.org/abs/2603.18048](https://arxiv.org/abs/2603.18048)

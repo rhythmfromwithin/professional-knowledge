@@ -1,11 +1,12 @@
 ---
-title: "Starting Off on the Wrong Foot: Pitfalls in Data Preparation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.18190
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18190
 next_step: skim
+priority: medium
+slack_ts: '1774407042.514519'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Starting Off on the Wrong Foot: Pitfalls in Data Preparation'
 ---
 # Starting Off on the Wrong Foot: Pitfalls in Data Preparation
 > 原文: [https://arxiv.org/abs/2603.18190](https://arxiv.org/abs/2603.18190)

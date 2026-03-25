@@ -1,11 +1,13 @@
 ---
-title: "Uncovering Latent Phase Structures and Branching Logic in Locomotion Policies: A Case Study on HalfCheetah"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.18084
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18084
 next_step: skim
+priority: medium
+slack_ts: '1774407042.944539'
+source: cs.RO - Robotics
+status: unread
+title: 'Uncovering Latent Phase Structures and Branching Logic in Locomotion Policies:
+  A Case Study on HalfCheetah'
 ---
 # Uncovering Latent Phase Structures and Branching Logic in Locomotion Policies: A Case Study on HalfCheetah
 > 原文: [https://arxiv.org/abs/2603.18084](https://arxiv.org/abs/2603.18084)

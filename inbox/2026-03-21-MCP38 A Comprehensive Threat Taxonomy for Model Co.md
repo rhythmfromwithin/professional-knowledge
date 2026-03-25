@@ -1,11 +1,13 @@
 ---
-title: "MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.18063
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18063
 next_step: skim
+priority: low
+slack_ts: '1774407040.324259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems
+  (v1.0)'
 ---
 # MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)
 > 原文: [https://arxiv.org/abs/2603.18063](https://arxiv.org/abs/2603.18063)

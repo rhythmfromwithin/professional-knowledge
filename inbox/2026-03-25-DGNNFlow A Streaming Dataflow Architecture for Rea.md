@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2603.20364
+next_step: skim
+priority: medium
+slack_ts: '1774407054.648639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DGNNFlow: A Streaming Dataflow Architecture for Real-Time Edge-based Dynamic
+  GNN Inference in HL-LHC Trigger Systems'
+---
+# DGNNFlow: A Streaming Dataflow Architecture for Real-Time Edge-based Dynamic GNN Inference in HL-LHC Trigger Systems
+> 原文: [https://arxiv.org/abs/2603.20364](https://arxiv.org/abs/2603.20364)
+
+arXiv:2603.20364v1 Announce Type: new
+Abstract: Dynamic GNN inference has exhibited effectiveness in High Energy Physics (HEP) experiments at High Luminosity Large Hadron Collider (HL-LHC) due to strong capability to model complex particle interactions in collision events. Future HEP experiments will involve detectors that produce 10x more collision data to help unlocking physics discoveries. Due to limitations in offline compute capacity and storage, revamped trigger systems require FPGAs to run ultra-low-latency Machine Learning models for online filtering of useful events with low power consumption. State-of-the-art GNN accelerators relied on static graph structures, but this assumption breaks down in real-time HL-LHC trigger systems and edge-based dynamic GNN models where edge embeddings change in-place based on neighbor node embeddings at runtime. We propose DGNNFlow, a novel dataflow architecture for real-time edge-based dynamic GNN inference applications, especially HL-LHC trigger systems, with three key contributions. First, we introduce hardware support for dynamic computation of edge embeddings. Second, we resolve data dependencies in edge-based dynamic GNN dataflow, where edge embedding is formulated using its source and target nodes. Third, we perform input dynamic graph construction auxiliary setup for complete support of models without pre-defined edge embeddings. We deployed DGNNFlow using AMD Alveo U50 FPGA to evaluate end-to-end latency on-board at 200 MHz clock frequency. DGNNFlow achieved 1.6x-6.3x speedup and 0.22x power consumption compared to GPU (NVIDIA RTX A6000) with batch sizes from 1 to 4, 3.2x-5.1x speedup and 0.25x power consumption compared to CPU (Intel Xeon Gold 6226R). Our complete implementation is publicly available on GitHub.

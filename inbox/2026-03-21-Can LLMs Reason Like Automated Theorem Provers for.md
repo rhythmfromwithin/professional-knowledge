@@ -1,11 +1,13 @@
 ---
-title: "Can LLMs Reason Like Automated Theorem Provers for Rust Verification? VCoT-Bench: Evaluating via Verification Chain of Thought"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.18334
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18334
 next_step: skim
+priority: low
+slack_ts: '1774407037.345329'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Can LLMs Reason Like Automated Theorem Provers for Rust Verification? VCoT-Bench:
+  Evaluating via Verification Chain of Thought'
 ---
 # Can LLMs Reason Like Automated Theorem Provers for Rust Verification? VCoT-Bench: Evaluating via Verification Chain of Thought
 > 原文: [https://arxiv.org/abs/2603.18334](https://arxiv.org/abs/2603.18334)

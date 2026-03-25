@@ -1,11 +1,12 @@
 ---
-title: "Constrained Hybrid Metaheuristic: A Universal Framework for Continuous Optimisation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.18295
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18295
 next_step: skim
+priority: low
+slack_ts: '1774407037.575799'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Constrained Hybrid Metaheuristic: A Universal Framework for Continuous Optimisation'
 ---
 # Constrained Hybrid Metaheuristic: A Universal Framework for Continuous Optimisation
 > 原文: [https://arxiv.org/abs/2603.18295](https://arxiv.org/abs/2603.18295)

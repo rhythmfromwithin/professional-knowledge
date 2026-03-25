@@ -1,11 +1,12 @@
 ---
-title: "Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.18059
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18059
 next_step: skim
+priority: low
+slack_ts: '1774407038.819899'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows'
 ---
 # Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows
 > 原文: [https://arxiv.org/abs/2603.18059](https://arxiv.org/abs/2603.18059)

@@ -1,11 +1,13 @@
 ---
-title: "TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.18008
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18008
 next_step: skim
+priority: high
+slack_ts: '1774407042.761889'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy
+  Chatbots'
 ---
 # TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots
 > 原文: [https://arxiv.org/abs/2603.18008](https://arxiv.org/abs/2603.18008)

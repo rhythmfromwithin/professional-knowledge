@@ -1,11 +1,13 @@
 ---
-title: "The Role of Data and Metrics in Measuring Inequality Worldwide. A Tribute to Giovanni Andrea Cornia's Lifelong Work on the World Ginis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.18195
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18195
 next_step: skim
+priority: low
+slack_ts: '1774407042.619959'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Role of Data and Metrics in Measuring Inequality Worldwide. A Tribute to
+  Giovanni Andrea Cornia's Lifelong Work on the World Ginis
 ---
 # The Role of Data and Metrics in Measuring Inequality Worldwide. A Tribute to Giovanni Andrea Cornia's Lifelong Work on the World Ginis
 > 原文: [https://arxiv.org/abs/2603.18195](https://arxiv.org/abs/2603.18195)

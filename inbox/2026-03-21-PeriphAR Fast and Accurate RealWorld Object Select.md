@@ -1,11 +1,13 @@
 ---
-title: "PeriphAR: Fast and Accurate Real-World Object Selection with Peripheral Augmented Reality Displays"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.18350
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18350
 next_step: skim
+priority: low
+slack_ts: '1774407040.842979'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'PeriphAR: Fast and Accurate Real-World Object Selection with Peripheral Augmented
+  Reality Displays'
 ---
 # PeriphAR: Fast and Accurate Real-World Object Selection with Peripheral Augmented Reality Displays
 > 原文: [https://arxiv.org/abs/2603.18350](https://arxiv.org/abs/2603.18350)

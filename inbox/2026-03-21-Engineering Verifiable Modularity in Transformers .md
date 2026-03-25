@@ -1,11 +1,12 @@
 ---
-title: "Engineering Verifiable Modularity in Transformers via Per-Layer Supervision"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.18029
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18029
 next_step: skim
+priority: high
+slack_ts: '1774407038.047569'
+source: cs.LG - Machine Learning
+status: unread
+title: Engineering Verifiable Modularity in Transformers via Per-Layer Supervision
 ---
 # Engineering Verifiable Modularity in Transformers via Per-Layer Supervision
 > 原文: [https://arxiv.org/abs/2603.18029](https://arxiv.org/abs/2603.18029)

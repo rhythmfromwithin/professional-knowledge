@@ -1,11 +1,12 @@
 ---
-title: "Let's Play Tag: Linear Time Evaluation of Conjunctive Queries under TGD Constraints"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.18709
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18709
 next_step: skim
+priority: low
+slack_ts: '1774407040.221959'
+source: cs.DB - Databases
+status: unread
+title: 'Let''s Play Tag: Linear Time Evaluation of Conjunctive Queries under TGD Constraints'
 ---
 # Let's Play Tag: Linear Time Evaluation of Conjunctive Queries under TGD Constraints
 > 原文: [https://arxiv.org/abs/2603.18709](https://arxiv.org/abs/2603.18709)

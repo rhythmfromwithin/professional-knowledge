@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking Post-Quantum Cryptography on Resource-Constrained IoT Devices: ML-KEM and ML-DSA on ARM Cortex-M0+"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.19340
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19340
 next_step: skim
+priority: low
+slack_ts: '1774407047.614089'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Benchmarking Post-Quantum Cryptography on Resource-Constrained IoT Devices:
+  ML-KEM and ML-DSA on ARM Cortex-M0+'
 ---
 # Benchmarking Post-Quantum Cryptography on Resource-Constrained IoT Devices: ML-KEM and ML-DSA on ARM Cortex-M0+
 > 原文: [https://arxiv.org/abs/2603.19340](https://arxiv.org/abs/2603.19340)

@@ -1,11 +1,12 @@
 ---
-title: "Final Report for the Workshop on Robotics & AI in Medicine"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.18130
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18130
 next_step: skim
+priority: medium
+slack_ts: '1774407038.230829'
+source: cs.RO - Robotics
+status: unread
+title: Final Report for the Workshop on Robotics & AI in Medicine
 ---
 # Final Report for the Workshop on Robotics & AI in Medicine
 > 原文: [https://arxiv.org/abs/2603.18130](https://arxiv.org/abs/2603.18130)

@@ -1,11 +1,13 @@
 ---
-title: "How Confident Is the First Token? An Uncertainty-Calibrated Prompt Optimization Framework for Large Language Model Classification and Understanding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.18009
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18009
 next_step: skim
+priority: high
+slack_ts: '1774407039.143959'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: How Confident Is the First Token? An Uncertainty-Calibrated Prompt Optimization
+  Framework for Large Language Model Classification and Understanding
 ---
 # How Confident Is the First Token? An Uncertainty-Calibrated Prompt Optimization Framework for Large Language Model Classification and Understanding
 > 原文: [https://arxiv.org/abs/2603.18009](https://arxiv.org/abs/2603.18009)

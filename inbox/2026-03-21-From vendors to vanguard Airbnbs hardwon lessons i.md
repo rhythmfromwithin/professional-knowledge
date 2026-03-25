@@ -1,7 +1,9 @@
 ---
-title: "From vendors to vanguard: Airbnb’s hard-won lessons in observability ownership"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss
+slack_ts: '1774407038.695279'
+source: Airbnb Engineering
+title: 'From vendors to vanguard: Airbnb’s hard-won lessons in observability ownership'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

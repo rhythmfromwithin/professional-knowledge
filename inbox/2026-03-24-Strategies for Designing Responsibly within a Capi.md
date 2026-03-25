@@ -1,11 +1,12 @@
 ---
-title: "Strategies for Designing Responsibly within a Capitalist Enterprise"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.19400
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19400
 next_step: skim
+priority: low
+slack_ts: '1774407050.607469'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Strategies for Designing Responsibly within a Capitalist Enterprise
 ---
 # Strategies for Designing Responsibly within a Capitalist Enterprise
 > 原文: [https://arxiv.org/abs/2603.19400](https://arxiv.org/abs/2603.19400)

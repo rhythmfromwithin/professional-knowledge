@@ -1,11 +1,13 @@
 ---
-title: "Understanding the Relationship Between Firms' AI Technology Innovation and Consumer Complaints"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.18025
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18025
 next_step: skim
+priority: medium
+slack_ts: '1774407043.039999'
+source: cs.CY - Computers and Society
+status: unread
+title: Understanding the Relationship Between Firms' AI Technology Innovation and
+  Consumer Complaints
 ---
 # Understanding the Relationship Between Firms' AI Technology Innovation and Consumer Complaints
 > 原文: [https://arxiv.org/abs/2603.18025](https://arxiv.org/abs/2603.18025)

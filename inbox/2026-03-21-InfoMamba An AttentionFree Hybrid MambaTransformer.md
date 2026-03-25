@@ -1,11 +1,12 @@
 ---
-title: "InfoMamba: An Attention-Free Hybrid Mamba-Transformer Model"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.18031
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18031
 next_step: skim
+priority: high
+slack_ts: '1774407039.242719'
+source: cs.LG - Machine Learning
+status: unread
+title: 'InfoMamba: An Attention-Free Hybrid Mamba-Transformer Model'
 ---
 # InfoMamba: An Attention-Free Hybrid Mamba-Transformer Model
 > 原文: [https://arxiv.org/abs/2603.18031](https://arxiv.org/abs/2603.18031)

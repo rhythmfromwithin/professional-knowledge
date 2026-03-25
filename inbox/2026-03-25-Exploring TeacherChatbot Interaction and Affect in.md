@@ -1,0 +1,14 @@
+---
+title: "Exploring Teacher-Chatbot Interaction and Affect in Block-Based Programming"
+source: "cs.CY - Computers and Society"
+link: https://arxiv.org/abs/2603.20211
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Exploring Teacher-Chatbot Interaction and Affect in Block-Based Programming
+> 原文: [https://arxiv.org/abs/2603.20211](https://arxiv.org/abs/2603.20211)
+
+arXiv:2603.20211v1 Announce Type: new
+Abstract: AI-based chatbots have the potential to accelerate learning and teaching, but may also have counterproductive consequences without thoughtful design and scaffolding. To better understand teachers' perspectives on large language model (LLM)-based chatbots, we conducted a study with 11 teams of middle school teachers using chatbots for a science and computational thinking activity within a block-based programming environment. Based on a qualitative analysis of audio transcripts and chatbot interactions, we propose three profiles: explorer, frustrated, and mixed, that reflect diverse scaffolding needs. In their discussions, we found that teachers perceived chatbot benefits such as building prompting skills and self-confidence alongside risks including potential declines in learning and critical thinking. Key design recommendations include scaffolding the introduction to chatbots, facilitating teacher control of chatbot features, and suggesting when and how chatbots should be used. Our contribution informs the design of chatbots to support teachers and learners in middle school coding activities.

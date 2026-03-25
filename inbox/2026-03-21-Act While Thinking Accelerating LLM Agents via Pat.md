@@ -1,11 +1,13 @@
 ---
-title: "Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.18897
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18897
 next_step: skim
+priority: medium
+slack_ts: '1774407036.759459'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative
+  Tool Execution'
 ---
 # Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution
 > 原文: [https://arxiv.org/abs/2603.18897](https://arxiv.org/abs/2603.18897)

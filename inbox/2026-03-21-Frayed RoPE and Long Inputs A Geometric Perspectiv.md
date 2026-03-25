@@ -1,11 +1,12 @@
 ---
-title: "Frayed RoPE and Long Inputs: A Geometric Perspective"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.18017
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18017
 next_step: skim
+priority: high
+slack_ts: '1774407038.327379'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Frayed RoPE and Long Inputs: A Geometric Perspective'
 ---
 # Frayed RoPE and Long Inputs: A Geometric Perspective
 > 原文: [https://arxiv.org/abs/2603.18017](https://arxiv.org/abs/2603.18017)
