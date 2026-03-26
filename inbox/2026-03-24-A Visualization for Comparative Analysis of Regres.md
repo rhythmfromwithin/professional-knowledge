@@ -1,11 +1,12 @@
 ---
-title: "A Visualization for Comparative Analysis of Regression Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.19291
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19291
 next_step: skim
+priority: high
+slack_ts: '1774493848.500899'
+source: cs.LG - Machine Learning
+status: unread
+title: A Visualization for Comparative Analysis of Regression Models
 ---
 # A Visualization for Comparative Analysis of Regression Models
 > 原文: [https://arxiv.org/abs/2603.19291](https://arxiv.org/abs/2603.19291)

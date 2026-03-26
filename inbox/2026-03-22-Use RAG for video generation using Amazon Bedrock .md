@@ -1,11 +1,12 @@
 ---
-title: "Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/
 next_step: skim
+priority: high
+slack_ts: '1774493843.569619'
+source: AWS Blog
+status: unread
+title: Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel
 ---
 # Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel
 > 原文: [https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/](https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/)

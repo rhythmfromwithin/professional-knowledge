@@ -1,11 +1,13 @@
 ---
-title: "DarkDriving: A Real-World Day and Night Aligned Dataset for Autonomous Driving in the Dark Environment"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.18067
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18067
 next_step: skim
+priority: medium
+slack_ts: '1774493840.760749'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DarkDriving: A Real-World Day and Night Aligned Dataset for Autonomous Driving
+  in the Dark Environment'
 ---
 # DarkDriving: A Real-World Day and Night Aligned Dataset for Autonomous Driving in the Dark Environment
 > 原文: [https://arxiv.org/abs/2603.18067](https://arxiv.org/abs/2603.18067)

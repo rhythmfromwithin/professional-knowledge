@@ -1,11 +1,12 @@
 ---
-title: "Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.20576
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20576
 next_step: skim
+priority: low
+slack_ts: '1774493856.782189'
+source: cs.DB - Databases
+status: unread
+title: Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
 ---
 # Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
 > 原文: [https://arxiv.org/abs/2603.20576](https://arxiv.org/abs/2603.20576)

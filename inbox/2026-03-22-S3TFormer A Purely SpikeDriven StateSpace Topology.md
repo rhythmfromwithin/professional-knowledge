@@ -1,11 +1,13 @@
 ---
-title: "S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.18062
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.18062
 next_step: skim
+priority: medium
+slack_ts: '1774493843.114519'
+source: cs.CV - Computer Vision
+status: unread
+title: 'S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton
+  Action Recognition'
 ---
 # S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition
 > 原文: [https://arxiv.org/abs/2603.18062](https://arxiv.org/abs/2603.18062)

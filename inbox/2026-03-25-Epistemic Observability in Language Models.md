@@ -1,11 +1,12 @@
 ---
-title: "Epistemic Observability in Language Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.20531
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20531
 next_step: skim
+priority: medium
+slack_ts: '1774493857.803389'
+source: cs.DC - Distributed Computing
+status: unread
+title: Epistemic Observability in Language Models
 ---
 # Epistemic Observability in Language Models
 > 原文: [https://arxiv.org/abs/2603.20531](https://arxiv.org/abs/2603.20531)

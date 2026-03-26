@@ -1,11 +1,12 @@
 ---
-title: "A Discovery Plan for Pharmacy Benefit Managers Collusion"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.19412
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19412
 next_step: skim
+priority: low
+slack_ts: '1774493848.110649'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: A Discovery Plan for Pharmacy Benefit Managers Collusion
 ---
 # A Discovery Plan for Pharmacy Benefit Managers Collusion
 > 原文: [https://arxiv.org/abs/2603.19412](https://arxiv.org/abs/2603.19412)

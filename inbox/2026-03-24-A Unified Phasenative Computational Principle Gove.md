@@ -1,11 +1,13 @@
 ---
-title: "A Unified Phase-native Computational Principle Governs Hippocampal Spike Timing and Neural Coding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.19690
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19690
 next_step: skim
+priority: low
+slack_ts: '1774493848.371849'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Unified Phase-native Computational Principle Governs Hippocampal Spike Timing
+  and Neural Coding
 ---
 # A Unified Phase-native Computational Principle Governs Hippocampal Spike Timing and Neural Coding
 > 原文: [https://arxiv.org/abs/2603.19690](https://arxiv.org/abs/2603.19690)

@@ -1,11 +1,13 @@
 ---
-title: "A Novel Solution for Zero-Day Attack Detection in IDS using Self-Attention and Jensen-Shannon Divergence in WGAN-GP"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.19350
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19350
 next_step: skim
+priority: low
+slack_ts: '1774493848.239039'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Novel Solution for Zero-Day Attack Detection in IDS using Self-Attention
+  and Jensen-Shannon Divergence in WGAN-GP
 ---
 # A Novel Solution for Zero-Day Attack Detection in IDS using Self-Attention and Jensen-Shannon Divergence in WGAN-GP
 > 原文: [https://arxiv.org/abs/2603.19350](https://arxiv.org/abs/2603.19350)

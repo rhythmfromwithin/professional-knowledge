@@ -1,11 +1,12 @@
 ---
-title: "A sub-Riemannian model of the motor cortex with Wasserstein distance"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.20756
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20756
 next_step: skim
+priority: low
+slack_ts: '1774493855.822979'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A sub-Riemannian model of the motor cortex with Wasserstein distance
 ---
 # A sub-Riemannian model of the motor cortex with Wasserstein distance
 > 原文: [https://arxiv.org/abs/2603.20756](https://arxiv.org/abs/2603.20756)

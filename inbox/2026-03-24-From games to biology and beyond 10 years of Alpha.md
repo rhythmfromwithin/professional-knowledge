@@ -1,11 +1,12 @@
 ---
-title: "From games to biology and beyond: 10 years of AlphaGo’s impact"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/10-years-of-alphago/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/10-years-of-alphago/
 next_step: skim
+priority: high
+slack_ts: '1774493851.904659'
+source: DeepMind Blog
+status: unread
+title: 'From games to biology and beyond: 10 years of AlphaGo’s impact'
 ---
 # From games to biology and beyond: 10 years of AlphaGo’s impact
 > 原文: [https://deepmind.google/blog/10-years-of-alphago/](https://deepmind.google/blog/10-years-of-alphago/)

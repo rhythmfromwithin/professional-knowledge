@@ -1,0 +1,14 @@
+---
+title: "Founder effects shape the evolutionary dynamics of multimodality in open LLM families"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2603.22287
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Founder effects shape the evolutionary dynamics of multimodality in open LLM families
+> 原文: [https://arxiv.org/abs/2603.22287](https://arxiv.org/abs/2603.22287)
+
+arXiv:2603.22287v1 Announce Type: new
+Abstract: Large language model (LLM) families are improving rapidly, yet it remains unclear how quickly multimodal capabilities emerge and propagate within open families. Using the ModelBiome AI Ecosystem dataset of Hugging Face model metadata and recorded lineage fields (>1.8x10^6 model entries), we quantify multimodality over time and along recorded parent-to-child relations. Cross-modal tasks are widespread in the broader ecosystem well before they become common within major open LLM families: within these families, multimodality remains rare through 2023 and most of 2024, then increases sharply in 2024-2025 and is dominated by image-text vision-language tasks. Across major families, the first vision-language model (VLM) variants typically appear months after the first text-generation releases, with lags ranging from ~1 month (Gemma) to more than a year for several families and ~26 months for GLM. Lineage-conditioned transition rates show weak cross-type transfer: among fine-tuning edges from text-generation parents, only 0.218% yield VLM descendants. Instead, multimodality expands primarily within existing VLM lineages: 94.5% of VLM-child fine-tuning edges originate from VLM parents, versus 4.7% from text-generation parents. At the model level, most VLM releases appear as new roots without recorded parents (~60%), while the remainder are predominantly VLM-derived; founder concentration analyses indicate rapid within-lineage amplification followed by diversification. Together, these results show that multimodality enters open LLM families through rare founder events and then expands rapidly within their descendant lineages, producing punctuated adoption dynamics that likely induce distinct, transfer-limited scaling behavior for multimodal capabilities.

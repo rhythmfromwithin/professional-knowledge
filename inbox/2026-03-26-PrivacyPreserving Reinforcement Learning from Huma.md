@@ -1,0 +1,14 @@
+---
+title: "Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2603.22563
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling
+> 原文: [https://arxiv.org/abs/2603.22563](https://arxiv.org/abs/2603.22563)
+
+arXiv:2603.22563v1 Announce Type: new
+Abstract: Preference-based fine-tuning has become an important component in training large language models, and the data used at this stage may contain sensitive user information. A central question is how to design a differentially private pipeline that is well suited to the distinct structure of reinforcement learning from human feedback. We propose a privacy-preserving framework that imposes differential privacy only on reward learning and derives the final policy from the resulting private reward model. Theoretically, we study the suboptimality gap and show that privacy contributes an additional additive term beyond the usual non-private statistical error. We also establish a minimax lower bound and show that the dominant term changes with sample size and privacy level, which in turn characterizes regimes in which the upper bound is rate-optimal up to logarithmic factors. Empirically, synthetic experiments confirm the scaling predicted by the theory, and experiments on the Anthropic HH-RLHF dataset using the Gemma-2B-IT model show stronger private alignment performance than existing differentially private baseline methods across privacy budgets.

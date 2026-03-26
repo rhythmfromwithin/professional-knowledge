@@ -1,11 +1,13 @@
 ---
-title: "Investigating In-Context Privacy Learning by Integrating User-Facing Privacy Tools into Conversational Agents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.19416
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19416
 next_step: skim
+priority: low
+slack_ts: '1774493852.809869'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Investigating In-Context Privacy Learning by Integrating User-Facing Privacy
+  Tools into Conversational Agents
 ---
 # Investigating In-Context Privacy Learning by Integrating User-Facing Privacy Tools into Conversational Agents
 > 原文: [https://arxiv.org/abs/2603.19416](https://arxiv.org/abs/2603.19416)

@@ -1,0 +1,14 @@
+---
+title: ""Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2603.22609
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# "Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals
+> 原文: [https://arxiv.org/abs/2603.22609](https://arxiv.org/abs/2603.22609)
+
+arXiv:2603.22609v1 Announce Type: new
+Abstract: We examine how neurodivergent individuals experience creating, interacting with, and reflecting on personal data about masking. Although self-tracking is often framed as enabling self-insight, this is rarely our experience as neurodivergent individuals and researchers. To better understand this disconnect, we conducted a two-phase qualitative study. First, a workshop where six participants with autism and/or ADHD crafted visual representations of masking experiences. Then, three participants continued by designing and using personalized self-tracking focused on unmasking over two weeks. Using reflexive thematic analysis of activities and interviews, we find that self-tracking imposes substantial interpretive and emotional demands, shaped by context-dependencies that challenge assumptions in self-tracking. We also find that facilitated sharing of experiences might validate emotional responses and support reflection. We identify three emotional dimensions that shape engagement with personal data in a working model of emotion in self-tracking, and discuss implications for designing self-tracking and reflective practices that incorporate peer support and better account for context and emotional labor.

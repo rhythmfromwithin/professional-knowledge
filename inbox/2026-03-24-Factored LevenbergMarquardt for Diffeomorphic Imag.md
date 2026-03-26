@@ -1,11 +1,13 @@
 ---
-title: "Factored Levenberg-Marquardt for Diffeomorphic Image Registration: An efficient optimizer for FireANTs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.19371
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19371
 next_step: skim
+priority: medium
+slack_ts: '1774493851.634849'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Factored Levenberg-Marquardt for Diffeomorphic Image Registration: An efficient
+  optimizer for FireANTs'
 ---
 # Factored Levenberg-Marquardt for Diffeomorphic Image Registration: An efficient optimizer for FireANTs
 > 原文: [https://arxiv.org/abs/2603.19371](https://arxiv.org/abs/2603.19371)
