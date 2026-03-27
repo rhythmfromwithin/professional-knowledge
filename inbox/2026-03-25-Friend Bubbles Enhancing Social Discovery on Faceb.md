@@ -1,11 +1,12 @@
 ---
-title: "Friend Bubbles: Enhancing Social Discovery on Facebook Reels"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/
 next_step: skim
+priority: medium
+slack_ts: '1774581544.820079'
+source: Meta Engineering
+status: unread
+title: 'Friend Bubbles: Enhancing Social Discovery on Facebook Reels'
 ---
 # Friend Bubbles: Enhancing Social Discovery on Facebook Reels
 > 原文: [https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/](https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/)

@@ -1,11 +1,13 @@
 ---
-title: "Goedel-Code-Prover: Hierarchical Proof Search for Open State-of-the-Art Code Verification"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.19329
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19329
 next_step: skim
+priority: low
+slack_ts: '1774581530.819519'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Goedel-Code-Prover: Hierarchical Proof Search for Open State-of-the-Art Code
+  Verification'
 ---
 # Goedel-Code-Prover: Hierarchical Proof Search for Open State-of-the-Art Code Verification
 > 原文: [https://arxiv.org/abs/2603.19329](https://arxiv.org/abs/2603.19329)

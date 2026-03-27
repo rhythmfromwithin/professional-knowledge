@@ -1,11 +1,13 @@
 ---
-title: "SWARM+: Scalable and Resilient Multi-Agent Consensus for Fully-Decentralized Data-Aware Workload Management"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.19431
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19431
 next_step: skim
+priority: medium
+slack_ts: '1774581537.788369'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SWARM+: Scalable and Resilient Multi-Agent Consensus for Fully-Decentralized
+  Data-Aware Workload Management'
 ---
 # SWARM+: Scalable and Resilient Multi-Agent Consensus for Fully-Decentralized Data-Aware Workload Management
 > 原文: [https://arxiv.org/abs/2603.19431](https://arxiv.org/abs/2603.19431)

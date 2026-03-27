@@ -1,11 +1,13 @@
 ---
-title: "SOFTMAP: Sim2Real Soft Robot Forward Modeling via Topological Mesh Alignment and Physics Prior"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.19384
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19384
 next_step: skim
+priority: medium
+slack_ts: '1774581537.580449'
+source: cs.RO - Robotics
+status: unread
+title: 'SOFTMAP: Sim2Real Soft Robot Forward Modeling via Topological Mesh Alignment
+  and Physics Prior'
 ---
 # SOFTMAP: Sim2Real Soft Robot Forward Modeling via Topological Mesh Alignment and Physics Prior
 > 原文: [https://arxiv.org/abs/2603.19384](https://arxiv.org/abs/2603.19384)

@@ -1,11 +1,13 @@
 ---
-title: "When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.19247
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19247
 next_step: skim
+priority: high
+slack_ts: '1774581540.042249'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large
+  Language Models'
 ---
 # When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large Language Models
 > 原文: [https://arxiv.org/abs/2603.19247](https://arxiv.org/abs/2603.19247)

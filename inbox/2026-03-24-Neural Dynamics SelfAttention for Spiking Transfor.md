@@ -1,11 +1,12 @@
 ---
-title: "Neural Dynamics Self-Attention for Spiking Transformers"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.19290
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19290
 next_step: skim
+priority: low
+slack_ts: '1774581533.853549'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neural Dynamics Self-Attention for Spiking Transformers
 ---
 # Neural Dynamics Self-Attention for Spiking Transformers
 > 原文: [https://arxiv.org/abs/2603.19290](https://arxiv.org/abs/2603.19290)

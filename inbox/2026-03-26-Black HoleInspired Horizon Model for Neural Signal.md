@@ -1,11 +1,12 @@
 ---
-title: "Black Hole-Inspired Horizon Model for Neural Signal Dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.22297
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22297
 next_step: skim
+priority: low
+slack_ts: '1774581554.773589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Black Hole-Inspired Horizon Model for Neural Signal Dynamics
 ---
 # Black Hole-Inspired Horizon Model for Neural Signal Dynamics
 > 原文: [https://arxiv.org/abs/2603.22297](https://arxiv.org/abs/2603.22297)

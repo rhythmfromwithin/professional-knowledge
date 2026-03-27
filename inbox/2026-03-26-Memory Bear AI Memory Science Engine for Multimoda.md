@@ -1,11 +1,13 @@
 ---
-title: "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.22306
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22306
 next_step: skim
+priority: high
+slack_ts: '1774581561.781889'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence:
+  A Technical Report'
 ---
 # Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report
 > 原文: [https://arxiv.org/abs/2603.22306](https://arxiv.org/abs/2603.22306)

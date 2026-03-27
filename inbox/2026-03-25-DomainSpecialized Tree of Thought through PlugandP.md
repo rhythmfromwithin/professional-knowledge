@@ -1,11 +1,12 @@
 ---
-title: "Domain-Specialized Tree of Thought through Plug-and-Play Predictors"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.20267
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20267
 next_step: skim
+priority: high
+slack_ts: '1774581543.735279'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Domain-Specialized Tree of Thought through Plug-and-Play Predictors
 ---
 # Domain-Specialized Tree of Thought through Plug-and-Play Predictors
 > 原文: [https://arxiv.org/abs/2603.20267](https://arxiv.org/abs/2603.20267)

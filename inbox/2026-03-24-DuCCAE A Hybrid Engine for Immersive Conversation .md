@@ -1,11 +1,13 @@
 ---
-title: "DuCCAE: A Hybrid Engine for Immersive Conversation via Collaboration, Augmentation, and Evolution"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.19248
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19248
 next_step: skim
+priority: high
+slack_ts: '1774581528.987699'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DuCCAE: A Hybrid Engine for Immersive Conversation via Collaboration, Augmentation,
+  and Evolution'
 ---
 # DuCCAE: A Hybrid Engine for Immersive Conversation via Collaboration, Augmentation, and Evolution
 > 原文: [https://arxiv.org/abs/2603.19248](https://arxiv.org/abs/2603.19248)

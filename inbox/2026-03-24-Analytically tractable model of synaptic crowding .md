@@ -1,11 +1,13 @@
 ---
-title: "Analytically tractable model of synaptic crowding explains emergent small-world structure and network dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.19320
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19320
 next_step: skim
+priority: low
+slack_ts: '1774581525.945519'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Analytically tractable model of synaptic crowding explains emergent small-world
+  structure and network dynamics
 ---
 # Analytically tractable model of synaptic crowding explains emergent small-world structure and network dynamics
 > 原文: [https://arxiv.org/abs/2603.19320](https://arxiv.org/abs/2603.19320)

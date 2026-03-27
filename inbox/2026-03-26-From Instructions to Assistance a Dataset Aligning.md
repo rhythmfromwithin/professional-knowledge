@@ -1,11 +1,13 @@
 ---
-title: "From Instructions to Assistance: a Dataset Aligning Instruction Manuals with Assembly Videos for Evaluating Multimodal LLMs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.22321
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22321
 next_step: skim
+priority: medium
+slack_ts: '1774581557.859089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'From Instructions to Assistance: a Dataset Aligning Instruction Manuals with
+  Assembly Videos for Evaluating Multimodal LLMs'
 ---
 # From Instructions to Assistance: a Dataset Aligning Instruction Manuals with Assembly Videos for Evaluating Multimodal LLMs
 > 原文: [https://arxiv.org/abs/2603.22321](https://arxiv.org/abs/2603.22321)

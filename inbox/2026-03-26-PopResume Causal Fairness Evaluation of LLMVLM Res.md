@@ -1,11 +1,13 @@
 ---
-title: "PopResume: Causal Fairness Evaluation of LLM/VLM Resume Screeners with Population-Representative Dataset"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.22714
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22714
 next_step: skim
+priority: medium
+slack_ts: '1774581562.776079'
+source: cs.CY - Computers and Society
+status: unread
+title: 'PopResume: Causal Fairness Evaluation of LLM/VLM Resume Screeners with Population-Representative
+  Dataset'
 ---
 # PopResume: Causal Fairness Evaluation of LLM/VLM Resume Screeners with Population-Representative Dataset
 > 原文: [https://arxiv.org/abs/2603.22714](https://arxiv.org/abs/2603.22714)

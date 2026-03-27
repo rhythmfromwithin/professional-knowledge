@@ -1,11 +1,13 @@
 ---
-title: "Maximizing mutual information between user-contexts and responses improve LLM personalization with no additional data"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.19294
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19294
 next_step: skim
+priority: high
+slack_ts: '1774581533.452809'
+source: cs.LG - Machine Learning
+status: unread
+title: Maximizing mutual information between user-contexts and responses improve LLM
+  personalization with no additional data
 ---
 # Maximizing mutual information between user-contexts and responses improve LLM personalization with no additional data
 > 原文: [https://arxiv.org/abs/2603.19294](https://arxiv.org/abs/2603.19294)

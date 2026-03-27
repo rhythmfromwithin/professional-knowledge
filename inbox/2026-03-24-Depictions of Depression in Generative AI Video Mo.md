@@ -1,11 +1,13 @@
 ---
-title: "Depictions of Depression in Generative AI Video Models: A Preliminary Study of OpenAI's Sora 2"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.19527
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19527
 next_step: skim
+priority: medium
+slack_ts: '1774581528.383479'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Depictions of Depression in Generative AI Video Models: A Preliminary Study
+  of OpenAI''s Sora 2'
 ---
 # Depictions of Depression in Generative AI Video Models: A Preliminary Study of OpenAI's Sora 2
 > 原文: [https://arxiv.org/abs/2603.19527](https://arxiv.org/abs/2603.19527)

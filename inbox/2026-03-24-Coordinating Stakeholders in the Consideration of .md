@@ -1,11 +1,13 @@
 ---
-title: "Coordinating Stakeholders in the Consideration of Performance Indicators and Respective Interface Requirements for Automated Vehicles"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.19492
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19492
 next_step: skim
+priority: low
+slack_ts: '1774581527.582729'
+source: cs.SE - Software Engineering
+status: unread
+title: Coordinating Stakeholders in the Consideration of Performance Indicators and
+  Respective Interface Requirements for Automated Vehicles
 ---
 # Coordinating Stakeholders in the Consideration of Performance Indicators and Respective Interface Requirements for Automated Vehicles
 > 原文: [https://arxiv.org/abs/2603.19492](https://arxiv.org/abs/2603.19492)

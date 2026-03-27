@@ -1,11 +1,12 @@
 ---
-title: "Collaborative Adaptive Curriculum for Progressive Knowledge Distillation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.20296
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20296
 next_step: skim
+priority: high
+slack_ts: '1774581542.791019'
+source: cs.LG - Machine Learning
+status: unread
+title: Collaborative Adaptive Curriculum for Progressive Knowledge Distillation
 ---
 # Collaborative Adaptive Curriculum for Progressive Knowledge Distillation
 > 原文: [https://arxiv.org/abs/2603.20296](https://arxiv.org/abs/2603.20296)

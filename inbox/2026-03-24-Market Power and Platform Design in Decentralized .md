@@ -1,11 +1,12 @@
 ---
-title: "Market Power and Platform Design in Decentralized Electricity Trading"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.19988
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19988
 next_step: skim
+priority: low
+slack_ts: '1774581533.254869'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Market Power and Platform Design in Decentralized Electricity Trading
 ---
 # Market Power and Platform Design in Decentralized Electricity Trading
 > 原文: [https://arxiv.org/abs/2603.19988](https://arxiv.org/abs/2603.19988)

@@ -1,11 +1,12 @@
 ---
-title: "SkyHOST: A Unified Architecture for Cross-Cloud Hybrid Object and Stream Transfer"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.20512
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20512
 next_step: skim
+priority: medium
+slack_ts: '1774581550.773489'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SkyHOST: A Unified Architecture for Cross-Cloud Hybrid Object and Stream Transfer'
 ---
 # SkyHOST: A Unified Architecture for Cross-Cloud Hybrid Object and Stream Transfer
 > 原文: [https://arxiv.org/abs/2603.20512](https://arxiv.org/abs/2603.20512)

@@ -1,11 +1,12 @@
 ---
-title: "Diffusion-Guided Semantic Consistency for Multimodal Heterogeneity"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.19337
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19337
 next_step: skim
+priority: medium
+slack_ts: '1774581528.787139'
+source: cs.CV - Computer Vision
+status: unread
+title: Diffusion-Guided Semantic Consistency for Multimodal Heterogeneity
 ---
 # Diffusion-Guided Semantic Consistency for Multimodal Heterogeneity
 > 原文: [https://arxiv.org/abs/2603.19337](https://arxiv.org/abs/2603.19337)

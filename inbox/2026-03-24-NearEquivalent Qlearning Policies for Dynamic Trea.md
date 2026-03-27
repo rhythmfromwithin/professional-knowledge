@@ -1,11 +1,12 @@
 ---
-title: "Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.19440
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19440
 next_step: skim
+priority: medium
+slack_ts: '1774581533.651939'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes
 ---
 # Near-Equivalent Q-learning Policies for Dynamic Treatment Regimes
 > 原文: [https://arxiv.org/abs/2603.19440](https://arxiv.org/abs/2603.19440)

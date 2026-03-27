@@ -1,11 +1,13 @@
 ---
-title: "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.22312
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22312
 next_step: skim
+priority: high
+slack_ts: '1774581565.780119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language
+  of Thought Hypothesis'
 ---
 # The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis
 > 原文: [https://arxiv.org/abs/2603.22312](https://arxiv.org/abs/2603.22312)

@@ -1,11 +1,13 @@
 ---
-title: "Towards Solving Polynomial-Objective Integer Programming with Hypergraph Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.19318
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19318
 next_step: skim
+priority: low
+slack_ts: '1774581539.643919'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Towards Solving Polynomial-Objective Integer Programming with Hypergraph Neural
+  Networks
 ---
 # Towards Solving Polynomial-Objective Integer Programming with Hypergraph Neural Networks
 > 原文: [https://arxiv.org/abs/2603.19318](https://arxiv.org/abs/2603.19318)

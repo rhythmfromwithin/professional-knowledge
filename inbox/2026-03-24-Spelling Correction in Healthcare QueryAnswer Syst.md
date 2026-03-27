@@ -1,11 +1,13 @@
 ---
-title: "Spelling Correction in Healthcare Query-Answer Systems: Methods, Retrieval Impact, and Empirical Evaluation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.19249
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19249
 next_step: skim
+priority: high
+slack_ts: '1774581538.425249'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Spelling Correction in Healthcare Query-Answer Systems: Methods, Retrieval
+  Impact, and Empirical Evaluation'
 ---
 # Spelling Correction in Healthcare Query-Answer Systems: Methods, Retrieval Impact, and Empirical Evaluation
 > 原文: [https://arxiv.org/abs/2603.19249](https://arxiv.org/abs/2603.19249)

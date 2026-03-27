@@ -1,11 +1,12 @@
 ---
-title: "Teaching an Agent to Sketch One Part at a Time"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.19500
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19500
 next_step: skim
+priority: high
+slack_ts: '1774581539.037359'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Teaching an Agent to Sketch One Part at a Time
 ---
 # Teaching an Agent to Sketch One Part at a Time
 > 原文: [https://arxiv.org/abs/2603.19500](https://arxiv.org/abs/2603.19500)

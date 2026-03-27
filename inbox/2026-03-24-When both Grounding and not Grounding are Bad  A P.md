@@ -1,11 +1,13 @@
 ---
-title: "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.19429
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19429
 next_step: skim
+priority: high
+slack_ts: '1774581540.240749'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding
+  of Planning into SAT (Extended Version)
 ---
 # When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)
 > 原文: [https://arxiv.org/abs/2603.19429](https://arxiv.org/abs/2603.19429)

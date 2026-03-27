@@ -1,11 +1,12 @@
 ---
-title: "Curvature Sensitive Cells in the Modular Structures of The Visual Cortex"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.19425
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19425
 next_step: skim
+priority: low
+slack_ts: '1774581527.989159'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Curvature Sensitive Cells in the Modular Structures of The Visual Cortex
 ---
 # Curvature Sensitive Cells in the Modular Structures of The Visual Cortex
 > 原文: [https://arxiv.org/abs/2603.19425](https://arxiv.org/abs/2603.19425)

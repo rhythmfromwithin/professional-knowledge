@@ -1,11 +1,12 @@
 ---
-title: "Creating with Sora Safely"
-source: "OpenAI Blog"
-link: https://openai.com/index/creating-with-sora-safely
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/creating-with-sora-safely
 next_step: skim
+priority: high
+slack_ts: '1774581527.787549'
+source: OpenAI Blog
+status: unread
+title: Creating with Sora Safely
 ---
 # Creating with Sora Safely
 > 原文: [https://openai.com/index/creating-with-sora-safely](https://openai.com/index/creating-with-sora-safely)

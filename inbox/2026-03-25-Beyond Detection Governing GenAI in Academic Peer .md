@@ -1,11 +1,13 @@
 ---
-title: "Beyond Detection: Governing GenAI in Academic Peer Review as a Sociotechnical Challenge"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.20214
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20214
 next_step: skim
+priority: medium
+slack_ts: '1774581541.830629'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Detection: Governing GenAI in Academic Peer Review as a Sociotechnical
+  Challenge'
 ---
 # Beyond Detection: Governing GenAI in Academic Peer Review as a Sociotechnical Challenge
 > 原文: [https://arxiv.org/abs/2603.20214](https://arxiv.org/abs/2603.20214)

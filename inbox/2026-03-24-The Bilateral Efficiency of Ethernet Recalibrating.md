@@ -1,11 +1,13 @@
 ---
-title: "The Bilateral Efficiency of Ethernet: Recalibrating Metcalfe and Boggs After Fifty Years"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.19406
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19406
 next_step: skim
+priority: medium
+slack_ts: '1774581539.243089'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Bilateral Efficiency of Ethernet: Recalibrating Metcalfe and Boggs After
+  Fifty Years'
 ---
 # The Bilateral Efficiency of Ethernet: Recalibrating Metcalfe and Boggs After Fifty Years
 > 原文: [https://arxiv.org/abs/2603.19406](https://arxiv.org/abs/2603.19406)

@@ -1,11 +1,13 @@
 ---
-title: "PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.19305
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19305
 next_step: skim
+priority: medium
+slack_ts: '1774581535.236529'
+source: cs.RO - Robotics
+status: unread
+title: 'PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid
+  Motion Tracking'
 ---
 # PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking
 > 原文: [https://arxiv.org/abs/2603.19305](https://arxiv.org/abs/2603.19305)

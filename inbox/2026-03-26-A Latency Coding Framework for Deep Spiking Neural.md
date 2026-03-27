@@ -1,11 +1,13 @@
 ---
-title: "A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.23206
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23206
 next_step: skim
+priority: low
+slack_ts: '1774581552.818459'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low
+  Latency
 ---
 # A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency
 > 原文: [https://arxiv.org/abs/2603.23206](https://arxiv.org/abs/2603.23206)

@@ -1,11 +1,12 @@
 ---
-title: "PlugMem: Transforming raw agent interactions into reusable knowledge"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/
 next_step: skim
+priority: high
+slack_ts: '1774581549.830779'
+source: Microsoft Research
+status: unread
+title: 'PlugMem: Transforming raw agent interactions into reusable knowledge'
 ---
 # PlugMem: Transforming raw agent interactions into reusable knowledge
 > 原文: [https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/)

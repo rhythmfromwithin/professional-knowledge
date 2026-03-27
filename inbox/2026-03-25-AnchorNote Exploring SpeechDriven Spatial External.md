@@ -1,11 +1,13 @@
 ---
-title: "AnchorNote: Exploring Speech-Driven Spatial Externalization for Co-Located Collaboration in Augmented Reality"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.20199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20199
 next_step: skim
+priority: low
+slack_ts: '1774581541.038869'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'AnchorNote: Exploring Speech-Driven Spatial Externalization for Co-Located
+  Collaboration in Augmented Reality'
 ---
 # AnchorNote: Exploring Speech-Driven Spatial Externalization for Co-Located Collaboration in Augmented Reality
 > 原文: [https://arxiv.org/abs/2603.20199](https://arxiv.org/abs/2603.20199)

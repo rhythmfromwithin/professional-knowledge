@@ -1,11 +1,13 @@
 ---
-title: "Early Discoveries of Algorithmist I: Promise of Provable Algorithm Synthesis at Scale"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.22363
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22363
 next_step: skim
+priority: low
+slack_ts: '1774581556.754699'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Early Discoveries of Algorithmist I: Promise of Provable Algorithm Synthesis
+  at Scale'
 ---
 # Early Discoveries of Algorithmist I: Promise of Provable Algorithm Synthesis at Scale
 > 原文: [https://arxiv.org/abs/2603.22363](https://arxiv.org/abs/2603.22363)

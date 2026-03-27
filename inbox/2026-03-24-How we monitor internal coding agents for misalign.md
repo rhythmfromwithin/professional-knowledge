@@ -1,11 +1,12 @@
 ---
-title: "How we monitor internal coding agents for misalignment"
-source: "OpenAI Blog"
-link: https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
 next_step: skim
+priority: high
+slack_ts: '1774581531.590269'
+source: OpenAI Blog
+status: unread
+title: How we monitor internal coding agents for misalignment
 ---
 # How we monitor internal coding agents for misalignment
 > 原文: [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)

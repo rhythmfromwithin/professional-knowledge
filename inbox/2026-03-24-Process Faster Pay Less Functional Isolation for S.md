@@ -1,11 +1,12 @@
 ---
-title: "Process Faster, Pay Less: Functional Isolation for Stream Processing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.19445
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19445
 next_step: skim
+priority: low
+slack_ts: '1774581535.628679'
+source: cs.DB - Databases
+status: unread
+title: 'Process Faster, Pay Less: Functional Isolation for Stream Processing'
 ---
 # Process Faster, Pay Less: Functional Isolation for Stream Processing
 > 原文: [https://arxiv.org/abs/2603.19445](https://arxiv.org/abs/2603.19445)

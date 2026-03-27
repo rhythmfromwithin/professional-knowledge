@@ -1,11 +1,12 @@
 ---
-title: "Sovereign risk mitigation mechanism in emerging markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.22956
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22956
 next_step: skim
+priority: low
+slack_ts: '1774581564.787189'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Sovereign risk mitigation mechanism in emerging markets
 ---
 # Sovereign risk mitigation mechanism in emerging markets
 > 原文: [https://arxiv.org/abs/2603.22956](https://arxiv.org/abs/2603.22956)

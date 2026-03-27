@@ -1,0 +1,14 @@
+---
+title: "n-VM: A Multi-VM Layer-1 Architecture with Shared Identity and Token State"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2603.23670
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# n-VM: A Multi-VM Layer-1 Architecture with Shared Identity and Token State
+> 原文: [https://arxiv.org/abs/2603.23670](https://arxiv.org/abs/2603.23670)
+
+arXiv:2603.23670v1 Announce Type: new
+Abstract: Multi-chain ecosystems suffer from fragmented identity, siloed liquidity, and bridge-dependent token transfers. We present n-VM, a Layer-1 architecture that hosts n heterogeneous virtual machines as co-equal execution environments over shared consensus and shared state. The design combines three components: a dispatcher that routes transactions by opcode prefix, a unified identity layer in which one 32-byte commitment anchors VM-specifific addresses, and a unified token ledger that exposes VM-native interfaces such as ERC-20 and SPL over a common balance store. We formalize routing, identity derivation, and token transfer semantics, and prove cross-VM transfer atomicity and identity isolation under standard cryptographic assumptions. We describe a concrete instantiation with five VMs: a native runtime, EVM, SVM, Bitcoin Script, and TVM. We also present context-based sharding and a write-set scheduler for parallel execution. Under an analytical throughput model, the architecture admits a projected range of about 16,000 to 66,000 transactions per second on commodity hardware.

@@ -1,11 +1,12 @@
 ---
-title: "Interactive and Urgent HPC: State of the Research"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.22542
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22542
 next_step: skim
+priority: medium
+slack_ts: '1774581560.154059'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Interactive and Urgent HPC: State of the Research'
 ---
 # Interactive and Urgent HPC: State of the Research
 > 原文: [https://arxiv.org/abs/2603.22542](https://arxiv.org/abs/2603.22542)

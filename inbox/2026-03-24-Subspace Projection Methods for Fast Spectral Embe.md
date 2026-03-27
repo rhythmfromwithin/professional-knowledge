@@ -1,11 +1,12 @@
 ---
-title: "Subspace Projection Methods for Fast Spectral Embeddings of Evolving Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.19439
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19439
 next_step: skim
+priority: medium
+slack_ts: '1774581538.623609'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Subspace Projection Methods for Fast Spectral Embeddings of Evolving Graphs
 ---
 # Subspace Projection Methods for Fast Spectral Embeddings of Evolving Graphs
 > 原文: [https://arxiv.org/abs/2603.19439](https://arxiv.org/abs/2603.19439)

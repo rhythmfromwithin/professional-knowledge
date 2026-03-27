@@ -1,11 +1,12 @@
 ---
-title: "Integrating Amazon Bedrock AgentCore with Slack"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/
 next_step: skim
+priority: high
+slack_ts: '1774581532.179499'
+source: AWS Blog
+status: unread
+title: Integrating Amazon Bedrock AgentCore with Slack
 ---
 # Integrating Amazon Bedrock AgentCore with Slack
 > 原文: [https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/](https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/)

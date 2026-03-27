@@ -1,11 +1,12 @@
 ---
-title: "Hyperagents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.19461
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19461
 next_step: skim
+priority: high
+slack_ts: '1774581531.787939'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Hyperagents
 ---
 # Hyperagents
 > 原文: [https://arxiv.org/abs/2603.19461](https://arxiv.org/abs/2603.19461)

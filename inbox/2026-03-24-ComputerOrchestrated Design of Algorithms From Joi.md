@@ -1,11 +1,12 @@
 ---
-title: "Computer-Orchestrated Design of Algorithms: From Join Specification to Implementation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.19434
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19434
 next_step: skim
+priority: low
+slack_ts: '1774581527.355689'
+source: cs.DB - Databases
+status: unread
+title: 'Computer-Orchestrated Design of Algorithms: From Join Specification to Implementation'
 ---
 # Computer-Orchestrated Design of Algorithms: From Join Specification to Implementation
 > 原文: [https://arxiv.org/abs/2603.19434](https://arxiv.org/abs/2603.19434)

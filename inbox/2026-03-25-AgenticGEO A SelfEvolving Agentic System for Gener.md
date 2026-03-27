@@ -1,11 +1,12 @@
 ---
-title: "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.20213
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20213
 next_step: skim
+priority: high
+slack_ts: '1774581540.840189'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization'
 ---
 # AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization
 > 原文: [https://arxiv.org/abs/2603.20213](https://arxiv.org/abs/2603.20213)

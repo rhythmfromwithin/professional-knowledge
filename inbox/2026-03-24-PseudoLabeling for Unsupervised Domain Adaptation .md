@@ -1,11 +1,12 @@
 ---
-title: "Pseudo-Labeling for Unsupervised Domain Adaptation with Kernel GLMs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.19422
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19422
 next_step: skim
+priority: medium
+slack_ts: '1774581536.620749'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Pseudo-Labeling for Unsupervised Domain Adaptation with Kernel GLMs
 ---
 # Pseudo-Labeling for Unsupervised Domain Adaptation with Kernel GLMs
 > 原文: [https://arxiv.org/abs/2603.19422](https://arxiv.org/abs/2603.19422)

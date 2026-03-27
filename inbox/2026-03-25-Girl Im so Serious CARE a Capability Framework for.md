@@ -1,11 +1,5 @@
 ---
-title: ""Girl, I'm so Serious": CARE, a Capability Framework for Reproductive Equity in Human-AI Interaction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.20511
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1774581545.781449'
 ---
 # "Girl, I'm so Serious": CARE, a Capability Framework for Reproductive Equity in Human-AI Interaction
 > 原文: [https://arxiv.org/abs/2603.20511](https://arxiv.org/abs/2603.20511)

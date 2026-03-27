@@ -1,11 +1,13 @@
 ---
-title: "Did you know that Economics is not only about money? The effect of popularisation talks on high school students' interest in the discipline"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.19390
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19390
 next_step: skim
+priority: low
+slack_ts: '1774581528.584589'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Did you know that Economics is not only about money? The effect of popularisation
+  talks on high school students' interest in the discipline
 ---
 # Did you know that Economics is not only about money? The effect of popularisation talks on high school students' interest in the discipline
 > 原文: [https://arxiv.org/abs/2603.19390](https://arxiv.org/abs/2603.19390)

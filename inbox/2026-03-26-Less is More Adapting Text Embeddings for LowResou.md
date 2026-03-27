@@ -1,11 +1,13 @@
 ---
-title: "Less is More: Adapting Text Embeddings for Low-Resource Languages with Small Scale Noisy Synthetic Data"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.22290
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22290
 next_step: skim
+priority: high
+slack_ts: '1774581560.852559'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Less is More: Adapting Text Embeddings for Low-Resource Languages with Small
+  Scale Noisy Synthetic Data'
 ---
 # Less is More: Adapting Text Embeddings for Low-Resource Languages with Small Scale Noisy Synthetic Data
 > 原文: [https://arxiv.org/abs/2603.22290](https://arxiv.org/abs/2603.22290)

@@ -1,11 +1,13 @@
 ---
-title: "Understanding Pruning Regimes in Vision-Language Models Through Domain-Aware Layer Selection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.20275
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20275
 next_step: skim
+priority: medium
+slack_ts: '1774581551.857199'
+source: cs.CV - Computer Vision
+status: unread
+title: Understanding Pruning Regimes in Vision-Language Models Through Domain-Aware
+  Layer Selection
 ---
 # Understanding Pruning Regimes in Vision-Language Models Through Domain-Aware Layer Selection
 > 原文: [https://arxiv.org/abs/2603.20275](https://arxiv.org/abs/2603.20275)

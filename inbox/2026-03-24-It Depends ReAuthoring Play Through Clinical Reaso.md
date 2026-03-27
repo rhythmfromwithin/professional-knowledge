@@ -1,11 +1,13 @@
 ---
-title: "It Depends: Re_Authoring Play Through Clinical Reasoning in Wearable AR Rehab Games"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.19309
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19309
 next_step: skim
+priority: low
+slack_ts: '1774581532.832969'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'It Depends: Re_Authoring Play Through Clinical Reasoning in Wearable AR Rehab
+  Games'
 ---
 # It Depends: Re_Authoring Play Through Clinical Reasoning in Wearable AR Rehab Games
 > 原文: [https://arxiv.org/abs/2603.19309](https://arxiv.org/abs/2603.19309)

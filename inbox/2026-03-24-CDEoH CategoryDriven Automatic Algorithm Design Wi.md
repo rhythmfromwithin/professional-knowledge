@@ -1,11 +1,12 @@
 ---
-title: "CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.19284
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19284
 next_step: skim
+priority: low
+slack_ts: '1774581527.101679'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models'
 ---
 # CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models
 > 原文: [https://arxiv.org/abs/2603.19284](https://arxiv.org/abs/2603.19284)

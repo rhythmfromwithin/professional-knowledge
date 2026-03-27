@@ -1,11 +1,13 @@
 ---
-title: "DePro: Understanding the Role of LLMs in Debugging Competitive Programming Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.19399
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.19399
 next_step: skim
+priority: low
+slack_ts: '1774581528.190459'
+source: cs.SE - Software Engineering
+status: unread
+title: 'DePro: Understanding the Role of LLMs in Debugging Competitive Programming
+  Code'
 ---
 # DePro: Understanding the Role of LLMs in Debugging Competitive Programming Code
 > 原文: [https://arxiv.org/abs/2603.19399](https://arxiv.org/abs/2603.19399)

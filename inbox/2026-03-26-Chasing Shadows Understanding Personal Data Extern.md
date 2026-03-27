@@ -1,11 +1,5 @@
 ---
-title: ""Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.22609
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1774581555.735939'
 ---
 # "Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals
 > 原文: [https://arxiv.org/abs/2603.22609](https://arxiv.org/abs/2603.22609)
