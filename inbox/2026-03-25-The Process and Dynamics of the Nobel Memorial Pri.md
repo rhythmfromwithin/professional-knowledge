@@ -1,11 +1,12 @@
 ---
-title: "The Process and Dynamics of the Nobel Memorial Prize in Economics, 1969-2025"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.20767
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20767
 next_step: skim
+priority: low
+slack_ts: '1774666187.578109'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Process and Dynamics of the Nobel Memorial Prize in Economics, 1969-2025
 ---
 # The Process and Dynamics of the Nobel Memorial Prize in Economics, 1969-2025
 > 原文: [https://arxiv.org/abs/2603.20767](https://arxiv.org/abs/2603.20767)

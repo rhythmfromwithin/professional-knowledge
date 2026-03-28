@@ -1,11 +1,13 @@
 ---
-title: "Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented Generation Systems"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.23508
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23508
 next_step: skim
+priority: high
+slack_ts: '1774666210.931059'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented
+  Generation Systems'
 ---
 # Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented Generation Systems
 > 原文: [https://arxiv.org/abs/2603.23508](https://arxiv.org/abs/2603.23508)

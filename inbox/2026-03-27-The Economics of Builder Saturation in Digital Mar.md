@@ -1,11 +1,12 @@
 ---
-title: "The Economics of Builder Saturation in Digital Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.23685
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23685
 next_step: skim
+priority: low
+slack_ts: '1774666219.883819'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Economics of Builder Saturation in Digital Markets
 ---
 # The Economics of Builder Saturation in Digital Markets
 > 原文: [https://arxiv.org/abs/2603.23685](https://arxiv.org/abs/2603.23685)

@@ -1,11 +1,13 @@
 ---
-title: "SkillClone: Multi-Modal Clone Detection and Clone Propagation Analysis in the Agent Skill Ecosystem"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.22447
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22447
 next_step: skim
+priority: low
+slack_ts: '1774666201.813879'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SkillClone: Multi-Modal Clone Detection and Clone Propagation Analysis in
+  the Agent Skill Ecosystem'
 ---
 # SkillClone: Multi-Modal Clone Detection and Clone Propagation Analysis in the Agent Skill Ecosystem
 > 原文: [https://arxiv.org/abs/2603.22447](https://arxiv.org/abs/2603.22447)

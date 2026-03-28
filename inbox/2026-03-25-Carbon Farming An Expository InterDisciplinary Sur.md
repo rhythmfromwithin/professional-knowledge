@@ -1,11 +1,12 @@
 ---
-title: "Carbon Farming: An Expository, Inter-Disciplinary Survey"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.20674
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20674
 next_step: skim
+priority: low
+slack_ts: '1774666174.463949'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Carbon Farming: An Expository, Inter-Disciplinary Survey'
 ---
 # Carbon Farming: An Expository, Inter-Disciplinary Survey
 > 原文: [https://arxiv.org/abs/2603.20674](https://arxiv.org/abs/2603.20674)

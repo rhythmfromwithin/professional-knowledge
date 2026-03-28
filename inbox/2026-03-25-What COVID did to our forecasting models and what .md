@@ -1,7 +1,10 @@
 ---
-title: "What COVID did to our forecasting models (and what we built to handle the next shock)"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss
+slack_ts: '1774666188.647979'
+source: Airbnb Engineering
+title: What COVID did to our forecasting models (and what we built to handle the next
+  shock)
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

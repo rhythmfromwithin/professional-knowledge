@@ -1,11 +1,13 @@
 ---
-title: "Towards Extended Reality Intelligence for Monitoring and Predicting Patient Readmission Risks"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.20556
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20556
 next_step: skim
+priority: low
+slack_ts: '1774666187.774429'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Towards Extended Reality Intelligence for Monitoring and Predicting Patient
+  Readmission Risks
 ---
 # Towards Extended Reality Intelligence for Monitoring and Predicting Patient Readmission Risks
 > 原文: [https://arxiv.org/abs/2603.20556](https://arxiv.org/abs/2603.20556)

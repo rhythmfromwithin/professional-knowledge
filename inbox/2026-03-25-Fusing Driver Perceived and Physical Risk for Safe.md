@@ -1,11 +1,13 @@
 ---
-title: "Fusing Driver Perceived and Physical Risk for Safety Critical Scenario Screening in Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.20232
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20232
 next_step: skim
+priority: medium
+slack_ts: '1774666180.240099'
+source: cs.RO - Robotics
+status: unread
+title: Fusing Driver Perceived and Physical Risk for Safety Critical Scenario Screening
+  in Autonomous Driving
 ---
 # Fusing Driver Perceived and Physical Risk for Safety Critical Scenario Screening in Autonomous Driving
 > 原文: [https://arxiv.org/abs/2603.20232](https://arxiv.org/abs/2603.20232)

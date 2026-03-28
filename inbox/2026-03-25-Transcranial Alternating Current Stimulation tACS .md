@@ -1,11 +1,13 @@
 ---
-title: "Transcranial Alternating Current Stimulation (tACS) for patients with Post-Stroke Anomia: Preliminary Data on Picture Naming Performance"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.20476
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20476
 next_step: skim
+priority: low
+slack_ts: '1774666187.977999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Transcranial Alternating Current Stimulation (tACS) for patients with Post-Stroke
+  Anomia: Preliminary Data on Picture Naming Performance'
 ---
 # Transcranial Alternating Current Stimulation (tACS) for patients with Post-Stroke Anomia: Preliminary Data on Picture Naming Performance
 > 原文: [https://arxiv.org/abs/2603.20476](https://arxiv.org/abs/2603.20476)

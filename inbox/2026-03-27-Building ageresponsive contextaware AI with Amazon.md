@@ -1,11 +1,12 @@
 ---
-title: "Building age-responsive, context-aware AI with Amazon Bedrock Guardrails"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/
 next_step: skim
+priority: high
+slack_ts: '1774666207.832769'
+source: AWS Blog
+status: unread
+title: Building age-responsive, context-aware AI with Amazon Bedrock Guardrails
 ---
 # Building age-responsive, context-aware AI with Amazon Bedrock Guardrails
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/](https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/)

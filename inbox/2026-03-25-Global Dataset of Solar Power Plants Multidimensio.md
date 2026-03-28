@@ -1,11 +1,12 @@
 ---
-title: "Global Dataset of Solar Power Plants: Multidimensional Integration and Analysis"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.20601
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20601
 next_step: skim
+priority: low
+slack_ts: '1774666180.851649'
+source: cs.DB - Databases
+status: unread
+title: 'Global Dataset of Solar Power Plants: Multidimensional Integration and Analysis'
 ---
 # Global Dataset of Solar Power Plants: Multidimensional Integration and Analysis
 > 原文: [https://arxiv.org/abs/2603.20601](https://arxiv.org/abs/2603.20601)

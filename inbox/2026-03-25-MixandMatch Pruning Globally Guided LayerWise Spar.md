@@ -1,11 +1,12 @@
 ---
-title: "Mix-and-Match Pruning: Globally Guided Layer-Wise Sparsification of DNNs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.20280
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20280
 next_step: skim
+priority: medium
+slack_ts: '1774666184.403539'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Mix-and-Match Pruning: Globally Guided Layer-Wise Sparsification of DNNs'
 ---
 # Mix-and-Match Pruning: Globally Guided Layer-Wise Sparsification of DNNs
 > 原文: [https://arxiv.org/abs/2603.20280](https://arxiv.org/abs/2603.20280)

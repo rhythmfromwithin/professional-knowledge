@@ -1,11 +1,12 @@
 ---
-title: "Hierarchical Multiscale Structure-Function Coupling for Brain Connectome Integration"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.20680
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20680
 next_step: skim
+priority: low
+slack_ts: '1774666181.262899'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Hierarchical Multiscale Structure-Function Coupling for Brain Connectome Integration
 ---
 # Hierarchical Multiscale Structure-Function Coupling for Brain Connectome Integration
 > 原文: [https://arxiv.org/abs/2603.20680](https://arxiv.org/abs/2603.20680)

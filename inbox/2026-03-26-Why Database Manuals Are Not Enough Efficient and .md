@@ -1,11 +1,13 @@
 ---
-title: "Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.22708
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22708
 next_step: skim
+priority: low
+slack_ts: '1774666204.922749'
+source: cs.DB - Databases
+status: unread
+title: 'Why Database Manuals Are Not Enough: Efficient and Reliable Configuration
+  Tuning for DBMSs via Code-Driven LLM Agents'
 ---
 # Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents
 > 原文: [https://arxiv.org/abs/2603.22708](https://arxiv.org/abs/2603.22708)

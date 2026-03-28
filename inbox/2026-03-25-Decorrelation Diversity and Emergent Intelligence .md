@@ -1,11 +1,13 @@
 ---
-title: "Decorrelation, Diversity, and Emergent Intelligence: The Isomorphism Between Social Insect Colonies and Ensemble Machine Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.20328
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20328
 next_step: skim
+priority: medium
+slack_ts: '1774666175.625009'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Decorrelation, Diversity, and Emergent Intelligence: The Isomorphism Between
+  Social Insect Colonies and Ensemble Machine Learning'
 ---
 # Decorrelation, Diversity, and Emergent Intelligence: The Isomorphism Between Social Insect Colonies and Ensemble Machine Learning
 > 原文: [https://arxiv.org/abs/2603.20328](https://arxiv.org/abs/2603.20328)

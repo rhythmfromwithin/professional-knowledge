@@ -1,11 +1,12 @@
 ---
-title: "Upper Entropy for 2-Monotone Lower Probabilities"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.23558
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23558
 next_step: skim
+priority: high
+slack_ts: '1774666222.795389'
+source: cs.LG - Machine Learning
+status: unread
+title: Upper Entropy for 2-Monotone Lower Probabilities
 ---
 # Upper Entropy for 2-Monotone Lower Probabilities
 > 原文: [https://arxiv.org/abs/2603.23558](https://arxiv.org/abs/2603.23558)

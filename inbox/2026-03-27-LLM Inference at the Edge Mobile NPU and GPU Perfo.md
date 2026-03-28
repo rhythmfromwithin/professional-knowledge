@@ -1,11 +1,13 @@
 ---
-title: "LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs Under Sustained Load"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.23640
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23640
 next_step: skim
+priority: medium
+slack_ts: '1774666213.784529'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs
+  Under Sustained Load'
 ---
 # LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs Under Sustained Load
 > 原文: [https://arxiv.org/abs/2603.23640](https://arxiv.org/abs/2603.23640)

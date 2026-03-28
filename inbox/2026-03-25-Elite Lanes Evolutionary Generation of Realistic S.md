@@ -1,11 +1,12 @@
 ---
-title: "Elite Lanes: Evolutionary Generation of Realistic Small-Scale Road Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.20964
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20964
 next_step: skim
+priority: low
+slack_ts: '1774666177.500419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Elite Lanes: Evolutionary Generation of Realistic Small-Scale Road Networks'
 ---
 # Elite Lanes: Evolutionary Generation of Realistic Small-Scale Road Networks
 > 原文: [https://arxiv.org/abs/2603.20964](https://arxiv.org/abs/2603.20964)

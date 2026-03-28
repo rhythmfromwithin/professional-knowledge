@@ -1,11 +1,12 @@
 ---
-title: "Deep Neural Regression Collapse"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.23805
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23805
 next_step: skim
+priority: low
+slack_ts: '1774666208.829249'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Deep Neural Regression Collapse
 ---
 # Deep Neural Regression Collapse
 > 原文: [https://arxiv.org/abs/2603.23805](https://arxiv.org/abs/2603.23805)

@@ -1,11 +1,12 @@
 ---
-title: "Byte-level Object Bounds Protection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.20347
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20347
 next_step: skim
+priority: low
+slack_ts: '1774666174.260349'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Byte-level Object Bounds Protection
 ---
 # Byte-level Object Bounds Protection
 > 原文: [https://arxiv.org/abs/2603.20347](https://arxiv.org/abs/2603.20347)

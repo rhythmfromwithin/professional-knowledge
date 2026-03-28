@@ -1,11 +1,12 @@
 ---
-title: "RedacBench: Can AI Erase Your Secrets?"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.20208
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20208
 next_step: skim
+priority: high
+slack_ts: '1774666186.194879'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'RedacBench: Can AI Erase Your Secrets?'
 ---
 # RedacBench: Can AI Erase Your Secrets?
 > 原文: [https://arxiv.org/abs/2603.20208](https://arxiv.org/abs/2603.20208)

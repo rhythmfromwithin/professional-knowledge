@@ -1,11 +1,13 @@
 ---
-title: "The HyperFrog Cryptosystem: High-Genus Voxel Topology as a Trapdoor for Post-Quantum KEMs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.23505
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23505
 next_step: skim
+priority: low
+slack_ts: '1774666222.078129'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The HyperFrog Cryptosystem: High-Genus Voxel Topology as a Trapdoor for Post-Quantum
+  KEMs'
 ---
 # The HyperFrog Cryptosystem: High-Genus Voxel Topology as a Trapdoor for Post-Quantum KEMs
 > 原文: [https://arxiv.org/abs/2603.23505](https://arxiv.org/abs/2603.23505)

@@ -1,11 +1,13 @@
 ---
-title: "Learning Communication Between Heterogeneous Agents in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.20279
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20279
 next_step: skim
+priority: low
+slack_ts: '1774666182.330389'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Learning Communication Between Heterogeneous Agents in Multi-Agent Reinforcement
+  Learning for Autonomous Cyber Defence
 ---
 # Learning Communication Between Heterogeneous Agents in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence
 > 原文: [https://arxiv.org/abs/2603.20279](https://arxiv.org/abs/2603.20279)

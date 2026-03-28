@@ -1,11 +1,13 @@
 ---
-title: "HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical Repositories with LLMs"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.20299
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20299
 next_step: skim
+priority: low
+slack_ts: '1774666181.062559'
+source: cs.SE - Software Engineering
+status: unread
+title: 'HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical
+  Repositories with LLMs'
 ---
 # HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical Repositories with LLMs
 > 原文: [https://arxiv.org/abs/2603.20299](https://arxiv.org/abs/2603.20299)

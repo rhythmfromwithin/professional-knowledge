@@ -1,11 +1,13 @@
 ---
-title: "Assessment Design in the AI Era: A Method for Identifying Items Functioning Differentially for Humans and Chatbots"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.23682
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23682
 next_step: skim
+priority: low
+slack_ts: '1774666206.817339'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Assessment Design in the AI Era: A Method for Identifying Items Functioning
+  Differentially for Humans and Chatbots'
 ---
 # Assessment Design in the AI Era: A Method for Identifying Items Functioning Differentially for Humans and Chatbots
 > 原文: [https://arxiv.org/abs/2603.23682](https://arxiv.org/abs/2603.23682)

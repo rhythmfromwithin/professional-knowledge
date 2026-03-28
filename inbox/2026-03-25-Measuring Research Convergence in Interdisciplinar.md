@@ -1,11 +1,13 @@
 ---
-title: "Measuring Research Convergence in Interdisciplinary Teams Using Large Language Models and Graph Analytics"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.20204
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20204
 next_step: skim
+priority: medium
+slack_ts: '1774666183.928839'
+source: cs.CY - Computers and Society
+status: unread
+title: Measuring Research Convergence in Interdisciplinary Teams Using Large Language
+  Models and Graph Analytics
 ---
 # Measuring Research Convergence in Interdisciplinary Teams Using Large Language Models and Graph Analytics
 > 原文: [https://arxiv.org/abs/2603.20204](https://arxiv.org/abs/2603.20204)

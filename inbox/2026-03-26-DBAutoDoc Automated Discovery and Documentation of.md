@@ -1,11 +1,13 @@
 ---
-title: "DBAutoDoc: Automated Discovery and Documentation of Undocumented Database Schemas via Statistical Analysis and Iterative LLM Refinement"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.23050
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23050
 next_step: skim
+priority: low
+slack_ts: '1774666192.758439'
+source: cs.DB - Databases
+status: unread
+title: 'DBAutoDoc: Automated Discovery and Documentation of Undocumented Database
+  Schemas via Statistical Analysis and Iterative LLM Refinement'
 ---
 # DBAutoDoc: Automated Discovery and Documentation of Undocumented Database Schemas via Statistical Analysis and Iterative LLM Refinement
 > 原文: [https://arxiv.org/abs/2603.23050](https://arxiv.org/abs/2603.23050)

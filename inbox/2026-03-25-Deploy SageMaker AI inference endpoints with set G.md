@@ -1,11 +1,13 @@
 ---
-title: "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/
 next_step: skim
+priority: high
+slack_ts: '1774666176.251309'
+source: AWS Blog
+status: unread
+title: Deploy SageMaker AI inference endpoints with set GPU capacity using training
+  plans
 ---
 # Deploy SageMaker AI inference endpoints with set GPU capacity using training plans
 > 原文: [https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/](https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/)

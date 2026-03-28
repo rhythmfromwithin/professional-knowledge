@@ -1,11 +1,13 @@
 ---
-title: "Barriers to Gender Convergence: The Interactive Effects of Job Inflexibility and Social Norms"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.20817
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20817
 next_step: skim
+priority: low
+slack_ts: '1774666172.965169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Barriers to Gender Convergence: The Interactive Effects of Job Inflexibility
+  and Social Norms'
 ---
 # Barriers to Gender Convergence: The Interactive Effects of Job Inflexibility and Social Norms
 > 原文: [https://arxiv.org/abs/2603.20817](https://arxiv.org/abs/2603.20817)

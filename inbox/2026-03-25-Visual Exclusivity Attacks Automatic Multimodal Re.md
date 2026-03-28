@@ -1,11 +1,12 @@
 ---
-title: "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.20198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20198
 next_step: skim
+priority: low
+slack_ts: '1774666188.438599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning'
 ---
 # Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning
 > 原文: [https://arxiv.org/abs/2603.20198](https://arxiv.org/abs/2603.20198)

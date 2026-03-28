@@ -1,11 +1,13 @@
 ---
-title: "Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.22292
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22292
 next_step: skim
+priority: high
+slack_ts: '1774666190.997909'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline
+  Reinforcement Learning'
 ---
 # Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2603.22292](https://arxiv.org/abs/2603.22292)

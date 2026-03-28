@@ -1,11 +1,13 @@
 ---
-title: "From Human Interfaces to Agent Interfaces: Rethinking Software Design in the Age of AI-Native Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.20300
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20300
 next_step: skim
+priority: low
+slack_ts: '1774666178.966309'
+source: cs.SE - Software Engineering
+status: unread
+title: 'From Human Interfaces to Agent Interfaces: Rethinking Software Design in the
+  Age of AI-Native Systems'
 ---
 # From Human Interfaces to Agent Interfaces: Rethinking Software Design in the Age of AI-Native Systems
 > 原文: [https://arxiv.org/abs/2603.20300](https://arxiv.org/abs/2603.20300)

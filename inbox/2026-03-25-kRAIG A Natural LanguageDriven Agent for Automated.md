@@ -1,11 +1,12 @@
 ---
-title: "kRAIG: A Natural Language-Driven Agent for Automated DataOps Pipeline Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.20311
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20311
 next_step: skim
+priority: low
+slack_ts: '1774666189.189309'
+source: cs.SE - Software Engineering
+status: unread
+title: 'kRAIG: A Natural Language-Driven Agent for Automated DataOps Pipeline Generation'
 ---
 # kRAIG: A Natural Language-Driven Agent for Automated DataOps Pipeline Generation
 > 原文: [https://arxiv.org/abs/2603.20311](https://arxiv.org/abs/2603.20311)

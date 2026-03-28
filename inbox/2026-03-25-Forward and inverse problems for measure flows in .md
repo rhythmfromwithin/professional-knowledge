@@ -1,11 +1,12 @@
 ---
-title: "Forward and inverse problems for measure flows in Bayes Hilbert spaces"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.20329
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20329
 next_step: skim
+priority: medium
+slack_ts: '1774666178.765469'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Forward and inverse problems for measure flows in Bayes Hilbert spaces
 ---
 # Forward and inverse problems for measure flows in Bayes Hilbert spaces
 > 原文: [https://arxiv.org/abs/2603.20329](https://arxiv.org/abs/2603.20329)

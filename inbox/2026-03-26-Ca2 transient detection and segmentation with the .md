@@ -1,11 +1,13 @@
 ---
-title: "Ca2+ transient detection and segmentation with the Astronomically motivated algorithm for Background Estimation And Transient Segmentation (Astro-BEATS)"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.22311
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22311
 next_step: skim
+priority: low
+slack_ts: '1774666191.865579'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Ca2+ transient detection and segmentation with the Astronomically motivated
+  algorithm for Background Estimation And Transient Segmentation (Astro-BEATS)
 ---
 # Ca2+ transient detection and segmentation with the Astronomically motivated algorithm for Background Estimation And Transient Segmentation (Astro-BEATS)
 > 原文: [https://arxiv.org/abs/2603.22311](https://arxiv.org/abs/2603.22311)

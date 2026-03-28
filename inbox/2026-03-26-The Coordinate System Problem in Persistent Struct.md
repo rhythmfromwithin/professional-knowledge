@@ -1,11 +1,12 @@
 ---
-title: "The Coordinate System Problem in Persistent Structural Memory for Neural Architectures"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.22858
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22858
 next_step: skim
+priority: low
+slack_ts: '1774666203.866789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: The Coordinate System Problem in Persistent Structural Memory for Neural Architectures
 ---
 # The Coordinate System Problem in Persistent Structural Memory for Neural Architectures
 > 原文: [https://arxiv.org/abs/2603.22858](https://arxiv.org/abs/2603.22858)

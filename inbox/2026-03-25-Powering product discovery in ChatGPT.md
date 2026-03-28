@@ -1,11 +1,12 @@
 ---
-title: "Powering product discovery in ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/index/powering-product-discovery-in-chatgpt
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/powering-product-discovery-in-chatgpt
 next_step: skim
+priority: high
+slack_ts: '1774666185.492549'
+source: OpenAI Blog
+status: unread
+title: Powering product discovery in ChatGPT
 ---
 # Powering product discovery in ChatGPT
 > 原文: [https://openai.com/index/powering-product-discovery-in-chatgpt](https://openai.com/index/powering-product-discovery-in-chatgpt)

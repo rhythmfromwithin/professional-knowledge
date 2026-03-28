@@ -1,11 +1,13 @@
 ---
-title: "StreamTGN: A GPU-Efficient Serving System for Streaming Temporal Graph Neural Networks"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.21090
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.21090
 next_step: skim
+priority: low
+slack_ts: '1774666186.870529'
+source: cs.DB - Databases
+status: unread
+title: 'StreamTGN: A GPU-Efficient Serving System for Streaming Temporal Graph Neural
+  Networks'
 ---
 # StreamTGN: A GPU-Efficient Serving System for Streaming Temporal Graph Neural Networks
 > 原文: [https://arxiv.org/abs/2603.21090](https://arxiv.org/abs/2603.21090)

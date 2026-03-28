@@ -1,11 +1,13 @@
 ---
-title: "The Effect of Age at Arrival on the Alignment Between Immigrant and Native-Born Gender Norms: A Distributional Approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.23720
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23720
 next_step: skim
+priority: low
+slack_ts: '1774666220.840029'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Effect of Age at Arrival on the Alignment Between Immigrant and Native-Born
+  Gender Norms: A Distributional Approach'
 ---
 # The Effect of Age at Arrival on the Alignment Between Immigrant and Native-Born Gender Norms: A Distributional Approach
 > 原文: [https://arxiv.org/abs/2603.23720](https://arxiv.org/abs/2603.23720)

@@ -1,11 +1,12 @@
 ---
-title: "Lyria 3 Pro: Create longer tracks in more"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/
 next_step: skim
+priority: high
+slack_ts: '1774666214.954709'
+source: DeepMind Blog
+status: unread
+title: 'Lyria 3 Pro: Create longer tracks in more'
 ---
 # Lyria 3 Pro: Create longer tracks in more
 > 原文: [https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/)

@@ -1,11 +1,13 @@
 ---
-title: "Environment Maps: Structured Environmental Representations for Long-Horizon Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.23610
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23610
 next_step: skim
+priority: high
+slack_ts: '1774666210.089789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Environment Maps: Structured Environmental Representations for Long-Horizon
+  Agents'
 ---
 # Environment Maps: Structured Environmental Representations for Long-Horizon Agents
 > 原文: [https://arxiv.org/abs/2603.23610](https://arxiv.org/abs/2603.23610)

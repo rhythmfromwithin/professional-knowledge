@@ -1,11 +1,12 @@
 ---
-title: "MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.20295
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20295
 next_step: skim
+priority: high
+slack_ts: '1774666182.590889'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery'
 ---
 # MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery
 > 原文: [https://arxiv.org/abs/2603.20295](https://arxiv.org/abs/2603.20295)

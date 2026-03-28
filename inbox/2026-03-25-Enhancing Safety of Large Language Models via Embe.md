@@ -1,11 +1,12 @@
 ---
-title: "Enhancing Safety of Large Language Models via Embedding Space Separation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.20206
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20206
 next_step: skim
+priority: high
+slack_ts: '1774666177.726259'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Enhancing Safety of Large Language Models via Embedding Space Separation
 ---
 # Enhancing Safety of Large Language Models via Embedding Space Separation
 > 原文: [https://arxiv.org/abs/2603.20206](https://arxiv.org/abs/2603.20206)

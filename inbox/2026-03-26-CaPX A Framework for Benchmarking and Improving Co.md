@@ -1,11 +1,13 @@
 ---
-title: "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.22435
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22435
 next_step: skim
+priority: medium
+slack_ts: '1774666192.071309'
+source: cs.RO - Robotics
+status: unread
+title: 'CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot
+  Manipulation'
 ---
 # CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 > 原文: [https://arxiv.org/abs/2603.22435](https://arxiv.org/abs/2603.22435)

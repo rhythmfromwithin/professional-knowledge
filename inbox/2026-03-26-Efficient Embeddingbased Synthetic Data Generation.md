@@ -1,11 +1,12 @@
 ---
-title: "Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.22294
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22294
 next_step: skim
+priority: high
+slack_ts: '1774666193.856469'
+source: cs.LG - Machine Learning
+status: unread
+title: Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks
 ---
 # Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks
 > 原文: [https://arxiv.org/abs/2603.22294](https://arxiv.org/abs/2603.22294)

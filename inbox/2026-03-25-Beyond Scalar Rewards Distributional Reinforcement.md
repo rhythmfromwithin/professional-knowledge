@@ -1,11 +1,13 @@
 ---
-title: "Beyond Scalar Rewards: Distributional Reinforcement Learning with Preordered Objectives for Safe and Reliable Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.20230
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20230
 next_step: skim
+priority: medium
+slack_ts: '1774666173.169479'
+source: cs.RO - Robotics
+status: unread
+title: 'Beyond Scalar Rewards: Distributional Reinforcement Learning with Preordered
+  Objectives for Safe and Reliable Autonomous Driving'
 ---
 # Beyond Scalar Rewards: Distributional Reinforcement Learning with Preordered Objectives for Safe and Reliable Autonomous Driving
 > 原文: [https://arxiv.org/abs/2603.20230](https://arxiv.org/abs/2603.20230)

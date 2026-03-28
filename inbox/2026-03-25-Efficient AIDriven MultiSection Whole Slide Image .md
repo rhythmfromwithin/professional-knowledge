@@ -1,11 +1,13 @@
 ---
-title: "Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.20273
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20273
 next_step: skim
+priority: medium
+slack_ts: '1774666177.295109'
+source: cs.CV - Computer Vision
+status: unread
+title: Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical
+  Recurrence Prediction in Prostate Cancer
 ---
 # Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer
 > 原文: [https://arxiv.org/abs/2603.20273](https://arxiv.org/abs/2603.20273)

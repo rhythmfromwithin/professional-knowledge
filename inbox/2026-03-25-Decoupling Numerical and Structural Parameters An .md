@@ -1,11 +1,13 @@
 ---
-title: "Decoupling Numerical and Structural Parameters: An Empirical Study on Adaptive Genetic Algorithms via Deep Reinforcement Learning for the Large-Scale TSP"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.20702
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20702
 next_step: skim
+priority: low
+slack_ts: '1774666175.822969'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Decoupling Numerical and Structural Parameters: An Empirical Study on Adaptive
+  Genetic Algorithms via Deep Reinforcement Learning for the Large-Scale TSP'
 ---
 # Decoupling Numerical and Structural Parameters: An Empirical Study on Adaptive Genetic Algorithms via Deep Reinforcement Learning for the Large-Scale TSP
 > 原文: [https://arxiv.org/abs/2603.20702](https://arxiv.org/abs/2603.20702)

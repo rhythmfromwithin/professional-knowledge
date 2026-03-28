@@ -1,11 +1,12 @@
 ---
-title: "Heart Failure's First Shock and Nurse-Led Chronic Care"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.23024
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23024
 next_step: skim
+priority: low
+slack_ts: '1774666195.885279'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Heart Failure's First Shock and Nurse-Led Chronic Care
 ---
 # Heart Failure's First Shock and Nurse-Led Chronic Care
 > 原文: [https://arxiv.org/abs/2603.23024](https://arxiv.org/abs/2603.23024)

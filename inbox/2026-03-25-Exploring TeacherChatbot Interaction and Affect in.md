@@ -1,11 +1,12 @@
 ---
-title: "Exploring Teacher-Chatbot Interaction and Affect in Block-Based Programming"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.20211
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20211
 next_step: skim
+priority: medium
+slack_ts: '1774666178.559589'
+source: cs.CY - Computers and Society
+status: unread
+title: Exploring Teacher-Chatbot Interaction and Affect in Block-Based Programming
 ---
 # Exploring Teacher-Chatbot Interaction and Affect in Block-Based Programming
 > 原文: [https://arxiv.org/abs/2603.20211](https://arxiv.org/abs/2603.20211)

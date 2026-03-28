@@ -1,11 +1,13 @@
 ---
-title: "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.20260
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.20260
 next_step: skim
+priority: high
+slack_ts: '1774666185.689969'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition
+  Dynamics'
 ---
 # ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics
 > 原文: [https://arxiv.org/abs/2603.20260](https://arxiv.org/abs/2603.20260)

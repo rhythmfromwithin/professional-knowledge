@@ -1,11 +1,12 @@
 ---
-title: "Beyond Explanation: Evidentiary Rights for Algorithmic Accountability"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.22716
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22716
 next_step: skim
+priority: medium
+slack_ts: '1774666190.560739'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Explanation: Evidentiary Rights for Algorithmic Accountability'
 ---
 # Beyond Explanation: Evidentiary Rights for Algorithmic Accountability
 > 原文: [https://arxiv.org/abs/2603.22716](https://arxiv.org/abs/2603.22716)
