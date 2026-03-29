@@ -1,11 +1,13 @@
 ---
-title: "Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/
 next_step: skim
+priority: medium
+slack_ts: '1774754612.447189'
+source: Meta Engineering
+status: unread
+title: 'Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s
+  Ads Ranking Innovation'
 ---
 # Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation
 > 原文: [https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/)

@@ -1,11 +1,12 @@
 ---
-title: "LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.23607
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23607
 next_step: skim
+priority: medium
+slack_ts: '1774754597.072479'
+source: cs.CV - Computer Vision
+status: unread
+title: 'LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset'
 ---
 # LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset
 > 原文: [https://arxiv.org/abs/2603.23607](https://arxiv.org/abs/2603.23607)

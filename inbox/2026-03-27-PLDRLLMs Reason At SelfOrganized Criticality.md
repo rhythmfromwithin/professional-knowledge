@@ -1,11 +1,12 @@
 ---
-title: "PLDR-LLMs Reason At Self-Organized Criticality"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.23539
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23539
 next_step: skim
+priority: high
+slack_ts: '1774754598.050109'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: PLDR-LLMs Reason At Self-Organized Criticality
 ---
 # PLDR-LLMs Reason At Self-Organized Criticality
 > 原文: [https://arxiv.org/abs/2603.23539](https://arxiv.org/abs/2603.23539)

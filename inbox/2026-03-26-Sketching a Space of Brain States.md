@@ -1,11 +1,12 @@
 ---
-title: "Sketching a Space of Brain States"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.22296
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22296
 next_step: skim
+priority: low
+slack_ts: '1774754586.000569'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Sketching a Space of Brain States
 ---
 # Sketching a Space of Brain States
 > 原文: [https://arxiv.org/abs/2603.22296](https://arxiv.org/abs/2603.22296)

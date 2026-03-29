@@ -1,11 +1,12 @@
 ---
-title: "Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.23550
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23550
 next_step: skim
+priority: high
+slack_ts: '1774754595.194079'
+source: cs.LG - Machine Learning
+status: unread
+title: Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction
 ---
 # Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction
 > 原文: [https://arxiv.org/abs/2603.23550](https://arxiv.org/abs/2603.23550)

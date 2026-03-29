@@ -1,11 +1,12 @@
 ---
-title: "From Brittle to Robust: Improving LLM Annotations for SE Optimization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.22474
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22474
 next_step: skim
+priority: low
+slack_ts: '1774754579.503359'
+source: cs.SE - Software Engineering
+status: unread
+title: 'From Brittle to Robust: Improving LLM Annotations for SE Optimization'
 ---
 # From Brittle to Robust: Improving LLM Annotations for SE Optimization
 > 原文: [https://arxiv.org/abs/2603.22474](https://arxiv.org/abs/2603.22474)

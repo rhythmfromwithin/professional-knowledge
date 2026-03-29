@@ -1,11 +1,13 @@
 ---
-title: "An In-Depth Study of Filter-Agnostic Vector Search on a PostgreSQL Database System: [Experiments and Analysis]"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.23710
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23710
 next_step: skim
+priority: low
+slack_ts: '1774754589.343859'
+source: cs.DB - Databases
+status: unread
+title: 'An In-Depth Study of Filter-Agnostic Vector Search on a PostgreSQL Database
+  System: [Experiments and Analysis]'
 ---
 # An In-Depth Study of Filter-Agnostic Vector Search on a PostgreSQL Database System: [Experiments and Analysis]
 > 原文: [https://arxiv.org/abs/2603.23710](https://arxiv.org/abs/2603.23710)

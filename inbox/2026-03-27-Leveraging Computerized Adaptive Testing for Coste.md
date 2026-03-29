@@ -1,11 +1,13 @@
 ---
-title: "Leveraging Computerized Adaptive Testing for Cost-effective Evaluation of Large Language Models in Medical Benchmarking"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.23506
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23506
 next_step: skim
+priority: high
+slack_ts: '1774754596.829179'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Leveraging Computerized Adaptive Testing for Cost-effective Evaluation of Large
+  Language Models in Medical Benchmarking
 ---
 # Leveraging Computerized Adaptive Testing for Cost-effective Evaluation of Large Language Models in Medical Benchmarking
 > 原文: [https://arxiv.org/abs/2603.23506](https://arxiv.org/abs/2603.23506)

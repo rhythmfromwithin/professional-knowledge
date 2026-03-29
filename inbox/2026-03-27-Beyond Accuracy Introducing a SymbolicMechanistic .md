@@ -1,11 +1,13 @@
 ---
-title: "Beyond Accuracy: Introducing a Symbolic-Mechanistic Approach to Interpretable Evaluation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.23517
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23517
 next_step: skim
+priority: high
+slack_ts: '1774754590.716759'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Beyond Accuracy: Introducing a Symbolic-Mechanistic Approach to Interpretable
+  Evaluation'
 ---
 # Beyond Accuracy: Introducing a Symbolic-Mechanistic Approach to Interpretable Evaluation
 > 原文: [https://arxiv.org/abs/2603.23517](https://arxiv.org/abs/2603.23517)

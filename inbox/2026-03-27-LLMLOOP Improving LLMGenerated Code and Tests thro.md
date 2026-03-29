@@ -1,11 +1,13 @@
 ---
-title: "LLMLOOP: Improving LLM-Generated Code and Tests through Automated Iterative Feedback Loops"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.23613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23613
 next_step: skim
+priority: low
+slack_ts: '1774754596.280859'
+source: cs.SE - Software Engineering
+status: unread
+title: 'LLMLOOP: Improving LLM-Generated Code and Tests through Automated Iterative
+  Feedback Loops'
 ---
 # LLMLOOP: Improving LLM-Generated Code and Tests through Automated Iterative Feedback Loops
 > 原文: [https://arxiv.org/abs/2603.23613](https://arxiv.org/abs/2603.23613)

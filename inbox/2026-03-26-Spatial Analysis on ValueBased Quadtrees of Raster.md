@@ -1,11 +1,12 @@
 ---
-title: "Spatial Analysis on Value-Based Quadtrees of Rasterized Vector Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.23105
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23105
 next_step: skim
+priority: low
+slack_ts: '1774754586.308279'
+source: cs.DB - Databases
+status: unread
+title: Spatial Analysis on Value-Based Quadtrees of Rasterized Vector Data
 ---
 # Spatial Analysis on Value-Based Quadtrees of Rasterized Vector Data
 > 原文: [https://arxiv.org/abs/2603.23105](https://arxiv.org/abs/2603.23105)

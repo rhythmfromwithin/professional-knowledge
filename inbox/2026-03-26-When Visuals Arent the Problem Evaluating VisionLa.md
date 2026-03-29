@@ -1,11 +1,13 @@
 ---
-title: "When Visuals Aren't the Problem: Evaluating Vision-Language Models on Misleading Data Visualizations"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.22368
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22368
 next_step: skim
+priority: medium
+slack_ts: '1774754588.104549'
+source: cs.CV - Computer Vision
+status: unread
+title: 'When Visuals Aren''t the Problem: Evaluating Vision-Language Models on Misleading
+  Data Visualizations'
 ---
 # When Visuals Aren't the Problem: Evaluating Vision-Language Models on Misleading Data Visualizations
 > 原文: [https://arxiv.org/abs/2603.22368](https://arxiv.org/abs/2603.22368)

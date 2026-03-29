@@ -1,11 +1,13 @@
 ---
-title: "PDGMM-VAE: A Variational Autoencoder with Adaptive Per-Dimension Gaussian Mixture Model Priors for Nonlinear ICA"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.23547
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23547
 next_step: skim
+priority: medium
+slack_ts: '1774754597.800729'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'PDGMM-VAE: A Variational Autoencoder with Adaptive Per-Dimension Gaussian
+  Mixture Model Priors for Nonlinear ICA'
 ---
 # PDGMM-VAE: A Variational Autoencoder with Adaptive Per-Dimension Gaussian Mixture Model Priors for Nonlinear ICA
 > 原文: [https://arxiv.org/abs/2603.23547](https://arxiv.org/abs/2603.23547)

@@ -1,11 +1,13 @@
 ---
-title: "eBeeMetrics: An eBPF-based Library Framework for Feedback-free Observability of QoS Metrics"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.25067
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25067
 next_step: skim
+priority: medium
+slack_ts: '1774754616.619029'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'eBeeMetrics: An eBPF-based Library Framework for Feedback-free Observability
+  of QoS Metrics'
 ---
 # eBeeMetrics: An eBPF-based Library Framework for Feedback-free Observability of QoS Metrics
 > 原文: [https://arxiv.org/abs/2603.25067](https://arxiv.org/abs/2603.25067)

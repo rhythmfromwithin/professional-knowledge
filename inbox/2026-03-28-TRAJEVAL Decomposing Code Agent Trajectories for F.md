@@ -1,11 +1,12 @@
 ---
-title: "TRAJEVAL: Decomposing Code Agent Trajectories for Fine-Grained Diagnosis"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.24631
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24631
 next_step: skim
+priority: low
+slack_ts: '1774754614.576429'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TRAJEVAL: Decomposing Code Agent Trajectories for Fine-Grained Diagnosis'
 ---
 # TRAJEVAL: Decomposing Code Agent Trajectories for Fine-Grained Diagnosis
 > 原文: [https://arxiv.org/abs/2603.24631](https://arxiv.org/abs/2603.24631)

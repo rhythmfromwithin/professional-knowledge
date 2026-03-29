@@ -1,11 +1,12 @@
 ---
-title: "Wake Up to the Past: Using Memory to Model Fluid Wake Effects on Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.22472
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22472
 next_step: skim
+priority: medium
+slack_ts: '1774754587.499909'
+source: cs.RO - Robotics
+status: unread
+title: 'Wake Up to the Past: Using Memory to Model Fluid Wake Effects on Robots'
 ---
 # Wake Up to the Past: Using Memory to Model Fluid Wake Effects on Robots
 > 原文: [https://arxiv.org/abs/2603.22472](https://arxiv.org/abs/2603.22472)

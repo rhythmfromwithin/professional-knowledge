@@ -1,11 +1,13 @@
 ---
-title: "MapForest: A Modular Field Robotics System for Forest Mapping and Invasive Species Localization"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.22502
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22502
 next_step: skim
+priority: medium
+slack_ts: '1774754582.576559'
+source: cs.RO - Robotics
+status: unread
+title: 'MapForest: A Modular Field Robotics System for Forest Mapping and Invasive
+  Species Localization'
 ---
 # MapForest: A Modular Field Robotics System for Forest Mapping and Invasive Species Localization
 > 原文: [https://arxiv.org/abs/2603.22502](https://arxiv.org/abs/2603.22502)

@@ -1,11 +1,12 @@
 ---
-title: "How are AI agents used? Evidence from 177,000 MCP tools"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.23802
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23802
 next_step: skim
+priority: medium
+slack_ts: '1774754594.817569'
+source: cs.CY - Computers and Society
+status: unread
+title: How are AI agents used? Evidence from 177,000 MCP tools
 ---
 # How are AI agents used? Evidence from 177,000 MCP tools
 > 原文: [https://arxiv.org/abs/2603.23802](https://arxiv.org/abs/2603.23802)

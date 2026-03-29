@@ -1,11 +1,12 @@
 ---
-title: "Bio-Inspired Event-Based Visual Servoing for Ground Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.23672
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23672
 next_step: skim
+priority: medium
+slack_ts: '1774754590.970859'
+source: cs.RO - Robotics
+status: unread
+title: Bio-Inspired Event-Based Visual Servoing for Ground Robots
 ---
 # Bio-Inspired Event-Based Visual Servoing for Ground Robots
 > 原文: [https://arxiv.org/abs/2603.23672](https://arxiv.org/abs/2603.23672)

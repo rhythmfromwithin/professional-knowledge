@@ -1,11 +1,13 @@
 ---
-title: "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.22345
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22345
 next_step: skim
+priority: high
+slack_ts: '1774754578.437839'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion
+  Recognition in Conversations
 ---
 # Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations
 > 原文: [https://arxiv.org/abs/2603.22345](https://arxiv.org/abs/2603.22345)

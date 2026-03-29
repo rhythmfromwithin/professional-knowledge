@@ -1,11 +1,12 @@
 ---
-title: "Rank-Aware Resource Scheduling for Tightly-Coupled MPI Workloads on Kubernetes"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.22691
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22691
 next_step: skim
+priority: medium
+slack_ts: '1774754584.783429'
+source: cs.DC - Distributed Computing
+status: unread
+title: Rank-Aware Resource Scheduling for Tightly-Coupled MPI Workloads on Kubernetes
 ---
 # Rank-Aware Resource Scheduling for Tightly-Coupled MPI Workloads on Kubernetes
 > 原文: [https://arxiv.org/abs/2603.22691](https://arxiv.org/abs/2603.22691)

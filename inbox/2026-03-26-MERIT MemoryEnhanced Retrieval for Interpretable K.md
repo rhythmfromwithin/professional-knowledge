@@ -1,11 +1,12 @@
 ---
-title: "MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.22289
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22289
 next_step: skim
+priority: high
+slack_ts: '1774754582.337419'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing'
 ---
 # MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing
 > 原文: [https://arxiv.org/abs/2603.22289](https://arxiv.org/abs/2603.22289)

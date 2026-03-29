@@ -1,11 +1,12 @@
 ---
-title: "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/
 next_step: skim
+priority: high
+slack_ts: '1774754589.640009'
+source: AWS Blog
+status: unread
+title: Announcing Amazon Aurora PostgreSQL serverless database creation in seconds
 ---
 # Announcing Amazon Aurora PostgreSQL serverless database creation in seconds
 > 原文: [https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/)

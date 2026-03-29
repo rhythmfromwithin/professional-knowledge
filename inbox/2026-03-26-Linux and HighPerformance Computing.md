@@ -1,11 +1,12 @@
 ---
-title: "Linux and High-Performance Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.22495
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22495
 next_step: skim
+priority: medium
+slack_ts: '1774754582.033299'
+source: cs.DC - Distributed Computing
+status: unread
+title: Linux and High-Performance Computing
 ---
 # Linux and High-Performance Computing
 > 原文: [https://arxiv.org/abs/2603.22495](https://arxiv.org/abs/2603.22495)

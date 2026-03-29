@@ -1,11 +1,13 @@
 ---
-title: "Detect--Repair--Verify for LLM-Generated Code: A Multi-Language, Multi-Granularity Empirical Study"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.23633
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23633
 next_step: skim
+priority: low
+slack_ts: '1774754592.232569'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Detect--Repair--Verify for LLM-Generated Code: A Multi-Language, Multi-Granularity
+  Empirical Study'
 ---
 # Detect--Repair--Verify for LLM-Generated Code: A Multi-Language, Multi-Granularity Empirical Study
 > 原文: [https://arxiv.org/abs/2603.23633](https://arxiv.org/abs/2603.23633)

@@ -1,11 +1,13 @@
 ---
-title: "Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.22563
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22563
 next_step: skim
+priority: medium
+slack_ts: '1774754584.242809'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled
+  Reward Modeling
 ---
 # Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling
 > 原文: [https://arxiv.org/abs/2603.22563](https://arxiv.org/abs/2603.22563)

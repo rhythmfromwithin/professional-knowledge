@@ -1,11 +1,12 @@
 ---
-title: "Introducing the OpenAI Safety Bug Bounty program"
-source: "OpenAI Blog"
-link: https://openai.com/index/safety-bug-bounty
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/safety-bug-bounty
 next_step: skim
+priority: high
+slack_ts: '1774754595.982959'
+source: OpenAI Blog
+status: unread
+title: Introducing the OpenAI Safety Bug Bounty program
 ---
 # Introducing the OpenAI Safety Bug Bounty program
 > 原文: [https://openai.com/index/safety-bug-bounty](https://openai.com/index/safety-bug-bounty)

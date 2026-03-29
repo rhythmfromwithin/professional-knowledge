@@ -1,11 +1,12 @@
 ---
-title: "M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.23617
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23617
 next_step: skim
+priority: medium
+slack_ts: '1774754597.495359'
+source: cs.CV - Computer Vision
+status: unread
+title: 'M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production'
 ---
 # M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production
 > 原文: [https://arxiv.org/abs/2603.23617](https://arxiv.org/abs/2603.23617)

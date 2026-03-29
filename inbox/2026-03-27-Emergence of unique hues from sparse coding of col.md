@@ -1,11 +1,12 @@
 ---
-title: "Emergence of unique hues from sparse coding of color in natural scenes"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.24293
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24293
 next_step: skim
+priority: low
+slack_ts: '1774754592.834959'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Emergence of unique hues from sparse coding of color in natural scenes
 ---
 # Emergence of unique hues from sparse coding of color in natural scenes
 > 原文: [https://arxiv.org/abs/2603.24293](https://arxiv.org/abs/2603.24293)

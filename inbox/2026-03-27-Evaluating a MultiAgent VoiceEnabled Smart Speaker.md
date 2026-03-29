@@ -1,11 +1,13 @@
 ---
-title: "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.23625
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23625
 next_step: skim
+priority: high
+slack_ts: '1774754593.123439'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused
+  Framework'
 ---
 # Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework
 > 原文: [https://arxiv.org/abs/2603.23625](https://arxiv.org/abs/2603.23625)

@@ -1,11 +1,13 @@
 ---
-title: "A Metric for Three-Dimensional Color Discrimination Derived from V1 Population Fisher Information"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.24356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24356
 next_step: skim
+priority: low
+slack_ts: '1774754588.404469'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Metric for Three-Dimensional Color Discrimination Derived from V1 Population
+  Fisher Information
 ---
 # A Metric for Three-Dimensional Color Discrimination Derived from V1 Population Fisher Information
 > 原文: [https://arxiv.org/abs/2603.24356](https://arxiv.org/abs/2603.24356)

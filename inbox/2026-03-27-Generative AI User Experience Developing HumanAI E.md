@@ -1,11 +1,12 @@
 ---
-title: "Generative AI User Experience: Developing Human--AI Epistemic Partnership"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.23863
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23863
 next_step: skim
+priority: medium
+slack_ts: '1774754594.012199'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Generative AI User Experience: Developing Human--AI Epistemic Partnership'
 ---
 # Generative AI User Experience: Developing Human--AI Epistemic Partnership
 > 原文: [https://arxiv.org/abs/2603.23863](https://arxiv.org/abs/2603.23863)

@@ -1,11 +1,13 @@
 ---
-title: "From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.24653
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24653
 next_step: skim
+priority: medium
+slack_ts: '1774754607.543319'
+source: cs.CV - Computer Vision
+status: unread
+title: 'From Weights to Concepts: Data-Free Interpretability of CLIP via Singular
+  Vector Decomposition'
 ---
 # From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition
 > 原文: [https://arxiv.org/abs/2603.24653](https://arxiv.org/abs/2603.24653)

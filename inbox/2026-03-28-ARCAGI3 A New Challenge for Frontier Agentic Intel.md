@@ -1,11 +1,12 @@
 ---
-title: "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.24621
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24621
 next_step: skim
+priority: high
+slack_ts: '1774754602.446179'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence'
 ---
 # ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence
 > 原文: [https://arxiv.org/abs/2603.24621](https://arxiv.org/abs/2603.24621)

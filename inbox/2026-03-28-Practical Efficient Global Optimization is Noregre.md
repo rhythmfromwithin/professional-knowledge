@@ -1,11 +1,12 @@
 ---
-title: "Practical Efficient Global Optimization is No-regret"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.25311
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25311
 next_step: skim
+priority: medium
+slack_ts: '1774754611.461599'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Practical Efficient Global Optimization is No-regret
 ---
 # Practical Efficient Global Optimization is No-regret
 > 原文: [https://arxiv.org/abs/2603.25311](https://arxiv.org/abs/2603.25311)

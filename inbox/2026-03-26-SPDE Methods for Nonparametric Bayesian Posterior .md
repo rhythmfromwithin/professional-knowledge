@@ -1,11 +1,12 @@
 ---
-title: "SPDE Methods for Nonparametric Bayesian Posterior Contraction and Laplace Approximation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.22468
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22468
 next_step: skim
+priority: medium
+slack_ts: '1774754585.690339'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: SPDE Methods for Nonparametric Bayesian Posterior Contraction and Laplace Approximation
 ---
 # SPDE Methods for Nonparametric Bayesian Posterior Contraction and Laplace Approximation
 > 原文: [https://arxiv.org/abs/2603.22468](https://arxiv.org/abs/2603.22468)

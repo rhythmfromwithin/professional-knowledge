@@ -1,11 +1,12 @@
 ---
-title: "Experiential Reflective Learning for Self-Improving LLM Agents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.24639
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24639
 next_step: skim
+priority: high
+slack_ts: '1774754606.503969'
+source: cs.LG - Machine Learning
+status: unread
+title: Experiential Reflective Learning for Self-Improving LLM Agents
 ---
 # Experiential Reflective Learning for Self-Improving LLM Agents
 > 原文: [https://arxiv.org/abs/2603.24639](https://arxiv.org/abs/2603.24639)

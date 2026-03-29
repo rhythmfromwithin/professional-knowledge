@@ -1,11 +1,13 @@
 ---
-title: "Learning What Can Be Picked: Active Reachability Estimation for Efficient Robotic Fruit Harvesting"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.23679
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23679
 next_step: skim
+priority: medium
+slack_ts: '1774754596.538639'
+source: cs.RO - Robotics
+status: unread
+title: 'Learning What Can Be Picked: Active Reachability Estimation for Efficient
+  Robotic Fruit Harvesting'
 ---
 # Learning What Can Be Picked: Active Reachability Estimation for Efficient Robotic Fruit Harvesting
 > 原文: [https://arxiv.org/abs/2603.23679](https://arxiv.org/abs/2603.23679)

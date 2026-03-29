@@ -1,11 +1,13 @@
 ---
-title: "NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.25517
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25517
 next_step: skim
+priority: low
+slack_ts: '1774754610.478379'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust
+  CNNs'
 ---
 # NERO-Net: A Neuroevolutionary Approach for the Design of Adversarially Robust CNNs
 > 原文: [https://arxiv.org/abs/2603.25517](https://arxiv.org/abs/2603.25517)

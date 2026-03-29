@@ -1,11 +1,13 @@
 ---
-title: "From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.23990
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23990
 next_step: skim
+priority: medium
+slack_ts: '1774754593.716229'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble
+  of Specialized LLMs Architecture for Adaptive Tutoring'
 ---
 # From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring
 > 原文: [https://arxiv.org/abs/2603.23990](https://arxiv.org/abs/2603.23990)

@@ -1,11 +1,13 @@
 ---
-title: "Founder effects shape the evolutionary dynamics of multimodality in open LLM families"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.22287
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.22287
 next_step: skim
+priority: medium
+slack_ts: '1774754579.208979'
+source: cs.CV - Computer Vision
+status: unread
+title: Founder effects shape the evolutionary dynamics of multimodality in open LLM
+  families
 ---
 # Founder effects shape the evolutionary dynamics of multimodality in open LLM families
 > 原文: [https://arxiv.org/abs/2603.22287](https://arxiv.org/abs/2603.22287)

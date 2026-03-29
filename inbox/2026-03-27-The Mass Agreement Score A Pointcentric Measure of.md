@@ -1,11 +1,12 @@
 ---
-title: "The Mass Agreement Score: A Point-centric Measure of Cluster Size Consistency"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.23581
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23581
 next_step: skim
+priority: medium
+slack_ts: '1774754600.587479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'The Mass Agreement Score: A Point-centric Measure of Cluster Size Consistency'
 ---
 # The Mass Agreement Score: A Point-centric Measure of Cluster Size Consistency
 > 原文: [https://arxiv.org/abs/2603.23581](https://arxiv.org/abs/2603.23581)
