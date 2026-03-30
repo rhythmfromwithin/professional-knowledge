@@ -1,11 +1,12 @@
 ---
-title: "Demystifying When Pruning Works via Representation Hierarchies"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.24652
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24652
 next_step: skim
+priority: high
+slack_ts: '1774841189.442059'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Demystifying When Pruning Works via Representation Hierarchies
 ---
 # Demystifying When Pruning Works via Representation Hierarchies
 > 原文: [https://arxiv.org/abs/2603.24652](https://arxiv.org/abs/2603.24652)

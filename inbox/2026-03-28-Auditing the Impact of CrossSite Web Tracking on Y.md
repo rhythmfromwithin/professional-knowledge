@@ -1,11 +1,13 @@
 ---
-title: "Auditing the Impact of Cross-Site Web Tracking on YouTube Political and Misinformation Recommendations"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.25302
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25302
 next_step: skim
+priority: medium
+slack_ts: '1774841189.010979'
+source: cs.CY - Computers and Society
+status: unread
+title: Auditing the Impact of Cross-Site Web Tracking on YouTube Political and Misinformation
+  Recommendations
 ---
 # Auditing the Impact of Cross-Site Web Tracking on YouTube Political and Misinformation Recommendations
 > 原文: [https://arxiv.org/abs/2603.25302](https://arxiv.org/abs/2603.25302)

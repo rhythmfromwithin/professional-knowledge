@@ -1,11 +1,12 @@
 ---
-title: "SABER: Spatial Attention, Brain, Extended Reality"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.24830
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24830
 next_step: skim
+priority: low
+slack_ts: '1774841191.838059'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SABER: Spatial Attention, Brain, Extended Reality'
 ---
 # SABER: Spatial Attention, Brain, Extended Reality
 > 原文: [https://arxiv.org/abs/2603.24830](https://arxiv.org/abs/2603.24830)

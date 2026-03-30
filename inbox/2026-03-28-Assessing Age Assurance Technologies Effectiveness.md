@@ -1,11 +1,12 @@
 ---
-title: "Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.25695
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25695
 next_step: skim
+priority: medium
+slack_ts: '1774841188.817229'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance'
 ---
 # Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance
 > 原文: [https://arxiv.org/abs/2603.25695](https://arxiv.org/abs/2603.25695)

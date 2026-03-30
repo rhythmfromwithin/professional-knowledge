@@ -1,11 +1,13 @@
 ---
-title: "The Reward Function and the Least Cost Principle for Gravitation and other Laws of Physics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.25444
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25444
 next_step: skim
+priority: low
+slack_ts: '1774841192.324879'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Reward Function and the Least Cost Principle for Gravitation and other
+  Laws of Physics
 ---
 # The Reward Function and the Least Cost Principle for Gravitation and other Laws of Physics
 > 原文: [https://arxiv.org/abs/2603.25444](https://arxiv.org/abs/2603.25444)

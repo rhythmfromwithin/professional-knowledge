@@ -1,11 +1,12 @@
 ---
-title: "Fair regression under localized demographic parity constraints"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.25224
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25224
 next_step: skim
+priority: medium
+slack_ts: '1774841189.902429'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Fair regression under localized demographic parity constraints
 ---
 # Fair regression under localized demographic parity constraints
 > 原文: [https://arxiv.org/abs/2603.25224](https://arxiv.org/abs/2603.25224)

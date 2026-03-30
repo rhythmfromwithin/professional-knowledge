@@ -1,11 +1,13 @@
 ---
-title: "Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.24629
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24629
 next_step: skim
+priority: low
+slack_ts: '1774841192.027949'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language
+  Models'
 ---
 # Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language Models
 > 原文: [https://arxiv.org/abs/2603.24629](https://arxiv.org/abs/2603.24629)

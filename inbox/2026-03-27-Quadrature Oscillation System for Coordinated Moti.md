@@ -1,11 +1,12 @@
 ---
-title: "Quadrature Oscillation System for Coordinated Motion in Crawling Origami Robot"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.23666
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23666
 next_step: skim
+priority: medium
+slack_ts: '1774841187.065989'
+source: cs.RO - Robotics
+status: unread
+title: Quadrature Oscillation System for Coordinated Motion in Crawling Origami Robot
 ---
 # Quadrature Oscillation System for Coordinated Motion in Crawling Origami Robot
 > 原文: [https://arxiv.org/abs/2603.23666](https://arxiv.org/abs/2603.23666)

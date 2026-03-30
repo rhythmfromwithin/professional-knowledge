@@ -1,7 +1,9 @@
 ---
-title: "Recommending travel destinations to help users explore"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss
+slack_ts: '1774841193.998189'
+source: Airbnb Engineering
+title: Recommending travel destinations to help users explore
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

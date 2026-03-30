@@ -1,11 +1,12 @@
 ---
-title: "Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.23736
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23736
 next_step: skim
+priority: medium
+slack_ts: '1774841187.910179'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems
 ---
 # Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems
 > 原文: [https://arxiv.org/abs/2603.23736](https://arxiv.org/abs/2603.23736)

@@ -1,11 +1,13 @@
 ---
-title: "TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.24919
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24919
 next_step: skim
+priority: low
+slack_ts: '1774841192.228949'
+source: cs.DB - Databases
+status: unread
+title: 'TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional
+  Approximate Nearest Neighbor Search'
 ---
 # TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search
 > 原文: [https://arxiv.org/abs/2603.24919](https://arxiv.org/abs/2603.24919)

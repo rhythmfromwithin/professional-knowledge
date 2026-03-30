@@ -1,11 +1,12 @@
 ---
-title: "How unconstrained machine-learning models learn physical symmetries"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.24638
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24638
 next_step: skim
+priority: high
+slack_ts: '1774841190.650439'
+source: cs.LG - Machine Learning
+status: unread
+title: How unconstrained machine-learning models learn physical symmetries
 ---
 # How unconstrained machine-learning models learn physical symmetries
 > 原文: [https://arxiv.org/abs/2603.24638](https://arxiv.org/abs/2603.24638)

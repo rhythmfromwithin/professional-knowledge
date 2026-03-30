@@ -1,11 +1,13 @@
 ---
-title: "An Explainable Federated Framework for Zero Trust Micro-Segmentation in IIoT Networks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.24754
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24754
 next_step: skim
+priority: low
+slack_ts: '1774841188.525849'
+source: cs.CR - Cryptography and Security
+status: unread
+title: An Explainable Federated Framework for Zero Trust Micro-Segmentation in IIoT
+  Networks
 ---
 # An Explainable Federated Framework for Zero Trust Micro-Segmentation in IIoT Networks
 > 原文: [https://arxiv.org/abs/2603.24754](https://arxiv.org/abs/2603.24754)

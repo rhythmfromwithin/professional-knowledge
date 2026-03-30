@@ -1,11 +1,13 @@
 ---
-title: "When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic Drift in LLMs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.24676
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24676
 next_step: skim
+priority: high
+slack_ts: '1774841192.611509'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic
+  Drift in LLMs
 ---
 # When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic Drift in LLMs
 > 原文: [https://arxiv.org/abs/2603.24676](https://arxiv.org/abs/2603.24676)

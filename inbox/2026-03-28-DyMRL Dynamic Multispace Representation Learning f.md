@@ -1,11 +1,13 @@
 ---
-title: "DyMRL: Dynamic Multispace Representation Learning for Multimodal Event Forecasting in Knowledge Graph"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.24636
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24636
 next_step: skim
+priority: high
+slack_ts: '1774841189.604099'
+source: cs.LG - Machine Learning
+status: unread
+title: 'DyMRL: Dynamic Multispace Representation Learning for Multimodal Event Forecasting
+  in Knowledge Graph'
 ---
 # DyMRL: Dynamic Multispace Representation Learning for Multimodal Event Forecasting in Knowledge Graph
 > 原文: [https://arxiv.org/abs/2603.24636](https://arxiv.org/abs/2603.24636)

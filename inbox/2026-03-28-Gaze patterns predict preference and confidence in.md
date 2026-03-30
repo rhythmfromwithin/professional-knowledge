@@ -1,11 +1,12 @@
 ---
-title: "Gaze patterns predict preference and confidence in pairwise AI image evaluation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.24849
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24849
 next_step: skim
+priority: low
+slack_ts: '1774841190.303669'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Gaze patterns predict preference and confidence in pairwise AI image evaluation
 ---
 # Gaze patterns predict preference and confidence in pairwise AI image evaluation
 > 原文: [https://arxiv.org/abs/2603.24849](https://arxiv.org/abs/2603.24849)

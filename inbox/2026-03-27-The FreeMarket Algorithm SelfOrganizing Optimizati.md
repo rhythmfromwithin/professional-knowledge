@@ -1,11 +1,13 @@
 ---
-title: "The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.24559
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24559
 next_step: skim
+priority: low
+slack_ts: '1774841187.609859'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex
+  Systems'
 ---
 # The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems
 > 原文: [https://arxiv.org/abs/2603.24559](https://arxiv.org/abs/2603.24559)

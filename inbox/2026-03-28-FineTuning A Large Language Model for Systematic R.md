@@ -1,11 +1,12 @@
 ---
-title: "Fine-Tuning A Large Language Model for Systematic Review Screening"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.24767
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24767
 next_step: skim
+priority: high
+slack_ts: '1774841190.001929'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Fine-Tuning A Large Language Model for Systematic Review Screening
 ---
 # Fine-Tuning A Large Language Model for Systematic Review Screening
 > 原文: [https://arxiv.org/abs/2603.24767](https://arxiv.org/abs/2603.24767)

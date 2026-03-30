@@ -1,11 +1,12 @@
 ---
-title: "AsgardBench: A benchmark for visually grounded interactive planning"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/
 next_step: skim
+priority: high
+slack_ts: '1774841188.654589'
+source: Microsoft Research
+status: unread
+title: 'AsgardBench: A benchmark for visually grounded interactive planning'
 ---
 # AsgardBench: A benchmark for visually grounded interactive planning
 > 原文: [https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/)

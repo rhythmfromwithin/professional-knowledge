@@ -1,11 +1,12 @@
 ---
-title: "Supermassive Blockchain"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.23927
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.23927
 next_step: skim
+priority: medium
+slack_ts: '1774841187.384339'
+source: cs.DC - Distributed Computing
+status: unread
+title: Supermassive Blockchain
 ---
 # Supermassive Blockchain
 > 原文: [https://arxiv.org/abs/2603.23927](https://arxiv.org/abs/2603.23927)

@@ -1,11 +1,12 @@
 ---
-title: "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/
 next_step: skim
+priority: high
+slack_ts: '1774841191.733619'
+source: AWS Blog
+status: unread
+title: Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)
 ---
 # Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)
 > 原文: [https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/](https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/)

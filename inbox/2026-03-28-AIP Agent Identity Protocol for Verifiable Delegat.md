@@ -1,11 +1,12 @@
 ---
-title: "AIP: Agent Identity Protocol for Verifiable Delegation Across MCP and A2A"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.24775
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24775
 next_step: skim
+priority: low
+slack_ts: '1774841188.221869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'AIP: Agent Identity Protocol for Verifiable Delegation Across MCP and A2A'
 ---
 # AIP: Agent Identity Protocol for Verifiable Delegation Across MCP and A2A
 > 原文: [https://arxiv.org/abs/2603.24775](https://arxiv.org/abs/2603.24775)

@@ -1,11 +1,13 @@
 ---
-title: "Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.24972
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24972
 next_step: skim
+priority: medium
+slack_ts: '1774841190.550669'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Group-Differentiated Discourse on Generative AI in High School Education:
+  A Case Study of Reddit Communities'
 ---
 # Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities
 > 原文: [https://arxiv.org/abs/2603.24972](https://arxiv.org/abs/2603.24972)

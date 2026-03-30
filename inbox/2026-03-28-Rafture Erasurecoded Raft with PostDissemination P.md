@@ -1,11 +1,12 @@
 ---
-title: "Rafture: Erasure-coded Raft with Post-Dissemination Pruning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.24761
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24761
 next_step: skim
+priority: medium
+slack_ts: '1774841191.450169'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Rafture: Erasure-coded Raft with Post-Dissemination Pruning'
 ---
 # Rafture: Erasure-coded Raft with Post-Dissemination Pruning
 > 原文: [https://arxiv.org/abs/2603.24761](https://arxiv.org/abs/2603.24761)

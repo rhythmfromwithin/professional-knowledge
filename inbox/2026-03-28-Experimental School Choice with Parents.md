@@ -1,11 +1,12 @@
 ---
-title: "Experimental School Choice with Parents"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.24615
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24615
 next_step: skim
+priority: low
+slack_ts: '1774841189.803179'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Experimental School Choice with Parents
 ---
 # Experimental School Choice with Parents
 > 原文: [https://arxiv.org/abs/2603.24615](https://arxiv.org/abs/2603.24615)
