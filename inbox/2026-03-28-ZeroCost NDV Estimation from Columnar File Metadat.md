@@ -1,11 +1,12 @@
 ---
-title: "Zero-Cost NDV Estimation from Columnar File Metadata"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.24606
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.24606
 next_step: skim
+priority: low
+slack_ts: '1774927066.217299'
+source: cs.DB - Databases
+status: unread
+title: Zero-Cost NDV Estimation from Columnar File Metadata
 ---
 # Zero-Cost NDV Estimation from Columnar File Metadata
 > 原文: [https://arxiv.org/abs/2603.24606](https://arxiv.org/abs/2603.24606)

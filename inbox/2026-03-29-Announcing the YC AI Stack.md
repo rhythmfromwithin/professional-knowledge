@@ -1,11 +1,12 @@
 ---
-title: "Announcing the YC AI Stack"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/
 next_step: skim
+priority: high
+slack_ts: '1774927066.755129'
+source: Y Combinator
+status: unread
+title: Announcing the YC AI Stack
 ---
 # Announcing the YC AI Stack
 > 原文: [https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/](https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/)

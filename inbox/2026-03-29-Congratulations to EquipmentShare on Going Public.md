@@ -1,11 +1,12 @@
 ---
-title: "Congratulations to EquipmentShare on Going Public"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/congratulations-to-equipmentshare/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/congratulations-to-equipmentshare/
 next_step: skim
+priority: high
+slack_ts: '1774927067.348529'
+source: Y Combinator
+status: unread
+title: Congratulations to EquipmentShare on Going Public
 ---
 # Congratulations to EquipmentShare on Going Public
 > 原文: [https://www.ycombinator.com/blog/congratulations-to-equipmentshare/](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)

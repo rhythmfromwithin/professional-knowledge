@@ -1,11 +1,13 @@
 ---
-title: "Customize your AWS Management Console experience with visual settings including account color, region and service visibility"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/
 next_step: skim
+priority: high
+slack_ts: '1774927071.455339'
+source: AWS Blog
+status: unread
+title: Customize your AWS Management Console experience with visual settings including
+  account color, region and service visibility
 ---
 # Customize your AWS Management Console experience with visual settings including account color, region and service visibility
 > 原文: [https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/)
