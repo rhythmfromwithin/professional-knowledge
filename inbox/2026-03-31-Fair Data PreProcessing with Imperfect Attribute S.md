@@ -1,11 +1,12 @@
 ---
-title: "Fair Data Pre-Processing with Imperfect Attribute Space"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.26456
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26456
 next_step: skim
+priority: low
+slack_ts: '1775014233.726739'
+source: cs.DB - Databases
+status: unread
+title: Fair Data Pre-Processing with Imperfect Attribute Space
 ---
 # Fair Data Pre-Processing with Imperfect Attribute Space
 > 原文: [https://arxiv.org/abs/2603.26456](https://arxiv.org/abs/2603.26456)

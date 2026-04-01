@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Synthetic Images as Effective Substitutes for Experimental Data in Surface Roughness Classification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.25765
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25765
 next_step: skim
+priority: medium
+slack_ts: '1775014233.538039'
+source: cs.CV - Computer Vision
+status: unread
+title: Evaluating Synthetic Images as Effective Substitutes for Experimental Data
+  in Surface Roughness Classification
 ---
 # Evaluating Synthetic Images as Effective Substitutes for Experimental Data in Surface Roughness Classification
 > 原文: [https://arxiv.org/abs/2603.25765](https://arxiv.org/abs/2603.25765)

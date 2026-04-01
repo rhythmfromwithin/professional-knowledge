@@ -1,11 +1,12 @@
 ---
-title: "Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.26361
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26361
 next_step: skim
+priority: low
+slack_ts: '1775014231.485929'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance'
 ---
 # Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance
 > 原文: [https://arxiv.org/abs/2603.26361](https://arxiv.org/abs/2603.26361)

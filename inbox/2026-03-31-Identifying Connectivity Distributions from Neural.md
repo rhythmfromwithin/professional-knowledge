@@ -1,11 +1,12 @@
 ---
-title: "Identifying Connectivity Distributions from Neural Dynamics Using Flows"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.26506
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26506
 next_step: skim
+priority: low
+slack_ts: '1775014236.438979'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Identifying Connectivity Distributions from Neural Dynamics Using Flows
 ---
 # Identifying Connectivity Distributions from Neural Dynamics Using Flows
 > 原文: [https://arxiv.org/abs/2603.26506](https://arxiv.org/abs/2603.26506)

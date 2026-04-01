@@ -1,11 +1,13 @@
 ---
-title: "Empowering Epidemic Response: The Role of Reinforcement Learning in Infectious Disease Control"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.25771
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25771
 next_step: skim
+priority: high
+slack_ts: '1775014233.422049'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Empowering Epidemic Response: The Role of Reinforcement Learning in Infectious
+  Disease Control'
 ---
 # Empowering Epidemic Response: The Role of Reinforcement Learning in Infectious Disease Control
 > 原文: [https://arxiv.org/abs/2603.25771](https://arxiv.org/abs/2603.25771)

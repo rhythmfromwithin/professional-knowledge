@@ -1,11 +1,13 @@
 ---
-title: "Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/
 next_step: skim
+priority: high
+slack_ts: '1775014231.897539'
+source: AWS Blog
+status: unread
+title: Build a solar flare detection system on SageMaker AI LSTM networks and ESA
+  STIX data
 ---
 # Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/](https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/)

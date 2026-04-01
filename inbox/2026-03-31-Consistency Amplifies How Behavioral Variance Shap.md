@@ -1,11 +1,12 @@
 ---
-title: "Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.25764
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25764
 next_step: skim
+priority: low
+slack_ts: '1775014232.669749'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy'
 ---
 # Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy
 > 原文: [https://arxiv.org/abs/2603.25764](https://arxiv.org/abs/2603.25764)

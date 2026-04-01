@@ -1,11 +1,13 @@
 ---
-title: "Building to Understand: Examining Teens' Technical and Socio-Ethical Pieces of Understandings in the Construction of Small Generative Language Models"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.25852
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25852
 next_step: skim
+priority: low
+slack_ts: '1775014232.110789'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Building to Understand: Examining Teens'' Technical and Socio-Ethical Pieces
+  of Understandings in the Construction of Small Generative Language Models'
 ---
 # Building to Understand: Examining Teens' Technical and Socio-Ethical Pieces of Understandings in the Construction of Small Generative Language Models
 > 原文: [https://arxiv.org/abs/2603.25852](https://arxiv.org/abs/2603.25852)

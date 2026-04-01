@@ -1,11 +1,13 @@
 ---
-title: "Disguising Topology and Side-Channel Information through Covert Gate- and ML-Enabled IP Camouflaging"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.25904
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25904
 next_step: skim
+priority: low
+slack_ts: '1775014232.782209'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Disguising Topology and Side-Channel Information through Covert Gate- and ML-Enabled
+  IP Camouflaging
 ---
 # Disguising Topology and Side-Channel Information through Covert Gate- and ML-Enabled IP Camouflaging
 > 原文: [https://arxiv.org/abs/2603.25904](https://arxiv.org/abs/2603.25904)

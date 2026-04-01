@@ -1,11 +1,13 @@
 ---
-title: "ParaQAOA: Efficient Parallel Divide-and-Conquer QAOA for Large-Scale Max-Cut Problems Beyond 10,000 Vertices"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.26232
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26232
 next_step: skim
+priority: medium
+slack_ts: '1775014237.937539'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ParaQAOA: Efficient Parallel Divide-and-Conquer QAOA for Large-Scale Max-Cut
+  Problems Beyond 10,000 Vertices'
 ---
 # ParaQAOA: Efficient Parallel Divide-and-Conquer QAOA for Large-Scale Max-Cut Problems Beyond 10,000 Vertices
 > 原文: [https://arxiv.org/abs/2603.26232](https://arxiv.org/abs/2603.26232)

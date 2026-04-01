@@ -1,11 +1,13 @@
 ---
-title: "Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.25933
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25933
 next_step: skim
+priority: low
+slack_ts: '1775014233.625549'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social
+  Anxiety
 ---
 # Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety
 > 原文: [https://arxiv.org/abs/2603.25933](https://arxiv.org/abs/2603.25933)

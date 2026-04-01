@@ -1,11 +1,13 @@
 ---
-title: "CANGuard: A Spatio-Temporal CNN-GRU-Attention Hybrid Architecture for Intrusion Detection in In-Vehicle CAN Networks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.25763
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25763
 next_step: skim
+priority: low
+slack_ts: '1775014232.220749'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'CANGuard: A Spatio-Temporal CNN-GRU-Attention Hybrid Architecture for Intrusion
+  Detection in In-Vehicle CAN Networks'
 ---
 # CANGuard: A Spatio-Temporal CNN-GRU-Attention Hybrid Architecture for Intrusion Detection in In-Vehicle CAN Networks
 > 原文: [https://arxiv.org/abs/2603.25763](https://arxiv.org/abs/2603.25763)

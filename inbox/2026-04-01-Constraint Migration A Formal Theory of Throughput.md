@@ -1,0 +1,14 @@
+---
+title: "Constraint Migration: A Formal Theory of Throughput in AI Cybersecurity Pipelines"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2603.26733
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Constraint Migration: A Formal Theory of Throughput in AI Cybersecurity Pipelines
+> 原文: [https://arxiv.org/abs/2603.26733](https://arxiv.org/abs/2603.26733)
+
+arXiv:2603.26733v1 Announce Type: new
+Abstract: We develop a formal theory of throughput in finite serial pipeline systems subject to stage multiplicative capacity perturbations, motivated by the deployment of AI tools in cybersecurity operations. A pipeline is a finite totally ordered set of stages each with a positive capacity throughput is the minimum stage capacity. An admissible multiplier assigns to each stage an improvement factor of at least one. We prove five theorems and one proposition. Theorems 1-2 give exact necessary and sufficient conditions. Throughput is unchanged if and only if at least one bottleneck retains multiplier 1, and throughput strictly increases if and only if every bottleneck has multiplier strictly greater than 1. Theorem 3 establishes that when a nonempty subset of stages is constrained to multiplier 1 the human authority constraint, throughput is bounded above by the smallest capacity among those stages, and this bound is tight under unbounded non human acceleration. Theorem 4 proves that in a pair of independent attacker defender pipelines, the attacker defender throughput ratio worsens for the defender if and only if the attacker relative throughput gain exceeds the defender. Theorem 5 proves that under a fixed false positive fraction model, useful throughput is constant not decreasing above the investigation capacity, establishing that a commonly asserted paradoxical decline is impossible in that model. Proposition 6 shows that replacing the fixed fraction with a rate dependent precision function that is strictly decreasing suffices to recover the intended decline. All proofs are elementary, using only finite minima, real number order properties, and pointwise multiplicative structure.

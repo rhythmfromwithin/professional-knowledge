@@ -1,11 +1,13 @@
 ---
-title: "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.25804
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25804
 next_step: skim
+priority: high
+slack_ts: '1775014238.670419'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task
+  Evaluation'
 ---
 # RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation
 > 原文: [https://arxiv.org/abs/2603.25804](https://arxiv.org/abs/2603.25804)

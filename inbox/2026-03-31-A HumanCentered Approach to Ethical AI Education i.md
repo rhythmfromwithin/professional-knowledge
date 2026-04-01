@@ -1,11 +1,13 @@
 ---
-title: "A Human-Centered Approach to Ethical AI Education in Underresourced Secondary Schools"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.26004
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26004
 next_step: skim
+priority: medium
+slack_ts: '1775014230.345339'
+source: cs.CY - Computers and Society
+status: unread
+title: A Human-Centered Approach to Ethical AI Education in Underresourced Secondary
+  Schools
 ---
 # A Human-Centered Approach to Ethical AI Education in Underresourced Secondary Schools
 > 原文: [https://arxiv.org/abs/2603.26004](https://arxiv.org/abs/2603.26004)

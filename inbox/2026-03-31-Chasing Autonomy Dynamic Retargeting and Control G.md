@@ -1,11 +1,13 @@
 ---
-title: "Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.25902
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25902
 next_step: skim
+priority: medium
+slack_ts: '1775014232.337699'
+source: cs.RO - Robotics
+status: unread
+title: 'Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant
+  and Controllable Humanoid Running'
 ---
 # Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running
 > 原文: [https://arxiv.org/abs/2603.25902](https://arxiv.org/abs/2603.25902)

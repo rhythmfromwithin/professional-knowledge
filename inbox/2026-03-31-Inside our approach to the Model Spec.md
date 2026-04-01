@@ -1,11 +1,12 @@
 ---
-title: "Inside our approach to the Model Spec"
-source: "OpenAI Blog"
-link: https://openai.com/index/our-approach-to-the-model-spec
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/our-approach-to-the-model-spec
 next_step: skim
+priority: high
+slack_ts: '1775014236.653489'
+source: OpenAI Blog
+status: unread
+title: Inside our approach to the Model Spec
 ---
 # Inside our approach to the Model Spec
 > 原文: [https://openai.com/index/our-approach-to-the-model-spec](https://openai.com/index/our-approach-to-the-model-spec)

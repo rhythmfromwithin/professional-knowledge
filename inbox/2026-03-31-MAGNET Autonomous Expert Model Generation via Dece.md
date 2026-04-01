@@ -1,11 +1,13 @@
 ---
-title: "MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch and BitNet Training"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.25813
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25813
 next_step: skim
+priority: high
+slack_ts: '1775014237.111739'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch
+  and BitNet Training'
 ---
 # MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch and BitNet Training
 > 原文: [https://arxiv.org/abs/2603.25813](https://arxiv.org/abs/2603.25813)

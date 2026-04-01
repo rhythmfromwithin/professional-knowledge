@@ -1,11 +1,13 @@
 ---
-title: "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/
 next_step: skim
+priority: high
+slack_ts: '1775014234.128519'
+source: Microsoft Research
+status: unread
+title: 'GroundedPlanBench: Spatially grounded long-horizon task planning for robot
+  manipulation'
 ---
 # GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation
 > 原文: [https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/)

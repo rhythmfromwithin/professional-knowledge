@@ -1,11 +1,13 @@
 ---
-title: "IncreRTL: Traceability-Guided Incremental RTL Generation under Requirement Evolution"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.25769
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25769
 next_step: skim
+priority: low
+slack_ts: '1775014236.536499'
+source: cs.SE - Software Engineering
+status: unread
+title: 'IncreRTL: Traceability-Guided Incremental RTL Generation under Requirement
+  Evolution'
 ---
 # IncreRTL: Traceability-Guided Incremental RTL Generation under Requirement Evolution
 > 原文: [https://arxiv.org/abs/2603.25769](https://arxiv.org/abs/2603.25769)

@@ -1,11 +1,12 @@
 ---
-title: "AI for American-Produced Cement and Concrete"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/
 next_step: skim
+priority: medium
+slack_ts: '1775014230.769769'
+source: Meta Engineering
+status: unread
+title: AI for American-Produced Cement and Concrete
 ---
 # AI for American-Produced Cement and Concrete
 > 原文: [https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)

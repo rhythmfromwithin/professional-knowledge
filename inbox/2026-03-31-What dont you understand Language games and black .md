@@ -1,11 +1,5 @@
 ---
-title: ""What don't you understand?" Language games and black box algorithms"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.25900
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1775014239.637729'
 ---
 # "What don't you understand?" Language games and black box algorithms
 > 原文: [https://arxiv.org/abs/2603.25900](https://arxiv.org/abs/2603.25900)

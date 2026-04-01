@@ -1,11 +1,14 @@
 ---
-title: "Longitudinal Boundary Sharpness Coefficient Slopes Predict Time to Alzheimer's Disease Conversion in Mild Cognitive Impairment: A Survival Analysis Using the ADNI Cohort"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.26007
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26007
 next_step: skim
+priority: low
+slack_ts: '1775014236.935569'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Longitudinal Boundary Sharpness Coefficient Slopes Predict Time to Alzheimer''s
+  Disease Conversion in Mild Cognitive Impairment: A Survival Analysis Using the ADNI
+  Cohort'
 ---
 # Longitudinal Boundary Sharpness Coefficient Slopes Predict Time to Alzheimer's Disease Conversion in Mild Cognitive Impairment: A Survival Analysis Using the ADNI Cohort
 > 原文: [https://arxiv.org/abs/2603.26007](https://arxiv.org/abs/2603.26007)

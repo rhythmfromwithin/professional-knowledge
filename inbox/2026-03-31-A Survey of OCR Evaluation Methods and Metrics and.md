@@ -1,11 +1,13 @@
 ---
-title: "A Survey of OCR Evaluation Methods and Metrics and the Invisibility of Historical Documents"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.25761
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25761
 next_step: skim
+priority: medium
+slack_ts: '1775014230.616249'
+source: cs.CV - Computer Vision
+status: unread
+title: A Survey of OCR Evaluation Methods and Metrics and the Invisibility of Historical
+  Documents
 ---
 # A Survey of OCR Evaluation Methods and Metrics and the Invisibility of Historical Documents
 > 原文: [https://arxiv.org/abs/2603.25761](https://arxiv.org/abs/2603.25761)

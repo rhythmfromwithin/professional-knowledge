@@ -1,11 +1,13 @@
 ---
-title: "ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.25766
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25766
 next_step: skim
+priority: medium
+slack_ts: '1775014233.000139'
+source: cs.RO - Robotics
+status: unread
+title: 'ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification
+  for Vision-Language-Action Models'
 ---
 # ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2603.25766](https://arxiv.org/abs/2603.25766)

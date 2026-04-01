@@ -1,11 +1,13 @@
 ---
-title: "HeyFriend Helper: A Conversational AI Web-App for Resource Access Among Low-Income Chicago Residents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.25800
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25800
 next_step: skim
+priority: low
+slack_ts: '1775014236.181879'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'HeyFriend Helper: A Conversational AI Web-App for Resource Access Among Low-Income
+  Chicago Residents'
 ---
 # HeyFriend Helper: A Conversational AI Web-App for Resource Access Among Low-Income Chicago Residents
 > 原文: [https://arxiv.org/abs/2603.25800](https://arxiv.org/abs/2603.25800)

@@ -1,11 +1,12 @@
 ---
-title: "Massive Parallel Deep Reinforcement Learning for Active SLAM"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.25834
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25834
 next_step: skim
+priority: medium
+slack_ts: '1775014237.225329'
+source: cs.RO - Robotics
+status: unread
+title: Massive Parallel Deep Reinforcement Learning for Active SLAM
 ---
 # Massive Parallel Deep Reinforcement Learning for Active SLAM
 > 原文: [https://arxiv.org/abs/2603.25834](https://arxiv.org/abs/2603.25834)

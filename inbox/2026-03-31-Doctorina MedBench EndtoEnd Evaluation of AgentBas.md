@@ -1,11 +1,12 @@
 ---
-title: "Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.25821
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25821
 next_step: skim
+priority: high
+slack_ts: '1775014232.885229'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI'
 ---
 # Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI
 > 原文: [https://arxiv.org/abs/2603.25821](https://arxiv.org/abs/2603.25821)

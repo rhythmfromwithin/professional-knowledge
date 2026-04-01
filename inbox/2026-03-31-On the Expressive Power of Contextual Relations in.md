@@ -1,11 +1,12 @@
 ---
-title: "On the Expressive Power of Contextual Relations in Transformers"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.25860
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25860
 next_step: skim
+priority: medium
+slack_ts: '1775014237.316129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: On the Expressive Power of Contextual Relations in Transformers
 ---
 # On the Expressive Power of Contextual Relations in Transformers
 > 原文: [https://arxiv.org/abs/2603.25860](https://arxiv.org/abs/2603.25860)

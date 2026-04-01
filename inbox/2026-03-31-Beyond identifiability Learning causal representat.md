@@ -1,11 +1,13 @@
 ---
-title: "Beyond identifiability: Learning causal representations with few environments and finite samples"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.25796
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25796
 next_step: skim
+priority: medium
+slack_ts: '1775014231.788199'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Beyond identifiability: Learning causal representations with few environments
+  and finite samples'
 ---
 # Beyond identifiability: Learning causal representations with few environments and finite samples
 > 原文: [https://arxiv.org/abs/2603.25796](https://arxiv.org/abs/2603.25796)

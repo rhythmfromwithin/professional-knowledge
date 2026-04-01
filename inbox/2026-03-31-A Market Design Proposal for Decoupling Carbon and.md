@@ -1,11 +1,12 @@
 ---
-title: "A Market Design Proposal for Decoupling Carbon and Electricity Prices"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.25874
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25874
 next_step: skim
+priority: low
+slack_ts: '1775014230.476039'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: A Market Design Proposal for Decoupling Carbon and Electricity Prices
 ---
 # A Market Design Proposal for Decoupling Carbon and Electricity Prices
 > 原文: [https://arxiv.org/abs/2603.25874](https://arxiv.org/abs/2603.25874)

@@ -1,11 +1,13 @@
 ---
-title: "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.25747
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25747
 next_step: skim
+priority: high
+slack_ts: '1775014231.680269'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional
+  Environments'
 ---
 # BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments
 > 原文: [https://arxiv.org/abs/2603.25747](https://arxiv.org/abs/2603.25747)

@@ -1,11 +1,12 @@
 ---
-title: "On the RAID dataset of perceptual responses: analysis and statistical causes"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.26267
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26267
 next_step: skim
+priority: low
+slack_ts: '1775014237.831949'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'On the RAID dataset of perceptual responses: analysis and statistical causes'
 ---
 # On the RAID dataset of perceptual responses: analysis and statistical causes
 > 原文: [https://arxiv.org/abs/2603.26267](https://arxiv.org/abs/2603.26267)
