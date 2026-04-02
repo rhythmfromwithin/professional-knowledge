@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Human-AI Safety: A Framework for Measuring Harmful Capability Uplift"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.26676
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26676
 next_step: skim
+priority: medium
+slack_ts: '1775098526.041199'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Evaluating Human-AI Safety: A Framework for Measuring Harmful Capability Uplift'
 ---
 # Evaluating Human-AI Safety: A Framework for Measuring Harmful Capability Uplift
 > 原文: [https://arxiv.org/abs/2603.26676](https://arxiv.org/abs/2603.26676)

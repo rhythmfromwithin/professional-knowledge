@@ -1,11 +1,12 @@
 ---
-title: "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.26838
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26838
 next_step: skim
+priority: high
+slack_ts: '1775098523.384349'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI
 ---
 # Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI
 > 原文: [https://arxiv.org/abs/2603.26838](https://arxiv.org/abs/2603.26838)

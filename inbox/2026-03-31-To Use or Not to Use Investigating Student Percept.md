@@ -1,11 +1,13 @@
 ---
-title: "To Use or Not to Use: Investigating Student Perceptions of Faculty Generative AI Usage in Higher Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.25932
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25932
 next_step: skim
+priority: medium
+slack_ts: '1775098516.642149'
+source: cs.CY - Computers and Society
+status: unread
+title: 'To Use or Not to Use: Investigating Student Perceptions of Faculty Generative
+  AI Usage in Higher Education'
 ---
 # To Use or Not to Use: Investigating Student Perceptions of Faculty Generative AI Usage in Higher Education
 > 原文: [https://arxiv.org/abs/2603.25932](https://arxiv.org/abs/2603.25932)

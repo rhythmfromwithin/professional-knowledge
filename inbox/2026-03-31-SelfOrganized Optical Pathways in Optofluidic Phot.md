@@ -1,11 +1,12 @@
 ---
-title: "Self-Organized Optical Pathways in Optofluidic Photonic Crystals"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.25845
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25845
 next_step: skim
+priority: low
+slack_ts: '1775098515.562449'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Self-Organized Optical Pathways in Optofluidic Photonic Crystals
 ---
 # Self-Organized Optical Pathways in Optofluidic Photonic Crystals
 > 原文: [https://arxiv.org/abs/2603.25845](https://arxiv.org/abs/2603.25845)

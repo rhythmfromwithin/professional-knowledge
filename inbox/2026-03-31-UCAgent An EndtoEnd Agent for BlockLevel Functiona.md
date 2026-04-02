@@ -1,11 +1,12 @@
 ---
-title: "UCAgent: An End-to-End Agent for Block-Level Functional Verification"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.25768
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25768
 next_step: skim
+priority: low
+slack_ts: '1775098517.038319'
+source: cs.SE - Software Engineering
+status: unread
+title: 'UCAgent: An End-to-End Agent for Block-Level Functional Verification'
 ---
 # UCAgent: An End-to-End Agent for Block-Level Functional Verification
 > 原文: [https://arxiv.org/abs/2603.25768](https://arxiv.org/abs/2603.25768)

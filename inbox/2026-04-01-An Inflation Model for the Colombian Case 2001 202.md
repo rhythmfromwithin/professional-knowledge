@@ -1,11 +1,12 @@
 ---
-title: "An Inflation Model for the Colombian Case. 2001 2025"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.26928
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26928
 next_step: skim
+priority: low
+slack_ts: '1775098520.153969'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: An Inflation Model for the Colombian Case. 2001 2025
 ---
 # An Inflation Model for the Colombian Case. 2001 2025
 > 原文: [https://arxiv.org/abs/2603.26928](https://arxiv.org/abs/2603.26928)

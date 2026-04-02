@@ -1,11 +1,13 @@
 ---
-title: "Do we still need coins? The role of payment system innovation, the pandemic, and the coin's purchasing power on coin demand in Indonesia"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.27717
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.27717
 next_step: skim
+priority: low
+slack_ts: '1775098524.424729'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Do we still need coins? The role of payment system innovation, the pandemic,
+  and the coin's purchasing power on coin demand in Indonesia
 ---
 # Do we still need coins? The role of payment system innovation, the pandemic, and the coin's purchasing power on coin demand in Indonesia
 > 原文: [https://arxiv.org/abs/2603.27717](https://arxiv.org/abs/2603.27717)

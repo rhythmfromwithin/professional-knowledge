@@ -1,11 +1,13 @@
 ---
-title: "SAHMM-VAE: A Source-Wise Adaptive Hidden Markov Prior Variational Autoencoder for Unsupervised Blind Source Separation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.25776
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25776
 next_step: skim
+priority: medium
+slack_ts: '1775098515.101879'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'SAHMM-VAE: A Source-Wise Adaptive Hidden Markov Prior Variational Autoencoder
+  for Unsupervised Blind Source Separation'
 ---
 # SAHMM-VAE: A Source-Wise Adaptive Hidden Markov Prior Variational Autoencoder for Unsupervised Blind Source Separation
 > 原文: [https://arxiv.org/abs/2603.25776](https://arxiv.org/abs/2603.25776)

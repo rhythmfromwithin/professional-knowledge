@@ -1,11 +1,13 @@
 ---
-title: "GISclaw: An Open-Source LLM-Powered Agent System for Full-Stack Geospatial Analysis"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.26845
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26845
 next_step: skim
+priority: low
+slack_ts: '1775098526.845279'
+source: cs.SE - Software Engineering
+status: unread
+title: 'GISclaw: An Open-Source LLM-Powered Agent System for Full-Stack Geospatial
+  Analysis'
 ---
 # GISclaw: An Open-Source LLM-Powered Agent System for Full-Stack Geospatial Analysis
 > 原文: [https://arxiv.org/abs/2603.26845](https://arxiv.org/abs/2603.26845)

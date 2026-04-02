@@ -1,11 +1,13 @@
 ---
-title: "Can AI be a Teaching Partner? Evaluating ChatGPT, Gemini, and DeepSeek across Three Teaching Strategies"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.26673
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26673
 next_step: skim
+priority: medium
+slack_ts: '1775098522.776599'
+source: cs.CY - Computers and Society
+status: unread
+title: Can AI be a Teaching Partner? Evaluating ChatGPT, Gemini, and DeepSeek across
+  Three Teaching Strategies
 ---
 # Can AI be a Teaching Partner? Evaluating ChatGPT, Gemini, and DeepSeek across Three Teaching Strategies
 > 原文: [https://arxiv.org/abs/2603.26673](https://arxiv.org/abs/2603.26673)

@@ -1,11 +1,13 @@
 ---
-title: "Relational graph-driven differential denoising and diffusion attention fusion for multimodal conversation emotion recognition"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.25752
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25752
 next_step: skim
+priority: high
+slack_ts: '1775098514.392969'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Relational graph-driven differential denoising and diffusion attention fusion
+  for multimodal conversation emotion recognition
 ---
 # Relational graph-driven differential denoising and diffusion attention fusion for multimodal conversation emotion recognition
 > 原文: [https://arxiv.org/abs/2603.25752](https://arxiv.org/abs/2603.25752)

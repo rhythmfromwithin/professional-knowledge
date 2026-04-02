@@ -1,11 +1,13 @@
 ---
-title: "Fast Topology-Aware Lossy Data Compression with Full Preservation of Critical Points and Local Order"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.26968
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26968
 next_step: skim
+priority: medium
+slack_ts: '1775098526.244729'
+source: cs.DC - Distributed Computing
+status: unread
+title: Fast Topology-Aware Lossy Data Compression with Full Preservation of Critical
+  Points and Local Order
 ---
 # Fast Topology-Aware Lossy Data Compression with Full Preservation of Critical Points and Local Order
 > 原文: [https://arxiv.org/abs/2603.26968](https://arxiv.org/abs/2603.26968)

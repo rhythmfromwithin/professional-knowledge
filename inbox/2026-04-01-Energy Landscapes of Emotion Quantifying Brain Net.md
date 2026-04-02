@@ -1,11 +1,13 @@
 ---
-title: "Energy Landscapes of Emotion: Quantifying Brain Network Stability During Happy and Sad Face Processing Using EEG-Based Hopfield Energy"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.27644
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.27644
 next_step: skim
+priority: low
+slack_ts: '1775098525.797639'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Energy Landscapes of Emotion: Quantifying Brain Network Stability During Happy
+  and Sad Face Processing Using EEG-Based Hopfield Energy'
 ---
 # Energy Landscapes of Emotion: Quantifying Brain Network Stability During Happy and Sad Face Processing Using EEG-Based Hopfield Energy
 > 原文: [https://arxiv.org/abs/2603.27644](https://arxiv.org/abs/2603.27644)

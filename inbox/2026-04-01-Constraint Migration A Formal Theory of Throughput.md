@@ -1,11 +1,12 @@
 ---
-title: "Constraint Migration: A Formal Theory of Throughput in AI Cybersecurity Pipelines"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.26733
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26733
 next_step: skim
+priority: low
+slack_ts: '1775098523.792219'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Constraint Migration: A Formal Theory of Throughput in AI Cybersecurity Pipelines'
 ---
 # Constraint Migration: A Formal Theory of Throughput in AI Cybersecurity Pipelines
 > 原文: [https://arxiv.org/abs/2603.26733](https://arxiv.org/abs/2603.26733)

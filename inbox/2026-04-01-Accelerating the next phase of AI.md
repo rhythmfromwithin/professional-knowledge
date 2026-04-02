@@ -1,11 +1,12 @@
 ---
-title: "Accelerating the next phase of AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/accelerating-the-next-phase-ai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/accelerating-the-next-phase-ai
 next_step: skim
+priority: high
+slack_ts: '1775098519.139639'
+source: OpenAI Blog
+status: unread
+title: Accelerating the next phase of AI
 ---
 # Accelerating the next phase of AI
 > 原文: [https://openai.com/index/accelerating-the-next-phase-ai](https://openai.com/index/accelerating-the-next-phase-ai)

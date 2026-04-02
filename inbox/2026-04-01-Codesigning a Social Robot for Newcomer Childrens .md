@@ -1,11 +1,12 @@
 ---
-title: "Co-designing a Social Robot for Newcomer Children's Cultural and Language Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.26674
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26674
 next_step: skim
+priority: medium
+slack_ts: '1775098522.982949'
+source: cs.RO - Robotics
+status: unread
+title: Co-designing a Social Robot for Newcomer Children's Cultural and Language Learning
 ---
 # Co-designing a Social Robot for Newcomer Children's Cultural and Language Learning
 > 原文: [https://arxiv.org/abs/2603.26674](https://arxiv.org/abs/2603.26674)

@@ -1,11 +1,12 @@
 ---
-title: "Responsibility Measures for Conjunctive Queries with Negation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2601.04868
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2601.04868
 next_step: skim
+priority: low
+slack_ts: '1775098514.703099'
+source: cs.DB - Databases
+status: unread
+title: Responsibility Measures for Conjunctive Queries with Negation
 ---
 # Responsibility Measures for Conjunctive Queries with Negation
 > 原文: [https://arxiv.org/abs/2601.04868](https://arxiv.org/abs/2601.04868)

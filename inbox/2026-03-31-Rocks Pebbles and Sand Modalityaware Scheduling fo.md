@@ -1,11 +1,13 @@
 ---
-title: "Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.26498
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26498
 next_step: skim
+priority: medium
+slack_ts: '1775098514.904149'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language
+  Model Inference'
 ---
 # Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference
 > 原文: [https://arxiv.org/abs/2603.26498](https://arxiv.org/abs/2603.26498)

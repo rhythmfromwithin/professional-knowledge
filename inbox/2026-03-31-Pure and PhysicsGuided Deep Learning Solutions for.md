@@ -1,11 +1,13 @@
 ---
-title: "Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.25779
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.25779
 next_step: skim
+priority: high
+slack_ts: '1775098513.119489'
+source: cs.LG - Machine Learning
+status: unread
+title: Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater
+  Level Prediction at Arbitrary Locations
 ---
 # Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations
 > 原文: [https://arxiv.org/abs/2603.25779](https://arxiv.org/abs/2603.25779)

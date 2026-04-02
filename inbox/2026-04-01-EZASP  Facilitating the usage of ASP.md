@@ -1,11 +1,12 @@
 ---
-title: "EZASP -- Facilitating the usage of ASP"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.26863
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26863
 next_step: skim
+priority: low
+slack_ts: '1775098524.653169'
+source: cs.SE - Software Engineering
+status: unread
+title: EZASP -- Facilitating the usage of ASP
 ---
 # EZASP -- Facilitating the usage of ASP
 > 原文: [https://arxiv.org/abs/2603.26863](https://arxiv.org/abs/2603.26863)

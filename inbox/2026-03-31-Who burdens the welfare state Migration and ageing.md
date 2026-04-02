@@ -1,11 +1,13 @@
 ---
-title: "Who burdens the welfare state? Migration and ageing in housing, education, and healthcare demand"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.26525
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26525
 next_step: skim
+priority: low
+slack_ts: '1775098518.085929'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who burdens the welfare state? Migration and ageing in housing, education,
+  and healthcare demand
 ---
 # Who burdens the welfare state? Migration and ageing in housing, education, and healthcare demand
 > 原文: [https://arxiv.org/abs/2603.26525](https://arxiv.org/abs/2603.26525)

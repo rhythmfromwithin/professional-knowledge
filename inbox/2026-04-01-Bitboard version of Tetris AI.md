@@ -1,11 +1,12 @@
 ---
-title: "Bitboard version of Tetris AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.26765
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26765
 next_step: skim
+priority: high
+slack_ts: '1775098521.174719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Bitboard version of Tetris AI
 ---
 # Bitboard version of Tetris AI
 > 原文: [https://arxiv.org/abs/2603.26765](https://arxiv.org/abs/2603.26765)

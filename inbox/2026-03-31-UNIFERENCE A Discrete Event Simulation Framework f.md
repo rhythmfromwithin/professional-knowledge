@@ -1,11 +1,13 @@
 ---
-title: "UNIFERENCE: A Discrete Event Simulation Framework for Developing Distributed AI Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.26469
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26469
 next_step: skim
+priority: medium
+slack_ts: '1775098517.278459'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'UNIFERENCE: A Discrete Event Simulation Framework for Developing Distributed
+  AI Models'
 ---
 # UNIFERENCE: A Discrete Event Simulation Framework for Developing Distributed AI Models
 > 原文: [https://arxiv.org/abs/2603.26469](https://arxiv.org/abs/2603.26469)

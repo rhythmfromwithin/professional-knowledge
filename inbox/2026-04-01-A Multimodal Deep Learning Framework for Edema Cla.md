@@ -1,11 +1,13 @@
 ---
-title: "A Multimodal Deep Learning Framework for Edema Classification Using HCT and Clinical Data"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.26726
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26726
 next_step: skim
+priority: medium
+slack_ts: '1775098518.491339'
+source: cs.CV - Computer Vision
+status: unread
+title: A Multimodal Deep Learning Framework for Edema Classification Using HCT and
+  Clinical Data
 ---
 # A Multimodal Deep Learning Framework for Edema Classification Using HCT and Clinical Data
 > 原文: [https://arxiv.org/abs/2603.26726](https://arxiv.org/abs/2603.26726)

@@ -1,11 +1,13 @@
 ---
-title: "Bridging the Awareness Gap: Socially Mediated State Externalization for Transparent Distributed Home Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.26686
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26686
 next_step: skim
+priority: medium
+slack_ts: '1775098521.761999'
+source: cs.RO - Robotics
+status: unread
+title: 'Bridging the Awareness Gap: Socially Mediated State Externalization for Transparent
+  Distributed Home Robots'
 ---
 # Bridging the Awareness Gap: Socially Mediated State Externalization for Transparent Distributed Home Robots
 > 原文: [https://arxiv.org/abs/2603.26686](https://arxiv.org/abs/2603.26686)

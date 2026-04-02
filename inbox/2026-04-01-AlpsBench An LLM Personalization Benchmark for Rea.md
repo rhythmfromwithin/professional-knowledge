@@ -1,11 +1,13 @@
 ---
-title: "AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.26680
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26680
 next_step: skim
+priority: high
+slack_ts: '1775098519.541359'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization
+  and Preference Alignment'
 ---
 # AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment
 > 原文: [https://arxiv.org/abs/2603.26680](https://arxiv.org/abs/2603.26680)

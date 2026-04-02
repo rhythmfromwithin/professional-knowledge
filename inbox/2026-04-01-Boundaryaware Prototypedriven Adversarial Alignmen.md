@@ -1,11 +1,13 @@
 ---
-title: "Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.26713
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26713
 next_step: skim
+priority: high
+slack_ts: '1775098521.372479'
+source: cs.LG - Machine Learning
+status: unread
+title: Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG
+  Emotion Recognition
 ---
 # Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition
 > 原文: [https://arxiv.org/abs/2603.26713](https://arxiv.org/abs/2603.26713)

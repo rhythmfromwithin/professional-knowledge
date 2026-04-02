@@ -1,11 +1,13 @@
 ---
-title: "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.26076
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26076
 next_step: skim
+priority: high
+slack_ts: '1775098515.758959'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Semi-Automated Knowledge Engineering and Process Mapping for Total Airport
+  Management
 ---
 # Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management
 > 原文: [https://arxiv.org/abs/2603.26076](https://arxiv.org/abs/2603.26076)

@@ -1,11 +1,13 @@
 ---
-title: "SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.26240
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26240
 next_step: skim
+priority: low
+slack_ts: '1775098516.230409'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via
+  Dynamic Speciation'
 ---
 # SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation
 > 原文: [https://arxiv.org/abs/2603.26240](https://arxiv.org/abs/2603.26240)

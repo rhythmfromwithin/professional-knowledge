@@ -1,11 +1,13 @@
 ---
-title: "A Density-Delay Law for Stable Event-Driven State Progression in Open Distributed Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.26758
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26758
 next_step: skim
+priority: medium
+slack_ts: '1775098518.284479'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Density-Delay Law for Stable Event-Driven State Progression in Open Distributed
+  Systems
 ---
 # A Density-Delay Law for Stable Event-Driven State Progression in Open Distributed Systems
 > 原文: [https://arxiv.org/abs/2603.26758](https://arxiv.org/abs/2603.26758)

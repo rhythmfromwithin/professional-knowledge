@@ -1,11 +1,12 @@
 ---
-title: "Contextual Graph Representations for Task-Driven 3D Perception and Planning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.26685
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26685
 next_step: skim
+priority: medium
+slack_ts: '1775098523.988919'
+source: cs.RO - Robotics
+status: unread
+title: Contextual Graph Representations for Task-Driven 3D Perception and Planning
 ---
 # Contextual Graph Representations for Task-Driven 3D Perception and Planning
 > 原文: [https://arxiv.org/abs/2603.26685](https://arxiv.org/abs/2603.26685)

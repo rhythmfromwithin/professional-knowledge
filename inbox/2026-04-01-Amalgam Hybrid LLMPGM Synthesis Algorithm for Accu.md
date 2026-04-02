@@ -1,11 +1,12 @@
 ---
-title: "Amalgam: Hybrid LLM-PGM Synthesis Algorithm for Accuracy and Realism"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.27254
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.27254
 next_step: skim
+priority: low
+slack_ts: '1775098519.738049'
+source: cs.DB - Databases
+status: unread
+title: 'Amalgam: Hybrid LLM-PGM Synthesis Algorithm for Accuracy and Realism'
 ---
 # Amalgam: Hybrid LLM-PGM Synthesis Algorithm for Accuracy and Realism
 > 原文: [https://arxiv.org/abs/2603.27254](https://arxiv.org/abs/2603.27254)

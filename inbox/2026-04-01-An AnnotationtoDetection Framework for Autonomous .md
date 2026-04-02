@@ -1,11 +1,13 @@
 ---
-title: "An Annotation-to-Detection Framework for Autonomous and Robust Vine Trunk Localization in the Field by Mobile Agricultural Robots"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.26724
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26724
 next_step: skim
+priority: medium
+slack_ts: '1775098519.943029'
+source: cs.CV - Computer Vision
+status: unread
+title: An Annotation-to-Detection Framework for Autonomous and Robust Vine Trunk Localization
+  in the Field by Mobile Agricultural Robots
 ---
 # An Annotation-to-Detection Framework for Autonomous and Robust Vine Trunk Localization in the Field by Mobile Agricultural Robots
 > 原文: [https://arxiv.org/abs/2603.26724](https://arxiv.org/abs/2603.26724)

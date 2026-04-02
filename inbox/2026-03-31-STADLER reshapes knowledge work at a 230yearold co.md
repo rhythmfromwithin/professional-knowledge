@@ -1,11 +1,12 @@
 ---
-title: "STADLER reshapes knowledge work at a 230-year-old company"
-source: "OpenAI Blog"
-link: https://openai.com/index/stadler
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/stadler
 next_step: skim
+priority: high
+slack_ts: '1775098515.307649'
+source: OpenAI Blog
+status: unread
+title: STADLER reshapes knowledge work at a 230-year-old company
 ---
 # STADLER reshapes knowledge work at a 230-year-old company
 > 原文: [https://openai.com/index/stadler](https://openai.com/index/stadler)

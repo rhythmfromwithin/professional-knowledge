@@ -1,11 +1,12 @@
 ---
-title: "Brain-inspired AI for Edge Intelligence: a systematic review"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.26722
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26722
 next_step: skim
+priority: low
+slack_ts: '1775098521.565789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Brain-inspired AI for Edge Intelligence: a systematic review'
 ---
 # Brain-inspired AI for Edge Intelligence: a systematic review
 > 原文: [https://arxiv.org/abs/2603.26722](https://arxiv.org/abs/2603.26722)
