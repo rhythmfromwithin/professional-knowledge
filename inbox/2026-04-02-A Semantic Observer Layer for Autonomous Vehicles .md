@@ -1,11 +1,13 @@
 ---
-title: "A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.28888
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28888
 next_step: skim
+priority: medium
+slack_ts: '1775185061.491179'
+source: cs.RO - Robotics
+status: unread
+title: 'A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility
+  Study of VLMs for Low-Latency Anomaly Detection'
 ---
 # A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection
 > 原文: [https://arxiv.org/abs/2603.28888](https://arxiv.org/abs/2603.28888)

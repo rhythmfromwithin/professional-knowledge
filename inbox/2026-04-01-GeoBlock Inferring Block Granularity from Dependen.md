@@ -1,11 +1,13 @@
 ---
-title: "GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.26675
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26675
 next_step: skim
+priority: high
+slack_ts: '1775185052.713829'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion
+  Language Models'
 ---
 # GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models
 > 原文: [https://arxiv.org/abs/2603.26675](https://arxiv.org/abs/2603.26675)

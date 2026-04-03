@@ -1,11 +1,12 @@
 ---
-title: "On the Carbon Footprint of Economic Research in the Age of Generative AI"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.26712
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26712
 next_step: skim
+priority: low
+slack_ts: '1775185056.105119'
+source: cs.SE - Software Engineering
+status: unread
+title: On the Carbon Footprint of Economic Research in the Age of Generative AI
 ---
 # On the Carbon Footprint of Economic Research in the Age of Generative AI
 > 原文: [https://arxiv.org/abs/2603.26712](https://arxiv.org/abs/2603.26712)

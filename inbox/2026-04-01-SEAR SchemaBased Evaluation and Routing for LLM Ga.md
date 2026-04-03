@@ -1,11 +1,12 @@
 ---
-title: "SEAR: Schema-Based Evaluation and Routing for LLM Gateways"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.26728
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26728
 next_step: skim
+priority: low
+slack_ts: '1775185057.876029'
+source: cs.DB - Databases
+status: unread
+title: 'SEAR: Schema-Based Evaluation and Routing for LLM Gateways'
 ---
 # SEAR: Schema-Based Evaluation and Routing for LLM Gateways
 > 原文: [https://arxiv.org/abs/2603.26728](https://arxiv.org/abs/2603.26728)

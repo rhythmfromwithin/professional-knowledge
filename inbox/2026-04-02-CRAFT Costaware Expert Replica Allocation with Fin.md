@@ -1,11 +1,12 @@
 ---
-title: "CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.28768
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28768
 next_step: skim
+priority: medium
+slack_ts: '1775185066.263529'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations'
 ---
 # CRAFT: Cost-aware Expert Replica Allocation with Fine-Grained Layerwise Estimations
 > 原文: [https://arxiv.org/abs/2603.28768](https://arxiv.org/abs/2603.28768)

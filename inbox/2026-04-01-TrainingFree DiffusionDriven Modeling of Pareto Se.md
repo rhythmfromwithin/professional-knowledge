@@ -1,11 +1,13 @@
 ---
-title: "Training-Free Diffusion-Driven Modeling of Pareto Set Evolution for Dynamic Multiobjective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.26749
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26749
 next_step: skim
+priority: low
+slack_ts: '1775185059.940709'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Training-Free Diffusion-Driven Modeling of Pareto Set Evolution for Dynamic
+  Multiobjective Optimization
 ---
 # Training-Free Diffusion-Driven Modeling of Pareto Set Evolution for Dynamic Multiobjective Optimization
 > 原文: [https://arxiv.org/abs/2603.26749](https://arxiv.org/abs/2603.26749)

@@ -1,11 +1,12 @@
 ---
-title: "Build a FinOps agent using Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1775185065.217029'
+source: AWS Blog
+status: unread
+title: Build a FinOps agent using Amazon Bedrock AgentCore
 ---
 # Build a FinOps agent using Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/)

@@ -1,11 +1,13 @@
 ---
-title: "Convergent Representations of Linguistic Constructions in Human and Artificial Neural Systems"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.29617
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29617
 next_step: skim
+priority: low
+slack_ts: '1775185067.302709'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Convergent Representations of Linguistic Constructions in Human and Artificial
+  Neural Systems
 ---
 # Convergent Representations of Linguistic Constructions in Human and Artificial Neural Systems
 > 原文: [https://arxiv.org/abs/2603.29617](https://arxiv.org/abs/2603.29617)

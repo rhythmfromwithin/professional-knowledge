@@ -1,11 +1,12 @@
 ---
-title: "OneComp: One-Line Revolution for Generative AI Model Compression"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.28845
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28845
 next_step: skim
+priority: high
+slack_ts: '1775185072.474509'
+source: cs.LG - Machine Learning
+status: unread
+title: 'OneComp: One-Line Revolution for Generative AI Model Compression'
 ---
 # OneComp: One-Line Revolution for Generative AI Model Compression
 > 原文: [https://arxiv.org/abs/2603.28845](https://arxiv.org/abs/2603.28845)

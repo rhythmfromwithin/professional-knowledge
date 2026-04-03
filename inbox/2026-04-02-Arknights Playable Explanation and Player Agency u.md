@@ -1,11 +1,12 @@
 ---
-title: "Arknights: Playable Explanation and Player Agency under Opacity"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.28775
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28775
 next_step: skim
+priority: low
+slack_ts: '1775185063.831009'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Arknights: Playable Explanation and Player Agency under Opacity'
 ---
 # Arknights: Playable Explanation and Player Agency under Opacity
 > 原文: [https://arxiv.org/abs/2603.28775](https://arxiv.org/abs/2603.28775)

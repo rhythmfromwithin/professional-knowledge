@@ -1,11 +1,12 @@
 ---
-title: "Learning to Select Visual In-Context Demonstrations"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.26775
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26775
 next_step: skim
+priority: high
+slack_ts: '1775185054.842139'
+source: cs.LG - Machine Learning
+status: unread
+title: Learning to Select Visual In-Context Demonstrations
 ---
 # Learning to Select Visual In-Context Demonstrations
 > 原文: [https://arxiv.org/abs/2603.26775](https://arxiv.org/abs/2603.26775)

@@ -1,11 +1,13 @@
 ---
-title: "The Nonverbal Gap: Toward Affective Computer Vision for Safer and More Equitable Online Dating"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.26727
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26727
 next_step: skim
+priority: medium
+slack_ts: '1775185059.680919'
+source: cs.CV - Computer Vision
+status: unread
+title: 'The Nonverbal Gap: Toward Affective Computer Vision for Safer and More Equitable
+  Online Dating'
 ---
 # The Nonverbal Gap: Toward Affective Computer Vision for Safer and More Equitable Online Dating
 > 原文: [https://arxiv.org/abs/2603.26727](https://arxiv.org/abs/2603.26727)

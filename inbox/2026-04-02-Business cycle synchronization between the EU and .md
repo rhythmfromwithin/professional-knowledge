@@ -1,11 +1,13 @@
 ---
-title: "Business cycle synchronization between the EU and Western Balkan candidate economies: A Wavelet Analysis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.28951
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28951
 next_step: skim
+priority: low
+slack_ts: '1775185066.008829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Business cycle synchronization between the EU and Western Balkan candidate
+  economies: A Wavelet Analysis'
 ---
 # Business cycle synchronization between the EU and Western Balkan candidate economies: A Wavelet Analysis
 > 原文: [https://arxiv.org/abs/2603.28951](https://arxiv.org/abs/2603.28951)

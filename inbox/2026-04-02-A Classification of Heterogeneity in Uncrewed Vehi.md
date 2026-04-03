@@ -1,11 +1,13 @@
 ---
-title: "A Classification of Heterogeneity in Uncrewed Vehicle Swarms and the Effects of Its Inclusion on Overall Swarm Resilience"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2603.28831
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28831
 next_step: skim
+priority: medium
+slack_ts: '1775185060.970499'
+source: cs.RO - Robotics
+status: unread
+title: A Classification of Heterogeneity in Uncrewed Vehicle Swarms and the Effects
+  of Its Inclusion on Overall Swarm Resilience
 ---
 # A Classification of Heterogeneity in Uncrewed Vehicle Swarms and the Effects of Its Inclusion on Overall Swarm Resilience
 > 原文: [https://arxiv.org/abs/2603.28831](https://arxiv.org/abs/2603.28831)

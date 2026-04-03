@@ -1,11 +1,13 @@
 ---
-title: "Information in a recurrent Retina-V1 network with realistic noise, feedback and nonlinearities"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.27347
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.27347
 next_step: skim
+priority: low
+slack_ts: '1775185053.790499'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Information in a recurrent Retina-V1 network with realistic noise, feedback
+  and nonlinearities
 ---
 # Information in a recurrent Retina-V1 network with realistic noise, feedback and nonlinearities
 > 原文: [https://arxiv.org/abs/2603.27347](https://arxiv.org/abs/2603.27347)

@@ -1,11 +1,13 @@
 ---
-title: "DF-ACBlurGAN: Structure-Aware Conditional Generation of Internally Repeated Patterns for Biomaterial Microtopography Design"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.28776
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28776
 next_step: skim
+priority: medium
+slack_ts: '1775185067.810439'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DF-ACBlurGAN: Structure-Aware Conditional Generation of Internally Repeated
+  Patterns for Biomaterial Microtopography Design'
 ---
 # DF-ACBlurGAN: Structure-Aware Conditional Generation of Internally Repeated Patterns for Biomaterial Microtopography Design
 > 原文: [https://arxiv.org/abs/2603.28776](https://arxiv.org/abs/2603.28776)

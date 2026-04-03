@@ -1,11 +1,12 @@
 ---
-title: "Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.28896
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28896
 next_step: skim
+priority: medium
+slack_ts: '1775185068.830899'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses'
 ---
 # Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses
 > 原文: [https://arxiv.org/abs/2603.28896](https://arxiv.org/abs/2603.28896)

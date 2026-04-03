@@ -1,11 +1,13 @@
 ---
-title: "Economics of Human and AI Collaboration: When is Partial Automation More Attractive than Full Automation?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.29121
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29121
 next_step: skim
+priority: low
+slack_ts: '1775185068.570829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Economics of Human and AI Collaboration: When is Partial Automation More Attractive
+  than Full Automation?'
 ---
 # Economics of Human and AI Collaboration: When is Partial Automation More Attractive than Full Automation?
 > 原文: [https://arxiv.org/abs/2603.29121](https://arxiv.org/abs/2603.29121)

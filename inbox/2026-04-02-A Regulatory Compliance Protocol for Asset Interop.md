@@ -1,11 +1,13 @@
 ---
-title: "A Regulatory Compliance Protocol for Asset Interoperability Between Traditional and Decentralized Finance in Tokenized Capital Markets"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.29278
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29278
 next_step: skim
+priority: medium
+slack_ts: '1775185061.229269'
+source: cs.CY - Computers and Society
+status: unread
+title: A Regulatory Compliance Protocol for Asset Interoperability Between Traditional
+  and Decentralized Finance in Tokenized Capital Markets
 ---
 # A Regulatory Compliance Protocol for Asset Interoperability Between Traditional and Decentralized Finance in Tokenized Capital Markets
 > 原文: [https://arxiv.org/abs/2603.29278](https://arxiv.org/abs/2603.29278)

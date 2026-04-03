@@ -1,11 +1,12 @@
 ---
-title: "Grounding Social Perception in Intuitive Physics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.27410
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.27410
 next_step: skim
+priority: low
+slack_ts: '1775185053.243389'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Grounding Social Perception in Intuitive Physics
 ---
 # Grounding Social Perception in Intuitive Physics
 > 原文: [https://arxiv.org/abs/2603.27410](https://arxiv.org/abs/2603.27410)

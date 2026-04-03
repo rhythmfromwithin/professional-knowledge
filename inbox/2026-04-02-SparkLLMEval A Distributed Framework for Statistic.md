@@ -1,11 +1,13 @@
 ---
-title: "Spark-LLM-Eval: A Distributed Framework for Statistically Rigorous Large Language Model Evaluation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.28769
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28769
 next_step: skim
+priority: medium
+slack_ts: '1775185074.617679'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Spark-LLM-Eval: A Distributed Framework for Statistically Rigorous Large Language
+  Model Evaluation'
 ---
 # Spark-LLM-Eval: A Distributed Framework for Statistically Rigorous Large Language Model Evaluation
 > 原文: [https://arxiv.org/abs/2603.28769](https://arxiv.org/abs/2603.28769)

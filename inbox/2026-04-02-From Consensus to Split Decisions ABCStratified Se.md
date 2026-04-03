@@ -1,11 +1,13 @@
 ---
-title: "From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral Histories"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.28913
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28913
 next_step: skim
+priority: high
+slack_ts: '1775185069.580949'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral
+  Histories'
 ---
 # From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral Histories
 > 原文: [https://arxiv.org/abs/2603.28913](https://arxiv.org/abs/2603.28913)

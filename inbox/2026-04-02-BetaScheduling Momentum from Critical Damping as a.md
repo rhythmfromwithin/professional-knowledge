@@ -1,11 +1,13 @@
 ---
-title: "Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.28921
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28921
 next_step: skim
+priority: high
+slack_ts: '1775185064.948609'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction
+  Tool for Neural Network Training'
 ---
 # Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training
 > 原文: [https://arxiv.org/abs/2603.28921](https://arxiv.org/abs/2603.28921)

@@ -1,11 +1,12 @@
 ---
-title: "AI prediction leads people to forgo guaranteed rewards"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.28944
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28944
 next_step: skim
+priority: low
+slack_ts: '1775185062.251619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: AI prediction leads people to forgo guaranteed rewards
 ---
 # AI prediction leads people to forgo guaranteed rewards
 > 原文: [https://arxiv.org/abs/2603.28944](https://arxiv.org/abs/2603.28944)

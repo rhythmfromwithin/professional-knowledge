@@ -1,11 +1,12 @@
 ---
-title: "Focus360: Guiding User Attention in Immersive Videos for VR"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.28774
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28774
 next_step: skim
+priority: low
+slack_ts: '1775185069.081479'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Focus360: Guiding User Attention in Immersive Videos for VR'
 ---
 # Focus360: Guiding User Attention in Immersive Videos for VR
 > 原文: [https://arxiv.org/abs/2603.28774](https://arxiv.org/abs/2603.28774)

@@ -1,11 +1,12 @@
 ---
-title: "DeepEye: A Steerable Self-driving Data Agent System"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.28889
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28889
 next_step: skim
+priority: low
+slack_ts: '1775185068.071829'
+source: cs.DB - Databases
+status: unread
+title: 'DeepEye: A Steerable Self-driving Data Agent System'
 ---
 # DeepEye: A Steerable Self-driving Data Agent System
 > 原文: [https://arxiv.org/abs/2603.28889](https://arxiv.org/abs/2603.28889)

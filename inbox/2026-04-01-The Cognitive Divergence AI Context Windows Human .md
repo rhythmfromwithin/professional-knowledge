@@ -1,11 +1,13 @@
 ---
-title: "The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.26707
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26707
 next_step: skim
+priority: high
+slack_ts: '1775185059.412399'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Cognitive Divergence: AI Context Windows, Human Attention Decline, and
+  the Delegation Feedback Loop'
 ---
 # The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop
 > 原文: [https://arxiv.org/abs/2603.26707](https://arxiv.org/abs/2603.26707)

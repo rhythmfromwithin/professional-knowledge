@@ -1,11 +1,12 @@
 ---
-title: "Operationalizing Perceptions of Agent Gender: Foundations and Guidelines"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.26682
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26682
 next_step: skim
+priority: low
+slack_ts: '1775185056.360209'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Operationalizing Perceptions of Agent Gender: Foundations and Guidelines'
 ---
 # Operationalizing Perceptions of Agent Gender: Foundations and Guidelines
 > 原文: [https://arxiv.org/abs/2603.26682](https://arxiv.org/abs/2603.26682)

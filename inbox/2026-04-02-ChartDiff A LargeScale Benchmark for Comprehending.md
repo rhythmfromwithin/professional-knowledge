@@ -1,11 +1,12 @@
 ---
-title: "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.28902
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28902
 next_step: skim
+priority: high
+slack_ts: '1775185066.794589'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts'
 ---
 # ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts
 > 原文: [https://arxiv.org/abs/2603.28902](https://arxiv.org/abs/2603.28902)

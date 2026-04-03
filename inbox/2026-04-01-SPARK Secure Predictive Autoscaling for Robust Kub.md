@@ -1,11 +1,12 @@
 ---
-title: "SPARK: Secure Predictive Autoscaling for Robust Kubernetes"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2603.26833
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26833
 next_step: skim
+priority: low
+slack_ts: '1775185058.123259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SPARK: Secure Predictive Autoscaling for Robust Kubernetes'
 ---
 # SPARK: Secure Predictive Autoscaling for Robust Kubernetes
 > 原文: [https://arxiv.org/abs/2603.26833](https://arxiv.org/abs/2603.26833)

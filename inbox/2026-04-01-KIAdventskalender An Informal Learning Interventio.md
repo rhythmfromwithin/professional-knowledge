@@ -1,11 +1,12 @@
 ---
-title: "KI-Adventskalender: An Informal Learning Intervention for Data & AI Literacy"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2603.26906
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26906
 next_step: skim
+priority: low
+slack_ts: '1775185054.310189'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'KI-Adventskalender: An Informal Learning Intervention for Data & AI Literacy'
 ---
 # KI-Adventskalender: An Informal Learning Intervention for Data & AI Literacy
 > 原文: [https://arxiv.org/abs/2603.26906](https://arxiv.org/abs/2603.26906)

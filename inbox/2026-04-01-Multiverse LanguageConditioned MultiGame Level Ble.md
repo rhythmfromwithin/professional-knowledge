@@ -1,11 +1,12 @@
 ---
-title: "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.26782
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26782
 next_step: skim
+priority: high
+slack_ts: '1775185055.862019'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation'
 ---
 # Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation
 > 原文: [https://arxiv.org/abs/2603.26782](https://arxiv.org/abs/2603.26782)

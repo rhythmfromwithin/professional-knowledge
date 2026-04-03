@@ -1,11 +1,13 @@
 ---
-title: "AI in Work-Based Learning: Understanding the Purposes and Effects of Intelligent Tools Among Student Interns"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.28786
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28786
 next_step: skim
+priority: medium
+slack_ts: '1775185062.003979'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI in Work-Based Learning: Understanding the Purposes and Effects of Intelligent
+  Tools Among Student Interns'
 ---
 # AI in Work-Based Learning: Understanding the Purposes and Effects of Intelligent Tools Among Student Interns
 > 原文: [https://arxiv.org/abs/2603.28786](https://arxiv.org/abs/2603.28786)

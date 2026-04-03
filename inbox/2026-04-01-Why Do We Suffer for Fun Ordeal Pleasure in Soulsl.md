@@ -1,11 +1,12 @@
 ---
-title: "Why Do We Suffer for Fun? Ordeal Pleasure in Souls-like Games"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.26677
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26677
 next_step: skim
+priority: medium
+slack_ts: '1775185060.718839'
+source: cs.CY - Computers and Society
+status: unread
+title: Why Do We Suffer for Fun? Ordeal Pleasure in Souls-like Games
 ---
 # Why Do We Suffer for Fun? Ordeal Pleasure in Souls-like Games
 > 原文: [https://arxiv.org/abs/2603.26677](https://arxiv.org/abs/2603.26677)

@@ -1,11 +1,13 @@
 ---
-title: "Koopman Operator Identification of Model Parameter Trajectories for Temporal Domain Generalization (KOMET)"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.26923
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26923
 next_step: skim
+priority: medium
+slack_ts: '1775185054.582129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Koopman Operator Identification of Model Parameter Trajectories for Temporal
+  Domain Generalization (KOMET)
 ---
 # Koopman Operator Identification of Model Parameter Trajectories for Temporal Domain Generalization (KOMET)
 > 原文: [https://arxiv.org/abs/2603.26923](https://arxiv.org/abs/2603.26923)

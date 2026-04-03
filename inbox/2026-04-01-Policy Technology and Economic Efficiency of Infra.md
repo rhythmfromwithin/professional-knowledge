@@ -1,11 +1,13 @@
 ---
-title: "Policy, Technology, and Economic Efficiency of Infrastructure Energy Investment: A Strategic Analysis for a Low-Carbon Future"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.26702
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26702
 next_step: skim
+priority: low
+slack_ts: '1775185057.121919'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Policy, Technology, and Economic Efficiency of Infrastructure Energy Investment:
+  A Strategic Analysis for a Low-Carbon Future'
 ---
 # Policy, Technology, and Economic Efficiency of Infrastructure Energy Investment: A Strategic Analysis for a Low-Carbon Future
 > 原文: [https://arxiv.org/abs/2603.26702](https://arxiv.org/abs/2603.26702)

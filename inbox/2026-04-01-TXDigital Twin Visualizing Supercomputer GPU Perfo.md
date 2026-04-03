@@ -1,11 +1,12 @@
 ---
-title: "TX-Digital Twin: Visualizing Supercomputer GPU Performance Data Stream"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2603.27125
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.27125
 next_step: skim
+priority: medium
+slack_ts: '1775185059.160639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TX-Digital Twin: Visualizing Supercomputer GPU Performance Data Stream'
 ---
 # TX-Digital Twin: Visualizing Supercomputer GPU Performance Data Stream
 > 原文: [https://arxiv.org/abs/2603.27125](https://arxiv.org/abs/2603.27125)

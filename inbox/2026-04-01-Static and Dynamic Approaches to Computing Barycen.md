@@ -1,11 +1,13 @@
 ---
-title: "Static and Dynamic Approaches to Computing Barycenters of Probability Measures on Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.26940
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26940
 next_step: skim
+priority: medium
+slack_ts: '1775185058.899079'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Static and Dynamic Approaches to Computing Barycenters of Probability Measures
+  on Graphs
 ---
 # Static and Dynamic Approaches to Computing Barycenters of Probability Measures on Graphs
 > 原文: [https://arxiv.org/abs/2603.26940](https://arxiv.org/abs/2603.26940)

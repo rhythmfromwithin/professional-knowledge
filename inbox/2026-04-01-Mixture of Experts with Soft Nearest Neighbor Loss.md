@@ -1,11 +1,13 @@
 ---
-title: "Mixture of Experts with Soft Nearest Neighbor Loss: Resolving Expert Collapse via Representation Disentanglement"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.26734
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26734
 next_step: skim
+priority: low
+slack_ts: '1775185055.605319'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Mixture of Experts with Soft Nearest Neighbor Loss: Resolving Expert Collapse
+  via Representation Disentanglement'
 ---
 # Mixture of Experts with Soft Nearest Neighbor Loss: Resolving Expert Collapse via Representation Disentanglement
 > 原文: [https://arxiv.org/abs/2603.26734](https://arxiv.org/abs/2603.26734)

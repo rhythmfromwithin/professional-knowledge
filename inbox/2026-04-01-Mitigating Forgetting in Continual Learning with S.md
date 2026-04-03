@@ -1,11 +1,12 @@
 ---
-title: "Mitigating Forgetting in Continual Learning with Selective Gradient Projection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.26671
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.26671
 next_step: skim
+priority: high
+slack_ts: '1775185055.353469'
+source: cs.LG - Machine Learning
+status: unread
+title: Mitigating Forgetting in Continual Learning with Selective Gradient Projection
 ---
 # Mitigating Forgetting in Continual Learning with Selective Gradient Projection
 > 原文: [https://arxiv.org/abs/2603.26671](https://arxiv.org/abs/2603.26671)
