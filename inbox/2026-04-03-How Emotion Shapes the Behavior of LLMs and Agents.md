@@ -1,11 +1,12 @@
 ---
-title: "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.00005
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00005
 next_step: skim
+priority: high
+slack_ts: '1775270908.224459'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study'
 ---
 # How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study
 > 原文: [https://arxiv.org/abs/2604.00005](https://arxiv.org/abs/2604.00005)

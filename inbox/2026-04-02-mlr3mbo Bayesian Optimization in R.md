@@ -1,11 +1,12 @@
 ---
-title: "mlr3mbo: Bayesian Optimization in R"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.29730
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29730
 next_step: skim
+priority: medium
+slack_ts: '1775270897.863229'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'mlr3mbo: Bayesian Optimization in R'
 ---
 # mlr3mbo: Bayesian Optimization in R
 > 原文: [https://arxiv.org/abs/2603.29730](https://arxiv.org/abs/2603.29730)

@@ -1,11 +1,12 @@
 ---
-title: "Generalizable Dense Reward for Long-Horizon Robotic Tasks"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.00055
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00055
 next_step: skim
+priority: medium
+slack_ts: '1775270906.608879'
+source: cs.RO - Robotics
+status: unread
+title: Generalizable Dense Reward for Long-Horizon Robotic Tasks
 ---
 # Generalizable Dense Reward for Long-Horizon Robotic Tasks
 > 原文: [https://arxiv.org/abs/2604.00055](https://arxiv.org/abs/2604.00055)

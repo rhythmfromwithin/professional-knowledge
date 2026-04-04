@@ -1,11 +1,12 @@
 ---
-title: "Mental Models of Causal Structure in Economics and Psychology"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2603.29070
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29070
 next_step: skim
+priority: low
+slack_ts: '1775270890.394969'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Mental Models of Causal Structure in Economics and Psychology
 ---
 # Mental Models of Causal Structure in Economics and Psychology
 > 原文: [https://arxiv.org/abs/2603.29070](https://arxiv.org/abs/2603.29070)

@@ -1,11 +1,13 @@
 ---
-title: "From Skew to Symmetry: Node-Interconnect Multi-Path Balancing with Execution-time Planning for Modern GPU Clusters"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.00317
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00317
 next_step: skim
+priority: medium
+slack_ts: '1775270905.422809'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'From Skew to Symmetry: Node-Interconnect Multi-Path Balancing with Execution-time
+  Planning for Modern GPU Clusters'
 ---
 # From Skew to Symmetry: Node-Interconnect Multi-Path Balancing with Execution-time Planning for Modern GPU Clusters
 > 原文: [https://arxiv.org/abs/2604.00317](https://arxiv.org/abs/2604.00317)

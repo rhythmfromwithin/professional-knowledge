@@ -1,11 +1,12 @@
 ---
-title: "Towards Supporting Quality Architecture Evaluation with LLM Tools"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.28914
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28914
 next_step: skim
+priority: low
+slack_ts: '1775270896.289659'
+source: cs.SE - Software Engineering
+status: unread
+title: Towards Supporting Quality Architecture Evaluation with LLM Tools
 ---
 # Towards Supporting Quality Architecture Evaluation with LLM Tools
 > 原文: [https://arxiv.org/abs/2603.28914](https://arxiv.org/abs/2603.28914)

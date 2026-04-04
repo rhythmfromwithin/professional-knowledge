@@ -1,11 +1,13 @@
 ---
-title: "When and Where: A Model Hippocampal Network Unifies Formation of Time Cells and Place Cells"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.00036
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00036
 next_step: skim
+priority: low
+slack_ts: '1775270917.316959'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'When and Where: A Model Hippocampal Network Unifies Formation of Time Cells
+  and Place Cells'
 ---
 # When and Where: A Model Hippocampal Network Unifies Formation of Time Cells and Place Cells
 > 原文: [https://arxiv.org/abs/2604.00036](https://arxiv.org/abs/2604.00036)

@@ -1,11 +1,13 @@
 ---
-title: "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.28906
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28906
 next_step: skim
+priority: high
+slack_ts: '1775270897.514819'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Working Paper: Towards a Category-theoretic Comparative Framework for Artificial
+  General Intelligence'
 ---
 # Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence
 > 原文: [https://arxiv.org/abs/2603.28906](https://arxiv.org/abs/2603.28906)

@@ -1,11 +1,13 @@
 ---
-title: "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.00085
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00085
 next_step: skim
+priority: high
+slack_ts: '1775270911.419129'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical
+  Prediction'
 ---
 # One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction
 > 原文: [https://arxiv.org/abs/2604.00085](https://arxiv.org/abs/2604.00085)

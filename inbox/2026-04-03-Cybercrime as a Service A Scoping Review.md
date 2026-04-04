@@ -1,11 +1,12 @@
 ---
-title: "Cybercrime as a Service: A Scoping Review"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.00063
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00063
 next_step: skim
+priority: low
+slack_ts: '1775270902.878059'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Cybercrime as a Service: A Scoping Review'
 ---
 # Cybercrime as a Service: A Scoping Review
 > 原文: [https://arxiv.org/abs/2604.00063](https://arxiv.org/abs/2604.00063)

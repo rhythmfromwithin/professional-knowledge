@@ -1,11 +1,12 @@
 ---
-title: "Ultrasonic Brain Computer Interfaces for Enhancing Human-Machine Cognition"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.00349
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00349
 next_step: skim
+priority: low
+slack_ts: '1775270916.319659'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Ultrasonic Brain Computer Interfaces for Enhancing Human-Machine Cognition
 ---
 # Ultrasonic Brain Computer Interfaces for Enhancing Human-Machine Cognition
 > 原文: [https://arxiv.org/abs/2604.00349](https://arxiv.org/abs/2604.00349)

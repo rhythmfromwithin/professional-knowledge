@@ -1,11 +1,13 @@
 ---
-title: "Towards Automated Knowledge Transfer in Evolutionary Multitasking via Large Language Models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2409.04270
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2409.04270
 next_step: skim
+priority: low
+slack_ts: '1775270895.673219'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Towards Automated Knowledge Transfer in Evolutionary Multitasking via Large
+  Language Models
 ---
 # Towards Automated Knowledge Transfer in Evolutionary Multitasking via Large Language Models
 > 原文: [https://arxiv.org/abs/2409.04270](https://arxiv.org/abs/2409.04270)

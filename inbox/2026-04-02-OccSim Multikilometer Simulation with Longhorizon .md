@@ -1,11 +1,12 @@
 ---
-title: "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2603.28887
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28887
 next_step: skim
+priority: medium
+slack_ts: '1775270891.028209'
+source: cs.CV - Computer Vision
+status: unread
+title: 'OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models'
 ---
 # OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models
 > 原文: [https://arxiv.org/abs/2603.28887](https://arxiv.org/abs/2603.28887)

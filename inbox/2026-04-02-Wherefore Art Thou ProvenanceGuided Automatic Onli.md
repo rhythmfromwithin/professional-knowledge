@@ -1,11 +1,12 @@
 ---
-title: "Wherefore Art Thou? Provenance-Guided Automatic Online Debugging with Lumos"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.29013
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29013
 next_step: skim
+priority: low
+slack_ts: '1775270897.247029'
+source: cs.SE - Software Engineering
+status: unread
+title: Wherefore Art Thou? Provenance-Guided Automatic Online Debugging with Lumos
 ---
 # Wherefore Art Thou? Provenance-Guided Automatic Online Debugging with Lumos
 > 原文: [https://arxiv.org/abs/2603.29013](https://arxiv.org/abs/2603.29013)

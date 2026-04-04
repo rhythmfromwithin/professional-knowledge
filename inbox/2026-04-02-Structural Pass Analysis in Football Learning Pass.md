@@ -1,11 +1,13 @@
 ---
-title: "Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2603.28916
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28916
 next_step: skim
+priority: high
+slack_ts: '1775270894.890059'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical
+  Impact from Spatio-Temporal Tracking Data'
 ---
 # Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data
 > 原文: [https://arxiv.org/abs/2603.28916](https://arxiv.org/abs/2603.28916)

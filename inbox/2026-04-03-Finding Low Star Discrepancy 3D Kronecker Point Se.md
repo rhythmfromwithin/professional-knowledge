@@ -1,11 +1,13 @@
 ---
-title: "Finding Low Star Discrepancy 3D Kronecker Point Sets Using Algorithm Configuration Techniques"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.00786
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00786
 next_step: skim
+priority: low
+slack_ts: '1775270904.409639'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Finding Low Star Discrepancy 3D Kronecker Point Sets Using Algorithm Configuration
+  Techniques
 ---
 # Finding Low Star Discrepancy 3D Kronecker Point Sets Using Algorithm Configuration Techniques
 > 原文: [https://arxiv.org/abs/2604.00786](https://arxiv.org/abs/2604.00786)

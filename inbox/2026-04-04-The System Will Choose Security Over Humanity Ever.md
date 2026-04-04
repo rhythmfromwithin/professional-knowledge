@@ -1,0 +1,8 @@
+---
+slack_ts: '1775270937.507139'
+---
+# "The System Will Choose Security Over Humanity Every Time": Understanding Security and Privacy for U.S. Incarcerated Users
+> 原文: [https://arxiv.org/abs/2604.01370](https://arxiv.org/abs/2604.01370)
+
+arXiv:2604.01370v1 Announce Type: new
+Abstract: Digital devices like tablets, media players, and kiosks are increasingly deployed in U.S. prisons. These technologies can enable incarcerated people to access education, communicate with loved ones, and develop vital reentry skills. However, they can also introduce new privacy and security risks for incarcerated people who have little agency over their usage and contracts, and are currently carved out of many consumer protection safeguards. To investigate these issues, we conducted focus groups and interviews with system-impacted people (n=17), i.e., those formerly incarcerated, and their relatives, to investigate experiences with device-related security and privacy vulnerabilities and the power dynamics that affect their use. In our findings, participants describe pervasive surveillance, censorship, and usability problems with the technology available to them, including shifting and seemingly arbitrary usage policies. These policies strain relationships both inside and outside prisons and contribute to negative downstream effects for incarcerated users. We recommend ways to better balance prison security concerns with privacy-related needs of system-impacted individuals by promoting accountability for technology-related decisions, providing public oversight of digital purchasing and use policies, and designing digital tools with them -- the actual end-users -- in mind.

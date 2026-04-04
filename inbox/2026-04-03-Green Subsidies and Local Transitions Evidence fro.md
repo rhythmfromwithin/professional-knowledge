@@ -1,11 +1,12 @@
 ---
-title: "Green Subsidies and Local Transitions: Evidence from Energy Communities"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.00582
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00582
 next_step: skim
+priority: low
+slack_ts: '1775270907.600469'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Green Subsidies and Local Transitions: Evidence from Energy Communities'
 ---
 # Green Subsidies and Local Transitions: Evidence from Energy Communities
 > 原文: [https://arxiv.org/abs/2604.00582](https://arxiv.org/abs/2604.00582)

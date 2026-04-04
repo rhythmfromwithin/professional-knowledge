@@ -1,11 +1,13 @@
 ---
-title: "Structural and dynamical strategies to prevent runaway excitation in reservoir computing"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.29597
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29597
 next_step: skim
+priority: low
+slack_ts: '1775270895.273569'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Structural and dynamical strategies to prevent runaway excitation in reservoir
+  computing
 ---
 # Structural and dynamical strategies to prevent runaway excitation in reservoir computing
 > 原文: [https://arxiv.org/abs/2603.29597](https://arxiv.org/abs/2603.29597)

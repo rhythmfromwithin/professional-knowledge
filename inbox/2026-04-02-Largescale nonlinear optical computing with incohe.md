@@ -1,11 +1,13 @@
 ---
-title: "Large-scale nonlinear optical computing with incoherent light via linear diffractive systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.29131
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29131
 next_step: skim
+priority: low
+slack_ts: '1775270890.090599'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Large-scale nonlinear optical computing with incoherent light via linear diffractive
+  systems
 ---
 # Large-scale nonlinear optical computing with incoherent light via linear diffractive systems
 > 原文: [https://arxiv.org/abs/2603.29131](https://arxiv.org/abs/2603.29131)

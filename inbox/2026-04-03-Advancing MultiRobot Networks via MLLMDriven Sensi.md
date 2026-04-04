@@ -1,11 +1,13 @@
 ---
-title: "Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.00061
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00061
 next_step: skim
+priority: medium
+slack_ts: '1775270899.371029'
+source: cs.RO - Robotics
+status: unread
+title: 'Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and
+  Computation: A Comprehensive Survey'
 ---
 # Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey
 > 原文: [https://arxiv.org/abs/2604.00061](https://arxiv.org/abs/2604.00061)

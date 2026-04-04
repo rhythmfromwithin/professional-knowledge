@@ -1,11 +1,13 @@
 ---
-title: "MRReP: Mixed Reality-based Hand-drawn Reference Path Editing Interface for Mobile Robot Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.00059
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00059
 next_step: skim
+priority: medium
+slack_ts: '1775270910.118979'
+source: cs.RO - Robotics
+status: unread
+title: 'MRReP: Mixed Reality-based Hand-drawn Reference Path Editing Interface for
+  Mobile Robot Navigation'
 ---
 # MRReP: Mixed Reality-based Hand-drawn Reference Path Editing Interface for Mobile Robot Navigation
 > 原文: [https://arxiv.org/abs/2604.00059](https://arxiv.org/abs/2604.00059)

@@ -1,11 +1,13 @@
 ---
-title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2603.29141
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29141
 next_step: skim
+priority: medium
+slack_ts: '1775270890.735849'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity
+  in AI in Education'
 ---
 # Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
 > 原文: [https://arxiv.org/abs/2603.29141](https://arxiv.org/abs/2603.29141)

@@ -1,11 +1,13 @@
 ---
-title: "OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2603.28858
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28858
 next_step: skim
+priority: high
+slack_ts: '1775270891.291319'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for
+  Continual Pre-Training'
 ---
 # OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training
 > 原文: [https://arxiv.org/abs/2603.28858](https://arxiv.org/abs/2603.28858)

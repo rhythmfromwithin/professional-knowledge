@@ -1,11 +1,12 @@
 ---
-title: "Towards Computational Social Dynamics of Semi-Autonomous AI Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2603.28928
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.28928
 next_step: skim
+priority: high
+slack_ts: '1775270895.946799'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Towards Computational Social Dynamics of Semi-Autonomous AI Agents
 ---
 # Towards Computational Social Dynamics of Semi-Autonomous AI Agents
 > 原文: [https://arxiv.org/abs/2603.28928](https://arxiv.org/abs/2603.28928)

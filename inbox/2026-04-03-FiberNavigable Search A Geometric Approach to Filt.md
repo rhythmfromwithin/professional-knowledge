@@ -1,11 +1,12 @@
 ---
-title: "Fiber-Navigable Search: A Geometric Approach to Filtered ANN"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.00102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00102
 next_step: skim
+priority: low
+slack_ts: '1775270904.133499'
+source: cs.DB - Databases
+status: unread
+title: 'Fiber-Navigable Search: A Geometric Approach to Filtered ANN'
 ---
 # Fiber-Navigable Search: A Geometric Approach to Filtered ANN
 > 原文: [https://arxiv.org/abs/2604.00102](https://arxiv.org/abs/2604.00102)

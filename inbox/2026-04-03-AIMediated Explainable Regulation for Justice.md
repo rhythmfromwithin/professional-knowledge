@@ -1,11 +1,12 @@
 ---
-title: "AI-Mediated Explainable Regulation for Justice"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.00237
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00237
 next_step: skim
+priority: medium
+slack_ts: '1775270898.686179'
+source: cs.CY - Computers and Society
+status: unread
+title: AI-Mediated Explainable Regulation for Justice
 ---
 # AI-Mediated Explainable Regulation for Justice
 > 原文: [https://arxiv.org/abs/2604.00237](https://arxiv.org/abs/2604.00237)

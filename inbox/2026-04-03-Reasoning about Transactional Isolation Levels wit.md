@@ -1,11 +1,12 @@
 ---
-title: "Reasoning about Transactional Isolation Levels with Isolde"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.00159
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00159
 next_step: skim
+priority: low
+slack_ts: '1775270914.367779'
+source: cs.DB - Databases
+status: unread
+title: Reasoning about Transactional Isolation Levels with Isolde
 ---
 # Reasoning about Transactional Isolation Levels with Isolde
 > 原文: [https://arxiv.org/abs/2604.00159](https://arxiv.org/abs/2604.00159)

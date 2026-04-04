@@ -1,11 +1,13 @@
 ---
-title: "Large Language Models for Analyzing Enterprise Architecture Debt in Unstructured Documentation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.00046
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00046
 next_step: skim
+priority: low
+slack_ts: '1775270909.508709'
+source: cs.SE - Software Engineering
+status: unread
+title: Large Language Models for Analyzing Enterprise Architecture Debt in Unstructured
+  Documentation
 ---
 # Large Language Models for Analyzing Enterprise Architecture Debt in Unstructured Documentation
 > 原文: [https://arxiv.org/abs/2604.00046](https://arxiv.org/abs/2604.00046)

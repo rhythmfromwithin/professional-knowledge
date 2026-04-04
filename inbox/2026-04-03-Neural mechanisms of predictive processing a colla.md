@@ -1,11 +1,13 @@
 ---
-title: "Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2504.09614
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2504.09614
 next_step: skim
+priority: low
+slack_ts: '1775270910.721689'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Neural mechanisms of predictive processing: a collaborative community experiment
+  through the OpenScope program'
 ---
 # Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program
 > 原文: [https://arxiv.org/abs/2504.09614](https://arxiv.org/abs/2504.09614)

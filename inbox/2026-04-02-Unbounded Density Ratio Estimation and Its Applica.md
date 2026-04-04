@@ -1,11 +1,12 @@
 ---
-title: "Unbounded Density Ratio Estimation and Its Application to Covariate Shift Adaptation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2603.29725
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29725
 next_step: skim
+priority: medium
+slack_ts: '1775270896.631689'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Unbounded Density Ratio Estimation and Its Application to Covariate Shift Adaptation
 ---
 # Unbounded Density Ratio Estimation and Its Application to Covariate Shift Adaptation
 > 原文: [https://arxiv.org/abs/2603.29725](https://arxiv.org/abs/2603.29725)

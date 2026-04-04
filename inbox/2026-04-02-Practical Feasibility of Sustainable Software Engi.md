@@ -1,11 +1,12 @@
 ---
-title: "Practical Feasibility of Sustainable Software Engineering Tools and Techniques"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2603.29056
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29056
 next_step: skim
+priority: low
+slack_ts: '1775270891.908759'
+source: cs.SE - Software Engineering
+status: unread
+title: Practical Feasibility of Sustainable Software Engineering Tools and Techniques
 ---
 # Practical Feasibility of Sustainable Software Engineering Tools and Techniques
 > 原文: [https://arxiv.org/abs/2603.29056](https://arxiv.org/abs/2603.29056)

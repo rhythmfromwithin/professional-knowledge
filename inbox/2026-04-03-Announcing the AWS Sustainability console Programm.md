@@ -1,11 +1,13 @@
 ---
-title: "Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/
 next_step: skim
+priority: high
+slack_ts: '1775270899.983399'
+source: AWS Blog
+status: unread
+title: 'Announcing the AWS Sustainability console: Programmatic access, configurable
+  CSV reports, and Scope 1–3 reporting in one place'
 ---
 # Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place
 > 原文: [https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/)

@@ -1,11 +1,12 @@
 ---
-title: "LinearARD: Linear-Memory Attention Distillation for RoPE Restoration"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.00004
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00004
 next_step: skim
+priority: high
+slack_ts: '1775270909.853859'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'LinearARD: Linear-Memory Attention Distillation for RoPE Restoration'
 ---
 # LinearARD: Linear-Memory Attention Distillation for RoPE Restoration
 > 原文: [https://arxiv.org/abs/2604.00004](https://arxiv.org/abs/2604.00004)

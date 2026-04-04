@@ -1,11 +1,12 @@
 ---
-title: "SteelDB: Diagnosing Kernel-Space Bottlenecks in Cloud OLTP Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2603.29052
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29052
 next_step: skim
+priority: low
+slack_ts: '1775270894.548449'
+source: cs.DB - Databases
+status: unread
+title: 'SteelDB: Diagnosing Kernel-Space Bottlenecks in Cloud OLTP Databases'
 ---
 # SteelDB: Diagnosing Kernel-Space Bottlenecks in Cloud OLTP Databases
 > 原文: [https://arxiv.org/abs/2603.29052](https://arxiv.org/abs/2603.29052)

@@ -1,11 +1,13 @@
 ---
-title: "Predicting Neuromodulation Outcome for Parkinson's Disease with Generative Virtual Brain Model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2603.29176
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.29176
 next_step: skim
+priority: low
+slack_ts: '1775270893.110789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Predicting Neuromodulation Outcome for Parkinson's Disease with Generative
+  Virtual Brain Model
 ---
 # Predicting Neuromodulation Outcome for Parkinson's Disease with Generative Virtual Brain Model
 > 原文: [https://arxiv.org/abs/2603.29176](https://arxiv.org/abs/2603.29176)

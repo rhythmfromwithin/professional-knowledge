@@ -1,11 +1,13 @@
 ---
-title: "Beyond Symbolic Control: Societal Consequences of AI-Driven Workforce Displacement and the Imperative for Genuine Human Oversight Architectures"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.00081
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00081
 next_step: skim
+priority: medium
+slack_ts: '1775270901.311939'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Symbolic Control: Societal Consequences of AI-Driven Workforce Displacement
+  and the Imperative for Genuine Human Oversight Architectures'
 ---
 # Beyond Symbolic Control: Societal Consequences of AI-Driven Workforce Displacement and the Imperative for Genuine Human Oversight Architectures
 > 原文: [https://arxiv.org/abs/2604.00081](https://arxiv.org/abs/2604.00081)

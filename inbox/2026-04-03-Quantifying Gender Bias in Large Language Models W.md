@@ -1,11 +1,13 @@
 ---
-title: "Quantifying Gender Bias in Large Language Models: When ChatGPT Becomes a Hiring Manager"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.00011
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00011
 next_step: skim
+priority: medium
+slack_ts: '1775270913.579279'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Quantifying Gender Bias in Large Language Models: When ChatGPT Becomes a Hiring
+  Manager'
 ---
 # Quantifying Gender Bias in Large Language Models: When ChatGPT Becomes a Hiring Manager
 > 原文: [https://arxiv.org/abs/2604.00011](https://arxiv.org/abs/2604.00011)

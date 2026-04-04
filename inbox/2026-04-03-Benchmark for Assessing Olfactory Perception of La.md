@@ -1,11 +1,12 @@
 ---
-title: "Benchmark for Assessing Olfactory Perception of Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.00002
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00002
 next_step: skim
+priority: high
+slack_ts: '1775270900.871939'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Benchmark for Assessing Olfactory Perception of Large Language Models
 ---
 # Benchmark for Assessing Olfactory Perception of Large Language Models
 > 原文: [https://arxiv.org/abs/2604.00002](https://arxiv.org/abs/2604.00002)
