@@ -1,11 +1,13 @@
 ---
-title: "Thermodynamic connectivity reveals functional specialization and multiplex organization of extrasynaptic signaling"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.02057
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02057
 next_step: skim
+priority: low
+slack_ts: '1775359536.593939'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Thermodynamic connectivity reveals functional specialization and multiplex
+  organization of extrasynaptic signaling
 ---
 # Thermodynamic connectivity reveals functional specialization and multiplex organization of extrasynaptic signaling
 > 原文: [https://arxiv.org/abs/2604.02057](https://arxiv.org/abs/2604.02057)

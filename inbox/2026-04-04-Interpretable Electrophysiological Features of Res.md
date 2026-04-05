@@ -1,11 +1,13 @@
 ---
-title: "Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.01475
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01475
 next_step: skim
+priority: low
+slack_ts: '1775359531.410039'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical
+  Network Dynamics in Parkinsons Disease
 ---
 # Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinsons Disease
 > 原文: [https://arxiv.org/abs/2604.01475](https://arxiv.org/abs/2604.01475)

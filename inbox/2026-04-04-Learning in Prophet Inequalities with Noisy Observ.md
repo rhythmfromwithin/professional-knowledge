@@ -1,11 +1,12 @@
 ---
-title: "Learning in Prophet Inequalities with Noisy Observations"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.01789
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01789
 next_step: skim
+priority: medium
+slack_ts: '1775359532.009079'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning in Prophet Inequalities with Noisy Observations
 ---
 # Learning in Prophet Inequalities with Noisy Observations
 > 原文: [https://arxiv.org/abs/2604.01789](https://arxiv.org/abs/2604.01789)

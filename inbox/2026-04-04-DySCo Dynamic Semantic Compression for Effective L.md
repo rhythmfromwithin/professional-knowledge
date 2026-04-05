@@ -1,11 +1,12 @@
 ---
-title: "DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.01261
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01261
 next_step: skim
+priority: high
+slack_ts: '1775359528.780649'
+source: cs.LG - Machine Learning
+status: unread
+title: 'DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting'
 ---
 # DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting
 > 原文: [https://arxiv.org/abs/2604.01261](https://arxiv.org/abs/2604.01261)

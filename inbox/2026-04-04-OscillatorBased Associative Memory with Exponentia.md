@@ -1,11 +1,13 @@
 ---
-title: "Oscillator-Based Associative Memory with Exponential Capacity: Theory, Algorithms, and Hardware Implementation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.01469
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01469
 next_step: skim
+priority: low
+slack_ts: '1775359534.156419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Oscillator-Based Associative Memory with Exponential Capacity: Theory, Algorithms,
+  and Hardware Implementation'
 ---
 # Oscillator-Based Associative Memory with Exponential Capacity: Theory, Algorithms, and Hardware Implementation
 > 原文: [https://arxiv.org/abs/2604.01469](https://arxiv.org/abs/2604.01469)

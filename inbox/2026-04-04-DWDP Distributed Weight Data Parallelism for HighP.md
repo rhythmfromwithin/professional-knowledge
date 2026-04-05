@@ -1,11 +1,13 @@
 ---
-title: "DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.01621
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01621
 next_step: skim
+priority: medium
+slack_ts: '1775359527.411639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference
+  on NVL72'
 ---
 # DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72
 > 原文: [https://arxiv.org/abs/2604.01621](https://arxiv.org/abs/2604.01621)

@@ -1,11 +1,13 @@
 ---
-title: "The Data Hydration Gap: A Formal Model of Underinvestment in General-Purpose Data Products Under Decentralized Governance"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.00218
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00218
 next_step: skim
+priority: low
+slack_ts: '1775359522.001759'
+source: cs.DB - Databases
+status: unread
+title: 'The Data Hydration Gap: A Formal Model of Underinvestment in General-Purpose
+  Data Products Under Decentralized Governance'
 ---
 # The Data Hydration Gap: A Formal Model of Underinvestment in General-Purpose Data Products Under Decentralized Governance
 > 原文: [https://arxiv.org/abs/2604.00218](https://arxiv.org/abs/2604.00218)

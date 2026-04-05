@@ -1,11 +1,12 @@
 ---
-title: "Non-monotonicity in Conformal Risk Control"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.01502
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01502
 next_step: skim
+priority: medium
+slack_ts: '1775359533.249499'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Non-monotonicity in Conformal Risk Control
 ---
 # Non-monotonicity in Conformal Risk Control
 > 原文: [https://arxiv.org/abs/2604.01502](https://arxiv.org/abs/2604.01502)

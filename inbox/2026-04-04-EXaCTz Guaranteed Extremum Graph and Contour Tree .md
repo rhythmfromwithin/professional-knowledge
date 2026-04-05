@@ -1,11 +1,13 @@
 ---
-title: "EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed- and GPU-Parallel Lossy Compression"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.01397
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01397
 next_step: skim
+priority: medium
+slack_ts: '1775359528.973929'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed-
+  and GPU-Parallel Lossy Compression'
 ---
 # EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed- and GPU-Parallel Lossy Compression
 > 原文: [https://arxiv.org/abs/2604.01397](https://arxiv.org/abs/2604.01397)

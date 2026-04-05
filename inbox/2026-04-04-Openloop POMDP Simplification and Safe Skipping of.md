@@ -1,11 +1,13 @@
 ---
-title: "Open-loop POMDP Simplification and Safe Skipping of Replanning with Formal Performance Guarantees"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.01352
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01352
 next_step: skim
+priority: medium
+slack_ts: '1775359533.965689'
+source: cs.RO - Robotics
+status: unread
+title: Open-loop POMDP Simplification and Safe Skipping of Replanning with Formal
+  Performance Guarantees
 ---
 # Open-loop POMDP Simplification and Safe Skipping of Replanning with Formal Performance Guarantees
 > 原文: [https://arxiv.org/abs/2604.01352](https://arxiv.org/abs/2604.01352)

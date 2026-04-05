@@ -1,11 +1,13 @@
 ---
-title: "CogPic: A Multimodal Dataset for Early Cognitive Impairment Assessment via Picture Description Tasks"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.01626
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01626
 next_step: skim
+priority: low
+slack_ts: '1775359526.233609'
+source: cs.DB - Databases
+status: unread
+title: 'CogPic: A Multimodal Dataset for Early Cognitive Impairment Assessment via
+  Picture Description Tasks'
 ---
 # CogPic: A Multimodal Dataset for Early Cognitive Impairment Assessment via Picture Description Tasks
 > 原文: [https://arxiv.org/abs/2604.01626](https://arxiv.org/abs/2604.01626)

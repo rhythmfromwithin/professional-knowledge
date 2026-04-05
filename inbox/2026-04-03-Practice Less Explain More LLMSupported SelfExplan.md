@@ -1,11 +1,13 @@
 ---
-title: "Practice Less, Explain More: LLM-Supported Self-Explanation Improves Explanation Quality on Transfer Problems in Calculus"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.00142
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00142
 next_step: skim
+priority: low
+slack_ts: '1775359519.750189'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Practice Less, Explain More: LLM-Supported Self-Explanation Improves Explanation
+  Quality on Transfer Problems in Calculus'
 ---
 # Practice Less, Explain More: LLM-Supported Self-Explanation Improves Explanation Quality on Transfer Problems in Calculus
 > 原文: [https://arxiv.org/abs/2604.00142](https://arxiv.org/abs/2604.00142)

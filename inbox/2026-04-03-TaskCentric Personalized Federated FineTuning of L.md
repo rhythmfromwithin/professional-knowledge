@@ -1,11 +1,12 @@
 ---
-title: "Task-Centric Personalized Federated Fine-Tuning of Language Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.00050
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00050
 next_step: skim
+priority: high
+slack_ts: '1775359521.738059'
+source: cs.LG - Machine Learning
+status: unread
+title: Task-Centric Personalized Federated Fine-Tuning of Language Models
 ---
 # Task-Centric Personalized Federated Fine-Tuning of Language Models
 > 原文: [https://arxiv.org/abs/2604.00050](https://arxiv.org/abs/2604.00050)

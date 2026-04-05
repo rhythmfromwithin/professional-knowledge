@@ -1,11 +1,13 @@
 ---
-title: "Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.00161
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00161
 next_step: skim
+priority: medium
+slack_ts: '1775359520.233809'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language
+  Models'
 ---
 # Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language Models
 > 原文: [https://arxiv.org/abs/2604.00161](https://arxiv.org/abs/2604.00161)

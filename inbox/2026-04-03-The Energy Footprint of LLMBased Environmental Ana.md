@@ -1,11 +1,13 @@
 ---
-title: "The Energy Footprint of LLM-Based Environmental Analysis: LLMs and Domain Products"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.00053
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00053
 next_step: skim
+priority: low
+slack_ts: '1775359522.204149'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Energy Footprint of LLM-Based Environmental Analysis: LLMs and Domain
+  Products'
 ---
 # The Energy Footprint of LLM-Based Environmental Analysis: LLMs and Domain Products
 > 原文: [https://arxiv.org/abs/2604.00053](https://arxiv.org/abs/2604.00053)

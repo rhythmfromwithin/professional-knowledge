@@ -1,11 +1,13 @@
 ---
-title: "DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.01226
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01226
 next_step: skim
+priority: medium
+slack_ts: '1775359527.211649'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code
+  Generation'
 ---
 # DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation
 > 原文: [https://arxiv.org/abs/2604.01226](https://arxiv.org/abs/2604.01226)

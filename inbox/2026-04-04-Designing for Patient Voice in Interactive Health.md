@@ -1,11 +1,12 @@
 ---
-title: "Designing for Patient Voice in Interactive Health"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.01558
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01558
 next_step: skim
+priority: low
+slack_ts: '1775359527.869399'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Designing for Patient Voice in Interactive Health
 ---
 # Designing for Patient Voice in Interactive Health
 > 原文: [https://arxiv.org/abs/2604.01558](https://arxiv.org/abs/2604.01558)

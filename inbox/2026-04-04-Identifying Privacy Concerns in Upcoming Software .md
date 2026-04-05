@@ -1,11 +1,13 @@
 ---
-title: "Identifying Privacy Concerns in Upcoming Software Release: A Peek into the Future"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.01393
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01393
 next_step: skim
+priority: low
+slack_ts: '1775359531.138379'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Identifying Privacy Concerns in Upcoming Software Release: A Peek into the
+  Future'
 ---
 # Identifying Privacy Concerns in Upcoming Software Release: A Peek into the Future
 > 原文: [https://arxiv.org/abs/2604.01393](https://arxiv.org/abs/2604.01393)

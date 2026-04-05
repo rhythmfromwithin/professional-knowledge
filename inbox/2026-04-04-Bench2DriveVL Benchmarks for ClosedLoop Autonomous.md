@@ -1,11 +1,13 @@
 ---
-title: "Bench2Drive-VL: Benchmarks for Closed-Loop Autonomous Driving with Vision-Language Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.01259
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01259
 next_step: skim
+priority: medium
+slack_ts: '1775359525.153539'
+source: cs.RO - Robotics
+status: unread
+title: 'Bench2Drive-VL: Benchmarks for Closed-Loop Autonomous Driving with Vision-Language
+  Models'
 ---
 # Bench2Drive-VL: Benchmarks for Closed-Loop Autonomous Driving with Vision-Language Models
 > 原文: [https://arxiv.org/abs/2604.01259](https://arxiv.org/abs/2604.01259)

@@ -1,11 +1,12 @@
 ---
-title: "Control which domains your AI agents can access"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/
 next_step: skim
+priority: high
+slack_ts: '1775359526.747489'
+source: AWS Blog
+status: unread
+title: Control which domains your AI agents can access
 ---
 # Control which domains your AI agents can access
 > 原文: [https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/](https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/)

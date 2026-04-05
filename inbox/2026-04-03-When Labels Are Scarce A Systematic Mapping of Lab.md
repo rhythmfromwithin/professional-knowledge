@@ -1,11 +1,13 @@
 ---
-title: "When Labels Are Scarce: A Systematic Mapping of Label-Efficient Code Vulnerability Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.00079
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00079
 next_step: skim
+priority: low
+slack_ts: '1775359522.903689'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'When Labels Are Scarce: A Systematic Mapping of Label-Efficient Code Vulnerability
+  Detection'
 ---
 # When Labels Are Scarce: A Systematic Mapping of Label-Efficient Code Vulnerability Detection
 > 原文: [https://arxiv.org/abs/2604.00079](https://arxiv.org/abs/2604.00079)

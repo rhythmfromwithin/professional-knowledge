@@ -1,11 +1,13 @@
 ---
-title: "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.00137
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00137
 next_step: skim
+priority: high
+slack_ts: '1775359533.511259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using
+  AI Agents'
 ---
 # Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents
 > 原文: [https://arxiv.org/abs/2604.00137](https://arxiv.org/abs/2604.00137)

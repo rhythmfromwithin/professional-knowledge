@@ -1,11 +1,13 @@
 ---
-title: "Democratizing Foundations of Problem-Solving with AI: A Breadth-First Search Curriculum for Middle School Students"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.01396
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01396
 next_step: skim
+priority: medium
+slack_ts: '1775359527.608089'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Democratizing Foundations of Problem-Solving with AI: A Breadth-First Search
+  Curriculum for Middle School Students'
 ---
 # Democratizing Foundations of Problem-Solving with AI: A Breadth-First Search Curriculum for Middle School Students
 > 原文: [https://arxiv.org/abs/2604.01396](https://arxiv.org/abs/2604.01396)

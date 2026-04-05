@@ -1,11 +1,13 @@
 ---
-title: "A Reliability Evaluation of Hybrid Deterministic-LLM Based Approaches for Academic Course Registration PDF Information Extraction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.00003
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.00003
 next_step: skim
+priority: high
+slack_ts: '1775359523.373099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: A Reliability Evaluation of Hybrid Deterministic-LLM Based Approaches for Academic
+  Course Registration PDF Information Extraction
 ---
 # A Reliability Evaluation of Hybrid Deterministic-LLM Based Approaches for Academic Course Registration PDF Information Extraction
 > 原文: [https://arxiv.org/abs/2604.00003](https://arxiv.org/abs/2604.00003)

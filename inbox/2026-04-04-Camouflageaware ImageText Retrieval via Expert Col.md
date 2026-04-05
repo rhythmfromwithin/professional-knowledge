@@ -1,11 +1,12 @@
 ---
-title: "Camouflage-aware Image-Text Retrieval via Expert Collaboration"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.01251
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01251
 next_step: skim
+priority: medium
+slack_ts: '1775359525.749629'
+source: cs.CV - Computer Vision
+status: unread
+title: Camouflage-aware Image-Text Retrieval via Expert Collaboration
 ---
 # Camouflage-aware Image-Text Retrieval via Expert Collaboration
 > 原文: [https://arxiv.org/abs/2604.01251](https://arxiv.org/abs/2604.01251)
