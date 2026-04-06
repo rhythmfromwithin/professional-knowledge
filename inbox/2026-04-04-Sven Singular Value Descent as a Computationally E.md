@@ -1,11 +1,13 @@
 ---
-title: "Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.01279
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01279
 next_step: skim
+priority: high
+slack_ts: '1775446107.078479'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Sven: Singular Value Descent as a Computationally Efficient Natural Gradient
+  Method'
 ---
 # Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method
 > 原文: [https://arxiv.org/abs/2604.01279](https://arxiv.org/abs/2604.01279)

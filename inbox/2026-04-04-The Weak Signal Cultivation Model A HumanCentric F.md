@@ -1,11 +1,13 @@
 ---
-title: "The Weak Signal Cultivation Model: A Human-Centric Framework for Frontline Risk Detection, Signal Tracking, and Proactive Organizational Resilience"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.01495
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01495
 next_step: skim
+priority: low
+slack_ts: '1775446107.586089'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Weak Signal Cultivation Model: A Human-Centric Framework for Frontline
+  Risk Detection, Signal Tracking, and Proactive Organizational Resilience'
 ---
 # The Weak Signal Cultivation Model: A Human-Centric Framework for Frontline Risk Detection, Signal Tracking, and Proactive Organizational Resilience
 > 原文: [https://arxiv.org/abs/2604.01495](https://arxiv.org/abs/2604.01495)

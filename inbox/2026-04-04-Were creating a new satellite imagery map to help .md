@@ -1,11 +1,12 @@
 ---
-title: "We’re creating a new satellite imagery map to help protect Brazil’s forests."
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/
 next_step: skim
+priority: high
+slack_ts: '1775446107.788349'
+source: Google AI Blog
+status: unread
+title: We’re creating a new satellite imagery map to help protect Brazil’s forests.
 ---
 # We’re creating a new satellite imagery map to help protect Brazil’s forests.
 > 原文: [https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/](https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/)

@@ -1,11 +1,12 @@
 ---
-title: "Random Coordinate Descent on the Wasserstein Space of Probability Measures"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.01606
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01606
 next_step: skim
+priority: medium
+slack_ts: '1775446106.206419'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Random Coordinate Descent on the Wasserstein Space of Probability Measures
 ---
 # Random Coordinate Descent on the Wasserstein Space of Probability Measures
 > 原文: [https://arxiv.org/abs/2604.01606](https://arxiv.org/abs/2604.01606)

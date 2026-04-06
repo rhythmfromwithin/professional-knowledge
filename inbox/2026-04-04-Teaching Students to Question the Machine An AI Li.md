@@ -1,11 +1,13 @@
 ---
-title: "Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.01955
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.01955
 next_step: skim
+priority: medium
+slack_ts: '1775446107.334119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Teaching Students to Question the Machine: An AI Literacy Intervention Improves
+  Students'' Regulation of LLM Use in a Science Task'
 ---
 # Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task
 > 原文: [https://arxiv.org/abs/2604.01955](https://arxiv.org/abs/2604.01955)

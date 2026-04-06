@@ -1,11 +1,12 @@
 ---
-title: "Codex now offers more flexible pricing for teams"
-source: "OpenAI Blog"
-link: https://openai.com/index/codex-flexible-pricing-for-teams
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/codex-flexible-pricing-for-teams
 next_step: skim
+priority: high
+slack_ts: '1775446109.903399'
+source: OpenAI Blog
+status: unread
+title: Codex now offers more flexible pricing for teams
 ---
 # Codex now offers more flexible pricing for teams
 > 原文: [https://openai.com/index/codex-flexible-pricing-for-teams](https://openai.com/index/codex-flexible-pricing-for-teams)
