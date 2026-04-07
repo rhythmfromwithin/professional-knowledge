@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2604.02334
+next_step: skim
+priority: high
+slack_ts: '1775531928.395139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web'
+---
+# Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web
+> 原文: [https://arxiv.org/abs/2604.02334](https://arxiv.org/abs/2604.02334)
+
+arXiv:2604.02334v1 Announce Type: new
+Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To address these challenges, we introduce Holos, a web-scale LaMAS architected for long-term ecological persistence. Holos adopts a five-layer architecture, with core modules primarily featuring the Nuwa engine for high-efficiency agent generation and hosting, a market-driven Orchestrator for resilient coordination, and an endogenous value cycle to achieve incentive compatibility. By bridging the gap between micro-level collaboration and macro-scale emergence, Holos hopes to lay the foundation for the next generation of the self-organizing and continuously evolving Agentic Web. We have publicly released Holos (accessible at https://holosai.io), providing a resource for the community and a testbed for future research in large-scale agentic ecosystems.

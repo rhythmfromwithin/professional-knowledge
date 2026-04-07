@@ -1,11 +1,12 @@
 ---
-title: "KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/
 next_step: skim
+priority: medium
+slack_ts: '1775531912.567209'
+source: Meta Engineering
+status: unread
+title: 'KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure'
 ---
 # KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure
 > 原文: [https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)

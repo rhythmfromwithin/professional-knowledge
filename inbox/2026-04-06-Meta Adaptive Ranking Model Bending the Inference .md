@@ -1,11 +1,13 @@
 ---
-title: "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/
 next_step: skim
+priority: medium
+slack_ts: '1775531913.100309'
+source: Meta Engineering
+status: unread
+title: 'Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve
+  LLM-Scale Models for Ads'
 ---
 # Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads
 > 原文: [https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/](https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/)

@@ -1,11 +1,12 @@
 ---
-title: "OpenAI acquires TBPN"
-source: "OpenAI Blog"
-link: https://openai.com/index/openai-acquires-tbpn
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/openai-acquires-tbpn
 next_step: skim
+priority: high
+slack_ts: '1775531913.633739'
+source: OpenAI Blog
+status: unread
+title: OpenAI acquires TBPN
 ---
 # OpenAI acquires TBPN
 > 原文: [https://openai.com/index/openai-acquires-tbpn](https://openai.com/index/openai-acquires-tbpn)
