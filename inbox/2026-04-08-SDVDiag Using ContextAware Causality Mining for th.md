@@ -1,0 +1,14 @@
+---
+title: "SDVDiag: Using Context-Aware Causality Mining for the Diagnosis of Connected Vehicle Functions"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2604.03391
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# SDVDiag: Using Context-Aware Causality Mining for the Diagnosis of Connected Vehicle Functions
+> 原文: [https://arxiv.org/abs/2604.03391](https://arxiv.org/abs/2604.03391)
+
+arXiv:2604.03391v1 Announce Type: new
+Abstract: Real-world implementations of connected vehicle functions are spreading steadily, yet operating these functions reliably remains challenging due to their distributed nature and the complexity of the underlying cloud, edge, and networking infrastructure. Quick diagnosis of problems and understanding the error chains that lead to failures is essential for reducing downtime. However, diagnosing these systems is still largely performed manually, as automated analysis techniques are predominantly data-driven and struggle with hidden relationships and the integration of context information. This paper addresses this gap by introducing a multimodal approach that integrates human feedback and system-specific information into the causal analysis process. Reinforcement Learning from Human Feedback is employed to continuously train a causality mining model while incorporating expert knowledge. Additional modules leverage distributed tracing data to prune false-positive causal links and enable the injection of domain-specific relationships to further refine the causal graph.Evaluation is performed using an automated valet parking application operated in a connected vehicle test field. Results demonstrate a significant increase in precision from 14\% to 100\% for the detection of causal edges and improved system interpretability compared to purely data-driven approaches, highlighting the potential for system operators in the connected vehicle domain.

@@ -1,11 +1,12 @@
 ---
-title: "Making Written Theorems Explorable by Grounding Them in Formal Representations"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.02598
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02598
 next_step: skim
+priority: low
+slack_ts: '1775618428.234659'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Making Written Theorems Explorable by Grounding Them in Formal Representations
 ---
 # Making Written Theorems Explorable by Grounding Them in Formal Representations
 > 原文: [https://arxiv.org/abs/2604.02598](https://arxiv.org/abs/2604.02598)

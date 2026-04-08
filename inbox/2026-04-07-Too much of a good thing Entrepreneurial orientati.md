@@ -1,11 +1,13 @@
 ---
-title: "Too much of a good thing? Entrepreneurial orientation and the non-linear governance effects of SaaS platforms"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.02363
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02363
 next_step: skim
+priority: medium
+slack_ts: '1775618431.186059'
+source: cs.CY - Computers and Society
+status: unread
+title: Too much of a good thing? Entrepreneurial orientation and the non-linear governance
+  effects of SaaS platforms
 ---
 # Too much of a good thing? Entrepreneurial orientation and the non-linear governance effects of SaaS platforms
 > 原文: [https://arxiv.org/abs/2604.02363](https://arxiv.org/abs/2604.02363)

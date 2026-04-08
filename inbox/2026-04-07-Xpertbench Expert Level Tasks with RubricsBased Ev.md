@@ -1,11 +1,12 @@
 ---
-title: "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.02368
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02368
 next_step: skim
+priority: high
+slack_ts: '1775618431.873659'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation'
 ---
 # Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
 > 原文: [https://arxiv.org/abs/2604.02368](https://arxiv.org/abs/2604.02368)

@@ -1,11 +1,13 @@
 ---
-title: "SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.02423
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02423
 next_step: skim
+priority: high
+slack_ts: '1775618430.288989'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SWAY: A Counterfactual Computational Linguistic Approach to Measuring and
+  Mitigating Sycophancy'
 ---
 # SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy
 > 原文: [https://arxiv.org/abs/2604.02423](https://arxiv.org/abs/2604.02423)

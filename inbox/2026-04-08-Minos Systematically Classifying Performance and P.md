@@ -1,0 +1,14 @@
+---
+title: "Minos: Systematically Classifying Performance and Power Characteristics of GPU Workloads on HPC Clusters"
+source: "cs.DC - Distributed Computing"
+link: https://arxiv.org/abs/2604.03591
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Minos: Systematically Classifying Performance and Power Characteristics of GPU Workloads on HPC Clusters
+> 原文: [https://arxiv.org/abs/2604.03591](https://arxiv.org/abs/2604.03591)
+
+arXiv:2604.03591v2 Announce Type: new
+Abstract: As large-scale HPC compute clusters increasingly adopt accelerators such as GPUs to meet the voracious demands of modern workloads, these clusters are increasingly becoming power constrained. Unfortunately, modern applications can often temporarily exceed the power ratings of the accelerators ("power spikes"). Thus, current and future HPC systems must optimize for both power and performance together. However, this is made difficult by increasingly diverse applications, which often require bespoke optimizations to run efficiently on each cluster. Traditionally researchers overcome this problem by profiling applications on specific clusters and optimizing, but the scale, algorithmic diversity, and lack of effective tools make this challenging. To overcome these inefficiencies, we propose Minos, a systematic classification mechanism that identifies similar application characteristics via low-cost profiling for power and performance. This allows us to group similarly behaving workloads into a finite number of distinct classes and reduce the overhead of extensively profiling new workloads. For example, when predicting frequency capping behavior for a previously unseen application, Minos reduces profiling time by 89%. Moreover, across 18 popular graph analytics, HPC, HPC+ML, and ML workloads, Minos achieves a mean error of 4% for power predictions and 3% for performance predictions, significantly improving predictions over state-of-the-art approaches by 10%.

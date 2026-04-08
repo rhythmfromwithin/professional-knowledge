@@ -1,11 +1,13 @@
 ---
-title: "What Are Adversaries Doing? Automating Tactics, Techniques, and Procedures Extraction: A Systematic Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.02377
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02377
 next_step: skim
+priority: low
+slack_ts: '1775618431.523039'
+source: cs.SE - Software Engineering
+status: unread
+title: 'What Are Adversaries Doing? Automating Tactics, Techniques, and Procedures
+  Extraction: A Systematic Review'
 ---
 # What Are Adversaries Doing? Automating Tactics, Techniques, and Procedures Extraction: A Systematic Review
 > 原文: [https://arxiv.org/abs/2604.02377](https://arxiv.org/abs/2604.02377)

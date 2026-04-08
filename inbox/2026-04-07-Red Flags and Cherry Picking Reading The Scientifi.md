@@ -1,11 +1,12 @@
 ---
-title: "Red Flags and Cherry Picking: Reading The Scientific Blackpill Wiki"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.02565
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02565
 next_step: skim
+priority: low
+slack_ts: '1775618429.936119'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Red Flags and Cherry Picking: Reading The Scientific Blackpill Wiki'
 ---
 # Red Flags and Cherry Picking: Reading The Scientific Blackpill Wiki
 > 原文: [https://arxiv.org/abs/2604.02565](https://arxiv.org/abs/2604.02565)

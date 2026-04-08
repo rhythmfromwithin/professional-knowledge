@@ -1,11 +1,12 @@
 ---
-title: "Reinforcement Learning from Human Feedback: A Statistical Perspective"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.02507
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02507
 next_step: skim
+priority: medium
+slack_ts: '1775618430.090479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Reinforcement Learning from Human Feedback: A Statistical Perspective'
 ---
 # Reinforcement Learning from Human Feedback: A Statistical Perspective
 > 原文: [https://arxiv.org/abs/2604.02507](https://arxiv.org/abs/2604.02507)

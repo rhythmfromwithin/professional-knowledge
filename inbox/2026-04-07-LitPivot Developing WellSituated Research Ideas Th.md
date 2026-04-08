@@ -1,11 +1,13 @@
 ---
-title: "LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization and Critique within the Literature Landscape"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.02600
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02600
 next_step: skim
+priority: low
+slack_ts: '1775618428.075199'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization
+  and Critique within the Literature Landscape'
 ---
 # LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization and Critique within the Literature Landscape
 > 原文: [https://arxiv.org/abs/2604.02600](https://arxiv.org/abs/2604.02600)

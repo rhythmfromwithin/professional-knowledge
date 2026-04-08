@@ -1,11 +1,13 @@
 ---
-title: "Nonlinear dynamics of educational choices under social influence and endogenous returns"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.03102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03102
 next_step: skim
+priority: low
+slack_ts: '1775618428.983789'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Nonlinear dynamics of educational choices under social influence and endogenous
+  returns
 ---
 # Nonlinear dynamics of educational choices under social influence and endogenous returns
 > 原文: [https://arxiv.org/abs/2604.03102](https://arxiv.org/abs/2604.03102)

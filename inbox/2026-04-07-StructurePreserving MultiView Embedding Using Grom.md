@@ -1,11 +1,13 @@
 ---
-title: "Structure-Preserving Multi-View Embedding Using Gromov-Wasserstein Optimal Transport"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.02610
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.02610
 next_step: skim
+priority: medium
+slack_ts: '1775618430.683789'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Structure-Preserving Multi-View Embedding Using Gromov-Wasserstein Optimal
+  Transport
 ---
 # Structure-Preserving Multi-View Embedding Using Gromov-Wasserstein Optimal Transport
 > 原文: [https://arxiv.org/abs/2604.02610](https://arxiv.org/abs/2604.02610)
