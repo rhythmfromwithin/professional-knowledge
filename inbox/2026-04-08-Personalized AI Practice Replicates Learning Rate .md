@@ -1,11 +1,12 @@
 ---
-title: "Personalized AI Practice Replicates Learning Rate Regularity at Scale"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.03246
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03246
 next_step: skim
+priority: medium
+slack_ts: '1775703384.216929'
+source: cs.CY - Computers and Society
+status: unread
+title: Personalized AI Practice Replicates Learning Rate Regularity at Scale
 ---
 # Personalized AI Practice Replicates Learning Rate Regularity at Scale
 > 原文: [https://arxiv.org/abs/2604.03246](https://arxiv.org/abs/2604.03246)

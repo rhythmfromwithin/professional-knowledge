@@ -1,11 +1,12 @@
 ---
-title: "Robust LLM Performance Certification via Constrained Maximum Likelihood Estimation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.03257
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03257
 next_step: skim
+priority: high
+slack_ts: '1775703385.177379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Robust LLM Performance Certification via Constrained Maximum Likelihood Estimation
 ---
 # Robust LLM Performance Certification via Constrained Maximum Likelihood Estimation
 > 原文: [https://arxiv.org/abs/2604.03257](https://arxiv.org/abs/2604.03257)

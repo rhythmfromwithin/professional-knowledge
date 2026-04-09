@@ -1,11 +1,13 @@
 ---
-title: "Neurological Plausibility of AI-Generated Music for Commercial Environments: An In-Silico Cortical Investigation Using Wubble and TRIBE v2"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.04025
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04025
 next_step: skim
+priority: low
+slack_ts: '1775703382.910619'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Neurological Plausibility of AI-Generated Music for Commercial Environments:
+  An In-Silico Cortical Investigation Using Wubble and TRIBE v2'
 ---
 # Neurological Plausibility of AI-Generated Music for Commercial Environments: An In-Silico Cortical Investigation Using Wubble and TRIBE v2
 > 原文: [https://arxiv.org/abs/2604.04025](https://arxiv.org/abs/2604.04025)

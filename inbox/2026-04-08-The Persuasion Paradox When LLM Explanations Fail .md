@@ -1,11 +1,13 @@
 ---
-title: "The Persuasion Paradox: When LLM Explanations Fail to Improve Human-AI Team Performance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.03237
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03237
 next_step: skim
+priority: low
+slack_ts: '1775703388.274349'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Persuasion Paradox: When LLM Explanations Fail to Improve Human-AI Team
+  Performance'
 ---
 # The Persuasion Paradox: When LLM Explanations Fail to Improve Human-AI Team Performance
 > 原文: [https://arxiv.org/abs/2604.03237](https://arxiv.org/abs/2604.03237)

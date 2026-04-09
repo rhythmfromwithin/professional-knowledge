@@ -1,11 +1,13 @@
 ---
-title: "TransGP: Task-Conditioned Transformer-Guided Genetic Programming for Multitask Dynamic Flexible Job Shop Scheduling"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.03705
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03705
 next_step: skim
+priority: low
+slack_ts: '1775703389.064029'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'TransGP: Task-Conditioned Transformer-Guided Genetic Programming for Multitask
+  Dynamic Flexible Job Shop Scheduling'
 ---
 # TransGP: Task-Conditioned Transformer-Guided Genetic Programming for Multitask Dynamic Flexible Job Shop Scheduling
 > 原文: [https://arxiv.org/abs/2604.03705](https://arxiv.org/abs/2604.03705)

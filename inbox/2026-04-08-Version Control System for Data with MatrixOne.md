@@ -1,11 +1,12 @@
 ---
-title: "Version Control System for Data with MatrixOne"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.03927
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03927
 next_step: skim
+priority: low
+slack_ts: '1775703389.626539'
+source: cs.DB - Databases
+status: unread
+title: Version Control System for Data with MatrixOne
 ---
 # Version Control System for Data with MatrixOne
 > 原文: [https://arxiv.org/abs/2604.03927](https://arxiv.org/abs/2604.03927)

@@ -1,11 +1,12 @@
 ---
-title: "Nonparametric Regression Discontinuity Designs with Survival Outcomes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.03502
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03502
 next_step: skim
+priority: medium
+slack_ts: '1775703383.456829'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Nonparametric Regression Discontinuity Designs with Survival Outcomes
 ---
 # Nonparametric Regression Discontinuity Designs with Survival Outcomes
 > 原文: [https://arxiv.org/abs/2604.03502](https://arxiv.org/abs/2604.03502)

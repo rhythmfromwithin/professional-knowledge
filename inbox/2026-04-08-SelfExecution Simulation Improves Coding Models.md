@@ -1,11 +1,12 @@
 ---
-title: "Self-Execution Simulation Improves Coding Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.03253
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03253
 next_step: skim
+priority: high
+slack_ts: '1775703386.261549'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Self-Execution Simulation Improves Coding Models
 ---
 # Self-Execution Simulation Improves Coding Models
 > 原文: [https://arxiv.org/abs/2604.03253](https://arxiv.org/abs/2604.03253)

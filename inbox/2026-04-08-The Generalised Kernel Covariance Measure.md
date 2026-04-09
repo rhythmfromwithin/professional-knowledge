@@ -1,11 +1,12 @@
 ---
-title: "The Generalised Kernel Covariance Measure"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.03721
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03721
 next_step: skim
+priority: medium
+slack_ts: '1775703387.782949'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: The Generalised Kernel Covariance Measure
 ---
 # The Generalised Kernel Covariance Measure
 > 原文: [https://arxiv.org/abs/2604.03721](https://arxiv.org/abs/2604.03721)

@@ -1,11 +1,13 @@
 ---
-title: "VectraFlow: Long-Horizon Semantic Processing over Data and Event Streams with LLMs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.03855
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03855
 next_step: skim
+priority: low
+slack_ts: '1775703389.311259'
+source: cs.DB - Databases
+status: unread
+title: 'VectraFlow: Long-Horizon Semantic Processing over Data and Event Streams with
+  LLMs'
 ---
 # VectraFlow: Long-Horizon Semantic Processing over Data and Event Streams with LLMs
 > 原文: [https://arxiv.org/abs/2604.03855](https://arxiv.org/abs/2604.03855)

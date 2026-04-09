@@ -1,11 +1,12 @@
 ---
-title: "Topological Sensitivity in Connectome-Constrained Neural Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.04033
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04033
 next_step: skim
+priority: low
+slack_ts: '1775703388.527939'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Topological Sensitivity in Connectome-Constrained Neural Networks
 ---
 # Topological Sensitivity in Connectome-Constrained Neural Networks
 > 原文: [https://arxiv.org/abs/2604.04033](https://arxiv.org/abs/2604.04033)

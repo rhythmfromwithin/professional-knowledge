@@ -1,11 +1,12 @@
 ---
-title: "Scaling DPPs for RAG: Density Meets Diversity"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.03240
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03240
 next_step: skim
+priority: high
+slack_ts: '1775703385.761439'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Scaling DPPs for RAG: Density Meets Diversity'
 ---
 # Scaling DPPs for RAG: Density Meets Diversity
 > 原文: [https://arxiv.org/abs/2604.03240](https://arxiv.org/abs/2604.03240)

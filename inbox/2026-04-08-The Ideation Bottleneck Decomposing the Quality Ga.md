@@ -1,11 +1,13 @@
 ---
-title: "The Ideation Bottleneck: Decomposing the Quality Gap Between AI-Generated and Human Economics Research"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.03338
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03338
 next_step: skim
+priority: low
+slack_ts: '1775703388.027639'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Ideation Bottleneck: Decomposing the Quality Gap Between AI-Generated
+  and Human Economics Research'
 ---
 # The Ideation Bottleneck: Decomposing the Quality Gap Between AI-Generated and Human Economics Research
 > 原文: [https://arxiv.org/abs/2604.03338](https://arxiv.org/abs/2604.03338)

@@ -1,11 +1,13 @@
 ---
-title: "Minos: Systematically Classifying Performance and Power Characteristics of GPU Workloads on HPC Clusters"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.03591
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03591
 next_step: skim
+priority: medium
+slack_ts: '1775703382.405219'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Minos: Systematically Classifying Performance and Power Characteristics of
+  GPU Workloads on HPC Clusters'
 ---
 # Minos: Systematically Classifying Performance and Power Characteristics of GPU Workloads on HPC Clusters
 > 原文: [https://arxiv.org/abs/2604.03591](https://arxiv.org/abs/2604.03591)

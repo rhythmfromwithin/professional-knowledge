@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2604.05166
+next_step: skim
+priority: low
+slack_ts: '1775703399.428419'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Use to Oversight: How Mental Models Influence User Behavior and Output
+  in AI Writing Assistants'
+---
+# From Use to Oversight: How Mental Models Influence User Behavior and Output in AI Writing Assistants
+> 原文: [https://arxiv.org/abs/2604.05166](https://arxiv.org/abs/2604.05166)
+
+arXiv:2604.05166v1 Announce Type: new
+Abstract: AI-based writing assistants are ubiquitous, yet little is known about how users' mental models shape their use. We examine two types of mental models -- functional or related to what the system does, and structural or related to how the system works -- and how they affect control behavior -- how users request, accept, or edit AI suggestions as they write -- and writing outcomes. We primed participants ($N = 48$) with different system descriptions to induce these mental models before asking them to complete a cover letter writing task using a writing assistant that occasionally offered preconfigured ungrammatical suggestions to test whether the mental models affected participants' critical oversight. We find that while participants in the structural mental model condition demonstrate a better understanding of the system, this can have a backfiring effect: while these participants judged the system as more usable, they also produced letters with more grammatical errors, highlighting a complex relationship between system understanding, trust, and control in contexts that require user oversight of error-prone AI outputs.

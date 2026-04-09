@@ -1,11 +1,12 @@
 ---
-title: "Manage AI costs with Amazon Bedrock Projects"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/
 next_step: skim
+priority: high
+slack_ts: '1775703381.899639'
+source: AWS Blog
+status: unread
+title: Manage AI costs with Amazon Bedrock Projects
 ---
 # Manage AI costs with Amazon Bedrock Projects
 > 原文: [https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/](https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/)

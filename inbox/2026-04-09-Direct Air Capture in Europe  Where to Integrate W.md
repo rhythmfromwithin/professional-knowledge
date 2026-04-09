@@ -1,0 +1,14 @@
+---
+title: "Direct Air Capture in Europe - Where to Integrate, Where to Store, and What Drives Cost?"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2604.05990
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Direct Air Capture in Europe - Where to Integrate, Where to Store, and What Drives Cost?
+> 原文: [https://arxiv.org/abs/2604.05990](https://arxiv.org/abs/2604.05990)
+
+arXiv:2604.05990v1 Announce Type: cross
+Abstract: Direct Air Carbon Capture and Storage (DACCS) can mitigate hard-to-abate emissions, e.g. from transport or industry. However, there is a wide variety of cost estimates for DACCS, driven, to a significant extent, by differences in electricity cost. At the same time, there is a notable gap in research that integrates direct air capturing systems into long-term energy system models. We separate direct air capturing, carbon transport, and carbon storage and integrate them into a European capacity expansion model for a fully decarbonised electricity system in 2050. We explore how two dimensions affect the total system costs of DACCS. The first dimension is the availability of CO2 storage locations: In one analysis, storage locations are restricted to offshore storage locations in the North Sea only, i.e. depleted natural gas fields. The alternative analysis comprises suitable storage locations distributed across Europe, including onshore. We find that limiting CO2 storage to North Sea sites increases overall capture costs by approximately 10 %. The second dimension is whether DACCS is analysed as stand-alone or integrated into the electricity system. We differentiate between three alternatives: fully isolated, fully integrated, and retrospectively added to an existing system. We find that neglecting system integration - i.e. treating direct air capture system as a stand-alone technology - increases capture costs by up to 30 %.

@@ -1,11 +1,12 @@
 ---
-title: "Security Analysis of Universal Circuits as a Mechanism for Hardware Obfuscation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.03396
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03396
 next_step: skim
+priority: low
+slack_ts: '1775703386.011969'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Security Analysis of Universal Circuits as a Mechanism for Hardware Obfuscation
 ---
 # Security Analysis of Universal Circuits as a Mechanism for Hardware Obfuscation
 > 原文: [https://arxiv.org/abs/2604.03396](https://arxiv.org/abs/2604.03396)

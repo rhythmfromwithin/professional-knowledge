@@ -1,11 +1,13 @@
 ---
-title: "Systematic Review of Academic Procrastination Interventions in Computing Higher Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.03248
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03248
 next_step: skim
+priority: medium
+slack_ts: '1775703387.275379'
+source: cs.CY - Computers and Society
+status: unread
+title: Systematic Review of Academic Procrastination Interventions in Computing Higher
+  Education
 ---
 # Systematic Review of Academic Procrastination Interventions in Computing Higher Education
 > 原文: [https://arxiv.org/abs/2604.03248](https://arxiv.org/abs/2604.03248)

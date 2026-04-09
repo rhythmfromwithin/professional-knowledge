@@ -1,11 +1,13 @@
 ---
-title: "SDVDiag: Using Context-Aware Causality Mining for the Diagnosis of Connected Vehicle Functions"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.03391
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03391
 next_step: skim
+priority: low
+slack_ts: '1775703385.486689'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SDVDiag: Using Context-Aware Causality Mining for the Diagnosis of Connected
+  Vehicle Functions'
 ---
 # SDVDiag: Using Context-Aware Causality Mining for the Diagnosis of Connected Vehicle Functions
 > 原文: [https://arxiv.org/abs/2604.03391](https://arxiv.org/abs/2604.03391)

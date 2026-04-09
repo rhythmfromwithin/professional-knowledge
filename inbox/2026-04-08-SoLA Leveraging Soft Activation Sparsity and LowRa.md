@@ -1,11 +1,13 @@
 ---
-title: "SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.03258
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03258
 next_step: skim
+priority: high
+slack_ts: '1775703386.515639'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large
+  Language Model Compression'
 ---
 # SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression
 > 原文: [https://arxiv.org/abs/2604.03258](https://arxiv.org/abs/2604.03258)

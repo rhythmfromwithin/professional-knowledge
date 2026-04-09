@@ -1,11 +1,13 @@
 ---
-title: "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.03234
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03234
 next_step: skim
+priority: high
+slack_ts: '1775703386.781309'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe
+  Decomposability for Metaheuristic Optimization'
 ---
 # Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization
 > 原文: [https://arxiv.org/abs/2604.03234](https://arxiv.org/abs/2604.03234)

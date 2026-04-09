@@ -1,11 +1,13 @@
 ---
-title: "Surrogate Model-Based Near-Optimal Gain Selection for Approach-Angle-Constrained Two-Phase Pure Proportional Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.03371
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03371
 next_step: skim
+priority: medium
+slack_ts: '1775703387.025149'
+source: cs.RO - Robotics
+status: unread
+title: Surrogate Model-Based Near-Optimal Gain Selection for Approach-Angle-Constrained
+  Two-Phase Pure Proportional Navigation
 ---
 # Surrogate Model-Based Near-Optimal Gain Selection for Approach-Angle-Constrained Two-Phase Pure Proportional Navigation
 > 原文: [https://arxiv.org/abs/2604.03371](https://arxiv.org/abs/2604.03371)

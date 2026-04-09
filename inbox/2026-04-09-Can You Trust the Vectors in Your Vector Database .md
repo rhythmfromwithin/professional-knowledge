@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2604.05480
+next_step: skim
+priority: low
+slack_ts: '1775703395.075369'
+source: cs.DB - Databases
+status: unread
+title: Can You Trust the Vectors in Your Vector Database? Black-Hole Attack from Embedding
+  Space Defects
+---
+# Can You Trust the Vectors in Your Vector Database? Black-Hole Attack from Embedding Space Defects
+> 原文: [https://arxiv.org/abs/2604.05480](https://arxiv.org/abs/2604.05480)
+
+arXiv:2604.05480v1 Announce Type: cross
+Abstract: Vector databases serve as the retrieval backbone of modern AI applications, yet their security remains largely unexplored. We propose the Black-Hole Attack, a poisoning attack that injects a small number of malicious vectors near the geometric center of the stored vectors. These injected vectors attract queries like a black hole and frequently appear in the top-k retrieval results for most queries. This attack is enabled by a phenomenon we term centrality-driven hubness: in high-dimensional embedding spaces, vectors near the centroid become nearest neighbors of a disproportionately large number of other vectors, while this centroid region is nearly empty in practice. The attack shows that vectors in a vector database cannot be blindly trusted: geometric defects in high-dimensional embeddings make retrieval inherently vulnerable. Our experiments show that malicious vectors appear in up to 99.85% of top-10 results. Additionally, we evaluate existing hubness mitigation methods as potential defenses against the Black-Hole Attack. The results show that these methods either significantly reduce retrieval accuracy or provide limited protection, which indicates the need for more robust defenses against the Black-Hole Attack.

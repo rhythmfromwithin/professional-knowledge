@@ -1,11 +1,13 @@
 ---
-title: "Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.03233
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03233
 next_step: skim
+priority: high
+slack_ts: '1775703380.391449'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework
+  for Cultural Heritage Conservation'
 ---
 # Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation
 > 原文: [https://arxiv.org/abs/2604.03233](https://arxiv.org/abs/2604.03233)

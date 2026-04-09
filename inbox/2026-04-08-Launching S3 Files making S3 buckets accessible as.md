@@ -1,11 +1,12 @@
 ---
-title: "Launching S3 Files, making S3 buckets accessible as file systems"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/
 next_step: skim
+priority: high
+slack_ts: '1775703381.654499'
+source: AWS Blog
+status: unread
+title: Launching S3 Files, making S3 buckets accessible as file systems
 ---
 # Launching S3 Files, making S3 buckets accessible as file systems
 > 原文: [https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)

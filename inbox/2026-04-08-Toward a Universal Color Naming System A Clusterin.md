@@ -1,11 +1,13 @@
 ---
-title: "Toward a Universal Color Naming System: A Clustering-Based Approach using Multisource Data"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.03235
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03235
 next_step: skim
+priority: low
+slack_ts: '1775703388.797259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Toward a Universal Color Naming System: A Clustering-Based Approach using
+  Multisource Data'
 ---
 # Toward a Universal Color Naming System: A Clustering-Based Approach using Multisource Data
 > 原文: [https://arxiv.org/abs/2604.03235](https://arxiv.org/abs/2604.03235)

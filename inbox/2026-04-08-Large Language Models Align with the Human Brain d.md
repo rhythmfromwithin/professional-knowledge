@@ -1,11 +1,12 @@
 ---
-title: "Large Language Models Align with the Human Brain during Creative Thinking"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.03480
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.03480
 next_step: skim
+priority: low
+slack_ts: '1775703381.394329'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Large Language Models Align with the Human Brain during Creative Thinking
 ---
 # Large Language Models Align with the Human Brain during Creative Thinking
 > 原文: [https://arxiv.org/abs/2604.03480](https://arxiv.org/abs/2604.03480)
