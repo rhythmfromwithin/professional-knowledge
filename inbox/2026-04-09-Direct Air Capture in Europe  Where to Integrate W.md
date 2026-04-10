@@ -1,11 +1,13 @@
 ---
-title: "Direct Air Capture in Europe - Where to Integrate, Where to Store, and What Drives Cost?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.05990
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05990
 next_step: skim
+priority: low
+slack_ts: '1775791736.046709'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Direct Air Capture in Europe - Where to Integrate, Where to Store, and What
+  Drives Cost?
 ---
 # Direct Air Capture in Europe - Where to Integrate, Where to Store, and What Drives Cost?
 > 原文: [https://arxiv.org/abs/2604.05990](https://arxiv.org/abs/2604.05990)

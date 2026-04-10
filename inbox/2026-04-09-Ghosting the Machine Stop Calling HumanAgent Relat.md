@@ -1,11 +1,12 @@
 ---
-title: "Ghosting the Machine: Stop Calling Human-Agent Relations Parasocial"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.05197
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05197
 next_step: skim
+priority: low
+slack_ts: '1775791737.845019'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Ghosting the Machine: Stop Calling Human-Agent Relations Parasocial'
 ---
 # Ghosting the Machine: Stop Calling Human-Agent Relations Parasocial
 > 原文: [https://arxiv.org/abs/2604.05197](https://arxiv.org/abs/2604.05197)

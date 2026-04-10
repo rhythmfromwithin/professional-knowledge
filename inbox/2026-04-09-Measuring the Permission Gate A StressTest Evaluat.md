@@ -1,11 +1,13 @@
 ---
-title: "Measuring the Permission Gate: A Stress-Test Evaluation of Claude Code's Auto Mode"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.04978
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04978
 next_step: skim
+priority: low
+slack_ts: '1775791740.307469'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Measuring the Permission Gate: A Stress-Test Evaluation of Claude Code''s
+  Auto Mode'
 ---
 # Measuring the Permission Gate: A Stress-Test Evaluation of Claude Code's Auto Mode
 > 原文: [https://arxiv.org/abs/2604.04978](https://arxiv.org/abs/2604.04978)

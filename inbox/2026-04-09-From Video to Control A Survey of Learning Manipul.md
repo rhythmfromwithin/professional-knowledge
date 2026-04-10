@@ -1,11 +1,13 @@
 ---
-title: "From Video to Control: A Survey of Learning Manipulation Interfaces from Temporal Visual Data"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.04974
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04974
 next_step: skim
+priority: medium
+slack_ts: '1775791737.062719'
+source: cs.RO - Robotics
+status: unread
+title: 'From Video to Control: A Survey of Learning Manipulation Interfaces from Temporal
+  Visual Data'
 ---
 # From Video to Control: A Survey of Learning Manipulation Interfaces from Temporal Visual Data
 > 原文: [https://arxiv.org/abs/2604.04974](https://arxiv.org/abs/2604.04974)

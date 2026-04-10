@@ -1,11 +1,13 @@
 ---
-title: "Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.04986
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04986
 next_step: skim
+priority: high
+slack_ts: '1775791736.640009'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Enhancing sample efficiency in reinforcement-learning-based flow control:
+  replacing the critic with an adaptive reduced-order model'
 ---
 # Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model
 > 原文: [https://arxiv.org/abs/2604.04986](https://arxiv.org/abs/2604.04986)

@@ -1,11 +1,13 @@
 ---
-title: "ML Defender (aRGus NDR): An Open-Source Embedded ML NIDS for Botnet and Anomalous Traffic Detection in Resource-Constrained Organizations"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.04952
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04952
 next_step: skim
+priority: low
+slack_ts: '1775791740.041029'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ML Defender (aRGus NDR): An Open-Source Embedded ML NIDS for Botnet and Anomalous
+  Traffic Detection in Resource-Constrained Organizations'
 ---
 # ML Defender (aRGus NDR): An Open-Source Embedded ML NIDS for Botnet and Anomalous Traffic Detection in Resource-Constrained Organizations
 > 原文: [https://arxiv.org/abs/2604.04952](https://arxiv.org/abs/2604.04952)

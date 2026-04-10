@@ -1,11 +1,13 @@
 ---
-title: "TDA-RC: Task-Driven Alignment for Knowledge-Based Reasoning Chains in Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.04942
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04942
 next_step: skim
+priority: high
+slack_ts: '1775791743.240029'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TDA-RC: Task-Driven Alignment for Knowledge-Based Reasoning Chains in Large
+  Language Models'
 ---
 # TDA-RC: Task-Driven Alignment for Knowledge-Based Reasoning Chains in Large Language Models
 > 原文: [https://arxiv.org/abs/2604.04942](https://arxiv.org/abs/2604.04942)

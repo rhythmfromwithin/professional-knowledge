@@ -1,11 +1,12 @@
 ---
-title: "Protecting people from harmful manipulation"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
 next_step: skim
+priority: high
+slack_ts: '1775791741.565009'
+source: DeepMind Blog
+status: unread
+title: Protecting people from harmful manipulation
 ---
 # Protecting people from harmful manipulation
 > 原文: [https://deepmind.google/blog/protecting-people-from-harmful-manipulation/](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)

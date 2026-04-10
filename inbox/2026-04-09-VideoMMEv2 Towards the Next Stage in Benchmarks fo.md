@@ -1,11 +1,13 @@
 ---
-title: "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.05015
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05015
 next_step: skim
+priority: medium
+slack_ts: '1775791744.253329'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video
+  Understanding'
 ---
 # Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
 > 原文: [https://arxiv.org/abs/2604.05015](https://arxiv.org/abs/2604.05015)

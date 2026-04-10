@@ -1,0 +1,14 @@
+---
+title: "The Traveling Thief Problem with Time Windows: Benchmarks and Heuristics"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2604.06724
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Traveling Thief Problem with Time Windows: Benchmarks and Heuristics
+> 原文: [https://arxiv.org/abs/2604.06724](https://arxiv.org/abs/2604.06724)
+
+arXiv:2604.06724v1 Announce Type: new
+Abstract: While traditional optimization problems were often studied in isolation, many real-world problems today require interdependence among multiple optimization components. The traveling thief problem (TTP) is a multi-component problem that has been widely studied in the literature. In this paper, we introduce and investigate the TTP with time window constraints which provides a TTP variant highly relevant to real-world situations where good can only be collected at given time intervals. We examine adaptions of existing approaches for TTP and the Traveling Salesperson Problem (TSP) with time windows to this new problem and evaluate their performance. Furthermore, we provide a new heuristic approach for the TTP with time windows. To evaluate algorithms for TTP with time windows, we introduce new TTP benchmark instances with time windows based on TTP instances existing in the literature. Our experimental investigations evaluate the different approaches and show that the newly designed algorithm outperforms the other approaches on a wide range of benchmark instances.

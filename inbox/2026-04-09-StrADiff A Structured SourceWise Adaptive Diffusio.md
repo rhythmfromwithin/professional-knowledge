@@ -1,11 +1,13 @@
 ---
-title: "StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.04973
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04973
 next_step: skim
+priority: medium
+slack_ts: '1775791743.033149'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear
+  and Nonlinear Blind Source Separation'
 ---
 # StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation
 > 原文: [https://arxiv.org/abs/2604.04973](https://arxiv.org/abs/2604.04973)

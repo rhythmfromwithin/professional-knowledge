@@ -1,11 +1,13 @@
 ---
-title: "RCP: Representation Consistency Pruner for Mitigating Distribution Shift in Large Vision-Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.04972
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04972
 next_step: skim
+priority: medium
+slack_ts: '1775791741.980649'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RCP: Representation Consistency Pruner for Mitigating Distribution Shift in
+  Large Vision-Language Models'
 ---
 # RCP: Representation Consistency Pruner for Mitigating Distribution Shift in Large Vision-Language Models
 > 原文: [https://arxiv.org/abs/2604.04972](https://arxiv.org/abs/2604.04972)

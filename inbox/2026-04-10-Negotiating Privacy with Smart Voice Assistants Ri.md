@@ -1,0 +1,14 @@
+---
+title: "Negotiating Privacy with Smart Voice Assistants: Risk-Benefit and Control-Acceptance Tensions"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2604.06235
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Negotiating Privacy with Smart Voice Assistants: Risk-Benefit and Control-Acceptance Tensions
+> 原文: [https://arxiv.org/abs/2604.06235](https://arxiv.org/abs/2604.06235)
+
+arXiv:2604.06235v1 Announce Type: new
+Abstract: Smart Voice assistants (SVAs) are widely adopted by youth, yet privacy decision-making in these environments is often characterized by competing considerations rather than clear-cut preferences. While our prior research has examined privacy risks, benefits, trust, and self-efficacy as distinct predictors of behavior, less attention has been paid to how these factors combine into higher-level tension that shapes privacy outcomes. This study introduces a negotiation-based framework for understanding youth privacy decision-making with SVAs by operationalizing two composite indices: the Risk-Benefit Tension Index (RBTI) and the Control-Acceptance Tension Index (CATI), using survey data from 469 Canadian youth aged 16-24. We examine the distribution of these indices and their relationship with privacy-protective behavior and SVA usage. Results show that both indices are meaningfully associated with protective action. Frequent SVA usage exhibits more benefit-dominant and acceptance-leaning negotiation profiles, suggesting that convenience-driven engagement may come at the expense of perceived control. By reframing privacy decision-making as a process of negotiation rather than inconsistency, this study offers a complementary perspective on the privacy paradox and provides a compact measurement approach for capturing how youth navigate competing privacy pressures in voice-enabled ecosystems.

@@ -1,11 +1,12 @@
 ---
-title: "Designing Digital Humans with Ambient Intelligence"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.05120
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05120
 next_step: skim
+priority: low
+slack_ts: '1775791735.829619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Designing Digital Humans with Ambient Intelligence
 ---
 # Designing Digital Humans with Ambient Intelligence
 > 原文: [https://arxiv.org/abs/2604.05120](https://arxiv.org/abs/2604.05120)

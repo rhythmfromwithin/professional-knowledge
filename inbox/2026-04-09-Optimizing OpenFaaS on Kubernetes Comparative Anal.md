@@ -1,11 +1,13 @@
 ---
-title: "Optimizing OpenFaaS on Kubernetes: Comparative Analysis of Language Runtimes and Cluster Distributions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.05496
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05496
 next_step: skim
+priority: medium
+slack_ts: '1775791740.944709'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Optimizing OpenFaaS on Kubernetes: Comparative Analysis of Language Runtimes
+  and Cluster Distributions'
 ---
 # Optimizing OpenFaaS on Kubernetes: Comparative Analysis of Language Runtimes and Cluster Distributions
 > 原文: [https://arxiv.org/abs/2604.05496](https://arxiv.org/abs/2604.05496)

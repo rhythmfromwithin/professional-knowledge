@@ -1,11 +1,12 @@
 ---
-title: "Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.04979
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04979
 next_step: skim
+priority: low
+slack_ts: '1775791742.804059'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents'
 ---
 # Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents
 > 原文: [https://arxiv.org/abs/2604.04979](https://arxiv.org/abs/2604.04979)

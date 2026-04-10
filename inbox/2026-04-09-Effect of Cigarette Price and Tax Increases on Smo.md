@@ -1,11 +1,13 @@
 ---
-title: "Effect of Cigarette Price and Tax Increases on Smoking in Europe: A Difference-in-Differences Study with Double Machine Learning"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.05841
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05841
 next_step: skim
+priority: low
+slack_ts: '1775791736.442649'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Effect of Cigarette Price and Tax Increases on Smoking in Europe: A Difference-in-Differences
+  Study with Double Machine Learning'
 ---
 # Effect of Cigarette Price and Tax Increases on Smoking in Europe: A Difference-in-Differences Study with Double Machine Learning
 > 原文: [https://arxiv.org/abs/2604.05841](https://arxiv.org/abs/2604.05841)

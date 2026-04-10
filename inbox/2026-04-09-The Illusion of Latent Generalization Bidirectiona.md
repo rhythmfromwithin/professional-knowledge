@@ -1,11 +1,13 @@
 ---
-title: "The Illusion of Latent Generalization: Bi-directionality and the Reversal Curse"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.04943
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04943
 next_step: skim
+priority: high
+slack_ts: '1775791743.643689'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Illusion of Latent Generalization: Bi-directionality and the Reversal
+  Curse'
 ---
 # The Illusion of Latent Generalization: Bi-directionality and the Reversal Curse
 > 原文: [https://arxiv.org/abs/2604.04943](https://arxiv.org/abs/2604.04943)

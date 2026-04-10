@@ -1,0 +1,14 @@
+---
+title: "The Geometry of Forgetting"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2604.06222
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Geometry of Forgetting
+> 原文: [https://arxiv.org/abs/2604.06222](https://arxiv.org/abs/2604.06222)
+
+arXiv:2604.06222v1 Announce Type: new
+Abstract: Why do we forget? Why do we remember things that never happened? The conventional answer points to biological hardware. We propose a different one: geometry. Here we show that high-dimensional embedding spaces, subjected to noise, interference, and temporal degradation, reproduce quantitative signatures of human memory with no phenomenon-specific engineering. Power-law forgetting ($b = 0.460 \pm 0.183$, human $b \approx 0.5$) arises from interference among competing memories, not from decay. The identical decay function without competitors yields $b \approx 0.009$, fifty times smaller. Time alone does not produce forgetting in this system. Competition does. Production embedding models (nominally 384--1{,}024 dimensions) concentrate their variance in only ${\sim}16$ effective dimensions, placing them deep in the interference-vulnerable regime. False memories require no engineering at all: cosine similarity on unmodified pre-trained embeddings reproduces the Deese--Roediger--McDermott false alarm rate ($0.583$ versus human ${\sim}0.55$) with zero parameter tuning and no boundary conditions. We did not build a false memory system. We found one already present in the raw geometry of semantic space. These results suggest that core memory phenomena are not bugs of biological implementation but features of any system that organizes information by meaning and retrieves it by proximity.

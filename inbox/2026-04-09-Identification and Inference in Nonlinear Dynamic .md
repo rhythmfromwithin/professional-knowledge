@@ -1,11 +1,12 @@
 ---
-title: "Identification and Inference in Nonlinear Dynamic Network Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.04961
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04961
 next_step: skim
+priority: medium
+slack_ts: '1775791738.828289'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Identification and Inference in Nonlinear Dynamic Network Models
 ---
 # Identification and Inference in Nonlinear Dynamic Network Models
 > 原文: [https://arxiv.org/abs/2604.04961](https://arxiv.org/abs/2604.04961)

@@ -1,11 +1,13 @@
 ---
-title: "Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive Creativity"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.04953
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04953
 next_step: skim
+priority: medium
+slack_ts: '1775791737.653469'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive
+  Creativity'
 ---
 # Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive Creativity
 > 原文: [https://arxiv.org/abs/2604.04953](https://arxiv.org/abs/2604.04953)

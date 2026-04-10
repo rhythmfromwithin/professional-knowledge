@@ -1,11 +1,13 @@
 ---
-title: "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.04939
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04939
 next_step: skim
+priority: high
+slack_ts: '1775791741.775069'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Proximity Measure of Information Object Features for Solving the Problem of
+  Their Identification in Information Systems
 ---
 # Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems
 > 原文: [https://arxiv.org/abs/2604.04939](https://arxiv.org/abs/2604.04939)

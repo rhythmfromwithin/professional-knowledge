@@ -1,0 +1,14 @@
+---
+title: ""Help Me, But Don't Watch Me": Intervention Timing and Privacy Boundaries for Process-Aware AI Tutors"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2604.06178
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# "Help Me, But Don't Watch Me": Intervention Timing and Privacy Boundaries for Process-Aware AI Tutors
+> 原文: [https://arxiv.org/abs/2604.06178](https://arxiv.org/abs/2604.06178)
+
+arXiv:2604.06178v1 Announce Type: new
+Abstract: The use of generative AI (genAI) tools as informal tutors is becoming increasingly prevalent among secondary school students in mathematics learning. In many schools, individualized instructional support is limited, and one-on-one human tutoring remains costly in most learning contexts. GenAI has the potential to provide timely, on-demand help to students when teachers or tutors are not available. However, there are still few studies that examine students' preferences for AI tutor support that enhances autonomous learning. We investigated learner expectations for AI tutoring through a survey with secondary school students in China (Grades 7-11; N=330). Students generally preferred support that preserves learner autonomy (e.g., time to think, hints over direct answers), expressed mixed or cautious preferences between human and AI tutors, and held nuanced views of proactive intervention, valuing adaptivity but also worrying about annoyance and autonomy. Privacy boundaries were uneven: many accepted sharing problem steps and error patterns, while willingness dropped for more sensitive signals such as attention or behavior. Our findings offer learner-centered insights for designing AI tutors that balance timely intervention with student agency, and personalization with perceived boundaries in a K-12 context.

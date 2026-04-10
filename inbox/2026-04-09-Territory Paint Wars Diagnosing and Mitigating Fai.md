@@ -1,11 +1,13 @@
 ---
-title: "Territory Paint Wars: Diagnosing and Mitigating Failure Modes in Competitive Multi-Agent PPO"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.04983
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04983
 next_step: skim
+priority: high
+slack_ts: '1775791743.452019'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Territory Paint Wars: Diagnosing and Mitigating Failure Modes in Competitive
+  Multi-Agent PPO'
 ---
 # Territory Paint Wars: Diagnosing and Mitigating Failure Modes in Competitive Multi-Agent PPO
 > 原文: [https://arxiv.org/abs/2604.04983](https://arxiv.org/abs/2604.04983)

@@ -1,11 +1,12 @@
 ---
-title: "SkillAttack: Automated Red Teaming of Agent Skills through Attack Path Refinement"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.04989
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04989
 next_step: skim
+priority: low
+slack_ts: '1775791742.411539'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SkillAttack: Automated Red Teaming of Agent Skills through Attack Path Refinement'
 ---
 # SkillAttack: Automated Red Teaming of Agent Skills through Attack Path Refinement
 > 原文: [https://arxiv.org/abs/2604.04989](https://arxiv.org/abs/2604.04989)

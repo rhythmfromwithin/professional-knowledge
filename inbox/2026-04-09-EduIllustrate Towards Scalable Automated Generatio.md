@@ -1,11 +1,13 @@
 ---
-title: "EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational Content"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.05005
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.05005
 next_step: skim
+priority: medium
+slack_ts: '1775791736.243139'
+source: cs.CY - Computers and Society
+status: unread
+title: 'EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational
+  Content'
 ---
 # EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational Content
 > 原文: [https://arxiv.org/abs/2604.05005](https://arxiv.org/abs/2604.05005)

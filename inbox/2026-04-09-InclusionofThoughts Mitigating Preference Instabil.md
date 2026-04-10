@@ -1,11 +1,13 @@
 ---
-title: "Inclusion-of-Thoughts: Mitigating Preference Instability via Purifying the Decision Space"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.04944
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.04944
 next_step: skim
+priority: high
+slack_ts: '1775791739.034339'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Inclusion-of-Thoughts: Mitigating Preference Instability via Purifying the
+  Decision Space'
 ---
 # Inclusion-of-Thoughts: Mitigating Preference Instability via Purifying the Decision Space
 > 原文: [https://arxiv.org/abs/2604.04944](https://arxiv.org/abs/2604.04944)
