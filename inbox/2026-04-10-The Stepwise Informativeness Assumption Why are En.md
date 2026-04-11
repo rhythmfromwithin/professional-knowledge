@@ -1,11 +1,13 @@
 ---
-title: "The Stepwise Informativeness Assumption: Why are Entropy Dynamics and Reasoning Correlated in LLMs?"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.06192
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06192
 next_step: skim
+priority: high
+slack_ts: '1775875958.083969'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Stepwise Informativeness Assumption: Why are Entropy Dynamics and Reasoning
+  Correlated in LLMs?'
 ---
 # The Stepwise Informativeness Assumption: Why are Entropy Dynamics and Reasoning Correlated in LLMs?
 > 原文: [https://arxiv.org/abs/2604.06192](https://arxiv.org/abs/2604.06192)

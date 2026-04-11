@@ -1,11 +1,13 @@
 ---
-title: "ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.06370
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06370
 next_step: skim
+priority: medium
+slack_ts: '1775875952.690389'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV
+  Cache'
 ---
 # ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache
 > 原文: [https://arxiv.org/abs/2604.06370](https://arxiv.org/abs/2604.06370)

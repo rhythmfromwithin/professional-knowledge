@@ -1,11 +1,13 @@
 ---
-title: "Thinking in Graphs with CoMAP: A Shared Visual Workspace for Designing Project-Based Learning"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.06200
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06200
 next_step: skim
+priority: medium
+slack_ts: '1775875958.683179'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Thinking in Graphs with CoMAP: A Shared Visual Workspace for Designing Project-Based
+  Learning'
 ---
 # Thinking in Graphs with CoMAP: A Shared Visual Workspace for Designing Project-Based Learning
 > 原文: [https://arxiv.org/abs/2604.06200](https://arxiv.org/abs/2604.06200)

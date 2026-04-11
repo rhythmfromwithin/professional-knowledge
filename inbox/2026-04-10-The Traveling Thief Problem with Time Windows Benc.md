@@ -1,11 +1,12 @@
 ---
-title: "The Traveling Thief Problem with Time Windows: Benchmarks and Heuristics"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.06724
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06724
 next_step: skim
+priority: low
+slack_ts: '1775875958.279079'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Traveling Thief Problem with Time Windows: Benchmarks and Heuristics'
 ---
 # The Traveling Thief Problem with Time Windows: Benchmarks and Heuristics
 > 原文: [https://arxiv.org/abs/2604.06724](https://arxiv.org/abs/2604.06724)

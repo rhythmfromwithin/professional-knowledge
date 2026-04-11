@@ -1,11 +1,13 @@
 ---
-title: "Generalization error bounds for two-layer neural networks with Lipschitz loss function"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.06281
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06281
 next_step: skim
+priority: medium
+slack_ts: '1775875953.318669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Generalization error bounds for two-layer neural networks with Lipschitz loss
+  function
 ---
 # Generalization error bounds for two-layer neural networks with Lipschitz loss function
 > 原文: [https://arxiv.org/abs/2604.06281](https://arxiv.org/abs/2604.06281)

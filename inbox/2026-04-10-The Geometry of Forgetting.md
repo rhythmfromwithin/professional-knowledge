@@ -1,11 +1,12 @@
 ---
-title: "The Geometry of Forgetting"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.06222
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06222
 next_step: skim
+priority: low
+slack_ts: '1775875957.885679'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Geometry of Forgetting
 ---
 # The Geometry of Forgetting
 > 原文: [https://arxiv.org/abs/2604.06222](https://arxiv.org/abs/2604.06222)

@@ -1,0 +1,14 @@
+---
+title: "SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2604.08021
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking
+> 原文: [https://arxiv.org/abs/2604.08021](https://arxiv.org/abs/2604.08021)
+
+arXiv:2604.08021v1 Announce Type: new
+Abstract: Database research and the development of learned query optimisers rely heavily on realistic SQL workloads. Acquiring real-world queries is increasingly difficult, however, due to strict privacy regulations, and publicly released anonymised traces typically strip out executable query text to preserve confidentiality. Existing synthesis tools fail to bridge this training data gap: traditional benchmarks offer too few fixed templates for statistical generalisation, while Large Language Model (LLM) approaches suffer from schema hallucination fabricating non-existent columns and topological collapse systematically defaulting to simplistic join patterns that fail to stress-test query optimisers. We propose SynQL, a deterministic workload synthesis framework that generates structurally diverse, execution-ready SQL workloads. As a foundational step toward bridging the training-data gap, SynQL targets the core SQL fragment -- multi-table joins with projections, aggregations, and range predicates -- which dominates analytical workloads. SynQL abandons probabilistic text generation in favour of traversing the live database's foreign-key graph to populate an Abstract Syntax Tree (AST), guaranteeing schema and syntactic validity by construction. A configuration vector $\Theta$ provides explicit, parametric control over join topology (Star, Chain, Fork), analytical intensity, and predicate selectivity. Experiments on TPC-H and IMDb show that SynQL produces near-maximally diverse workloads (Topological Entropy $H = 1.53$ bits) and that tree-based cost models trained on the synthetic corpus achieve $R^2 \ge 0.79$ on held-out synthetic test sets with sub-millisecond inference latency, establishing SynQL as an effective foundation for generating training data when production logs are inaccessible.

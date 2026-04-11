@@ -1,11 +1,5 @@
 ---
-title: ""Help Me, But Don't Watch Me": Intervention Timing and Privacy Boundaries for Process-Aware AI Tutors"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.06178
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1775875953.932399'
 ---
 # "Help Me, But Don't Watch Me": Intervention Timing and Privacy Boundaries for Process-Aware AI Tutors
 > 原文: [https://arxiv.org/abs/2604.06178](https://arxiv.org/abs/2604.06178)

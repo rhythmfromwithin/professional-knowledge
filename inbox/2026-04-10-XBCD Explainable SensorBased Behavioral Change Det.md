@@ -1,11 +1,13 @@
 ---
-title: "X-BCD: Explainable Sensor-Based Behavioral Change Detection in Smart Home Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.06174
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06174
 next_step: skim
+priority: low
+slack_ts: '1775875960.332179'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'X-BCD: Explainable Sensor-Based Behavioral Change Detection in Smart Home
+  Environments'
 ---
 # X-BCD: Explainable Sensor-Based Behavioral Change Detection in Smart Home Environments
 > 原文: [https://arxiv.org/abs/2604.06174](https://arxiv.org/abs/2604.06174)

@@ -1,11 +1,13 @@
 ---
-title: "Designing Privacy-Preserving Visual Perception for Robot Navigation Based on User Privacy Preferences"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.06382
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06382
 next_step: skim
+priority: medium
+slack_ts: '1775875950.919079'
+source: cs.RO - Robotics
+status: unread
+title: Designing Privacy-Preserving Visual Perception for Robot Navigation Based on
+  User Privacy Preferences
 ---
 # Designing Privacy-Preserving Visual Perception for Robot Navigation Based on User Privacy Preferences
 > 原文: [https://arxiv.org/abs/2604.06382](https://arxiv.org/abs/2604.06382)

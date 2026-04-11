@@ -1,11 +1,13 @@
 ---
-title: "Depression Detection at the Point of Care: Automated Analysis of Linguistic Signals from Routine Primary Care Encounters"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.06193
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06193
 next_step: skim
+priority: high
+slack_ts: '1775875950.716109'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Depression Detection at the Point of Care: Automated Analysis of Linguistic
+  Signals from Routine Primary Care Encounters'
 ---
 # Depression Detection at the Point of Care: Automated Analysis of Linguistic Signals from Routine Primary Care Encounters
 > 原文: [https://arxiv.org/abs/2604.06193](https://arxiv.org/abs/2604.06193)

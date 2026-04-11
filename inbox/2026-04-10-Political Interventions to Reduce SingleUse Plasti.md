@@ -1,11 +1,13 @@
 ---
-title: "Political Interventions to Reduce Single-Use Plastics (SUPs) and Price Effects: An Event Study for Austria and Germany"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2510.15617
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2510.15617
 next_step: skim
+priority: low
+slack_ts: '1775875956.782519'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Political Interventions to Reduce Single-Use Plastics (SUPs) and Price Effects:
+  An Event Study for Austria and Germany'
 ---
 # Political Interventions to Reduce Single-Use Plastics (SUPs) and Price Effects: An Event Study for Austria and Germany
 > 原文: [https://arxiv.org/abs/2510.15617](https://arxiv.org/abs/2510.15617)

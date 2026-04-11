@@ -1,11 +1,13 @@
 ---
-title: "Tight Convergence Rates for Online Distributed Linear Estimation with Adversarial Measurements"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.06282
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06282
 next_step: skim
+priority: medium
+slack_ts: '1775875958.948359'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Tight Convergence Rates for Online Distributed Linear Estimation with Adversarial
+  Measurements
 ---
 # Tight Convergence Rates for Online Distributed Linear Estimation with Adversarial Measurements
 > 原文: [https://arxiv.org/abs/2604.06282](https://arxiv.org/abs/2604.06282)

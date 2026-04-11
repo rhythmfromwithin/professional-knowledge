@@ -1,11 +1,13 @@
 ---
-title: "DynLP: Parallel Dynamic Batch Update for Label Propagation in Semi-Supervised Learning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.06596
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06596
 next_step: skim
+priority: medium
+slack_ts: '1775875951.362449'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DynLP: Parallel Dynamic Batch Update for Label Propagation in Semi-Supervised
+  Learning'
 ---
 # DynLP: Parallel Dynamic Batch Update for Label Propagation in Semi-Supervised Learning
 > 原文: [https://arxiv.org/abs/2604.06596](https://arxiv.org/abs/2604.06596)

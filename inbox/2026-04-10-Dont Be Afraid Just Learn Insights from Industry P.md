@@ -1,11 +1,5 @@
 ---
-title: ""Don't Be Afraid, Just Learn": Insights from Industry Practitioners to Prepare Software Engineers in the Age of Generative AI"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.06342
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1775875951.111369'
 ---
 # "Don't Be Afraid, Just Learn": Insights from Industry Practitioners to Prepare Software Engineers in the Age of Generative AI
 > 原文: [https://arxiv.org/abs/2604.06342](https://arxiv.org/abs/2604.06342)

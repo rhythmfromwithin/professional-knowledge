@@ -1,11 +1,13 @@
 ---
-title: "Concentrated siting of AI data centers drives regional power-system stress under rising global compute demand"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.06198
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06198
 next_step: skim
+priority: medium
+slack_ts: '1775875949.409529'
+source: cs.CY - Computers and Society
+status: unread
+title: Concentrated siting of AI data centers drives regional power-system stress
+  under rising global compute demand
 ---
 # Concentrated siting of AI data centers drives regional power-system stress under rising global compute demand
 > 原文: [https://arxiv.org/abs/2604.06198](https://arxiv.org/abs/2604.06198)

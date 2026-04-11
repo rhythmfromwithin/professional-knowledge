@@ -1,11 +1,12 @@
 ---
-title: "CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.06245
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06245
 next_step: skim
+priority: medium
+slack_ts: '1775875950.055749'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale'
 ---
 # CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale
 > 原文: [https://arxiv.org/abs/2604.06245](https://arxiv.org/abs/2604.06245)

@@ -1,11 +1,12 @@
 ---
-title: "Occlusion Handling by Pushing for Enhanced Fruit Detection"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.06341
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06341
 next_step: skim
+priority: medium
+slack_ts: '1775875956.020919'
+source: cs.RO - Robotics
+status: unread
+title: Occlusion Handling by Pushing for Enhanced Fruit Detection
 ---
 # Occlusion Handling by Pushing for Enhanced Fruit Detection
 > 原文: [https://arxiv.org/abs/2604.06341](https://arxiv.org/abs/2604.06341)

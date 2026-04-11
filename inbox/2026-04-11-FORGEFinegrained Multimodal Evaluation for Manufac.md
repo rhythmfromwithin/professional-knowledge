@@ -1,0 +1,14 @@
+---
+title: "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2604.07413
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios
+> 原文: [https://arxiv.org/abs/2604.07413](https://arxiv.org/abs/2604.07413)
+
+arXiv:2604.07413v1 Announce Type: new
+Abstract: The manufacturing sector is increasingly adopting Multimodal Large Language Models (MLLMs) to transition from simple perception to autonomous execution, yet current evaluations fail to reflect the rigorous demands of real-world manufacturing environments. Progress is hindered by data scarcity and a lack of fine-grained domain semantics in existing datasets. To bridge this gap, we introduce FORGE. Wefirst construct a high-quality multimodal dataset that combines real-world 2D images and 3D point clouds, annotated with fine-grained domain semantics (e.g., exact model numbers). We then evaluate 18 state-of-the-art MLLMs across three manufacturing tasks, namely workpiece verification, structural surface inspection, and assembly verification, revealing significant performance gaps. Counter to conventional understanding, the bottleneck analysis shows that visual grounding is not the primary limiting factor. Instead, insufficient domain-specific knowledge is the key bottleneck, setting a clear direction for future research. Beyond evaluation, we show that our structured annotations can serve as an actionable training resource: supervised fine-tuning of a compact 3B-parameter model on our data yields up to 90.8% relative improvement in accuracy on held-out manufacturing scenarios, providing preliminary evidence for a practical pathway toward domain-adapted manufacturing MLLMs. The code and datasets are available at https://ai4manufacturing.github.io/forge-web.

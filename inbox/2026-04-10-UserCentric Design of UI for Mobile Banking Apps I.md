@@ -1,11 +1,13 @@
 ---
-title: "User-Centric Design of UI for Mobile Banking Apps: Improving UI and Features for Better Customer Experience"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.06175
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06175
 next_step: skim
+priority: low
+slack_ts: '1775875959.752619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'User-Centric Design of UI for Mobile Banking Apps: Improving UI and Features
+  for Better Customer Experience'
 ---
 # User-Centric Design of UI for Mobile Banking Apps: Improving UI and Features for Better Customer Experience
 > 原文: [https://arxiv.org/abs/2604.06175](https://arxiv.org/abs/2604.06175)

@@ -1,11 +1,12 @@
 ---
-title: "Trust But Canary: Configuration Safety at Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/04/08/security/trust-but-canary-configuration-safety-at-scale-meta-tech-podcast/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/04/08/security/trust-but-canary-configuration-safety-at-scale-meta-tech-podcast/
 next_step: skim
+priority: medium
+slack_ts: '1775875959.346769'
+source: Meta Engineering
+status: unread
+title: 'Trust But Canary: Configuration Safety at Scale'
 ---
 # Trust But Canary: Configuration Safety at Scale
 > 原文: [https://engineering.fb.com/2026/04/08/security/trust-but-canary-configuration-safety-at-scale-meta-tech-podcast/](https://engineering.fb.com/2026/04/08/security/trust-but-canary-configuration-safety-at-scale-meta-tech-podcast/)

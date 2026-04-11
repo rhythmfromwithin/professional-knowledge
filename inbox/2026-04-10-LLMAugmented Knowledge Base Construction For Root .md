@@ -1,11 +1,12 @@
 ---
-title: "LLM-Augmented Knowledge Base Construction For Root Cause Analysis"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.06171
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06171
 next_step: skim
+priority: high
+slack_ts: '1775875954.781609'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: LLM-Augmented Knowledge Base Construction For Root Cause Analysis
 ---
 # LLM-Augmented Knowledge Base Construction For Root Cause Analysis
 > 原文: [https://arxiv.org/abs/2604.06171](https://arxiv.org/abs/2604.06171)

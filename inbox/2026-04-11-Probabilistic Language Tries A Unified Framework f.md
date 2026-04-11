@@ -1,0 +1,16 @@
+---
+title: "Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse"
+source: "cs.LG - Machine Learning"
+link: https://arxiv.org/abs/2604.06228
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse
+> 原文: [https://arxiv.org/abs/2604.06228](https://arxiv.org/abs/2604.06228)
+
+arXiv:2604.06228v1 Announce Type: new
+Abstract: We introduce probabilistic language tries (PLTs), a unified representation that makes explicit the prefix structure implicitly defined by any generative model over sequences. By assigning to each outgoing edge the conditional probability of the corresponding token or action, a PLT simultaneously serves as: (i) an optimal lossless compressor via frequency-weighted interval encoding, generalizing arithmetic coding to model-conditioned distributions; (ii) a policy representation for sequential decision problems including games, search, and robotic control; and (iii) a memoization index that lets repeated inference queries be answered by structured retrieval rather than full model execution.
+The central technical result is a prior-guided caching theorem: under a stationary generative distribution, a PLT-guided cache achieves strictly lower expected inference cost than any empirical-frequency cache for all query counts below a threshold that grows with the concentration of the prior. This converts O(n^2) transformer attention cost into an expected cost of p\_r \* O(log N) + (1 - p\_r) \* O(n^2), where p\_r is the prior-estimated reuse probability and N is the artifact store size.
+We further introduce a hybrid compression architecture decomposing any dataset into a PLT-covered majority and a sparse residual store, connecting arithmetic coding with Kolmogorov-style program representations and rate-distortion theory. We instantiate the framework across chess, web search, robotics, organizational workflows, and LLM inference, demonstrating that compression, decision making, and computational reuse are all derived from a single probability measure on sequence space.

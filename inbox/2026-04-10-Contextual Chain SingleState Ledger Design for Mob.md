@@ -1,11 +1,13 @@
 ---
-title: "Contextual Chain: Single-State Ledger Design for Mobile/IoT Networks with Frequent Partitions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.06529
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06529
 next_step: skim
+priority: medium
+slack_ts: '1775875949.843599'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Contextual Chain: Single-State Ledger Design for Mobile/IoT Networks with
+  Frequent Partitions'
 ---
 # Contextual Chain: Single-State Ledger Design for Mobile/IoT Networks with Frequent Partitions
 > 原文: [https://arxiv.org/abs/2604.06529](https://arxiv.org/abs/2604.06529)

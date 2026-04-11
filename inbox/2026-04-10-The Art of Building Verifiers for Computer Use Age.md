@@ -1,11 +1,12 @@
 ---
-title: "The Art of Building Verifiers for Computer Use Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.06240
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06240
 next_step: skim
+priority: low
+slack_ts: '1775875957.689399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: The Art of Building Verifiers for Computer Use Agents
 ---
 # The Art of Building Verifiers for Computer Use Agents
 > 原文: [https://arxiv.org/abs/2604.06240](https://arxiv.org/abs/2604.06240)
