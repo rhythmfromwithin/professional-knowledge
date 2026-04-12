@@ -1,11 +1,13 @@
 ---
-title: "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.06233
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06233
 next_step: skim
+priority: high
+slack_ts: '1775964761.424579'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd,
+  and Illegitimate Rules'
 ---
 # Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules
 > 原文: [https://arxiv.org/abs/2604.06233](https://arxiv.org/abs/2604.06233)

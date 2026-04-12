@@ -1,11 +1,12 @@
 ---
-title: "FLeX: Fourier-based Low-rank EXpansion for multilingual transfer"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.06253
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06253
 next_step: skim
+priority: high
+slack_ts: '1775964762.824889'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FLeX: Fourier-based Low-rank EXpansion for multilingual transfer'
 ---
 # FLeX: Fourier-based Low-rank EXpansion for multilingual transfer
 > 原文: [https://arxiv.org/abs/2604.06253](https://arxiv.org/abs/2604.06253)

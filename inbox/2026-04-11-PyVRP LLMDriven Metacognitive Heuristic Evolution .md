@@ -1,11 +1,13 @@
 ---
-title: "PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.07872
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07872
 next_step: skim
+priority: low
+slack_ts: '1775964765.285399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic
+  Search in Vehicle Routing Problems'
 ---
 # PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems
 > 原文: [https://arxiv.org/abs/2604.07872](https://arxiv.org/abs/2604.07872)

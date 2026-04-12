@@ -1,11 +1,13 @@
 ---
-title: "Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.07386
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07386
 next_step: skim
+priority: low
+slack_ts: '1775964764.076719'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based
+  Approach'
 ---
 # Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach
 > 原文: [https://arxiv.org/abs/2604.07386](https://arxiv.org/abs/2604.07386)

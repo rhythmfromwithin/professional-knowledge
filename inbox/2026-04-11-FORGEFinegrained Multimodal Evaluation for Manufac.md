@@ -1,11 +1,12 @@
 ---
-title: "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.07413
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07413
 next_step: skim
+priority: medium
+slack_ts: '1775964762.912549'
+source: cs.CV - Computer Vision
+status: unread
+title: FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios
 ---
 # FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios
 > 原文: [https://arxiv.org/abs/2604.07413](https://arxiv.org/abs/2604.07413)

@@ -1,11 +1,13 @@
 ---
-title: "Evaluation as Evolution: Transforming Adversarial Diffusion into Closed-Loop Curricula for Autonomous Vehicles"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.07378
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07378
 next_step: skim
+priority: medium
+slack_ts: '1775964762.735989'
+source: cs.RO - Robotics
+status: unread
+title: 'Evaluation as Evolution: Transforming Adversarial Diffusion into Closed-Loop
+  Curricula for Autonomous Vehicles'
 ---
 # Evaluation as Evolution: Transforming Adversarial Diffusion into Closed-Loop Curricula for Autonomous Vehicles
 > 原文: [https://arxiv.org/abs/2604.07378](https://arxiv.org/abs/2604.07378)

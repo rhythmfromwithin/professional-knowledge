@@ -1,7 +1,9 @@
 ---
-title: "Building a high-volume metrics pipeline with OpenTelemetry and vmagent"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss
+slack_ts: '1775964761.609159'
+source: Airbnb Engineering
+title: Building a high-volume metrics pipeline with OpenTelemetry and vmagent
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

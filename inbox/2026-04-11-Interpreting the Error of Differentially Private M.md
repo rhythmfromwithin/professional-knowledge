@@ -1,11 +1,13 @@
 ---
-title: "Interpreting the Error of Differentially Private Median Queries through Randomization Intervals"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.07581
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07581
 next_step: skim
+priority: low
+slack_ts: '1775964763.891949'
+source: cs.DB - Databases
+status: unread
+title: Interpreting the Error of Differentially Private Median Queries through Randomization
+  Intervals
 ---
 # Interpreting the Error of Differentially Private Median Queries through Randomization Intervals
 > 原文: [https://arxiv.org/abs/2604.07581](https://arxiv.org/abs/2604.07581)

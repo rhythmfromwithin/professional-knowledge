@@ -1,11 +1,13 @@
 ---
-title: "Google, AI Literacy, and the Learning Sciences: Multiple Modes of Research, Industry, and Practice Partnerships"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.07601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07601
 next_step: skim
+priority: medium
+slack_ts: '1775964763.462069'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Google, AI Literacy, and the Learning Sciences: Multiple Modes of Research,
+  Industry, and Practice Partnerships'
 ---
 # Google, AI Literacy, and the Learning Sciences: Multiple Modes of Research, Industry, and Practice Partnerships
 > 原文: [https://arxiv.org/abs/2604.07601](https://arxiv.org/abs/2604.07601)

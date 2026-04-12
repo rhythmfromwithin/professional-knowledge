@@ -1,11 +1,12 @@
 ---
-title: "Prediction Arena: Benchmarking AI Models on Real-World Prediction Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.07355
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07355
 next_step: skim
+priority: low
+slack_ts: '1775964765.007009'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Prediction Arena: Benchmarking AI Models on Real-World Prediction Markets'
 ---
 # Prediction Arena: Benchmarking AI Models on Real-World Prediction Markets
 > 原文: [https://arxiv.org/abs/2604.07355](https://arxiv.org/abs/2604.07355)

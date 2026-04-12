@@ -1,11 +1,12 @@
 ---
-title: "Cross-Tokenizer LLM Distillation through a Byte-Level Interface"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.07466
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07466
 next_step: skim
+priority: high
+slack_ts: '1775964762.385799'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Cross-Tokenizer LLM Distillation through a Byte-Level Interface
 ---
 # Cross-Tokenizer LLM Distillation through a Byte-Level Interface
 > 原文: [https://arxiv.org/abs/2604.07466](https://arxiv.org/abs/2604.07466)

@@ -1,11 +1,13 @@
 ---
-title: "Reduced-Mass Orbital AI Inference via Integrated Solar, Compute, and Radiator Panels"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.07760
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07760
 next_step: skim
+priority: medium
+slack_ts: '1775964765.461059'
+source: cs.DC - Distributed Computing
+status: unread
+title: Reduced-Mass Orbital AI Inference via Integrated Solar, Compute, and Radiator
+  Panels
 ---
 # Reduced-Mass Orbital AI Inference via Integrated Solar, Compute, and Radiator Panels
 > 原文: [https://arxiv.org/abs/2604.07760](https://arxiv.org/abs/2604.07760)

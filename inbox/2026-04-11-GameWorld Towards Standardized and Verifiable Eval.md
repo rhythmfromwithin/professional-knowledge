@@ -1,11 +1,13 @@
 ---
-title: "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.07429
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07429
 next_step: skim
+priority: medium
+slack_ts: '1775964763.103999'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game
+  Agents'
 ---
 # GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
 > 原文: [https://arxiv.org/abs/2604.07429](https://arxiv.org/abs/2604.07429)

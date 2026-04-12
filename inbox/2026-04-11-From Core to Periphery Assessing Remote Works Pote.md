@@ -1,11 +1,13 @@
 ---
-title: "From Core to Periphery? Assessing Remote Works Potential to Rebalance EU Regional Development"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.08252
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08252
 next_step: skim
+priority: low
+slack_ts: '1775964763.014219'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: From Core to Periphery? Assessing Remote Works Potential to Rebalance EU Regional
+  Development
 ---
 # From Core to Periphery? Assessing Remote Works Potential to Rebalance EU Regional Development
 > 原文: [https://arxiv.org/abs/2604.08252](https://arxiv.org/abs/2604.08252)

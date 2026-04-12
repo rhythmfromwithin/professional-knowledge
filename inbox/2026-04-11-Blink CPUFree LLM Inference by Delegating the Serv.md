@@ -1,11 +1,12 @@
 ---
-title: "Blink: CPU-Free LLM Inference by Delegating the Serving Stack to GPU and SmartNIC"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.07609
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07609
 next_step: skim
+priority: medium
+slack_ts: '1775964761.519959'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Blink: CPU-Free LLM Inference by Delegating the Serving Stack to GPU and SmartNIC'
 ---
 # Blink: CPU-Free LLM Inference by Delegating the Serving Stack to GPU and SmartNIC
 > 原文: [https://arxiv.org/abs/2604.07609](https://arxiv.org/abs/2604.07609)

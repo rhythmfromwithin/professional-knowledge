@@ -1,11 +1,13 @@
 ---
-title: "Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.07486
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07486
 next_step: skim
+priority: low
+slack_ts: '1775964765.092579'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data
+  Generation'
 ---
 # Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation
 > 原文: [https://arxiv.org/abs/2604.07486](https://arxiv.org/abs/2604.07486)

@@ -1,11 +1,12 @@
 ---
-title: "CobbleDB: Modelling Levelled Storage by Composition"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.06273
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06273
 next_step: skim
+priority: low
+slack_ts: '1775964761.930349'
+source: cs.DB - Databases
+status: unread
+title: 'CobbleDB: Modelling Levelled Storage by Composition'
 ---
 # CobbleDB: Modelling Levelled Storage by Composition
 > 原文: [https://arxiv.org/abs/2604.06273](https://arxiv.org/abs/2604.06273)

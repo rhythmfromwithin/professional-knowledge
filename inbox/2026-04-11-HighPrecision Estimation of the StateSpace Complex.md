@@ -1,11 +1,13 @@
 ---
-title: "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.06189
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06189
 next_step: skim
+priority: high
+slack_ts: '1775964763.624689'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: High-Precision Estimation of the State-Space Complexity of Shogi via the Monte
+  Carlo Method
 ---
 # High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method
 > 原文: [https://arxiv.org/abs/2604.06189](https://arxiv.org/abs/2604.06189)

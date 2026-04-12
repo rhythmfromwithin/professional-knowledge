@@ -1,11 +1,12 @@
 ---
-title: "Criteria for the economic viability of fusion power plants"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.07367
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07367
 next_step: skim
+priority: low
+slack_ts: '1775964762.283869'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Criteria for the economic viability of fusion power plants
 ---
 # Criteria for the economic viability of fusion power plants
 > 原文: [https://arxiv.org/abs/2604.07367](https://arxiv.org/abs/2604.07367)

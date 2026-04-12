@@ -1,11 +1,13 @@
 ---
-title: "The Principle of Maximum Heterogeneity Optimises Productivity in Distributed Production Systems Across Biology, Economics, and Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.07602
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07602
 next_step: skim
+priority: low
+slack_ts: '1775964765.911229'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: The Principle of Maximum Heterogeneity Optimises Productivity in Distributed
+  Production Systems Across Biology, Economics, and Computing
 ---
 # The Principle of Maximum Heterogeneity Optimises Productivity in Distributed Production Systems Across Biology, Economics, and Computing
 > 原文: [https://arxiv.org/abs/2604.07602](https://arxiv.org/abs/2604.07602)

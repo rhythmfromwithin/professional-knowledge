@@ -1,11 +1,12 @@
 ---
-title: "Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.07357
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07357
 next_step: skim
+priority: high
+slack_ts: '1775964763.796999'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition
 ---
 # Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition
 > 原文: [https://arxiv.org/abs/2604.07357](https://arxiv.org/abs/2604.07357)

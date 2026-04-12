@@ -1,11 +1,13 @@
 ---
-title: "SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.08021
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08021
 next_step: skim
+priority: low
+slack_ts: '1775964765.645839'
+source: cs.DB - Databases
+status: unread
+title: 'SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis
+  for Performance Benchmarking'
 ---
 # SynQL: A Controllable and Scalable Rule-Based Framework for SQL Workload Synthesis for Performance Benchmarking
 > 原文: [https://arxiv.org/abs/2604.08021](https://arxiv.org/abs/2604.08021)

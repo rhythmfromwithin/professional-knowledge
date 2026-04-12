@@ -1,11 +1,13 @@
 ---
-title: "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.06251
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06251
 next_step: skim
+priority: high
+slack_ts: '1775964766.076029'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Toward Reducing Unproductive Container Moves: Predicting Service Requirements
+  and Dwell Times'
 ---
 # Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times
 > 原文: [https://arxiv.org/abs/2604.06251](https://arxiv.org/abs/2604.06251)

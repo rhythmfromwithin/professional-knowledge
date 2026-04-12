@@ -1,11 +1,12 @@
 ---
-title: "RefineRAG: Word-Level Poisoning Attacks via Retriever-Guided Text Refinement"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.07403
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07403
 next_step: skim
+priority: low
+slack_ts: '1775964765.548329'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'RefineRAG: Word-Level Poisoning Attacks via Retriever-Guided Text Refinement'
 ---
 # RefineRAG: Word-Level Poisoning Attacks via Retriever-Guided Text Refinement
 > 原文: [https://arxiv.org/abs/2604.07403](https://arxiv.org/abs/2604.07403)

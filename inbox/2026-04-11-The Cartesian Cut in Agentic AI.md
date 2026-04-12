@@ -1,11 +1,12 @@
 ---
-title: "The Cartesian Cut in Agentic AI"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.07745
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07745
 next_step: skim
+priority: low
+slack_ts: '1775964765.741789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Cartesian Cut in Agentic AI
 ---
 # The Cartesian Cut in Agentic AI
 > 原文: [https://arxiv.org/abs/2604.07745](https://arxiv.org/abs/2604.07745)

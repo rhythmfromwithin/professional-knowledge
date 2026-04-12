@@ -1,11 +1,12 @@
 ---
-title: "Personalizing Text-to-Image Generation to Individual Taste"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.07427
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07427
 next_step: skim
+priority: medium
+slack_ts: '1775964764.921559'
+source: cs.CV - Computer Vision
+status: unread
+title: Personalizing Text-to-Image Generation to Individual Taste
 ---
 # Personalizing Text-to-Image Generation to Individual Taste
 > 原文: [https://arxiv.org/abs/2604.07427](https://arxiv.org/abs/2604.07427)

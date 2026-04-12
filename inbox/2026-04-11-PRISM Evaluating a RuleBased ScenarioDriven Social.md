@@ -1,11 +1,13 @@
 ---
-title: "PRISM: Evaluating a Rule-Based, Scenario-Driven Social Media Privacy Education Program for Young Autistic Adults"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.07531
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07531
 next_step: skim
+priority: medium
+slack_ts: '1775964764.746889'
+source: cs.CY - Computers and Society
+status: unread
+title: 'PRISM: Evaluating a Rule-Based, Scenario-Driven Social Media Privacy Education
+  Program for Young Autistic Adults'
 ---
 # PRISM: Evaluating a Rule-Based, Scenario-Driven Social Media Privacy Education Program for Young Autistic Adults
 > 原文: [https://arxiv.org/abs/2604.07531](https://arxiv.org/abs/2604.07531)

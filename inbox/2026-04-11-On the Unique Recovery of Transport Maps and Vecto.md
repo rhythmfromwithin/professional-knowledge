@@ -1,11 +1,13 @@
 ---
-title: "On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.07671
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07671
 next_step: skim
+priority: medium
+slack_ts: '1775964764.573819'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued
+  Data
 ---
 # On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data
 > 原文: [https://arxiv.org/abs/2604.07671](https://arxiv.org/abs/2604.07671)

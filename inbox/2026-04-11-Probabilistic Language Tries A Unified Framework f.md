@@ -1,11 +1,13 @@
 ---
-title: "Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.06228
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.06228
 next_step: skim
+priority: high
+slack_ts: '1775964765.172649'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Probabilistic Language Tries: A Unified Framework for Compression, Decision
+  Policies, and Execution Reuse'
 ---
 # Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse
 > 原文: [https://arxiv.org/abs/2604.06228](https://arxiv.org/abs/2604.06228)
