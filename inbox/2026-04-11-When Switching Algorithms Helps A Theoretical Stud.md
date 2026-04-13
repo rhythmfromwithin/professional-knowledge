@@ -1,11 +1,12 @@
 ---
-title: "When Switching Algorithms Helps: A Theoretical Study of Online Algorithm Selection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.07473
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07473
 next_step: skim
+priority: low
+slack_ts: '1776051539.081399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'When Switching Algorithms Helps: A Theoretical Study of Online Algorithm Selection'
 ---
 # When Switching Algorithms Helps: A Theoretical Study of Online Algorithm Selection
 > 原文: [https://arxiv.org/abs/2604.07473](https://arxiv.org/abs/2604.07473)

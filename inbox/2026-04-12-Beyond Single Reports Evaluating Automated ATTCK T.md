@@ -1,11 +1,13 @@
 ---
-title: "Beyond Single Reports: Evaluating Automated ATT&CK Technique Extraction in Multi-Report Campaign Settings"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.07470
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07470
 next_step: skim
+priority: low
+slack_ts: '1776051540.276149'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Beyond Single Reports: Evaluating Automated ATT&CK Technique Extraction in
+  Multi-Report Campaign Settings'
 ---
 # Beyond Single Reports: Evaluating Automated ATT&CK Technique Extraction in Multi-Report Campaign Settings
 > 原文: [https://arxiv.org/abs/2604.07470](https://arxiv.org/abs/2604.07470)

@@ -1,11 +1,12 @@
 ---
-title: "Getting started with ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/academy/getting-started
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/getting-started
 next_step: skim
+priority: high
+slack_ts: '1776051542.635069'
+source: OpenAI Blog
+status: unread
+title: Getting started with ChatGPT
 ---
 # Getting started with ChatGPT
 > 原文: [https://openai.com/academy/getting-started](https://openai.com/academy/getting-started)

@@ -1,11 +1,13 @@
 ---
-title: "Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via Code Quality Signals"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.07494
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07494
 next_step: skim
+priority: low
+slack_ts: '1776051538.193079'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via
+  Code Quality Signals'
 ---
 # Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via Code Quality Signals
 > 原文: [https://arxiv.org/abs/2604.07494](https://arxiv.org/abs/2604.07494)

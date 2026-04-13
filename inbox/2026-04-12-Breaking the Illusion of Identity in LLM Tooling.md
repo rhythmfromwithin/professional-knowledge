@@ -1,11 +1,12 @@
 ---
-title: "Breaking the Illusion of Identity in LLM Tooling"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.07398
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.07398
 next_step: skim
+priority: low
+slack_ts: '1776051540.616419'
+source: cs.SE - Software Engineering
+status: unread
+title: Breaking the Illusion of Identity in LLM Tooling
 ---
 # Breaking the Illusion of Identity in LLM Tooling
 > 原文: [https://arxiv.org/abs/2604.07398](https://arxiv.org/abs/2604.07398)

@@ -1,11 +1,12 @@
 ---
-title: "Create, edit and share videos at no cost in Google Vids"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
 next_step: skim
+priority: high
+slack_ts: '1776051541.430659'
+source: Google AI Blog
+status: unread
+title: Create, edit and share videos at no cost in Google Vids
 ---
 # Create, edit and share videos at no cost in Google Vids
 > 原文: [https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)

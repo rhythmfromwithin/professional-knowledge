@@ -1,11 +1,12 @@
 ---
-title: "Escaping the Fork: How Meta Modernized WebRTC Across 50+ Use Cases"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/04/09/developer-tools/escaping-the-fork-how-meta-modernized-webrtc-across-50-use-cases/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/04/09/developer-tools/escaping-the-fork-how-meta-modernized-webrtc-across-50-use-cases/
 next_step: skim
+priority: medium
+slack_ts: '1776051541.967039'
+source: Meta Engineering
+status: unread
+title: 'Escaping the Fork: How Meta Modernized WebRTC Across 50+ Use Cases'
 ---
 # Escaping the Fork: How Meta Modernized WebRTC Across 50+ Use Cases
 > 原文: [https://engineering.fb.com/2026/04/09/developer-tools/escaping-the-fork-how-meta-modernized-webrtc-across-50-use-cases/](https://engineering.fb.com/2026/04/09/developer-tools/escaping-the-fork-how-meta-modernized-webrtc-across-50-use-cases/)

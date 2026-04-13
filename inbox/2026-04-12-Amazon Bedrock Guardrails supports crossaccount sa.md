@@ -1,11 +1,13 @@
 ---
-title: "Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/
 next_step: skim
+priority: high
+slack_ts: '1776051539.805409'
+source: AWS Blog
+status: unread
+title: Amazon Bedrock Guardrails supports cross-account safeguards with centralized
+  control and management
 ---
 # Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/)

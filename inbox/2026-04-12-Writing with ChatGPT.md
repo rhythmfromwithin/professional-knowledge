@@ -1,11 +1,12 @@
 ---
-title: "Writing with ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/academy/writing
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/writing
 next_step: skim
+priority: high
+slack_ts: '1776051545.750279'
+source: OpenAI Blog
+status: unread
+title: Writing with ChatGPT
 ---
 # Writing with ChatGPT
 > 原文: [https://openai.com/academy/writing](https://openai.com/academy/writing)

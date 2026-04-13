@@ -1,11 +1,12 @@
 ---
-title: "Brainstorming with ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/academy/brainstorming
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/brainstorming
 next_step: skim
+priority: high
+slack_ts: '1776051540.428739'
+source: OpenAI Blog
+status: unread
+title: Brainstorming with ChatGPT
 ---
 # Brainstorming with ChatGPT
 > 原文: [https://openai.com/academy/brainstorming](https://openai.com/academy/brainstorming)

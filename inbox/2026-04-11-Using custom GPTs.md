@@ -1,11 +1,12 @@
 ---
-title: "Using custom GPTs"
-source: "OpenAI Blog"
-link: https://openai.com/academy/custom-gpts
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/custom-gpts
 next_step: skim
+priority: high
+slack_ts: '1776051538.560639'
+source: OpenAI Blog
+status: unread
+title: Using custom GPTs
 ---
 # Using custom GPTs
 > 原文: [https://openai.com/academy/custom-gpts](https://openai.com/academy/custom-gpts)
