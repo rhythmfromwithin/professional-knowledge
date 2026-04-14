@@ -1,11 +1,12 @@
 ---
-title: "Understanding Amazon Bedrock model lifecycle"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/
 next_step: skim
+priority: high
+slack_ts: '1776137315.770309'
+source: AWS Blog
+status: unread
+title: Understanding Amazon Bedrock model lifecycle
 ---
 # Understanding Amazon Bedrock model lifecycle
 > 原文: [https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/](https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/)

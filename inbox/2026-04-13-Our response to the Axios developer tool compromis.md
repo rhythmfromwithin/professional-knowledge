@@ -1,11 +1,12 @@
 ---
-title: "Our response to the Axios developer tool compromise"
-source: "OpenAI Blog"
-link: https://openai.com/index/axios-developer-tool-compromise
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/axios-developer-tool-compromise
 next_step: skim
+priority: high
+slack_ts: '1776137314.919359'
+source: OpenAI Blog
+status: unread
+title: Our response to the Axios developer tool compromise
 ---
 # Our response to the Axios developer tool compromise
 > 原文: [https://openai.com/index/axios-developer-tool-compromise](https://openai.com/index/axios-developer-tool-compromise)

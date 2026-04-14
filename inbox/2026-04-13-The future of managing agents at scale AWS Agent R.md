@@ -1,11 +1,12 @@
 ---
-title: "The future of managing agents at scale: AWS Agent Registry now in preview"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/
 next_step: skim
+priority: high
+slack_ts: '1776137315.503719'
+source: AWS Blog
+status: unread
+title: 'The future of managing agents at scale: AWS Agent Registry now in preview'
 ---
 # The future of managing agents at scale: AWS Agent Registry now in preview
 > 原文: [https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)

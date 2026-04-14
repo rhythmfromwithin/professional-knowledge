@@ -1,11 +1,12 @@
 ---
-title: "Using projects in ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/academy/projects
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/projects
 next_step: skim
+priority: high
+slack_ts: '1776137315.898749'
+source: OpenAI Blog
+status: unread
+title: Using projects in ChatGPT
 ---
 # Using projects in ChatGPT
 > 原文: [https://openai.com/academy/projects](https://openai.com/academy/projects)

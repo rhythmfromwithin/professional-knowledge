@@ -1,0 +1,14 @@
+---
+title: "QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2604.08585
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference
+> 原文: [https://arxiv.org/abs/2604.08585](https://arxiv.org/abs/2604.08585)
+
+arXiv:2604.08585v1 Announce Type: new
+Abstract: Cache fusion accelerates generation process of LLMs equipped with RAG through KV caching and selective token recomputation, thereby reducing computational costs and improving efficiency. However, existing methods primarily rely on local perspectives for token selection and lack global awareness from the user query. Utilizing this global awareness is challenging due to the high cost of obtaining context-aware query representations and the strict pipeline constraints required for efficient attention analysis. Thus, this demonstration introduces QCFuse, an innovative KV cache fusion system centered on the user query. QCFuse leverages semantic summary anchors to enhance query representations and selectively recomputes query-related tokens to improve accuracy, updating tokens based on the attention distribution of the most critical Transformer layer to preserve the high efficiency of the pipeline structure. Evaluations on real-world datasets demonstrate that QCFuse significantly improves the response efficiency of LLMs by 40\% while maintaining equivalent accuracy compared to current methods. Additionally, in certain scenarios, QCFuse achieves an attention denoising effect that yields higher response accuracy, demonstrating substantial potential in the optimization of LLM inference.
