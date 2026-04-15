@@ -1,11 +1,13 @@
 ---
-title: "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.08601
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08601
 next_step: skim
+priority: high
+slack_ts: '1776223650.558759'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence
+  Chains'
 ---
 # OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains
 > 原文: [https://arxiv.org/abs/2604.08601](https://arxiv.org/abs/2604.08601)

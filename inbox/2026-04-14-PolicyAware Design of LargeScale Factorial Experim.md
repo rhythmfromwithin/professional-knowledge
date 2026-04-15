@@ -1,11 +1,12 @@
 ---
-title: "Policy-Aware Design of Large-Scale Factorial Experiments"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.08804
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08804
 next_step: skim
+priority: medium
+slack_ts: '1776223651.128679'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Policy-Aware Design of Large-Scale Factorial Experiments
 ---
 # Policy-Aware Design of Large-Scale Factorial Experiments
 > 原文: [https://arxiv.org/abs/2604.08804](https://arxiv.org/abs/2604.08804)

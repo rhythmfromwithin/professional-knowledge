@@ -1,11 +1,13 @@
 ---
-title: "The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.09229
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09229
 next_step: skim
+priority: low
+slack_ts: '1776223654.409109'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy
+  Tradeoff'
 ---
 # The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff
 > 原文: [https://arxiv.org/abs/2604.09229](https://arxiv.org/abs/2604.09229)

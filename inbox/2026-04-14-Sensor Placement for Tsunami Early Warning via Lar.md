@@ -1,11 +1,13 @@
 ---
-title: "Sensor Placement for Tsunami Early Warning via Large-Scale Bayesian Optimal Experimental Design"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.08812
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08812
 next_step: skim
+priority: medium
+slack_ts: '1776223653.281869'
+source: cs.DC - Distributed Computing
+status: unread
+title: Sensor Placement for Tsunami Early Warning via Large-Scale Bayesian Optimal
+  Experimental Design
 ---
 # Sensor Placement for Tsunami Early Warning via Large-Scale Bayesian Optimal Experimental Design
 > 原文: [https://arxiv.org/abs/2604.08812](https://arxiv.org/abs/2604.08812)

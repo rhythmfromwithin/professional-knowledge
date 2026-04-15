@@ -1,11 +1,13 @@
 ---
-title: "LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.08636
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08636
 next_step: skim
+priority: medium
+slack_ts: '1776223649.329099'
+source: cs.RO - Robotics
+status: unread
+title: 'LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid
+  Kinematic Design'
 ---
 # LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design
 > 原文: [https://arxiv.org/abs/2604.08636](https://arxiv.org/abs/2604.08636)

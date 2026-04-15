@@ -1,11 +1,13 @@
 ---
-title: "Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.09048
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09048
 next_step: skim
+priority: medium
+slack_ts: '1776223655.725119'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous
+  GPU Architectures'
 ---
 # Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures
 > 原文: [https://arxiv.org/abs/2604.09048](https://arxiv.org/abs/2604.09048)

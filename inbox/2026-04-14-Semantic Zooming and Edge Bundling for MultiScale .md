@@ -1,11 +1,12 @@
 ---
-title: "Semantic Zooming and Edge Bundling for Multi-Scale Supply Chain Flow Visualization"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.08823
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08823
 next_step: skim
+priority: low
+slack_ts: '1776223653.091589'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Semantic Zooming and Edge Bundling for Multi-Scale Supply Chain Flow Visualization
 ---
 # Semantic Zooming and Edge Bundling for Multi-Scale Supply Chain Flow Visualization
 > 原文: [https://arxiv.org/abs/2604.08823](https://arxiv.org/abs/2604.08823)

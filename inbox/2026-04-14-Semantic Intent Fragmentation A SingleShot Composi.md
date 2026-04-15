@@ -1,11 +1,13 @@
 ---
-title: "Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent AI Pipelines"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.08608
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08608
 next_step: skim
+priority: low
+slack_ts: '1776223652.907049'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent
+  AI Pipelines'
 ---
 # Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent AI Pipelines
 > 原文: [https://arxiv.org/abs/2604.08608](https://arxiv.org/abs/2604.08608)

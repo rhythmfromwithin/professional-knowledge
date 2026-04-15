@@ -1,11 +1,13 @@
 ---
-title: "Post-Quantum Cryptography-Based Bidirectional Authentication Key Exchange Protocol and Industry Applications: A Case Study of Instant Messaging"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.08612
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08612
 next_step: skim
+priority: low
+slack_ts: '1776223651.297299'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Post-Quantum Cryptography-Based Bidirectional Authentication Key Exchange
+  Protocol and Industry Applications: A Case Study of Instant Messaging'
 ---
 # Post-Quantum Cryptography-Based Bidirectional Authentication Key Exchange Protocol and Industry Applications: A Case Study of Instant Messaging
 > 原文: [https://arxiv.org/abs/2604.08612](https://arxiv.org/abs/2604.08612)

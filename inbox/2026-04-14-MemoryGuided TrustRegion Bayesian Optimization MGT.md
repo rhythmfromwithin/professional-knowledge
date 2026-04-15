@@ -1,11 +1,12 @@
 ---
-title: "Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.08569
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08569
 next_step: skim
+priority: high
+slack_ts: '1776223649.854009'
+source: cs.LG - Machine Learning
+status: unread
+title: Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions
 ---
 # Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions
 > 原文: [https://arxiv.org/abs/2604.08569](https://arxiv.org/abs/2604.08569)

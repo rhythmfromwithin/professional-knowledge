@@ -1,11 +1,13 @@
 ---
-title: "The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging Technological Sovereignty"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.09187
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09187
 next_step: skim
+priority: low
+slack_ts: '1776223654.585049'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging
+  Technological Sovereignty
 ---
 # The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging Technological Sovereignty
 > 原文: [https://arxiv.org/abs/2604.09187](https://arxiv.org/abs/2604.09187)

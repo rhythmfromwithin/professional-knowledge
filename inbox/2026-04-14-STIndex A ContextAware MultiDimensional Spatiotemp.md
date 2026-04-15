@@ -1,11 +1,13 @@
 ---
-title: "STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction System"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.08597
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08597
 next_step: skim
+priority: low
+slack_ts: '1776223652.150109'
+source: cs.DB - Databases
+status: unread
+title: 'STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction
+  System'
 ---
 # STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction System
 > 原文: [https://arxiv.org/abs/2604.08597](https://arxiv.org/abs/2604.08597)

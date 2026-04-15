@@ -1,11 +1,12 @@
 ---
-title: "Spectral-Transport Stability and Benign Overfitting in Interpolating Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.08625
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08625
 next_step: skim
+priority: medium
+slack_ts: '1776223653.465969'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Spectral-Transport Stability and Benign Overfitting in Interpolating Learning
 ---
 # Spectral-Transport Stability and Benign Overfitting in Interpolating Learning
 > 原文: [https://arxiv.org/abs/2604.08625](https://arxiv.org/abs/2604.08625)

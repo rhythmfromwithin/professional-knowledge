@@ -1,11 +1,12 @@
 ---
-title: "ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.08613
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08613
 next_step: skim
+priority: medium
+slack_ts: '1776223655.543399'
+source: cs.CV - Computer Vision
+status: unread
+title: ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction
 ---
 # ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction
 > 原文: [https://arxiv.org/abs/2604.08613](https://arxiv.org/abs/2604.08613)

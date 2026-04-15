@@ -1,11 +1,13 @@
 ---
-title: "Mapping generative AI use in the human brain: divergent neural, academic, and mental health profiles of functional versus socio emotional AI use"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.08594
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08594
 next_step: skim
+priority: low
+slack_ts: '1776223649.678499'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Mapping generative AI use in the human brain: divergent neural, academic,
+  and mental health profiles of functional versus socio emotional AI use'
 ---
 # Mapping generative AI use in the human brain: divergent neural, academic, and mental health profiles of functional versus socio emotional AI use
 > 原文: [https://arxiv.org/abs/2604.08594](https://arxiv.org/abs/2604.08594)

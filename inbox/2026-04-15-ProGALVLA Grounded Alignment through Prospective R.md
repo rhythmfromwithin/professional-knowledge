@@ -1,0 +1,14 @@
+---
+title: "ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models"
+source: "cs.RO - Robotics"
+link: https://arxiv.org/abs/2604.09824
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models
+> 原文: [https://arxiv.org/abs/2604.09824](https://arxiv.org/abs/2604.09824)
+
+arXiv:2604.09824v1 Announce Type: new
+Abstract: Vision language action (VLA) models enable generalist robotic agents but often exhibit language ignorance, relying on visual shortcuts and remaining insensitive to instruction changes. We present Prospective Grounding and Alignment VLA (ProGAL-VLA), which constructs a 3D entity-centric graph (GSM), uses a slow planner to produce symbolic sub-goals, and aligns them with grounded entities via a Grounding Alignment Contrastive (GAC) loss. All actions are conditioned on a verified goal embedding $g\_t$, whose attention entropy provides an intrinsic ambiguity signal. On LIBERO-Plus, ProGAL-VLA increases robustness under robot perturbations from 30.3 to 71.5 percent, reduces language ignorance by 3x-4x, and improves entity retrieval from 0.41 to 0.71 Recall@1. On the Custom Ambiguity Benchmark, it reaches AUROC 0.81 (vs. 0.52), AUPR 0.79, and raises clarification on ambiguous inputs from 0.09 to 0.81 without harming unambiguous success. The verification bottleneck increases mutual information of language-actions, the GAC loss imposes an entity-level InfoNCE bound, and attention entropy yields calibrated selective prediction, indicating that explicit verified grounding is an effective path toward instruction-sensitive, ambiguity-aware agents.

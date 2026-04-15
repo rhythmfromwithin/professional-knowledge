@@ -1,11 +1,13 @@
 ---
-title: "How to build effective reward functions with AWS Lambda for Amazon Nova model customization"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/
 next_step: skim
+priority: high
+slack_ts: '1776223648.759749'
+source: AWS Blog
+status: unread
+title: How to build effective reward functions with AWS Lambda for Amazon Nova model
+  customization
 ---
 # How to build effective reward functions with AWS Lambda for Amazon Nova model customization
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/](https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/)

@@ -1,11 +1,13 @@
 ---
-title: "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.08621
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08621
 next_step: skim
+priority: high
+slack_ts: '1776223653.639109'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case
+  Study'
 ---
 # Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study
 > 原文: [https://arxiv.org/abs/2604.08621](https://arxiv.org/abs/2604.08621)

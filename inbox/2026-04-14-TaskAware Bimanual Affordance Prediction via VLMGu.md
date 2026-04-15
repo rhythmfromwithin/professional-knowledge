@@ -1,11 +1,13 @@
 ---
-title: "Task-Aware Bimanual Affordance Prediction via VLM-Guided Semantic-Geometric Reasoning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.08726
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08726
 next_step: skim
+priority: medium
+slack_ts: '1776223653.987219'
+source: cs.RO - Robotics
+status: unread
+title: Task-Aware Bimanual Affordance Prediction via VLM-Guided Semantic-Geometric
+  Reasoning
 ---
 # Task-Aware Bimanual Affordance Prediction via VLM-Guided Semantic-Geometric Reasoning
 > 原文: [https://arxiv.org/abs/2604.08726](https://arxiv.org/abs/2604.08726)

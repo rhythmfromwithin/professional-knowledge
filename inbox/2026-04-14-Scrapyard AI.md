@@ -1,11 +1,12 @@
 ---
-title: "Scrapyard AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.08803
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08803
 next_step: skim
+priority: medium
+slack_ts: '1776223652.501349'
+source: cs.CY - Computers and Society
+status: unread
+title: Scrapyard AI
 ---
 # Scrapyard AI
 > 原文: [https://arxiv.org/abs/2604.08803](https://arxiv.org/abs/2604.08803)

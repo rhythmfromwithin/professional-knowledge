@@ -1,11 +1,12 @@
 ---
-title: "Quantum-like Cognition in Process Theories: An Analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.08604
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08604
 next_step: skim
+priority: low
+slack_ts: '1776223651.808249'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Quantum-like Cognition in Process Theories: An Analysis'
 ---
 # Quantum-like Cognition in Process Theories: An Analysis
 > 原文: [https://arxiv.org/abs/2604.08604](https://arxiv.org/abs/2604.08604)

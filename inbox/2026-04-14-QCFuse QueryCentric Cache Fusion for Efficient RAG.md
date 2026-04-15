@@ -1,11 +1,12 @@
 ---
-title: "QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.08585
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08585
 next_step: skim
+priority: low
+slack_ts: '1776223651.635449'
+source: cs.DB - Databases
+status: unread
+title: 'QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference'
 ---
 # QCFuse: Query-Centric Cache Fusion for Efficient RAG Inference
 > 原文: [https://arxiv.org/abs/2604.08585](https://arxiv.org/abs/2604.08585)

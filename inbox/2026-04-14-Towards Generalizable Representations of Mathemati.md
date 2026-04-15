@@ -1,11 +1,12 @@
 ---
-title: "Towards Generalizable Representations of Mathematical Strategies"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.08693
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08693
 next_step: skim
+priority: medium
+slack_ts: '1776223654.946169'
+source: cs.CY - Computers and Society
+status: unread
+title: Towards Generalizable Representations of Mathematical Strategies
 ---
 # Towards Generalizable Representations of Mathematical Strategies
 > 原文: [https://arxiv.org/abs/2604.08693](https://arxiv.org/abs/2604.08693)

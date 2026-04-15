@@ -1,11 +1,13 @@
 ---
-title: "Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.08894
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08894
 next_step: skim
+priority: low
+slack_ts: '1776223648.139949'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: "Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency\
+  \ in Spiking Transformer"
 ---
 # Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer
 > 原文: [https://arxiv.org/abs/2604.08894](https://arxiv.org/abs/2604.08894)

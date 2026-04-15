@@ -1,11 +1,12 @@
 ---
-title: "Systematic API Testing Through Model Checking and Executable Contracts"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.08633
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08633
 next_step: skim
+priority: low
+slack_ts: '1776223653.816119'
+source: cs.SE - Software Engineering
+status: unread
+title: Systematic API Testing Through Model Checking and Executable Contracts
 ---
 # Systematic API Testing Through Model Checking and Executable Contracts
 > 原文: [https://arxiv.org/abs/2604.08633](https://arxiv.org/abs/2604.08633)

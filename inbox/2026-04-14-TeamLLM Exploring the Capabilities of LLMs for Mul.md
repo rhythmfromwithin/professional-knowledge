@@ -1,11 +1,13 @@
 ---
-title: "TeamLLM: Exploring the Capabilities of LLMs for Multimodal Group Interaction Prediction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.08771
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08771
 next_step: skim
+priority: low
+slack_ts: '1776223654.230689'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'TeamLLM: Exploring the Capabilities of LLMs for Multimodal Group Interaction
+  Prediction'
 ---
 # TeamLLM: Exploring the Capabilities of LLMs for Multimodal Group Interaction Prediction
 > 原文: [https://arxiv.org/abs/2604.08771](https://arxiv.org/abs/2604.08771)

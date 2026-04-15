@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2604.10529
+next_step: skim
+priority: low
+slack_ts: '1776223657.022559'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'AI Patents in the United States and China: Measurement, Organization, and
+  Knowledge Flows'
+---
+# AI Patents in the United States and China: Measurement, Organization, and Knowledge Flows
+> 原文: [https://arxiv.org/abs/2604.10529](https://arxiv.org/abs/2604.10529)
+
+arXiv:2604.10529v1 Announce Type: new
+Abstract: We develop a high-precision classifier to measure artificial intelligence (AI) patents by fine-tuning PatentSBERTa on manually labeled data from the USPTO's AI Patent Dataset. Our classifier substantially improves the existing USPTO approach, achieving 97.0% precision, 91.3% recall, and a 94.0% F1 score, and it generalizes well to Chinese patents based on citation and lexical validation. Applying it to granted U.S. patents (1976-2023) and Chinese patents (2010-2023), we document rapid growth in AI patenting in both countries and broad convergence in AI patenting intensity and subfield composition, even as China surpasses the United States in recent annual patent counts. The organization of AI innovation nevertheless differs sharply: U.S. AI patenting is concentrated among large private incumbents and established hubs, whereas Chinese AI patenting is more geographically diffuse and institutionally diverse, with larger roles for universities and state-owned enterprises. For listed firms, AI patents command a robust market-value premium in both countries. Cross-border citations show continued technological interdependence rather than decoupling, with Chinese AI inventors relying more heavily on U.S. frontier knowledge than vice versa.

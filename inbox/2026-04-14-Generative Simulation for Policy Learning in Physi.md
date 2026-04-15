@@ -1,11 +1,12 @@
 ---
-title: "Generative Simulation for Policy Learning in Physical Human-Robot Interaction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.08664
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08664
 next_step: skim
+priority: medium
+slack_ts: '1776223647.913009'
+source: cs.RO - Robotics
+status: unread
+title: Generative Simulation for Policy Learning in Physical Human-Robot Interaction
 ---
 # Generative Simulation for Policy Learning in Physical Human-Robot Interaction
 > 原文: [https://arxiv.org/abs/2604.08664](https://arxiv.org/abs/2604.08664)

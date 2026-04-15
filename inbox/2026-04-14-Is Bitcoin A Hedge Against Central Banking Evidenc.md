@@ -1,11 +1,13 @@
 ---
-title: "Is Bitcoin A Hedge Against Central Banking? Evidence from AI-Driven Monetary Policy Expectations"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.08825
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08825
 next_step: skim
+priority: low
+slack_ts: '1776223649.152499'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Is Bitcoin A Hedge Against Central Banking? Evidence from AI-Driven Monetary
+  Policy Expectations
 ---
 # Is Bitcoin A Hedge Against Central Banking? Evidence from AI-Driven Monetary Policy Expectations
 > 原文: [https://arxiv.org/abs/2604.08825](https://arxiv.org/abs/2604.08825)

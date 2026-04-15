@@ -1,11 +1,13 @@
 ---
-title: "Scaffolding Human-AI Collaboration: A Field Experiment on Behavioral Protocols and Cognitive Reframing"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.08678
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08678
 next_step: skim
+priority: low
+slack_ts: '1776223652.329029'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Scaffolding Human-AI Collaboration: A Field Experiment on Behavioral Protocols
+  and Cognitive Reframing'
 ---
 # Scaffolding Human-AI Collaboration: A Field Experiment on Behavioral Protocols and Cognitive Reframing
 > 原文: [https://arxiv.org/abs/2604.08678](https://arxiv.org/abs/2604.08678)
