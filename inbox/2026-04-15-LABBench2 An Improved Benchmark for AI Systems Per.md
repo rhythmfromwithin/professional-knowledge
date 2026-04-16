@@ -1,11 +1,12 @@
 ---
-title: "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.09554
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09554
 next_step: skim
+priority: high
+slack_ts: '1776310482.686019'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'LABBench2: An Improved Benchmark for AI Systems Performing Biology Research'
 ---
 # LABBench2: An Improved Benchmark for AI Systems Performing Biology Research
 > 原文: [https://arxiv.org/abs/2604.09554](https://arxiv.org/abs/2604.09554)

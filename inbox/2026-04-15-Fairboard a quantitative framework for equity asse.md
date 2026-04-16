@@ -1,11 +1,12 @@
 ---
-title: "Fairboard: a quantitative framework for equity assessment of healthcare models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.09656
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09656
 next_step: skim
+priority: high
+slack_ts: '1776310480.316549'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Fairboard: a quantitative framework for equity assessment of healthcare models'
 ---
 # Fairboard: a quantitative framework for equity assessment of healthcare models
 > 原文: [https://arxiv.org/abs/2604.09656](https://arxiv.org/abs/2604.09656)

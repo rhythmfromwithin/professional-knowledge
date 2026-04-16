@@ -1,11 +1,12 @@
 ---
-title: "Discrete Flow Maps"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.09784
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09784
 next_step: skim
+priority: medium
+slack_ts: '1776310479.110629'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Discrete Flow Maps
 ---
 # Discrete Flow Maps
 > 原文: [https://arxiv.org/abs/2604.09784](https://arxiv.org/abs/2604.09784)

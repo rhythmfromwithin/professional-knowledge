@@ -1,0 +1,14 @@
+---
+title: "Adaptive Spiking Neurons for Vision and Language Modeling"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2604.12365
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Adaptive Spiking Neurons for Vision and Language Modeling
+> 原文: [https://arxiv.org/abs/2604.12365](https://arxiv.org/abs/2604.12365)
+
+arXiv:2604.12365v1 Announce Type: new
+Abstract: Regarded as the third generation of neural networks, Spiking Neural Networks (SNNs) have garnered significant traction due to their biological plausibility and energy efficiency. Recent advancements in large models necessitate spiking neurons capable of high performance, adaptability, and training efficiency. In this work, we first propose a novel functional perspective that provides general guidance for designing the new generation of spiking neurons. Following the insightful guidelines, we propose the Adaptive Spiking Neuron (ASN), which incorporates trainable parameters to learn membrane potential dynamics and enable adaptive firing. ASN adopts an integer training and spike inference paradigm, facilitating efficient SNN training. To further enhance robustness, we propose a specialized variant of ASN, the Normalized Adaptive Spiking Neuron (NASN), which integrates normalization to stabilize training. We evaluate our neuron model on 19 datasets spanning five distinct tasks in both vision and language modalities, demonstrating the effectiveness and versatility of the ASN family. Our ASN family is expected to become the new generation of general-purpose spiking neurons.

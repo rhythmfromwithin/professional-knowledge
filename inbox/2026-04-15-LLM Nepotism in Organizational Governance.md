@@ -1,11 +1,12 @@
 ---
-title: "LLM Nepotism in Organizational Governance"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.09620
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09620
 next_step: skim
+priority: medium
+slack_ts: '1776310483.110179'
+source: cs.CY - Computers and Society
+status: unread
+title: LLM Nepotism in Organizational Governance
 ---
 # LLM Nepotism in Organizational Governance
 > 原文: [https://arxiv.org/abs/2604.09620](https://arxiv.org/abs/2604.09620)

@@ -1,11 +1,12 @@
 ---
-title: "Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.09748
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09748
 next_step: skim
+priority: low
+slack_ts: '1776310477.008709'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward'
 ---
 # Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward
 > 原文: [https://arxiv.org/abs/2604.09748](https://arxiv.org/abs/2604.09748)

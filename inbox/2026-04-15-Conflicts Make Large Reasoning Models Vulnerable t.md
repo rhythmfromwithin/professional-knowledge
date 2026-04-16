@@ -1,11 +1,12 @@
 ---
-title: "Conflicts Make Large Reasoning Models Vulnerable to Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.09750
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09750
 next_step: skim
+priority: low
+slack_ts: '1776310478.477139'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Conflicts Make Large Reasoning Models Vulnerable to Attacks
 ---
 # Conflicts Make Large Reasoning Models Vulnerable to Attacks
 > 原文: [https://arxiv.org/abs/2604.09750](https://arxiv.org/abs/2604.09750)

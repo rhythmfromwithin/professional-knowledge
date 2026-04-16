@@ -1,11 +1,12 @@
 ---
-title: "gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.10601
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.10601
 next_step: skim
+priority: low
+slack_ts: '1776310488.869119'
+source: cs.DB - Databases
+status: unread
+title: 'gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs'
 ---
 # gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs
 > 原文: [https://arxiv.org/abs/2604.10601](https://arxiv.org/abs/2604.10601)

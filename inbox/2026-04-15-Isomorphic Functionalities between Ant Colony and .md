@@ -1,11 +1,13 @@
 ---
-title: "Isomorphic Functionalities between Ant Colony and Ensemble Learning: Part III -- Gradient Descent, Neural Plasticity, and the Emergence of Deep Intelligence"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.09677
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09677
 next_step: skim
+priority: low
+slack_ts: '1776310482.255429'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Isomorphic Functionalities between Ant Colony and Ensemble Learning: Part
+  III -- Gradient Descent, Neural Plasticity, and the Emergence of Deep Intelligence'
 ---
 # Isomorphic Functionalities between Ant Colony and Ensemble Learning: Part III -- Gradient Descent, Neural Plasticity, and the Emergence of Deep Intelligence
 > 原文: [https://arxiv.org/abs/2604.09677](https://arxiv.org/abs/2604.09677)

@@ -1,11 +1,13 @@
 ---
-title: "Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale Data and Ensemble LLM Annotations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.09625
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09625
 next_step: skim
+priority: high
+slack_ts: '1776310487.650379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale
+  Data and Ensemble LLM Annotations
 ---
 # Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale Data and Ensemble LLM Annotations
 > 原文: [https://arxiv.org/abs/2604.09625](https://arxiv.org/abs/2604.09625)

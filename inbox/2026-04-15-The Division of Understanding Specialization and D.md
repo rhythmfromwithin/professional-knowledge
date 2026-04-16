@@ -1,11 +1,12 @@
 ---
-title: "The Division of Understanding: Specialization and Democratic Accountability"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.09871
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09871
 next_step: skim
+priority: low
+slack_ts: '1776310487.230539'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Division of Understanding: Specialization and Democratic Accountability'
 ---
 # The Division of Understanding: Specialization and Democratic Accountability
 > 原文: [https://arxiv.org/abs/2604.09871](https://arxiv.org/abs/2604.09871)

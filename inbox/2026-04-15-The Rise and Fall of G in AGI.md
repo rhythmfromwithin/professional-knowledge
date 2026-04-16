@@ -1,11 +1,12 @@
 ---
-title: "The Rise and Fall of $G$ in AGI"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.09911
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09911
 next_step: skim
+priority: low
+slack_ts: '1776310487.436089'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Rise and Fall of $G$ in AGI
 ---
 # The Rise and Fall of $G$ in AGI
 > 原文: [https://arxiv.org/abs/2604.09911](https://arxiv.org/abs/2604.09911)

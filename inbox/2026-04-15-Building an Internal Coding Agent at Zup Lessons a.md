@@ -1,11 +1,12 @@
 ---
-title: "Building an Internal Coding Agent at Zup: Lessons and Open Questions"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.09805
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09805
 next_step: skim
+priority: low
+slack_ts: '1776310477.857209'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Building an Internal Coding Agent at Zup: Lessons and Open Questions'
 ---
 # Building an Internal Coding Agent at Zup: Lessons and Open Questions
 > 原文: [https://arxiv.org/abs/2604.09805](https://arxiv.org/abs/2604.09805)

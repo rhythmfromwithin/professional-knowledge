@@ -1,11 +1,12 @@
 ---
-title: "VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.09558
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09558
 next_step: skim
+priority: medium
+slack_ts: '1776310488.664729'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination'
 ---
 # VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination
 > 原文: [https://arxiv.org/abs/2604.09558](https://arxiv.org/abs/2604.09558)

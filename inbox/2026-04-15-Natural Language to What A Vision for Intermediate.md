@@ -1,11 +1,13 @@
 ---
-title: "Natural Language to What? A Vision for Intermediate Representations in NL-to-X Querying"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.10776
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.10776
 next_step: skim
+priority: low
+slack_ts: '1776310483.712449'
+source: cs.DB - Databases
+status: unread
+title: Natural Language to What? A Vision for Intermediate Representations in NL-to-X
+  Querying
 ---
 # Natural Language to What? A Vision for Intermediate Representations in NL-to-X Querying
 > 原文: [https://arxiv.org/abs/2604.10776](https://arxiv.org/abs/2604.10776)

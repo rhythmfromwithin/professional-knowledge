@@ -1,11 +1,13 @@
 ---
-title: "Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.09665
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09665
 next_step: skim
+priority: high
+slack_ts: '1776310478.900449'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety
+  improvement in reasoning via attribution of unsafe behavior to base model'
 ---
 # Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model
 > 原文: [https://arxiv.org/abs/2604.09665](https://arxiv.org/abs/2604.09665)

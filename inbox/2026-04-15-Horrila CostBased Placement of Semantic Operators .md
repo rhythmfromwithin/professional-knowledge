@@ -1,11 +1,12 @@
 ---
-title: "Horrila: Cost-Based Placement of Semantic Operators in Hybrid Query Plans"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.09944
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09944
 next_step: skim
+priority: low
+slack_ts: '1776310481.631819'
+source: cs.DB - Databases
+status: unread
+title: 'Horrila: Cost-Based Placement of Semantic Operators in Hybrid Query Plans'
 ---
 # Horrila: Cost-Based Placement of Semantic Operators in Hybrid Query Plans
 > 原文: [https://arxiv.org/abs/2604.09944](https://arxiv.org/abs/2604.09944)

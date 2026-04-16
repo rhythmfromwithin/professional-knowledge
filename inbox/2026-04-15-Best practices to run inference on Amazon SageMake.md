@@ -1,11 +1,12 @@
 ---
-title: "Best practices to run inference on Amazon SageMaker HyperPod"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/
 next_step: skim
+priority: high
+slack_ts: '1776310477.230409'
+source: AWS Blog
+status: unread
+title: Best practices to run inference on Amazon SageMaker HyperPod
 ---
 # Best practices to run inference on Amazon SageMaker HyperPod
 > 原文: [https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/](https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/)

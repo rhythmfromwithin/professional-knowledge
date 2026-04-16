@@ -1,11 +1,12 @@
 ---
-title: "EvoDiagram: Agentic Editable Diagram Creation via Design Expertise Evolution"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.09568
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09568
 next_step: skim
+priority: low
+slack_ts: '1776310479.917199'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'EvoDiagram: Agentic Editable Diagram Creation via Design Expertise Evolution'
 ---
 # EvoDiagram: Agentic Editable Diagram Creation via Design Expertise Evolution
 > 原文: [https://arxiv.org/abs/2604.09568](https://arxiv.org/abs/2604.09568)

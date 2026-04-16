@@ -1,11 +1,12 @@
 ---
-title: "Efficient Disruption of Criminal Networks through Multi-Objective Genetic Algorithms"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.09647
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09647
 next_step: skim
+priority: low
+slack_ts: '1776310479.312789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Efficient Disruption of Criminal Networks through Multi-Objective Genetic Algorithms
 ---
 # Efficient Disruption of Criminal Networks through Multi-Objective Genetic Algorithms
 > 原文: [https://arxiv.org/abs/2604.09647](https://arxiv.org/abs/2604.09647)

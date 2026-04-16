@@ -1,11 +1,12 @@
 ---
-title: "Seven simple steps for log analysis in AI systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.09563
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09563
 next_step: skim
+priority: high
+slack_ts: '1776310486.408369'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Seven simple steps for log analysis in AI systems
 ---
 # Seven simple steps for log analysis in AI systems
 > 原文: [https://arxiv.org/abs/2604.09563](https://arxiv.org/abs/2604.09563)

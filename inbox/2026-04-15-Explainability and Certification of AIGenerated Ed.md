@@ -1,11 +1,12 @@
 ---
-title: "Explainability and Certification of AI-Generated Educational Assessments"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.09622
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09622
 next_step: skim
+priority: medium
+slack_ts: '1776310480.113999'
+source: cs.CY - Computers and Society
+status: unread
+title: Explainability and Certification of AI-Generated Educational Assessments
 ---
 # Explainability and Certification of AI-Generated Educational Assessments
 > 原文: [https://arxiv.org/abs/2604.09622](https://arxiv.org/abs/2604.09622)

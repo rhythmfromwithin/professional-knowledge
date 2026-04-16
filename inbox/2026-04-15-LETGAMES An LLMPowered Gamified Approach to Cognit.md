@@ -1,11 +1,13 @@
 ---
-title: "LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients with Cognitive Impairment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.09566
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09566
 next_step: skim
+priority: low
+slack_ts: '1776310482.903819'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients
+  with Cognitive Impairment'
 ---
 # LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients with Cognitive Impairment
 > 原文: [https://arxiv.org/abs/2604.09566](https://arxiv.org/abs/2604.09566)

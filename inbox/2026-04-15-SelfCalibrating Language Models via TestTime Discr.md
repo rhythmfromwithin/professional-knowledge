@@ -1,11 +1,12 @@
 ---
-title: "Self-Calibrating Language Models via Test-Time Discriminative Distillation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.09624
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09624
 next_step: skim
+priority: high
+slack_ts: '1776310486.197409'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Self-Calibrating Language Models via Test-Time Discriminative Distillation
 ---
 # Self-Calibrating Language Models via Test-Time Discriminative Distillation
 > 原文: [https://arxiv.org/abs/2604.09624](https://arxiv.org/abs/2604.09624)

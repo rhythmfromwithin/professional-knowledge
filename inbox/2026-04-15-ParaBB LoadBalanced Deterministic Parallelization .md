@@ -1,11 +1,12 @@
 ---
-title: "Para-B&B: Load-Balanced Deterministic Parallelization of Solving MIP"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.09556
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09556
 next_step: skim
+priority: medium
+slack_ts: '1776310484.744259'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Para-B&B: Load-Balanced Deterministic Parallelization of Solving MIP'
 ---
 # Para-B&B: Load-Balanced Deterministic Parallelization of Solving MIP
 > 原文: [https://arxiv.org/abs/2604.09556](https://arxiv.org/abs/2604.09556)

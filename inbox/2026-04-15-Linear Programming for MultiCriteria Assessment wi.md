@@ -1,11 +1,13 @@
 ---
-title: "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.09555
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09555
 next_step: skim
+priority: high
+slack_ts: '1776310483.313279'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal
+  Data: A Pessimistic Virtual Gap Analysis'
 ---
 # Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis
 > 原文: [https://arxiv.org/abs/2604.09555](https://arxiv.org/abs/2604.09555)

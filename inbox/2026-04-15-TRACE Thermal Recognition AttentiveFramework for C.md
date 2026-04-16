@@ -1,11 +1,12 @@
 ---
-title: "TRACE: Thermal Recognition Attentive-Framework for CO2 Emissions from Livestock"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.09648
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09648
 next_step: skim
+priority: medium
+slack_ts: '1776310487.023189'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TRACE: Thermal Recognition Attentive-Framework for CO2 Emissions from Livestock'
 ---
 # TRACE: Thermal Recognition Attentive-Framework for CO2 Emissions from Livestock
 > 原文: [https://arxiv.org/abs/2604.09648](https://arxiv.org/abs/2604.09648)

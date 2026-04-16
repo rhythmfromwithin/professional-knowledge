@@ -1,11 +1,12 @@
 ---
-title: "Bringing people together at AI for the Economy Forum"
-source: "Google AI Blog"
-link: https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/
 next_step: skim
+priority: high
+slack_ts: '1776310477.441239'
+source: Google AI Blog
+status: unread
+title: Bringing people together at AI for the Economy Forum
 ---
 # Bringing people together at AI for the Economy Forum
 > 原文: [https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/](https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/)

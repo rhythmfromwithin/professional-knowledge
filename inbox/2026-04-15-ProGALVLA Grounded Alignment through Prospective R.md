@@ -1,11 +1,13 @@
 ---
-title: "ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.09824
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09824
 next_step: skim
+priority: medium
+slack_ts: '1776310485.580539'
+source: cs.RO - Robotics
+status: unread
+title: 'ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action
+  Models'
 ---
 # ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2604.09824](https://arxiv.org/abs/2604.09824)

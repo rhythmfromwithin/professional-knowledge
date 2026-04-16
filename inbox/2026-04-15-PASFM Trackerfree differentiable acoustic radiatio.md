@@ -1,11 +1,13 @@
 ---
-title: "PA-SFM: Tracker-free differentiable acoustic radiation for freehand 3D photoacoustic imaging"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.09643
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09643
 next_step: skim
+priority: medium
+slack_ts: '1776310484.528459'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PA-SFM: Tracker-free differentiable acoustic radiation for freehand 3D photoacoustic
+  imaging'
 ---
 # PA-SFM: Tracker-free differentiable acoustic radiation for freehand 3D photoacoustic imaging
 > 原文: [https://arxiv.org/abs/2604.09643](https://arxiv.org/abs/2604.09643)

@@ -1,11 +1,13 @@
 ---
-title: "Unveiling contrasting impacts of heat mitigation and adaptation policies on U.S. internal migration"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.10570
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.10570
 next_step: skim
+priority: low
+slack_ts: '1776310488.465609'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Unveiling contrasting impacts of heat mitigation and adaptation policies on
+  U.S. internal migration
 ---
 # Unveiling contrasting impacts of heat mitigation and adaptation policies on U.S. internal migration
 > 原文: [https://arxiv.org/abs/2604.10570](https://arxiv.org/abs/2604.10570)

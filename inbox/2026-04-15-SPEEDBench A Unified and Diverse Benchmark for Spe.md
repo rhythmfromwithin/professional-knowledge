@@ -1,11 +1,12 @@
 ---
-title: "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.09557
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.09557
 next_step: skim
+priority: medium
+slack_ts: '1776310485.988509'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding'
 ---
 # SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding
 > 原文: [https://arxiv.org/abs/2604.09557](https://arxiv.org/abs/2604.09557)

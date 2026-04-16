@@ -1,0 +1,14 @@
+---
+title: "Investigating the Impacts of Exchange Rate and Inflation on Exports: A Double Threat or Opportunity for Turkiye?"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2604.12991
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Investigating the Impacts of Exchange Rate and Inflation on Exports: A Double Threat or Opportunity for Turkiye?
+> 原文: [https://arxiv.org/abs/2604.12991](https://arxiv.org/abs/2604.12991)
+
+arXiv:2604.12991v1 Announce Type: new
+Abstract: This study analyzes the impacts of exchange rate and inflation on exports in Turkiye. Annual data for the period 1995-2023 were used in the analysis. The Johansen cointegration analysis and Dynamic Least Squares (DOLS) method were employed in the study. Identifying the cointegration relationship enabled the estimation of the long-run coefficients. The results show that an increase in the real effective exchange rate (appreciation of the Turkish lira) and inflation reduce exports with coefficients of -0.185 and -0.125, respectively. Foreign direct investment and imports, added to the study as control variables, have a positive impact on exports with coefficients of 0.117 and 0.849, respectively. These findings indicate that exchange rate stability and inflation control are priorities for improving foreign trade performance. Furthermore, policies that increase foreign direct investment and strategically manage imports complement this process.
