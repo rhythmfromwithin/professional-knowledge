@@ -1,11 +1,13 @@
 ---
-title: "Socially Fluent, Socially Awkward: Artificial Intelligence Relational Talk Backfires in Commercial Interactions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.12206
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12206
 next_step: skim
+priority: low
+slack_ts: '1776396652.974819'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Socially Fluent, Socially Awkward: Artificial Intelligence Relational Talk
+  Backfires in Commercial Interactions'
 ---
 # Socially Fluent, Socially Awkward: Artificial Intelligence Relational Talk Backfires in Commercial Interactions
 > 原文: [https://arxiv.org/abs/2604.12206](https://arxiv.org/abs/2604.12206)

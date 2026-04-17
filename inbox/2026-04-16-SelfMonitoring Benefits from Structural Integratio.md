@@ -1,11 +1,13 @@
 ---
-title: "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.11914
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11914
 next_step: skim
+priority: high
+slack_ts: '1776396652.777789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition
+  in Continuous-Time Multi-Timescale Agents'
 ---
 # Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents
 > 原文: [https://arxiv.org/abs/2604.11914](https://arxiv.org/abs/2604.11914)

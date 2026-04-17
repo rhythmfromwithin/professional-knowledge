@@ -1,11 +1,13 @@
 ---
-title: "The illusory simplicity of the feedforward pass: evidence for the dynamical nature of stimulus encoding along the primate ventral stream"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.12825
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12825
 next_step: skim
+priority: low
+slack_ts: '1776396653.609279'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The illusory simplicity of the feedforward pass: evidence for the dynamical
+  nature of stimulus encoding along the primate ventral stream'
 ---
 # The illusory simplicity of the feedforward pass: evidence for the dynamical nature of stimulus encoding along the primate ventral stream
 > 原文: [https://arxiv.org/abs/2604.12825](https://arxiv.org/abs/2604.12825)

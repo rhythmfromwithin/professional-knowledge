@@ -1,11 +1,13 @@
 ---
-title: "Speaker effects in language comprehension: An integrative model of language and speaker processing"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2412.07238
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2412.07238
 next_step: skim
+priority: low
+slack_ts: '1776396653.181229'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Speaker effects in language comprehension: An integrative model of language
+  and speaker processing'
 ---
 # Speaker effects in language comprehension: An integrative model of language and speaker processing
 > 原文: [https://arxiv.org/abs/2412.07238](https://arxiv.org/abs/2412.07238)

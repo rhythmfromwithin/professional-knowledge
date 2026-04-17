@@ -1,11 +1,13 @@
 ---
-title: "Lit2Vec: A Reproducible Workflow for Building a Legally Screened Chemistry Corpus from S2ORC for Downstream Retrieval and Text Mining"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.12498
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12498
 next_step: skim
+priority: low
+slack_ts: '1776396649.163819'
+source: cs.DB - Databases
+status: unread
+title: 'Lit2Vec: A Reproducible Workflow for Building a Legally Screened Chemistry
+  Corpus from S2ORC for Downstream Retrieval and Text Mining'
 ---
 # Lit2Vec: A Reproducible Workflow for Building a Legally Screened Chemistry Corpus from S2ORC for Downstream Retrieval and Text Mining
 > 原文: [https://arxiv.org/abs/2604.12498](https://arxiv.org/abs/2604.12498)

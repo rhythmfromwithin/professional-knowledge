@@ -1,11 +1,13 @@
 ---
-title: "Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.11996
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11996
 next_step: skim
+priority: high
+slack_ts: '1776396646.077129'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Filtered Reasoning Score: Evaluating Reasoning Quality on a Model''s Most-Confident
+  Traces'
 ---
 # Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces
 > 原文: [https://arxiv.org/abs/2604.11996](https://arxiv.org/abs/2604.11996)

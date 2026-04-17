@@ -1,11 +1,12 @@
 ---
-title: "V-Nutri: Dish-Level Nutrition Estimation from Egocentric Cooking Videos"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.11913
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11913
 next_step: skim
+priority: medium
+slack_ts: '1776396655.212779'
+source: cs.CV - Computer Vision
+status: unread
+title: 'V-Nutri: Dish-Level Nutrition Estimation from Egocentric Cooking Videos'
 ---
 # V-Nutri: Dish-Level Nutrition Estimation from Egocentric Cooking Videos
 > 原文: [https://arxiv.org/abs/2604.11913](https://arxiv.org/abs/2604.11913)

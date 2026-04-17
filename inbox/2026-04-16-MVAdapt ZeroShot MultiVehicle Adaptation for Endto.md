@@ -1,11 +1,12 @@
 ---
-title: "MVAdapt: Zero-Shot Multi-Vehicle Adaptation for End-to-End Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.11854
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11854
 next_step: skim
+priority: medium
+slack_ts: '1776396649.669789'
+source: cs.RO - Robotics
+status: unread
+title: 'MVAdapt: Zero-Shot Multi-Vehicle Adaptation for End-to-End Autonomous Driving'
 ---
 # MVAdapt: Zero-Shot Multi-Vehicle Adaptation for End-to-End Autonomous Driving
 > 原文: [https://arxiv.org/abs/2604.11854](https://arxiv.org/abs/2604.11854)

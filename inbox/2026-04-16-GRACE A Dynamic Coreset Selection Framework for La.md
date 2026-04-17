@@ -1,11 +1,12 @@
 ---
-title: "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.11810
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11810
 next_step: skim
+priority: low
+slack_ts: '1776396646.488529'
+source: cs.DB - Databases
+status: unread
+title: 'GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization'
 ---
 # GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization
 > 原文: [https://arxiv.org/abs/2604.11810](https://arxiv.org/abs/2604.11810)

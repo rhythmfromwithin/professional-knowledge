@@ -1,11 +1,12 @@
 ---
-title: "ORBIT: Guided Agentic Orchestration for Autonomous C-to-Rust Transpilation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.12048
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12048
 next_step: skim
+priority: low
+slack_ts: '1776396650.284529'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ORBIT: Guided Agentic Orchestration for Autonomous C-to-Rust Transpilation'
 ---
 # ORBIT: Guided Agentic Orchestration for Autonomous C-to-Rust Transpilation
 > 原文: [https://arxiv.org/abs/2604.12048](https://arxiv.org/abs/2604.12048)

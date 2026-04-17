@@ -1,11 +1,12 @@
 ---
-title: "LLMs Struggle with Abstract Meaning Comprehension More Than Expected"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.12018
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12018
 next_step: skim
+priority: high
+slack_ts: '1776396648.915979'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: LLMs Struggle with Abstract Meaning Comprehension More Than Expected
 ---
 # LLMs Struggle with Abstract Meaning Comprehension More Than Expected
 > 原文: [https://arxiv.org/abs/2604.12018](https://arxiv.org/abs/2604.12018)

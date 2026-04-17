@@ -1,11 +1,12 @@
 ---
-title: "ROSE: An Intent-Centered Evaluation Metric for NL2SQL"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.12988
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12988
 next_step: skim
+priority: low
+slack_ts: '1776396651.585479'
+source: cs.DB - Databases
+status: unread
+title: 'ROSE: An Intent-Centered Evaluation Metric for NL2SQL'
 ---
 # ROSE: An Intent-Centered Evaluation Metric for NL2SQL
 > 原文: [https://arxiv.org/abs/2604.12988](https://arxiv.org/abs/2604.12988)

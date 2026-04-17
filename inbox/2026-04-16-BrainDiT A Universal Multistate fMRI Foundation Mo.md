@@ -1,11 +1,13 @@
 ---
-title: "Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.12683
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12683
 next_step: skim
+priority: low
+slack_ts: '1776396643.345659'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned
+  Pretraining'
 ---
 # Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining
 > 原文: [https://arxiv.org/abs/2604.12683](https://arxiv.org/abs/2604.12683)

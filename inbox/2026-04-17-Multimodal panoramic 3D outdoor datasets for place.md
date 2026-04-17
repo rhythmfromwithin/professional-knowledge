@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2604.13142
+next_step: skim
+priority: medium
+slack_ts: '1776396665.070339'
+source: cs.RO - Robotics
+status: unread
+title: Multi-modal panoramic 3D outdoor datasets for place categorization
+---
+# Multi-modal panoramic 3D outdoor datasets for place categorization
+> 原文: [https://arxiv.org/abs/2604.13142](https://arxiv.org/abs/2604.13142)
+
+arXiv:2604.13142v1 Announce Type: new
+Abstract: We present two multi-modal panoramic 3D outdoor (MPO) datasets for semantic place categorization with six categories: forest, coast, residential area, urban area and indoor/outdoor parking lot. The first dataset consists of 650 static panoramic scans of dense (9,000,000 points) 3D color and reflectance point clouds obtained using a FARO laser scanner with synchronized color images. The second dataset consists of 34,200 real-time panoramic scans of sparse (70,000 points) 3D reflectance point clouds obtained using a Velodyne laser scanner while driving a car. The datasets were obtained in the city of Fukuoka, Japan and are publicly available in [1], [2]. In addition, we compare several approaches for semantic place categorization with best results of 96.42% (dense) and 89.67% (sparse).

@@ -1,11 +1,12 @@
 ---
-title: "Stability and Geometry of Attractors in Neural Cellular Automata"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.12720
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12720
 next_step: skim
+priority: low
+slack_ts: '1776396653.399569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Stability and Geometry of Attractors in Neural Cellular Automata
 ---
 # Stability and Geometry of Attractors in Neural Cellular Automata
 > 原文: [https://arxiv.org/abs/2604.12720](https://arxiv.org/abs/2604.12720)

@@ -1,11 +1,12 @@
 ---
-title: "What Drives Energy Use? Prices, Efficiency Policies, and the Demand Frontier"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.12112
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12112
 next_step: skim
+priority: low
+slack_ts: '1776396655.547909'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: What Drives Energy Use? Prices, Efficiency Policies, and the Demand Frontier
 ---
 # What Drives Energy Use? Prices, Efficiency Policies, and the Demand Frontier
 > 原文: [https://arxiv.org/abs/2604.12112](https://arxiv.org/abs/2604.12112)

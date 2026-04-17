@@ -1,11 +1,13 @@
 ---
-title: "Characterizing Resource Sharing Practices on Underground Internet Forum Synthetic Non-Consensual Intimate Image Content Creation Communities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.12190
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12190
 next_step: skim
+priority: medium
+slack_ts: '1776396644.315189'
+source: cs.CY - Computers and Society
+status: unread
+title: Characterizing Resource Sharing Practices on Underground Internet Forum Synthetic
+  Non-Consensual Intimate Image Content Creation Communities
 ---
 # Characterizing Resource Sharing Practices on Underground Internet Forum Synthetic Non-Consensual Intimate Image Content Creation Communities
 > 原文: [https://arxiv.org/abs/2604.12190](https://arxiv.org/abs/2604.12190)

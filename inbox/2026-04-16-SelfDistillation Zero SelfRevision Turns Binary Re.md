@@ -1,11 +1,12 @@
 ---
-title: "Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.12002
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12002
 next_step: skim
+priority: high
+slack_ts: '1776396652.516159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision'
 ---
 # Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision
 > 原文: [https://arxiv.org/abs/2604.12002](https://arxiv.org/abs/2604.12002)

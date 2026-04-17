@@ -1,11 +1,12 @@
 ---
-title: "SIR-Bench: Evaluating Investigation Depth in Security Incident Response Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.12040
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12040
 next_step: skim
+priority: low
+slack_ts: '1776396652.316029'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SIR-Bench: Evaluating Investigation Depth in Security Incident Response Agents'
 ---
 # SIR-Bench: Evaluating Investigation Depth in Security Incident Response Agents
 > 原文: [https://arxiv.org/abs/2604.12040](https://arxiv.org/abs/2604.12040)

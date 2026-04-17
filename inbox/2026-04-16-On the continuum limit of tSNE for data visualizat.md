@@ -1,11 +1,12 @@
 ---
-title: "On the continuum limit of t-SNE for data visualization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.12041
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12041
 next_step: skim
+priority: medium
+slack_ts: '1776396650.768059'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: On the continuum limit of t-SNE for data visualization
 ---
 # On the continuum limit of t-SNE for data visualization
 > 原文: [https://arxiv.org/abs/2604.12041](https://arxiv.org/abs/2604.12041)

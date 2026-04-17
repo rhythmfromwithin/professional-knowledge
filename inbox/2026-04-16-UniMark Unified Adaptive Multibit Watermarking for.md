@@ -1,11 +1,13 @@
 ---
-title: "UniMark: Unified Adaptive Multi-bit Watermarking for Autoregressive Image Generators"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.11843
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11843
 next_step: skim
+priority: medium
+slack_ts: '1776396655.005849'
+source: cs.CV - Computer Vision
+status: unread
+title: 'UniMark: Unified Adaptive Multi-bit Watermarking for Autoregressive Image
+  Generators'
 ---
 # UniMark: Unified Adaptive Multi-bit Watermarking for Autoregressive Image Generators
 > 原文: [https://arxiv.org/abs/2604.11843](https://arxiv.org/abs/2604.11843)

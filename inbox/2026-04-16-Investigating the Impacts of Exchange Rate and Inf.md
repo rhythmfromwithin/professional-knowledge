@@ -1,11 +1,13 @@
 ---
-title: "Investigating the Impacts of Exchange Rate and Inflation on Exports: A Double Threat or Opportunity for Turkiye?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.12991
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12991
 next_step: skim
+priority: low
+slack_ts: '1776396648.649849'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Investigating the Impacts of Exchange Rate and Inflation on Exports: A Double
+  Threat or Opportunity for Turkiye?'
 ---
 # Investigating the Impacts of Exchange Rate and Inflation on Exports: A Double Threat or Opportunity for Turkiye?
 > 原文: [https://arxiv.org/abs/2604.12991](https://arxiv.org/abs/2604.12991)

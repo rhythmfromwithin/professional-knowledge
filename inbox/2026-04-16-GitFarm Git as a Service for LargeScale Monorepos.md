@@ -1,11 +1,12 @@
 ---
-title: "GitFarm: Git as a Service for Large-Scale Monorepos"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.11977
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11977
 next_step: skim
+priority: low
+slack_ts: '1776396647.598399'
+source: cs.SE - Software Engineering
+status: unread
+title: 'GitFarm: Git as a Service for Large-Scale Monorepos'
 ---
 # GitFarm: Git as a Service for Large-Scale Monorepos
 > 原文: [https://arxiv.org/abs/2604.11977](https://arxiv.org/abs/2604.11977)

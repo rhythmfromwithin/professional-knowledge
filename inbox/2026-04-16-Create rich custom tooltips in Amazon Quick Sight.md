@@ -1,11 +1,12 @@
 ---
-title: "Create rich, custom tooltips in Amazon Quick Sight"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/
 next_step: skim
+priority: high
+slack_ts: '1776396644.727079'
+source: AWS Blog
+status: unread
+title: Create rich, custom tooltips in Amazon Quick Sight
 ---
 # Create rich, custom tooltips in Amazon Quick Sight
 > 原文: [https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/](https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/)

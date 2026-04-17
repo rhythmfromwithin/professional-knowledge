@@ -1,11 +1,13 @@
 ---
-title: "MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.11868
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11868
 next_step: skim
+priority: medium
+slack_ts: '1776396649.864629'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MedConcept: Unsupervised Concept Discovery for Interpretability in Medical
+  VLMs'
 ---
 # MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs
 > 原文: [https://arxiv.org/abs/2604.11868](https://arxiv.org/abs/2604.11868)

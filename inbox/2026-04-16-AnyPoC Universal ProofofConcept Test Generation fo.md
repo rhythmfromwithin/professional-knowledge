@@ -1,11 +1,13 @@
 ---
-title: "AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.11950
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11950
 next_step: skim
+priority: low
+slack_ts: '1776396641.759039'
+source: cs.SE - Software Engineering
+status: unread
+title: 'AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based
+  Bug Detection'
 ---
 # AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection
 > 原文: [https://arxiv.org/abs/2604.11950](https://arxiv.org/abs/2604.11950)

@@ -1,11 +1,12 @@
 ---
-title: "The next evolution of the Agents SDK"
-source: "OpenAI Blog"
-link: https://openai.com/index/the-next-evolution-of-the-agents-sdk
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/the-next-evolution-of-the-agents-sdk
 next_step: skim
+priority: high
+slack_ts: '1776396653.833669'
+source: OpenAI Blog
+status: unread
+title: The next evolution of the Agents SDK
 ---
 # The next evolution of the Agents SDK
 > 原文: [https://openai.com/index/the-next-evolution-of-the-agents-sdk](https://openai.com/index/the-next-evolution-of-the-agents-sdk)

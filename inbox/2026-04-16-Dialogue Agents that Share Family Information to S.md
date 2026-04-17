@@ -1,11 +1,13 @@
 ---
-title: "Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.12310
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.12310
 next_step: skim
+priority: low
+slack_ts: '1776396645.235879'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild
+  Relationships
 ---
 # Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships
 > 原文: [https://arxiv.org/abs/2604.12310](https://arxiv.org/abs/2604.12310)

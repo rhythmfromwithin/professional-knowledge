@@ -1,11 +1,13 @@
 ---
-title: "M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot Interaction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.11975
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11975
 next_step: skim
+priority: medium
+slack_ts: '1776396649.469839'
+source: cs.RO - Robotics
+status: unread
+title: 'M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot
+  Interaction'
 ---
 # M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot Interaction
 > 原文: [https://arxiv.org/abs/2604.11975](https://arxiv.org/abs/2604.11975)

@@ -1,11 +1,13 @@
 ---
-title: "BIND-USBL: Bounding IMU Navigation Drift using USBL in Heterogeneous ASV-AUV Teams"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.11861
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11861
 next_step: skim
+priority: medium
+slack_ts: '1776396642.708009'
+source: cs.RO - Robotics
+status: unread
+title: 'BIND-USBL: Bounding IMU Navigation Drift using USBL in Heterogeneous ASV-AUV
+  Teams'
 ---
 # BIND-USBL: Bounding IMU Navigation Drift using USBL in Heterogeneous ASV-AUV Teams
 > 原文: [https://arxiv.org/abs/2604.11861](https://arxiv.org/abs/2604.11861)

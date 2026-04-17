@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Lightweight Block Cipher Payload Encryption for Real-Time CAN Traffic"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.11853
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11853
 next_step: skim
+priority: low
+slack_ts: '1776396645.879159'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Evaluating Lightweight Block Cipher Payload Encryption for Real-Time CAN Traffic
 ---
 # Evaluating Lightweight Block Cipher Payload Encryption for Real-Time CAN Traffic
 > 原文: [https://arxiv.org/abs/2604.11853](https://arxiv.org/abs/2604.11853)

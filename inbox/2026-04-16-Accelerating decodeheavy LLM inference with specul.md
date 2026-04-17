@@ -1,11 +1,13 @@
 ---
-title: "Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/
 next_step: skim
+priority: high
+slack_ts: '1776396641.151109'
+source: AWS Blog
+status: unread
+title: Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium
+  and vLLM
 ---
 # Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM
 > 原文: [https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/](https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/)

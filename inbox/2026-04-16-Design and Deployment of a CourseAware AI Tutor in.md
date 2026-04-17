@@ -1,11 +1,13 @@
 ---
-title: "Design and Deployment of a Course-Aware AI Tutor in an Introductory Programming Course"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.11836
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11836
 next_step: skim
+priority: medium
+slack_ts: '1776396644.928719'
+source: cs.CY - Computers and Society
+status: unread
+title: Design and Deployment of a Course-Aware AI Tutor in an Introductory Programming
+  Course
 ---
 # Design and Deployment of a Course-Aware AI Tutor in an Introductory Programming Course
 > 原文: [https://arxiv.org/abs/2604.11836](https://arxiv.org/abs/2604.11836)
