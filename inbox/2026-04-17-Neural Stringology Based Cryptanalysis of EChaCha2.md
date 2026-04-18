@@ -1,11 +1,12 @@
 ---
-title: "Neural Stringology Based Cryptanalysis of EChaCha20"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.13289
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13289
 next_step: skim
+priority: low
+slack_ts: '1776482306.489799'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Neural Stringology Based Cryptanalysis of EChaCha20
 ---
 # Neural Stringology Based Cryptanalysis of EChaCha20
 > 原文: [https://arxiv.org/abs/2604.13289](https://arxiv.org/abs/2604.13289)

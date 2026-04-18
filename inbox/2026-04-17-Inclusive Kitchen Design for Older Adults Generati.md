@@ -1,11 +1,13 @@
 ---
-title: "Inclusive Kitchen Design for Older Adults: Generative AI Visualizations to Support Mild Cognitive Impairment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.13203
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13203
 next_step: skim
+priority: low
+slack_ts: '1776482305.620419'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Inclusive Kitchen Design for Older Adults: Generative AI Visualizations to
+  Support Mild Cognitive Impairment'
 ---
 # Inclusive Kitchen Design for Older Adults: Generative AI Visualizations to Support Mild Cognitive Impairment
 > 原文: [https://arxiv.org/abs/2604.13203](https://arxiv.org/abs/2604.13203)

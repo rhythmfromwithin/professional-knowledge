@@ -1,11 +1,12 @@
 ---
-title: "PackSELL: A Sparse Matrix Format for Precision-Agnostic High-Performance SpMV"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.13433
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13433
 next_step: skim
+priority: medium
+slack_ts: '1776482307.215479'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'PackSELL: A Sparse Matrix Format for Precision-Agnostic High-Performance SpMV'
 ---
 # PackSELL: A Sparse Matrix Format for Precision-Agnostic High-Performance SpMV
 > 原文: [https://arxiv.org/abs/2604.13433](https://arxiv.org/abs/2604.13433)

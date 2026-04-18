@@ -1,11 +1,12 @@
 ---
-title: "Contract-Coding: Towards Repo-Level Generation via Structured Symbolic Paradigm"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.13100
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13100
 next_step: skim
+priority: low
+slack_ts: '1776482303.330139'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Contract-Coding: Towards Repo-Level Generation via Structured Symbolic Paradigm'
 ---
 # Contract-Coding: Towards Repo-Level Generation via Structured Symbolic Paradigm
 > 原文: [https://arxiv.org/abs/2604.13100](https://arxiv.org/abs/2604.13100)

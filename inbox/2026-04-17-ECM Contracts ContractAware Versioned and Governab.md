@@ -1,11 +1,13 @@
 ---
-title: "ECM Contracts: Contract-Aware, Versioned, and Governable Capability Interfaces for Embodied Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.13097
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13097
 next_step: skim
+priority: low
+slack_ts: '1776482303.574499'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ECM Contracts: Contract-Aware, Versioned, and Governable Capability Interfaces
+  for Embodied Agents'
 ---
 # ECM Contracts: Contract-Aware, Versioned, and Governable Capability Interfaces for Embodied Agents
 > 原文: [https://arxiv.org/abs/2604.13097](https://arxiv.org/abs/2604.13097)

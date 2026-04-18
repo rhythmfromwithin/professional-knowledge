@@ -1,11 +1,13 @@
 ---
-title: "Graph Propagated Projection Unlearning: A Unified Framework for Vision and Audio Discriminative Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.13127
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13127
 next_step: skim
+priority: medium
+slack_ts: '1776482304.996249'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Graph Propagated Projection Unlearning: A Unified Framework for Vision and
+  Audio Discriminative Models'
 ---
 # Graph Propagated Projection Unlearning: A Unified Framework for Vision and Audio Discriminative Models
 > 原文: [https://arxiv.org/abs/2604.13127](https://arxiv.org/abs/2604.13127)

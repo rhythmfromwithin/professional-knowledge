@@ -1,11 +1,12 @@
 ---
-title: "Lazy or Efficient? Towards Accessible Eye-Tracking Event Detection Using LLMs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.13243
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13243
 next_step: skim
+priority: low
+slack_ts: '1776482306.122539'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Lazy or Efficient? Towards Accessible Eye-Tracking Event Detection Using LLMs
 ---
 # Lazy or Efficient? Towards Accessible Eye-Tracking Event Detection Using LLMs
 > 原文: [https://arxiv.org/abs/2604.13243](https://arxiv.org/abs/2604.13243)

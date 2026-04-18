@@ -1,11 +1,13 @@
 ---
-title: "PlanCompiler: A Deterministic Compilation Architecture for Structured Multi-Step LLM Pipelines"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.13092
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13092
 next_step: skim
+priority: low
+slack_ts: '1776482307.590369'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PlanCompiler: A Deterministic Compilation Architecture for Structured Multi-Step
+  LLM Pipelines'
 ---
 # PlanCompiler: A Deterministic Compilation Architecture for Structured Multi-Step LLM Pipelines
 > 原文: [https://arxiv.org/abs/2604.13092](https://arxiv.org/abs/2604.13092)

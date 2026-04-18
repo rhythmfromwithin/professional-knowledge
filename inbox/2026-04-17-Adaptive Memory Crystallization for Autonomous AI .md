@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic Environments"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.13085
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13085
 next_step: skim
+priority: high
+slack_ts: '1776482301.526859'
+source: cs.LG - Machine Learning
+status: unread
+title: Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic
+  Environments
 ---
 # Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic Environments
 > 原文: [https://arxiv.org/abs/2604.13085](https://arxiv.org/abs/2604.13085)

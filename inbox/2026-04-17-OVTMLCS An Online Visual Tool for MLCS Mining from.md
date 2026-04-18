@@ -1,11 +1,12 @@
 ---
-title: "OVT-MLCS: An Online Visual Tool for MLCS Mining from Long or Big Sequences"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.13037
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13037
 next_step: skim
+priority: low
+slack_ts: '1776482306.837209'
+source: cs.DB - Databases
+status: unread
+title: 'OVT-MLCS: An Online Visual Tool for MLCS Mining from Long or Big Sequences'
 ---
 # OVT-MLCS: An Online Visual Tool for MLCS Mining from Long or Big Sequences
 > 原文: [https://arxiv.org/abs/2604.13037](https://arxiv.org/abs/2604.13037)

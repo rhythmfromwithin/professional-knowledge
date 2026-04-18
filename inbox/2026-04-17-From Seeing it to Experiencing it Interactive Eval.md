@@ -1,11 +1,13 @@
 ---
-title: "From Seeing it to Experiencing it: Interactive Evaluation of Intersectional Voice Bias in Human-AI Speech Interaction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.13067
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13067
 next_step: skim
+priority: low
+slack_ts: '1776482304.374089'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Seeing it to Experiencing it: Interactive Evaluation of Intersectional
+  Voice Bias in Human-AI Speech Interaction'
 ---
 # From Seeing it to Experiencing it: Interactive Evaluation of Intersectional Voice Bias in Human-AI Speech Interaction
 > 原文: [https://arxiv.org/abs/2604.13067](https://arxiv.org/abs/2604.13067)

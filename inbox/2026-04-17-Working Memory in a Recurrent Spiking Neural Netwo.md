@@ -1,11 +1,13 @@
 ---
-title: "Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.14096
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14096
 next_step: skim
+priority: low
+slack_ts: '1776482308.749799'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic
+  Delays
 ---
 # Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays
 > 原文: [https://arxiv.org/abs/2604.14096](https://arxiv.org/abs/2604.14096)

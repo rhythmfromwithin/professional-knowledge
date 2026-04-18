@@ -1,11 +1,12 @@
 ---
-title: "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.13327
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13327
 next_step: skim
+priority: medium
+slack_ts: '1776482304.015659'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel'
 ---
 # Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel
 > 原文: [https://arxiv.org/abs/2604.13327](https://arxiv.org/abs/2604.13327)

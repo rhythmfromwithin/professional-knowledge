@@ -1,11 +1,12 @@
 ---
-title: "Micro and Macro Perspectives on Production-Based Markups"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.13224
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13224
 next_step: skim
+priority: low
+slack_ts: '1776482306.248159'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Micro and Macro Perspectives on Production-Based Markups
 ---
 # Micro and Macro Perspectives on Production-Based Markups
 > 原文: [https://arxiv.org/abs/2604.13224](https://arxiv.org/abs/2604.13224)

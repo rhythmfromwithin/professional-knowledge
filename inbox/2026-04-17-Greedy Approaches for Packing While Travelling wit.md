@@ -1,11 +1,13 @@
 ---
-title: "Greedy Approaches for Packing While Travelling with Deterministic and Stochastic Constraints"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.13469
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13469
 next_step: skim
+priority: low
+slack_ts: '1776482305.125769'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Greedy Approaches for Packing While Travelling with Deterministic and Stochastic
+  Constraints
 ---
 # Greedy Approaches for Packing While Travelling with Deterministic and Stochastic Constraints
 > 原文: [https://arxiv.org/abs/2604.13469](https://arxiv.org/abs/2604.13469)

@@ -1,11 +1,13 @@
 ---
-title: "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.13206
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13206
 next_step: skim
+priority: high
+slack_ts: '1776482306.723579'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Numerical Instability and Chaos: Quantifying the Unpredictability of Large
+  Language Models'
 ---
 # Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models
 > 原文: [https://arxiv.org/abs/2604.13206](https://arxiv.org/abs/2604.13206)

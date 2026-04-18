@@ -1,11 +1,13 @@
 ---
-title: "Identifiability of Potentially Degenerate Gaussian Mixture Models With Piecewise Affine Mixing"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.13218
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13218
 next_step: skim
+priority: medium
+slack_ts: '1776482305.496589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Identifiability of Potentially Degenerate Gaussian Mixture Models With Piecewise
+  Affine Mixing
 ---
 # Identifiability of Potentially Degenerate Gaussian Mixture Models With Piecewise Affine Mixing
 > 原文: [https://arxiv.org/abs/2604.13218](https://arxiv.org/abs/2604.13218)

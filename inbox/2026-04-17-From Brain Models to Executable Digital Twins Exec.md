@@ -1,11 +1,13 @@
 ---
-title: "From Brain Models to Executable Digital Twins: Execution Semantics and Neuro-Neuromorphic Systems"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.13574
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13574
 next_step: skim
+priority: low
+slack_ts: '1776482304.132569'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'From Brain Models to Executable Digital Twins: Execution Semantics and Neuro-Neuromorphic
+  Systems'
 ---
 # From Brain Models to Executable Digital Twins: Execution Semantics and Neuro-Neuromorphic Systems
 > 原文: [https://arxiv.org/abs/2604.13574](https://arxiv.org/abs/2604.13574)

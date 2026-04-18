@@ -1,11 +1,12 @@
 ---
-title: "PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.13153
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13153
 next_step: skim
+priority: medium
+slack_ts: '1776482307.470499'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction'
 ---
 # PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction
 > 原文: [https://arxiv.org/abs/2604.13153](https://arxiv.org/abs/2604.13153)

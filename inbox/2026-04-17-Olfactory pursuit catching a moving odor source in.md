@@ -1,11 +1,12 @@
 ---
-title: "Olfactory pursuit: catching a moving odor source in complex flows"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.13121
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13121
 next_step: skim
+priority: medium
+slack_ts: '1776482306.982859'
+source: cs.RO - Robotics
+status: unread
+title: 'Olfactory pursuit: catching a moving odor source in complex flows'
 ---
 # Olfactory pursuit: catching a moving odor source in complex flows
 > 原文: [https://arxiv.org/abs/2604.13121](https://arxiv.org/abs/2604.13121)

@@ -1,11 +1,12 @@
 ---
-title: "Conflict-Aware Robust Design for Covert Wireless Communications"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.13122
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13122
 next_step: skim
+priority: low
+slack_ts: '1776482303.084249'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Conflict-Aware Robust Design for Covert Wireless Communications
 ---
 # Conflict-Aware Robust Design for Covert Wireless Communications
 > 原文: [https://arxiv.org/abs/2604.13122](https://arxiv.org/abs/2604.13122)

@@ -1,11 +1,13 @@
 ---
-title: "Geographic Blind Spots in AI Control Monitors: A Cross-National Audit of Claude Opus 4.6"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.13069
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13069
 next_step: skim
+priority: medium
+slack_ts: '1776482304.871809'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Geographic Blind Spots in AI Control Monitors: A Cross-National Audit of Claude
+  Opus 4.6'
 ---
 # Geographic Blind Spots in AI Control Monitors: A Cross-National Audit of Claude Opus 4.6
 > 原文: [https://arxiv.org/abs/2604.13069](https://arxiv.org/abs/2604.13069)

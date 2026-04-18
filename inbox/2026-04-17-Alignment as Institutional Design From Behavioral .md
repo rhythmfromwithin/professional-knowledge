@@ -1,11 +1,13 @@
 ---
-title: "Alignment as Institutional Design: From Behavioral Correction to Transaction Structure in Intelligent Systems"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.13079
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13079
 next_step: skim
+priority: medium
+slack_ts: '1776482301.777699'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Alignment as Institutional Design: From Behavioral Correction to Transaction
+  Structure in Intelligent Systems'
 ---
 # Alignment as Institutional Design: From Behavioral Correction to Transaction Structure in Intelligent Systems
 > 原文: [https://arxiv.org/abs/2604.13079](https://arxiv.org/abs/2604.13079)

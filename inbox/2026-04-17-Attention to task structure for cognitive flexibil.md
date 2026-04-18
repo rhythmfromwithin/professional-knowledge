@@ -1,11 +1,12 @@
 ---
-title: "Attention to task structure for cognitive flexibility"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.13281
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13281
 next_step: skim
+priority: low
+slack_ts: '1776482302.214299'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Attention to task structure for cognitive flexibility
 ---
 # Attention to task structure for cognitive flexibility
 > 原文: [https://arxiv.org/abs/2604.13281](https://arxiv.org/abs/2604.13281)

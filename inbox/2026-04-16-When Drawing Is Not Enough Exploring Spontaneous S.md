@@ -1,11 +1,13 @@
 ---
-title: "When Drawing Is Not Enough: Exploring Spontaneous Speech with Sketch for Intent Alignment in Multimodal LLMs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.11964
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.11964
 next_step: skim
+priority: low
+slack_ts: '1776482300.718799'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'When Drawing Is Not Enough: Exploring Spontaneous Speech with Sketch for Intent
+  Alignment in Multimodal LLMs'
 ---
 # When Drawing Is Not Enough: Exploring Spontaneous Speech with Sketch for Intent Alignment in Multimodal LLMs
 > 原文: [https://arxiv.org/abs/2604.11964](https://arxiv.org/abs/2604.11964)
