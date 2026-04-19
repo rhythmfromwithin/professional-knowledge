@@ -1,11 +1,12 @@
 ---
-title: "HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.14159
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14159
 next_step: skim
+priority: high
+slack_ts: '1776569844.813059'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization'
 ---
 # HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization
 > 原文: [https://arxiv.org/abs/2604.14159](https://arxiv.org/abs/2604.14159)

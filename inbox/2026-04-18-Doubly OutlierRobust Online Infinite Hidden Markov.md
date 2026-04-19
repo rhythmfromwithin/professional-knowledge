@@ -1,11 +1,12 @@
 ---
-title: "Doubly Outlier-Robust Online Infinite Hidden Markov Model"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.14322
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14322
 next_step: skim
+priority: medium
+slack_ts: '1776569843.362669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Doubly Outlier-Robust Online Infinite Hidden Markov Model
 ---
 # Doubly Outlier-Robust Online Infinite Hidden Markov Model
 > 原文: [https://arxiv.org/abs/2604.14322](https://arxiv.org/abs/2604.14322)

@@ -1,11 +1,12 @@
 ---
-title: "AgileLog: A Forkable Shared Log for Agents on Data Streams"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.14590
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14590
 next_step: skim
+priority: medium
+slack_ts: '1776569840.910719'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'AgileLog: A Forkable Shared Log for Agents on Data Streams'
 ---
 # AgileLog: A Forkable Shared Log for Agents on Data Streams
 > 原文: [https://arxiv.org/abs/2604.14590](https://arxiv.org/abs/2604.14590)

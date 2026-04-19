@@ -1,11 +1,13 @@
 ---
-title: "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.13180
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13180
 next_step: skim
+priority: high
+slack_ts: '1776569839.043199'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI
+  Workflow for Scientific Applications'
 ---
 # SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications
 > 原文: [https://arxiv.org/abs/2604.13180](https://arxiv.org/abs/2604.13180)

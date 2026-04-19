@@ -1,11 +1,13 @@
 ---
-title: "Expert-Guided Class-Conditional Goodness-of-Fit Scores for Interpretable Classification with Informative Missingness: An Application to Seismic Monitoring"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.14809
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14809
 next_step: skim
+priority: medium
+slack_ts: '1776569843.850859'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Expert-Guided Class-Conditional Goodness-of-Fit Scores for Interpretable Classification
+  with Informative Missingness: An Application to Seismic Monitoring'
 ---
 # Expert-Guided Class-Conditional Goodness-of-Fit Scores for Interpretable Classification with Informative Missingness: An Application to Seismic Monitoring
 > 原文: [https://arxiv.org/abs/2604.14809](https://arxiv.org/abs/2604.14809)

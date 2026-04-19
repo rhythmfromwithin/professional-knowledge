@@ -1,11 +1,13 @@
 ---
-title: "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.14268
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14268
 next_step: skim
+priority: medium
+slack_ts: '1776569844.933549'
+source: cs.CV - Computer Vision
+status: unread
+title: 'HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and
+  Simulating 3D Worlds'
 ---
 # HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
 > 原文: [https://arxiv.org/abs/2604.14268](https://arxiv.org/abs/2604.14268)

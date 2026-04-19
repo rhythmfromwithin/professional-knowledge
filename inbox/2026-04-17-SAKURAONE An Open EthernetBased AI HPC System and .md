@@ -1,11 +1,13 @@
 ---
-title: "SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.13600
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13600
 next_step: skim
+priority: medium
+slack_ts: '1776569838.911199'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload
+  Dynamics in a Single-Tenant LLM Development Environment'
 ---
 # SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment
 > 原文: [https://arxiv.org/abs/2604.13600](https://arxiv.org/abs/2604.13600)

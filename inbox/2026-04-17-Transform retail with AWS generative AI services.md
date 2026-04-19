@@ -1,11 +1,12 @@
 ---
-title: "Transform retail with AWS generative AI services"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/
 next_step: skim
+priority: high
+slack_ts: '1776569839.506279'
+source: AWS Blog
+status: unread
+title: Transform retail with AWS generative AI services
 ---
 # Transform retail with AWS generative AI services
 > 原文: [https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/](https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/)

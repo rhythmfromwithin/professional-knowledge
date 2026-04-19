@@ -1,11 +1,12 @@
 ---
-title: "Antitrust on Aisle Five: How Well Do Divestiture Remedies Work?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.15045
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15045
 next_step: skim
+priority: low
+slack_ts: '1776569841.390089'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Antitrust on Aisle Five: How Well Do Divestiture Remedies Work?'
 ---
 # Antitrust on Aisle Five: How Well Do Divestiture Remedies Work?
 > 原文: [https://arxiv.org/abs/2604.15045](https://arxiv.org/abs/2604.15045)

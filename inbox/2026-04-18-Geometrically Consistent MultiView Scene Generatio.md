@@ -1,11 +1,12 @@
 ---
-title: "Geometrically Consistent Multi-View Scene Generation from Freehand Sketches"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.14302
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14302
 next_step: skim
+priority: medium
+slack_ts: '1776569844.690959'
+source: cs.CV - Computer Vision
+status: unread
+title: Geometrically Consistent Multi-View Scene Generation from Freehand Sketches
 ---
 # Geometrically Consistent Multi-View Scene Generation from Freehand Sketches
 > 原文: [https://arxiv.org/abs/2604.14302](https://arxiv.org/abs/2604.14302)

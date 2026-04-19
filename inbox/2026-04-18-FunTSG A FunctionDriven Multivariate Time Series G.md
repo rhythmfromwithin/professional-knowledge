@@ -1,11 +1,13 @@
 ---
-title: "Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.14221
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14221
 next_step: skim
+priority: high
+slack_ts: '1776569844.123549'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level
+  Anomaly Labeling'
 ---
 # Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling
 > 原文: [https://arxiv.org/abs/2604.14221](https://arxiv.org/abs/2604.14221)

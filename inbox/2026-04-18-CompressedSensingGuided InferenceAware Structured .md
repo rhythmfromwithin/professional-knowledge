@@ -1,11 +1,13 @@
 ---
-title: "Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.14156
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14156
 next_step: skim
+priority: high
+slack_ts: '1776569842.826889'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language
+  Models
 ---
 # Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language Models
 > 原文: [https://arxiv.org/abs/2604.14156](https://arxiv.org/abs/2604.14156)

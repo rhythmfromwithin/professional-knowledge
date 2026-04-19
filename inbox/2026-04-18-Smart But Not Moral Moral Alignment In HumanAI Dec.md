@@ -1,11 +1,12 @@
 ---
-title: "Smart But Not Moral? Moral Alignment In Human-AI Decision-Making"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.14371
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14371
 next_step: skim
+priority: low
+slack_ts: '1776569847.679319'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Smart But Not Moral? Moral Alignment In Human-AI Decision-Making
 ---
 # Smart But Not Moral? Moral Alignment In Human-AI Decision-Making
 > 原文: [https://arxiv.org/abs/2604.14371](https://arxiv.org/abs/2604.14371)

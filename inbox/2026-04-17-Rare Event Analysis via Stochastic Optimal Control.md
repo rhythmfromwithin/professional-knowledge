@@ -1,11 +1,12 @@
 ---
-title: "Rare Event Analysis via Stochastic Optimal Control"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.13213
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13213
 next_step: skim
+priority: medium
+slack_ts: '1776569838.638589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Rare Event Analysis via Stochastic Optimal Control
 ---
 # Rare Event Analysis via Stochastic Optimal Control
 > 原文: [https://arxiv.org/abs/2604.13213](https://arxiv.org/abs/2604.13213)

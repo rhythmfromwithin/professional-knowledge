@@ -1,11 +1,12 @@
 ---
-title: "Analysis of Multitasking Pareto Optimization for Monotone Submodular Problems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.15068
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15068
 next_step: skim
+priority: low
+slack_ts: '1776569841.150599'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Analysis of Multitasking Pareto Optimization for Monotone Submodular Problems
 ---
 # Analysis of Multitasking Pareto Optimization for Monotone Submodular Problems
 > 原文: [https://arxiv.org/abs/2604.15068](https://arxiv.org/abs/2604.15068)

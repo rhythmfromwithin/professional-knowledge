@@ -1,11 +1,12 @@
 ---
-title: "Agentic Microphysics: A Manifesto for Generative AI Safety"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.15236
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15236
 next_step: skim
+priority: medium
+slack_ts: '1776569840.756869'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Agentic Microphysics: A Manifesto for Generative AI Safety'
 ---
 # Agentic Microphysics: A Manifesto for Generative AI Safety
 > 原文: [https://arxiv.org/abs/2604.15236](https://arxiv.org/abs/2604.15236)

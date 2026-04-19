@@ -1,11 +1,13 @@
 ---
-title: "Bridging scalp and intracranial EEG in BCI via pretrained neural representations and geometric constraint embedding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.14202
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14202
 next_step: skim
+priority: low
+slack_ts: '1776569841.906439'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Bridging scalp and intracranial EEG in BCI via pretrained neural representations
+  and geometric constraint embedding
 ---
 # Bridging scalp and intracranial EEG in BCI via pretrained neural representations and geometric constraint embedding
 > 原文: [https://arxiv.org/abs/2604.14202](https://arxiv.org/abs/2604.14202)

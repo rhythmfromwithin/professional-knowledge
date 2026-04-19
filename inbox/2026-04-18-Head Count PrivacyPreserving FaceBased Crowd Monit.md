@@ -1,11 +1,12 @@
 ---
-title: "Head Count: Privacy-Preserving Face-Based Crowd Monitoring"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.14250
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14250
 next_step: skim
+priority: low
+slack_ts: '1776569845.197959'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Head Count: Privacy-Preserving Face-Based Crowd Monitoring'
 ---
 # Head Count: Privacy-Preserving Face-Based Crowd Monitoring
 > 原文: [https://arxiv.org/abs/2604.14250](https://arxiv.org/abs/2604.14250)

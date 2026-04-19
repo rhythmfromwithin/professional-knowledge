@@ -1,11 +1,12 @@
 ---
-title: "Efficient Community Search on Attributed Public-Private Graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.14988
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14988
 next_step: skim
+priority: low
+slack_ts: '1776569843.476989'
+source: cs.DB - Databases
+status: unread
+title: Efficient Community Search on Attributed Public-Private Graphs
 ---
 # Efficient Community Search on Attributed Public-Private Graphs
 > 原文: [https://arxiv.org/abs/2604.14988](https://arxiv.org/abs/2604.14988)

@@ -1,11 +1,13 @@
 ---
-title: "An Edge-Cloud Collaborative Architecture for Proactive Elderly Care: Real-Time Risk Assessment and Three-Level Emergency Response"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.14154
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14154
 next_step: skim
+priority: medium
+slack_ts: '1776569841.035259'
+source: cs.CY - Computers and Society
+status: unread
+title: 'An Edge-Cloud Collaborative Architecture for Proactive Elderly Care: Real-Time
+  Risk Assessment and Three-Level Emergency Response'
 ---
 # An Edge-Cloud Collaborative Architecture for Proactive Elderly Care: Real-Time Risk Assessment and Three-Level Emergency Response
 > 原文: [https://arxiv.org/abs/2604.14154](https://arxiv.org/abs/2604.14154)

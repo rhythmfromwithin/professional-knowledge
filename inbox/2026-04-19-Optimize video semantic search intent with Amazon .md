@@ -1,0 +1,13 @@
+---
+title: "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock"
+source: "AWS Blog"
+link: https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock
+> 原文: [https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/)
+
+In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and reduces latency by 50% while maintaining the nuanced routing quality that the task demands.

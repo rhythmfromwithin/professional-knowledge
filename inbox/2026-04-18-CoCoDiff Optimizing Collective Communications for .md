@@ -1,11 +1,13 @@
 ---
-title: "CoCoDiff: Optimizing Collective Communications for Distributed Diffusion Transformer Inference Under Ulysses Sequence Parallelism"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.14561
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14561
 next_step: skim
+priority: medium
+slack_ts: '1776569842.577679'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CoCoDiff: Optimizing Collective Communications for Distributed Diffusion Transformer
+  Inference Under Ulysses Sequence Parallelism'
 ---
 # CoCoDiff: Optimizing Collective Communications for Distributed Diffusion Transformer Inference Under Ulysses Sequence Parallelism
 > 原文: [https://arxiv.org/abs/2604.14561](https://arxiv.org/abs/2604.14561)

@@ -1,11 +1,13 @@
 ---
-title: "The Long Delay to Arithmetic Generalization: When Learned Representations Outrun Behavior"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.13082
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13082
 next_step: skim
+priority: high
+slack_ts: '1776569839.363119'
+source: cs.LG - Machine Learning
+status: unread
+title: 'The Long Delay to Arithmetic Generalization: When Learned Representations
+  Outrun Behavior'
 ---
 # The Long Delay to Arithmetic Generalization: When Learned Representations Outrun Behavior
 > 原文: [https://arxiv.org/abs/2604.13082](https://arxiv.org/abs/2604.13082)

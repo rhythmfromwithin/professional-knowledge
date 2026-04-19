@@ -1,11 +1,13 @@
 ---
-title: "Waiting for Help: Timely Access to Psychological Support for Young Adults Exposed to Parental Substance Misuse"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.13545
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13545
 next_step: skim
+priority: low
+slack_ts: '1776569839.749789'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Waiting for Help: Timely Access to Psychological Support for Young Adults
+  Exposed to Parental Substance Misuse'
 ---
 # Waiting for Help: Timely Access to Psychological Support for Young Adults Exposed to Parental Substance Misuse
 > 原文: [https://arxiv.org/abs/2604.13545](https://arxiv.org/abs/2604.13545)

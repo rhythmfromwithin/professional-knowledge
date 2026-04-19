@@ -1,11 +1,12 @@
 ---
-title: "Incidence Constraints in Hypergraph Partitioning on GPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.14411
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14411
 next_step: skim
+priority: medium
+slack_ts: '1776569845.455079'
+source: cs.DC - Distributed Computing
+status: unread
+title: Incidence Constraints in Hypergraph Partitioning on GPU
 ---
 # Incidence Constraints in Hypergraph Partitioning on GPU
 > 原文: [https://arxiv.org/abs/2604.14411](https://arxiv.org/abs/2604.14411)

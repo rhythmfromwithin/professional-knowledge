@@ -1,11 +1,13 @@
 ---
-title: "Anomaly Detection in IEC-61850 GOOSE Networks: Evaluating Unsupervised and Temporal Learning for Real-Time Intrusion Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.14233
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14233
 next_step: skim
+priority: low
+slack_ts: '1776569841.268159'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Anomaly Detection in IEC-61850 GOOSE Networks: Evaluating Unsupervised and
+  Temporal Learning for Real-Time Intrusion Detection'
 ---
 # Anomaly Detection in IEC-61850 GOOSE Networks: Evaluating Unsupervised and Temporal Learning for Real-Time Intrusion Detection
 > 原文: [https://arxiv.org/abs/2604.14233](https://arxiv.org/abs/2604.14233)

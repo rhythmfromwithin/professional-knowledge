@@ -1,11 +1,13 @@
 ---
-title: "Weakly-supervised Learning for Physics-informed Neural Motion Planning via Sparse Roadmap"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.13204
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13204
 next_step: skim
+priority: medium
+slack_ts: '1776569839.873659'
+source: cs.RO - Robotics
+status: unread
+title: Weakly-supervised Learning for Physics-informed Neural Motion Planning via
+  Sparse Roadmap
 ---
 # Weakly-supervised Learning for Physics-informed Neural Motion Planning via Sparse Roadmap
 > 原文: [https://arxiv.org/abs/2604.13204](https://arxiv.org/abs/2604.13204)

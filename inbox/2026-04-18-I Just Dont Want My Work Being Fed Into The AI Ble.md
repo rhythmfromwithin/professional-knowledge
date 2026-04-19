@@ -1,11 +1,5 @@
 ---
-title: ""I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.14266
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1776569845.336759'
 ---
 # "I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI
 > 原文: [https://arxiv.org/abs/2604.14266](https://arxiv.org/abs/2604.14266)
