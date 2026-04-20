@@ -1,11 +1,13 @@
 ---
-title: "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1776656371.216659'
+source: AWS Blog
+status: unread
+title: Optimize video semantic search intent with Amazon Nova Model Distillation on
+  Amazon Bedrock
 ---
 # Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/)

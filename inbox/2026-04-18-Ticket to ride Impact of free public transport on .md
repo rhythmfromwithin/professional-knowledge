@@ -1,11 +1,13 @@
 ---
-title: "Ticket to ride: Impact of free public transport on women's workforce participation in India"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.14758
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14758
 next_step: skim
+priority: low
+slack_ts: '1776656362.263659'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Ticket to ride: Impact of free public transport on women''s workforce participation
+  in India'
 ---
 # Ticket to ride: Impact of free public transport on women's workforce participation in India
 > 原文: [https://arxiv.org/abs/2604.14758](https://arxiv.org/abs/2604.14758)

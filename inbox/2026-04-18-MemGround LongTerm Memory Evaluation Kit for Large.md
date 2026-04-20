@@ -1,11 +1,13 @@
 ---
-title: "MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.14158
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14158
 next_step: skim
+priority: high
+slack_ts: '1776656355.089989'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified
+  Scenarios'
 ---
 # MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios
 > 原文: [https://arxiv.org/abs/2604.14158](https://arxiv.org/abs/2604.14158)

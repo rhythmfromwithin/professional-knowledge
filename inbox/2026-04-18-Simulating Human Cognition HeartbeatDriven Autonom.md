@@ -1,11 +1,13 @@
 ---
-title: "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.14178
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14178
 next_step: skim
+priority: high
+slack_ts: '1776656360.585439'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity
+  Scheduling for LLM-based AI systems'
 ---
 # Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems
 > 原文: [https://arxiv.org/abs/2604.14178](https://arxiv.org/abs/2604.14178)

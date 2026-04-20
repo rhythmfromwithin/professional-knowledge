@@ -1,11 +1,12 @@
 ---
-title: "Reflections on Traceability for Visualization Research"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.14417
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14417
 next_step: skim
+priority: low
+slack_ts: '1776656359.694709'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Reflections on Traceability for Visualization Research
 ---
 # Reflections on Traceability for Visualization Research
 > 原文: [https://arxiv.org/abs/2604.14417](https://arxiv.org/abs/2604.14417)

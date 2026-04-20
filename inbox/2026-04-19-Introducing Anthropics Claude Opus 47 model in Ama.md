@@ -1,11 +1,12 @@
 ---
-title: "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1776656369.466279'
+source: AWS Blog
+status: unread
+title: Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock
 ---
 # Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/](https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/)

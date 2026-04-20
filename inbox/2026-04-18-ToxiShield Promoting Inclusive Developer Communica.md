@@ -1,11 +1,13 @@
 ---
-title: "ToxiShield: Promoting Inclusive Developer Communication through Real-Time Toxicity Filtering"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.14408
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14408
 next_step: skim
+priority: low
+slack_ts: '1776656362.577329'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ToxiShield: Promoting Inclusive Developer Communication through Real-Time
+  Toxicity Filtering'
 ---
 # ToxiShield: Promoting Inclusive Developer Communication through Real-Time Toxicity Filtering
 > 原文: [https://arxiv.org/abs/2604.14408](https://arxiv.org/abs/2604.14408)

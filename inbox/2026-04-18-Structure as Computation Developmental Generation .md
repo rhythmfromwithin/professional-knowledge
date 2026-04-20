@@ -1,11 +1,12 @@
 ---
-title: "Structure as Computation: Developmental Generation of Minimal Neural Circuits"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.15143
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15143
 next_step: skim
+priority: low
+slack_ts: '1776656361.676389'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Structure as Computation: Developmental Generation of Minimal Neural Circuits'
 ---
 # Structure as Computation: Developmental Generation of Minimal Neural Circuits
 > 原文: [https://arxiv.org/abs/2604.15143](https://arxiv.org/abs/2604.15143)

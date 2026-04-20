@@ -1,11 +1,13 @@
 ---
-title: "SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.14399
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14399
 next_step: skim
+priority: medium
+slack_ts: '1776656361.157899'
+source: cs.RO - Robotics
+status: unread
+title: 'SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework
+  for Autonomous On-orbit Servicing'
 ---
 # SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing
 > 原文: [https://arxiv.org/abs/2604.14399](https://arxiv.org/abs/2604.14399)

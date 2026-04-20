@@ -1,11 +1,13 @@
 ---
-title: "NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.14160
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14160
 next_step: skim
+priority: high
+slack_ts: '1776656356.583279'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered
+  Procedure Support in Digital Nuclear Control Rooms'
 ---
 # NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms
 > 原文: [https://arxiv.org/abs/2604.14160](https://arxiv.org/abs/2604.14160)

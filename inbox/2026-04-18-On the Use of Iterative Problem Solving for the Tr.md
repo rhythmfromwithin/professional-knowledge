@@ -1,11 +1,13 @@
 ---
-title: "On the Use of Iterative Problem Solving for the Traveling Salesperson Problem with Changing Time Window Constraints"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.14745
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14745
 next_step: skim
+priority: low
+slack_ts: '1776656356.901509'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: On the Use of Iterative Problem Solving for the Traveling Salesperson Problem
+  with Changing Time Window Constraints
 ---
 # On the Use of Iterative Problem Solving for the Traveling Salesperson Problem with Changing Time Window Constraints
 > 原文: [https://arxiv.org/abs/2604.14745](https://arxiv.org/abs/2604.14745)

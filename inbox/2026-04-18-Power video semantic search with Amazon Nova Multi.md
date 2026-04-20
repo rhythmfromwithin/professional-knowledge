@@ -1,11 +1,12 @@
 ---
-title: "Power video semantic search with Amazon Nova Multimodal Embeddings"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/
 next_step: skim
+priority: high
+slack_ts: '1776656358.289329'
+source: AWS Blog
+status: unread
+title: Power video semantic search with Amazon Nova Multimodal Embeddings
 ---
 # Power video semantic search with Amazon Nova Multimodal Embeddings
 > 原文: [https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/](https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/)

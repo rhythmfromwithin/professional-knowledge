@@ -1,11 +1,13 @@
 ---
-title: "Spatiotemporal Analysis of VIIRS Satellite Observations and Network Traffic During the 2025 Manitoba Wildfires"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.14392
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14392
 next_step: skim
+priority: medium
+slack_ts: '1776656361.412329'
+source: cs.CY - Computers and Society
+status: unread
+title: Spatiotemporal Analysis of VIIRS Satellite Observations and Network Traffic
+  During the 2025 Manitoba Wildfires
 ---
 # Spatiotemporal Analysis of VIIRS Satellite Observations and Network Traffic During the 2025 Manitoba Wildfires
 > 原文: [https://arxiv.org/abs/2604.14392](https://arxiv.org/abs/2604.14392)

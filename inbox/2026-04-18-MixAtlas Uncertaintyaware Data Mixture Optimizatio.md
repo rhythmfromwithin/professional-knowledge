@@ -1,11 +1,12 @@
 ---
-title: "MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.14198
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14198
 next_step: skim
+priority: high
+slack_ts: '1776656355.408029'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining'
 ---
 # MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining
 > 原文: [https://arxiv.org/abs/2604.14198](https://arxiv.org/abs/2604.14198)

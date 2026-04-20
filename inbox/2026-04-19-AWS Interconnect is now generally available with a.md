@@ -1,11 +1,13 @@
 ---
-title: "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/
 next_step: skim
+priority: high
+slack_ts: '1776656363.711519'
+source: AWS Blog
+status: unread
+title: AWS Interconnect is now generally available, with a new option to simplify
+  last-mile connectivity
 ---
 # AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity
 > 原文: [https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/)

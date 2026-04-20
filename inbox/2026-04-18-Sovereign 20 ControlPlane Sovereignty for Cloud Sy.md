@@ -1,11 +1,12 @@
 ---
-title: "Sovereign 2.0: Control-Plane Sovereignty for Cloud Systems Under Disruption"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.14242
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14242
 next_step: skim
+priority: low
+slack_ts: '1776656360.905099'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Sovereign 2.0: Control-Plane Sovereignty for Cloud Systems Under Disruption'
 ---
 # Sovereign 2.0: Control-Plane Sovereignty for Cloud Systems Under Disruption
 > 原文: [https://arxiv.org/abs/2604.14242](https://arxiv.org/abs/2604.14242)

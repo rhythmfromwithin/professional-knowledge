@@ -1,11 +1,12 @@
 ---
-title: "RoSLAC: Robust Simultaneous Localization and Calibration of Multiple Magnetometers"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.14353
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14353
 next_step: skim
+priority: medium
+slack_ts: '1776656360.329649'
+source: cs.RO - Robotics
+status: unread
+title: 'RoSLAC: Robust Simultaneous Localization and Calibration of Multiple Magnetometers'
 ---
 # RoSLAC: Robust Simultaneous Localization and Calibration of Multiple Magnetometers
 > 原文: [https://arxiv.org/abs/2604.14353](https://arxiv.org/abs/2604.14353)

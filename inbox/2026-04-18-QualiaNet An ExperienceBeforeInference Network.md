@@ -1,11 +1,12 @@
 ---
-title: "QualiaNet: An Experience-Before-Inference Network"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.14193
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14193
 next_step: skim
+priority: medium
+slack_ts: '1776656358.816799'
+source: cs.CV - Computer Vision
+status: unread
+title: 'QualiaNet: An Experience-Before-Inference Network'
 ---
 # QualiaNet: An Experience-Before-Inference Network
 > 原文: [https://arxiv.org/abs/2604.14193](https://arxiv.org/abs/2604.14193)

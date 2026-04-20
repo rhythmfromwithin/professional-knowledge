@@ -1,11 +1,12 @@
 ---
-title: "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/
 next_step: skim
+priority: high
+slack_ts: '1776656368.004269'
+source: DeepMind Blog
+status: unread
+title: 'Gemini 3.1 Flash TTS: the next generation of expressive AI speech'
 ---
 # Gemini 3.1 Flash TTS: the next generation of expressive AI speech
 > 原文: [https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)

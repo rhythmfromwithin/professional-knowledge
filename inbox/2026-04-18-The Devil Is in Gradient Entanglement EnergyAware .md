@@ -1,11 +1,13 @@
 ---
-title: "The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.14176
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14176
 next_step: skim
+priority: high
+slack_ts: '1776656361.938719'
+source: cs.LG - Machine Learning
+status: unread
+title: 'The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for
+  Robust Generalized Category Discovery'
 ---
 # The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery
 > 原文: [https://arxiv.org/abs/2604.14176](https://arxiv.org/abs/2604.14176)

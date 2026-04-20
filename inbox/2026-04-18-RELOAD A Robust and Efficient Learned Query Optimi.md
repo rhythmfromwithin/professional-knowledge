@@ -1,11 +1,12 @@
 ---
-title: "RELOAD: A Robust and Efficient Learned Query Optimizer for Database Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.14725
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14725
 next_step: skim
+priority: low
+slack_ts: '1776656359.069539'
+source: cs.DB - Databases
+status: unread
+title: 'RELOAD: A Robust and Efficient Learned Query Optimizer for Database Systems'
 ---
 # RELOAD: A Robust and Efficient Learned Query Optimizer for Database Systems
 > 原文: [https://arxiv.org/abs/2604.14725](https://arxiv.org/abs/2604.14725)

@@ -1,11 +1,13 @@
 ---
-title: "Retina gap junctions support the robust perception by warping neural representational geometries along the visual hierarchy"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.14200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.14200
 next_step: skim
+priority: low
+slack_ts: '1776656360.011839'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Retina gap junctions support the robust perception by warping neural representational
+  geometries along the visual hierarchy
 ---
 # Retina gap junctions support the robust perception by warping neural representational geometries along the visual hierarchy
 > 原文: [https://arxiv.org/abs/2604.14200](https://arxiv.org/abs/2604.14200)
