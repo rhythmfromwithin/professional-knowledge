@@ -1,11 +1,12 @@
 ---
-title: "Accelerating the cyber defense ecosystem that protects us all"
-source: "OpenAI Blog"
-link: https://openai.com/index/accelerating-cyber-defense-ecosystem
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/accelerating-cyber-defense-ecosystem
 next_step: skim
+priority: high
+slack_ts: '1776742292.058499'
+source: OpenAI Blog
+status: unread
+title: Accelerating the cyber defense ecosystem that protects us all
 ---
 # Accelerating the cyber defense ecosystem that protects us all
 > 原文: [https://openai.com/index/accelerating-cyber-defense-ecosystem](https://openai.com/index/accelerating-cyber-defense-ecosystem)
