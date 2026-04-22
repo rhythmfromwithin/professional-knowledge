@@ -1,11 +1,12 @@
 ---
-title: "LLMbench: A Comparative Close Reading Workbench for Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.15508
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15508
 next_step: skim
+priority: medium
+slack_ts: '1776828589.496259'
+source: cs.CY - Computers and Society
+status: unread
+title: 'LLMbench: A Comparative Close Reading Workbench for Large Language Models'
 ---
 # LLMbench: A Comparative Close Reading Workbench for Large Language Models
 > 原文: [https://arxiv.org/abs/2604.15508](https://arxiv.org/abs/2604.15508)

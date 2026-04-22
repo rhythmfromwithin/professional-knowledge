@@ -1,11 +1,13 @@
 ---
-title: "Time Preference and Tax Burden Acceptance: Asymmetric Effects on Intertemporal and Contemporaneous Redistribution"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.15349
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15349
 next_step: skim
+priority: low
+slack_ts: '1776828594.891509'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Time Preference and Tax Burden Acceptance: Asymmetric Effects on Intertemporal
+  and Contemporaneous Redistribution'
 ---
 # Time Preference and Tax Burden Acceptance: Asymmetric Effects on Intertemporal and Contemporaneous Redistribution
 > 原文: [https://arxiv.org/abs/2604.15349](https://arxiv.org/abs/2604.15349)

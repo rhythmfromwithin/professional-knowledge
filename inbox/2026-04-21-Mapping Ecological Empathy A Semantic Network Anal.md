@@ -1,11 +1,13 @@
 ---
-title: "Mapping Ecological Empathy: A Semantic Network Analysis of Player Perceptions in 3D Environmental Education Games"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.15317
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15317
 next_step: skim
+priority: low
+slack_ts: '1776828589.980019'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Mapping Ecological Empathy: A Semantic Network Analysis of Player Perceptions
+  in 3D Environmental Education Games'
 ---
 # Mapping Ecological Empathy: A Semantic Network Analysis of Player Perceptions in 3D Environmental Education Games
 > 原文: [https://arxiv.org/abs/2604.15317](https://arxiv.org/abs/2604.15317)

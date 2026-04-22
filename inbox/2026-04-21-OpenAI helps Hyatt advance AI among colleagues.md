@@ -1,11 +1,12 @@
 ---
-title: "OpenAI helps Hyatt advance AI among colleagues"
-source: "OpenAI Blog"
-link: https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise
 next_step: skim
+priority: high
+slack_ts: '1776828591.946449'
+source: OpenAI Blog
+status: unread
+title: OpenAI helps Hyatt advance AI among colleagues
 ---
 # OpenAI helps Hyatt advance AI among colleagues
 > 原文: [https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)

@@ -1,11 +1,12 @@
 ---
-title: "Weak-to-Strong Knowledge Distillation Accelerates Visual Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.15451
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15451
 next_step: skim
+priority: medium
+slack_ts: '1776828595.620639'
+source: cs.CV - Computer Vision
+status: unread
+title: Weak-to-Strong Knowledge Distillation Accelerates Visual Learning
 ---
 # Weak-to-Strong Knowledge Distillation Accelerates Visual Learning
 > 原文: [https://arxiv.org/abs/2604.15451](https://arxiv.org/abs/2604.15451)

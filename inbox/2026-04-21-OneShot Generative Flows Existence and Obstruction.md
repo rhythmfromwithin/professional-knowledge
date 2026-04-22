@@ -1,11 +1,12 @@
 ---
-title: "One-Shot Generative Flows: Existence and Obstructions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.15439
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15439
 next_step: skim
+priority: medium
+slack_ts: '1776828591.713769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'One-Shot Generative Flows: Existence and Obstructions'
 ---
 # One-Shot Generative Flows: Existence and Obstructions
 > 原文: [https://arxiv.org/abs/2604.15439](https://arxiv.org/abs/2604.15439)

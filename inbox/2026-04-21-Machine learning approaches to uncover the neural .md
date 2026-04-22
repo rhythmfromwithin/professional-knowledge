@@ -1,11 +1,13 @@
 ---
-title: "Machine learning approaches to uncover the neural mechanisms of motivated behaviour: from ADHD to individual differences in effort and reward sensitivity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.15363
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15363
 next_step: skim
+priority: low
+slack_ts: '1776828589.736119'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Machine learning approaches to uncover the neural mechanisms of motivated
+  behaviour: from ADHD to individual differences in effort and reward sensitivity'
 ---
 # Machine learning approaches to uncover the neural mechanisms of motivated behaviour: from ADHD to individual differences in effort and reward sensitivity
 > 原文: [https://arxiv.org/abs/2604.15363](https://arxiv.org/abs/2604.15363)

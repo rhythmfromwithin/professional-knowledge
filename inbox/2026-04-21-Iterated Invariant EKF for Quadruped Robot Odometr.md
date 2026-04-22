@@ -1,11 +1,12 @@
 ---
-title: "Iterated Invariant EKF for Quadruped Robot Odometry"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.15449
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15449
 next_step: skim
+priority: medium
+slack_ts: '1776828589.257049'
+source: cs.RO - Robotics
+status: unread
+title: Iterated Invariant EKF for Quadruped Robot Odometry
 ---
 # Iterated Invariant EKF for Quadruped Robot Odometry
 > 原文: [https://arxiv.org/abs/2604.15449](https://arxiv.org/abs/2604.15449)

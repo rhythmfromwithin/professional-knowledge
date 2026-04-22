@@ -1,7 +1,9 @@
 ---
-title: "My Journey to Airbnb — Jonathan Woodard"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/my-journey-to-airbnb-jonathan-woodard-7efae28d7fa9?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/my-journey-to-airbnb-jonathan-woodard-7efae28d7fa9?source=rss
+slack_ts: '1776828590.477359'
+source: Airbnb Engineering
+title: My Journey to Airbnb — Jonathan Woodard
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

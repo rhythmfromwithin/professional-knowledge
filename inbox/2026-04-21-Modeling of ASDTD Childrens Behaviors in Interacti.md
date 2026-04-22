@@ -1,11 +1,13 @@
 ---
-title: "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.15314
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15314
 next_step: skim
+priority: low
+slack_ts: '1776828590.222079'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social
+  Robot During a Music Education Program Using Deep Neural Networks
 ---
 # Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks
 > 原文: [https://arxiv.org/abs/2604.15314](https://arxiv.org/abs/2604.15314)

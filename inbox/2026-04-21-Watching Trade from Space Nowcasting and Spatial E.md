@@ -1,11 +1,13 @@
 ---
-title: "Watching Trade from Space: Nowcasting and Spatial Extrapolation of Port-Level Maritime Trade Using Satellite Imagery"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.15444
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15444
 next_step: skim
+priority: low
+slack_ts: '1776828595.375419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Watching Trade from Space: Nowcasting and Spatial Extrapolation of Port-Level
+  Maritime Trade Using Satellite Imagery'
 ---
 # Watching Trade from Space: Nowcasting and Spatial Extrapolation of Port-Level Maritime Trade Using Satellite Imagery
 > 原文: [https://arxiv.org/abs/2604.15444](https://arxiv.org/abs/2604.15444)

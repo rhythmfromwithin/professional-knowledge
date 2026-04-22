@@ -1,11 +1,13 @@
 ---
-title: "Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.15490
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15490
 next_step: skim
+priority: high
+slack_ts: '1776828594.652319'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning
+  Models to Code-Switch'
 ---
 # Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch
 > 原文: [https://arxiv.org/abs/2604.15490](https://arxiv.org/abs/2604.15490)

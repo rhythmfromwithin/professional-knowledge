@@ -1,11 +1,12 @@
 ---
-title: "ToolSimulator: scalable tool testing for AI agents"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/
 next_step: skim
+priority: high
+slack_ts: '1776828595.131719'
+source: AWS Blog
+status: unread
+title: 'ToolSimulator: scalable tool testing for AI agents'
 ---
 # ToolSimulator: scalable tool testing for AI agents
 > 原文: [https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/](https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/)

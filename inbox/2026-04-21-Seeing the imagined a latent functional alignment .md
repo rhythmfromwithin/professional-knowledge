@@ -1,11 +1,13 @@
 ---
-title: "Seeing the imagined: a latent functional alignment in visual imagery decoding from fMRI data"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.15374
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15374
 next_step: skim
+priority: low
+slack_ts: '1776828593.863359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Seeing the imagined: a latent functional alignment in visual imagery decoding
+  from fMRI data'
 ---
 # Seeing the imagined: a latent functional alignment in visual imagery decoding from fMRI data
 > 原文: [https://arxiv.org/abs/2604.15374](https://arxiv.org/abs/2604.15374)

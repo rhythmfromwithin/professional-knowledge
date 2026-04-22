@@ -1,11 +1,13 @@
 ---
-title: "Role of chloride concentration in modulating seizure transitions in excitatory and inhibitory networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.15747
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15747
 next_step: skim
+priority: low
+slack_ts: '1776828593.383369'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Role of chloride concentration in modulating seizure transitions in excitatory
+  and inhibitory networks
 ---
 # Role of chloride concentration in modulating seizure transitions in excitatory and inhibitory networks
 > 原文: [https://arxiv.org/abs/2604.15747](https://arxiv.org/abs/2604.15747)

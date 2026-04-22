@@ -1,11 +1,12 @@
 ---
-title: "Prompt-Driven Code Summarization: A Systematic Literature Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.15385
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15385
 next_step: skim
+priority: low
+slack_ts: '1776828593.140209'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Prompt-Driven Code Summarization: A Systematic Literature Review'
 ---
 # Prompt-Driven Code Summarization: A Systematic Literature Review
 > 原文: [https://arxiv.org/abs/2604.15385](https://arxiv.org/abs/2604.15385)

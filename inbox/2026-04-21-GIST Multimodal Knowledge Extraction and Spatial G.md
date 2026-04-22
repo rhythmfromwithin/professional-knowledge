@@ -1,11 +1,13 @@
 ---
-title: "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.15495
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15495
 next_step: skim
+priority: high
+slack_ts: '1776828587.260059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent
+  Semantic Topology'
 ---
 # GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology
 > 原文: [https://arxiv.org/abs/2604.15495](https://arxiv.org/abs/2604.15495)

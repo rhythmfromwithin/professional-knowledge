@@ -1,11 +1,13 @@
 ---
-title: "Frenetic Cat-inspired Particle Optimization: a Markov state-switching hybrid swarm optimizer with application to cardiac digital twinning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.15761
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15761
 next_step: skim
+priority: low
+slack_ts: '1776828587.015819'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Frenetic Cat-inspired Particle Optimization: a Markov state-switching hybrid
+  swarm optimizer with application to cardiac digital twinning'
 ---
 # Frenetic Cat-inspired Particle Optimization: a Markov state-switching hybrid swarm optimizer with application to cardiac digital twinning
 > 原文: [https://arxiv.org/abs/2604.15761](https://arxiv.org/abs/2604.15761)

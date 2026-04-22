@@ -1,11 +1,12 @@
 ---
-title: "SAGE: Selective Attention-Guided Extraction for Token-Efficient"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.15583
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15583
 next_step: skim
+priority: low
+slack_ts: '1776828593.626179'
+source: cs.DB - Databases
+status: unread
+title: 'SAGE: Selective Attention-Guided Extraction for Token-Efficient'
 ---
 # SAGE: Selective Attention-Guided Extraction for Token-Efficient
 > 原文: [https://arxiv.org/abs/2604.15583](https://arxiv.org/abs/2604.15583)

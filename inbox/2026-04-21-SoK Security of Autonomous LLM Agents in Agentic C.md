@@ -1,11 +1,12 @@
 ---
-title: "SoK: Security of Autonomous LLM Agents in Agentic Commerce"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.15367
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15367
 next_step: skim
+priority: low
+slack_ts: '1776828594.346229'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SoK: Security of Autonomous LLM Agents in Agentic Commerce'
 ---
 # SoK: Security of Autonomous LLM Agents in Agentic Commerce
 > 原文: [https://arxiv.org/abs/2604.15367](https://arxiv.org/abs/2604.15367)

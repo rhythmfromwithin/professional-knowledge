@@ -1,0 +1,14 @@
+---
+title: "Self-referentiality and asymmetric knowledge flows between journals. The case of economics"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2604.18144
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Self-referentiality and asymmetric knowledge flows between journals. The case of economics
+> 原文: [https://arxiv.org/abs/2604.18144](https://arxiv.org/abs/2604.18144)
+
+arXiv:2604.18144v1 Announce Type: new
+Abstract: This paper investigates the evolution of self-referentiality and knowledge flows in economics journals before and after the 2008 financial crisis. Using a multi-level approach, we analyze patterns at the discipline, cluster, and journal levels, combining citational measures with a classification of journals based on intellectual similarity and social proximity. At the aggregate level, results suggest a general decline in self-referentiality, indicating increased openness across the discipline. However, this trend conceals substantial heterogeneity. At finer levels of analysis, two clusters - CORE and Finance - emerge as persistent outliers, exhibiting very high levels of self-referentiality. While Finance experienced a gradual reduction over time, the CORE shows increasing closure. By examining reference asymmetries, we uncover a hierarchical structure of knowledge flows. The CORE operates as a central hub and net exporter of knowledge to all other clusters, particularly to the traditional core fields of economics, whereas Finance acts as a net exporter only within its own domain and remains dependent on the CORE. These asymmetries are reinforced at the level of individual journals, where a small set of top journals occupies the apex of a hierarchically ordered system of knowledge transmission. We argue that these patterns reflect the interplay between intellectual dynamics and organizational structures, particularly the role of editorial networks in shaping access to publication and visibility. The findings suggest that, following the financial crisis, economics has experienced a process of increasing epistemic and organizational closure at its core, alongside greater openness in peripheral areas. This dual dynamic raises questions about the representativeness of top journals and the evolving structure of the discipline.

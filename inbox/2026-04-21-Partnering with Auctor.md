@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Auctor"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-auctor/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-auctor/
 next_step: skim
+priority: high
+slack_ts: '1776828592.186249'
+source: Sequoia Capital
+status: unread
+title: Partnering with Auctor
 ---
 # Partnering with Auctor
 > 原文: [https://sequoiacap.com/article/partnering-with-auctor/](https://sequoiacap.com/article/partnering-with-auctor/)

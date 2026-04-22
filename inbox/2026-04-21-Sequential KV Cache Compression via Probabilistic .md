@@ -1,11 +1,13 @@
 ---
-title: "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.15356
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.15356
 next_step: skim
+priority: high
+slack_ts: '1776828594.100859'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the
+  Per-Vector Shannon Limit'
 ---
 # Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit
 > 原文: [https://arxiv.org/abs/2604.15356](https://arxiv.org/abs/2604.15356)
