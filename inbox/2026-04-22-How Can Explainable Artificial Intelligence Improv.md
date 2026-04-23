@@ -1,11 +1,13 @@
 ---
-title: "How Can Explainable Artificial Intelligence Improve Trust and Transparency in Medical Diagnosis Systems?"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.16340
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16340
 next_step: skim
+priority: low
+slack_ts: '1776915186.199599'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: How Can Explainable Artificial Intelligence Improve Trust and Transparency
+  in Medical Diagnosis Systems?
 ---
 # How Can Explainable Artificial Intelligence Improve Trust and Transparency in Medical Diagnosis Systems?
 > 原文: [https://arxiv.org/abs/2604.16340](https://arxiv.org/abs/2604.16340)

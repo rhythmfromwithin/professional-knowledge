@@ -1,11 +1,13 @@
 ---
-title: "Distributed Human Identity: AI-Enabled Multi-Existence Through Cognitive Replication and Robotic Embodiments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.16336
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16336
 next_step: skim
+priority: low
+slack_ts: '1776915182.386259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Distributed Human Identity: AI-Enabled Multi-Existence Through Cognitive Replication
+  and Robotic Embodiments'
 ---
 # Distributed Human Identity: AI-Enabled Multi-Existence Through Cognitive Replication and Robotic Embodiments
 > 原文: [https://arxiv.org/abs/2604.16336](https://arxiv.org/abs/2604.16336)

@@ -1,11 +1,13 @@
 ---
-title: "UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.16325
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16325
 next_step: skim
+priority: high
+slack_ts: '1776915193.202289'
+source: cs.LG - Machine Learning
+status: unread
+title: 'UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and
+  Attention Integration'
 ---
 # UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration
 > 原文: [https://arxiv.org/abs/2604.16325](https://arxiv.org/abs/2604.16325)

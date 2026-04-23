@@ -1,11 +1,13 @@
 ---
-title: "Cross-Family Speculative Decoding for Polish Language Models on Apple~Silicon: An Empirical Evaluation of Bielik~11B with UAG-Extended MLX-LM"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.16368
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16368
 next_step: skim
+priority: high
+slack_ts: '1776915181.311229'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Cross-Family Speculative Decoding for Polish Language Models on Apple~Silicon:
+  An Empirical Evaluation of Bielik~11B with UAG-Extended MLX-LM'
 ---
 # Cross-Family Speculative Decoding for Polish Language Models on Apple~Silicon: An Empirical Evaluation of Bielik~11B with UAG-Extended MLX-LM
 > 原文: [https://arxiv.org/abs/2604.16368](https://arxiv.org/abs/2604.16368)

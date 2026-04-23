@@ -1,11 +1,13 @@
 ---
-title: "RHINO-AR: An Augmented Reality Exhibit for Teaching Mobile Robotics Concepts in Museums"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.16384
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16384
 next_step: skim
+priority: medium
+slack_ts: '1776915190.659909'
+source: cs.RO - Robotics
+status: unread
+title: 'RHINO-AR: An Augmented Reality Exhibit for Teaching Mobile Robotics Concepts
+  in Museums'
 ---
 # RHINO-AR: An Augmented Reality Exhibit for Teaching Mobile Robotics Concepts in Museums
 > 原文: [https://arxiv.org/abs/2604.16384](https://arxiv.org/abs/2604.16384)

@@ -1,11 +1,12 @@
 ---
-title: "Interdisciplinary Workshop on Mechanical Intelligence: Summary Report"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.16381
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16381
 next_step: skim
+priority: medium
+slack_ts: '1776915186.558909'
+source: cs.RO - Robotics
+status: unread
+title: 'Interdisciplinary Workshop on Mechanical Intelligence: Summary Report'
 ---
 # Interdisciplinary Workshop on Mechanical Intelligence: Summary Report
 > 原文: [https://arxiv.org/abs/2604.16381](https://arxiv.org/abs/2604.16381)

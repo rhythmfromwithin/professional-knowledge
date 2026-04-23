@@ -1,11 +1,13 @@
 ---
-title: "Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.16339
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16339
 next_step: skim
+priority: high
+slack_ts: '1776915192.388259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise
+  Multi-Agent LLM Systems'
 ---
 # Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems
 > 原文: [https://arxiv.org/abs/2604.16339](https://arxiv.org/abs/2604.16339)

@@ -1,11 +1,13 @@
 ---
-title: "Safety, Security, and Cognitive Risks in State-Space Models: A Systematic Threat Analysis with Spectral, Stateful, and Capacity Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.16424
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16424
 next_step: skim
+priority: low
+slack_ts: '1776915191.557169'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Safety, Security, and Cognitive Risks in State-Space Models: A Systematic
+  Threat Analysis with Spectral, Stateful, and Capacity Attacks'
 ---
 # Safety, Security, and Cognitive Risks in State-Space Models: A Systematic Threat Analysis with Spectral, Stateful, and Capacity Attacks
 > 原文: [https://arxiv.org/abs/2604.16424](https://arxiv.org/abs/2604.16424)

@@ -1,11 +1,12 @@
 ---
-title: "Deep Learning for Virtual Reality User Identification: A Benchmark"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.16341
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16341
 next_step: skim
+priority: low
+slack_ts: '1776915182.120379'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Deep Learning for Virtual Reality User Identification: A Benchmark'
 ---
 # Deep Learning for Virtual Reality User Identification: A Benchmark
 > 原文: [https://arxiv.org/abs/2604.16341](https://arxiv.org/abs/2604.16341)

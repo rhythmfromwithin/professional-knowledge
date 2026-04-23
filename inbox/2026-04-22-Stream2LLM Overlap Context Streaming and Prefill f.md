@@ -1,11 +1,12 @@
 ---
-title: "Stream2LLM: Overlap Context Streaming and Prefill for Reduced TTFT"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.16395
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16395
 next_step: skim
+priority: low
+slack_ts: '1776915192.936579'
+source: cs.DB - Databases
+status: unread
+title: 'Stream2LLM: Overlap Context Streaming and Prefill for Reduced TTFT'
 ---
 # Stream2LLM: Overlap Context Streaming and Prefill for Reduced TTFT
 > 原文: [https://arxiv.org/abs/2604.16395](https://arxiv.org/abs/2604.16395)

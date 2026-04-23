@@ -1,11 +1,12 @@
 ---
-title: "Multimodal Claim Extraction for Fact-Checking"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.16311
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16311
 next_step: skim
+priority: high
+slack_ts: '1776915188.204829'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Multimodal Claim Extraction for Fact-Checking
 ---
 # Multimodal Claim Extraction for Fact-Checking
 > 原文: [https://arxiv.org/abs/2604.16311](https://arxiv.org/abs/2604.16311)

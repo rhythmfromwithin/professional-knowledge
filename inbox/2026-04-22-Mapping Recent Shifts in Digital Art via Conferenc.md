@@ -1,11 +1,13 @@
 ---
-title: "Mapping Recent Shifts in Digital Art via Conference Discourse: AI, XR, the Metaverse, and Blockchain/NFTs (2021-2025)"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.16360
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16360
 next_step: skim
+priority: medium
+slack_ts: '1776915187.658939'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Mapping Recent Shifts in Digital Art via Conference Discourse: AI, XR, the
+  Metaverse, and Blockchain/NFTs (2021-2025)'
 ---
 # Mapping Recent Shifts in Digital Art via Conference Discourse: AI, XR, the Metaverse, and Blockchain/NFTs (2021-2025)
 > 原文: [https://arxiv.org/abs/2604.16360](https://arxiv.org/abs/2604.16360)

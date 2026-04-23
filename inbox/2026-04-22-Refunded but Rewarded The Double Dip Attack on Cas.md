@@ -1,11 +1,12 @@
 ---
-title: "Refunded but Rewarded: The Double Dip Attack on Cashback Reward Engines"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.16427
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16427
 next_step: skim
+priority: low
+slack_ts: '1776915190.975689'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Refunded but Rewarded: The Double Dip Attack on Cashback Reward Engines'
 ---
 # Refunded but Rewarded: The Double Dip Attack on Cashback Reward Engines
 > 原文: [https://arxiv.org/abs/2604.16427](https://arxiv.org/abs/2604.16427)

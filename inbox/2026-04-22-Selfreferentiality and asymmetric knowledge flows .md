@@ -1,11 +1,13 @@
 ---
-title: "Self-referentiality and asymmetric knowledge flows between journals. The case of economics"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.18144
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18144
 next_step: skim
+priority: low
+slack_ts: '1776915192.124049'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Self-referentiality and asymmetric knowledge flows between journals. The case
+  of economics
 ---
 # Self-referentiality and asymmetric knowledge flows between journals. The case of economics
 > 原文: [https://arxiv.org/abs/2604.18144](https://arxiv.org/abs/2604.18144)

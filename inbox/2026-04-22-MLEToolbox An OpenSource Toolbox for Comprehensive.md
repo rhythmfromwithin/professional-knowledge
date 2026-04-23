@@ -1,11 +1,12 @@
 ---
-title: "MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.16463
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16463
 next_step: skim
+priority: low
+slack_ts: '1776915187.395169'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis'
 ---
 # MLE-Toolbox: An Open-Source Toolbox for Comprehensive EEG and MEG Data Analysis
 > 原文: [https://arxiv.org/abs/2604.16463](https://arxiv.org/abs/2604.16463)

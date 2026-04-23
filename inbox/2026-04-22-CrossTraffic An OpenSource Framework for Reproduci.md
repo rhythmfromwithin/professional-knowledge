@@ -1,11 +1,13 @@
 ---
-title: "CrossTraffic: An Open-Source Framework for Reproducible and Executable Transportation Analysis and Knowledge Management"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.16316
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16316
 next_step: skim
+priority: medium
+slack_ts: '1776915181.581679'
+source: cs.CY - Computers and Society
+status: unread
+title: 'CrossTraffic: An Open-Source Framework for Reproducible and Executable Transportation
+  Analysis and Knowledge Management'
 ---
 # CrossTraffic: An Open-Source Framework for Reproducible and Executable Transportation Analysis and Knowledge Management
 > 原文: [https://arxiv.org/abs/2604.16316](https://arxiv.org/abs/2604.16316)

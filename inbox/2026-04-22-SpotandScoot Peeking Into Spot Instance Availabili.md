@@ -1,11 +1,12 @@
 ---
-title: "Spot-and-Scoot: Peeking Into Spot Instance Availability"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.16457
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16457
 next_step: skim
+priority: medium
+slack_ts: '1776915192.659299'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Spot-and-Scoot: Peeking Into Spot Instance Availability'
 ---
 # Spot-and-Scoot: Peeking Into Spot Instance Availability
 > 原文: [https://arxiv.org/abs/2604.16457](https://arxiv.org/abs/2604.16457)

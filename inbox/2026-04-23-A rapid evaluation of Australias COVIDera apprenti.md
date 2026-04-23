@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2604.19178
+next_step: skim
+priority: low
+slack_ts: '1776915194.065789'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: A rapid evaluation of Australia's COVID-era apprentice wage subsidy programs
+---
+# A rapid evaluation of Australia's COVID-era apprentice wage subsidy programs
+> 原文: [https://arxiv.org/abs/2604.19178](https://arxiv.org/abs/2604.19178)
+
+arXiv:2604.19178v1 Announce Type: new
+Abstract: In the midst of the COVID-19 pandemic in 2020, the Australian Government launched two programs to incentivise new apprentices to start and complete apprenticeships -- the Boosting Apprenticeship Commencements (BAC) and Completing Apprenticeship Commencements (CAC) programs. These programs were wage subsidies to encourage employers to take on or retain apprentices. This paper evaluates the impact of these programs on apprenticeship commencements and completions taking a mixed-methods approach combining econometric modelling and interviews with stakeholders including employers and peak bodies. The programs led to a 70\% increase in commencement of apprenticeships but do not seem to have boosted retention rates. There appears to be a small increase in cancellation rates suggesting lower eventual completion rates compared to previous cohorts. Cancellation rates were higher for non-trade commencements (7\% increase) during BAC, but slightly lower for trade commencements (0.7\% decrease). We find this effect in non-trade apprenticeships was likely driven by `sharp practice' where some employers took advantage of the BAC by converting existing employees over to apprenticeships to attract the wage subsidy with no intention of having these employees stay as apprentices beyond the period of the BAC's generous subsidy. While the BAC / CAC were successful in many of their goals, there are several lessons that can be learnt from its design. In particular, the need to implement the program quickly meant early design choices inadvertently encouraged `sharp practice' and a rush for places that placed strain on the training sector. However, employers appreciated the front-loading of payments which provided the most financial support when apprentices were new and at their least productive.

@@ -1,11 +1,13 @@
 ---
-title: "Results-Actionability Gap: Understanding How Practitioners Evaluate LLM Products in the Wild"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.16304
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16304
 next_step: skim
+priority: low
+slack_ts: '1776915191.232739'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Results-Actionability Gap: Understanding How Practitioners Evaluate LLM Products
+  in the Wild'
 ---
 # Results-Actionability Gap: Understanding How Practitioners Evaluate LLM Products in the Wild
 > 原文: [https://arxiv.org/abs/2604.16304](https://arxiv.org/abs/2604.16304)

@@ -1,11 +1,12 @@
 ---
-title: "DAOnt: A Formal Ontology for EU Data Act Compliance"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.16386
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16386
 next_step: skim
+priority: low
+slack_ts: '1776915181.851269'
+source: cs.DB - Databases
+status: unread
+title: 'DAOnt: A Formal Ontology for EU Data Act Compliance'
 ---
 # DAOnt: A Formal Ontology for EU Data Act Compliance
 > 原文: [https://arxiv.org/abs/2604.16386](https://arxiv.org/abs/2604.16386)

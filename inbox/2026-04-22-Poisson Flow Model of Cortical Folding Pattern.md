@@ -1,11 +1,12 @@
 ---
-title: "Poisson Flow Model of Cortical Folding Pattern"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.17291
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.17291
 next_step: skim
+priority: low
+slack_ts: '1776915189.742219'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Poisson Flow Model of Cortical Folding Pattern
 ---
 # Poisson Flow Model of Cortical Folding Pattern
 > 原文: [https://arxiv.org/abs/2604.17291](https://arxiv.org/abs/2604.17291)

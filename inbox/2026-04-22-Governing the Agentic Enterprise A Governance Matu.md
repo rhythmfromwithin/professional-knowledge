@@ -1,11 +1,13 @@
 ---
-title: "Governing the Agentic Enterprise: A Governance Maturity Model for Managing AI Agent Sprawl in Business Operations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.16338
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16338
 next_step: skim
+priority: high
+slack_ts: '1776915185.523259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Governing the Agentic Enterprise: A Governance Maturity Model for Managing
+  AI Agent Sprawl in Business Operations'
 ---
 # Governing the Agentic Enterprise: A Governance Maturity Model for Managing AI Agent Sprawl in Business Operations
 > 原文: [https://arxiv.org/abs/2604.16338](https://arxiv.org/abs/2604.16338)

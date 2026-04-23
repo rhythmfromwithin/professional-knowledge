@@ -1,11 +1,13 @@
 ---
-title: "Fuzzy Encoding-Decoding to Improve Spiking Q-Learning Performance in Autonomous Driving"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.16436
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16436
 next_step: skim
+priority: low
+slack_ts: '1776915184.426529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Fuzzy Encoding-Decoding to Improve Spiking Q-Learning Performance in Autonomous
+  Driving
 ---
 # Fuzzy Encoding-Decoding to Improve Spiking Q-Learning Performance in Autonomous Driving
 > 原文: [https://arxiv.org/abs/2604.16436](https://arxiv.org/abs/2604.16436)

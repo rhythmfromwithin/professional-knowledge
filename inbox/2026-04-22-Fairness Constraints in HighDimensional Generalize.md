@@ -1,11 +1,12 @@
 ---
-title: "Fairness Constraints in High-Dimensional Generalized Linear Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.16610
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.16610
 next_step: skim
+priority: medium
+slack_ts: '1776915183.543859'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Fairness Constraints in High-Dimensional Generalized Linear Models
 ---
 # Fairness Constraints in High-Dimensional Generalized Linear Models
 > 原文: [https://arxiv.org/abs/2604.16610](https://arxiv.org/abs/2604.16610)
