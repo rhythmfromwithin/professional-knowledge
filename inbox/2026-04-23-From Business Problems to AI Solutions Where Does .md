@@ -1,11 +1,13 @@
 ---
-title: "From Business Problems to AI Solutions: Where Does Transformation Support Fail"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.18770
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18770
 next_step: skim
+priority: low
+slack_ts: '1777001709.358399'
+source: cs.SE - Software Engineering
+status: unread
+title: 'From Business Problems to AI Solutions: Where Does Transformation Support
+  Fail'
 ---
 # From Business Problems to AI Solutions: Where Does Transformation Support Fail
 > 原文: [https://arxiv.org/abs/2604.18770](https://arxiv.org/abs/2604.18770)

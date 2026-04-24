@@ -1,11 +1,13 @@
 ---
-title: "Who Shapes Brazil's Vaccine Debate? Semi-Supervised Modeling of Stance and Polarization in YouTube's Media Ecosystem"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.18586
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18586
 next_step: skim
+priority: medium
+slack_ts: '1777001713.476379'
+source: cs.CY - Computers and Society
+status: unread
+title: Who Shapes Brazil's Vaccine Debate? Semi-Supervised Modeling of Stance and
+  Polarization in YouTube's Media Ecosystem
 ---
 # Who Shapes Brazil's Vaccine Debate? Semi-Supervised Modeling of Stance and Polarization in YouTube's Media Ecosystem
 > 原文: [https://arxiv.org/abs/2604.18586](https://arxiv.org/abs/2604.18586)

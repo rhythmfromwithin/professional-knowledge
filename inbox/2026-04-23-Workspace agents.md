@@ -1,11 +1,12 @@
 ---
-title: "Workspace agents"
-source: "OpenAI Blog"
-link: https://openai.com/academy/workspace-agents
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/workspace-agents
 next_step: skim
+priority: high
+slack_ts: '1777001713.582469'
+source: OpenAI Blog
+status: unread
+title: Workspace agents
 ---
 # Workspace agents
 > 原文: [https://openai.com/academy/workspace-agents](https://openai.com/academy/workspace-agents)

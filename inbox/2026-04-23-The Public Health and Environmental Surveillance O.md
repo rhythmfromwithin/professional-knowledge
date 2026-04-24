@@ -1,11 +1,14 @@
 ---
-title: "The Public Health and Environmental Surveillance Open Data Model (PHES-ODM) Version 3: An Open, Relational Data Model and Interoperability Framework for Wastewater Surveillance"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.18762
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18762
 next_step: skim
+priority: low
+slack_ts: '1777001712.858579'
+source: cs.DB - Databases
+status: unread
+title: 'The Public Health and Environmental Surveillance Open Data Model (PHES-ODM)
+  Version 3: An Open, Relational Data Model and Interoperability Framework for Wastewater
+  Surveillance'
 ---
 # The Public Health and Environmental Surveillance Open Data Model (PHES-ODM) Version 3: An Open, Relational Data Model and Interoperability Framework for Wastewater Surveillance
 > 原文: [https://arxiv.org/abs/2604.18762](https://arxiv.org/abs/2604.18762)

@@ -1,11 +1,13 @@
 ---
-title: "Sparse Network Inference under Imperfect Detection and its Application to Ecological Networks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.18820
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18820
 next_step: skim
+priority: medium
+slack_ts: '1777001712.345679'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Sparse Network Inference under Imperfect Detection and its Application to Ecological
+  Networks
 ---
 # Sparse Network Inference under Imperfect Detection and its Application to Ecological Networks
 > 原文: [https://arxiv.org/abs/2604.18820](https://arxiv.org/abs/2604.18820)

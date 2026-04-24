@@ -1,11 +1,12 @@
 ---
-title: "Generative AI at Work: From Exposure to Adoption across 35 European Countries"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.18849
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18849
 next_step: skim
+priority: low
+slack_ts: '1777001709.886849'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Generative AI at Work: From Exposure to Adoption across 35 European Countries'
 ---
 # Generative AI at Work: From Exposure to Adoption across 35 European Countries
 > 原文: [https://arxiv.org/abs/2604.18849](https://arxiv.org/abs/2604.18849)

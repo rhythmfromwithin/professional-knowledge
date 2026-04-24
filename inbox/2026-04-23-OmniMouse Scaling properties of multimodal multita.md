@@ -1,11 +1,13 @@
 ---
-title: "OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.18827
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18827
 next_step: skim
+priority: low
+slack_ts: '1777001711.241929'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B
+  Neural Tokens'
 ---
 # OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens
 > 原文: [https://arxiv.org/abs/2604.18827](https://arxiv.org/abs/2604.18827)

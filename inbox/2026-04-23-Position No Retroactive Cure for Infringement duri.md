@@ -1,11 +1,12 @@
 ---
-title: "Position: No Retroactive Cure for Infringement during Training"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.18649
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18649
 next_step: skim
+priority: low
+slack_ts: '1777001711.688459'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Position: No Retroactive Cure for Infringement during Training'
 ---
 # Position: No Retroactive Cure for Infringement during Training
 > 原文: [https://arxiv.org/abs/2604.18649](https://arxiv.org/abs/2604.18649)

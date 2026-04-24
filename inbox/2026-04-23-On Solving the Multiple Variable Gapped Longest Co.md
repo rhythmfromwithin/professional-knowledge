@@ -1,11 +1,12 @@
 ---
-title: "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.18645
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18645
 next_step: skim
+priority: high
+slack_ts: '1777001711.361139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: On Solving the Multiple Variable Gapped Longest Common Subsequence Problem
 ---
 # On Solving the Multiple Variable Gapped Longest Common Subsequence Problem
 > 原文: [https://arxiv.org/abs/2604.18645](https://arxiv.org/abs/2604.18645)

@@ -1,11 +1,12 @@
 ---
-title: "Heuristic Search Space Partitioning for Low-Latency Multi-Tenant Cloud Queries"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.19057
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19057
 next_step: skim
+priority: low
+slack_ts: '1777001710.407689'
+source: cs.DB - Databases
+status: unread
+title: Heuristic Search Space Partitioning for Low-Latency Multi-Tenant Cloud Queries
 ---
 # Heuristic Search Space Partitioning for Low-Latency Multi-Tenant Cloud Queries
 > 原文: [https://arxiv.org/abs/2604.19057](https://arxiv.org/abs/2604.19057)

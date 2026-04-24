@@ -1,11 +1,12 @@
 ---
-title: "Understanding the Mechanism of Altruism in Large Language Models"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.19260
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19260
 next_step: skim
+priority: low
+slack_ts: '1777001713.275829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Understanding the Mechanism of Altruism in Large Language Models
 ---
 # Understanding the Mechanism of Altruism in Large Language Models
 > 原文: [https://arxiv.org/abs/2604.19260](https://arxiv.org/abs/2604.19260)

@@ -1,11 +1,5 @@
 ---
-title: "HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincar\'e Maps, and Regions of Attraction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.18887
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1777001710.207989'
 ---
 # HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincar\'e Maps, and Regions of Attraction
 > 原文: [https://arxiv.org/abs/2604.18887](https://arxiv.org/abs/2604.18887)

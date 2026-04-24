@@ -1,11 +1,12 @@
 ---
-title: "TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.18607
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18607
 next_step: skim
+priority: low
+slack_ts: '1777001713.056799'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution'
 ---
 # TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution
 > 原文: [https://arxiv.org/abs/2604.18607](https://arxiv.org/abs/2604.18607)

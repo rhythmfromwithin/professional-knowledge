@@ -1,11 +1,12 @@
 ---
-title: "Global Web, Local Privacy? An International Review of Web Tracking"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.18633
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18633
 next_step: skim
+priority: low
+slack_ts: '1777001710.083749'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Global Web, Local Privacy? An International Review of Web Tracking
 ---
 # Global Web, Local Privacy? An International Review of Web Tracking
 > 原文: [https://arxiv.org/abs/2604.18633](https://arxiv.org/abs/2604.18633)

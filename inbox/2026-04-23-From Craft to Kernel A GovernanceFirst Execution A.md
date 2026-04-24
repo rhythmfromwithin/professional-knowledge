@@ -1,11 +1,13 @@
 ---
-title: "From Craft to Kernel: A Governance-First Execution Architecture and Semantic ISA for Agentic Computers"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.18652
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18652
 next_step: skim
+priority: low
+slack_ts: '1777001709.501359'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'From Craft to Kernel: A Governance-First Execution Architecture and Semantic
+  ISA for Agentic Computers'
 ---
 # From Craft to Kernel: A Governance-First Execution Architecture and Semantic ISA for Agentic Computers
 > 原文: [https://arxiv.org/abs/2604.18652](https://arxiv.org/abs/2604.18652)

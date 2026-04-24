@@ -1,11 +1,13 @@
 ---
-title: "Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.18611
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18611
 next_step: skim
+priority: low
+slack_ts: '1777001711.139059'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant
+  Monitoring Systems
 ---
 # Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems
 > 原文: [https://arxiv.org/abs/2604.18611](https://arxiv.org/abs/2604.18611)

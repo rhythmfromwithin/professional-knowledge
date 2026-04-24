@@ -1,11 +1,13 @@
 ---
-title: "Vision-Based Human Awareness Estimation for Enhanced Safety and Efficiency of AMRs in Industrial Warehouses"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.18627
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18627
 next_step: skim
+priority: medium
+slack_ts: '1777001713.372329'
+source: cs.CV - Computer Vision
+status: unread
+title: Vision-Based Human Awareness Estimation for Enhanced Safety and Efficiency
+  of AMRs in Industrial Warehouses
 ---
 # Vision-Based Human Awareness Estimation for Enhanced Safety and Efficiency of AMRs in Industrial Warehouses
 > 原文: [https://arxiv.org/abs/2604.18627](https://arxiv.org/abs/2604.18627)

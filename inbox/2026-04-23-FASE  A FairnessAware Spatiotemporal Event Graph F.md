@@ -1,11 +1,13 @@
 ---
-title: "FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.18644
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18644
 next_step: skim
+priority: high
+slack_ts: '1777001709.259599'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive
+  Policing'
 ---
 # FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing
 > 原文: [https://arxiv.org/abs/2604.18644](https://arxiv.org/abs/2604.18644)

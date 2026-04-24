@@ -1,11 +1,13 @@
 ---
-title: "Task-Adaptive Admittance Control for Human-Quadrotor Cooperative Load Transportation with Dynamic Cable-Length Regulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.18905
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18905
 next_step: skim
+priority: medium
+slack_ts: '1777001712.758509'
+source: cs.RO - Robotics
+status: unread
+title: Task-Adaptive Admittance Control for Human-Quadrotor Cooperative Load Transportation
+  with Dynamic Cable-Length Regulation
 ---
 # Task-Adaptive Admittance Control for Human-Quadrotor Cooperative Load Transportation with Dynamic Cable-Length Regulation
 > 原文: [https://arxiv.org/abs/2604.18905](https://arxiv.org/abs/2604.18905)

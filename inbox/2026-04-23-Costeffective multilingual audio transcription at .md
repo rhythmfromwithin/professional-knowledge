@@ -1,11 +1,13 @@
 ---
-title: "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/
 next_step: skim
+priority: high
+slack_ts: '1777001709.014429'
+source: AWS Blog
+status: unread
+title: Cost-effective multilingual audio transcription at scale with Parakeet-TDT
+  and AWS Batch
 ---
 # Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch
 > 原文: [https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/](https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/)

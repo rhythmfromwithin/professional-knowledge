@@ -1,11 +1,13 @@
 ---
-title: "Locality, Not Spectral Mixing, Governs Direct Propagation in Distributed Offline Dynamic Programming"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.18615
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18615
 next_step: skim
+priority: medium
+slack_ts: '1777001710.804849'
+source: cs.DC - Distributed Computing
+status: unread
+title: Locality, Not Spectral Mixing, Governs Direct Propagation in Distributed Offline
+  Dynamic Programming
 ---
 # Locality, Not Spectral Mixing, Governs Direct Propagation in Distributed Offline Dynamic Programming
 > 原文: [https://arxiv.org/abs/2604.18615](https://arxiv.org/abs/2604.18615)

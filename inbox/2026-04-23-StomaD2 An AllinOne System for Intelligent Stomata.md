@@ -1,11 +1,13 @@
 ---
-title: "StomaD2: An All-in-One System for Intelligent Stomatal Phenotype Analysis via Diffusion-Based Restoration Detection Network"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.18632
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18632
 next_step: skim
+priority: medium
+slack_ts: '1777001712.550299'
+source: cs.CV - Computer Vision
+status: unread
+title: 'StomaD2: An All-in-One System for Intelligent Stomatal Phenotype Analysis
+  via Diffusion-Based Restoration Detection Network'
 ---
 # StomaD2: An All-in-One System for Intelligent Stomatal Phenotype Analysis via Diffusion-Based Restoration Detection Network
 > 原文: [https://arxiv.org/abs/2604.18632](https://arxiv.org/abs/2604.18632)

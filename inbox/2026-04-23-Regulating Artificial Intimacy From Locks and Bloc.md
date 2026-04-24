@@ -1,11 +1,12 @@
 ---
-title: "Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.18893
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18893
 next_step: skim
+priority: medium
+slack_ts: '1777001712.235719'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability'
 ---
 # Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability
 > 原文: [https://arxiv.org/abs/2604.18893](https://arxiv.org/abs/2604.18893)

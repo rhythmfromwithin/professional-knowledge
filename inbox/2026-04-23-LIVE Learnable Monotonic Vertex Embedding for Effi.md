@@ -1,11 +1,13 @@
 ---
-title: "LIVE: Learnable Monotonic Vertex Embedding for Efficient Exact Subgraph Matching (Technical Report)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.19116
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19116
 next_step: skim
+priority: low
+slack_ts: '1777001710.693859'
+source: cs.DB - Databases
+status: unread
+title: 'LIVE: Learnable Monotonic Vertex Embedding for Efficient Exact Subgraph Matching
+  (Technical Report)'
 ---
 # LIVE: Learnable Monotonic Vertex Embedding for Efficient Exact Subgraph Matching (Technical Report)
 > 原文: [https://arxiv.org/abs/2604.19116](https://arxiv.org/abs/2604.19116)

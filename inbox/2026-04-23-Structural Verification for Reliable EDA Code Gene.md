@@ -1,11 +1,13 @@
 ---
-title: "Structural Verification for Reliable EDA Code Generation without Tool-in-the-Loop Debugging"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.18834
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18834
 next_step: skim
+priority: low
+slack_ts: '1777001712.660419'
+source: cs.SE - Software Engineering
+status: unread
+title: Structural Verification for Reliable EDA Code Generation without Tool-in-the-Loop
+  Debugging
 ---
 # Structural Verification for Reliable EDA Code Generation without Tool-in-the-Loop Debugging
 > 原文: [https://arxiv.org/abs/2604.18834](https://arxiv.org/abs/2604.18834)

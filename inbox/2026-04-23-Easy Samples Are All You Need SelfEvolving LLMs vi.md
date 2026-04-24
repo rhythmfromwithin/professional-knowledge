@@ -1,11 +1,13 @@
 ---
-title: "Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.18639
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18639
 next_step: skim
+priority: high
+slack_ts: '1777001709.154209'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement
+  Learning'
 ---
 # Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2604.18639](https://arxiv.org/abs/2604.18639)

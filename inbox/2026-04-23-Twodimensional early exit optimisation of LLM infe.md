@@ -1,11 +1,12 @@
 ---
-title: "Two-dimensional early exit optimisation of LLM inference"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.18592
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18592
 next_step: skim
+priority: high
+slack_ts: '1777001713.160629'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Two-dimensional early exit optimisation of LLM inference
 ---
 # Two-dimensional early exit optimisation of LLM inference
 > 原文: [https://arxiv.org/abs/2604.18592](https://arxiv.org/abs/2604.18592)

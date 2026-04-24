@@ -1,11 +1,12 @@
 ---
-title: "NeuroAI and Beyond: Bridging Between Advances in Neuroscience and ArtificialIntelligence"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.18637
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18637
 next_step: skim
+priority: low
+slack_ts: '1777001711.032339'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'NeuroAI and Beyond: Bridging Between Advances in Neuroscience and ArtificialIntelligence'
 ---
 # NeuroAI and Beyond: Bridging Between Advances in Neuroscience and ArtificialIntelligence
 > 原文: [https://arxiv.org/abs/2604.18637](https://arxiv.org/abs/2604.18637)

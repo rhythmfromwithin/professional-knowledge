@@ -1,11 +1,13 @@
 ---
-title: "Quantum-Like Models of Cognition and Decision Making: Open-Systems and Gorini--Kossakowski--Sudarshan--Lindblad Dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.18643
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.18643
 next_step: skim
+priority: low
+slack_ts: '1777001712.007359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Quantum-Like Models of Cognition and Decision Making: Open-Systems and Gorini--Kossakowski--Sudarshan--Lindblad
+  Dynamics'
 ---
 # Quantum-Like Models of Cognition and Decision Making: Open-Systems and Gorini--Kossakowski--Sudarshan--Lindblad Dynamics
 > 原文: [https://arxiv.org/abs/2604.18643](https://arxiv.org/abs/2604.18643)
