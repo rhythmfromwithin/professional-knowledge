@@ -1,11 +1,12 @@
 ---
-title: "Can We Locate and Prevent Stereotypes in LLMs?"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.19764
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19764
 next_step: skim
+priority: high
+slack_ts: '1777087199.071979'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Can We Locate and Prevent Stereotypes in LLMs?
 ---
 # Can We Locate and Prevent Stereotypes in LLMs?
 > 原文: [https://arxiv.org/abs/2604.19764](https://arxiv.org/abs/2604.19764)

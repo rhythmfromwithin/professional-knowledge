@@ -1,11 +1,13 @@
 ---
-title: "Beyond Task Success: An Evidence-Synthesis Framework for Evaluating, Governing, and Orchestrating Agentic AI"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.19818
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19818
 next_step: skim
+priority: low
+slack_ts: '1777087198.042159'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Beyond Task Success: An Evidence-Synthesis Framework for Evaluating, Governing,
+  and Orchestrating Agentic AI'
 ---
 # Beyond Task Success: An Evidence-Synthesis Framework for Evaluating, Governing, and Orchestrating Agentic AI
 > 原文: [https://arxiv.org/abs/2604.19818](https://arxiv.org/abs/2604.19818)

@@ -1,11 +1,13 @@
 ---
-title: "Decentralized Machine Learning with Centralized Performance Guarantees via Gibbs Algorithms"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.20492
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20492
 next_step: skim
+priority: medium
+slack_ts: '1777087200.326769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Decentralized Machine Learning with Centralized Performance Guarantees via
+  Gibbs Algorithms
 ---
 # Decentralized Machine Learning with Centralized Performance Guarantees via Gibbs Algorithms
 > 原文: [https://arxiv.org/abs/2604.20492](https://arxiv.org/abs/2604.20492)

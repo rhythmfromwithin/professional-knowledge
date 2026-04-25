@@ -1,11 +1,12 @@
 ---
-title: "Automations"
-source: "OpenAI Blog"
-link: https://openai.com/academy/codex-automations
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/codex-automations
 next_step: skim
+priority: high
+slack_ts: '1777087197.724419'
+source: OpenAI Blog
+status: unread
+title: Automations
 ---
 # Automations
 > 原文: [https://openai.com/academy/codex-automations](https://openai.com/academy/codex-automations)

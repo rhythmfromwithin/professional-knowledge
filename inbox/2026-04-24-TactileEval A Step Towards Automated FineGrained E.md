@@ -1,11 +1,13 @@
 ---
-title: "TactileEval: A Step Towards Automated Fine-Grained Evaluation and Editing of Tactile Graphics"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.19829
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19829
 next_step: skim
+priority: medium
+slack_ts: '1777087208.762649'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TactileEval: A Step Towards Automated Fine-Grained Evaluation and Editing
+  of Tactile Graphics'
 ---
 # TactileEval: A Step Towards Automated Fine-Grained Evaluation and Editing of Tactile Graphics
 > 原文: [https://arxiv.org/abs/2604.19829](https://arxiv.org/abs/2604.19829)

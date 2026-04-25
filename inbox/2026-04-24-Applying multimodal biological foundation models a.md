@@ -1,11 +1,13 @@
 ---
-title: "Applying multimodal biological foundation models across therapeutics and patient care"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/
 next_step: skim
+priority: high
+slack_ts: '1777087196.767169'
+source: AWS Blog
+status: unread
+title: Applying multimodal biological foundation models across therapeutics and patient
+  care
 ---
 # Applying multimodal biological foundation models across therapeutics and patient care
 > 原文: [https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/](https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/)

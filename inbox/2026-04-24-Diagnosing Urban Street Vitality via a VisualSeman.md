@@ -1,11 +1,13 @@
 ---
-title: "Diagnosing Urban Street Vitality via a Visual-Semantic and Spatiotemporal Framework for Street-Level Economics"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.19798
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19798
 next_step: skim
+priority: medium
+slack_ts: '1777087200.621589'
+source: cs.CY - Computers and Society
+status: unread
+title: Diagnosing Urban Street Vitality via a Visual-Semantic and Spatiotemporal Framework
+  for Street-Level Economics
 ---
 # Diagnosing Urban Street Vitality via a Visual-Semantic and Spatiotemporal Framework for Street-Level Economics
 > 原文: [https://arxiv.org/abs/2604.19798](https://arxiv.org/abs/2604.19798)

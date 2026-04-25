@@ -1,11 +1,13 @@
 ---
-title: "Quantization robustness from dense representations of sparse functions in high-capacity kernel associative memory"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.20333
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20333
 next_step: skim
+priority: low
+slack_ts: '1777087207.191729'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Quantization robustness from dense representations of sparse functions in high-capacity
+  kernel associative memory
 ---
 # Quantization robustness from dense representations of sparse functions in high-capacity kernel associative memory
 > 原文: [https://arxiv.org/abs/2604.20333](https://arxiv.org/abs/2604.20333)

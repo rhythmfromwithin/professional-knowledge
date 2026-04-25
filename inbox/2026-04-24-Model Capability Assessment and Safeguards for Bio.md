@@ -1,11 +1,12 @@
 ---
-title: "Model Capability Assessment and Safeguards for Biological Weaponization"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.19811
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19811
 next_step: skim
+priority: medium
+slack_ts: '1777087205.267089'
+source: cs.CY - Computers and Society
+status: unread
+title: Model Capability Assessment and Safeguards for Biological Weaponization
 ---
 # Model Capability Assessment and Safeguards for Biological Weaponization
 > 原文: [https://arxiv.org/abs/2604.19811](https://arxiv.org/abs/2604.19811)

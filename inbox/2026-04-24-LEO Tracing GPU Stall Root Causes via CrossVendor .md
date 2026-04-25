@@ -1,11 +1,12 @@
 ---
-title: "LEO: Tracing GPU Stall Root Causes via Cross-Vendor Backward Slicing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.20032
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20032
 next_step: skim
+priority: medium
+slack_ts: '1777087204.800239'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LEO: Tracing GPU Stall Root Causes via Cross-Vendor Backward Slicing'
 ---
 # LEO: Tracing GPU Stall Root Causes via Cross-Vendor Backward Slicing
 > 原文: [https://arxiv.org/abs/2604.20032](https://arxiv.org/abs/2604.20032)

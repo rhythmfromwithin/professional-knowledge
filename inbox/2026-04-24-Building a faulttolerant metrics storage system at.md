@@ -1,7 +1,9 @@
 ---
-title: "Building a fault-tolerant metrics storage system at Airbnb"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss
+slack_ts: '1777087198.209139'
+source: Airbnb Engineering
+title: Building a fault-tolerant metrics storage system at Airbnb
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

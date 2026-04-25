@@ -1,11 +1,13 @@
 ---
-title: "Do Hallucination Neurons Generalize? Evidence from Cross-Domain Transfer in LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.19765
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19765
 next_step: skim
+priority: high
+slack_ts: '1777087200.823949'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Do Hallucination Neurons Generalize? Evidence from Cross-Domain Transfer in
+  LLMs
 ---
 # Do Hallucination Neurons Generalize? Evidence from Cross-Domain Transfer in LLMs
 > 原文: [https://arxiv.org/abs/2604.19765](https://arxiv.org/abs/2604.19765)

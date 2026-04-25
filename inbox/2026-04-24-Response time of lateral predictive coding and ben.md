@@ -1,11 +1,12 @@
 ---
-title: "Response time of lateral predictive coding and benefits of modular structures"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.20524
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20524
 next_step: skim
+priority: low
+slack_ts: '1777087207.789869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Response time of lateral predictive coding and benefits of modular structures
 ---
 # Response time of lateral predictive coding and benefits of modular structures
 > 原文: [https://arxiv.org/abs/2604.20524](https://arxiv.org/abs/2604.20524)

@@ -1,11 +1,13 @@
 ---
-title: "Do Small Language Models Know When They're Wrong? Confidence-Based Cascade Scoring for Educational Assessment"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.19781
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19781
 next_step: skim
+priority: medium
+slack_ts: '1777087200.974759'
+source: cs.CY - Computers and Society
+status: unread
+title: Do Small Language Models Know When They're Wrong? Confidence-Based Cascade
+  Scoring for Educational Assessment
 ---
 # Do Small Language Models Know When They're Wrong? Confidence-Based Cascade Scoring for Educational Assessment
 > 原文: [https://arxiv.org/abs/2604.19781](https://arxiv.org/abs/2604.19781)

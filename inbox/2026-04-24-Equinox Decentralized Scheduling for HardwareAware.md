@@ -1,11 +1,12 @@
 ---
-title: "Equinox: Decentralized Scheduling for Hardware-Aware Orbital Intelligence"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.19958
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19958
 next_step: skim
+priority: medium
+slack_ts: '1777087202.613469'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Equinox: Decentralized Scheduling for Hardware-Aware Orbital Intelligence'
 ---
 # Equinox: Decentralized Scheduling for Hardware-Aware Orbital Intelligence
 > 原文: [https://arxiv.org/abs/2604.19958](https://arxiv.org/abs/2604.19958)

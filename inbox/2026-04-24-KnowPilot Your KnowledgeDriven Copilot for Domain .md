@@ -1,11 +1,12 @@
 ---
-title: "KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.19820
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19820
 next_step: skim
+priority: low
+slack_ts: '1777087204.600459'
+source: cs.SE - Software Engineering
+status: unread
+title: 'KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks'
 ---
 # KnowPilot: Your Knowledge-Driven Copilot for Domain Tasks
 > 原文: [https://arxiv.org/abs/2604.19820](https://arxiv.org/abs/2604.19820)

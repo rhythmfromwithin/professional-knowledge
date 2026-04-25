@@ -1,11 +1,13 @@
 ---
-title: "Evidence of Layered Positional and Directional Constraints in the Voynich Manuscript: Implications for Cipher-Like Structure"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.19762
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19762
 next_step: skim
+priority: high
+slack_ts: '1777087202.779839'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Evidence of Layered Positional and Directional Constraints in the Voynich
+  Manuscript: Implications for Cipher-Like Structure'
 ---
 # Evidence of Layered Positional and Directional Constraints in the Voynich Manuscript: Implications for Cipher-Like Structure
 > 原文: [https://arxiv.org/abs/2604.19762](https://arxiv.org/abs/2604.19762)

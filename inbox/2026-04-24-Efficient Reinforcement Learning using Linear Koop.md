@@ -1,11 +1,13 @@
 ---
-title: "Efficient Reinforcement Learning using Linear Koopman Dynamics for Nonlinear Robotic Systems"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.19980
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19980
 next_step: skim
+priority: medium
+slack_ts: '1777087202.162979'
+source: cs.RO - Robotics
+status: unread
+title: Efficient Reinforcement Learning using Linear Koopman Dynamics for Nonlinear
+  Robotic Systems
 ---
 # Efficient Reinforcement Learning using Linear Koopman Dynamics for Nonlinear Robotic Systems
 > 原文: [https://arxiv.org/abs/2604.19980](https://arxiv.org/abs/2604.19980)

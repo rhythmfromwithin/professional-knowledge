@@ -1,11 +1,12 @@
 ---
-title: "Neuro-evolutionary stochastic architectures in gauge-covariant neural fields"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.20373
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20373
 next_step: skim
+priority: low
+slack_ts: '1777087205.881339'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neuro-evolutionary stochastic architectures in gauge-covariant neural fields
 ---
 # Neuro-evolutionary stochastic architectures in gauge-covariant neural fields
 > 原文: [https://arxiv.org/abs/2604.20373](https://arxiv.org/abs/2604.20373)

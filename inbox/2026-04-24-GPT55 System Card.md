@@ -1,11 +1,12 @@
 ---
-title: "GPT-5.5 System Card"
-source: "OpenAI Blog"
-link: https://openai.com/index/gpt-5-5-system-card
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gpt-5-5-system-card
 next_step: skim
+priority: high
+slack_ts: '1777087203.071919'
+source: OpenAI Blog
+status: unread
+title: GPT-5.5 System Card
 ---
 # GPT-5.5 System Card
 > 原文: [https://openai.com/index/gpt-5-5-system-card](https://openai.com/index/gpt-5-5-system-card)

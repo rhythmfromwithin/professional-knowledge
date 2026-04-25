@@ -1,11 +1,13 @@
 ---
-title: "Rabies diagnosis in low-data settings: A comparative study on the impact of data augmentation and transfer learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.19823
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19823
 next_step: skim
+priority: medium
+slack_ts: '1777087207.335149'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Rabies diagnosis in low-data settings: A comparative study on the impact of
+  data augmentation and transfer learning'
 ---
 # Rabies diagnosis in low-data settings: A comparative study on the impact of data augmentation and transfer learning
 > 原文: [https://arxiv.org/abs/2604.19823](https://arxiv.org/abs/2604.19823)

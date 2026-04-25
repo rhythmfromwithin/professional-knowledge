@@ -1,0 +1,13 @@
+---
+title: "Building Workforce AI Agents with Visier and Amazon Quick"
+source: "AWS Blog"
+link: https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Building Workforce AI Agents with Visier and Amazon Quick
+> 原文: [https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/)
+
+In this post, we show how connecting the Visier Workforce AI platform with Amazon Quick through Model Context Protocol (MCP) gives every knowledge worker a unified agentic workspace to ask questions in. Visier helps ground the workspace in live workforce data and the organizational context that surrounds it while letting your users act on the conversational results without switching tools.

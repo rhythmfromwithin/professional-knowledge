@@ -1,0 +1,14 @@
+---
+title: "Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2604.21045
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech
+> 原文: [https://arxiv.org/abs/2604.21045](https://arxiv.org/abs/2604.21045)
+
+arXiv:2604.21045v1 Announce Type: new
+Abstract: Simultaneous speech translation (SST) generates translations while receiving partial speech input. Recent advances show that large language models (LLMs) can substantially improve SST quality, but at the cost of high computational overhead. To reduce this cost, prior work reformulates SST as a multi-turn dialogue task, enabling full reuse of the LLM's key-value (KV) cache and eliminating redundant feature recomputation. However, this approach relies on supervised fine-tuning (SFT) data in dialogue form, for which few human annotations exist, and existing synthesis methods cannot guarantee data quality. In this work, we propose a Hierarchical Policy Optimization (HPO) approach that post-train models trained on imperfect SFT data. We introduce a hierarchical reward that balances translation quality and latency objectives. Experiments on English to Chinese/German/Japanese demonstrate improvements of over +7 COMET score and +1.25 MetricX score at a latency of 1.5 seconds. Comprehensive ablation studies further validate the effectiveness of different quality rewards, hierarchical reward formulations, and segmentation strategies. Code can be found here https://github.com/owaski/HPO

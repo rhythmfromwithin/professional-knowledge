@@ -1,11 +1,12 @@
 ---
-title: "Educational Mobility Across Multiple Generations in Indonesia"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.19969
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19969
 next_step: skim
+priority: low
+slack_ts: '1777087201.161929'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Educational Mobility Across Multiple Generations in Indonesia
 ---
 # Educational Mobility Across Multiple Generations in Indonesia
 > 原文: [https://arxiv.org/abs/2604.19969](https://arxiv.org/abs/2604.19969)

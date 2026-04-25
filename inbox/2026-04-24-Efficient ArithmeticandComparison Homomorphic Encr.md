@@ -1,11 +1,12 @@
 ---
-title: "Efficient Arithmetic-and-Comparison Homomorphic Encryption with Space Switching"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.19890
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19890
 next_step: skim
+priority: low
+slack_ts: '1777087201.323849'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Efficient Arithmetic-and-Comparison Homomorphic Encryption with Space Switching
 ---
 # Efficient Arithmetic-and-Comparison Homomorphic Encryption with Space Switching
 > 原文: [https://arxiv.org/abs/2604.19890](https://arxiv.org/abs/2604.19890)

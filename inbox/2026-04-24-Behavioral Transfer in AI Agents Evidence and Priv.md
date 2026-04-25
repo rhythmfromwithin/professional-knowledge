@@ -1,11 +1,12 @@
 ---
-title: "Behavioral Transfer in AI Agents: Evidence and Privacy Implications"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.19925
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19925
 next_step: skim
+priority: low
+slack_ts: '1777087197.895079'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Behavioral Transfer in AI Agents: Evidence and Privacy Implications'
 ---
 # Behavioral Transfer in AI Agents: Evidence and Privacy Implications
 > 原文: [https://arxiv.org/abs/2604.19925](https://arxiv.org/abs/2604.19925)

@@ -1,11 +1,13 @@
 ---
-title: "KD-Judge: A Knowledge-Driven Automated Judge Framework for Functional Fitness Movements on Edge Devices"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.19834
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19834
 next_step: skim
+priority: medium
+slack_ts: '1777087204.426979'
+source: cs.CV - Computer Vision
+status: unread
+title: 'KD-Judge: A Knowledge-Driven Automated Judge Framework for Functional Fitness
+  Movements on Edge Devices'
 ---
 # KD-Judge: A Knowledge-Driven Automated Judge Framework for Functional Fitness Movements on Edge Devices
 > 原文: [https://arxiv.org/abs/2604.19834](https://arxiv.org/abs/2604.19834)

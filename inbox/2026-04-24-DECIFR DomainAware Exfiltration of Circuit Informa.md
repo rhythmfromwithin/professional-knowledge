@@ -1,11 +1,13 @@
 ---
-title: "DECIFR: Domain-Aware Exfiltration of Circuit Information from Federated Gradient Reconstruction"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.19915
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19915
 next_step: skim
+priority: low
+slack_ts: '1777087200.154929'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'DECIFR: Domain-Aware Exfiltration of Circuit Information from Federated Gradient
+  Reconstruction'
 ---
 # DECIFR: Domain-Aware Exfiltration of Circuit Information from Federated Gradient Reconstruction
 > 原文: [https://arxiv.org/abs/2604.19915](https://arxiv.org/abs/2604.19915)

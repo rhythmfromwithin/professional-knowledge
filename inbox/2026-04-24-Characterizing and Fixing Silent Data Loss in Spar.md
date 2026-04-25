@@ -1,11 +1,13 @@
 ---
-title: "Characterizing and Fixing Silent Data Loss in Spark-on-AWS-Lambda with Open Table Formats"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.20081
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20081
 next_step: skim
+priority: medium
+slack_ts: '1777087199.495209'
+source: cs.DC - Distributed Computing
+status: unread
+title: Characterizing and Fixing Silent Data Loss in Spark-on-AWS-Lambda with Open
+  Table Formats
 ---
 # Characterizing and Fixing Silent Data Loss in Spark-on-AWS-Lambda with Open Table Formats
 > 原文: [https://arxiv.org/abs/2604.20081](https://arxiv.org/abs/2604.20081)

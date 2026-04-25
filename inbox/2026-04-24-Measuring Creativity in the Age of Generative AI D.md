@@ -1,11 +1,13 @@
 ---
-title: "Measuring Creativity in the Age of Generative AI: Distinguishing Human and AI-Generated Creative Performance in Hiring and Talent Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.19799
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19799
 next_step: skim
+priority: low
+slack_ts: '1777087205.096359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Measuring Creativity in the Age of Generative AI: Distinguishing Human and
+  AI-Generated Creative Performance in Hiring and Talent Systems'
 ---
 # Measuring Creativity in the Age of Generative AI: Distinguishing Human and AI-Generated Creative Performance in Hiring and Talent Systems
 > 原文: [https://arxiv.org/abs/2604.19799](https://arxiv.org/abs/2604.19799)
