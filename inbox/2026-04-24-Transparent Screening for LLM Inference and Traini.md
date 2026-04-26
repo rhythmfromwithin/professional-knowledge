@@ -1,11 +1,12 @@
 ---
-title: "Transparent Screening for LLM Inference and Training Impacts"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.19757
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19757
 next_step: skim
+priority: high
+slack_ts: '1777174926.513039'
+source: cs.LG - Machine Learning
+status: unread
+title: Transparent Screening for LLM Inference and Training Impacts
 ---
 # Transparent Screening for LLM Inference and Training Impacts
 > 原文: [https://arxiv.org/abs/2604.19757](https://arxiv.org/abs/2604.19757)

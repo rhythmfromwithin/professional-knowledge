@@ -1,11 +1,12 @@
 ---
-title: "Linear Image Generation by Synthesizing Exposure Brackets"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.21008
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21008
 next_step: skim
+priority: medium
+slack_ts: '1777174932.949409'
+source: cs.CV - Computer Vision
+status: unread
+title: Linear Image Generation by Synthesizing Exposure Brackets
 ---
 # Linear Image Generation by Synthesizing Exposure Brackets
 > 原文: [https://arxiv.org/abs/2604.21008](https://arxiv.org/abs/2604.21008)

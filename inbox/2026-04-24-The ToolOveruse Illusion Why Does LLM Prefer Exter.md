@@ -1,11 +1,13 @@
 ---
-title: "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.19749
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19749
 next_step: skim
+priority: high
+slack_ts: '1777174926.369769'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal
+  Knowledge?'
 ---
 # The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?
 > 原文: [https://arxiv.org/abs/2604.19749](https://arxiv.org/abs/2604.19749)

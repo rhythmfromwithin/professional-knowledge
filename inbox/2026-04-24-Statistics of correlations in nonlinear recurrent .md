@@ -1,11 +1,12 @@
 ---
-title: "Statistics of correlations in nonlinear recurrent neural networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2510.21742
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2510.21742
 next_step: skim
+priority: low
+slack_ts: '1777174926.233699'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Statistics of correlations in nonlinear recurrent neural networks
 ---
 # Statistics of correlations in nonlinear recurrent neural networks
 > 原文: [https://arxiv.org/abs/2510.21742](https://arxiv.org/abs/2510.21742)

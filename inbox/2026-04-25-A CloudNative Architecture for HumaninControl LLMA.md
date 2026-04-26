@@ -1,11 +1,13 @@
 ---
-title: "A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.21125
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21125
 next_step: skim
+priority: medium
+slack_ts: '1777174927.015609'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in
+  Investigative Settings
 ---
 # A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings
 > 原文: [https://arxiv.org/abs/2604.21125](https://arxiv.org/abs/2604.21125)

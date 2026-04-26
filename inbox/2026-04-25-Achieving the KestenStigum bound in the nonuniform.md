@@ -1,11 +1,13 @@
 ---
-title: "Achieving the Kesten-Stigum bound in the non-uniform hypergraph stochastic block model"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.20907
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20907
 next_step: skim
+priority: medium
+slack_ts: '1777174928.067599'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Achieving the Kesten-Stigum bound in the non-uniform hypergraph stochastic
+  block model
 ---
 # Achieving the Kesten-Stigum bound in the non-uniform hypergraph stochastic block model
 > 原文: [https://arxiv.org/abs/2604.20907](https://arxiv.org/abs/2604.20907)

@@ -1,11 +1,13 @@
 ---
-title: "Do Masked Autoencoders Improve Downhole Prediction? An Empirical Study on Real Well Drilling Data"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.20909
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20909
 next_step: skim
+priority: high
+slack_ts: '1777174931.055409'
+source: cs.LG - Machine Learning
+status: unread
+title: Do Masked Autoencoders Improve Downhole Prediction? An Empirical Study on Real
+  Well Drilling Data
 ---
 # Do Masked Autoencoders Improve Downhole Prediction? An Empirical Study on Real Well Drilling Data
 > 原文: [https://arxiv.org/abs/2604.20909](https://arxiv.org/abs/2604.20909)

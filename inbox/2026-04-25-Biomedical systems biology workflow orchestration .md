@@ -1,11 +1,12 @@
 ---
-title: "Biomedical systems biology workflow orchestration and execution with PoSyMed"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.20906
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20906
 next_step: skim
+priority: low
+slack_ts: '1777174929.476569'
+source: cs.SE - Software Engineering
+status: unread
+title: Biomedical systems biology workflow orchestration and execution with PoSyMed
 ---
 # Biomedical systems biology workflow orchestration and execution with PoSyMed
 > 原文: [https://arxiv.org/abs/2604.20906](https://arxiv.org/abs/2604.20906)

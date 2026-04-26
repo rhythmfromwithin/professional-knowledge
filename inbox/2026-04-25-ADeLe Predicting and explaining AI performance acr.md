@@ -1,11 +1,12 @@
 ---
-title: "ADeLe: Predicting and explaining AI performance across tasks"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/
 next_step: skim
+priority: high
+slack_ts: '1777174927.261399'
+source: Microsoft Research
+status: unread
+title: 'ADeLe: Predicting and explaining AI performance across tasks'
 ---
 # ADeLe: Predicting and explaining AI performance across tasks
 > 原文: [https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/)

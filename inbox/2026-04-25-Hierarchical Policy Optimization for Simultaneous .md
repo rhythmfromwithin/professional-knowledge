@@ -1,11 +1,13 @@
 ---
-title: "Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.21045
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21045
 next_step: skim
+priority: high
+slack_ts: '1777174932.047159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Hierarchical Policy Optimization for Simultaneous Translation of Unbounded
+  Speech
 ---
 # Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech
 > 原文: [https://arxiv.org/abs/2604.21045](https://arxiv.org/abs/2604.21045)

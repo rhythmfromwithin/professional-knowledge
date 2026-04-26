@@ -1,11 +1,12 @@
 ---
-title: "Algorithm Selection with Zero Domain Knowledge via Text Embeddings"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.19753
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19753
 next_step: skim
+priority: high
+slack_ts: '1777174928.327639'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Algorithm Selection with Zero Domain Knowledge via Text Embeddings
 ---
 # Algorithm Selection with Zero Domain Knowledge via Text Embeddings
 > 原文: [https://arxiv.org/abs/2604.19753](https://arxiv.org/abs/2604.19753)

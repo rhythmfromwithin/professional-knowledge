@@ -1,11 +1,12 @@
 ---
-title: "An Alternate Agentic AI Architecture (It's About the Data)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.21413
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21413
 next_step: skim
+priority: low
+slack_ts: '1777174928.583719'
+source: cs.DB - Databases
+status: unread
+title: An Alternate Agentic AI Architecture (It's About the Data)
 ---
 # An Alternate Agentic AI Architecture (It's About the Data)
 > 原文: [https://arxiv.org/abs/2604.21413](https://arxiv.org/abs/2604.21413)

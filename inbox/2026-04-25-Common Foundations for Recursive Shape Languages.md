@@ -1,11 +1,12 @@
 ---
-title: "Common Foundations for Recursive Shape Languages"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.20946
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20946
 next_step: skim
+priority: low
+slack_ts: '1777174930.335989'
+source: cs.DB - Databases
+status: unread
+title: Common Foundations for Recursive Shape Languages
 ---
 # Common Foundations for Recursive Shape Languages
 > 原文: [https://arxiv.org/abs/2604.20946](https://arxiv.org/abs/2604.20946)

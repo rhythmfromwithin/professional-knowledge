@@ -1,11 +1,13 @@
 ---
-title: "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.19756
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19756
 next_step: skim
+priority: high
+slack_ts: '1777174926.768319'
+source: cs.LG - Machine Learning
+status: unread
+title: WorkflowGen:an adaptive workflow generation mechanism driven by trajectory
+  experience
 ---
 # WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience
 > 原文: [https://arxiv.org/abs/2604.19756](https://arxiv.org/abs/2604.19756)

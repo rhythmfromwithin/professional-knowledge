@@ -1,11 +1,13 @@
 ---
-title: "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.19751
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.19751
 next_step: skim
+priority: high
+slack_ts: '1777174927.567049'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity
+  Rubric for Opaque AI in Learning-Intensive Domains'
 ---
 # AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains
 > 原文: [https://arxiv.org/abs/2604.19751](https://arxiv.org/abs/2604.19751)

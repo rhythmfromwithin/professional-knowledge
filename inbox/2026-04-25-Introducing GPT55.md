@@ -1,11 +1,12 @@
 ---
-title: "Introducing GPT-5.5"
-source: "OpenAI Blog"
-link: https://openai.com/index/introducing-gpt-5-5
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/introducing-gpt-5-5
 next_step: skim
+priority: high
+slack_ts: '1777174932.680889'
+source: OpenAI Blog
+status: unread
+title: Introducing GPT-5.5
 ---
 # Introducing GPT-5.5
 > 原文: [https://openai.com/index/introducing-gpt-5-5](https://openai.com/index/introducing-gpt-5-5)

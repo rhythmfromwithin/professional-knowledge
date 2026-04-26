@@ -1,11 +1,13 @@
 ---
-title: "AI Governance under Political Turnover: The Alignment Surface of Compliance Design"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.21103
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21103
 next_step: skim
+priority: low
+slack_ts: '1777174927.441689'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'AI Governance under Political Turnover: The Alignment Surface of Compliance
+  Design'
 ---
 # AI Governance under Political Turnover: The Alignment Surface of Compliance Design
 > 原文: [https://arxiv.org/abs/2604.21103](https://arxiv.org/abs/2604.21103)

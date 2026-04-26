@@ -1,11 +1,12 @@
 ---
-title: "Ideological Bias in LLMs' Economic Causal Reasoning"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.21334
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21334
 next_step: skim
+priority: low
+slack_ts: '1777174932.311239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Ideological Bias in LLMs' Economic Causal Reasoning
 ---
 # Ideological Bias in LLMs' Economic Causal Reasoning
 > 原文: [https://arxiv.org/abs/2604.21334](https://arxiv.org/abs/2604.21334)

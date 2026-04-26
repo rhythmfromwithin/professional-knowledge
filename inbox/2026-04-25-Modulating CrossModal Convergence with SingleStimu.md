@@ -1,11 +1,12 @@
 ---
-title: "Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.21836
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21836
 next_step: skim
+priority: low
+slack_ts: '1777174933.319259'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion
 ---
 # Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion
 > 原文: [https://arxiv.org/abs/2604.21836](https://arxiv.org/abs/2604.21836)

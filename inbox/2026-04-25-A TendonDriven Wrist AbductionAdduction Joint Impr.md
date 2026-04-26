@@ -1,11 +1,13 @@
 ---
-title: "A Tendon-Driven Wrist Abduction-Adduction Joint Improves Performance of a 5 DoF Upper Limb Exoskeleton -- Implementation and Experimental Evaluation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.20898
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20898
 next_step: skim
+priority: medium
+slack_ts: '1777174927.139079'
+source: cs.RO - Robotics
+status: unread
+title: A Tendon-Driven Wrist Abduction-Adduction Joint Improves Performance of a 5
+  DoF Upper Limb Exoskeleton -- Implementation and Experimental Evaluation
 ---
 # A Tendon-Driven Wrist Abduction-Adduction Joint Improves Performance of a 5 DoF Upper Limb Exoskeleton -- Implementation and Experimental Evaluation
 > 原文: [https://arxiv.org/abs/2604.20898](https://arxiv.org/abs/2604.20898)

@@ -1,11 +1,12 @@
 ---
-title: "Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.21011
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21011
 next_step: skim
+priority: medium
+slack_ts: '1777174933.070899'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition'
 ---
 # Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition
 > 原文: [https://arxiv.org/abs/2604.21011](https://arxiv.org/abs/2604.21011)

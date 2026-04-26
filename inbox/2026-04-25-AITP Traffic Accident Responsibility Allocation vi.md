@@ -1,11 +1,13 @@
 ---
-title: "AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.20878
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20878
 next_step: skim
+priority: high
+slack_ts: '1777174927.689109'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language
+  Models'
 ---
 # AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models
 > 原文: [https://arxiv.org/abs/2604.20878](https://arxiv.org/abs/2604.20878)

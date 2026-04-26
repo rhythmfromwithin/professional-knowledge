@@ -1,11 +1,13 @@
 ---
-title: "Clinical Evaluation of a Tongue-Controlled Wrist Abduction-Adduction Assistance in a 6-DoF Upper-Limb Exoskeleton for Individuals with ALS and SCI"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.20967
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20967
 next_step: skim
+priority: medium
+slack_ts: '1777174930.205909'
+source: cs.RO - Robotics
+status: unread
+title: Clinical Evaluation of a Tongue-Controlled Wrist Abduction-Adduction Assistance
+  in a 6-DoF Upper-Limb Exoskeleton for Individuals with ALS and SCI
 ---
 # Clinical Evaluation of a Tongue-Controlled Wrist Abduction-Adduction Assistance in a 6-DoF Upper-Limb Exoskeleton for Individuals with ALS and SCI
 > 原文: [https://arxiv.org/abs/2604.20967](https://arxiv.org/abs/2604.20967)

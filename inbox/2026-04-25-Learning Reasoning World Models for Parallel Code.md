@@ -1,11 +1,12 @@
 ---
-title: "Learning Reasoning World Models for Parallel Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.20926
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20926
 next_step: skim
+priority: low
+slack_ts: '1777174932.818849'
+source: cs.SE - Software Engineering
+status: unread
+title: Learning Reasoning World Models for Parallel Code
 ---
 # Learning Reasoning World Models for Parallel Code
 > 原文: [https://arxiv.org/abs/2604.20926](https://arxiv.org/abs/2604.20926)

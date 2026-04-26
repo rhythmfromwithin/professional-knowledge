@@ -1,11 +1,12 @@
 ---
-title: "Demand Curvature and Pass-Through in Differentiated Oligopoly"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.21423
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21423
 next_step: skim
+priority: low
+slack_ts: '1777174930.794359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Demand Curvature and Pass-Through in Differentiated Oligopoly
 ---
 # Demand Curvature and Pass-Through in Differentiated Oligopoly
 > 原文: [https://arxiv.org/abs/2604.21423](https://arxiv.org/abs/2604.21423)

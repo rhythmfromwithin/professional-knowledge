@@ -1,11 +1,12 @@
 ---
-title: "Hierarchical organization of critical brain dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.21832
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21832
 next_step: skim
+priority: low
+slack_ts: '1777174932.172759'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Hierarchical organization of critical brain dynamics
 ---
 # Hierarchical organization of critical brain dynamics
 > 原文: [https://arxiv.org/abs/2604.21832](https://arxiv.org/abs/2604.21832)

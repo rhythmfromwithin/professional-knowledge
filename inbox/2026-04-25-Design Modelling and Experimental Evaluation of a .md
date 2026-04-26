@@ -1,11 +1,13 @@
 ---
-title: "Design, Modelling and Experimental Evaluation of a Tendon-driven Wrist Abduction-Adduction Mechanism for an upper limb exoskeleton"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.20893
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20893
 next_step: skim
+priority: medium
+slack_ts: '1777174930.917719'
+source: cs.RO - Robotics
+status: unread
+title: Design, Modelling and Experimental Evaluation of a Tendon-driven Wrist Abduction-Adduction
+  Mechanism for an upper limb exoskeleton
 ---
 # Design, Modelling and Experimental Evaluation of a Tendon-driven Wrist Abduction-Adduction Mechanism for an upper limb exoskeleton
 > 原文: [https://arxiv.org/abs/2604.20893](https://arxiv.org/abs/2604.20893)
