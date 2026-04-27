@@ -1,11 +1,12 @@
 ---
-title: "SQLyzr: A Comprehensive Benchmark and Evaluation Platform for Text-to-SQL"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.21214
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21214
 next_step: skim
+priority: low
+slack_ts: '1777261681.113449'
+source: cs.DB - Databases
+status: unread
+title: 'SQLyzr: A Comprehensive Benchmark and Evaluation Platform for Text-to-SQL'
 ---
 # SQLyzr: A Comprehensive Benchmark and Evaluation Platform for Text-to-SQL
 > 原文: [https://arxiv.org/abs/2604.21214](https://arxiv.org/abs/2604.21214)

@@ -1,11 +1,12 @@
 ---
-title: "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.20987
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20987
 next_step: skim
+priority: high
+slack_ts: '1777261685.349969'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
 ---
 # Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
 > 原文: [https://arxiv.org/abs/2604.20987](https://arxiv.org/abs/2604.20987)

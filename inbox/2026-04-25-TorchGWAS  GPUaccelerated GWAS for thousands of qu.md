@@ -1,11 +1,12 @@
 ---
-title: "TorchGWAS : GPU-accelerated GWAS for thousands of quantitative phenotypes"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.21095
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21095
 next_step: skim
+priority: medium
+slack_ts: '1777261681.951049'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TorchGWAS : GPU-accelerated GWAS for thousands of quantitative phenotypes'
 ---
 # TorchGWAS : GPU-accelerated GWAS for thousands of quantitative phenotypes
 > 原文: [https://arxiv.org/abs/2604.21095](https://arxiv.org/abs/2604.21095)

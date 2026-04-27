@@ -1,11 +1,12 @@
 ---
-title: "Reinforcing privacy reasoning in LLMs via normative simulacra from fiction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.20904
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20904
 next_step: skim
+priority: high
+slack_ts: '1777261680.710299'
+source: cs.LG - Machine Learning
+status: unread
+title: Reinforcing privacy reasoning in LLMs via normative simulacra from fiction
 ---
 # Reinforcing privacy reasoning in LLMs via normative simulacra from fiction
 > 原文: [https://arxiv.org/abs/2604.20904](https://arxiv.org/abs/2604.20904)

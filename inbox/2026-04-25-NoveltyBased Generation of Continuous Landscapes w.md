@@ -1,11 +1,13 @@
 ---
-title: "Novelty-Based Generation of Continuous Landscapes with Diverse Local Optima Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.21468
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21468
 next_step: skim
+priority: low
+slack_ts: '1777261679.179079'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Novelty-Based Generation of Continuous Landscapes with Diverse Local Optima
+  Networks
 ---
 # Novelty-Based Generation of Continuous Landscapes with Diverse Local Optima Networks
 > 原文: [https://arxiv.org/abs/2604.21468](https://arxiv.org/abs/2604.21468)

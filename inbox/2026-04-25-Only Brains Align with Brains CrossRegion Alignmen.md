@@ -1,11 +1,13 @@
 ---
-title: "Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits of Normative Models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.21780
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21780
 next_step: skim
+priority: low
+slack_ts: '1777261679.563899'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits
+  of Normative Models'
 ---
 # Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits of Normative Models
 > 原文: [https://arxiv.org/abs/2604.21780](https://arxiv.org/abs/2604.21780)

@@ -1,11 +1,12 @@
 ---
-title: "Votiverse: A Configurable Governance Platform for Democratic Decision-Making"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.20863
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20863
 next_step: skim
+priority: medium
+slack_ts: '1777261682.261969'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Votiverse: A Configurable Governance Platform for Democratic Decision-Making'
 ---
 # Votiverse: A Configurable Governance Platform for Democratic Decision-Making
 > 原文: [https://arxiv.org/abs/2604.20863](https://arxiv.org/abs/2604.20863)

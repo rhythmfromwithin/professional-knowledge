@@ -1,11 +1,13 @@
 ---
-title: "Towards a Systematic Risk Assessment of Deep Neural Network Limitations in Autonomous Driving Perception"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.20895
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20895
 next_step: skim
+priority: low
+slack_ts: '1777261688.914259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Towards a Systematic Risk Assessment of Deep Neural Network Limitations in
+  Autonomous Driving Perception
 ---
 # Towards a Systematic Risk Assessment of Deep Neural Network Limitations in Autonomous Driving Perception
 > 原文: [https://arxiv.org/abs/2604.20895](https://arxiv.org/abs/2604.20895)

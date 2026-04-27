@@ -1,11 +1,13 @@
 ---
-title: "User-Centered Design of Hyperlocal Communication Platforms: Insights from the Design and Evaluation of KUBO"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.20973
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20973
 next_step: skim
+priority: low
+slack_ts: '1777261682.106499'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'User-Centered Design of Hyperlocal Communication Platforms: Insights from
+  the Design and Evaluation of KUBO'
 ---
 # User-Centered Design of Hyperlocal Communication Platforms: Insights from the Design and Evaluation of KUBO
 > 原文: [https://arxiv.org/abs/2604.20973](https://arxiv.org/abs/2604.20973)

@@ -1,11 +1,13 @@
 ---
-title: "Thinking Like a Botanist: Challenging Multimodal Language Models with Intent-Driven Chain-of-Inquiry"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.20983
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20983
 next_step: skim
+priority: medium
+slack_ts: '1777261681.793059'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Thinking Like a Botanist: Challenging Multimodal Language Models with Intent-Driven
+  Chain-of-Inquiry'
 ---
 # Thinking Like a Botanist: Challenging Multimodal Language Models with Intent-Driven Chain-of-Inquiry
 > 原文: [https://arxiv.org/abs/2604.20983](https://arxiv.org/abs/2604.20983)

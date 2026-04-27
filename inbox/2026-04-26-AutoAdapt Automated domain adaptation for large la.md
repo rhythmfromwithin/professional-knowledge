@@ -1,11 +1,12 @@
 ---
-title: "AutoAdapt: Automated domain adaptation for large language models"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
 next_step: skim
+priority: high
+slack_ts: '1777261684.266089'
+source: Microsoft Research
+status: unread
+title: 'AutoAdapt: Automated domain adaptation for large language models'
 ---
 # AutoAdapt: Automated domain adaptation for large language models
 > 原文: [https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/)

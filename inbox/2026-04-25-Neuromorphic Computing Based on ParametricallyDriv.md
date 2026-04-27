@@ -1,11 +1,13 @@
 ---
-title: "Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.21861
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21861
 next_step: skim
+priority: low
+slack_ts: '1777261678.861529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency
+  Combs
 ---
 # Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs
 > 原文: [https://arxiv.org/abs/2604.21861](https://arxiv.org/abs/2604.21861)

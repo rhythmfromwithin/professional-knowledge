@@ -1,11 +1,13 @@
 ---
-title: "Residual Risk Analysis in Benign Code: How Far Are We? A Multi-Model Semantic and Structural Similarity Approach"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.21051
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21051
 next_step: skim
+priority: low
+slack_ts: '1777261680.935569'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Residual Risk Analysis in Benign Code: How Far Are We? A Multi-Model Semantic
+  and Structural Similarity Approach'
 ---
 # Residual Risk Analysis in Benign Code: How Far Are We? A Multi-Model Semantic and Structural Similarity Approach
 > 原文: [https://arxiv.org/abs/2604.21051](https://arxiv.org/abs/2604.21051)

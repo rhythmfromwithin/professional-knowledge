@@ -1,11 +1,13 @@
 ---
-title: "Sibling Rivalry in the Ivory Tower: Mass Science, Expanding Scholarly Families, and the Reshaping of Academic Stratification"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.20864
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20864
 next_step: skim
+priority: medium
+slack_ts: '1777261681.478119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Sibling Rivalry in the Ivory Tower: Mass Science, Expanding Scholarly Families,
+  and the Reshaping of Academic Stratification'
 ---
 # Sibling Rivalry in the Ivory Tower: Mass Science, Expanding Scholarly Families, and the Reshaping of Academic Stratification
 > 原文: [https://arxiv.org/abs/2604.20864](https://arxiv.org/abs/2604.20864)

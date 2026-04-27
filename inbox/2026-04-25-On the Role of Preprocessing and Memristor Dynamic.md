@@ -1,11 +1,13 @@
 ---
-title: "On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing for Image Classification"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.21602
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21602
 next_step: skim
+priority: low
+slack_ts: '1777261679.375819'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing
+  for Image Classification
 ---
 # On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing for Image Classification
 > 原文: [https://arxiv.org/abs/2604.21602](https://arxiv.org/abs/2604.21602)

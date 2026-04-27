@@ -1,11 +1,13 @@
 ---
-title: "White Paper: Human-AI Collaboration in Conflict Analysis: Text Classifier Development with Peacebuilders"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.21034
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21034
 next_step: skim
+priority: low
+slack_ts: '1777261682.439629'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'White Paper: Human-AI Collaboration in Conflict Analysis: Text Classifier
+  Development with Peacebuilders'
 ---
 # White Paper: Human-AI Collaboration in Conflict Analysis: Text Classifier Development with Peacebuilders
 > 原文: [https://arxiv.org/abs/2604.21034](https://arxiv.org/abs/2604.21034)

@@ -1,11 +1,13 @@
 ---
-title: "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.20862
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20862
 next_step: skim
+priority: high
+slack_ts: '1777261684.090269'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Architecture of an AI-Based Automated Course of Action Generation System for
+  Military Operations
 ---
 # Architecture of an AI-Based Automated Course of Action Generation System for Military Operations
 > 原文: [https://arxiv.org/abs/2604.20862](https://arxiv.org/abs/2604.20862)

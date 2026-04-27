@@ -1,11 +1,13 @@
 ---
-title: "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.20972
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.20972
 next_step: skim
+priority: high
+slack_ts: '1777261685.970339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed
+  AI'
 ---
 # Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI
 > 原文: [https://arxiv.org/abs/2604.20972](https://arxiv.org/abs/2604.20972)

@@ -1,11 +1,12 @@
 ---
-title: "Building Workforce AI Agents with Visier and Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1777261684.598209'
+source: AWS Blog
+status: unread
+title: Building Workforce AI Agents with Visier and Amazon Quick
 ---
 # Building Workforce AI Agents with Visier and Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/)
