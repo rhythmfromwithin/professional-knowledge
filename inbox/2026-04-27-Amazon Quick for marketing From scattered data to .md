@@ -1,11 +1,12 @@
 ---
-title: "Amazon Quick for marketing: From scattered data to strategic action"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/
 next_step: skim
+priority: high
+slack_ts: '1777348350.328399'
+source: AWS Blog
+status: unread
+title: 'Amazon Quick for marketing: From scattered data to strategic action'
 ---
 # Amazon Quick for marketing: From scattered data to strategic action
 > 原文: [https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/](https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/)

@@ -1,11 +1,12 @@
 ---
-title: "Adding Canada Back to Our List of Accepted Countries of Incorporation"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/adding-canada-back/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/adding-canada-back/
 next_step: skim
+priority: high
+slack_ts: '1777348350.197749'
+source: Y Combinator
+status: unread
+title: Adding Canada Back to Our List of Accepted Countries of Incorporation
 ---
 # Adding Canada Back to Our List of Accepted Countries of Incorporation
 > 原文: [https://www.ycombinator.com/blog/adding-canada-back/](https://www.ycombinator.com/blog/adding-canada-back/)

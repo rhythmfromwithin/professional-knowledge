@@ -1,0 +1,14 @@
+---
+title: "L-System Genetic Encoding for Scalable Neural Network Evolution: A Comparison with Direct Matrix Encoding"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2604.22000
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# L-System Genetic Encoding for Scalable Neural Network Evolution: A Comparison with Direct Matrix Encoding
+> 原文: [https://arxiv.org/abs/2604.22000](https://arxiv.org/abs/2604.22000)
+
+arXiv:2604.22000v1 Announce Type: new
+Abstract: An artificial world of barriers and plains scattered with food is used to test the feasibility of using genetic algorithms to optimize hebbian neural networks to perform on problems without apriori knowledge of the problem domain. A formal L-System based genetic alphabet for neural networks, titled Lsys, and a neural network genetic modeling tool titled Wp1hgn are introduced. Lsys and Matrix neural network topology genetic encoding methods are compared across 24 experimental runs. Lsys encoding achieved a mean maximum food count of 3802 +- 197 at generation 1000 across 8 runs with varied parameters, compared to 1388 +- 610 for Matrix encoding, a 2.74x performance advantage with an 8.5-fold improvement in consistency as measured by coefficient of variation (5.2% vs 44.0%). All 8 Lsys populations successfully learned to navigate the environment, while 4 of 8 Matrix populations failed to achieve competitive performance at any point during 1000 generations. When transferred to a novel maze environment, Lsys populations demonstrated immediate robust generalization, achieving a mean maximum food count of 2455 +- 176 compared to 422 +- 212 for Matrix populations, a 5.82x advantage that exceeded the training world performance gap. A MatrixLSG control condition, in which initial populations were generated using Lsys genotypes and then evolved using Matrix operators, demonstrated that the performance advantage of Lsys encoding derives primarily from the genetic algorithm operating on the compressed symbolic Lsys alphabet throughout evolution rather than from initial population structure. Lsys encoding is shown to provide faster convergence, higher peak performance, dramatically greater reliability, and superior generalization to novel environments compared to Matrix encoding across all experimental conditions tested.
