@@ -1,11 +1,13 @@
 ---
-title: "Testing for Spillovers in Resource Conservation: Evidence from a Natural Field Experiment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2508.04371
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2508.04371
 next_step: skim
+priority: low
+slack_ts: '1777434586.915169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Testing for Spillovers in Resource Conservation: Evidence from a Natural Field
+  Experiment'
 ---
 # Testing for Spillovers in Resource Conservation: Evidence from a Natural Field Experiment
 > 原文: [https://arxiv.org/abs/2508.04371](https://arxiv.org/abs/2508.04371)

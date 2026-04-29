@@ -1,11 +1,13 @@
 ---
-title: "EgoMAGIC- An Egocentric Video Field Medicine Dataset for Training Perception Algorithms"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.22036
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22036
 next_step: skim
+priority: medium
+slack_ts: '1777434575.603499'
+source: cs.CV - Computer Vision
+status: unread
+title: EgoMAGIC- An Egocentric Video Field Medicine Dataset for Training Perception
+  Algorithms
 ---
 # EgoMAGIC- An Egocentric Video Field Medicine Dataset for Training Perception Algorithms
 > 原文: [https://arxiv.org/abs/2604.22036](https://arxiv.org/abs/2604.22036)

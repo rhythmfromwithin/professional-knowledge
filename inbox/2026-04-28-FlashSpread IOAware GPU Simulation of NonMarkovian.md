@@ -1,11 +1,13 @@
 ---
-title: "FlashSpread: IO-Aware GPU Simulation of Non-Markovian Epidemic Dynamics via Kernel Fusion"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.22092
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22092
 next_step: skim
+priority: medium
+slack_ts: '1777434576.095409'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'FlashSpread: IO-Aware GPU Simulation of Non-Markovian Epidemic Dynamics via
+  Kernel Fusion'
 ---
 # FlashSpread: IO-Aware GPU Simulation of Non-Markovian Epidemic Dynamics via Kernel Fusion
 > 原文: [https://arxiv.org/abs/2604.22092](https://arxiv.org/abs/2604.22092)

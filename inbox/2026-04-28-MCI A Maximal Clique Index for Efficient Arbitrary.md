@@ -1,11 +1,13 @@
 ---
-title: "MCI: A Maximal Clique Index for Efficient Arbitrary-Filtered Approximate Nearest Neighbor Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.22171
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22171
 next_step: skim
+priority: low
+slack_ts: '1777434579.683189'
+source: cs.DB - Databases
+status: unread
+title: 'MCI: A Maximal Clique Index for Efficient Arbitrary-Filtered Approximate Nearest
+  Neighbor Search'
 ---
 # MCI: A Maximal Clique Index for Efficient Arbitrary-Filtered Approximate Nearest Neighbor Search
 > 原文: [https://arxiv.org/abs/2604.22171](https://arxiv.org/abs/2604.22171)

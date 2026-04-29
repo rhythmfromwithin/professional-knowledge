@@ -1,11 +1,12 @@
 ---
-title: "Pliable rejection sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.22385
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22385
 next_step: skim
+priority: medium
+slack_ts: '1777434582.631909'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Pliable rejection sampling
 ---
 # Pliable rejection sampling
 > 原文: [https://arxiv.org/abs/2604.22385](https://arxiv.org/abs/2604.22385)

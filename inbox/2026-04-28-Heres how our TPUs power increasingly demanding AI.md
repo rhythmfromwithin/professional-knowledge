@@ -1,11 +1,12 @@
 ---
-title: "Here’s how our TPUs power increasingly demanding AI workloads."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/
 next_step: skim
+priority: high
+slack_ts: '1777434577.890849'
+source: Google AI Blog
+status: unread
+title: Here’s how our TPUs power increasingly demanding AI workloads.
 ---
 # Here’s how our TPUs power increasingly demanding AI workloads.
 > 原文: [https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/)

@@ -1,11 +1,13 @@
 ---
-title: "Clear Messages, Ambiguous Audiences: Measuring Interpretability in Political Communication"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2601.20912
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2601.20912
 next_step: skim
+priority: low
+slack_ts: '1777434573.813169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Clear Messages, Ambiguous Audiences: Measuring Interpretability in Political
+  Communication'
 ---
 # Clear Messages, Ambiguous Audiences: Measuring Interpretability in Political Communication
 > 原文: [https://arxiv.org/abs/2601.20912](https://arxiv.org/abs/2601.20912)

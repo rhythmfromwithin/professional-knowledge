@@ -1,11 +1,12 @@
 ---
-title: "Shared Lexical Task Representations Explain Behavioral Variability In LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.22027
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22027
 next_step: skim
+priority: high
+slack_ts: '1777434585.094629'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Shared Lexical Task Representations Explain Behavioral Variability In LLMs
 ---
 # Shared Lexical Task Representations Explain Behavioral Variability In LLMs
 > 原文: [https://arxiv.org/abs/2604.22027](https://arxiv.org/abs/2604.22027)

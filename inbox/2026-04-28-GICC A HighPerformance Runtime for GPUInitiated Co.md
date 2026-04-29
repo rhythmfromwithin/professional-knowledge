@@ -1,11 +1,13 @@
 ---
-title: "GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.22126
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22126
 next_step: skim
+priority: medium
+slack_ts: '1777434577.412549'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination
+  in Modern HPC Systems'
 ---
 # GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems
 > 原文: [https://arxiv.org/abs/2604.22126](https://arxiv.org/abs/2604.22126)

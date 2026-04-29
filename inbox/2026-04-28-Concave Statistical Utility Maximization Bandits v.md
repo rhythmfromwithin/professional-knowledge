@@ -1,11 +1,12 @@
 ---
-title: "Concave Statistical Utility Maximization Bandits via Influence-Function Gradients"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.22140
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22140
 next_step: skim
+priority: medium
+slack_ts: '1777434574.075919'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Concave Statistical Utility Maximization Bandits via Influence-Function Gradients
 ---
 # Concave Statistical Utility Maximization Bandits via Influence-Function Gradients
 > 原文: [https://arxiv.org/abs/2604.22140](https://arxiv.org/abs/2604.22140)

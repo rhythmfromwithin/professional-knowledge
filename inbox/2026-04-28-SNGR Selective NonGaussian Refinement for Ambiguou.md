@@ -1,11 +1,12 @@
 ---
-title: "SNGR: Selective Non-Gaussian Refinement for Ambiguous SLAM Factor Graphs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.22065
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22065
 next_step: skim
+priority: medium
+slack_ts: '1777434584.614509'
+source: cs.RO - Robotics
+status: unread
+title: 'SNGR: Selective Non-Gaussian Refinement for Ambiguous SLAM Factor Graphs'
 ---
 # SNGR: Selective Non-Gaussian Refinement for Ambiguous SLAM Factor Graphs
 > 原文: [https://arxiv.org/abs/2604.22065](https://arxiv.org/abs/2604.22065)

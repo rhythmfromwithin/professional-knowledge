@@ -1,11 +1,13 @@
 ---
-title: "L-System Genetic Encoding for Scalable Neural Network Evolution: A Comparison with Direct Matrix Encoding"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.22000
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22000
 next_step: skim
+priority: low
+slack_ts: '1777434579.142839'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'L-System Genetic Encoding for Scalable Neural Network Evolution: A Comparison
+  with Direct Matrix Encoding'
 ---
 # L-System Genetic Encoding for Scalable Neural Network Evolution: A Comparison with Direct Matrix Encoding
 > 原文: [https://arxiv.org/abs/2604.22000](https://arxiv.org/abs/2604.22000)

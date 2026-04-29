@@ -1,11 +1,12 @@
 ---
-title: "Math Takes Two: A test for emergent mathematical reasoning in communication"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.21935
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21935
 next_step: skim
+priority: high
+slack_ts: '1777434579.934269'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Math Takes Two: A test for emergent mathematical reasoning in communication'
 ---
 # Math Takes Two: A test for emergent mathematical reasoning in communication
 > 原文: [https://arxiv.org/abs/2604.21935](https://arxiv.org/abs/2604.21935)

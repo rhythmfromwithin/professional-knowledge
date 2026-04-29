@@ -1,11 +1,12 @@
 ---
-title: "Lessons from External Review of DeepMind's Scheming Inability Safety Case"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.21964
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21964
 next_step: skim
+priority: medium
+slack_ts: '1777434579.441969'
+source: cs.CY - Computers and Society
+status: unread
+title: Lessons from External Review of DeepMind's Scheming Inability Safety Case
 ---
 # Lessons from External Review of DeepMind's Scheming Inability Safety Case
 > 原文: [https://arxiv.org/abs/2604.21964](https://arxiv.org/abs/2604.21964)

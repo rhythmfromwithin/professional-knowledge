@@ -1,11 +1,12 @@
 ---
-title: "Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.22649
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22649
 next_step: skim
+priority: low
+slack_ts: '1777434586.438009'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction
 ---
 # Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction
 > 原文: [https://arxiv.org/abs/2604.22649](https://arxiv.org/abs/2604.22649)

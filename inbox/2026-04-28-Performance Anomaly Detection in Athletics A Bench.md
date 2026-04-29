@@ -1,11 +1,13 @@
 ---
-title: "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.21953
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21953
 next_step: skim
+priority: high
+slack_ts: '1777434582.391489'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Performance Anomaly Detection in Athletics: A Benchmarking System with Visual
+  Analytics'
 ---
 # Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics
 > 原文: [https://arxiv.org/abs/2604.21953](https://arxiv.org/abs/2604.21953)

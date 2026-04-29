@@ -1,11 +1,13 @@
 ---
-title: "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.21937
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21937
 next_step: skim
+priority: high
+slack_ts: '1777434580.424189'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation,
+  Screening, and Optimization'
 ---
 # MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization
 > 原文: [https://arxiv.org/abs/2604.21937](https://arxiv.org/abs/2604.21937)

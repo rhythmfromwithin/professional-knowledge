@@ -1,11 +1,12 @@
 ---
-title: "The next phase of the Microsoft OpenAI partnership"
-source: "OpenAI Blog"
-link: https://openai.com/index/next-phase-of-microsoft-partnership
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/next-phase-of-microsoft-partnership
 next_step: skim
+priority: high
+slack_ts: '1777434587.396809'
+source: OpenAI Blog
+status: unread
+title: The next phase of the Microsoft OpenAI partnership
 ---
 # The next phase of the Microsoft OpenAI partnership
 > 原文: [https://openai.com/index/next-phase-of-microsoft-partnership](https://openai.com/index/next-phase-of-microsoft-partnership)

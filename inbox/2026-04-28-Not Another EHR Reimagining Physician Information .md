@@ -1,11 +1,13 @@
 ---
-title: "Not Another EHR: Reimagining Physician Information Needs with Generative AI Technology"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.21933
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21933
 next_step: skim
+priority: low
+slack_ts: '1777434580.911669'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Not Another EHR: Reimagining Physician Information Needs with Generative AI
+  Technology'
 ---
 # Not Another EHR: Reimagining Physician Information Needs with Generative AI Technology
 > 原文: [https://arxiv.org/abs/2604.21933](https://arxiv.org/abs/2604.21933)

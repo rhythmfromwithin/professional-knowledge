@@ -1,11 +1,12 @@
 ---
-title: "Wiggle and Go! System Identification for Zero-Shot Dynamic Rope Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.22102
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22102
 next_step: skim
+priority: medium
+slack_ts: '1777434588.138529'
+source: cs.RO - Robotics
+status: unread
+title: Wiggle and Go! System Identification for Zero-Shot Dynamic Rope Manipulation
 ---
 # Wiggle and Go! System Identification for Zero-Shot Dynamic Rope Manipulation
 > 原文: [https://arxiv.org/abs/2604.22102](https://arxiv.org/abs/2604.22102)

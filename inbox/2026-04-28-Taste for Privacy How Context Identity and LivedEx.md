@@ -1,11 +1,13 @@
 ---
-title: "Taste for Privacy: How Context, Identity, and Lived-Experience Shape Information Sharing Preferences"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.22025
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22025
 next_step: skim
+priority: medium
+slack_ts: '1777434586.670689'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Taste for Privacy: How Context, Identity, and Lived-Experience Shape Information
+  Sharing Preferences'
 ---
 # Taste for Privacy: How Context, Identity, and Lived-Experience Shape Information Sharing Preferences
 > 原文: [https://arxiv.org/abs/2604.22025](https://arxiv.org/abs/2604.22025)

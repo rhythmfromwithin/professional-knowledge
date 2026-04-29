@@ -1,11 +1,13 @@
 ---
-title: "When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.22002
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22002
 next_step: skim
+priority: high
+slack_ts: '1777434587.643509'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting
+  Culture-specific Health Misinformation'
 ---
 # When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation
 > 原文: [https://arxiv.org/abs/2604.22002](https://arxiv.org/abs/2604.22002)

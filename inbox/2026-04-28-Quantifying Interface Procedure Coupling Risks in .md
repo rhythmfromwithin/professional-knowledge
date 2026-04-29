@@ -1,11 +1,13 @@
 ---
-title: "Quantifying Interface Procedure Coupling Risks in Digital Nuclear Control Rooms: An Event Based Human Reliability Assessment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.21932
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21932
 next_step: skim
+priority: low
+slack_ts: '1777434583.382329'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Quantifying Interface Procedure Coupling Risks in Digital Nuclear Control
+  Rooms: An Event Based Human Reliability Assessment'
 ---
 # Quantifying Interface Procedure Coupling Risks in Digital Nuclear Control Rooms: An Event Based Human Reliability Assessment
 > 原文: [https://arxiv.org/abs/2604.21932](https://arxiv.org/abs/2604.21932)

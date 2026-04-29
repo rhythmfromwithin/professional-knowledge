@@ -1,11 +1,13 @@
 ---
-title: "Conditional anomaly detection using soft harmonic functions: An application to clinical alerting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.21956
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21956
 next_step: skim
+priority: high
+slack_ts: '1777434574.323849'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Conditional anomaly detection using soft harmonic functions: An application
+  to clinical alerting'
 ---
 # Conditional anomaly detection using soft harmonic functions: An application to clinical alerting
 > 原文: [https://arxiv.org/abs/2604.21956](https://arxiv.org/abs/2604.21956)

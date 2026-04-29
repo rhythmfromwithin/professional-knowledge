@@ -1,11 +1,13 @@
 ---
-title: "Can SOC Operators Explain their Decisions while Triaging Alarms? A Real-World Study"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.22001
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22001
 next_step: skim
+priority: low
+slack_ts: '1777434573.299689'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Can SOC Operators Explain their Decisions while Triaging Alarms? A Real-World
+  Study
 ---
 # Can SOC Operators Explain their Decisions while Triaging Alarms? A Real-World Study
 > 原文: [https://arxiv.org/abs/2604.22001](https://arxiv.org/abs/2604.22001)

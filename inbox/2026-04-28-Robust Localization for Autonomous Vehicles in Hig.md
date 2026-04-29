@@ -1,11 +1,12 @@
 ---
-title: "Robust Localization for Autonomous Vehicles in Highway Scenes"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.22040
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22040
 next_step: skim
+priority: medium
+slack_ts: '1777434584.133019'
+source: cs.RO - Robotics
+status: unread
+title: Robust Localization for Autonomous Vehicles in Highway Scenes
 ---
 # Robust Localization for Autonomous Vehicles in Highway Scenes
 > 原文: [https://arxiv.org/abs/2604.22040](https://arxiv.org/abs/2604.22040)

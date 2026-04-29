@@ -1,11 +1,12 @@
 ---
-title: "Earable Platform with Integrated Simultaneous EEG Sensing and Auditory Stimulation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.22137
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22137
 next_step: skim
+priority: low
+slack_ts: '1777434575.351619'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Earable Platform with Integrated Simultaneous EEG Sensing and Auditory Stimulation
 ---
 # Earable Platform with Integrated Simultaneous EEG Sensing and Auditory Stimulation
 > 原文: [https://arxiv.org/abs/2604.22137](https://arxiv.org/abs/2604.22137)

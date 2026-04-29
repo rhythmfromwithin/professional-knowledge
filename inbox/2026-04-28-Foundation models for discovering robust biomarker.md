@@ -1,11 +1,13 @@
 ---
-title: "Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.22018
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22018
 next_step: skim
+priority: low
+slack_ts: '1777434576.851159'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Foundation models for discovering robust biomarkers of neurological disorders
+  from dynamic functional connectivity
 ---
 # Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity
 > 原文: [https://arxiv.org/abs/2604.22018](https://arxiv.org/abs/2604.22018)

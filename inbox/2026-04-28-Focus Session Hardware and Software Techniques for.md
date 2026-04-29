@@ -1,11 +1,13 @@
 ---
-title: "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.21952
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21952
 next_step: skim
+priority: high
+slack_ts: '1777434576.356739'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Focus Session: Hardware and Software Techniques for Accelerating Multimodal
+  Foundation Models'
 ---
 # Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models
 > 原文: [https://arxiv.org/abs/2604.21952](https://arxiv.org/abs/2604.21952)

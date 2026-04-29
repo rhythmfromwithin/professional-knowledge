@@ -1,11 +1,13 @@
 ---
-title: "Feedback Over Form: Why Execution Feedback Matters More Than Pipeline Topology in 1-3B Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.21950
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21950
 next_step: skim
+priority: low
+slack_ts: '1777434575.845769'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Feedback Over Form: Why Execution Feedback Matters More Than Pipeline Topology
+  in 1-3B Code Generation'
 ---
 # Feedback Over Form: Why Execution Feedback Matters More Than Pipeline Topology in 1-3B Code Generation
 > 原文: [https://arxiv.org/abs/2604.21950](https://arxiv.org/abs/2604.21950)

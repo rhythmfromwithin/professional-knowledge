@@ -1,11 +1,12 @@
 ---
-title: "The Biggest Risk of Embodied AI is Governance Lag"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.21938
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21938
 next_step: skim
+priority: medium
+slack_ts: '1777434587.158159'
+source: cs.CY - Computers and Society
+status: unread
+title: The Biggest Risk of Embodied AI is Governance Lag
 ---
 # The Biggest Risk of Embodied AI is Governance Lag
 > 原文: [https://arxiv.org/abs/2604.21938](https://arxiv.org/abs/2604.21938)

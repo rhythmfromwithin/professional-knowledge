@@ -1,11 +1,13 @@
 ---
-title: "Implementation and Privacy Guarantees for Scalable Keyword Search on SOLID-based Decentralized Data with Granular Visibility Constraints"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.22100
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22100
 next_step: skim
+priority: low
+slack_ts: '1777434578.126939'
+source: cs.DB - Databases
+status: unread
+title: Implementation and Privacy Guarantees for Scalable Keyword Search on SOLID-based
+  Decentralized Data with Granular Visibility Constraints
 ---
 # Implementation and Privacy Guarantees for Scalable Keyword Search on SOLID-based Decentralized Data with Granular Visibility Constraints
 > 原文: [https://arxiv.org/abs/2604.22100](https://arxiv.org/abs/2604.22100)

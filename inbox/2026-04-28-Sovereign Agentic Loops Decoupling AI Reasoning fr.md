@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.22136
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22136
 next_step: skim
+priority: low
+slack_ts: '1777434586.129019'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World
+  Systems'
 ---
 # Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World Systems
 > 原文: [https://arxiv.org/abs/2604.22136](https://arxiv.org/abs/2604.22136)

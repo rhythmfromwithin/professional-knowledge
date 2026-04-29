@@ -1,11 +1,13 @@
 ---
-title: "Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.22072
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22072
 next_step: skim
+priority: medium
+slack_ts: '1777434584.851149'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Shard the Gradient, Scale the Model: Serverless Federated Aggregation via
+  Gradient Partitioning'
 ---
 # Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning
 > 原文: [https://arxiv.org/abs/2604.22072](https://arxiv.org/abs/2604.22072)

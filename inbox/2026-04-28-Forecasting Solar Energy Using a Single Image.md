@@ -1,11 +1,12 @@
 ---
-title: "Forecasting Solar Energy Using a Single Image"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.21982
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21982
 next_step: skim
+priority: medium
+slack_ts: '1777434576.600659'
+source: cs.CV - Computer Vision
+status: unread
+title: Forecasting Solar Energy Using a Single Image
 ---
 # Forecasting Solar Energy Using a Single Image
 > 原文: [https://arxiv.org/abs/2604.21982](https://arxiv.org/abs/2604.21982)

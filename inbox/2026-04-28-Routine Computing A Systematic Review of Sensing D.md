@@ -1,11 +1,13 @@
 ---
-title: "Routine Computing: A Systematic Review of Sensing Daily Life Dimensions Towards Human-Centered Goals"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.21934
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.21934
 next_step: skim
+priority: low
+slack_ts: '1777434584.381969'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Routine Computing: A Systematic Review of Sensing Daily Life Dimensions Towards
+  Human-Centered Goals'
 ---
 # Routine Computing: A Systematic Review of Sensing Daily Life Dimensions Towards Human-Centered Goals
 > 原文: [https://arxiv.org/abs/2604.21934](https://arxiv.org/abs/2604.21934)

@@ -1,11 +1,13 @@
 ---
-title: "Resting-State EEG Biomarkers of Tinnitus Robust to Cross-Subject and Cross-Platform Variation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.22116
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22116
 next_step: skim
+priority: low
+slack_ts: '1777434583.880429'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Resting-State EEG Biomarkers of Tinnitus Robust to Cross-Subject and Cross-Platform
+  Variation
 ---
 # Resting-State EEG Biomarkers of Tinnitus Robust to Cross-Subject and Cross-Platform Variation
 > 原文: [https://arxiv.org/abs/2604.22116](https://arxiv.org/abs/2604.22116)

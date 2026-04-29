@@ -1,11 +1,12 @@
 ---
-title: "On Benchmark Hacking in ML Contests: Modeling, Insights and Design"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.22230
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22230
 next_step: skim
+priority: low
+slack_ts: '1777434581.168989'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'On Benchmark Hacking in ML Contests: Modeling, Insights and Design'
 ---
 # On Benchmark Hacking in ML Contests: Modeling, Insights and Design
 > 原文: [https://arxiv.org/abs/2604.22230](https://arxiv.org/abs/2604.22230)

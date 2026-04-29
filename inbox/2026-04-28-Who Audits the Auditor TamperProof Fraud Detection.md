@@ -1,11 +1,13 @@
 ---
-title: "Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored Explainable ML"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.22096
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22096
 next_step: skim
+priority: low
+slack_ts: '1777434587.893119'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored
+  Explainable ML
 ---
 # Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored Explainable ML
 > 原文: [https://arxiv.org/abs/2604.22096](https://arxiv.org/abs/2604.22096)
