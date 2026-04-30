@@ -1,11 +1,13 @@
 ---
-title: "FreqFormer: Hierarchical Frequency-Domain Attention with Adaptive Spectral Routing for Long-Sequence Video Diffusion Transformers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.22808
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22808
 next_step: skim
+priority: medium
+slack_ts: '1777521049.061769'
+source: cs.CV - Computer Vision
+status: unread
+title: 'FreqFormer: Hierarchical Frequency-Domain Attention with Adaptive Spectral
+  Routing for Long-Sequence Video Diffusion Transformers'
 ---
 # FreqFormer: Hierarchical Frequency-Domain Attention with Adaptive Spectral Routing for Long-Sequence Video Diffusion Transformers
 > 原文: [https://arxiv.org/abs/2604.22808](https://arxiv.org/abs/2604.22808)

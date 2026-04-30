@@ -1,11 +1,12 @@
 ---
-title: "Buying the Right to Monitor:Editorial Design in AI-Assisted Peer Review"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.23645
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23645
 next_step: skim
+priority: low
+slack_ts: '1777521047.351949'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Buying the Right to Monitor:Editorial Design in AI-Assisted Peer Review
 ---
 # Buying the Right to Monitor:Editorial Design in AI-Assisted Peer Review
 > 原文: [https://arxiv.org/abs/2604.23645](https://arxiv.org/abs/2604.23645)

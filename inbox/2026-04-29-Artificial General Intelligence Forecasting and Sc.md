@@ -1,11 +1,13 @@
 ---
-title: "Artificial General Intelligence Forecasting and Scenario Analysis: State of the Field, Methodological Gaps, and Strategic Implications"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.22766
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22766
 next_step: skim
+priority: medium
+slack_ts: '1777521046.158679'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Artificial General Intelligence Forecasting and Scenario Analysis: State of
+  the Field, Methodological Gaps, and Strategic Implications'
 ---
 # Artificial General Intelligence Forecasting and Scenario Analysis: State of the Field, Methodological Gaps, and Strategic Implications
 > 原文: [https://arxiv.org/abs/2604.22766](https://arxiv.org/abs/2604.22766)

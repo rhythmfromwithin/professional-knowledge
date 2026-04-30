@@ -1,11 +1,13 @@
 ---
-title: "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.22781
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22781
 next_step: skim
+priority: high
+slack_ts: '1777521047.016229'
+source: cs.LG - Machine Learning
+status: unread
+title: 'BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal
+  Graph Network Framework for Alert Prediction in Computer Networks'
 ---
 # BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks
 > 原文: [https://arxiv.org/abs/2604.22781](https://arxiv.org/abs/2604.22781)

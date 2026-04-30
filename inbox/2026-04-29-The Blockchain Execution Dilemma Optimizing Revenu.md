@@ -1,11 +1,12 @@
 ---
-title: "The Blockchain Execution Dilemma: Optimizing Revenue XOR Fair Ordering"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.23266
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23266
 next_step: skim
+priority: medium
+slack_ts: '1777521054.115849'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Blockchain Execution Dilemma: Optimizing Revenue XOR Fair Ordering'
 ---
 # The Blockchain Execution Dilemma: Optimizing Revenue XOR Fair Ordering
 > 原文: [https://arxiv.org/abs/2604.23266](https://arxiv.org/abs/2604.23266)

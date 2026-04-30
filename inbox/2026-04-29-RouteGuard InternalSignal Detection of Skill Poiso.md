@@ -1,11 +1,12 @@
 ---
-title: "RouteGuard: Internal-Signal Detection of Skill Poisoning in LLM Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.22888
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22888
 next_step: skim
+priority: low
+slack_ts: '1777521053.219449'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'RouteGuard: Internal-Signal Detection of Skill Poisoning in LLM Agents'
 ---
 # RouteGuard: Internal-Signal Detection of Skill Poisoning in LLM Agents
 > 原文: [https://arxiv.org/abs/2604.22888](https://arxiv.org/abs/2604.22888)

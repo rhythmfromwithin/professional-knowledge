@@ -1,11 +1,12 @@
 ---
-title: "TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.22880
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22880
 next_step: skim
+priority: high
+slack_ts: '1777521053.929229'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction'
 ---
 # TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction
 > 原文: [https://arxiv.org/abs/2604.22880](https://arxiv.org/abs/2604.22880)

@@ -1,11 +1,12 @@
 ---
-title: "Automate repetitive tasks with Amazon Quick Flows"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/
 next_step: skim
+priority: high
+slack_ts: '1777521046.819869'
+source: AWS Blog
+status: unread
+title: Automate repetitive tasks with Amazon Quick Flows
 ---
 # Automate repetitive tasks with Amazon Quick Flows
 > 原文: [https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/](https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/)

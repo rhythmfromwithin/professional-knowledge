@@ -1,11 +1,12 @@
 ---
-title: "Vision as looking and seeing through a bottleneck"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.23030
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23030
 next_step: skim
+priority: low
+slack_ts: '1777521055.653619'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Vision as looking and seeing through a bottleneck
 ---
 # Vision as looking and seeing through a bottleneck
 > 原文: [https://arxiv.org/abs/2604.23030](https://arxiv.org/abs/2604.23030)

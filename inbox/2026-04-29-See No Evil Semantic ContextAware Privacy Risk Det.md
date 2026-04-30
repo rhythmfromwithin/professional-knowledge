@@ -1,11 +1,12 @@
 ---
-title: "See No Evil: Semantic Context-Aware Privacy Risk Detection for AR"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.22805
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22805
 next_step: skim
+priority: medium
+slack_ts: '1777521053.573339'
+source: cs.CV - Computer Vision
+status: unread
+title: 'See No Evil: Semantic Context-Aware Privacy Risk Detection for AR'
 ---
 # See No Evil: Semantic Context-Aware Privacy Risk Detection for AR
 > 原文: [https://arxiv.org/abs/2604.22805](https://arxiv.org/abs/2604.22805)

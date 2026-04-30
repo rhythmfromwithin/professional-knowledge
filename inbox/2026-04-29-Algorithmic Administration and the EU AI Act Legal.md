@@ -1,11 +1,13 @@
 ---
-title: "Algorithmic Administration and the EU AI Act: Legal Principles for Public Sector Use of AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.22765
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22765
 next_step: skim
+priority: medium
+slack_ts: '1777521045.250899'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Algorithmic Administration and the EU AI Act: Legal Principles for Public
+  Sector Use of AI'
 ---
 # Algorithmic Administration and the EU AI Act: Legal Principles for Public Sector Use of AI
 > 原文: [https://arxiv.org/abs/2604.22765](https://arxiv.org/abs/2604.22765)

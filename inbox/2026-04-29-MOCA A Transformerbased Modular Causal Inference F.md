@@ -1,11 +1,13 @@
 ---
-title: "MOCA: A Transformer-based Modular Causal Inference Framework with One-way Cross-attention and Cutting Feedback"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.23107
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23107
 next_step: skim
+priority: medium
+slack_ts: '1777521050.402859'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'MOCA: A Transformer-based Modular Causal Inference Framework with One-way
+  Cross-attention and Cutting Feedback'
 ---
 # MOCA: A Transformer-based Modular Causal Inference Framework with One-way Cross-attention and Cutting Feedback
 > 原文: [https://arxiv.org/abs/2604.23107](https://arxiv.org/abs/2604.23107)

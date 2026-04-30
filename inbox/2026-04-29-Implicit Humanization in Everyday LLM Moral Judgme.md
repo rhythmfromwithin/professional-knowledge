@@ -1,11 +1,12 @@
 ---
-title: "Implicit Humanization in Everyday LLM Moral Judgments"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.22764
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22764
 next_step: skim
+priority: medium
+slack_ts: '1777521049.890389'
+source: cs.CY - Computers and Society
+status: unread
+title: Implicit Humanization in Everyday LLM Moral Judgments
 ---
 # Implicit Humanization in Everyday LLM Moral Judgments
 > 原文: [https://arxiv.org/abs/2604.22764](https://arxiv.org/abs/2604.22764)

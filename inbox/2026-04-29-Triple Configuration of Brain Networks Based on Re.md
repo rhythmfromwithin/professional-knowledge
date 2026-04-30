@@ -1,11 +1,13 @@
 ---
-title: "Triple Configuration of Brain Networks Based on Recurrent Neural Networks: The Synergistic Effects of Exogenous Stimuli, Task Demands, and Spontaneous Activity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.23525
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23525
 next_step: skim
+priority: low
+slack_ts: '1777521055.316059'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Triple Configuration of Brain Networks Based on Recurrent Neural Networks:
+  The Synergistic Effects of Exogenous Stimuli, Task Demands, and Spontaneous Activity'
 ---
 # Triple Configuration of Brain Networks Based on Recurrent Neural Networks: The Synergistic Effects of Exogenous Stimuli, Task Demands, and Spontaneous Activity
 > 原文: [https://arxiv.org/abs/2604.23525](https://arxiv.org/abs/2604.23525)

@@ -1,0 +1,14 @@
+---
+title: "Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2604.24770
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR
+> 原文: [https://arxiv.org/abs/2604.24770](https://arxiv.org/abs/2604.24770)
+
+arXiv:2604.24770v1 Announce Type: new
+Abstract: Despite recent progress in automatic speech recognition (ASR), elderly ASR (EASR) remains challenging due to limited training data and the distinct acoustic and linguistic characteristics of elderly speech. In this work, we address data scarcity in EASR through a data augmentation pipeline that combines large language model (LLM)-based transcript paraphrasing with text-to-speech (TTS) synthesis. Given an elderly speech dataset, the LLM first generates elderly-contextual paraphrases of the original transcripts, and the TTS model then synthesizes corresponding speech using elderly reference speakers. The resulting synthetic audio-text pairs are merged with the original data to fine-tune Whisper without architectural modification. We further analyze the effects of augmentation ratio and reference-speaker composition in low-resource EASR. Experiments on English and Korean elderly speech datasets from speakers aged 70 and above show that the proposed method consistently improves performance over conventional augmentation baselines, achieving up to a 58.2% reduction in word error rate (WER) compared with the Whisper baseline.

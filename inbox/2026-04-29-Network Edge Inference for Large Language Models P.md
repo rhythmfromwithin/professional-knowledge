@@ -1,11 +1,13 @@
 ---
-title: "Network Edge Inference for Large Language Models: Principles, Techniques, and Opportunities"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.22906
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22906
 next_step: skim
+priority: medium
+slack_ts: '1777521051.082219'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Network Edge Inference for Large Language Models: Principles, Techniques,
+  and Opportunities'
 ---
 # Network Edge Inference for Large Language Models: Principles, Techniques, and Opportunities
 > 原文: [https://arxiv.org/abs/2604.22906](https://arxiv.org/abs/2604.22906)

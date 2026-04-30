@@ -1,11 +1,13 @@
 ---
-title: "The Security Cost of Intelligence: AI Capability, Cyber Risk, and Deployment Paradox"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.23058
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23058
 next_step: skim
+priority: low
+slack_ts: '1777521054.769059'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Security Cost of Intelligence: AI Capability, Cyber Risk, and Deployment
+  Paradox'
 ---
 # The Security Cost of Intelligence: AI Capability, Cyber Risk, and Deployment Paradox
 > 原文: [https://arxiv.org/abs/2604.23058](https://arxiv.org/abs/2604.23058)

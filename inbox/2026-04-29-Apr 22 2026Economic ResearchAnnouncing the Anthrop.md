@@ -1,11 +1,12 @@
 ---
-title: "Apr 22, 2026Economic ResearchAnnouncing the Anthropic Economic Index Survey"
-source: "Anthropic"
-link: https://www.anthropic.com/research/economic-index-survey-announcement
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/economic-index-survey-announcement
 next_step: skim
+priority: high
+slack_ts: '1777521045.806869'
+source: Anthropic
+status: unread
+title: Apr 22, 2026Economic ResearchAnnouncing the Anthropic Economic Index Survey
 ---
 # Apr 22, 2026Economic ResearchAnnouncing the Anthropic Economic Index Survey
 > 原文: [https://www.anthropic.com/research/economic-index-survey-announcement](https://www.anthropic.com/research/economic-index-survey-announcement)

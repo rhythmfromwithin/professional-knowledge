@@ -1,11 +1,12 @@
 ---
-title: "PExA: Parallel Exploration Agent for Complex Text-to-SQL"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.22934
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22934
 next_step: skim
+priority: high
+slack_ts: '1777521051.901219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'PExA: Parallel Exploration Agent for Complex Text-to-SQL'
 ---
 # PExA: Parallel Exploration Agent for Complex Text-to-SQL
 > 原文: [https://arxiv.org/abs/2604.22934](https://arxiv.org/abs/2604.22934)

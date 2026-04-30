@@ -1,11 +1,13 @@
 ---
-title: "Exact Mining of Dense Patterns via Direct Evaluation of Local Interval Frequency Using a Sliding Window"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.24122
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24122
 next_step: skim
+priority: low
+slack_ts: '1777521048.883959'
+source: cs.DB - Databases
+status: unread
+title: Exact Mining of Dense Patterns via Direct Evaluation of Local Interval Frequency
+  Using a Sliding Window
 ---
 # Exact Mining of Dense Patterns via Direct Evaluation of Local Interval Frequency Using a Sliding Window
 > 原文: [https://arxiv.org/abs/2604.24122](https://arxiv.org/abs/2604.24122)

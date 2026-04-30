@@ -1,11 +1,12 @@
 ---
-title: "Price Cap vs. Per-Unit Subsidies: Selection, Pricing, and Cross Subsidization"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.22895
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22895
 next_step: skim
+priority: low
+slack_ts: '1777521052.570049'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Price Cap vs. Per-Unit Subsidies: Selection, Pricing, and Cross Subsidization'
 ---
 # Price Cap vs. Per-Unit Subsidies: Selection, Pricing, and Cross Subsidization
 > 原文: [https://arxiv.org/abs/2604.22895](https://arxiv.org/abs/2604.22895)

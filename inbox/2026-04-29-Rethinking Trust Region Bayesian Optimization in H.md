@@ -1,11 +1,12 @@
 ---
-title: "Rethinking Trust Region Bayesian Optimization in High Dimensions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.22967
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22967
 next_step: skim
+priority: medium
+slack_ts: '1777521053.051159'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Rethinking Trust Region Bayesian Optimization in High Dimensions
 ---
 # Rethinking Trust Region Bayesian Optimization in High Dimensions
 > 原文: [https://arxiv.org/abs/2604.22967](https://arxiv.org/abs/2604.22967)

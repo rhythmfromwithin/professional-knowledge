@@ -1,11 +1,12 @@
 ---
-title: "Magnetic Indoor Localization through CNN Regression and Rotation Invariance"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.22896
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22896
 next_step: skim
+priority: medium
+slack_ts: '1777521050.593349'
+source: cs.RO - Robotics
+status: unread
+title: Magnetic Indoor Localization through CNN Regression and Rotation Invariance
 ---
 # Magnetic Indoor Localization through CNN Regression and Rotation Invariance
 > 原文: [https://arxiv.org/abs/2604.22896](https://arxiv.org/abs/2604.22896)

@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/
 next_step: skim
+priority: high
+slack_ts: '1777521052.074599'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience'
 ---
 # Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience
 > 原文: [https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/](https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/)

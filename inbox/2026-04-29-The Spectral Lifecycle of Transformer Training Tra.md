@@ -1,11 +1,13 @@
 ---
-title: "The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.22778
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22778
 next_step: skim
+priority: high
+slack_ts: '1777521054.948849'
+source: cs.LG - Machine Learning
+status: unread
+title: 'The Spectral Lifecycle of Transformer Training: Transient Compression Waves,
+  Persistent Spectral Gradients, and the Q/K--V Asymmetry'
 ---
 # The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry
 > 原文: [https://arxiv.org/abs/2604.22778](https://arxiv.org/abs/2604.22778)

@@ -1,11 +1,13 @@
 ---
-title: "Relationship between the level of mental fatigue induced by a prolonged cognitive task and the degree of balance disturbance"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.22796
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22796
 next_step: skim
+priority: low
+slack_ts: '1777521052.897449'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Relationship between the level of mental fatigue induced by a prolonged cognitive
+  task and the degree of balance disturbance
 ---
 # Relationship between the level of mental fatigue induced by a prolonged cognitive task and the degree of balance disturbance
 > 原文: [https://arxiv.org/abs/2604.22796](https://arxiv.org/abs/2604.22796)

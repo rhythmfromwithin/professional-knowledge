@@ -1,11 +1,13 @@
 ---
-title: "The Randomness Floor: Measuring Intrinsic Non-Randomness in Language Model Token Distributions"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.22771
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22771
 next_step: skim
+priority: high
+slack_ts: '1777521054.605699'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Randomness Floor: Measuring Intrinsic Non-Randomness in Language Model
+  Token Distributions'
 ---
 # The Randomness Floor: Measuring Intrinsic Non-Randomness in Language Model Token Distributions
 > 原文: [https://arxiv.org/abs/2604.22771](https://arxiv.org/abs/2604.22771)

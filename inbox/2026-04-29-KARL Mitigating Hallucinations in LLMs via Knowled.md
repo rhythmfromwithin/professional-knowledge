@@ -1,11 +1,13 @@
 ---
-title: "KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.22779
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22779
 next_step: skim
+priority: high
+slack_ts: '1777521050.231989'
+source: cs.LG - Machine Learning
+status: unread
+title: 'KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement
+  Learning'
 ---
 # KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2604.22779](https://arxiv.org/abs/2604.22779)

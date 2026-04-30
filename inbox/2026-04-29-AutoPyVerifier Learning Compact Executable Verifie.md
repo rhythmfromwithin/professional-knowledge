@@ -1,11 +1,13 @@
 ---
-title: "AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model Outputs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.22937
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22937
 next_step: skim
+priority: high
+slack_ts: '1777521046.503349'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model
+  Outputs'
 ---
 # AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model Outputs
 > 原文: [https://arxiv.org/abs/2604.22937](https://arxiv.org/abs/2604.22937)

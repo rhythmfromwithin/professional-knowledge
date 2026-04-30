@@ -1,11 +1,12 @@
 ---
-title: "SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.23477
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23477
 next_step: skim
+priority: low
+slack_ts: '1777521053.368959'
+source: cs.DB - Databases
+status: unread
+title: 'SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models'
 ---
 # SEMA-SQL: Beyond Traditional Relational Querying with Large Language Models
 > 原文: [https://arxiv.org/abs/2604.23477](https://arxiv.org/abs/2604.23477)

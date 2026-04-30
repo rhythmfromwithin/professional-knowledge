@@ -1,11 +1,13 @@
 ---
-title: "Turtle shell clustering: A mixture approach to discriminative clustering with applications to flow cytometry and other data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.23083
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.23083
 next_step: skim
+priority: medium
+slack_ts: '1777521055.487219'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Turtle shell clustering: A mixture approach to discriminative clustering with
+  applications to flow cytometry and other data'
 ---
 # Turtle shell clustering: A mixture approach to discriminative clustering with applications to flow cytometry and other data
 > 原文: [https://arxiv.org/abs/2604.23083](https://arxiv.org/abs/2604.23083)

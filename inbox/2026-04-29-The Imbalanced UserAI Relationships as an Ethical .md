@@ -1,11 +1,13 @@
 ---
-title: "The Imbalanced User-AI Relationships as an Ethical Failure of Front-End Design in Healthcare AI"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.22767
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22767
 next_step: skim
+priority: low
+slack_ts: '1777521054.289419'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: The Imbalanced User-AI Relationships as an Ethical Failure of Front-End Design
+  in Healthcare AI
 ---
 # The Imbalanced User-AI Relationships as an Ethical Failure of Front-End Design in Healthcare AI
 > 原文: [https://arxiv.org/abs/2604.22767](https://arxiv.org/abs/2604.22767)

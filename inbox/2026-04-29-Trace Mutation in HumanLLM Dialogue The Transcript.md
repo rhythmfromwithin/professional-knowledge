@@ -1,11 +1,13 @@
 ---
-title: "Trace Mutation in Human-LLM Dialogue: The Transcript as Forensic and Mitigation Surface"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.22773
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22773
 next_step: skim
+priority: low
+slack_ts: '1777521055.124139'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Trace Mutation in Human-LLM Dialogue: The Transcript as Forensic and Mitigation
+  Surface'
 ---
 # Trace Mutation in Human-LLM Dialogue: The Transcript as Forensic and Mitigation Surface
 > 原文: [https://arxiv.org/abs/2604.22773](https://arxiv.org/abs/2604.22773)

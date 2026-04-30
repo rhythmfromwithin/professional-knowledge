@@ -1,0 +1,14 @@
+---
+title: "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2604.24819
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora
+> 原文: [https://arxiv.org/abs/2604.24819](https://arxiv.org/abs/2604.24819)
+
+arXiv:2604.24819v1 Announce Type: new
+Abstract: Reliably transferring specialized human knowledge from text into large language models remains a fundamental challenge in artificial intelligence. Fine-tuning on domain corpora has enabled substantial capability gains, but the process operates without feedback: when a model fails on a domain task, there is no method to diagnose what is deficient in the training data, and the only recourse is to add more data indiscriminately. Here we show that when a structured knowledge representation extracted from the source corpus serves as the shared foundation for both training data and evaluation, the complete data-engineering lifecycle maps onto the software development lifecycle in a precise and operative way: training data becomes source code specifying what the model should learn, model training becomes compilation, benchmarking becomes unit testing, and failure-driven data repair becomes debugging. Under this correspondence, model failures decompose into concept-level gaps and reasoning-chain breaks that can be traced back to specific deficiencies in the data and repaired through targeted patches, with each repair cycle producing consistent improvements across model scales and architectures without degrading general capabilities. We formalize this principle as Programming with Data and instantiate it across sixteen disciplines spanning the natural sciences, engineering, biomedicine, and the social sciences, releasing a structured knowledge base, benchmark suite, and training corpus as open resources. By demonstrating that the relationship between training data and model behaviour is structurally traceable and systematically repairable, this work establishes a principled foundation for the reliable engineering of human expertise into language models.

@@ -1,11 +1,12 @@
 ---
-title: "AutoRISE: Agent-Driven Strategy Evolution for Red-Teaming Large Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.22871
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22871
 next_step: skim
+priority: low
+slack_ts: '1777521046.658239'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'AutoRISE: Agent-Driven Strategy Evolution for Red-Teaming Large Language Models'
 ---
 # AutoRISE: Agent-Driven Strategy Evolution for Red-Teaming Large Language Models
 > 原文: [https://arxiv.org/abs/2604.22871](https://arxiv.org/abs/2604.22871)

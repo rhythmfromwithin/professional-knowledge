@@ -1,11 +1,13 @@
 ---
-title: "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.22777
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22777
 next_step: skim
+priority: high
+slack_ts: '1777521045.439719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on
+  Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement
 ---
 # An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement
 > 原文: [https://arxiv.org/abs/2604.22777](https://arxiv.org/abs/2604.22777)

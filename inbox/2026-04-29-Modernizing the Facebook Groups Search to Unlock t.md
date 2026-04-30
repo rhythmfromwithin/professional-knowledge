@@ -1,11 +1,12 @@
 ---
-title: "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/
 next_step: skim
+priority: medium
+slack_ts: '1777521050.751059'
+source: Meta Engineering
+status: unread
+title: Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge
 ---
 # Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge
 > 原文: [https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/](https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/)

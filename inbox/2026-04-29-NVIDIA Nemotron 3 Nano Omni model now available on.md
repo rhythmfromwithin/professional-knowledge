@@ -1,11 +1,12 @@
 ---
-title: "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/
 next_step: skim
+priority: high
+slack_ts: '1777521050.927609'
+source: AWS Blog
+status: unread
+title: NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart
 ---
 # NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart
 > 原文: [https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/)

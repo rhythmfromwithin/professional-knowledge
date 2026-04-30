@@ -1,11 +1,12 @@
 ---
-title: "The Power of Power Law: Asymmetry Enables Compositional Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.22951
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22951
 next_step: skim
+priority: high
+slack_ts: '1777521054.434679'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Power of Power Law: Asymmetry Enables Compositional Reasoning'
 ---
 # The Power of Power Law: Asymmetry Enables Compositional Reasoning
 > 原文: [https://arxiv.org/abs/2604.22951](https://arxiv.org/abs/2604.22951)

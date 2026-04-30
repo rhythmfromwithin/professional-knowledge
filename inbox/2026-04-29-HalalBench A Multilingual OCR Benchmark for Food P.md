@@ -1,11 +1,12 @@
 ---
-title: "HalalBench: A Multilingual OCR Benchmark for Food Packaging Ingredient Extraction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.22754
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.22754
 next_step: skim
+priority: medium
+slack_ts: '1777521049.576379'
+source: cs.CV - Computer Vision
+status: unread
+title: 'HalalBench: A Multilingual OCR Benchmark for Food Packaging Ingredient Extraction'
 ---
 # HalalBench: A Multilingual OCR Benchmark for Food Packaging Ingredient Extraction
 > 原文: [https://arxiv.org/abs/2604.22754](https://arxiv.org/abs/2604.22754)
