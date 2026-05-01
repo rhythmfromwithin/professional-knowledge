@@ -1,11 +1,13 @@
 ---
-title: "Poisoning Learned Index Structures: Static and Dynamic Adversarial Attacks on ALEX"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.24975
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24975
 next_step: skim
+priority: low
+slack_ts: '1777608127.225709'
+source: cs.DB - Databases
+status: unread
+title: 'Poisoning Learned Index Structures: Static and Dynamic Adversarial Attacks
+  on ALEX'
 ---
 # Poisoning Learned Index Structures: Static and Dynamic Adversarial Attacks on ALEX
 > 原文: [https://arxiv.org/abs/2604.24975](https://arxiv.org/abs/2604.24975)

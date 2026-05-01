@@ -1,11 +1,13 @@
 ---
-title: "A geometry aware framework enhances noninvasive mapping of whole human brain dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.25592
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25592
 next_step: skim
+priority: low
+slack_ts: '1777608120.785309'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A geometry aware framework enhances noninvasive mapping of whole human brain
+  dynamics
 ---
 # A geometry aware framework enhances noninvasive mapping of whole human brain dynamics
 > 原文: [https://arxiv.org/abs/2604.25592](https://arxiv.org/abs/2604.25592)

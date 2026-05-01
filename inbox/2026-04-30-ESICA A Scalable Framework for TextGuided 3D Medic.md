@@ -1,11 +1,12 @@
 ---
-title: "ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.24876
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24876
 next_step: skim
+priority: medium
+slack_ts: '1777608124.495469'
+source: cs.CV - Computer Vision
+status: unread
+title: 'ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation'
 ---
 # ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation
 > 原文: [https://arxiv.org/abs/2604.24876](https://arxiv.org/abs/2604.24876)

@@ -1,11 +1,13 @@
 ---
-title: "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.24767
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24767
 next_step: skim
+priority: high
+slack_ts: '1777608122.246349'
+source: cs.LG - Machine Learning
+status: unread
+title: Automated detection of pediatric congenital heart disease from phonocardiograms
+  using deep and handcrafted feature fusion
 ---
 # Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion
 > 原文: [https://arxiv.org/abs/2604.24767](https://arxiv.org/abs/2604.24767)

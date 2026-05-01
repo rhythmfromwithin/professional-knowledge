@@ -1,11 +1,5 @@
 ---
-title: "Online learning with Erd\H{o}s-R\'enyi side-observation graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.25271
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1777608126.712909'
 ---
 # Online learning with Erd\H{o}s-R\'enyi side-observation graphs
 > 原文: [https://arxiv.org/abs/2604.25271](https://arxiv.org/abs/2604.25271)

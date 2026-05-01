@@ -1,11 +1,12 @@
 ---
-title: "GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.24929
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24929
 next_step: skim
+priority: high
+slack_ts: '1777608125.238549'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation'
 ---
 # GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation
 > 原文: [https://arxiv.org/abs/2604.24929](https://arxiv.org/abs/2604.24929)

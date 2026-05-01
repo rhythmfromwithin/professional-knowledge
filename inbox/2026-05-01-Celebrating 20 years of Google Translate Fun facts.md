@@ -1,0 +1,13 @@
+---
+title: "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try"
+source: "Google AI Blog"
+link: https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Celebrating 20 years of Google Translate: Fun facts, tips and new features to try
+> 原文: [https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/)
+
+The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20

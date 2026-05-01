@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.25458
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25458
 next_step: skim
+priority: low
+slack_ts: '1777608122.352579'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization
 ---
 # Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization
 > 原文: [https://arxiv.org/abs/2604.25458](https://arxiv.org/abs/2604.25458)

@@ -1,11 +1,12 @@
 ---
-title: "Large Language Models Explore by Latent Distilling"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.24927
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24927
 next_step: skim
+priority: high
+slack_ts: '1777608125.893539'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Large Language Models Explore by Latent Distilling
 ---
 # Large Language Models Explore by Latent Distilling
 > 原文: [https://arxiv.org/abs/2604.24927](https://arxiv.org/abs/2604.24927)

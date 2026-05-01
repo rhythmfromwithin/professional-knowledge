@@ -1,11 +1,13 @@
 ---
-title: "EvoTSC: Evolving Feature Learning Models for Time Series Classification via Genetic Programming"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.25499
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25499
 next_step: skim
+priority: low
+slack_ts: '1777608124.848729'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'EvoTSC: Evolving Feature Learning Models for Time Series Classification via
+  Genetic Programming'
 ---
 # EvoTSC: Evolving Feature Learning Models for Time Series Classification via Genetic Programming
 > 原文: [https://arxiv.org/abs/2604.25499](https://arxiv.org/abs/2604.25499)

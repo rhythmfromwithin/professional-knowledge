@@ -1,11 +1,12 @@
 ---
-title: "Risk Reporting for Developers' Internal AI Model Use"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.24966
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24966
 next_step: skim
+priority: medium
+slack_ts: '1777608127.682569'
+source: cs.CY - Computers and Society
+status: unread
+title: Risk Reporting for Developers' Internal AI Model Use
 ---
 # Risk Reporting for Developers' Internal AI Model Use
 > 原文: [https://arxiv.org/abs/2604.24966](https://arxiv.org/abs/2604.24966)

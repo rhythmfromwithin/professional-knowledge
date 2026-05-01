@@ -1,11 +1,13 @@
 ---
-title: "A Finite Time Analysis of Thompson Sampling for Bayesian Optimization with Preferential Feedback"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.25025
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25025
 next_step: skim
+priority: medium
+slack_ts: '1777608120.674129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Finite Time Analysis of Thompson Sampling for Bayesian Optimization with
+  Preferential Feedback
 ---
 # A Finite Time Analysis of Thompson Sampling for Bayesian Optimization with Preferential Feedback
 > 原文: [https://arxiv.org/abs/2604.25025](https://arxiv.org/abs/2604.25025)

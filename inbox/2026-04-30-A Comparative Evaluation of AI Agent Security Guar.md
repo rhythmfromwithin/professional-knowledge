@@ -1,11 +1,12 @@
 ---
-title: "A Comparative Evaluation of AI Agent Security Guardrails"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.24826
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24826
 next_step: skim
+priority: low
+slack_ts: '1777608120.553379'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Comparative Evaluation of AI Agent Security Guardrails
 ---
 # A Comparative Evaluation of AI Agent Security Guardrails
 > 原文: [https://arxiv.org/abs/2604.24826](https://arxiv.org/abs/2604.24826)

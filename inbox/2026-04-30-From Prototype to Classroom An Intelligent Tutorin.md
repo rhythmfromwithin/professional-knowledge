@@ -1,11 +1,12 @@
 ---
-title: "From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.24807
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24807
 next_step: skim
+priority: medium
+slack_ts: '1777608125.134019'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education'
 ---
 # From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education
 > 原文: [https://arxiv.org/abs/2604.24807](https://arxiv.org/abs/2604.24807)

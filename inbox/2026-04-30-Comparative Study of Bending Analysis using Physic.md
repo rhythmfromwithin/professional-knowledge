@@ -1,11 +1,13 @@
 ---
-title: "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.24768
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24768
 next_step: skim
+priority: high
+slack_ts: '1777608123.962469'
+source: cs.LG - Machine Learning
+status: unread
+title: Comparative Study of Bending Analysis using Physics-Informed Neural Networks
+  and Numerical Dynamic Deflection in Perforated nanobeam
 ---
 # Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam
 > 原文: [https://arxiv.org/abs/2604.24768](https://arxiv.org/abs/2604.24768)

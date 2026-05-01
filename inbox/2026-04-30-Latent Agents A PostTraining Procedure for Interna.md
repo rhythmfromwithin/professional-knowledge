@@ -1,11 +1,12 @@
 ---
-title: "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.24881
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24881
 next_step: skim
+priority: high
+slack_ts: '1777608126.009449'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate'
 ---
 # Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate
 > 原文: [https://arxiv.org/abs/2604.24881](https://arxiv.org/abs/2604.24881)

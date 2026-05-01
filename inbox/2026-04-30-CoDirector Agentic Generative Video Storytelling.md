@@ -1,11 +1,12 @@
 ---
-title: "Co-Director: Agentic Generative Video Storytelling"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.24842
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24842
 next_step: skim
+priority: high
+slack_ts: '1777608123.437659'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Co-Director: Agentic Generative Video Storytelling'
 ---
 # Co-Director: Agentic Generative Video Storytelling
 > 原文: [https://arxiv.org/abs/2604.24842](https://arxiv.org/abs/2604.24842)

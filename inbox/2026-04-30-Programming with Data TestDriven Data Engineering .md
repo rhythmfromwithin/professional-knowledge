@@ -1,11 +1,13 @@
 ---
-title: "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.24819
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24819
 next_step: skim
+priority: low
+slack_ts: '1777608127.452119'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs
+  from Raw Corpora'
 ---
 # Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora
 > 原文: [https://arxiv.org/abs/2604.24819](https://arxiv.org/abs/2604.24819)

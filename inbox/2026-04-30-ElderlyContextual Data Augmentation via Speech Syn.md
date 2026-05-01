@@ -1,11 +1,12 @@
 ---
-title: "Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.24770
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24770
 next_step: skim
+priority: high
+slack_ts: '1777608124.596769'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR
 ---
 # Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR
 > 原文: [https://arxiv.org/abs/2604.24770](https://arxiv.org/abs/2604.24770)

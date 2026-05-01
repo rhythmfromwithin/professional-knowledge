@@ -1,11 +1,12 @@
 ---
-title: "CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.25080
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25080
 next_step: skim
+priority: medium
+slack_ts: '1777608123.076629'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration'
 ---
 # CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration
 > 原文: [https://arxiv.org/abs/2604.25080](https://arxiv.org/abs/2604.25080)

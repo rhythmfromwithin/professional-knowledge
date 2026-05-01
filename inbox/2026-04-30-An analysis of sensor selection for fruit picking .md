@@ -1,11 +1,12 @@
 ---
-title: "An analysis of sensor selection for fruit picking with suction-based grippers"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.24906
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24906
 next_step: skim
+priority: medium
+slack_ts: '1777608121.451209'
+source: cs.RO - Robotics
+status: unread
+title: An analysis of sensor selection for fruit picking with suction-based grippers
 ---
 # An analysis of sensor selection for fruit picking with suction-based grippers
 > 原文: [https://arxiv.org/abs/2604.24906](https://arxiv.org/abs/2604.24906)

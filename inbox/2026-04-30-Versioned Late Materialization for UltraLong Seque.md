@@ -1,11 +1,13 @@
 ---
-title: "Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.24806
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24806
 next_step: skim
+priority: low
+slack_ts: '1777608128.457299'
+source: cs.DB - Databases
+status: unread
+title: Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation
+  Systems at Scale
 ---
 # Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale
 > 原文: [https://arxiv.org/abs/2604.24806](https://arxiv.org/abs/2604.24806)

@@ -1,11 +1,12 @@
 ---
-title: "Cybersecurity in the Intelligence Age"
-source: "OpenAI Blog"
-link: https://openai.com/index/cybersecurity-in-the-intelligence-age
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/cybersecurity-in-the-intelligence-age
 next_step: skim
+priority: high
+slack_ts: '1777608124.287619'
+source: OpenAI Blog
+status: unread
+title: Cybersecurity in the Intelligence Age
 ---
 # Cybersecurity in the Intelligence Age
 > 原文: [https://openai.com/index/cybersecurity-in-the-intelligence-age](https://openai.com/index/cybersecurity-in-the-intelligence-age)

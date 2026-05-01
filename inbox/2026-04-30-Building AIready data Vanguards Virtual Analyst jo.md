@@ -1,11 +1,12 @@
 ---
-title: "Building AI-ready data: Vanguard’s Virtual Analyst journey"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/
 next_step: skim
+priority: high
+slack_ts: '1777608122.452689'
+source: AWS Blog
+status: unread
+title: 'Building AI-ready data: Vanguard’s Virtual Analyst journey'
 ---
 # Building AI-ready data: Vanguard’s Virtual Analyst journey
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/](https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/)

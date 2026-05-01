@@ -1,11 +1,12 @@
 ---
-title: "Building the compute infrastructure for the Intelligence Age"
-source: "OpenAI Blog"
-link: https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age
 next_step: skim
+priority: high
+slack_ts: '1777608122.666329'
+source: OpenAI Blog
+status: unread
+title: Building the compute infrastructure for the Intelligence Age
 ---
 # Building the compute infrastructure for the Intelligence Age
 > 原文: [https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age)

@@ -1,11 +1,12 @@
 ---
-title: "Elite-Driven Support Vector Machines for Classification"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.25158
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25158
 next_step: skim
+priority: medium
+slack_ts: '1777608124.715029'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Elite-Driven Support Vector Machines for Classification
 ---
 # Elite-Driven Support Vector Machines for Classification
 > 原文: [https://arxiv.org/abs/2604.25158](https://arxiv.org/abs/2604.25158)

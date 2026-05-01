@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Management of Microservices in Dynamic Computing Environments: A Taxonomy and Future Directions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.25222
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25222
 next_step: skim
+priority: medium
+slack_ts: '1777608121.244479'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Adaptive Management of Microservices in Dynamic Computing Environments: A
+  Taxonomy and Future Directions'
 ---
 # Adaptive Management of Microservices in Dynamic Computing Environments: A Taxonomy and Future Directions
 > 原文: [https://arxiv.org/abs/2604.25222](https://arxiv.org/abs/2604.25222)

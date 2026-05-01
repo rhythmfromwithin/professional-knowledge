@@ -1,11 +1,12 @@
 ---
-title: "Learning Illumination Control in Diffusion Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.24877
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24877
 next_step: skim
+priority: medium
+slack_ts: '1777608126.111119'
+source: cs.CV - Computer Vision
+status: unread
+title: Learning Illumination Control in Diffusion Models
 ---
 # Learning Illumination Control in Diffusion Models
 > 原文: [https://arxiv.org/abs/2604.24877](https://arxiv.org/abs/2604.24877)

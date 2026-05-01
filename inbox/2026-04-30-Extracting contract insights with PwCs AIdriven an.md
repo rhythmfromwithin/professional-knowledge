@@ -1,11 +1,12 @@
 ---
-title: "Extracting contract insights with PwC’s AI-driven annotation on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1777608124.960239'
+source: AWS Blog
+status: unread
+title: Extracting contract insights with PwC’s AI-driven annotation on AWS
 ---
 # Extracting contract insights with PwC’s AI-driven annotation on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/](https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/)

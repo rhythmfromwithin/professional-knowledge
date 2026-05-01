@@ -1,11 +1,13 @@
 ---
-title: "MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.24833
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24833
 next_step: skim
+priority: medium
+slack_ts: '1777608126.355519'
+source: cs.RO - Robotics
+status: unread
+title: 'MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model
+  and Smart Primitives'
 ---
 # MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives
 > 原文: [https://arxiv.org/abs/2604.24833](https://arxiv.org/abs/2604.24833)
