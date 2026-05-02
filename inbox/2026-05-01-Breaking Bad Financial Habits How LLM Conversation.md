@@ -1,11 +1,12 @@
 ---
-title: "Breaking Bad Financial Habits: How LLM Conversations Correct Financial Misconceptions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.27022
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27022
 next_step: skim
+priority: low
+slack_ts: '1777692906.430129'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Breaking Bad Financial Habits: How LLM Conversations Correct Financial Misconceptions'
 ---
 # Breaking Bad Financial Habits: How LLM Conversations Correct Financial Misconceptions
 > 原文: [https://arxiv.org/abs/2604.27022](https://arxiv.org/abs/2604.27022)

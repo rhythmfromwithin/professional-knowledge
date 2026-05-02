@@ -1,0 +1,14 @@
+---
+title: "MAEO: Multiobjective Animorphic Ensemble Optimization for Scalable Large-scale Engineering Applications"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2604.26973
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# MAEO: Multiobjective Animorphic Ensemble Optimization for Scalable Large-scale Engineering Applications
+> 原文: [https://arxiv.org/abs/2604.26973](https://arxiv.org/abs/2604.26973)
+
+arXiv:2604.26973v1 Announce Type: new
+Abstract: Multiobjective optimization remains challenging for many scientific and engineering problems due to the need to balance convergence, diversity, and computational efficiency across high-dimensional objective landscapes. This work presents the Multiobjective Animorphic Ensemble Optimization (MAEO) framework, a parallelizable ensemble strategy that unifies state-of-the-art evolutionary algorithms within an island-based architecture, overcoming the limitations of relying on a single optimizer, as implied by the No Free Lunch theorem. MAEO uses a parameter-free hypervolume indicator for island performance assessment and a strict Pareto-rank-based individual scoring formulation that incorporates crowding distance and nadir-point proximity to ensure consistent selection pressure within each front. The framework is initiated using four algorithms (NSGA-III, CTAEA, AGEMOEA2, SPEA2) and evaluated through extensive benchmarking on 12 DTLZ/ZDT functions under 36 dimensionality settings using Wilcoxon signed-rank tests with both hypervolume and inverse generational distance metrics. Results show that MAEO achieves balanced convergence-diversity performance, outperforming or matching some of the leading multiobjective optimization algorithms across different benchmark problems. To demonstrate practical applicability, MAEO is applied to the equilibrium-cycle optimization of a small modular nuclear reactor. Eight discrete design variables (and three objectives (levelized cost of electricity, peak soluble boron concentration, fuel cycle length) are optimized under two safety constraints. The algorithm carried out roughly 40000 evaluations using computer simulations. MAEO identifies core designs that lower both the levelized cost of electricity and the peak boron concentration, while preserving fuel cycle length and meeting all safety constraints.

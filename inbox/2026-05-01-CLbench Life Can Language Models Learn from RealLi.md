@@ -1,11 +1,12 @@
 ---
-title: "CL-bench Life: Can Language Models Learn from Real-Life Context?"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.27043
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27043
 next_step: skim
+priority: high
+slack_ts: '1777692907.585299'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'CL-bench Life: Can Language Models Learn from Real-Life Context?'
 ---
 # CL-bench Life: Can Language Models Learn from Real-Life Context?
 > 原文: [https://arxiv.org/abs/2604.27043](https://arxiv.org/abs/2604.27043)

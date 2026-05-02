@@ -1,11 +1,13 @@
 ---
-title: "VisualNeo: Bridging the Gap between Visual Query Interfaces and Graph Query Engines"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.25283
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25283
 next_step: skim
+priority: low
+slack_ts: '1777692901.148109'
+source: cs.DB - Databases
+status: unread
+title: 'VisualNeo: Bridging the Gap between Visual Query Interfaces and Graph Query
+  Engines'
 ---
 # VisualNeo: Bridging the Gap between Visual Query Interfaces and Graph Query Engines
 > 原文: [https://arxiv.org/abs/2604.25283](https://arxiv.org/abs/2604.25283)

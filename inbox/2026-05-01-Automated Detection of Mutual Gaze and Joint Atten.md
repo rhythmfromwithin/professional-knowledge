@@ -1,11 +1,13 @@
 ---
-title: "Automated Detection of Mutual Gaze and Joint Attention in Dual-Camera Settings via Dual-Stream Transformers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.27105
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27105
 next_step: skim
+priority: medium
+slack_ts: '1777692905.386609'
+source: cs.CV - Computer Vision
+status: unread
+title: Automated Detection of Mutual Gaze and Joint Attention in Dual-Camera Settings
+  via Dual-Stream Transformers
 ---
 # Automated Detection of Mutual Gaze and Joint Attention in Dual-Camera Settings via Dual-Stream Transformers
 > 原文: [https://arxiv.org/abs/2604.27105](https://arxiv.org/abs/2604.27105)

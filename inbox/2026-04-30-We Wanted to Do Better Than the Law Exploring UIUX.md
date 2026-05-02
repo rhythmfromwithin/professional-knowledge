@@ -1,11 +1,5 @@
 ---
-title: ""We Wanted to Do Better Than the Law": Exploring UI/UX Designers' Privacy Advocacy in Practice"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.24982
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1777692901.372289'
 ---
 # "We Wanted to Do Better Than the Law": Exploring UI/UX Designers' Privacy Advocacy in Practice
 > 原文: [https://arxiv.org/abs/2604.24982](https://arxiv.org/abs/2604.24982)

@@ -1,11 +1,12 @@
 ---
-title: "Optimal Consumption and Investment with Energy-Efficiency Adoption"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.28052
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.28052
 next_step: skim
+priority: low
+slack_ts: '1777692913.494349'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Optimal Consumption and Investment with Energy-Efficiency Adoption
 ---
 # Optimal Consumption and Investment with Energy-Efficiency Adoption
 > 原文: [https://arxiv.org/abs/2604.28052](https://arxiv.org/abs/2604.28052)

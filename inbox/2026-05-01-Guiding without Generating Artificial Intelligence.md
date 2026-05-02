@@ -1,11 +1,13 @@
 ---
-title: "Guiding without Generating: Artificial Intelligence (AI)-Enabled Topic Nudges in Online Reviews"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2511.09877
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2511.09877
 next_step: skim
+priority: low
+slack_ts: '1777692910.526869'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Guiding without Generating: Artificial Intelligence (AI)-Enabled Topic Nudges
+  in Online Reviews'
 ---
 # Guiding without Generating: Artificial Intelligence (AI)-Enabled Topic Nudges in Online Reviews
 > 原文: [https://arxiv.org/abs/2511.09877](https://arxiv.org/abs/2511.09877)

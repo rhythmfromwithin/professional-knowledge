@@ -1,11 +1,12 @@
 ---
-title: "An Empirical Security Evaluation of LLM-Generated Cryptographic Rust Code"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.27001
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27001
 next_step: skim
+priority: low
+slack_ts: '1777692903.970319'
+source: cs.CR - Cryptography and Security
+status: unread
+title: An Empirical Security Evaluation of LLM-Generated Cryptographic Rust Code
 ---
 # An Empirical Security Evaluation of LLM-Generated Cryptographic Rust Code
 > 原文: [https://arxiv.org/abs/2604.27001](https://arxiv.org/abs/2604.27001)

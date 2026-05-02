@@ -1,11 +1,12 @@
 ---
-title: "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.24902
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24902
 next_step: skim
+priority: medium
+slack_ts: '1777692898.874889'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains'
 ---
 # Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains
 > 原文: [https://arxiv.org/abs/2604.24902](https://arxiv.org/abs/2604.24902)

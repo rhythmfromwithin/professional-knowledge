@@ -1,11 +1,13 @@
 ---
-title: "V.O.I.C.E (Voice, Ownership, Identity, Control, Expression): Risk Taxonomy of Synthetic Voice Generation From Empirical Data"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.24794
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24794
 next_step: skim
+priority: low
+slack_ts: '1777692900.753439'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'V.O.I.C.E (Voice, Ownership, Identity, Control, Expression): Risk Taxonomy
+  of Synthetic Voice Generation From Empirical Data'
 ---
 # V.O.I.C.E (Voice, Ownership, Identity, Control, Expression): Risk Taxonomy of Synthetic Voice Generation From Empirical Data
 > 原文: [https://arxiv.org/abs/2604.24794](https://arxiv.org/abs/2604.24794)

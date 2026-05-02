@@ -1,11 +1,13 @@
 ---
-title: "The Short- and Long-Term Impacts of Expanding Public Education for Disabled Students"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.25767
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25767
 next_step: skim
+priority: low
+slack_ts: '1777692900.026359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Short- and Long-Term Impacts of Expanding Public Education for Disabled
+  Students
 ---
 # The Short- and Long-Term Impacts of Expanding Public Education for Disabled Students
 > 原文: [https://arxiv.org/abs/2604.25767](https://arxiv.org/abs/2604.25767)

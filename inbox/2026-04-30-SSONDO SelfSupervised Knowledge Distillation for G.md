@@ -1,11 +1,13 @@
 ---
-title: "S-SONDO: Self-Supervised Knowledge Distillation for General Audio Foundation Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.24933
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24933
 next_step: skim
+priority: high
+slack_ts: '1777692898.416629'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'S-SONDO: Self-Supervised Knowledge Distillation for General Audio Foundation
+  Models'
 ---
 # S-SONDO: Self-Supervised Knowledge Distillation for General Audio Foundation Models
 > 原文: [https://arxiv.org/abs/2604.24933](https://arxiv.org/abs/2604.24933)

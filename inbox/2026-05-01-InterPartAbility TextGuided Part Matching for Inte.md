@@ -1,11 +1,12 @@
 ---
-title: "InterPartAbility: Text-Guided Part Matching for Interpretable Person Re-Identification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.27122
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27122
 next_step: skim
+priority: medium
+slack_ts: '1777692910.983159'
+source: cs.CV - Computer Vision
+status: unread
+title: 'InterPartAbility: Text-Guided Part Matching for Interpretable Person Re-Identification'
 ---
 # InterPartAbility: Text-Guided Part Matching for Interpretable Person Re-Identification
 > 原文: [https://arxiv.org/abs/2604.27122](https://arxiv.org/abs/2604.27122)

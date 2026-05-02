@@ -1,11 +1,13 @@
 ---
-title: "VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.24885
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24885
 next_step: skim
+priority: medium
+slack_ts: '1777692900.953129'
+source: cs.CV - Computer Vision
+status: unread
+title: 'VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic
+  Resolution Generations'
 ---
 # VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations
 > 原文: [https://arxiv.org/abs/2604.24885](https://arxiv.org/abs/2604.24885)

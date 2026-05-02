@@ -1,11 +1,12 @@
 ---
-title: "SWE-QA: A Dataset and Benchmark for Complex Code Understanding"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.24814
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24814
 next_step: skim
+priority: low
+slack_ts: '1777692898.659809'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SWE-QA: A Dataset and Benchmark for Complex Code Understanding'
 ---
 # SWE-QA: A Dataset and Benchmark for Complex Code Understanding
 > 原文: [https://arxiv.org/abs/2604.24814](https://arxiv.org/abs/2604.24814)

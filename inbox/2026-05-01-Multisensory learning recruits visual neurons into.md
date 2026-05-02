@@ -1,11 +1,12 @@
 ---
-title: "Multisensory learning recruits visual neurons into an olfactory memory engram"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.28007
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.28007
 next_step: skim
+priority: low
+slack_ts: '1777692912.824509'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Multisensory learning recruits visual neurons into an olfactory memory engram
 ---
 # Multisensory learning recruits visual neurons into an olfactory memory engram
 > 原文: [https://arxiv.org/abs/2604.28007](https://arxiv.org/abs/2604.28007)

@@ -1,11 +1,13 @@
 ---
-title: "A Novel Computational Framework for Causal Inference: Tree-Based Discretization with ILP-Based Matching"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.27307
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27307
 next_step: skim
+priority: medium
+slack_ts: '1777692902.296739'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'A Novel Computational Framework for Causal Inference: Tree-Based Discretization
+  with ILP-Based Matching'
 ---
 # A Novel Computational Framework for Causal Inference: Tree-Based Discretization with ILP-Based Matching
 > 原文: [https://arxiv.org/abs/2604.27307](https://arxiv.org/abs/2604.27307)

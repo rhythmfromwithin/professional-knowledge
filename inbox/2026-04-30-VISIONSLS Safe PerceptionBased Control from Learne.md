@@ -1,11 +1,13 @@
 ---
-title: "VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.24894
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24894
 next_step: skim
+priority: medium
+slack_ts: '1777692900.472599'
+source: cs.RO - Robotics
+status: unread
+title: 'VISION-SLS: Safe Perception-Based Control from Learned Visual Representations
+  via System Level Synthesis'
 ---
 # VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis
 > 原文: [https://arxiv.org/abs/2604.24894](https://arxiv.org/abs/2604.24894)

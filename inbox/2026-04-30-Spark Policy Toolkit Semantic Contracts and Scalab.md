@@ -1,11 +1,13 @@
 ---
-title: "Spark Policy Toolkit: Semantic Contracts and Scalable Execution for Policy Learning in Spark"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.25061
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25061
 next_step: skim
+priority: medium
+slack_ts: '1777692899.541419'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Spark Policy Toolkit: Semantic Contracts and Scalable Execution for Policy
+  Learning in Spark'
 ---
 # Spark Policy Toolkit: Semantic Contracts and Scalable Execution for Policy Learning in Spark
 > 原文: [https://arxiv.org/abs/2604.25061](https://arxiv.org/abs/2604.25061)

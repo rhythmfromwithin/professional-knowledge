@@ -1,11 +1,13 @@
 ---
-title: "Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.27000
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27000
 next_step: skim
+priority: low
+slack_ts: '1777692903.264729'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program
+  Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches'
 ---
 # Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches
 > 原文: [https://arxiv.org/abs/2604.27000](https://arxiv.org/abs/2604.27000)

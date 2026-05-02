@@ -1,11 +1,13 @@
 ---
-title: "Sources of Inequality at Birth: The Interplay Between Genes and Parental Socioeconomic Status"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.25522
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.25522
 next_step: skim
+priority: low
+slack_ts: '1777692899.345579'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Sources of Inequality at Birth: The Interplay Between Genes and Parental Socioeconomic
+  Status'
 ---
 # Sources of Inequality at Birth: The Interplay Between Genes and Parental Socioeconomic Status
 > 原文: [https://arxiv.org/abs/2604.25522](https://arxiv.org/abs/2604.25522)

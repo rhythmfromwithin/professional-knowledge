@@ -1,11 +1,13 @@
 ---
-title: "BatteryPass-12K: The First Dataset for the Novel Digital Battery Passport Conformance Task"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.26986
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26986
 next_step: skim
+priority: high
+slack_ts: '1777692905.642739'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'BatteryPass-12K: The First Dataset for the Novel Digital Battery Passport
+  Conformance Task'
 ---
 # BatteryPass-12K: The First Dataset for the Novel Digital Battery Passport Conformance Task
 > 原文: [https://arxiv.org/abs/2604.26986](https://arxiv.org/abs/2604.26986)

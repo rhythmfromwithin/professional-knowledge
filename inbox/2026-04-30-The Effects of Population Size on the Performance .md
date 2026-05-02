@@ -1,11 +1,13 @@
 ---
-title: "The Effects of Population Size on the Performance of BEAGLE GPU-Based Genetic Programming Runs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.24968
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.24968
 next_step: skim
+priority: low
+slack_ts: '1777692899.752509'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: The Effects of Population Size on the Performance of BEAGLE GPU-Based Genetic
+  Programming Runs
 ---
 # The Effects of Population Size on the Performance of BEAGLE GPU-Based Genetic Programming Runs
 > 原文: [https://arxiv.org/abs/2604.24968](https://arxiv.org/abs/2604.24968)

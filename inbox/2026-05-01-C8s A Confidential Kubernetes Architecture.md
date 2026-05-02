@@ -1,11 +1,12 @@
 ---
-title: "C8s: A Confidential Kubernetes Architecture"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.26974
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26974
 next_step: skim
+priority: low
+slack_ts: '1777692907.395169'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'C8s: A Confidential Kubernetes Architecture'
 ---
 # C8s: A Confidential Kubernetes Architecture
 > 原文: [https://arxiv.org/abs/2604.26974](https://arxiv.org/abs/2604.26974)
