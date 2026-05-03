@@ -1,11 +1,13 @@
 ---
-title: "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.26999
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26999
 next_step: skim
+priority: high
+slack_ts: '1777780643.126669'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed
+  Neural Networks
 ---
 # Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks
 > 原文: [https://arxiv.org/abs/2604.26999](https://arxiv.org/abs/2604.26999)

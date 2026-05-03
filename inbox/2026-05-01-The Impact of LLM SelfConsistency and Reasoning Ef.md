@@ -1,11 +1,13 @@
 ---
-title: "The Impact of LLM Self-Consistency and Reasoning Effort on Automated Scoring Accuracy and Cost"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.26954
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26954
 next_step: skim
+priority: medium
+slack_ts: '1777780640.064849'
+source: cs.CY - Computers and Society
+status: unread
+title: The Impact of LLM Self-Consistency and Reasoning Effort on Automated Scoring
+  Accuracy and Cost
 ---
 # The Impact of LLM Self-Consistency and Reasoning Effort on Automated Scoring Accuracy and Cost
 > 原文: [https://arxiv.org/abs/2604.26954](https://arxiv.org/abs/2604.26954)

@@ -1,11 +1,12 @@
 ---
-title: "End-to-End and Phase-Level Performance Optimization for Hyperledger Fabric"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.27174
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27174
 next_step: skim
+priority: medium
+slack_ts: '1777780643.685599'
+source: cs.DC - Distributed Computing
+status: unread
+title: End-to-End and Phase-Level Performance Optimization for Hyperledger Fabric
 ---
 # End-to-End and Phase-Level Performance Optimization for Hyperledger Fabric
 > 原文: [https://arxiv.org/abs/2604.27174](https://arxiv.org/abs/2604.27174)

@@ -1,11 +1,13 @@
 ---
-title: "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/
 next_step: skim
+priority: medium
+slack_ts: '1777780642.942269'
+source: Meta Engineering
+status: unread
+title: 'Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at
+  Hyperscale'
 ---
 # Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale
 > 原文: [https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/](https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/)

@@ -1,11 +1,13 @@
 ---
-title: "Sun Finance automates ID extraction and fraud detection with generative AI on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1777780639.961059'
+source: AWS Blog
+status: unread
+title: Sun Finance automates ID extraction and fraud detection with generative AI
+  on AWS
 ---
 # Sun Finance automates ID extraction and fraud detection with generative AI on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/](https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/)

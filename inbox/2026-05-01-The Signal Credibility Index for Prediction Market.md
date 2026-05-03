@@ -1,11 +1,13 @@
 ---
-title: "The Signal Credibility Index for Prediction Markets: A Microstructure-Grounded Diagnostic with Weighted and Time-Varying Extensions"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.27041
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27041
 next_step: skim
+priority: low
+slack_ts: '1777780640.159409'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Signal Credibility Index for Prediction Markets: A Microstructure-Grounded
+  Diagnostic with Weighted and Time-Varying Extensions'
 ---
 # The Signal Credibility Index for Prediction Markets: A Microstructure-Grounded Diagnostic with Weighted and Time-Varying Extensions
 > 原文: [https://arxiv.org/abs/2604.27041](https://arxiv.org/abs/2604.27041)

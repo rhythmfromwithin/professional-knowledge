@@ -1,11 +1,13 @@
 ---
-title: "EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.27004
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27004
 next_step: skim
+priority: low
+slack_ts: '1777780643.488369'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge
+  IoT Architectures'
 ---
 # EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures
 > 原文: [https://arxiv.org/abs/2604.27004](https://arxiv.org/abs/2604.27004)

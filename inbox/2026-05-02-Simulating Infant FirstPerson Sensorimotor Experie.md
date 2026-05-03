@@ -1,11 +1,13 @@
 ---
-title: "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.27583
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27583
 next_step: skim
+priority: low
+slack_ts: '1777780645.937119'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting
+  from Babies to Humanoids
 ---
 # Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids
 > 原文: [https://arxiv.org/abs/2604.27583](https://arxiv.org/abs/2604.27583)

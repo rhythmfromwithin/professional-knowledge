@@ -1,11 +1,12 @@
 ---
-title: "Robot Planning and Situation Handling with Active Perception"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2604.26988
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26988
 next_step: skim
+priority: medium
+slack_ts: '1777780639.337039'
+source: cs.RO - Robotics
+status: unread
+title: Robot Planning and Situation Handling with Active Perception
 ---
 # Robot Planning and Situation Handling with Active Perception
 > 原文: [https://arxiv.org/abs/2604.26988](https://arxiv.org/abs/2604.26988)

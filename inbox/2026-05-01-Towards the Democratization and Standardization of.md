@@ -1,11 +1,13 @@
 ---
-title: "Towards the Democratization and Standardization of Dynamic Resources with MPI Spawning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.27430
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27430
 next_step: skim
+priority: medium
+slack_ts: '1777780640.342409'
+source: cs.DC - Distributed Computing
+status: unread
+title: Towards the Democratization and Standardization of Dynamic Resources with MPI
+  Spawning
 ---
 # Towards the Democratization and Standardization of Dynamic Resources with MPI Spawning
 > 原文: [https://arxiv.org/abs/2604.27430](https://arxiv.org/abs/2604.27430)

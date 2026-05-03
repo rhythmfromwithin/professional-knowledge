@@ -1,11 +1,12 @@
 ---
-title: "RCMAES: A Robust CMA-ES Variant for CEC2026 Competition"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2604.27138
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27138
 next_step: skim
+priority: low
+slack_ts: '1777780639.008069'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'RCMAES: A Robust CMA-ES Variant for CEC2026 Competition'
 ---
 # RCMAES: A Robust CMA-ES Variant for CEC2026 Competition
 > 原文: [https://arxiv.org/abs/2604.27138](https://arxiv.org/abs/2604.27138)

@@ -1,11 +1,13 @@
 ---
-title: "Static Program Slicing Using Language Models With Dataflow-Aware Pretraining and Constrained Decoding"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2604.26961
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26961
 next_step: skim
+priority: low
+slack_ts: '1777780639.872929'
+source: cs.SE - Software Engineering
+status: unread
+title: Static Program Slicing Using Language Models With Dataflow-Aware Pretraining
+  and Constrained Decoding
 ---
 # Static Program Slicing Using Language Models With Dataflow-Aware Pretraining and Constrained Decoding
 > 原文: [https://arxiv.org/abs/2604.26961](https://arxiv.org/abs/2604.26961)

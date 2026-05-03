@@ -1,11 +1,12 @@
 ---
-title: "Simple Self-Conditioning Adaptation for Masked Diffusion Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.26985
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26985
 next_step: skim
+priority: high
+slack_ts: '1777780639.535539'
+source: cs.LG - Machine Learning
+status: unread
+title: Simple Self-Conditioning Adaptation for Masked Diffusion Models
 ---
 # Simple Self-Conditioning Adaptation for Masked Diffusion Models
 > 原文: [https://arxiv.org/abs/2604.26985](https://arxiv.org/abs/2604.26985)

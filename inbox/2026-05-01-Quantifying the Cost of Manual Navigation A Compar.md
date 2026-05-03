@@ -1,11 +1,13 @@
 ---
-title: "Quantifying the Cost of Manual Navigation: A Comparison of Gesture-Based Magnification versus Direct Access Reading in Digital Layout-based Documents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.27010
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27010
 next_step: skim
+priority: low
+slack_ts: '1777780638.921649'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Quantifying the Cost of Manual Navigation: A Comparison of Gesture-Based Magnification
+  versus Direct Access Reading in Digital Layout-based Documents'
 ---
 # Quantifying the Cost of Manual Navigation: A Comparison of Gesture-Based Magnification versus Direct Access Reading in Digital Layout-based Documents
 > 原文: [https://arxiv.org/abs/2604.27010](https://arxiv.org/abs/2604.27010)

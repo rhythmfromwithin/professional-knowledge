@@ -1,11 +1,13 @@
 ---
-title: "SynSQL: Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.27261
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27261
 next_step: skim
+priority: low
+slack_ts: '1777780646.280809'
+source: cs.DB - Databases
+status: unread
+title: 'SynSQL: Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL
+  Systems'
 ---
 # SynSQL: Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems
 > 原文: [https://arxiv.org/abs/2604.27261](https://arxiv.org/abs/2604.27261)

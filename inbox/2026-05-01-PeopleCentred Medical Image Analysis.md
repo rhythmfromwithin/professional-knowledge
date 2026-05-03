@@ -1,11 +1,12 @@
 ---
-title: "People-Centred Medical Image Analysis"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.26991
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26991
 next_step: skim
+priority: high
+slack_ts: '1777780638.622379'
+source: cs.LG - Machine Learning
+status: unread
+title: People-Centred Medical Image Analysis
 ---
 # People-Centred Medical Image Analysis
 > 原文: [https://arxiv.org/abs/2604.26991](https://arxiv.org/abs/2604.26991)

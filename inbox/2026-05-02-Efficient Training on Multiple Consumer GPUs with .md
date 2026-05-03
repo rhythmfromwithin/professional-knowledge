@@ -1,11 +1,12 @@
 ---
-title: "Efficient Training on Multiple Consumer GPUs with RoundPipe"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2604.27085
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27085
 next_step: skim
+priority: medium
+slack_ts: '1777780643.579269'
+source: cs.DC - Distributed Computing
+status: unread
+title: Efficient Training on Multiple Consumer GPUs with RoundPipe
 ---
 # Efficient Training on Multiple Consumer GPUs with RoundPipe
 > 原文: [https://arxiv.org/abs/2604.27085](https://arxiv.org/abs/2604.27085)

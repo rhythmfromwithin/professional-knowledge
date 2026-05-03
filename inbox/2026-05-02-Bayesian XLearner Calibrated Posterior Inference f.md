@@ -1,11 +1,13 @@
 ---
-title: "Bayesian X-Learner: Calibrated Posterior Inference for Heterogeneous Treatment Effects under Heavy-Tailed Outcomes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.27394
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27394
 next_step: skim
+priority: medium
+slack_ts: '1777780642.098769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Bayesian X-Learner: Calibrated Posterior Inference for Heterogeneous Treatment
+  Effects under Heavy-Tailed Outcomes'
 ---
 # Bayesian X-Learner: Calibrated Posterior Inference for Heterogeneous Treatment Effects under Heavy-Tailed Outcomes
 > 原文: [https://arxiv.org/abs/2604.27394](https://arxiv.org/abs/2604.27394)

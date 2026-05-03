@@ -1,11 +1,13 @@
 ---
-title: "Can AI be a moral victim? The role of moral patiency and ownership perceptions in ethical judgments of using AI-generated content"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.26956
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26956
 next_step: skim
+priority: medium
+slack_ts: '1777780642.820799'
+source: cs.CY - Computers and Society
+status: unread
+title: Can AI be a moral victim? The role of moral patiency and ownership perceptions
+  in ethical judgments of using AI-generated content
 ---
 # Can AI be a moral victim? The role of moral patiency and ownership perceptions in ethical judgments of using AI-generated content
 > 原文: [https://arxiv.org/abs/2604.26956](https://arxiv.org/abs/2604.26956)
