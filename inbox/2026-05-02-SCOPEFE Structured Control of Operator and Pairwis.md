@@ -1,11 +1,13 @@
 ---
-title: "SCOPE-FE: Structured Control of Operator and Pairwise Exploration for Feature Engineering"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2604.27025
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27025
 next_step: skim
+priority: medium
+slack_ts: '1777866890.405519'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'SCOPE-FE: Structured Control of Operator and Pairwise Exploration for Feature
+  Engineering'
 ---
 # SCOPE-FE: Structured Control of Operator and Pairwise Exploration for Feature Engineering
 > 原文: [https://arxiv.org/abs/2604.27025](https://arxiv.org/abs/2604.27025)

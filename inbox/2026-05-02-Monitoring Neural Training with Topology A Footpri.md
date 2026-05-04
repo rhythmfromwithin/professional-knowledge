@@ -1,11 +1,13 @@
 ---
-title: "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2604.26984
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26984
 next_step: skim
+priority: high
+slack_ts: '1777866887.262519'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Monitoring Neural Training with Topology: A Footprint-Predictable Collapse
+  Index'
 ---
 # Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index
 > 原文: [https://arxiv.org/abs/2604.26984](https://arxiv.org/abs/2604.26984)

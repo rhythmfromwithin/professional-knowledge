@@ -1,11 +1,12 @@
 ---
-title: "Apr 30, 2026Societal ImpactsHow people ask Claude for personal guidance"
-source: "Anthropic"
-link: https://www.anthropic.com/research/claude-personal-guidance
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/claude-personal-guidance
 next_step: skim
+priority: high
+slack_ts: '1777866895.442139'
+source: Anthropic
+status: unread
+title: Apr 30, 2026Societal ImpactsHow people ask Claude for personal guidance
 ---
 # Apr 30, 2026Societal ImpactsHow people ask Claude for personal guidance
 > 原文: [https://www.anthropic.com/research/claude-personal-guidance](https://www.anthropic.com/research/claude-personal-guidance)

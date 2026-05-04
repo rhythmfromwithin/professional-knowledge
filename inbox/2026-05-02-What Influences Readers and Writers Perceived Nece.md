@@ -1,11 +1,12 @@
 ---
-title: "What Influences Readers' and Writers' Perceived Necessity of AI Disclosure?"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2604.27129
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27129
 next_step: skim
+priority: low
+slack_ts: '1777866892.359319'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: What Influences Readers' and Writers' Perceived Necessity of AI Disclosure?
 ---
 # What Influences Readers' and Writers' Perceived Necessity of AI Disclosure?
 > 原文: [https://arxiv.org/abs/2604.27129](https://arxiv.org/abs/2604.27129)

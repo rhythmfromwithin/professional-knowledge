@@ -1,11 +1,12 @@
 ---
-title: "Binary Spiking Neural Networks as Causal Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.27007
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27007
 next_step: skim
+priority: high
+slack_ts: '1777866896.072589'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Binary Spiking Neural Networks as Causal Models
 ---
 # Binary Spiking Neural Networks as Causal Models
 > 原文: [https://arxiv.org/abs/2604.27007](https://arxiv.org/abs/2604.27007)

@@ -1,11 +1,13 @@
 ---
-title: "Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2604.27106
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27106
 next_step: skim
+priority: medium
+slack_ts: '1777866889.764379'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse
+  Observations'
 ---
 # Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations
 > 原文: [https://arxiv.org/abs/2604.27106](https://arxiv.org/abs/2604.27106)

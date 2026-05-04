@@ -1,11 +1,12 @@
 ---
-title: "Introducing Advanced Account Security"
-source: "OpenAI Blog"
-link: https://openai.com/index/advanced-account-security
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/advanced-account-security
 next_step: skim
+priority: high
+slack_ts: '1777866899.207409'
+source: OpenAI Blog
+status: unread
+title: Introducing Advanced Account Security
 ---
 # Introducing Advanced Account Security
 > 原文: [https://openai.com/index/advanced-account-security](https://openai.com/index/advanced-account-security)

@@ -1,7 +1,9 @@
 ---
-title: "Skipper: Building Airbnb’s embedded workflow engine"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss
+slack_ts: '1777866890.851049'
+source: Airbnb Engineering
+title: 'Skipper: Building Airbnb’s embedded workflow engine'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

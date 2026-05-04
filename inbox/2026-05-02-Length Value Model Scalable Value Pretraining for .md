@@ -1,11 +1,12 @@
 ---
-title: "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2604.27039
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27039
 next_step: skim
+priority: high
+slack_ts: '1777866886.821769'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling'
 ---
 # Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling
 > 原文: [https://arxiv.org/abs/2604.27039](https://arxiv.org/abs/2604.27039)

@@ -1,11 +1,13 @@
 ---
-title: "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2604.27082
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27082
 next_step: skim
+priority: high
+slack_ts: '1777866892.611309'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration
+  in Production Systems'
 ---
 # When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems
 > 原文: [https://arxiv.org/abs/2604.27082](https://arxiv.org/abs/2604.27082)

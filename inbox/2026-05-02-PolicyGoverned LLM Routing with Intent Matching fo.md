@@ -1,11 +1,12 @@
 ---
-title: "Policy-Governed LLM Routing with Intent Matching for Instrument Laboratories"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2604.26955
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26955
 next_step: skim
+priority: medium
+slack_ts: '1777866888.802859'
+source: cs.CY - Computers and Society
+status: unread
+title: Policy-Governed LLM Routing with Intent Matching for Instrument Laboratories
 ---
 # Policy-Governed LLM Routing with Intent Matching for Instrument Laboratories
 > 原文: [https://arxiv.org/abs/2604.26955](https://arxiv.org/abs/2604.26955)

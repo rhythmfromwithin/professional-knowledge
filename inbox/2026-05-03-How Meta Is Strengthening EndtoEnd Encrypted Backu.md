@@ -1,11 +1,12 @@
 ---
-title: "How Meta Is Strengthening End-to-End Encrypted Backups"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/
 next_step: skim
+priority: medium
+slack_ts: '1777866898.955489'
+source: Meta Engineering
+status: unread
+title: How Meta Is Strengthening End-to-End Encrypted Backups
 ---
 # How Meta Is Strengthening End-to-End Encrypted Backups
 > 原文: [https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/](https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/)

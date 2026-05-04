@@ -1,11 +1,12 @@
 ---
-title: "Unified Data Discovery across Query Modalities and User Intents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.27252
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27252
 next_step: skim
+priority: low
+slack_ts: '1777866892.103919'
+source: cs.DB - Databases
+status: unread
+title: Unified Data Discovery across Query Modalities and User Intents
 ---
 # Unified Data Discovery across Query Modalities and User Intents
 > 原文: [https://arxiv.org/abs/2604.27252](https://arxiv.org/abs/2604.27252)

@@ -1,11 +1,13 @@
 ---
-title: "Graphify: Automated Synthesis of Type-Safe Graph Backends via $O(S)$ GraphQL-to-Gremlin Transpilation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2604.27223
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.27223
 next_step: skim
+priority: low
+slack_ts: '1777866885.064939'
+source: cs.DB - Databases
+status: unread
+title: 'Graphify: Automated Synthesis of Type-Safe Graph Backends via $O(S)$ GraphQL-to-Gremlin
+  Transpilation'
 ---
 # Graphify: Automated Synthesis of Type-Safe Graph Backends via $O(S)$ GraphQL-to-Gremlin Transpilation
 > 原文: [https://arxiv.org/abs/2604.27223](https://arxiv.org/abs/2604.27223)

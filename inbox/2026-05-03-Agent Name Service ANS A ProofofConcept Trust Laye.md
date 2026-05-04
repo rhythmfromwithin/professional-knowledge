@@ -1,11 +1,13 @@
 ---
-title: "Agent Name Service (ANS): A Proof-of-Concept Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2604.26997
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.26997
 next_step: skim
+priority: low
+slack_ts: '1777866894.274939'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Agent Name Service (ANS): A Proof-of-Concept Trust Layer for Secure AI Agent
+  Discovery, Identity, and Governance in Kubernetes'
 ---
 # Agent Name Service (ANS): A Proof-of-Concept Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes
 > 原文: [https://arxiv.org/abs/2604.26997](https://arxiv.org/abs/2604.26997)
