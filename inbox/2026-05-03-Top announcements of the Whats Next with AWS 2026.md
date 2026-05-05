@@ -1,11 +1,12 @@
 ---
-title: "Top announcements of the What’s Next with AWS, 2026"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/
 next_step: skim
+priority: high
+slack_ts: '1777952314.967659'
+source: AWS Blog
+status: unread
+title: Top announcements of the What’s Next with AWS, 2026
 ---
 # Top announcements of the What’s Next with AWS, 2026
 > 原文: [https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/](https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/)
