@@ -1,11 +1,12 @@
 ---
-title: "Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.00402
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00402
 next_step: skim
+priority: low
+slack_ts: '1778039482.038569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation
 ---
 # Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation
 > 原文: [https://arxiv.org/abs/2605.00402](https://arxiv.org/abs/2605.00402)

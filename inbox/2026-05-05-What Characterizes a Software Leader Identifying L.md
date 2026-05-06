@@ -1,11 +1,13 @@
 ---
-title: "What Characterizes a Software Leader? Identifying Leadership Practices from Practitioners Social Media"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.00191
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00191
 next_step: skim
+priority: low
+slack_ts: '1778039484.939989'
+source: cs.SE - Software Engineering
+status: unread
+title: What Characterizes a Software Leader? Identifying Leadership Practices from
+  Practitioners Social Media
 ---
 # What Characterizes a Software Leader? Identifying Leadership Practices from Practitioners Social Media
 > 原文: [https://arxiv.org/abs/2605.00191](https://arxiv.org/abs/2605.00191)

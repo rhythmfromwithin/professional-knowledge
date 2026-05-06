@@ -1,11 +1,13 @@
 ---
-title: "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.00060
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00060
 next_step: skim
+priority: high
+slack_ts: '1778039483.352099'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over
+  Heterogeneous Wellsite Data'
 ---
 # TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data
 > 原文: [https://arxiv.org/abs/2605.00060](https://arxiv.org/abs/2605.00060)

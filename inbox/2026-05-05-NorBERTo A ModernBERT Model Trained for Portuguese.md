@@ -1,11 +1,13 @@
 ---
-title: "NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.00086
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00086
 next_step: skim
+priority: high
+slack_ts: '1778039479.370839'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens
+  Corpus'
 ---
 # NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus
 > 原文: [https://arxiv.org/abs/2605.00086](https://arxiv.org/abs/2605.00086)

@@ -1,11 +1,12 @@
 ---
-title: "Unbox Responsible GeoAI: Navigating Climate Extreme and Disaster Mapping"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.00315
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00315
 next_step: skim
+priority: medium
+slack_ts: '1778039484.129119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Unbox Responsible GeoAI: Navigating Climate Extreme and Disaster Mapping'
 ---
 # Unbox Responsible GeoAI: Navigating Climate Extreme and Disaster Mapping
 > 原文: [https://arxiv.org/abs/2605.00315](https://arxiv.org/abs/2605.00315)

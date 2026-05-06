@@ -1,11 +1,13 @@
 ---
-title: "SHIFT: Robust Double Machine Learning for Average Dose-Response Functions under Heavy-Tailed Contamination"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.00176
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00176
 next_step: skim
+priority: medium
+slack_ts: '1778039481.765299'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'SHIFT: Robust Double Machine Learning for Average Dose-Response Functions
+  under Heavy-Tailed Contamination'
 ---
 # SHIFT: Robust Double Machine Learning for Average Dose-Response Functions under Heavy-Tailed Contamination
 > 原文: [https://arxiv.org/abs/2605.00176](https://arxiv.org/abs/2605.00176)

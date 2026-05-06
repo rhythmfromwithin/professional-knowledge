@@ -1,11 +1,12 @@
 ---
-title: "DEPTEX: Organization-First, Open Source Dependency Risk Monitoring"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.00179
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00179
 next_step: skim
+priority: low
+slack_ts: '1778039473.333799'
+source: cs.SE - Software Engineering
+status: unread
+title: 'DEPTEX: Organization-First, Open Source Dependency Risk Monitoring'
 ---
 # DEPTEX: Organization-First, Open Source Dependency Risk Monitoring
 > 原文: [https://arxiv.org/abs/2605.00179](https://arxiv.org/abs/2605.00179)

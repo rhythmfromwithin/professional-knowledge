@@ -1,11 +1,12 @@
 ---
-title: "Replication in Graph Partitioning and Scheduling Problems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.00209
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00209
 next_step: skim
+priority: medium
+slack_ts: '1778039481.515869'
+source: cs.DC - Distributed Computing
+status: unread
+title: Replication in Graph Partitioning and Scheduling Problems
 ---
 # Replication in Graph Partitioning and Scheduling Problems
 > 原文: [https://arxiv.org/abs/2605.00209](https://arxiv.org/abs/2605.00209)

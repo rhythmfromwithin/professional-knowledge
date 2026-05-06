@@ -1,11 +1,12 @@
 ---
-title: "UniBCI: Towards a Unified Pretrained Model for Invasive Brain-Computer Interfaces"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.00061
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00061
 next_step: skim
+priority: low
+slack_ts: '1778039484.379569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'UniBCI: Towards a Unified Pretrained Model for Invasive Brain-Computer Interfaces'
 ---
 # UniBCI: Towards a Unified Pretrained Model for Invasive Brain-Computer Interfaces
 > 原文: [https://arxiv.org/abs/2605.00061](https://arxiv.org/abs/2605.00061)

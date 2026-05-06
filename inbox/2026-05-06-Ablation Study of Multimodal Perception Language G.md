@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2605.00963
+next_step: skim
+priority: medium
+slack_ts: '1778039486.708309'
+source: cs.RO - Robotics
+status: unread
+title: Ablation Study of Multimodal Perception, Language Grounding, and Control for
+  Human-Robot Interaction in an Object Detection and Grasping Task
+---
+# Ablation Study of Multimodal Perception, Language Grounding, and Control for Human-Robot Interaction in an Object Detection and Grasping Task
+> 原文: [https://arxiv.org/abs/2605.00963](https://arxiv.org/abs/2605.00963)
+
+arXiv:2605.00963v1 Announce Type: new
+Abstract: This manuscript extends our previous multimodal human-robot interaction system by introducing a controlled ablation study of the three modules that most strongly influence end-to-end performance: the large language model used for action extraction, the perception system used for visual grounding, and the controller used for motion execution. The goal is not to redesign the full pipeline, but to isolate the contribution of each component under a common experimental protocol and then evaluate the best combinations end-to-end. We therefore compare three language models, five perception configurations, and three controllers, followed by a second-stage factorial study over the best candidates. The resulting analysis is intended to clarify which choices primarily affect execution time, which primarily affect success rate, and where the largest engineering gains are likely to come from in future revisions of the system.

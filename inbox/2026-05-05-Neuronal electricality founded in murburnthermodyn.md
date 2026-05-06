@@ -1,11 +1,13 @@
 ---
-title: "Neuronal electricality founded in murburn-thermodynamic principles: 2. Comparisons, evidenced explanations, and predictions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.00014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00014
 next_step: skim
+priority: low
+slack_ts: '1778039478.854289'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Neuronal electricality founded in murburn-thermodynamic principles: 2. Comparisons,
+  evidenced explanations, and predictions'
 ---
 # Neuronal electricality founded in murburn-thermodynamic principles: 2. Comparisons, evidenced explanations, and predictions
 > 原文: [https://arxiv.org/abs/2605.00014](https://arxiv.org/abs/2605.00014)

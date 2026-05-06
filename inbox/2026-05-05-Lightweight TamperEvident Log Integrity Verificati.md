@@ -1,11 +1,13 @@
 ---
-title: "Lightweight Tamper-Evident Log Integrity Verification for IoT Edge Environments: A Merkle Tree Pipeline with Adaptive Chunking"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.00065
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00065
 next_step: skim
+priority: low
+slack_ts: '1778039477.840659'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Lightweight Tamper-Evident Log Integrity Verification for IoT Edge Environments:
+  A Merkle Tree Pipeline with Adaptive Chunking'
 ---
 # Lightweight Tamper-Evident Log Integrity Verification for IoT Edge Environments: A Merkle Tree Pipeline with Adaptive Chunking
 > 原文: [https://arxiv.org/abs/2605.00065](https://arxiv.org/abs/2605.00065)

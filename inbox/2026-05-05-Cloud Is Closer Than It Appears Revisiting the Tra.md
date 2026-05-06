@@ -1,11 +1,13 @@
 ---
-title: "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.00005
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00005
 next_step: skim
+priority: high
+slack_ts: '1778039472.555459'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time
+  Inference'
 ---
 # Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference
 > 原文: [https://arxiv.org/abs/2605.00005](https://arxiv.org/abs/2605.00005)

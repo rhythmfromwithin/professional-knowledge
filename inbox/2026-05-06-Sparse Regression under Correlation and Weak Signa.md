@@ -1,0 +1,14 @@
+---
+title: "Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods"
+source: "cs.LG - Machine Learning"
+link: https://arxiv.org/abs/2605.00835
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods
+> 原文: [https://arxiv.org/abs/2605.00835](https://arxiv.org/abs/2605.00835)
+
+arXiv:2605.00835v1 Announce Type: new
+Abstract: Choosing between classical and Bayesian sparse regression methods involves a real trade-off: penalized estimators like Lasso run in milliseconds but give no uncertainty estimates,while Horseshoe and Spike-and-Slab priors produce full posteriors but need MCMC chains that take minutes per fit.Surprisingly few studies compare these two families head-to-head under the conditions that actually make sparse regression hard -- correlated features, weak signals, and growing dimensionality. We benchmark six methods (OLS, Ridge,Lasso, Elastic Net, Horseshoe, Spike-and-Slab) on synthetic data with three covariance structures (rho up to 0.9), four SNR levels, and p in {20, 50, 100}, plus the Diabetes dataset,totalling over 2,600 experiments. The results are clear on some points and nuanced on others. Bayesian methods win on prediction error (MSE 72 vs. 108-267), and the Horseshoe delivers near-nominal 95% coverage (94.8%). But Spike-and-Slab,despite narrower intervals, under-covers at 91.9% -- its continuous relaxation likely plays a role. For variable selection, Lasso and Spike-and-Slab tie at F1 ~ 0.47, making Lasso the practical default when posteriors are not needed. Code and data are available at https://github.com/xiao98/sparse-bayesian-regression-bench.

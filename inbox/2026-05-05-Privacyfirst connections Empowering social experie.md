@@ -1,7 +1,9 @@
 ---
-title: "Privacy-first connections: Empowering social experiences at Airbnb"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss
+slack_ts: '1778039480.154159'
+source: Airbnb Engineering
+title: 'Privacy-first connections: Empowering social experiences at Airbnb'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

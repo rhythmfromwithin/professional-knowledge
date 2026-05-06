@@ -1,11 +1,13 @@
 ---
-title: "Engagement Phenotypes for a Sample of 102,684 AI Mental Health Chatbot Users and Dose-Response Associations with Clinical Outcomes"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.00275
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00275
 next_step: skim
+priority: low
+slack_ts: '1778039474.644829'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Engagement Phenotypes for a Sample of 102,684 AI Mental Health Chatbot Users
+  and Dose-Response Associations with Clinical Outcomes
 ---
 # Engagement Phenotypes for a Sample of 102,684 AI Mental Health Chatbot Users and Dose-Response Associations with Clinical Outcomes
 > 原文: [https://arxiv.org/abs/2605.00275](https://arxiv.org/abs/2605.00275)

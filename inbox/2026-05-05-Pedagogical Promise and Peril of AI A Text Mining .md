@@ -1,11 +1,13 @@
 ---
-title: "Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.00361
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00361
 next_step: skim
+priority: medium
+slack_ts: '1778039479.898259'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research
+  Discussions in Programming Education'
 ---
 # Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
 > 原文: [https://arxiv.org/abs/2605.00361](https://arxiv.org/abs/2605.00361)

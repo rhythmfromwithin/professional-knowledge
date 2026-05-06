@@ -1,11 +1,12 @@
 ---
-title: "RSDM: The Consensus Honest Money in the AI Era"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.00340
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00340
 next_step: skim
+priority: low
+slack_ts: '1778039480.731029'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'RSDM: The Consensus Honest Money in the AI Era'
 ---
 # RSDM: The Consensus Honest Money in the AI Era
 > 原文: [https://arxiv.org/abs/2605.00340](https://arxiv.org/abs/2605.00340)

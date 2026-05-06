@@ -1,11 +1,13 @@
 ---
-title: "Urban Science Beyond Samples: Up-to-Date Street Network Models and Indicators for Every Urban Area in the World"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.00108
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00108
 next_step: skim
+priority: low
+slack_ts: '1778039484.635109'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Urban Science Beyond Samples: Up-to-Date Street Network Models and Indicators
+  for Every Urban Area in the World'
 ---
 # Urban Science Beyond Samples: Up-to-Date Street Network Models and Indicators for Every Urban Area in the World
 > 原文: [https://arxiv.org/abs/2605.00108](https://arxiv.org/abs/2605.00108)

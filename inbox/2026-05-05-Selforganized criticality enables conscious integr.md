@@ -1,11 +1,13 @@
 ---
-title: "Self-organized criticality enables conscious integration through brain-body resonance"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.00024
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00024
 next_step: skim
+priority: low
+slack_ts: '1778039482.295019'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Self-organized criticality enables conscious integration through brain-body
+  resonance
 ---
 # Self-organized criticality enables conscious integration through brain-body resonance
 > 原文: [https://arxiv.org/abs/2605.00024](https://arxiv.org/abs/2605.00024)

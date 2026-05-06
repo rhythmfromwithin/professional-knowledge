@@ -1,11 +1,13 @@
 ---
-title: "How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework for Surface vs. Structural Change in System-Prompted Responses"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.00113
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00113
 next_step: skim
+priority: high
+slack_ts: '1778039475.732849'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework
+  for Surface vs. Structural Change in System-Prompted Responses'
 ---
 # How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework for Surface vs. Structural Change in System-Prompted Responses
 > 原文: [https://arxiv.org/abs/2605.00113](https://arxiv.org/abs/2605.00113)

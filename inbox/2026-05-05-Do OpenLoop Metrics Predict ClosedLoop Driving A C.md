@@ -1,11 +1,13 @@
 ---
-title: "Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation Study of NAVSIM and Bench2Drive"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.00066
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00066
 next_step: skim
+priority: medium
+slack_ts: '1778039473.843499'
+source: cs.RO - Robotics
+status: unread
+title: Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation
+  Study of NAVSIM and Bench2Drive
 ---
 # Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation Study of NAVSIM and Bench2Drive
 > 原文: [https://arxiv.org/abs/2605.00066](https://arxiv.org/abs/2605.00066)

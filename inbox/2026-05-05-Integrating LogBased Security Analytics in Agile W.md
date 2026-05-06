@@ -1,11 +1,13 @@
 ---
-title: "Integrating Log-Based Security Analytics in Agile Workflows: A Real-World Experience Report"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.00352
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00352
 next_step: skim
+priority: low
+slack_ts: '1778039476.524779'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Integrating Log-Based Security Analytics in Agile Workflows: A Real-World
+  Experience Report'
 ---
 # Integrating Log-Based Security Analytics in Agile Workflows: A Real-World Experience Report
 > 原文: [https://arxiv.org/abs/2605.00352](https://arxiv.org/abs/2605.00352)

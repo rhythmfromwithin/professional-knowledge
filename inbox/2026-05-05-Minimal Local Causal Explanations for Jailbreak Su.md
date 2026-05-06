@@ -1,11 +1,13 @@
 ---
-title: "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.00123
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00123
 next_step: skim
+priority: high
+slack_ts: '1778039478.092219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Minimal, Local, Causal Explanations for Jailbreak Success in Large Language
+  Models
 ---
 # Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models
 > 原文: [https://arxiv.org/abs/2605.00123](https://arxiv.org/abs/2605.00123)

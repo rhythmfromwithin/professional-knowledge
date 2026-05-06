@@ -1,11 +1,12 @@
 ---
-title: "Multiset semantics in SPARQL, Relational Algebra and Datalog"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.00417
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00417
 next_step: skim
+priority: low
+slack_ts: '1778039478.599939'
+source: cs.DB - Databases
+status: unread
+title: Multiset semantics in SPARQL, Relational Algebra and Datalog
 ---
 # Multiset semantics in SPARQL, Relational Algebra and Datalog
 > 原文: [https://arxiv.org/abs/2605.00417](https://arxiv.org/abs/2605.00417)

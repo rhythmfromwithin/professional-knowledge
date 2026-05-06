@@ -1,11 +1,13 @@
 ---
-title: "JFR-rg Part II: Dynamic Extensions, Time Constraints, and Investment Design in High-Debt, Low-Growth Economies"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.00019
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00019
 next_step: skim
+priority: low
+slack_ts: '1778039477.307319'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'JFR-rg Part II: Dynamic Extensions, Time Constraints, and Investment Design
+  in High-Debt, Low-Growth Economies'
 ---
 # JFR-rg Part II: Dynamic Extensions, Time Constraints, and Investment Design in High-Debt, Low-Growth Economies
 > 原文: [https://arxiv.org/abs/2605.00019](https://arxiv.org/abs/2605.00019)

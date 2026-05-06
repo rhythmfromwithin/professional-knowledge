@@ -1,11 +1,12 @@
 ---
-title: "What Physics do Data-Driven MoCap-to-Radar Models Learn?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.00018
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00018
 next_step: skim
+priority: high
+slack_ts: '1778039485.197509'
+source: cs.LG - Machine Learning
+status: unread
+title: What Physics do Data-Driven MoCap-to-Radar Models Learn?
 ---
 # What Physics do Data-Driven MoCap-to-Radar Models Learn?
 > 原文: [https://arxiv.org/abs/2605.00018](https://arxiv.org/abs/2605.00018)

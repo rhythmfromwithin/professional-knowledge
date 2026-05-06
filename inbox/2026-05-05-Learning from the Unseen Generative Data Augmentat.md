@@ -1,11 +1,13 @@
 ---
-title: "Learning from the Unseen: Generative Data Augmentation for Geometric-Semantic Accident Anticipation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.00051
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00051
 next_step: skim
+priority: medium
+slack_ts: '1778039477.579249'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Learning from the Unseen: Generative Data Augmentation for Geometric-Semantic
+  Accident Anticipation'
 ---
 # Learning from the Unseen: Generative Data Augmentation for Geometric-Semantic Accident Anticipation
 > 原文: [https://arxiv.org/abs/2605.00051](https://arxiv.org/abs/2605.00051)

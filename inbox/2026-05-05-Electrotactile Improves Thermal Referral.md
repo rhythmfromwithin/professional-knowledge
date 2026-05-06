@@ -1,11 +1,12 @@
 ---
-title: "Electrotactile Improves Thermal Referral"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.00240
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00240
 next_step: skim
+priority: low
+slack_ts: '1778039474.107629'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Electrotactile Improves Thermal Referral
 ---
 # Electrotactile Improves Thermal Referral
 > 原文: [https://arxiv.org/abs/2605.00240](https://arxiv.org/abs/2605.00240)

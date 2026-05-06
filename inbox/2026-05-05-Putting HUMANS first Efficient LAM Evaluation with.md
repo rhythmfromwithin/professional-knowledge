@@ -1,11 +1,12 @@
 ---
-title: "Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.00022
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00022
 next_step: skim
+priority: high
+slack_ts: '1778039480.471959'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment'
 ---
 # Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment
 > 原文: [https://arxiv.org/abs/2605.00022](https://arxiv.org/abs/2605.00022)
