@@ -1,11 +1,13 @@
 ---
-title: "Temporal Out-of-Distribution Detection for Asynchronous Motor Imagery Brain-Computer Interfaces"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.01014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01014
 next_step: skim
+priority: low
+slack_ts: '1778125807.282499'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Temporal Out-of-Distribution Detection for Asynchronous Motor Imagery Brain-Computer
+  Interfaces
 ---
 # Temporal Out-of-Distribution Detection for Asynchronous Motor Imagery Brain-Computer Interfaces
 > 原文: [https://arxiv.org/abs/2605.01014](https://arxiv.org/abs/2605.01014)

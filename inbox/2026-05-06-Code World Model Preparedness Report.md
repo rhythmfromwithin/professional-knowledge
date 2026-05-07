@@ -1,11 +1,12 @@
 ---
-title: "Code World Model Preparedness Report"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.00932
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00932
 next_step: skim
+priority: low
+slack_ts: '1778125800.537409'
+source: cs.SE - Software Engineering
+status: unread
+title: Code World Model Preparedness Report
 ---
 # Code World Model Preparedness Report
 > 原文: [https://arxiv.org/abs/2605.00932](https://arxiv.org/abs/2605.00932)

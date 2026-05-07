@@ -1,11 +1,13 @@
 ---
-title: "From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.01656
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01656
 next_step: skim
+priority: low
+slack_ts: '1778125801.864349'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An
+  Oscillatory Spiking Neural Network with Time-Delayed Coordination'
 ---
 # From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination
 > 原文: [https://arxiv.org/abs/2605.01656](https://arxiv.org/abs/2605.01656)

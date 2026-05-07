@@ -1,11 +1,13 @@
 ---
-title: "LiDAR for Rehabilitation: A Comprehensive Survey of Applications, AI Techniques, and Future Directions"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.00879
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00879
 next_step: skim
+priority: medium
+slack_ts: '1778125804.516679'
+source: cs.RO - Robotics
+status: unread
+title: 'LiDAR for Rehabilitation: A Comprehensive Survey of Applications, AI Techniques,
+  and Future Directions'
 ---
 # LiDAR for Rehabilitation: A Comprehensive Survey of Applications, AI Techniques, and Future Directions
 > 原文: [https://arxiv.org/abs/2605.00879](https://arxiv.org/abs/2605.00879)

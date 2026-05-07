@@ -1,11 +1,12 @@
 ---
-title: "New ways to buy ChatGPT ads"
-source: "OpenAI Blog"
-link: https://openai.com/index/new-ways-to-buy-chatgpt-ads
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/new-ways-to-buy-chatgpt-ads
 next_step: skim
+priority: high
+slack_ts: '1778125805.268319'
+source: OpenAI Blog
+status: unread
+title: New ways to buy ChatGPT ads
 ---
 # New ways to buy ChatGPT ads
 > 原文: [https://openai.com/index/new-ways-to-buy-chatgpt-ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads)

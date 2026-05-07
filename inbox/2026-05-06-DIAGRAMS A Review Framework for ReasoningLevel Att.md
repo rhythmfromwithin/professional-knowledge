@@ -1,11 +1,12 @@
 ---
-title: "DIAGRAMS: A Review Framework for Reasoning-Level Attribution in Diagram QA"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.00905
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00905
 next_step: skim
+priority: high
+slack_ts: '1778125801.060589'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DIAGRAMS: A Review Framework for Reasoning-Level Attribution in Diagram QA'
 ---
 # DIAGRAMS: A Review Framework for Reasoning-Level Attribution in Diagram QA
 > 原文: [https://arxiv.org/abs/2605.00905](https://arxiv.org/abs/2605.00905)

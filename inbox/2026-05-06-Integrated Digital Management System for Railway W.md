@@ -1,11 +1,13 @@
 ---
-title: "Integrated Digital Management System for Railway Workshops: A Modular Multi-Workflow Architecture for Machine, Permit, Contract, and Incident Management"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.00840
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00840
 next_step: skim
+priority: medium
+slack_ts: '1778125803.965219'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Integrated Digital Management System for Railway Workshops: A Modular Multi-Workflow
+  Architecture for Machine, Permit, Contract, and Incident Management'
 ---
 # Integrated Digital Management System for Railway Workshops: A Modular Multi-Workflow Architecture for Machine, Permit, Contract, and Incident Management
 > 原文: [https://arxiv.org/abs/2605.00840](https://arxiv.org/abs/2605.00840)

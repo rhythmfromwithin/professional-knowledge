@@ -1,11 +1,12 @@
 ---
-title: "SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.01937
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01937
 next_step: skim
+priority: low
+slack_ts: '1778125806.235409'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors'
 ---
 # SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors
 > 原文: [https://arxiv.org/abs/2605.01937](https://arxiv.org/abs/2605.01937)

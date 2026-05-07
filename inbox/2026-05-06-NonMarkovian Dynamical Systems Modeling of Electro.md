@@ -1,11 +1,13 @@
 ---
-title: "Non-Markovian Dynamical Systems Modeling of Electroencephalogram-based Brain Activity for Anticipating the Cognitive Fatigue Level"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.01043
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01043
 next_step: skim
+priority: low
+slack_ts: '1778125805.387189'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Non-Markovian Dynamical Systems Modeling of Electroencephalogram-based Brain
+  Activity for Anticipating the Cognitive Fatigue Level
 ---
 # Non-Markovian Dynamical Systems Modeling of Electroencephalogram-based Brain Activity for Anticipating the Cognitive Fatigue Level
 > 原文: [https://arxiv.org/abs/2605.01043](https://arxiv.org/abs/2605.01043)

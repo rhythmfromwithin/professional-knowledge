@@ -1,11 +1,13 @@
 ---
-title: "Separating Intelligence from Execution: A Workflow Engine for the Model Context Protocol"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.00827
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00827
 next_step: skim
+priority: medium
+slack_ts: '1778125806.527099'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Separating Intelligence from Execution: A Workflow Engine for the Model Context
+  Protocol'
 ---
 # Separating Intelligence from Execution: A Workflow Engine for the Model Context Protocol
 > 原文: [https://arxiv.org/abs/2605.00827](https://arxiv.org/abs/2605.00827)

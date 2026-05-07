@@ -1,11 +1,12 @@
 ---
-title: "Graph Query Generation with Constraint-guided Large Language Agents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.00845
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00845
 next_step: skim
+priority: low
+slack_ts: '1778125802.617909'
+source: cs.DB - Databases
+status: unread
+title: Graph Query Generation with Constraint-guided Large Language Agents
 ---
 # Graph Query Generation with Constraint-guided Large Language Agents
 > 原文: [https://arxiv.org/abs/2605.00845](https://arxiv.org/abs/2605.00845)

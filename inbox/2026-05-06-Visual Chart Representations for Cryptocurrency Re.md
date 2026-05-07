@@ -1,11 +1,13 @@
 ---
-title: "Visual Chart Representations for Cryptocurrency Regime Prediction: A Systematic Deep Learning Study"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.00875
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00875
 next_step: skim
+priority: medium
+slack_ts: '1778125807.779479'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Visual Chart Representations for Cryptocurrency Regime Prediction: A Systematic
+  Deep Learning Study'
 ---
 # Visual Chart Representations for Cryptocurrency Regime Prediction: A Systematic Deep Learning Study
 > 原文: [https://arxiv.org/abs/2605.00875](https://arxiv.org/abs/2605.00875)

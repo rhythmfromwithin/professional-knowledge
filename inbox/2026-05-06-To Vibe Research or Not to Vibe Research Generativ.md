@@ -1,11 +1,12 @@
 ---
-title: "To Vibe Research or Not to Vibe Research? Generative AI in Qualitative Research"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.00922
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00922
 next_step: skim
+priority: low
+slack_ts: '1778125807.535939'
+source: cs.SE - Software Engineering
+status: unread
+title: To Vibe Research or Not to Vibe Research? Generative AI in Qualitative Research
 ---
 # To Vibe Research or Not to Vibe Research? Generative AI in Qualitative Research
 > 原文: [https://arxiv.org/abs/2605.00922](https://arxiv.org/abs/2605.00922)

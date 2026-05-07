@@ -1,7 +1,9 @@
 ---
-title: "Monitoring reliably at scale"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss
+slack_ts: '1778125805.150419'
+source: Airbnb Engineering
+title: Monitoring reliably at scale
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

@@ -1,11 +1,12 @@
 ---
-title: "Synthetic Designed Experiments for Diagnosing Vision Model Failure"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.00832
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00832
 next_step: skim
+priority: medium
+slack_ts: '1778125807.162589'
+source: cs.CV - Computer Vision
+status: unread
+title: Synthetic Designed Experiments for Diagnosing Vision Model Failure
 ---
 # Synthetic Designed Experiments for Diagnosing Vision Model Failure
 > 原文: [https://arxiv.org/abs/2605.00832](https://arxiv.org/abs/2605.00832)

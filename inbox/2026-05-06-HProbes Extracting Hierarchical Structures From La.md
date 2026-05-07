@@ -1,11 +1,13 @@
 ---
-title: "H-Probes: Extracting Hierarchical Structures From Latent Representations of Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.00847
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00847
 next_step: skim
+priority: high
+slack_ts: '1778125803.254799'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'H-Probes: Extracting Hierarchical Structures From Latent Representations of
+  Language Models'
 ---
 # H-Probes: Extracting Hierarchical Structures From Latent Representations of Language Models
 > 原文: [https://arxiv.org/abs/2605.00847](https://arxiv.org/abs/2605.00847)

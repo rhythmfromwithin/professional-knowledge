@@ -1,11 +1,12 @@
 ---
-title: "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/
 next_step: skim
+priority: high
+slack_ts: '1778125804.100929'
+source: AWS Blog
+status: unread
+title: Introducing OS Level Actions in Amazon Bedrock AgentCore Browser
 ---
 # Introducing OS Level Actions in Amazon Bedrock AgentCore Browser
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/](https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/)

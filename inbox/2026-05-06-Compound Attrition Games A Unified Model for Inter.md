@@ -1,11 +1,12 @@
 ---
-title: "Compound Attrition Games: A Unified Model for Inter- and Intra-Coalition Rivalry"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.02354
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02354
 next_step: skim
+priority: low
+slack_ts: '1778125800.660689'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Compound Attrition Games: A Unified Model for Inter- and Intra-Coalition Rivalry'
 ---
 # Compound Attrition Games: A Unified Model for Inter- and Intra-Coalition Rivalry
 > 原文: [https://arxiv.org/abs/2605.02354](https://arxiv.org/abs/2605.02354)

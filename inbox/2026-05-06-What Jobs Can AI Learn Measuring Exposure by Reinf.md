@@ -1,11 +1,12 @@
 ---
-title: "What Jobs Can AI Learn? Measuring Exposure by Reinforcement Learning"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.02598
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02598
 next_step: skim
+priority: low
+slack_ts: '1778125807.904159'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: What Jobs Can AI Learn? Measuring Exposure by Reinforcement Learning
 ---
 # What Jobs Can AI Learn? Measuring Exposure by Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2605.02598](https://arxiv.org/abs/2605.02598)

@@ -1,11 +1,12 @@
 ---
-title: "Don't Be a Pot Stirrer! Authorized Vector Data Retrieval via Access-Aware Indexing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.01342
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01342
 next_step: skim
+priority: low
+slack_ts: '1778125801.188969'
+source: cs.DB - Databases
+status: unread
+title: Don't Be a Pot Stirrer! Authorized Vector Data Retrieval via Access-Aware Indexing
 ---
 # Don't Be a Pot Stirrer! Authorized Vector Data Retrieval via Access-Aware Indexing
 > 原文: [https://arxiv.org/abs/2605.01342](https://arxiv.org/abs/2605.01342)

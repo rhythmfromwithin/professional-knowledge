@@ -1,11 +1,12 @@
 ---
-title: "Canonical LST: A Protocol-Native Liquid Staking Solution for Tezos"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.00828
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00828
 next_step: skim
+priority: medium
+slack_ts: '1778125800.280679'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Canonical LST: A Protocol-Native Liquid Staking Solution for Tezos'
 ---
 # Canonical LST: A Protocol-Native Liquid Staking Solution for Tezos
 > 原文: [https://arxiv.org/abs/2605.00828](https://arxiv.org/abs/2605.00828)

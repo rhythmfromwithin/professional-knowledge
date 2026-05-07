@@ -1,11 +1,13 @@
 ---
-title: "Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.00835
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00835
 next_step: skim
+priority: high
+slack_ts: '1778125806.757779'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark
+  of Classical and Bayesian Methods'
 ---
 # Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods
 > 原文: [https://arxiv.org/abs/2605.00835](https://arxiv.org/abs/2605.00835)

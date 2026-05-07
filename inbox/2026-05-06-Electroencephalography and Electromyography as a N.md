@@ -1,11 +1,14 @@
 ---
-title: "Electroencephalography and Electromyography as a Non-Invasive Biomarker of Neural Regeneration: A Review of Central and Peripheral Nervous System Injury and Regeneration"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.01767
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01767
 next_step: skim
+priority: low
+slack_ts: '1778125801.605749'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Electroencephalography and Electromyography as a Non-Invasive Biomarker of
+  Neural Regeneration: A Review of Central and Peripheral Nervous System Injury and
+  Regeneration'
 ---
 # Electroencephalography and Electromyography as a Non-Invasive Biomarker of Neural Regeneration: A Review of Central and Peripheral Nervous System Injury and Regeneration
 > 原文: [https://arxiv.org/abs/2605.01767](https://arxiv.org/abs/2605.01767)

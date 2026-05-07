@@ -1,11 +1,12 @@
 ---
-title: "Efficient Accelerated Graph Edit Distance Computation on GPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.00830
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00830
 next_step: skim
+priority: medium
+slack_ts: '1778125801.462419'
+source: cs.DC - Distributed Computing
+status: unread
+title: Efficient Accelerated Graph Edit Distance Computation on GPU
 ---
 # Efficient Accelerated Graph Edit Distance Computation on GPU
 > 原文: [https://arxiv.org/abs/2605.00830](https://arxiv.org/abs/2605.00830)

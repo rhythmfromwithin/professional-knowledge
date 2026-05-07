@@ -1,11 +1,13 @@
 ---
-title: "Measuring Understanding Through Discrete Compositional Knowledge Structures in Hierarchical Automata"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.01430
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01430
 next_step: skim
+priority: low
+slack_ts: '1778125804.637989'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Measuring Understanding Through Discrete Compositional Knowledge Structures
+  in Hierarchical Automata
 ---
 # Measuring Understanding Through Discrete Compositional Knowledge Structures in Hierarchical Automata
 > 原文: [https://arxiv.org/abs/2605.01430](https://arxiv.org/abs/2605.01430)

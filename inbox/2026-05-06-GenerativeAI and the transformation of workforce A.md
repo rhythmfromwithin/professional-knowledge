@@ -1,11 +1,12 @@
 ---
-title: "Generative-AI and the transformation of workforce. A job postings-driven analysis"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.00843
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00843
 next_step: skim
+priority: medium
+slack_ts: '1778125802.379979'
+source: cs.CY - Computers and Society
+status: unread
+title: Generative-AI and the transformation of workforce. A job postings-driven analysis
 ---
 # Generative-AI and the transformation of workforce. A job postings-driven analysis
 > 原文: [https://arxiv.org/abs/2605.00843](https://arxiv.org/abs/2605.00843)

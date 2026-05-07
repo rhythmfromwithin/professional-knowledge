@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking local Hebbian learning rules for memory storage and prototype extraction"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.01074
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01074
 next_step: skim
+priority: low
+slack_ts: '1778125800.009739'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Benchmarking local Hebbian learning rules for memory storage and prototype
+  extraction
 ---
 # Benchmarking local Hebbian learning rules for memory storage and prototype extraction
 > 原文: [https://arxiv.org/abs/2605.01074](https://arxiv.org/abs/2605.01074)

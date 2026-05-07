@@ -1,11 +1,12 @@
 ---
-title: "ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.01866
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.01866
 next_step: skim
+priority: low
+slack_ts: '1778125806.652439'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization'
 ---
 # ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization
 > 原文: [https://arxiv.org/abs/2605.01866](https://arxiv.org/abs/2605.01866)

@@ -1,11 +1,12 @@
 ---
-title: "Understanding Emergent Misalignment via Feature Superposition Geometry"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.00842
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00842
 next_step: skim
+priority: high
+slack_ts: '1778125807.657349'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Understanding Emergent Misalignment via Feature Superposition Geometry
 ---
 # Understanding Emergent Misalignment via Feature Superposition Geometry
 > 原文: [https://arxiv.org/abs/2605.00842](https://arxiv.org/abs/2605.00842)

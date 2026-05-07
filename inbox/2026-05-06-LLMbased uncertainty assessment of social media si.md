@@ -1,11 +1,13 @@
 ---
-title: "LLM-based uncertainty assessment of social media situational signals for crisis reporting"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.00829
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.00829
 next_step: skim
+priority: medium
+slack_ts: '1778125804.271439'
+source: cs.CY - Computers and Society
+status: unread
+title: LLM-based uncertainty assessment of social media situational signals for crisis
+  reporting
 ---
 # LLM-based uncertainty assessment of social media situational signals for crisis reporting
 > 原文: [https://arxiv.org/abs/2605.00829](https://arxiv.org/abs/2605.00829)
