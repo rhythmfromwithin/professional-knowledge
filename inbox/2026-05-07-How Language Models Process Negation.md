@@ -1,11 +1,12 @@
 ---
-title: "How Language Models Process Negation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.03052
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03052
 next_step: skim
+priority: high
+slack_ts: '1778211643.670539'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: How Language Models Process Negation
 ---
 # How Language Models Process Negation
 > 原文: [https://arxiv.org/abs/2605.03052](https://arxiv.org/abs/2605.03052)

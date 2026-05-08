@@ -1,11 +1,13 @@
 ---
-title: "Decompose to Understand, Fuse to Detect: Frequency-Decoupled Anomaly Detection for Encrypted Network Traffic"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.02970
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02970
 next_step: skim
+priority: low
+slack_ts: '1778211641.935489'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Decompose to Understand, Fuse to Detect: Frequency-Decoupled Anomaly Detection
+  for Encrypted Network Traffic'
 ---
 # Decompose to Understand, Fuse to Detect: Frequency-Decoupled Anomaly Detection for Encrypted Network Traffic
 > 原文: [https://arxiv.org/abs/2605.02970](https://arxiv.org/abs/2605.02970)

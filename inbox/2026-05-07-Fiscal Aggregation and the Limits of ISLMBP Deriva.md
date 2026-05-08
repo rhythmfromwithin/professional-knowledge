@@ -1,11 +1,13 @@
 ---
-title: "Fiscal Aggregation and the Limits of IS--LM--BP: Derivations, Aggregation Bias and Reproducible Adversarial Simulations"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.03881
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03881
 next_step: skim
+priority: low
+slack_ts: '1778211642.682419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Fiscal Aggregation and the Limits of IS--LM--BP: Derivations, Aggregation
+  Bias and Reproducible Adversarial Simulations'
 ---
 # Fiscal Aggregation and the Limits of IS--LM--BP: Derivations, Aggregation Bias and Reproducible Adversarial Simulations
 > 原文: [https://arxiv.org/abs/2605.03881](https://arxiv.org/abs/2605.03881)

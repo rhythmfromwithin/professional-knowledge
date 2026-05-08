@@ -1,11 +1,12 @@
 ---
-title: "NeuralSet: A High-Performing Python Package for Neuro-AI"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.03169
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03169
 next_step: skim
+priority: low
+slack_ts: '1778211645.083979'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'NeuralSet: A High-Performing Python Package for Neuro-AI'
 ---
 # NeuralSet: A High-Performing Python Package for Neuro-AI
 > 原文: [https://arxiv.org/abs/2605.03169](https://arxiv.org/abs/2605.03169)

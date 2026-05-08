@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Reasoning Models for Queries with Presuppositions"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.03050
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03050
 next_step: skim
+priority: high
+slack_ts: '1778211642.480279'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Evaluating Reasoning Models for Queries with Presuppositions
 ---
 # Evaluating Reasoning Models for Queries with Presuppositions
 > 原文: [https://arxiv.org/abs/2605.03050](https://arxiv.org/abs/2605.03050)

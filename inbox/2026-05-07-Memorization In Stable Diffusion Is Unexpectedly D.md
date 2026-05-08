@@ -1,11 +1,12 @@
 ---
-title: "Memorization In Stable Diffusion Is Unexpectedly Driven by CLIP Embeddings"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.02908
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02908
 next_step: skim
+priority: medium
+slack_ts: '1778211644.584409'
+source: cs.CV - Computer Vision
+status: unread
+title: Memorization In Stable Diffusion Is Unexpectedly Driven by CLIP Embeddings
 ---
 # Memorization In Stable Diffusion Is Unexpectedly Driven by CLIP Embeddings
 > 原文: [https://arxiv.org/abs/2605.02908](https://arxiv.org/abs/2605.02908)

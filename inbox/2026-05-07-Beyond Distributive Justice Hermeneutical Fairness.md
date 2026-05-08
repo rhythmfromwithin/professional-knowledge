@@ -1,11 +1,12 @@
 ---
-title: "Beyond Distributive Justice: Hermeneutical Fairness in Ad Delivery"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.03419
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03419
 next_step: skim
+priority: medium
+slack_ts: '1778211640.605999'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Distributive Justice: Hermeneutical Fairness in Ad Delivery'
 ---
 # Beyond Distributive Justice: Hermeneutical Fairness in Ad Delivery
 > 原文: [https://arxiv.org/abs/2605.03419](https://arxiv.org/abs/2605.03419)

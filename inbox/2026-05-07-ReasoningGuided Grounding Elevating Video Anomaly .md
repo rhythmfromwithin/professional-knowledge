@@ -1,11 +1,13 @@
 ---
-title: "Reasoning-Guided Grounding: Elevating Video Anomaly Detection through Multimodal Large Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.02912
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02912
 next_step: skim
+priority: medium
+slack_ts: '1778211645.484879'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Reasoning-Guided Grounding: Elevating Video Anomaly Detection through Multimodal
+  Large Language Models'
 ---
 # Reasoning-Guided Grounding: Elevating Video Anomaly Detection through Multimodal Large Language Models
 > 原文: [https://arxiv.org/abs/2605.02912](https://arxiv.org/abs/2605.02912)

@@ -1,11 +1,13 @@
 ---
-title: "Human-Provenance Verification should be Treated as Labor Infrastructure in AI-Saturated Markets"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.03210
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03210
 next_step: skim
+priority: medium
+slack_ts: '1778211643.955869'
+source: cs.CY - Computers and Society
+status: unread
+title: Human-Provenance Verification should be Treated as Labor Infrastructure in
+  AI-Saturated Markets
 ---
 # Human-Provenance Verification should be Treated as Labor Infrastructure in AI-Saturated Markets
 > 原文: [https://arxiv.org/abs/2605.03210](https://arxiv.org/abs/2605.03210)

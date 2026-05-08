@@ -1,11 +1,12 @@
 ---
-title: "An End-to-End Framework for Building Large Language Models for Software Operations"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.02906
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02906
 next_step: skim
+priority: high
+slack_ts: '1778211639.775389'
+source: cs.LG - Machine Learning
+status: unread
+title: An End-to-End Framework for Building Large Language Models for Software Operations
 ---
 # An End-to-End Framework for Building Large Language Models for Software Operations
 > 原文: [https://arxiv.org/abs/2605.02906](https://arxiv.org/abs/2605.02906)

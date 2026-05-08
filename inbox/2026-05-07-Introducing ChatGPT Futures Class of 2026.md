@@ -1,11 +1,12 @@
 ---
-title: "Introducing ChatGPT Futures: Class of 2026"
-source: "OpenAI Blog"
-link: https://openai.com/index/introducing-chatgpt-futures-class-of-2026
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/introducing-chatgpt-futures-class-of-2026
 next_step: skim
+priority: high
+slack_ts: '1778211644.266129'
+source: OpenAI Blog
+status: unread
+title: 'Introducing ChatGPT Futures: Class of 2026'
 ---
 # Introducing ChatGPT Futures: Class of 2026
 > 原文: [https://openai.com/index/introducing-chatgpt-futures-class-of-2026](https://openai.com/index/introducing-chatgpt-futures-class-of-2026)

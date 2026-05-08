@@ -1,11 +1,12 @@
 ---
-title: "VDCores: Resource Decoupled Programming and Execution for Asynchronous GPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.03190
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03190
 next_step: skim
+priority: medium
+slack_ts: '1778211646.458669'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'VDCores: Resource Decoupled Programming and Execution for Asynchronous GPU'
 ---
 # VDCores: Resource Decoupled Programming and Execution for Asynchronous GPU
 > 原文: [https://arxiv.org/abs/2605.03190](https://arxiv.org/abs/2605.03190)

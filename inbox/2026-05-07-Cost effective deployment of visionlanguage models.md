@@ -1,11 +1,13 @@
 ---
-title: "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/
 next_step: skim
+priority: high
+slack_ts: '1778211641.599959'
+source: AWS Blog
+status: unread
+title: Cost effective deployment of vision-language models for pet behavior detection
+  on AWS Inferentia2
 ---
 # Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2
 > 原文: [https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/](https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/)

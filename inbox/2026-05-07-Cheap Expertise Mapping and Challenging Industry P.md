@@ -1,11 +1,13 @@
 ---
-title: "Cheap Expertise: Mapping and Challenging Industry Perspectives in the Expert Data Gig Economy"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.03295
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03295
 next_step: skim
+priority: medium
+slack_ts: '1778211641.037079'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Cheap Expertise: Mapping and Challenging Industry Perspectives in the Expert
+  Data Gig Economy'
 ---
 # Cheap Expertise: Mapping and Challenging Industry Perspectives in the Expert Data Gig Economy
 > 原文: [https://arxiv.org/abs/2605.03295](https://arxiv.org/abs/2605.03295)

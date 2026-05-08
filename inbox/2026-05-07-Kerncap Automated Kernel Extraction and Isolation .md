@@ -1,11 +1,12 @@
 ---
-title: "Kerncap: Automated Kernel Extraction and Isolation for AMD GPUs"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.03208
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03208
 next_step: skim
+priority: low
+slack_ts: '1778211644.487929'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Kerncap: Automated Kernel Extraction and Isolation for AMD GPUs'
 ---
 # Kerncap: Automated Kernel Extraction and Isolation for AMD GPUs
 > 原文: [https://arxiv.org/abs/2605.03208](https://arxiv.org/abs/2605.03208)

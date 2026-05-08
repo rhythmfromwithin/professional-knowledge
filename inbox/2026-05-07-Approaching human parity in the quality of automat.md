@@ -1,11 +1,12 @@
 ---
-title: "Approaching human parity in the quality of automated organoid image segmentation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.03053
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03053
 next_step: skim
+priority: medium
+slack_ts: '1778211639.983519'
+source: cs.CV - Computer Vision
+status: unread
+title: Approaching human parity in the quality of automated organoid image segmentation
 ---
 # Approaching human parity in the quality of automated organoid image segmentation
 > 原文: [https://arxiv.org/abs/2605.03053](https://arxiv.org/abs/2605.03053)

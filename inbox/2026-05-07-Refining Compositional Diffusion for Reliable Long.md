@@ -1,11 +1,12 @@
 ---
-title: "Refining Compositional Diffusion for Reliable Long-Horizon Planning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.03075
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03075
 next_step: skim
+priority: medium
+slack_ts: '1778211645.700549'
+source: cs.RO - Robotics
+status: unread
+title: Refining Compositional Diffusion for Reliable Long-Horizon Planning
 ---
 # Refining Compositional Diffusion for Reliable Long-Horizon Planning
 > 原文: [https://arxiv.org/abs/2605.03075](https://arxiv.org/abs/2605.03075)

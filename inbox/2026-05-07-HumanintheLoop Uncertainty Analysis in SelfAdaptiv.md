@@ -1,11 +1,12 @@
 ---
-title: "Human-in-the-Loop Uncertainty Analysis in Self-Adaptive Robots Using LLMs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.02983
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02983
 next_step: skim
+priority: medium
+slack_ts: '1778211644.057319'
+source: cs.RO - Robotics
+status: unread
+title: Human-in-the-Loop Uncertainty Analysis in Self-Adaptive Robots Using LLMs
 ---
 # Human-in-the-Loop Uncertainty Analysis in Self-Adaptive Robots Using LLMs
 > 原文: [https://arxiv.org/abs/2605.02983](https://arxiv.org/abs/2605.02983)

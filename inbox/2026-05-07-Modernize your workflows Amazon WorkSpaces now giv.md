@@ -1,11 +1,13 @@
 ---
-title: "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/
 next_step: skim
+priority: high
+slack_ts: '1778211644.786289'
+source: AWS Blog
+status: unread
+title: 'Modernize your workflows: Amazon WorkSpaces now gives AI agents their own
+  desktop (preview)'
 ---
 # Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)
 > 原文: [https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/](https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/)

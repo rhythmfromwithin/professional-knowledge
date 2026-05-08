@@ -1,11 +1,13 @@
 ---
-title: "Dynamic Vine Copulas: Detecting and Quantifying Time-Varying Higher-Order Interactions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.03061
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03061
 next_step: skim
+priority: medium
+slack_ts: '1778211642.257009'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Dynamic Vine Copulas: Detecting and Quantifying Time-Varying Higher-Order
+  Interactions'
 ---
 # Dynamic Vine Copulas: Detecting and Quantifying Time-Varying Higher-Order Interactions
 > 原文: [https://arxiv.org/abs/2605.03061](https://arxiv.org/abs/2605.03061)

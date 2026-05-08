@@ -1,11 +1,12 @@
 ---
-title: "Did US Worker Retraining Reduce Participant Automation Exposure?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.03767
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03767
 next_step: skim
+priority: low
+slack_ts: '1778211642.150449'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Did US Worker Retraining Reduce Participant Automation Exposure?
 ---
 # Did US Worker Retraining Reduce Participant Automation Exposure?
 > 原文: [https://arxiv.org/abs/2605.03767](https://arxiv.org/abs/2605.03767)

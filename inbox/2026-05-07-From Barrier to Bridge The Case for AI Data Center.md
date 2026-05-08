@@ -1,11 +1,12 @@
 ---
-title: "From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.03090
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03090
 next_step: skim
+priority: medium
+slack_ts: '1778211642.800129'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design'
 ---
 # From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design
 > 原文: [https://arxiv.org/abs/2605.03090](https://arxiv.org/abs/2605.03090)

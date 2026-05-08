@@ -1,11 +1,12 @@
 ---
-title: "Computing Thiele Rules on Interval Elections and their Generalizations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.03067
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03067
 next_step: skim
+priority: high
+slack_ts: '1778211641.248679'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Computing Thiele Rules on Interval Elections and their Generalizations
 ---
 # Computing Thiele Rules on Interval Elections and their Generalizations
 > 原文: [https://arxiv.org/abs/2605.03067](https://arxiv.org/abs/2605.03067)

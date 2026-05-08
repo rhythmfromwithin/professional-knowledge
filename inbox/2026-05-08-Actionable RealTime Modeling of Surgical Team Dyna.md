@@ -1,0 +1,14 @@
+---
+title: "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2605.04169
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs
+> 原文: [https://arxiv.org/abs/2605.04169](https://arxiv.org/abs/2605.04169)
+
+arXiv:2605.04169v1 Announce Type: new
+Abstract: Surgical team performance arises from complex interactions between technical execution and non-technical skills, including communication and coordination dynamics. However, current surgical AI systems predominantly model visual workflow signals, lacking structured representations of intraoperative team interactions over time. We propose a real-time actionable approach for modeling surgical team dynamics using time-expanded interaction graphs, where team members are modeled as time-indexed nodes and communication exchanges define directed edges. This spatio-temporal expansion enables dynamic interaction modeling, while allowing efficient inference with a static graph neural network. The model predicts procedural efficiency as the deviation from the expected duration and supports real-time deployment. Beyond prediction, we perform a counterfactual analysis to identify minimal changes in communication structure and interpretable behavioral variables associated with improved predicted outcomes. Experiments on recorded surgical procedures show that structured modeling of team interactions improves early identification of prolonged interventions and provides coherent, actionable explanations. This work advances surgical AI toward real-time, team-aware, and actionable decision support in the operating room.

@@ -1,11 +1,13 @@
 ---
-title: "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.02910
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02910
 next_step: skim
+priority: high
+slack_ts: '1778211641.711289'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based
+  Tool Repurposing'
 ---
 # CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
 > 原文: [https://arxiv.org/abs/2605.02910](https://arxiv.org/abs/2605.02910)

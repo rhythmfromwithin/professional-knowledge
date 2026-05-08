@@ -1,11 +1,13 @@
 ---
-title: "Cusped singularities organize mixed-mode oscillations in mutually inhibitory slow-fast systems"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.03606
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03606
 next_step: skim
+priority: low
+slack_ts: '1778211641.827339'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Cusped singularities organize mixed-mode oscillations in mutually inhibitory
+  slow-fast systems
 ---
 # Cusped singularities organize mixed-mode oscillations in mutually inhibitory slow-fast systems
 > 原文: [https://arxiv.org/abs/2605.03606](https://arxiv.org/abs/2605.03606)

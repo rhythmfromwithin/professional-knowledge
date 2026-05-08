@@ -1,11 +1,12 @@
 ---
-title: "In-memory Multidimensional Indexing Using the skd-tree"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.03640
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03640
 next_step: skim
+priority: low
+slack_ts: '1778211644.160699'
+source: cs.DB - Databases
+status: unread
+title: In-memory Multidimensional Indexing Using the skd-tree
 ---
 # In-memory Multidimensional Indexing Using the skd-tree
 > 原文: [https://arxiv.org/abs/2605.03640](https://arxiv.org/abs/2605.03640)

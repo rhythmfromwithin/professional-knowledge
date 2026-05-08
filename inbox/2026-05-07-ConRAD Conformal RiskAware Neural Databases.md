@@ -1,11 +1,12 @@
 ---
-title: "ConRAD: Conformal Risk-Aware Neural Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.03806
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03806
 next_step: skim
+priority: low
+slack_ts: '1778211641.355989'
+source: cs.DB - Databases
+status: unread
+title: 'ConRAD: Conformal Risk-Aware Neural Databases'
 ---
 # ConRAD: Conformal Risk-Aware Neural Databases
 > 原文: [https://arxiv.org/abs/2605.03806](https://arxiv.org/abs/2605.03806)
