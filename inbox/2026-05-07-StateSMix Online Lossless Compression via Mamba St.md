@@ -1,11 +1,13 @@
 ---
-title: "StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.02904
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02904
 next_step: skim
+priority: high
+slack_ts: '1778298103.543089'
+source: cs.LG - Machine Learning
+status: unread
+title: 'StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse
+  N-gram Context Mixing'
 ---
 # StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing
 > 原文: [https://arxiv.org/abs/2605.02904](https://arxiv.org/abs/2605.02904)

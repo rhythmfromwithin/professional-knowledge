@@ -1,11 +1,12 @@
 ---
-title: "Toward Human-AI Complementarity Across Diverse Tasks"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.04070
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04070
 next_step: skim
+priority: low
+slack_ts: '1778298110.963289'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Toward Human-AI Complementarity Across Diverse Tasks
 ---
 # Toward Human-AI Complementarity Across Diverse Tasks
 > 原文: [https://arxiv.org/abs/2605.04070](https://arxiv.org/abs/2605.04070)

@@ -1,11 +1,13 @@
 ---
-title: "What Shapes Participant Data Quality? A Scoping Review and Case Study of Crowdsourced Webcam Eye Tracking in AI Interviews"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.02898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02898
 next_step: skim
+priority: low
+slack_ts: '1778298104.116799'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: What Shapes Participant Data Quality? A Scoping Review and Case Study of Crowdsourced
+  Webcam Eye Tracking in AI Interviews
 ---
 # What Shapes Participant Data Quality? A Scoping Review and Case Study of Crowdsourced Webcam Eye Tracking in AI Interviews
 > 原文: [https://arxiv.org/abs/2605.02898](https://arxiv.org/abs/2605.02898)

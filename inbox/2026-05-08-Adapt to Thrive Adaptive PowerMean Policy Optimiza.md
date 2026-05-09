@@ -1,11 +1,12 @@
 ---
-title: "Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.04066
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04066
 next_step: skim
+priority: high
+slack_ts: '1778298105.418589'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning
 ---
 # Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning
 > 原文: [https://arxiv.org/abs/2605.04066](https://arxiv.org/abs/2605.04066)

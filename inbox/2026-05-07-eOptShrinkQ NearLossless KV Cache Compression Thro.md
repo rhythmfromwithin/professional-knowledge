@@ -1,11 +1,13 @@
 ---
-title: "eOptShrinkQ: Near-Lossless KV Cache Compression Through Optimal Spectral Denoising and Quantization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.02905
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02905
 next_step: skim
+priority: high
+slack_ts: '1778298104.410259'
+source: cs.LG - Machine Learning
+status: unread
+title: 'eOptShrinkQ: Near-Lossless KV Cache Compression Through Optimal Spectral Denoising
+  and Quantization'
 ---
 # eOptShrinkQ: Near-Lossless KV Cache Compression Through Optimal Spectral Denoising and Quantization
 > 原文: [https://arxiv.org/abs/2605.02905](https://arxiv.org/abs/2605.02905)

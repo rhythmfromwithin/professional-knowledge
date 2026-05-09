@@ -1,11 +1,12 @@
 ---
-title: "CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.04097
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04097
 next_step: skim
+priority: low
+slack_ts: '1778298106.508459'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness'
 ---
 # CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness
 > 原文: [https://arxiv.org/abs/2605.04097](https://arxiv.org/abs/2605.04097)

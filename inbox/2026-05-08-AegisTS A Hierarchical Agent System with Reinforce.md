@@ -1,11 +1,13 @@
 ---
-title: "AegisTS: A Hierarchical Agent System with Reinforcement Learning for Multivariate Time Series Data Cleaning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.04902
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04902
 next_step: skim
+priority: low
+slack_ts: '1778298105.698019'
+source: cs.DB - Databases
+status: unread
+title: 'AegisTS: A Hierarchical Agent System with Reinforcement Learning for Multivariate
+  Time Series Data Cleaning'
 ---
 # AegisTS: A Hierarchical Agent System with Reinforcement Learning for Multivariate Time Series Data Cleaning
 > 原文: [https://arxiv.org/abs/2605.04902](https://arxiv.org/abs/2605.04902)

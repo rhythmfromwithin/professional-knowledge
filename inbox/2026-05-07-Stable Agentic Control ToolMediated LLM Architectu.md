@@ -1,11 +1,13 @@
 ---
-title: "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.03034
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03034
 next_step: skim
+priority: high
+slack_ts: '1778298103.339919'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber
+  Defense'
 ---
 # Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense
 > 原文: [https://arxiv.org/abs/2605.03034](https://arxiv.org/abs/2605.03034)

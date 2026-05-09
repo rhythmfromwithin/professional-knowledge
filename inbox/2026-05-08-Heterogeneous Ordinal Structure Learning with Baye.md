@@ -1,11 +1,13 @@
 ---
-title: "Heterogeneous Ordinal Structure Learning with Bayesian Nonparametric Complexity Discovery"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.04191
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04191
 next_step: skim
+priority: medium
+slack_ts: '1778298108.334919'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Heterogeneous Ordinal Structure Learning with Bayesian Nonparametric Complexity
+  Discovery
 ---
 # Heterogeneous Ordinal Structure Learning with Bayesian Nonparametric Complexity Discovery
 > 原文: [https://arxiv.org/abs/2605.04191](https://arxiv.org/abs/2605.04191)

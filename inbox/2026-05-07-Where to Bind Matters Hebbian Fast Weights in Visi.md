@@ -1,11 +1,13 @@
 ---
-title: "Where to Bind Matters: Hebbian Fast Weights in Vision Transformers for Few-Shot Character Recognition"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.02920
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02920
 next_step: skim
+priority: low
+slack_ts: '1778298104.317549'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Where to Bind Matters: Hebbian Fast Weights in Vision Transformers for Few-Shot
+  Character Recognition'
 ---
 # Where to Bind Matters: Hebbian Fast Weights in Vision Transformers for Few-Shot Character Recognition
 > 原文: [https://arxiv.org/abs/2605.02920](https://arxiv.org/abs/2605.02920)

@@ -1,11 +1,12 @@
 ---
-title: "Efficient Cost-Based Rewrite in a Bottom-Up Optimizer"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.05044
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05044
 next_step: skim
+priority: low
+slack_ts: '1778298107.366389'
+source: cs.DB - Databases
+status: unread
+title: Efficient Cost-Based Rewrite in a Bottom-Up Optimizer
 ---
 # Efficient Cost-Based Rewrite in a Bottom-Up Optimizer
 > 原文: [https://arxiv.org/abs/2605.05044](https://arxiv.org/abs/2605.05044)

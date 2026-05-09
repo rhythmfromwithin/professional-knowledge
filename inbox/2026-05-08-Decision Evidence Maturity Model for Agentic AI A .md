@@ -1,11 +1,12 @@
 ---
-title: "Decision Evidence Maturity Model for Agentic AI: A Property-Level Method Specification"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.04093
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04093
 next_step: skim
+priority: medium
+slack_ts: '1778298107.177939'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Decision Evidence Maturity Model for Agentic AI: A Property-Level Method Specification'
 ---
 # Decision Evidence Maturity Model for Agentic AI: A Property-Level Method Specification
 > 原文: [https://arxiv.org/abs/2605.04093](https://arxiv.org/abs/2605.04093)

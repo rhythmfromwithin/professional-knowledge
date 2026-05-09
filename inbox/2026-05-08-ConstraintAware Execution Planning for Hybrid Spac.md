@@ -1,11 +1,12 @@
 ---
-title: "Constraint-Aware Execution Planning for Hybrid Space-Ground Compute Workloads"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.04052
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04052
 next_step: skim
+priority: medium
+slack_ts: '1778298107.095379'
+source: cs.DC - Distributed Computing
+status: unread
+title: Constraint-Aware Execution Planning for Hybrid Space-Ground Compute Workloads
 ---
 # Constraint-Aware Execution Planning for Hybrid Space-Ground Compute Workloads
 > 原文: [https://arxiv.org/abs/2605.04052](https://arxiv.org/abs/2605.04052)

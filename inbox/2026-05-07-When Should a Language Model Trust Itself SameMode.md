@@ -1,11 +1,13 @@
 ---
-title: "When Should a Language Model Trust Itself? Same-Model Self-Verification as a Conditional Confidence Signal"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.02915
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02915
 next_step: skim
+priority: high
+slack_ts: '1778298104.219999'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: When Should a Language Model Trust Itself? Same-Model Self-Verification as
+  a Conditional Confidence Signal
 ---
 # When Should a Language Model Trust Itself? Same-Model Self-Verification as a Conditional Confidence Signal
 > 原文: [https://arxiv.org/abs/2605.02915](https://arxiv.org/abs/2605.02915)

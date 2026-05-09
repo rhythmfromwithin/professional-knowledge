@@ -1,11 +1,13 @@
 ---
-title: "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.04169
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04169
 next_step: skim
+priority: high
+slack_ts: '1778298105.299689'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction
+  Graphs
 ---
 # Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs
 > 原文: [https://arxiv.org/abs/2605.04169](https://arxiv.org/abs/2605.04169)

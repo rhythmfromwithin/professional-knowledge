@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Patient Safety Risks in Generative AI: Development and Validation of a FMECA Framework for Generated Clinical Content"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.04085
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04085
 next_step: skim
+priority: medium
+slack_ts: '1778298107.617599'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Evaluating Patient Safety Risks in Generative AI: Development and Validation
+  of a FMECA Framework for Generated Clinical Content'
 ---
 # Evaluating Patient Safety Risks in Generative AI: Development and Validation of a FMECA Framework for Generated Clinical Content
 > 原文: [https://arxiv.org/abs/2605.04085](https://arxiv.org/abs/2605.04085)

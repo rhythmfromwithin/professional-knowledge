@@ -1,11 +1,12 @@
 ---
-title: "The AWS MCP Server is now generally available"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/
 next_step: skim
+priority: high
+slack_ts: '1778298103.638629'
+source: AWS Blog
+status: unread
+title: The AWS MCP Server is now generally available
 ---
 # The AWS MCP Server is now generally available
 > 原文: [https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/](https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/)

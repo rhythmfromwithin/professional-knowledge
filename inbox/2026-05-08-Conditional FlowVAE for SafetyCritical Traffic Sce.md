@@ -1,11 +1,12 @@
 ---
-title: "Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.04366
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04366
 next_step: skim
+priority: medium
+slack_ts: '1778298106.825269'
+source: cs.RO - Robotics
+status: unread
+title: Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation
 ---
 # Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation
 > 原文: [https://arxiv.org/abs/2605.04366](https://arxiv.org/abs/2605.04366)

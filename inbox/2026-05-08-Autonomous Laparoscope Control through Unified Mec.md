@@ -1,11 +1,13 @@
 ---
-title: "Autonomous Laparoscope Control through Unified Mechanics-Based Representation of Multimodal Intraoperative Information"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.04408
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04408
 next_step: skim
+priority: medium
+slack_ts: '1778298106.240989'
+source: cs.RO - Robotics
+status: unread
+title: Autonomous Laparoscope Control through Unified Mechanics-Based Representation
+  of Multimodal Intraoperative Information
 ---
 # Autonomous Laparoscope Control through Unified Mechanics-Based Representation of Multimodal Intraoperative Information
 > 原文: [https://arxiv.org/abs/2605.04408](https://arxiv.org/abs/2605.04408)

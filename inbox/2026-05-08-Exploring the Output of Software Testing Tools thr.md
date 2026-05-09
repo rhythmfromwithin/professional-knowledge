@@ -1,11 +1,13 @@
 ---
-title: "Exploring the Output of Software Testing Tools through a Visual Comparative Analysis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.04189
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04189
 next_step: skim
+priority: low
+slack_ts: '1778298107.704989'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Exploring the Output of Software Testing Tools through a Visual Comparative
+  Analysis
 ---
 # Exploring the Output of Software Testing Tools through a Visual Comparative Analysis
 > 原文: [https://arxiv.org/abs/2605.04189](https://arxiv.org/abs/2605.04189)

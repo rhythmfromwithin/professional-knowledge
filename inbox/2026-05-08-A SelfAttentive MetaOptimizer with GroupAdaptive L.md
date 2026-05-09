@@ -1,11 +1,13 @@
 ---
-title: "A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.04055
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04055
 next_step: skim
+priority: high
+slack_ts: '1778298104.769269'
+source: cs.LG - Machine Learning
+status: unread
+title: A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight
+  Decay
 ---
 # A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay
 > 原文: [https://arxiv.org/abs/2605.04055](https://arxiv.org/abs/2605.04055)

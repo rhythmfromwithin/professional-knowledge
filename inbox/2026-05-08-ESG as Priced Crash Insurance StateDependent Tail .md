@@ -1,11 +1,13 @@
 ---
-title: "ESG as Priced Crash Insurance: State-Dependent Tail Risk and Deconfounding Evidence"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.04479
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04479
 next_step: skim
+priority: low
+slack_ts: '1778298107.278579'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'ESG as Priced Crash Insurance: State-Dependent Tail Risk and Deconfounding
+  Evidence'
 ---
 # ESG as Priced Crash Insurance: State-Dependent Tail Risk and Deconfounding Evidence
 > 原文: [https://arxiv.org/abs/2605.04479](https://arxiv.org/abs/2605.04479)

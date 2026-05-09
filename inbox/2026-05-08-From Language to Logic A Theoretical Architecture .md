@@ -1,11 +1,12 @@
 ---
-title: "From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.04327
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04327
 next_step: skim
+priority: medium
+slack_ts: '1778298107.884369'
+source: cs.RO - Robotics
+status: unread
+title: 'From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation'
 ---
 # From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation
 > 原文: [https://arxiv.org/abs/2605.04327](https://arxiv.org/abs/2605.04327)

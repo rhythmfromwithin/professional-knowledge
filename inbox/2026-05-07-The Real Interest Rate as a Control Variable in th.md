@@ -1,11 +1,12 @@
 ---
-title: "The Real Interest Rate as a Control Variable in the Open Economy"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.03966
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.03966
 next_step: skim
+priority: low
+slack_ts: '1778298103.757679'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Real Interest Rate as a Control Variable in the Open Economy
 ---
 # The Real Interest Rate as a Control Variable in the Open Economy
 > 原文: [https://arxiv.org/abs/2605.03966](https://arxiv.org/abs/2605.03966)

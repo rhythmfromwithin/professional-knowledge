@@ -1,11 +1,12 @@
 ---
-title: "Uber uses OpenAI to help people earn smarter and book faster"
-source: "OpenAI Blog"
-link: https://openai.com/index/uber
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/uber
 next_step: skim
+priority: high
+slack_ts: '1778298104.017969'
+source: OpenAI Blog
+status: unread
+title: Uber uses OpenAI to help people earn smarter and book faster
 ---
 # Uber uses OpenAI to help people earn smarter and book faster
 > 原文: [https://openai.com/index/uber](https://openai.com/index/uber)

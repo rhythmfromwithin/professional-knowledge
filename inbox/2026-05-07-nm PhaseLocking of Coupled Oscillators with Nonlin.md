@@ -1,11 +1,13 @@
 ---
-title: "n:m Phase-Locking of Coupled Oscillators with Nonlinearities in Coupling Strength and Heterogeneity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2409.14566
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2409.14566
 next_step: skim
+priority: low
+slack_ts: '1778298104.497859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: n:m Phase-Locking of Coupled Oscillators with Nonlinearities in Coupling Strength
+  and Heterogeneity
 ---
 # n:m Phase-Locking of Coupled Oscillators with Nonlinearities in Coupling Strength and Heterogeneity
 > 原文: [https://arxiv.org/abs/2409.14566](https://arxiv.org/abs/2409.14566)

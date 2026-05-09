@@ -1,11 +1,12 @@
 ---
-title: "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.02900
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02900
 next_step: skim
+priority: low
+slack_ts: '1778298102.927149'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses'
 ---
 # Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses
 > 原文: [https://arxiv.org/abs/2605.02900](https://arxiv.org/abs/2605.02900)

@@ -1,11 +1,12 @@
 ---
-title: "Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.04054
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04054
 next_step: skim
+priority: high
+slack_ts: '1778298107.533019'
+source: cs.LG - Machine Learning
+status: unread
+title: Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics
 ---
 # Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics
 > 原文: [https://arxiv.org/abs/2605.04054](https://arxiv.org/abs/2605.04054)

@@ -1,11 +1,12 @@
 ---
-title: "Same Voice, Different Lab: On the Homogenization of Frontier LLM Personalities"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.02897
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02897
 next_step: skim
+priority: low
+slack_ts: '1778298103.026309'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Same Voice, Different Lab: On the Homogenization of Frontier LLM Personalities'
 ---
 # Same Voice, Different Lab: On the Homogenization of Frontier LLM Personalities
 > 原文: [https://arxiv.org/abs/2605.02897](https://arxiv.org/abs/2605.02897)

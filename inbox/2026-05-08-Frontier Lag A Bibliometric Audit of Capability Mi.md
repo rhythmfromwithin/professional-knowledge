@@ -1,11 +1,13 @@
 ---
-title: "Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.04135
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04135
 next_step: skim
+priority: medium
+slack_ts: '1778298107.972869'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic
+  AI Evaluation'
 ---
 # Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation
 > 原文: [https://arxiv.org/abs/2605.04135](https://arxiv.org/abs/2605.04135)

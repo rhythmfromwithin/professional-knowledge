@@ -1,11 +1,13 @@
 ---
-title: "Connecting online criminal behavior with machine learning: Using authorship attribution to analyze and link potential online traffickers"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.04080
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04080
 next_step: skim
+priority: high
+slack_ts: '1778298106.998819'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Connecting online criminal behavior with machine learning: Using authorship
+  attribution to analyze and link potential online traffickers'
 ---
 # Connecting online criminal behavior with machine learning: Using authorship attribution to analyze and link potential online traffickers
 > 原文: [https://arxiv.org/abs/2605.04080](https://arxiv.org/abs/2605.04080)

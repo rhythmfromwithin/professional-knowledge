@@ -1,0 +1,16 @@
+---
+title: "DADL: A Declarative Description Language for Enterprise Tool Libraries in LLM Agent Systems"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2605.05247
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# DADL: A Declarative Description Language for Enterprise Tool Libraries in LLM Agent Systems
+> 原文: [https://arxiv.org/abs/2605.05247](https://arxiv.org/abs/2605.05247)
+
+arXiv:2605.05247v1 Announce Type: new
+Abstract: The Model Context Protocol (MCP) is the standard interface between large language model (LLM) agents and external tools. At organizational scale, however, it exposes two structural problems. First, every API integration is shipped as a dedicated server process with its own deployment, dependency tree, and credential handling; recent empirical work shows the overwhelming majority of these servers are thin wrappers around REST APIs. Second, the per-tool registration model causes context window consumption to grow linearly with catalog size, forcing real deployments to expose only a small fraction of the APIs an organization actually uses.
+We present DADL (Dunkel API Description Language), a YAML format describing a REST API's endpoints, authentication, pagination, response shaping, and access classification in a single declarative file. A DADL file is interpreted by an execution layer at runtime; no per-API server process is deployed and no integration code is generated, though the runtime is itself a server. Because all tools share that runtime, credentials and authorization are managed centrally, and the catalog reaches the LLM through a fixed-size Code Mode interface independent of size. The result is an Enterprise Tool Library: a versioned, auditable collection of API integrations any team can extend, share, and consume through one authentication and authorization boundary.
+The DADL v0.1 specification is released under CC BY-SA 4.0, and a public registry contains 1,833 tool definitions across 20 services. On this catalog, Code Mode reduces the context cost of tool advertisement from approximately 142,000 tokens to approximately 1,000, a 142x reduction; the per-call cost of search and execute invocations is additional and depends on the task.

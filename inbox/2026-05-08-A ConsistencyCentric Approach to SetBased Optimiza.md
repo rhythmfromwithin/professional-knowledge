@@ -1,11 +1,13 @@
 ---
-title: "A Consistency-Centric Approach to Set-Based Optimization with Multiple Models of Unranked Fidelity"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.04051
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04051
 next_step: skim
+priority: medium
+slack_ts: '1778298104.680769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Consistency-Centric Approach to Set-Based Optimization with Multiple Models
+  of Unranked Fidelity
 ---
 # A Consistency-Centric Approach to Set-Based Optimization with Multiple Models of Unranked Fidelity
 > 原文: [https://arxiv.org/abs/2605.04051](https://arxiv.org/abs/2605.04051)
