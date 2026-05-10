@@ -1,11 +1,12 @@
 ---
-title: "A Scalable Digital Twin Framework for Energy Optimization in Data Centers"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.05581
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05581
 next_step: skim
+priority: medium
+slack_ts: '1778385542.183089'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Scalable Digital Twin Framework for Energy Optimization in Data Centers
 ---
 # A Scalable Digital Twin Framework for Energy Optimization in Data Centers
 > 原文: [https://arxiv.org/abs/2605.05581](https://arxiv.org/abs/2605.05581)

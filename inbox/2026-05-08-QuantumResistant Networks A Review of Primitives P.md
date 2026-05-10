@@ -1,11 +1,12 @@
 ---
-title: "Quantum-Resistant Networks: A Review of Primitives, Protocols and Best Practices"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.04129
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04129
 next_step: skim
+priority: low
+slack_ts: '1778385538.153119'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Quantum-Resistant Networks: A Review of Primitives, Protocols and Best Practices'
 ---
 # Quantum-Resistant Networks: A Review of Primitives, Protocols and Best Practices
 > 原文: [https://arxiv.org/abs/2605.04129](https://arxiv.org/abs/2605.04129)

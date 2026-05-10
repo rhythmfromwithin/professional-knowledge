@@ -1,11 +1,12 @@
 ---
-title: "phys-MCP: A Control Plane for Heterogeneous Physical Neural Networks"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.04256
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04256
 next_step: skim
+priority: medium
+slack_ts: '1778385541.492129'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'phys-MCP: A Control Plane for Heterogeneous Physical Neural Networks'
 ---
 # phys-MCP: A Control Plane for Heterogeneous Physical Neural Networks
 > 原文: [https://arxiv.org/abs/2605.04256](https://arxiv.org/abs/2605.04256)

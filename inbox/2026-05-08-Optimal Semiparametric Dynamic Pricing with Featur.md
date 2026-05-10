@@ -1,11 +1,12 @@
 ---
-title: "Optimal Semiparametric Dynamic Pricing with Feature Diversity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.04207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04207
 next_step: skim
+priority: low
+slack_ts: '1778385537.293849'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Optimal Semiparametric Dynamic Pricing with Feature Diversity
 ---
 # Optimal Semiparametric Dynamic Pricing with Feature Diversity
 > 原文: [https://arxiv.org/abs/2605.04207](https://arxiv.org/abs/2605.04207)

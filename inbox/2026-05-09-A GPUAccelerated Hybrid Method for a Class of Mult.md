@@ -1,11 +1,13 @@
 ---
-title: "A GPU-Accelerated Hybrid Method for a Class of Multi-Depot Vehicle Routing Problems"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.05208
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05208
 next_step: skim
+priority: medium
+slack_ts: '1778385541.979829'
+source: cs.RO - Robotics
+status: unread
+title: A GPU-Accelerated Hybrid Method for a Class of Multi-Depot Vehicle Routing
+  Problems
 ---
 # A GPU-Accelerated Hybrid Method for a Class of Multi-Depot Vehicle Routing Problems
 > 原文: [https://arxiv.org/abs/2605.05208](https://arxiv.org/abs/2605.05208)

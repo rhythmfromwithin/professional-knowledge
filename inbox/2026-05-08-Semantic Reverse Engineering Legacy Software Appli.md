@@ -1,11 +1,13 @@
 ---
-title: "Semantic Reverse Engineering Legacy Software Applications with ChatGPT, Gemini AI, and Claude AI"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.04114
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04114
 next_step: skim
+priority: low
+slack_ts: '1778385539.213799'
+source: cs.DB - Databases
+status: unread
+title: Semantic Reverse Engineering Legacy Software Applications with ChatGPT, Gemini
+  AI, and Claude AI
 ---
 # Semantic Reverse Engineering Legacy Software Applications with ChatGPT, Gemini AI, and Claude AI
 > 原文: [https://arxiv.org/abs/2605.04114](https://arxiv.org/abs/2605.04114)

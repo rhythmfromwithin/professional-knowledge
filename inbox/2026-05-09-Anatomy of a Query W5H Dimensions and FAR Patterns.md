@@ -1,11 +1,12 @@
 ---
-title: "Anatomy of a Query: W5H Dimensions and FAR Patterns for Text-to-SQL Evaluation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.05525
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05525
 next_step: skim
+priority: low
+slack_ts: '1778385544.464019'
+source: cs.DB - Databases
+status: unread
+title: 'Anatomy of a Query: W5H Dimensions and FAR Patterns for Text-to-SQL Evaluation'
 ---
 # Anatomy of a Query: W5H Dimensions and FAR Patterns for Text-to-SQL Evaluation
 > 原文: [https://arxiv.org/abs/2605.05525](https://arxiv.org/abs/2605.05525)

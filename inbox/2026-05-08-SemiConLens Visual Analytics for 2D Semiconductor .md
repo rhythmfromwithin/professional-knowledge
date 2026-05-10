@@ -1,11 +1,12 @@
 ---
-title: "SemiConLens: Visual Analytics for 2D Semiconductor Discovery"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.04067
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04067
 next_step: skim
+priority: low
+slack_ts: '1778385539.478849'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SemiConLens: Visual Analytics for 2D Semiconductor Discovery'
 ---
 # SemiConLens: Visual Analytics for 2D Semiconductor Discovery
 > 原文: [https://arxiv.org/abs/2605.04067](https://arxiv.org/abs/2605.04067)

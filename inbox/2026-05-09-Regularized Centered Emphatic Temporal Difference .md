@@ -1,11 +1,12 @@
 ---
-title: "Regularized Centered Emphatic Temporal Difference Learning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.04100
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04100
 next_step: skim
+priority: high
+slack_ts: '1778385554.788359'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Regularized Centered Emphatic Temporal Difference Learning
 ---
 # Regularized Centered Emphatic Temporal Difference Learning
 > 原文: [https://arxiv.org/abs/2605.04100](https://arxiv.org/abs/2605.04100)

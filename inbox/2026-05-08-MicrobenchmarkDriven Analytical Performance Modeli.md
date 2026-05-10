@@ -1,11 +1,12 @@
 ---
-title: "Microbenchmark-Driven Analytical Performance Modeling Across Modern GPU Architectures"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.04178
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04178
 next_step: skim
+priority: medium
+slack_ts: '1778385535.293519'
+source: cs.DC - Distributed Computing
+status: unread
+title: Microbenchmark-Driven Analytical Performance Modeling Across Modern GPU Architectures
 ---
 # Microbenchmark-Driven Analytical Performance Modeling Across Modern GPU Architectures
 > 原文: [https://arxiv.org/abs/2605.04178](https://arxiv.org/abs/2605.04178)

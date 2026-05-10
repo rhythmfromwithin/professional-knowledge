@@ -1,11 +1,13 @@
 ---
-title: "Membership Inference Attacks for Retrieval Based In-Context Learning for Document Question Answering"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.04116
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04116
 next_step: skim
+priority: low
+slack_ts: '1778385535.087819'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Membership Inference Attacks for Retrieval Based In-Context Learning for Document
+  Question Answering
 ---
 # Membership Inference Attacks for Retrieval Based In-Context Learning for Document Question Answering
 > 原文: [https://arxiv.org/abs/2605.04116](https://arxiv.org/abs/2605.04116)

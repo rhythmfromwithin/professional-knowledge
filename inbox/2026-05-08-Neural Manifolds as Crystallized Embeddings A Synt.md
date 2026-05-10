@@ -1,11 +1,13 @@
 ---
-title: "Neural Manifolds as Crystallized Embeddings: A Synthesis of the Free Energy Principle, Generalized Synchronization, and Hebbian Plasticity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.04200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04200
 next_step: skim
+priority: low
+slack_ts: '1778385536.625439'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Neural Manifolds as Crystallized Embeddings: A Synthesis of the Free Energy
+  Principle, Generalized Synchronization, and Hebbian Plasticity'
 ---
 # Neural Manifolds as Crystallized Embeddings: A Synthesis of the Free Energy Principle, Generalized Synchronization, and Hebbian Plasticity
 > 原文: [https://arxiv.org/abs/2605.04200](https://arxiv.org/abs/2605.04200)

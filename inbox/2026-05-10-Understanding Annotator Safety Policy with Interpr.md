@@ -1,0 +1,15 @@
+---
+title: "Understanding Annotator Safety Policy with Interpretability"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2605.05329
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Understanding Annotator Safety Policy with Interpretability
+> 原文: [https://arxiv.org/abs/2605.05329](https://arxiv.org/abs/2605.05329)
+
+arXiv:2605.05329v1 Announce Type: new
+Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value pluralism (different annotators hold different perspectives on safety). Distinguishing these sources matters. For example, operational failures call for quality control, ambiguity calls for policy clarification, and pluralism calls for deliberation about incorporating diverse perspectives. Yet understanding why annotators disagree is difficult. Directly asking annotators for their reasoning is costly, substantially increasing annotation burden, and can be unreliable for both human and LLM annotators as self-reported reasoning often fails to reflect actual decision processes.
+We introduce Annotator Policy Models (APMs), interpretable models that learn annotators' internal safety policies from labeling behavior alone, making annotator reasoning visible and comparable without additional annotation effort. We validate that APMs accurately model annotator safety policy (>80% accuracy), faithfully predict responses to counterfactual edits, and recover known policy differences in controlled settings. Applying APMs to LLM and human annotations, we demonstrate two core applications: (1) surfacing policy ambiguity by revealing how annotators interpret safety instructions differently, and (2) surfacing value pluralism by uncovering systematic differences in safety priorities across demographic groups. Together, these capabilities support more targeted, transparent, and inclusive safety policy design.

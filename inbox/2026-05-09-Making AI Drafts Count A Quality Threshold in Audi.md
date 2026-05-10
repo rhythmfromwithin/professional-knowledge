@@ -1,11 +1,12 @@
 ---
-title: "Making AI Drafts Count: A Quality Threshold in Audio Description Workflows"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.05348
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05348
 next_step: skim
+priority: low
+slack_ts: '1778385551.781849'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Making AI Drafts Count: A Quality Threshold in Audio Description Workflows'
 ---
 # Making AI Drafts Count: A Quality Threshold in Audio Description Workflows
 > 原文: [https://arxiv.org/abs/2605.05348](https://arxiv.org/abs/2605.05348)

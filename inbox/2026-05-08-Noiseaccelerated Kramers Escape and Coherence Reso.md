@@ -1,11 +1,12 @@
 ---
-title: "Noise-accelerated Kramers Escape and Coherence Resonance in a 5D Neural Manifold"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.04088
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04088
 next_step: skim
+priority: low
+slack_ts: '1778385536.826439'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Noise-accelerated Kramers Escape and Coherence Resonance in a 5D Neural Manifold
 ---
 # Noise-accelerated Kramers Escape and Coherence Resonance in a 5D Neural Manifold
 > 原文: [https://arxiv.org/abs/2605.04088](https://arxiv.org/abs/2605.04088)

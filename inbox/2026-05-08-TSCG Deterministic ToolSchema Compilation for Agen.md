@@ -1,11 +1,12 @@
 ---
-title: "TSCG: Deterministic Tool-Schema Compilation for Agentic LLM Deployments"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.04107
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04107
 next_step: skim
+priority: low
+slack_ts: '1778385540.091169'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TSCG: Deterministic Tool-Schema Compilation for Agentic LLM Deployments'
 ---
 # TSCG: Deterministic Tool-Schema Compilation for Agentic LLM Deployments
 > 原文: [https://arxiv.org/abs/2605.04107](https://arxiv.org/abs/2605.04107)

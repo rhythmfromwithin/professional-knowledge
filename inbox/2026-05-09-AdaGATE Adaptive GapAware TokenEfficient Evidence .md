@@ -1,11 +1,13 @@
 ---
-title: "AdaGATE: Adaptive Gap-Aware Token-Efficient Evidence Assembly for Multi-Hop Retrieval-Augmented Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.05245
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05245
 next_step: skim
+priority: high
+slack_ts: '1778385543.294959'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AdaGATE: Adaptive Gap-Aware Token-Efficient Evidence Assembly for Multi-Hop
+  Retrieval-Augmented Generation'
 ---
 # AdaGATE: Adaptive Gap-Aware Token-Efficient Evidence Assembly for Multi-Hop Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2605.05245](https://arxiv.org/abs/2605.05245)

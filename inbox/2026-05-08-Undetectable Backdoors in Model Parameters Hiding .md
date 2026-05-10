@@ -1,11 +1,13 @@
 ---
-title: "Undetectable Backdoors in Model Parameters: Hiding Sparse Secrets in High Dimensions"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.04209
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04209
 next_step: skim
+priority: low
+slack_ts: '1778385541.240159'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Undetectable Backdoors in Model Parameters: Hiding Sparse Secrets in High
+  Dimensions'
 ---
 # Undetectable Backdoors in Model Parameters: Hiding Sparse Secrets in High Dimensions
 > 原文: [https://arxiv.org/abs/2605.04209](https://arxiv.org/abs/2605.04209)

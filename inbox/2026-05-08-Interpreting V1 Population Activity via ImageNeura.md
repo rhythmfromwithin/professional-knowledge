@@ -1,11 +1,13 @@
 ---
-title: "Interpreting V1 Population Activity via Image-Neural Latent Representation Alignment"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.04309
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04309
 next_step: skim
+priority: low
+slack_ts: '1778385533.991459'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Interpreting V1 Population Activity via Image-Neural Latent Representation
+  Alignment
 ---
 # Interpreting V1 Population Activity via Image-Neural Latent Representation Alignment
 > 原文: [https://arxiv.org/abs/2605.04309](https://arxiv.org/abs/2605.04309)

@@ -1,11 +1,12 @@
 ---
-title: "Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.06420
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06420
 next_step: skim
+priority: low
+slack_ts: '1778385545.836519'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?'
 ---
 # Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?
 > 原文: [https://arxiv.org/abs/2605.06420](https://arxiv.org/abs/2605.06420)

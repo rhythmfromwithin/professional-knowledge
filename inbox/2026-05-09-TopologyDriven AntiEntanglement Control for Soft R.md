@@ -1,11 +1,12 @@
 ---
-title: "Topology-Driven Anti-Entanglement Control for Soft Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.05236
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05236
 next_step: skim
+priority: medium
+slack_ts: '1778385556.891239'
+source: cs.RO - Robotics
+status: unread
+title: Topology-Driven Anti-Entanglement Control for Soft Robots
 ---
 # Topology-Driven Anti-Entanglement Control for Soft Robots
 > 原文: [https://arxiv.org/abs/2605.05236](https://arxiv.org/abs/2605.05236)

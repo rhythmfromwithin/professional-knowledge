@@ -1,11 +1,13 @@
 ---
-title: "Transformation Categorization Based on Group Decomposition Theory Using Parameter Division"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.04056
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04056
 next_step: skim
+priority: high
+slack_ts: '1778385540.990899'
+source: cs.LG - Machine Learning
+status: unread
+title: Transformation Categorization Based on Group Decomposition Theory Using Parameter
+  Division
 ---
 # Transformation Categorization Based on Group Decomposition Theory Using Parameter Division
 > 原文: [https://arxiv.org/abs/2605.04056](https://arxiv.org/abs/2605.04056)

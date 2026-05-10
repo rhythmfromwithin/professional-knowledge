@@ -1,11 +1,13 @@
 ---
-title: "PARNESS: A Paper Harness for End-to-End Automated Scientific Research with Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.05258
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05258
 next_step: skim
+priority: low
+slack_ts: '1778385553.842569'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PARNESS: A Paper Harness for End-to-End Automated Scientific Research with
+  Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation'
 ---
 # PARNESS: A Paper Harness for End-to-End Automated Scientific Research with Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation
 > 原文: [https://arxiv.org/abs/2605.05258](https://arxiv.org/abs/2605.05258)

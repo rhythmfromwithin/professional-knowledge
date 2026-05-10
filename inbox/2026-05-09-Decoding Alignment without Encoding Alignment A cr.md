@@ -1,11 +1,13 @@
 ---
-title: "Decoding Alignment without Encoding Alignment: A critique of similarity analysis in neuroscience"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.05907
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05907
 next_step: skim
+priority: low
+slack_ts: '1778385547.875189'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Decoding Alignment without Encoding Alignment: A critique of similarity analysis
+  in neuroscience'
 ---
 # Decoding Alignment without Encoding Alignment: A critique of similarity analysis in neuroscience
 > 原文: [https://arxiv.org/abs/2605.05907](https://arxiv.org/abs/2605.05907)

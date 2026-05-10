@@ -1,11 +1,12 @@
 ---
-title: "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
-source: "OpenAI Blog"
-link: https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
 next_step: skim
+priority: high
+slack_ts: '1778385538.950909'
+source: OpenAI Blog
+status: unread
+title: Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
 ---
 # Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
 > 原文: [https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber)

@@ -1,11 +1,12 @@
 ---
-title: "Are Flat Minima an Illusion?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.05209
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05209
 next_step: skim
+priority: high
+slack_ts: '1778385544.991369'
+source: cs.LG - Machine Learning
+status: unread
+title: Are Flat Minima an Illusion?
 ---
 # Are Flat Minima an Illusion?
 > 原文: [https://arxiv.org/abs/2605.05209](https://arxiv.org/abs/2605.05209)

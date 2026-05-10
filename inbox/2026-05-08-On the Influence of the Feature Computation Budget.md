@@ -1,11 +1,13 @@
 ---
-title: "On the Influence of the Feature Computation Budget on Per-Instance Algorithm Selection for Black-Box Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.04954
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04954
 next_step: skim
+priority: low
+slack_ts: '1778385537.033519'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: On the Influence of the Feature Computation Budget on Per-Instance Algorithm
+  Selection for Black-Box Optimization
 ---
 # On the Influence of the Feature Computation Budget on Per-Instance Algorithm Selection for Black-Box Optimization
 > 原文: [https://arxiv.org/abs/2605.04954](https://arxiv.org/abs/2605.04954)

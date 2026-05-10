@@ -1,11 +1,13 @@
 ---
-title: "Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.04201
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04201
 next_step: skim
+priority: medium
+slack_ts: '1778385540.694129'
+source: cs.CV - Computer Vision
+status: unread
+title: Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate
+  3D Tooth Segmentation
 ---
 # Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation
 > 原文: [https://arxiv.org/abs/2605.04201](https://arxiv.org/abs/2605.04201)

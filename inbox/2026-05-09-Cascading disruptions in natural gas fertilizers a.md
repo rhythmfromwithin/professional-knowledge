@@ -1,11 +1,13 @@
 ---
-title: "Cascading disruptions in natural gas, fertilizers, and crops drive structural food supply vulnerabilities globally"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.06411
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06411
 next_step: skim
+priority: low
+slack_ts: '1778385546.621579'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Cascading disruptions in natural gas, fertilizers, and crops drive structural
+  food supply vulnerabilities globally
 ---
 # Cascading disruptions in natural gas, fertilizers, and crops drive structural food supply vulnerabilities globally
 > 原文: [https://arxiv.org/abs/2605.06411](https://arxiv.org/abs/2605.06411)

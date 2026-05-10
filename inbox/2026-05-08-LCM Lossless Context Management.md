@@ -1,11 +1,12 @@
 ---
-title: "LCM: Lossless Context Management"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.04050
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04050
 next_step: skim
+priority: high
+slack_ts: '1778385534.471499'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'LCM: Lossless Context Management'
 ---
 # LCM: Lossless Context Management
 > 原文: [https://arxiv.org/abs/2605.04050](https://arxiv.org/abs/2605.04050)

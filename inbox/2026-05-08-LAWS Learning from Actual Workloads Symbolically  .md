@@ -1,11 +1,13 @@
 ---
-title: "LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.04069
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04069
 next_step: skim
+priority: low
+slack_ts: '1778385534.265149'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized
+  Cache Architecture for Neural Inference, Robotics, and Edge Deployment'
 ---
 # LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment
 > 原文: [https://arxiv.org/abs/2605.04069](https://arxiv.org/abs/2605.04069)

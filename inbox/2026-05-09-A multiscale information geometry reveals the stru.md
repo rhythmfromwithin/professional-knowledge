@@ -1,11 +1,13 @@
 ---
-title: "A multi-scale information geometry reveals the structure of mutual information in neural populations"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.06304
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06304
 next_step: skim
+priority: low
+slack_ts: '1778385542.437629'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A multi-scale information geometry reveals the structure of mutual information
+  in neural populations
 ---
 # A multi-scale information geometry reveals the structure of mutual information in neural populations
 > 原文: [https://arxiv.org/abs/2605.06304](https://arxiv.org/abs/2605.06304)

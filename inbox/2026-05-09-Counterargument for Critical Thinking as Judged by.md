@@ -1,11 +1,12 @@
 ---
-title: "Counterargument for Critical Thinking as Judged by AI and Humans"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.05353
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05353
 next_step: skim
+priority: high
+slack_ts: '1778385547.219379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Counterargument for Critical Thinking as Judged by AI and Humans
 ---
 # Counterargument for Critical Thinking as Judged by AI and Humans
 > 原文: [https://arxiv.org/abs/2605.05353](https://arxiv.org/abs/2605.05353)

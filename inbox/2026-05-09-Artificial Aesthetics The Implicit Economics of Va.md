@@ -1,11 +1,12 @@
 ---
-title: "Artificial Aesthetics: The Implicit Economics of Valuing AI-Generated Text"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.05578
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05578
 next_step: skim
+priority: low
+slack_ts: '1778385545.250589'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Artificial Aesthetics: The Implicit Economics of Valuing AI-Generated Text'
 ---
 # Artificial Aesthetics: The Implicit Economics of Valuing AI-Generated Text
 > 原文: [https://arxiv.org/abs/2605.05578](https://arxiv.org/abs/2605.05578)

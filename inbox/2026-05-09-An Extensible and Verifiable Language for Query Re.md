@@ -1,11 +1,12 @@
 ---
-title: "An Extensible and Verifiable Language for Query Rewrite Rules"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.05536
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05536
 next_step: skim
+priority: low
+slack_ts: '1778385544.206299'
+source: cs.DB - Databases
+status: unread
+title: An Extensible and Verifiable Language for Query Rewrite Rules
 ---
 # An Extensible and Verifiable Language for Query Rewrite Rules
 > 原文: [https://arxiv.org/abs/2605.05536](https://arxiv.org/abs/2605.05536)
