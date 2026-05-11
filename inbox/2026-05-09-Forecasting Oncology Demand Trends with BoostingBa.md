@@ -1,11 +1,12 @@
 ---
-title: "Forecasting Oncology Demand Trends with Boosting-Based Bayesian Conjugate Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.05270
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05270
 next_step: skim
+priority: medium
+slack_ts: '1778472599.348449'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Forecasting Oncology Demand Trends with Boosting-Based Bayesian Conjugate Models
 ---
 # Forecasting Oncology Demand Trends with Boosting-Based Bayesian Conjugate Models
 > 原文: [https://arxiv.org/abs/2605.05270](https://arxiv.org/abs/2605.05270)

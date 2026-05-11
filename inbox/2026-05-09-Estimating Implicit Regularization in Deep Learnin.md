@@ -1,11 +1,12 @@
 ---
-title: "Estimating Implicit Regularization in Deep Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.05436
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05436
 next_step: skim
+priority: medium
+slack_ts: '1778472598.830229'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Estimating Implicit Regularization in Deep Learning
 ---
 # Estimating Implicit Regularization in Deep Learning
 > 原文: [https://arxiv.org/abs/2605.05436](https://arxiv.org/abs/2605.05436)

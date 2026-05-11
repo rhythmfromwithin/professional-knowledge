@@ -1,11 +1,12 @@
 ---
-title: "LLMorphism: When humans come to see themselves as language models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.05419
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05419
 next_step: skim
+priority: medium
+slack_ts: '1778472601.381029'
+source: cs.CY - Computers and Society
+status: unread
+title: 'LLMorphism: When humans come to see themselves as language models'
 ---
 # LLMorphism: When humans come to see themselves as language models
 > 原文: [https://arxiv.org/abs/2605.05419](https://arxiv.org/abs/2605.05419)

@@ -1,11 +1,12 @@
 ---
-title: "EdgeServing: Deadline-Aware Multi-DNN Serving at the Edge"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.05527
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05527
 next_step: skim
+priority: medium
+slack_ts: '1778472598.310699'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'EdgeServing: Deadline-Aware Multi-DNN Serving at the Edge'
 ---
 # EdgeServing: Deadline-Aware Multi-DNN Serving at the Edge
 > 原文: [https://arxiv.org/abs/2605.05527](https://arxiv.org/abs/2605.05527)

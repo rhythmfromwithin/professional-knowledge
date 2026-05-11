@@ -1,11 +1,12 @@
 ---
-title: "Seeing What Shouldn't Be There: Counterfactual GANs for Medical Image Attribution"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.05283
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05283
 next_step: skim
+priority: medium
+slack_ts: '1778472607.441049'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Seeing What Shouldn''t Be There: Counterfactual GANs for Medical Image Attribution'
 ---
 # Seeing What Shouldn't Be There: Counterfactual GANs for Medical Image Attribution
 > 原文: [https://arxiv.org/abs/2605.05283](https://arxiv.org/abs/2605.05283)

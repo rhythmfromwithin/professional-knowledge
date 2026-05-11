@@ -1,11 +1,12 @@
 ---
-title: "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.05472
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05472
 next_step: skim
+priority: medium
+slack_ts: '1778472608.285129'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking'
 ---
 # The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
 > 原文: [https://arxiv.org/abs/2605.05472](https://arxiv.org/abs/2605.05472)

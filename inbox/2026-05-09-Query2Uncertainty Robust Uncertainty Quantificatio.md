@@ -1,11 +1,13 @@
 ---
-title: "Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.05328
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05328
 next_step: skim
+priority: medium
+slack_ts: '1778472605.391459'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D
+  Object Detection under Distribution Shift'
 ---
 # Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift
 > 原文: [https://arxiv.org/abs/2605.05328](https://arxiv.org/abs/2605.05328)

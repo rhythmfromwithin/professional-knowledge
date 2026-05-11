@@ -1,11 +1,13 @@
 ---
-title: "SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.05260
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05260
 next_step: skim
+priority: low
+slack_ts: '1778472607.195389'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via
+  Model Context Protocol'
 ---
 # SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol
 > 原文: [https://arxiv.org/abs/2605.05260](https://arxiv.org/abs/2605.05260)

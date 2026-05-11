@@ -1,11 +1,12 @@
 ---
-title: "Differential Privacy in the Extensive-Form Bandit Problem"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.05266
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05266
 next_step: skim
+priority: low
+slack_ts: '1778472597.806459'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Differential Privacy in the Extensive-Form Bandit Problem
 ---
 # Differential Privacy in the Extensive-Form Bandit Problem
 > 原文: [https://arxiv.org/abs/2605.05266](https://arxiv.org/abs/2605.05266)

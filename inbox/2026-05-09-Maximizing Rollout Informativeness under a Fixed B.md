@@ -1,11 +1,13 @@
 ---
-title: "Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View of Tree Search for Tool-Use Agentic Reinforcement Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.05262
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05262
 next_step: skim
+priority: medium
+slack_ts: '1778472602.328249'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View
+  of Tree Search for Tool-Use Agentic Reinforcement Learning'
 ---
 # Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View of Tree Search for Tool-Use Agentic Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2605.05262](https://arxiv.org/abs/2605.05262)

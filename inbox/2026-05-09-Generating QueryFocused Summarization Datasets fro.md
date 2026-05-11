@@ -1,11 +1,13 @@
 ---
-title: "Generating Query-Focused Summarization Datasets from Query-Free Summarization Datasets"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.05392
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05392
 next_step: skim
+priority: high
+slack_ts: '1778472599.870069'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Generating Query-Focused Summarization Datasets from Query-Free Summarization
+  Datasets
 ---
 # Generating Query-Focused Summarization Datasets from Query-Free Summarization Datasets
 > 原文: [https://arxiv.org/abs/2605.05392](https://arxiv.org/abs/2605.05392)

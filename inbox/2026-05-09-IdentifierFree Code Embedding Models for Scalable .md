@@ -1,11 +1,12 @@
 ---
-title: "Identifier-Free Code Embedding Models for Scalable Search"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.05251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05251
 next_step: skim
+priority: low
+slack_ts: '1778472600.873619'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Identifier-Free Code Embedding Models for Scalable Search
 ---
 # Identifier-Free Code Embedding Models for Scalable Search
 > 原文: [https://arxiv.org/abs/2605.05251](https://arxiv.org/abs/2605.05251)

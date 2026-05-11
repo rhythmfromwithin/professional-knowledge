@@ -1,11 +1,12 @@
 ---
-title: "Understanding Annotator Safety Policy with Interpretability"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.05329
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05329
 next_step: skim
+priority: high
+slack_ts: '1778472617.478589'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Understanding Annotator Safety Policy with Interpretability
 ---
 # Understanding Annotator Safety Policy with Interpretability
 > 原文: [https://arxiv.org/abs/2605.05329](https://arxiv.org/abs/2605.05329)

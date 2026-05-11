@@ -1,11 +1,13 @@
 ---
-title: "Nationwide EHR-Based Chronic Rhinosinusitis Prediction Using Demographic-Stratified Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.05213
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05213
 next_step: skim
+priority: high
+slack_ts: '1778472604.044239'
+source: cs.LG - Machine Learning
+status: unread
+title: Nationwide EHR-Based Chronic Rhinosinusitis Prediction Using Demographic-Stratified
+  Models
 ---
 # Nationwide EHR-Based Chronic Rhinosinusitis Prediction Using Demographic-Stratified Models
 > 原文: [https://arxiv.org/abs/2605.05213](https://arxiv.org/abs/2605.05213)

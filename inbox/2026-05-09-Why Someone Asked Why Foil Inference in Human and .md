@@ -1,11 +1,5 @@
 ---
-title: "Why Someone Asked "Why": Foil Inference in Human and LLM Question Interpretation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.05401
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1778472608.946439'
 ---
 # Why Someone Asked "Why": Foil Inference in Human and LLM Question Interpretation
 > 原文: [https://arxiv.org/abs/2605.05401](https://arxiv.org/abs/2605.05401)

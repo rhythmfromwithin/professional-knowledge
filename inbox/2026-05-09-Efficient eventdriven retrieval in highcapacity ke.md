@@ -1,11 +1,12 @@
 ---
-title: "Efficient event-driven retrieval in high-capacity kernel Hopfield networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.05978
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05978
 next_step: skim
+priority: low
+slack_ts: '1778472598.559419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Efficient event-driven retrieval in high-capacity kernel Hopfield networks
 ---
 # Efficient event-driven retrieval in high-capacity kernel Hopfield networks
 > 原文: [https://arxiv.org/abs/2605.05978](https://arxiv.org/abs/2605.05978)

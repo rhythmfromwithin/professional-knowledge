@@ -1,11 +1,13 @@
 ---
-title: "Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1778472615.252419'
+source: AWS Blog
+status: unread
+title: 'Overcoming reward signal challenges: Verifiable rewards-based reinforcement
+  learning with GRPO on SageMaker AI'
 ---
 # Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/)

@@ -1,11 +1,13 @@
 ---
-title: "SAT: Sequential Agent Tuning for Coordinator Free Plug and Play Multi-LLM Training with Monotonic Improvement Guarantees"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.05216
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05216
 next_step: skim
+priority: high
+slack_ts: '1778472606.446209'
+source: cs.LG - Machine Learning
+status: unread
+title: 'SAT: Sequential Agent Tuning for Coordinator Free Plug and Play Multi-LLM
+  Training with Monotonic Improvement Guarantees'
 ---
 # SAT: Sequential Agent Tuning for Coordinator Free Plug and Play Multi-LLM Training with Monotonic Improvement Guarantees
 > 原文: [https://arxiv.org/abs/2605.05216](https://arxiv.org/abs/2605.05216)

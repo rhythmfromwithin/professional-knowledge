@@ -1,11 +1,12 @@
 ---
-title: "Direct From Darwin: Deriving Advanced Optimizers From Evolutionary First Principles"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.05284
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05284
 next_step: skim
+priority: low
+slack_ts: '1778472598.060769'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Direct From Darwin: Deriving Advanced Optimizers From Evolutionary First Principles'
 ---
 # Direct From Darwin: Deriving Advanced Optimizers From Evolutionary First Principles
 > 原文: [https://arxiv.org/abs/2605.05284](https://arxiv.org/abs/2605.05284)

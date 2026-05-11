@@ -1,11 +1,12 @@
 ---
-title: "Low-Latency Out-of-Core ANN Search in High-Dimensional Space"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.05787
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05787
 next_step: skim
+priority: low
+slack_ts: '1778472601.988469'
+source: cs.DB - Databases
+status: unread
+title: Low-Latency Out-of-Core ANN Search in High-Dimensional Space
 ---
 # Low-Latency Out-of-Core ANN Search in High-Dimensional Space
 > 原文: [https://arxiv.org/abs/2605.05787](https://arxiv.org/abs/2605.05787)

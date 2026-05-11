@@ -1,11 +1,12 @@
 ---
-title: "Layout-Aware Representation Learning for Open-Set ID Fraud Discovery"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.05215
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05215
 next_step: skim
+priority: medium
+slack_ts: '1778472601.693579'
+source: cs.CV - Computer Vision
+status: unread
+title: Layout-Aware Representation Learning for Open-Set ID Fraud Discovery
 ---
 # Layout-Aware Representation Learning for Open-Set ID Fraud Discovery
 > 原文: [https://arxiv.org/abs/2605.05215](https://arxiv.org/abs/2605.05215)

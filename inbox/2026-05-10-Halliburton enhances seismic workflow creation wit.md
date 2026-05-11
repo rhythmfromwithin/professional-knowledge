@@ -1,11 +1,13 @@
 ---
-title: "Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/
 next_step: skim
+priority: high
+slack_ts: '1778472613.129609'
+source: AWS Blog
+status: unread
+title: Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative
+  AI
 ---
 # Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/](https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/)

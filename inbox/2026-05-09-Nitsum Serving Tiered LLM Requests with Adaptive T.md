@@ -1,11 +1,12 @@
 ---
-title: "Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.05467
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05467
 next_step: skim
+priority: medium
+slack_ts: '1778472604.290019'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism'
 ---
 # Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism
 > 原文: [https://arxiv.org/abs/2605.05467](https://arxiv.org/abs/2605.05467)

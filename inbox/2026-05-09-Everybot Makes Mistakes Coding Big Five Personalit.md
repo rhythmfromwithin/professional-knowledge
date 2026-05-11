@@ -1,11 +1,13 @@
 ---
-title: "Every(bot) Makes Mistakes: Coding Big Five Personalities, Context, and Tone into an LLM Chatbot Recovery Code Framework"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.05391
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05391
 next_step: skim
+priority: low
+slack_ts: '1778472599.082609'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Every(bot) Makes Mistakes: Coding Big Five Personalities, Context, and Tone
+  into an LLM Chatbot Recovery Code Framework'
 ---
 # Every(bot) Makes Mistakes: Coding Big Five Personalities, Context, and Tone into an LLM Chatbot Recovery Code Framework
 > 原文: [https://arxiv.org/abs/2605.05391](https://arxiv.org/abs/2605.05391)

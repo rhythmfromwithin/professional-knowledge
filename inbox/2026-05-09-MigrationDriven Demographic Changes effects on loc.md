@@ -1,11 +1,13 @@
 ---
-title: "Migration-Driven Demographic Changes: effects on local communities in the canton of Fribourg"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.05898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05898
 next_step: skim
+priority: low
+slack_ts: '1778472603.529689'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Migration-Driven Demographic Changes: effects on local communities in the
+  canton of Fribourg'
 ---
 # Migration-Driven Demographic Changes: effects on local communities in the canton of Fribourg
 > 原文: [https://arxiv.org/abs/2605.05898](https://arxiv.org/abs/2605.05898)
