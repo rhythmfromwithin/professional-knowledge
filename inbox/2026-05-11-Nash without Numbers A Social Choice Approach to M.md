@@ -1,11 +1,13 @@
 ---
-title: "Nash without Numbers: A Social Choice Approach to Mixed Equilibria in Context-Ordinal Games"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.07996
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.07996
 next_step: skim
+priority: low
+slack_ts: '1778558026.830259'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Nash without Numbers: A Social Choice Approach to Mixed Equilibria in Context-Ordinal
+  Games'
 ---
 # Nash without Numbers: A Social Choice Approach to Mixed Equilibria in Context-Ordinal Games
 > 原文: [https://arxiv.org/abs/2605.07996](https://arxiv.org/abs/2605.07996)

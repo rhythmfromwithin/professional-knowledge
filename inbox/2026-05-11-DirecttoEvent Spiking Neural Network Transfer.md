@@ -1,11 +1,12 @@
 ---
-title: "Direct-to-Event Spiking Neural Network Transfer"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.07207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.07207
 next_step: skim
+priority: low
+slack_ts: '1778558019.952659'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Direct-to-Event Spiking Neural Network Transfer
 ---
 # Direct-to-Event Spiking Neural Network Transfer
 > 原文: [https://arxiv.org/abs/2605.07207](https://arxiv.org/abs/2605.07207)

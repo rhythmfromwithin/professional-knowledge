@@ -1,11 +1,13 @@
 ---
-title: "Enhancing Eye Movement Biometrics for User Authentication via Continuous Gaze Offset Score Fusion"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.06810
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06810
 next_step: skim
+priority: low
+slack_ts: '1778558021.004889'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Enhancing Eye Movement Biometrics for User Authentication via Continuous Gaze
+  Offset Score Fusion
 ---
 # Enhancing Eye Movement Biometrics for User Authentication via Continuous Gaze Offset Score Fusion
 > 原文: [https://arxiv.org/abs/2605.06810](https://arxiv.org/abs/2605.06810)

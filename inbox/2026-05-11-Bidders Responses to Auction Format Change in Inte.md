@@ -1,11 +1,13 @@
 ---
-title: "Bidders' Responses to Auction Format Change in Internet Display Advertising Auctions"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2110.13814
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2110.13814
 next_step: skim
+priority: low
+slack_ts: '1778558018.235659'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Bidders' Responses to Auction Format Change in Internet Display Advertising
+  Auctions
 ---
 # Bidders' Responses to Auction Format Change in Internet Display Advertising Auctions
 > 原文: [https://arxiv.org/abs/2110.13814](https://arxiv.org/abs/2110.13814)

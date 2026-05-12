@@ -1,11 +1,13 @@
 ---
-title: "LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.06676
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06676
 next_step: skim
+priority: high
+slack_ts: '1778558024.475789'
+source: cs.LG - Machine Learning
+status: unread
+title: 'LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM
+  KV Cache Eviction'
 ---
 # LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction
 > 原文: [https://arxiv.org/abs/2605.06676](https://arxiv.org/abs/2605.06676)

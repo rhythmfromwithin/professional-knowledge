@@ -1,11 +1,12 @@
 ---
-title: "Leveraging fNIRS to Evaluate Workload for Adaptive Training in Virtual Reality"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.06909
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06909
 next_step: skim
+priority: low
+slack_ts: '1778558025.195369'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Leveraging fNIRS to Evaluate Workload for Adaptive Training in Virtual Reality
 ---
 # Leveraging fNIRS to Evaluate Workload for Adaptive Training in Virtual Reality
 > 原文: [https://arxiv.org/abs/2605.06909](https://arxiv.org/abs/2605.06909)

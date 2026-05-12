@@ -1,11 +1,13 @@
 ---
-title: "Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/
 next_step: skim
+priority: high
+slack_ts: '1778558030.530559'
+source: AWS Blog
+status: unread
+title: Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for
+  ML and SageMaker training plans
 ---
 # Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans
 > 原文: [https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/](https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/)

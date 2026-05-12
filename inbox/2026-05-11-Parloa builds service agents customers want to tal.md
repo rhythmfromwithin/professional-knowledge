@@ -1,11 +1,12 @@
 ---
-title: "Parloa builds service agents customers want to talk to"
-source: "OpenAI Blog"
-link: https://openai.com/index/parloa
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/parloa
 next_step: skim
+priority: high
+slack_ts: '1778558027.922449'
+source: OpenAI Blog
+status: unread
+title: Parloa builds service agents customers want to talk to
 ---
 # Parloa builds service agents customers want to talk to
 > 原文: [https://openai.com/index/parloa](https://openai.com/index/parloa)

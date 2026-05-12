@@ -1,11 +1,13 @@
 ---
-title: "A Wasserstein GAN-based climate scenario generator for risk management and insurance: the case of soil subsidence"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.06678
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06678
 next_step: skim
+priority: high
+slack_ts: '1778558015.987679'
+source: cs.LG - Machine Learning
+status: unread
+title: 'A Wasserstein GAN-based climate scenario generator for risk management and
+  insurance: the case of soil subsidence'
 ---
 # A Wasserstein GAN-based climate scenario generator for risk management and insurance: the case of soil subsidence
 > 原文: [https://arxiv.org/abs/2605.06678](https://arxiv.org/abs/2605.06678)

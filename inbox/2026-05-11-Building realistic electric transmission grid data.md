@@ -1,11 +1,13 @@
 ---
-title: "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/
 next_step: skim
+priority: high
+slack_ts: '1778558019.324289'
+source: Microsoft Research
+status: unread
+title: 'Building realistic electric transmission grid dataset at scale: a pipeline
+  from open dataset'
 ---
 # Building realistic electric transmission grid dataset at scale: a pipeline from open dataset
 > 原文: [https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/](https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/)

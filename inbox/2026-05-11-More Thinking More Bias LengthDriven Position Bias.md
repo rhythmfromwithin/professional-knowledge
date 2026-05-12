@@ -1,11 +1,12 @@
 ---
-title: "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.06672
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06672
 next_step: skim
+priority: high
+slack_ts: '1778558026.459429'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models'
 ---
 # More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models
 > 原文: [https://arxiv.org/abs/2605.06672](https://arxiv.org/abs/2605.06672)

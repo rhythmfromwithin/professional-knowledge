@@ -1,11 +1,12 @@
 ---
-title: "Privacy Perceptions in Sensor-Powered Smart Vehicle Cabins"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.06847
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06847
 next_step: skim
+priority: low
+slack_ts: '1778558028.630269'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Privacy Perceptions in Sensor-Powered Smart Vehicle Cabins
 ---
 # Privacy Perceptions in Sensor-Powered Smart Vehicle Cabins
 > 原文: [https://arxiv.org/abs/2605.06847](https://arxiv.org/abs/2605.06847)

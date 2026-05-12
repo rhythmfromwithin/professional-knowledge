@@ -1,11 +1,13 @@
 ---
-title: "RateQuant: Optimal Mixed-Precision KV Cache Quantization via Rate-Distortion Theory"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.06675
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06675
 next_step: skim
+priority: high
+slack_ts: '1778558029.388749'
+source: cs.LG - Machine Learning
+status: unread
+title: 'RateQuant: Optimal Mixed-Precision KV Cache Quantization via Rate-Distortion
+  Theory'
 ---
 # RateQuant: Optimal Mixed-Precision KV Cache Quantization via Rate-Distortion Theory
 > 原文: [https://arxiv.org/abs/2605.06675](https://arxiv.org/abs/2605.06675)

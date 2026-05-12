@@ -1,11 +1,13 @@
 ---
-title: "One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.06873
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06873
 next_step: skim
+priority: medium
+slack_ts: '1778558027.257549'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'One Operator for Many Densities: Amortized Approximation of Conditioning by
+  Neural Operators'
 ---
 # One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators
 > 原文: [https://arxiv.org/abs/2605.06873](https://arxiv.org/abs/2605.06873)

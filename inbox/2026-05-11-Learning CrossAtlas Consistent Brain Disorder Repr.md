@@ -1,11 +1,13 @@
 ---
-title: "Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled Multi-Atlas Functional Connectivity Learning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.07026
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.07026
 next_step: skim
+priority: low
+slack_ts: '1778558024.980959'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled
+  Multi-Atlas Functional Connectivity Learning
 ---
 # Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled Multi-Atlas Functional Connectivity Learning
 > 原文: [https://arxiv.org/abs/2605.07026](https://arxiv.org/abs/2605.07026)

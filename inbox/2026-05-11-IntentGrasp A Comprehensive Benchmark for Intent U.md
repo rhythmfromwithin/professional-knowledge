@@ -1,11 +1,12 @@
 ---
-title: "IntentGrasp: A Comprehensive Benchmark for Intent Understanding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.06832
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06832
 next_step: skim
+priority: high
+slack_ts: '1778558023.138789'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'IntentGrasp: A Comprehensive Benchmark for Intent Understanding'
 ---
 # IntentGrasp: A Comprehensive Benchmark for Intent Understanding
 > 原文: [https://arxiv.org/abs/2605.06832](https://arxiv.org/abs/2605.06832)

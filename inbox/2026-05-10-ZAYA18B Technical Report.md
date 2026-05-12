@@ -1,11 +1,12 @@
 ---
-title: "ZAYA1-8B Technical Report"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.05365
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.05365
 next_step: skim
+priority: high
+slack_ts: '1778558015.276099'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: ZAYA1-8B Technical Report
 ---
 # ZAYA1-8B Technical Report
 > 原文: [https://arxiv.org/abs/2605.05365](https://arxiv.org/abs/2605.05365)
