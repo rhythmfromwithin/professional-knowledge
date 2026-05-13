@@ -1,11 +1,12 @@
 ---
-title: "How ChatGPT adoption broadened in early 2026"
-source: "OpenAI Blog"
-link: https://openai.com/signals/research/2026q1-update
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/signals/research/2026q1-update
 next_step: skim
+priority: high
+slack_ts: '1778644941.840499'
+source: OpenAI Blog
+status: unread
+title: How ChatGPT adoption broadened in early 2026
 ---
 # How ChatGPT adoption broadened in early 2026
 > 原文: [https://openai.com/signals/research/2026q1-update](https://openai.com/signals/research/2026q1-update)

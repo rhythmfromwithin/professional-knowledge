@@ -1,11 +1,12 @@
 ---
-title: "Broken-symmetry shape discrimination on a driven Duffing ring"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.07475
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.07475
 next_step: skim
+priority: low
+slack_ts: '1778644937.036489'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Broken-symmetry shape discrimination on a driven Duffing ring
 ---
 # Broken-symmetry shape discrimination on a driven Duffing ring
 > 原文: [https://arxiv.org/abs/2605.07475](https://arxiv.org/abs/2605.07475)

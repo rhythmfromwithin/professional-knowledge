@@ -1,11 +1,12 @@
 ---
-title: "The University AI Didn't Replace -- Rethinking Universities in the AI Era"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.07056
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.07056
 next_step: skim
+priority: medium
+slack_ts: '1778644932.677189'
+source: cs.CY - Computers and Society
+status: unread
+title: The University AI Didn't Replace -- Rethinking Universities in the AI Era
 ---
 # The University AI Didn't Replace -- Rethinking Universities in the AI Era
 > 原文: [https://arxiv.org/abs/2605.07056](https://arxiv.org/abs/2605.07056)

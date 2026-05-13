@@ -1,11 +1,13 @@
 ---
-title: "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.06671
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06671
 next_step: skim
+priority: high
+slack_ts: '1778644941.578049'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm
+  Reasoning'
 ---
 # GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning
 > 原文: [https://arxiv.org/abs/2605.06671](https://arxiv.org/abs/2605.06671)

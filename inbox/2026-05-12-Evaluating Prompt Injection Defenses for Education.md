@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.06669
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06669
 next_step: skim
+priority: low
+slack_ts: '1778644940.281259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency
+  Trade-offs'
 ---
 # Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
 > 原文: [https://arxiv.org/abs/2605.06669](https://arxiv.org/abs/2605.06669)

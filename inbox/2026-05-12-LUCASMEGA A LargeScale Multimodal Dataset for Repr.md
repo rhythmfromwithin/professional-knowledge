@@ -1,11 +1,13 @@
 ---
-title: "LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.04323
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.04323
 next_step: skim
+priority: low
+slack_ts: '1778644944.340349'
+source: cs.DB - Databases
+status: unread
+title: 'LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in
+  Soil-Environment Systems'
 ---
 # LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems
 > 原文: [https://arxiv.org/abs/2605.04323](https://arxiv.org/abs/2605.04323)

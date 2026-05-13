@@ -1,11 +1,13 @@
 ---
-title: "Big AI's Regulatory Capture: Mapping Industry Interference and Government Complicity"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.06806
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06806
 next_step: skim
+priority: medium
+slack_ts: '1778644936.778909'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Big AI''s Regulatory Capture: Mapping Industry Interference and Government
+  Complicity'
 ---
 # Big AI's Regulatory Capture: Mapping Industry Interference and Government Complicity
 > 原文: [https://arxiv.org/abs/2605.06806](https://arxiv.org/abs/2605.06806)

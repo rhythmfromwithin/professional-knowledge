@@ -1,11 +1,12 @@
 ---
-title: "Agentic Coding Needs Proactivity, Not Just Autonomy"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.06717
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06717
 next_step: skim
+priority: low
+slack_ts: '1778644934.984409'
+source: cs.SE - Software Engineering
+status: unread
+title: Agentic Coding Needs Proactivity, Not Just Autonomy
 ---
 # Agentic Coding Needs Proactivity, Not Just Autonomy
 > 原文: [https://arxiv.org/abs/2605.06717](https://arxiv.org/abs/2605.06717)

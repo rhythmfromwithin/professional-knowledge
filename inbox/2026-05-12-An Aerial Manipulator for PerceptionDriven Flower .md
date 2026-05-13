@@ -1,11 +1,13 @@
 ---
-title: "An Aerial Manipulator for Perception-Driven Flower Targeting Toward Contactless Pollination in Vertical Farming"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.06759
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06759
 next_step: skim
+priority: medium
+slack_ts: '1778644935.755489'
+source: cs.RO - Robotics
+status: unread
+title: An Aerial Manipulator for Perception-Driven Flower Targeting Toward Contactless
+  Pollination in Vertical Farming
 ---
 # An Aerial Manipulator for Perception-Driven Flower Targeting Toward Contactless Pollination in Vertical Farming
 > 原文: [https://arxiv.org/abs/2605.06759](https://arxiv.org/abs/2605.06759)

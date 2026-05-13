@@ -1,11 +1,12 @@
 ---
-title: "Partitioning Neural Co-Variability"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.06995
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06995
 next_step: skim
+priority: low
+slack_ts: '1778644948.039449'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Partitioning Neural Co-Variability
 ---
 # Partitioning Neural Co-Variability
 > 原文: [https://arxiv.org/abs/2605.06995](https://arxiv.org/abs/2605.06995)

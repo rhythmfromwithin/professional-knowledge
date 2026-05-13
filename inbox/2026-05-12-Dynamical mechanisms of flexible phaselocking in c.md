@@ -1,11 +1,12 @@
 ---
-title: "Dynamical mechanisms of flexible phase-locking in cortical theta oscillators"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.08014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.08014
 next_step: skim
+priority: low
+slack_ts: '1778644939.088289'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Dynamical mechanisms of flexible phase-locking in cortical theta oscillators
 ---
 # Dynamical mechanisms of flexible phase-locking in cortical theta oscillators
 > 原文: [https://arxiv.org/abs/2605.08014](https://arxiv.org/abs/2605.08014)

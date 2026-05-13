@@ -1,0 +1,14 @@
+---
+title: "ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching"
+source: "cs.RO - Robotics"
+link: https://arxiv.org/abs/2605.11048
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching
+> 原文: [https://arxiv.org/abs/2605.11048](https://arxiv.org/abs/2605.11048)
+
+arXiv:2605.11048v1 Announce Type: new
+Abstract: Existing imitation learning methods enable robots to interact autonomously with the physical environment. However, contact-rich manipulation tasks remain a significant challenge due to complex contact dynamics that demand high-precision force feedback and control. Although recent efforts have attempted to integrate force/torque sensing into policies, how to build a simple yet effective framework that achieves robust generalization under multimodal observations remains an open question. In this paper, we propose ForceFlow, a force-aware reactive framework built upon flow matching. For contact-stage policy design, we investigate force signal fusion mechanisms and adopt an asymmetric multimodal fusion architecture that treats force as a global regulatory signal, combined with a joint prediction paradigm that enhances the policy's understanding of instantaneous force and historical information, thereby achieving deep coupling between force and motion. For task-level hierarchical decomposition, we divide manipulation into a vision-dominant approach stage (VLM-based pointing for target localization) and a touch-dominant interaction stage (force-driven contact execution), with a Vision-to-Force (V2F) handover mechanism that explicitly decouples spatial generalization from contact regulation. Experimental results across six real-world contact-rich tasks demonstrate that ForceFlow achieves a 37% success rate improvement over the strong baseline ForceVLA while maintaining significantly lower cost. Moreover, ForceFlow exhibits accurate force signal prediction and demonstrates superior performance in contact force self-regulation and zero-shot out-of-distribution (OOD) generalization.

@@ -1,11 +1,12 @@
 ---
-title: "Building web search-enabled agents with Strands and Exa"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/
 next_step: skim
+priority: high
+slack_ts: '1778644937.882329'
+source: AWS Blog
+status: unread
+title: Building web search-enabled agents with Strands and Exa
 ---
 # Building web search-enabled agents with Strands and Exa
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/](https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/)

@@ -1,11 +1,12 @@
 ---
-title: "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/
 next_step: skim
+priority: high
+slack_ts: '1778644949.776929'
+source: Microsoft Research
+status: unread
+title: 'SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests'
 ---
 # SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests
 > 原文: [https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/](https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/)

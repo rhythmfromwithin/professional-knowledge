@@ -1,11 +1,12 @@
 ---
-title: "Regulating Branch Parallelism in LLM Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.06914
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06914
 next_step: skim
+priority: medium
+slack_ts: '1778644949.205679'
+source: cs.DC - Distributed Computing
+status: unread
+title: Regulating Branch Parallelism in LLM Serving
 ---
 # Regulating Branch Parallelism in LLM Serving
 > 原文: [https://arxiv.org/abs/2605.06914](https://arxiv.org/abs/2605.06914)

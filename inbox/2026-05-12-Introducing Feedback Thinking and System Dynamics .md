@@ -1,11 +1,12 @@
 ---
-title: "Introducing Feedback Thinking and System Dynamics Modeling in Economics Education"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.06757
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06757
 next_step: skim
+priority: low
+slack_ts: '1778644943.781239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Introducing Feedback Thinking and System Dynamics Modeling in Economics Education
 ---
 # Introducing Feedback Thinking and System Dynamics Modeling in Economics Education
 > 原文: [https://arxiv.org/abs/2605.06757](https://arxiv.org/abs/2605.06757)

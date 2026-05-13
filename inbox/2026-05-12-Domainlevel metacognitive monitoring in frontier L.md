@@ -1,11 +1,12 @@
 ---
-title: "Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.06673
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06673
 next_step: skim
+priority: high
+slack_ts: '1778644938.835019'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas'
 ---
 # Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas
 > 原文: [https://arxiv.org/abs/2605.06673](https://arxiv.org/abs/2605.06673)

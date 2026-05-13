@@ -1,11 +1,13 @@
 ---
-title: "The Single-File Test: A Longitudinal Public-Interface Evaluation of First-Output LLM Web Generation with Social Reach Tracking"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.06707
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06707
 next_step: skim
+priority: low
+slack_ts: '1778644932.398629'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Single-File Test: A Longitudinal Public-Interface Evaluation of First-Output
+  LLM Web Generation with Social Reach Tracking'
 ---
 # The Single-File Test: A Longitudinal Public-Interface Evaluation of First-Output LLM Web Generation with Social Reach Tracking
 > 原文: [https://arxiv.org/abs/2605.06707](https://arxiv.org/abs/2605.06707)

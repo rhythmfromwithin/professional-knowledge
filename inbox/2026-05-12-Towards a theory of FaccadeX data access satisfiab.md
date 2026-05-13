@@ -1,11 +1,5 @@
 ---
-title: "Towards a theory of Fa\c{c}ade-X data access: satisfiability of SPARQL basic graph patterns"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2602.11756
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1778644951.464179'
 ---
 # Towards a theory of Fa\c{c}ade-X data access: satisfiability of SPARQL basic graph patterns
 > 原文: [https://arxiv.org/abs/2602.11756](https://arxiv.org/abs/2602.11756)

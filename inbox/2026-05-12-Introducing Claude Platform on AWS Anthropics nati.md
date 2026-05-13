@@ -1,11 +1,13 @@
 ---
-title: "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/
 next_step: skim
+priority: high
+slack_ts: '1778644943.270859'
+source: AWS Blog
+status: unread
+title: 'Introducing Claude Platform on AWS: Anthropic’s native platform, through your
+  AWS account'
 ---
 # Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/](https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/)

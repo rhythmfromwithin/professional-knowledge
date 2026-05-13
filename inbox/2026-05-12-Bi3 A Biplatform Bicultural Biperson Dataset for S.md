@@ -1,11 +1,12 @@
 ---
-title: "Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.06863
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06863
 next_step: skim
+priority: medium
+slack_ts: '1778644936.274599'
+source: cs.RO - Robotics
+status: unread
+title: 'Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation'
 ---
 # Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation
 > 原文: [https://arxiv.org/abs/2605.06863](https://arxiv.org/abs/2605.06863)

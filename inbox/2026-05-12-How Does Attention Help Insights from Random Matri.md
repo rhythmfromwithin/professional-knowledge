@@ -1,11 +1,13 @@
 ---
-title: "How Does Attention Help? Insights from Random Matrices on Signal Recovery from Sequence Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.06826
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06826
 next_step: skim
+priority: medium
+slack_ts: '1778644942.099899'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: How Does Attention Help? Insights from Random Matrices on Signal Recovery from
+  Sequence Models
 ---
 # How Does Attention Help? Insights from Random Matrices on Signal Recovery from Sequence Models
 > 原文: [https://arxiv.org/abs/2605.06826](https://arxiv.org/abs/2605.06826)

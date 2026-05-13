@@ -1,0 +1,18 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2605.11179
+next_step: skim
+priority: medium
+slack_ts: '1778644962.479919'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Interpretable Machine Learning for Spatial Science: A Lie-Algebraic Kernel
+  for Rotationally Anisotropic Gaussian Processes'
+---
+# Interpretable Machine Learning for Spatial Science: A Lie-Algebraic Kernel for Rotationally Anisotropic Gaussian Processes
+> 原文: [https://arxiv.org/abs/2605.11179](https://arxiv.org/abs/2605.11179)
+
+arXiv:2605.11179v1 Announce Type: new
+Abstract: Many three-dimensional spatial fields are anisotropic, with directions of rapid and slow variation that need not align with the coordinate axes. Standard Gaussian process kernels with Automatic Relevance Determination (ARD) capture only axis-aligned anisotropy, while generic full symmetric positive definite (SPD) metrics can represent rotated anisotropy but do not parameterise principal length-scales and directions directly. We introduce an interpretable rotationally anisotropic GP kernel that parameterises a three-dimensional SPD covariance metric using three principal length-scales and an explicit SO(3) rotation. The rotation is represented by an axis-angle vector and mapped to SO(3) via the Lie-algebra exponential map, giving unconstrained Euclidean coordinates for inference while always inducing a valid SPD metric.
+The construction spans the same family of three-dimensional SPD covariance metrics as a generic full-SPD parameterisation, but exposes the geometry differently: length-scales and orientation are explicit, interpretable, and directly available for prior specification and posterior summaries. We perform Bayesian inference on these quantities using Markov Chain Monte Carlo (MCMC), and characterise the resulting symmetries and weakly identified regimes.
+On synthetic data with rotated anisotropy, the posterior recovers the generating metric and improves prediction relative to an axis-aligned ARD baseline, while matching the predictive performance of a generic full SPD baseline. When the ground truth is axis-aligned, posterior mass concentrates near the identity rotation and predictive performance matches ARD. On a material-density dataset from a laboratory-fabricated nano-brick, the inferred metric reveals rotated anisotropy that is not captured by axis-aligned kernels.

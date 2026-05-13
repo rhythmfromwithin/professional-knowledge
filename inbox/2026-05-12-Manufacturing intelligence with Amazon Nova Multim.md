@@ -1,11 +1,12 @@
 ---
-title: "Manufacturing intelligence with Amazon Nova Multimodal Embeddings"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/
 next_step: skim
+priority: high
+slack_ts: '1778644945.346189'
+source: AWS Blog
+status: unread
+title: Manufacturing intelligence with Amazon Nova Multimodal Embeddings
 ---
 # Manufacturing intelligence with Amazon Nova Multimodal Embeddings
 > 原文: [https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/](https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/)

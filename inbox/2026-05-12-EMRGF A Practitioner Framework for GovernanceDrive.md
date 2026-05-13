@@ -1,11 +1,13 @@
 ---
-title: "EMRGF: A Practitioner Framework for Governance-Driven Enterprise Technology Modernization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.06703
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06703
 next_step: skim
+priority: low
+slack_ts: '1778644939.524249'
+source: cs.SE - Software Engineering
+status: unread
+title: 'EMRGF: A Practitioner Framework for Governance-Driven Enterprise Technology
+  Modernization'
 ---
 # EMRGF: A Practitioner Framework for Governance-Driven Enterprise Technology Modernization
 > 原文: [https://arxiv.org/abs/2605.06703](https://arxiv.org/abs/2605.06703)

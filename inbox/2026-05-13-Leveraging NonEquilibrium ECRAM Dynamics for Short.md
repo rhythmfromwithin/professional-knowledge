@@ -1,0 +1,14 @@
+---
+title: "Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2605.11243
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits
+> 原文: [https://arxiv.org/abs/2605.11243](https://arxiv.org/abs/2605.11243)
+
+arXiv:2605.11243v1 Announce Type: new
+Abstract: Short-term plasticity (STP) is fundamental to temporal information processing in biological neural systems but remains difficult to realize efficiently in neuromorphic hardware. Memristive electrochemical random-access memory (ECRAM) devices naturally exhibit non-equilibrium ionic dynamics that produce transient conductance modulation; however, these behaviors are typically treated as undesirable variability or tolerated as side effects in memory-centric computing paradigms. In this work, we instead transform these volatile dynamics from a tolerated device artifact into a computational resource through a cross-layer device-circuit-system co-design framework. We introduce a delay-feedback leaky integrate-and-fire (LIF) neuron architecture co-designed with ECRAM synapses that exploits activity-dependent conductance modulation with negligible additional circuit overhead. The architecture integrates ECRAM-based synapses with a tunable delay-feedback spike-generation path, enabling transient device dynamics to directly modulate neuron excitability and synaptic efficacy. We used experimentally characterized ECRAM devices exhibiting transient conductance modulation (1.5 KOhms per spike) to develop a compact behavioral model suitable for circuit-level simulation. Circuit simulations demonstrate two key STP behaviors -- synaptic facilitation and intrinsic excitability modulation -- while consuming 2 pJ per spike, and the same device-driven mechanisms extend across multiple neuron topologies. Network-level analysis further demonstrates frequency-selective spike processing, allowing individual synapses to act as tunable temporal filters within spiking neural networks. This work demonstrates that non-equilibrium ECRAM dynamics can serve as a native hardware substrate for STP and temporal computation in neuromorphic circuits.

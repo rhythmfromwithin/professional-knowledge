@@ -1,11 +1,13 @@
 ---
-title: "Kernel Selection is Model Selection: A Unified Complexity-Penalized Approach for MMD Two-Sample Tests"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.06883
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06883
 next_step: skim
+priority: medium
+slack_ts: '1778644944.093389'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Kernel Selection is Model Selection: A Unified Complexity-Penalized Approach
+  for MMD Two-Sample Tests'
 ---
 # Kernel Selection is Model Selection: A Unified Complexity-Penalized Approach for MMD Two-Sample Tests
 > 原文: [https://arxiv.org/abs/2605.06883](https://arxiv.org/abs/2605.06883)

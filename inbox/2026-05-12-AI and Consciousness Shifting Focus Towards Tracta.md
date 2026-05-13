@@ -1,11 +1,12 @@
 ---
-title: "AI and Consciousness: Shifting Focus Towards Tractable Questions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.06965
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06965
 next_step: skim
+priority: medium
+slack_ts: '1778644934.136659'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI and Consciousness: Shifting Focus Towards Tractable Questions'
 ---
 # AI and Consciousness: Shifting Focus Towards Tractable Questions
 > 原文: [https://arxiv.org/abs/2605.06965](https://arxiv.org/abs/2605.06965)
