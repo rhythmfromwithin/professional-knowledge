@@ -181,6 +181,12 @@
         color: var(--muted);
       }
 
+      .toc-item.level-4 {
+        padding-left: 36px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
       .reader {
         min-width: 0;
       }
@@ -447,13 +453,43 @@
         }
       }
 
+      function getTocLevel(heading, index) {
+        const text = (heading.textContent || "").trim();
+        const tagLevel = Number(heading.tagName.slice(1));
+
+        if (index === 0 && tagLevel === 1) {
+          return null;
+        }
+
+        if (/^第\s*\d+\s*章/.test(text) || /^chapter\s+\d+/i.test(text)) {
+          return 2;
+        }
+
+        if (/^第[一二三四五六七八九十百千0-9]+部分/.test(text) || /^part\s+\d+/i.test(text)) {
+          return 1;
+        }
+
+        if (tagLevel === 1) {
+          return 2;
+        }
+
+        if (tagLevel === 2) {
+          return 3;
+        }
+
+        return 4;
+      }
+
       function buildToc(articleEl, lang) {
         const headings = [...articleEl.querySelectorAll("h1, h2, h3")];
         tocTitleEl.textContent = lang === "cn" ? "目录" : "Contents";
 
         tocEl.innerHTML = headings
-          .map((heading) => {
-            const level = Number(heading.tagName.slice(1));
+          .map((heading, index) => {
+            const level = getTocLevel(heading, index);
+            if (!level) {
+              return "";
+            }
             return `<a class="toc-item level-${level}" href="#${heading.id}">${heading.textContent}</a>`;
           })
           .join("");
