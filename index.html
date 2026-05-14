@@ -6,7 +6,7 @@
     <title>Agent Product Book</title>
     <meta
       name="description"
-      content="Render agent_product_book.md as a GitHub Pages reading experience."
+      content="Agent Product Book with a table of contents and separate Chinese / English reading modes."
     />
     <style>
       :root {
@@ -17,7 +17,9 @@
         --card: #f8fafc;
         --line: #e5e7eb;
         --link: #2563eb;
-        --max: 920px;
+        --accent: #0f172a;
+        --max: 1320px;
+        --sidebar: 300px;
       }
 
       @media (prefers-color-scheme: dark) {
@@ -28,11 +30,16 @@
           --card: #111827;
           --line: #1f2937;
           --link: #60a5fa;
+          --accent: #f8fafc;
         }
       }
 
       * {
         box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
       }
 
       body {
@@ -41,6 +48,10 @@
         background: var(--bg);
         color: var(--fg);
         line-height: 1.7;
+      }
+
+      a {
+        color: var(--link);
       }
 
       header {
@@ -58,39 +69,50 @@
       }
 
       .eyebrow {
+        margin: 0 0 10px;
         font-size: 13px;
-        color: var(--muted);
-        margin: 0 0 8px;
         text-transform: uppercase;
         letter-spacing: 0.08em;
+        color: var(--muted);
       }
 
-      h1.page-title {
+      .page-title {
         margin: 0;
-        font-size: clamp(28px, 5vw, 42px);
-        line-height: 1.15;
+        font-size: clamp(28px, 4.5vw, 44px);
+        line-height: 1.1;
+      }
+
+      .page-subtitle {
+        margin: 12px 0 0;
+        color: var(--muted);
+        font-size: 16px;
       }
 
       .actions {
         display: flex;
         gap: 12px;
         flex-wrap: wrap;
-        margin-top: 16px;
+        margin-top: 18px;
       }
 
-      .actions a {
+      .actions a,
+      .lang-switch button {
         display: inline-flex;
         align-items: center;
+        justify-content: center;
         padding: 10px 14px;
         border: 1px solid var(--line);
         border-radius: 999px;
         text-decoration: none;
         color: var(--fg);
         background: var(--bg);
+        cursor: pointer;
+        font: inherit;
       }
 
-      .actions a.primary {
-        color: white;
+      .actions a.primary,
+      .lang-switch button.active {
+        color: #ffffff;
         background: var(--link);
         border-color: var(--link);
       }
@@ -99,35 +121,105 @@
         padding: 28px 0 64px;
       }
 
+      .layout {
+        display: grid;
+        grid-template-columns: var(--sidebar) minmax(0, 1fr);
+        gap: 28px;
+        align-items: start;
+      }
+
+      .sidebar {
+        position: sticky;
+        top: 16px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: var(--card);
+      }
+
+      .sidebar h2 {
+        margin: 0 0 12px;
+        font-size: 15px;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .lang-switch {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 18px;
+      }
+
+      #toc {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        max-height: calc(100vh - 180px);
+        overflow: auto;
+        padding-right: 4px;
+      }
+
+      .toc-item {
+        display: block;
+        color: var(--fg);
+        text-decoration: none;
+        font-size: 14px;
+        line-height: 1.45;
+      }
+
+      .toc-item.level-1 {
+        font-weight: 700;
+      }
+
+      .toc-item.level-2 {
+        padding-left: 12px;
+      }
+
+      .toc-item.level-3 {
+        padding-left: 24px;
+        color: var(--muted);
+      }
+
+      .reader {
+        min-width: 0;
+      }
+
       #status {
         color: var(--muted);
+        margin: 0;
       }
 
       article {
         font-size: 18px;
       }
 
+      article[hidden] {
+        display: none;
+      }
+
       article h1,
       article h2,
       article h3,
       article h4 {
-        line-height: 1.25;
-        margin-top: 1.75em;
+        line-height: 1.22;
+        margin-top: 1.8em;
         margin-bottom: 0.6em;
+        scroll-margin-top: 24px;
       }
 
       article h1 {
-        font-size: 2em;
+        font-size: 2.1em;
       }
 
       article h2 {
-        font-size: 1.5em;
+        font-size: 1.55em;
         border-bottom: 1px solid var(--line);
         padding-bottom: 0.25em;
       }
 
-      article a {
-        color: var(--link);
+      article h3 {
+        font-size: 1.2em;
       }
 
       article blockquote {
@@ -172,6 +264,20 @@
         font-size: 14px;
         padding: 20px 0 40px;
       }
+
+      @media (max-width: 980px) {
+        .layout {
+          grid-template-columns: 1fr;
+        }
+
+        .sidebar {
+          position: static;
+        }
+
+        #toc {
+          max-height: none;
+        }
+      }
     </style>
   </head>
   <body>
@@ -179,6 +285,9 @@
       <div class="wrap hero">
         <p class="eyebrow">GitHub Pages</p>
         <h1 class="page-title">Agent Product Book</h1>
+        <p class="page-subtitle" id="subtitle">
+          Separate Chinese and English reading modes with a live table of contents.
+        </p>
         <div class="actions">
           <a class="primary" href="./agent_product_book.md">Open Raw Markdown</a>
           <a href="https://github.com/rhythmfromwithin/professional-knowledge">View Repository</a>
@@ -187,25 +296,181 @@
     </header>
 
     <main class="wrap">
-      <p id="status">Loading book content...</p>
-      <article id="content" hidden></article>
+      <div class="layout">
+        <aside class="sidebar">
+          <div class="lang-switch">
+            <button id="show-cn" class="active" type="button">中文</button>
+            <button id="show-en" type="button">English</button>
+          </div>
+          <h2 id="toc-title">目录</h2>
+          <nav id="toc"></nav>
+        </aside>
+
+        <section class="reader">
+          <p id="status">Loading book content...</p>
+          <article id="content-cn" hidden></article>
+          <article id="content-en" hidden></article>
+        </section>
+      </div>
     </main>
 
     <footer>
       <div class="wrap">
-        This page renders <code>agent_product_book.md</code> directly from this repository.
+        This page renders <code>agent_product_book.md</code> and separates Chinese / English views for easier reading.
       </div>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
       const statusEl = document.getElementById("status");
-      const contentEl = document.getElementById("content");
+      const cnEl = document.getElementById("content-cn");
+      const enEl = document.getElementById("content-en");
+      const tocEl = document.getElementById("toc");
+      const tocTitleEl = document.getElementById("toc-title");
+      const pageTitleEl = document.querySelector(".page-title");
+      const subtitleEl = document.getElementById("subtitle");
+      const showCnBtn = document.getElementById("show-cn");
+      const showEnBtn = document.getElementById("show-en");
+
+      const state = {
+        activeLang: "cn",
+      };
 
       marked.setOptions({
         breaks: true,
         gfm: true,
       });
+
+      function hasChinese(text) {
+        return /[\u3400-\u9fff]/.test(text);
+      }
+
+      function countMatches(text, regex) {
+        const matches = text.match(regex);
+        return matches ? matches.length : 0;
+      }
+
+      function detectLanguage(line) {
+        const plain = line.replace(/[`*_#>\-\d.[\]()!|:]/g, " ");
+        const chineseCount = countMatches(plain, /[\u3400-\u9fff]/g);
+        const englishCount = countMatches(plain, /[A-Za-z]/g);
+
+        if (!chineseCount && !englishCount) return "neutral";
+        if (chineseCount && !englishCount) return "cn";
+        if (englishCount && !chineseCount) return "en";
+        return chineseCount * 1.2 >= englishCount ? "cn" : "en";
+      }
+
+      function splitBilingualText(text, lang) {
+        const slashParts = text.split(/\s+\/\s+/);
+        if (slashParts.length === 2) {
+          let selected = lang === "cn" ? slashParts[0] : slashParts[1];
+          if (lang === "cn") {
+            selected = selected.replace(/\s*[（(][A-Za-z][^）)]*[）)]\s*$/u, "").trim();
+          }
+          return selected.trim();
+        }
+        return text;
+      }
+
+      function transformLine(line, lang) {
+        const headingMatch = line.match(/^(#{1,6}\s+)(.*)$/);
+        if (headingMatch) {
+          return `${headingMatch[1]}${splitBilingualText(headingMatch[2], lang)}`;
+        }
+
+        const quoteMatch = line.match(/^(>\s+)(.*)$/);
+        if (quoteMatch) {
+          return `${quoteMatch[1]}${splitBilingualText(quoteMatch[2], lang)}`;
+        }
+
+        return line;
+      }
+
+      function splitMarkdownByLanguage(markdown) {
+        const lines = markdown.split(/\r?\n/);
+        const cnLines = [];
+        const enLines = [];
+        let inCode = false;
+
+        for (const line of lines) {
+          const trimmed = line.trim();
+
+          if (trimmed.startsWith("```")) {
+            inCode = !inCode;
+            cnLines.push(line);
+            enLines.push(line);
+            continue;
+          }
+
+          if (inCode || trimmed === "" || trimmed === "---" || trimmed.startsWith("|")) {
+            cnLines.push(line);
+            enLines.push(line);
+            continue;
+          }
+
+          const lang = detectLanguage(line);
+          if (lang === "neutral") {
+            cnLines.push(line);
+            enLines.push(line);
+          } else if (lang === "cn") {
+            cnLines.push(transformLine(line, "cn"));
+          } else {
+            enLines.push(transformLine(line, "en"));
+          }
+        }
+
+        return {
+          cn: cnLines.join("\n"),
+          en: enLines.join("\n"),
+        };
+      }
+
+      function slugify(text) {
+        return text
+          .trim()
+          .toLowerCase()
+          .replace(/[^\u3400-\u9fff\w\s-]/g, "")
+          .replace(/\s+/g, "-")
+          .replace(/-+/g, "-");
+      }
+
+      function decorateHeadings(articleEl, lang) {
+        const headings = [...articleEl.querySelectorAll("h1, h2, h3")];
+        const seen = new Map();
+
+        for (const heading of headings) {
+          const base = `${lang}-${slugify(heading.textContent || "section")}`;
+          const count = seen.get(base) || 0;
+          seen.set(base, count + 1);
+          heading.id = count ? `${base}-${count + 1}` : base;
+        }
+      }
+
+      function buildToc(articleEl, lang) {
+        const headings = [...articleEl.querySelectorAll("h1, h2, h3")];
+        tocTitleEl.textContent = lang === "cn" ? "目录" : "Contents";
+
+        tocEl.innerHTML = headings
+          .map((heading) => {
+            const level = Number(heading.tagName.slice(1));
+            return `<a class="toc-item level-${level}" href="#${heading.id}">${heading.textContent}</a>`;
+          })
+          .join("");
+      }
+
+      function setActiveLanguage(lang) {
+        state.activeLang = lang;
+        const isCn = lang === "cn";
+        cnEl.hidden = !isCn;
+        enEl.hidden = isCn;
+        showCnBtn.classList.toggle("active", isCn);
+        showEnBtn.classList.toggle("active", !isCn);
+        buildToc(isCn ? cnEl : enEl, lang);
+      }
+
+      showCnBtn.addEventListener("click", () => setActiveLanguage("cn"));
+      showEnBtn.addEventListener("click", () => setActiveLanguage("en"));
 
       fetch("./agent_product_book.md", { cache: "no-store" })
         .then((response) => {
@@ -215,14 +480,25 @@
           return response.text();
         })
         .then((markdown) => {
-          const firstTitle = markdown.match(/^#\s+(.+)$/m);
-          if (firstTitle) {
-            document.title = firstTitle[1];
-            document.querySelector(".page-title").textContent = firstTitle[1];
+          const split = splitMarkdownByLanguage(markdown);
+          const cnTitle = split.cn.match(/^#\s+(.+)$/m);
+          const enTitle = split.en.match(/^#\s+(.+)$/m);
+
+          if (cnTitle) {
+            pageTitleEl.textContent = cnTitle[1];
+            document.title = cnTitle[1];
           }
-          contentEl.innerHTML = marked.parse(markdown);
+          if (enTitle) {
+            subtitleEl.textContent = enTitle[1];
+          }
+
+          cnEl.innerHTML = marked.parse(split.cn);
+          enEl.innerHTML = marked.parse(split.en);
+          decorateHeadings(cnEl, "cn");
+          decorateHeadings(enEl, "en");
+
           statusEl.hidden = true;
-          contentEl.hidden = false;
+          setActiveLanguage("cn");
         })
         .catch((error) => {
           statusEl.textContent = `Could not load the book: ${error.message}`;
