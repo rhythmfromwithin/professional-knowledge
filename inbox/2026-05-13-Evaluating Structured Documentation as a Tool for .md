@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.11345
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11345
 next_step: skim
+priority: medium
+slack_ts: '1778731260.993649'
+source: cs.CY - Computers and Society
+status: unread
+title: Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development
 ---
 # Evaluating Structured Documentation as a Tool for Reflexivity in Dataset Development
 > 原文: [https://arxiv.org/abs/2605.11345](https://arxiv.org/abs/2605.11345)

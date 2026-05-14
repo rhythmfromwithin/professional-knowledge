@@ -1,11 +1,13 @@
 ---
-title: "Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.11155
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11155
 next_step: skim
+priority: medium
+slack_ts: '1778731262.032359'
+source: cs.CY - Computers and Society
+status: unread
+title: Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based
+  on Student Needs
 ---
 # Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
 > 原文: [https://arxiv.org/abs/2605.11155](https://arxiv.org/abs/2605.11155)

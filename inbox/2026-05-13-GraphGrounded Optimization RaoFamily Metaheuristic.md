@@ -1,11 +1,13 @@
 ---
-title: "Graph-Grounded Optimization: Rao-Family Metaheuristics, Classical OR, and SLM-Driven Formulation over Knowledge Graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.12204
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12204
 next_step: skim
+priority: low
+slack_ts: '1778731261.410779'
+source: cs.DB - Databases
+status: unread
+title: 'Graph-Grounded Optimization: Rao-Family Metaheuristics, Classical OR, and
+  SLM-Driven Formulation over Knowledge Graphs'
 ---
 # Graph-Grounded Optimization: Rao-Family Metaheuristics, Classical OR, and SLM-Driven Formulation over Knowledge Graphs
 > 原文: [https://arxiv.org/abs/2605.12204](https://arxiv.org/abs/2605.12204)

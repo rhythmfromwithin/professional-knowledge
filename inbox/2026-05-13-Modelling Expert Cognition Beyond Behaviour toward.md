@@ -1,11 +1,13 @@
 ---
-title: "Modelling Expert Cognition Beyond Behaviour: towardss Interpretation, Tension, and Value Structures"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.11393
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11393
 next_step: skim
+priority: low
+slack_ts: '1778731262.939069'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Modelling Expert Cognition Beyond Behaviour: towardss Interpretation, Tension,
+  and Value Structures'
 ---
 # Modelling Expert Cognition Beyond Behaviour: towardss Interpretation, Tension, and Value Structures
 > 原文: [https://arxiv.org/abs/2605.11393](https://arxiv.org/abs/2605.11393)

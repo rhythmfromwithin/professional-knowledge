@@ -1,11 +1,13 @@
 ---
-title: "Decomposing Evolutionary Mixture-of-LoRA Architectures: The Routing Lever, the Lifecycle Penalty, and a Substrate-Conditional Boundary"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.11153
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11153
 next_step: skim
+priority: high
+slack_ts: '1778731260.600549'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Decomposing Evolutionary Mixture-of-LoRA Architectures: The Routing Lever,
+  the Lifecycle Penalty, and a Substrate-Conditional Boundary'
 ---
 # Decomposing Evolutionary Mixture-of-LoRA Architectures: The Routing Lever, the Lifecycle Penalty, and a Substrate-Conditional Boundary
 > 原文: [https://arxiv.org/abs/2605.11153](https://arxiv.org/abs/2605.11153)

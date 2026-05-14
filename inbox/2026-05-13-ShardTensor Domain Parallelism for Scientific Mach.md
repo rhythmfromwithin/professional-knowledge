@@ -1,11 +1,12 @@
 ---
-title: "ShardTensor: Domain Parallelism for Scientific Machine Learning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.11111
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11111
 next_step: skim
+priority: medium
+slack_ts: '1778731264.749219'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ShardTensor: Domain Parallelism for Scientific Machine Learning'
 ---
 # ShardTensor: Domain Parallelism for Scientific Machine Learning
 > 原文: [https://arxiv.org/abs/2605.11111](https://arxiv.org/abs/2605.11111)

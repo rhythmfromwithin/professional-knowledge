@@ -1,11 +1,12 @@
 ---
-title: "How NVIDIA engineers and researchers build with Codex"
-source: "OpenAI Blog"
-link: https://openai.com/index/nvidia
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/nvidia
 next_step: skim
+priority: high
+slack_ts: '1778731261.941279'
+source: OpenAI Blog
+status: unread
+title: How NVIDIA engineers and researchers build with Codex
 ---
 # How NVIDIA engineers and researchers build with Codex
 > 原文: [https://openai.com/index/nvidia](https://openai.com/index/nvidia)

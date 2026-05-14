@@ -1,11 +1,12 @@
 ---
-title: "Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.11128
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11128
 next_step: skim
+priority: high
+slack_ts: '1778731264.564129'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs'
 ---
 # Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs
 > 原文: [https://arxiv.org/abs/2605.11128](https://arxiv.org/abs/2605.11128)

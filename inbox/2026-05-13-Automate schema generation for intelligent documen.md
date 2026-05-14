@@ -1,11 +1,12 @@
 ---
-title: "Automate schema generation for intelligent document processing"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/
 next_step: skim
+priority: high
+slack_ts: '1778731259.874069'
+source: AWS Blog
+status: unread
+title: Automate schema generation for intelligent document processing
 ---
 # Automate schema generation for intelligent document processing
 > 原文: [https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/](https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/)

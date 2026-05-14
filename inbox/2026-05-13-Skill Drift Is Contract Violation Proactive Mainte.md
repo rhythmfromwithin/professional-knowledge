@@ -1,11 +1,13 @@
 ---
-title: "Skill Drift Is Contract Violation: Proactive Maintenance for LLM Agent Skill Libraries"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.10990
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10990
 next_step: skim
+priority: low
+slack_ts: '1778731264.832679'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Skill Drift Is Contract Violation: Proactive Maintenance for LLM Agent Skill
+  Libraries'
 ---
 # Skill Drift Is Contract Violation: Proactive Maintenance for LLM Agent Skill Libraries
 > 原文: [https://arxiv.org/abs/2605.10990](https://arxiv.org/abs/2605.10990)

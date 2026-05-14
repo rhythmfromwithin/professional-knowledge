@@ -1,0 +1,13 @@
+---
+title: "Build financial document processing with Pulse AI and Amazon Bedrock"
+source: "AWS Blog"
+link: https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Build financial document processing with Pulse AI and Amazon Bedrock
+> 原文: [https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/)
+
+This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.

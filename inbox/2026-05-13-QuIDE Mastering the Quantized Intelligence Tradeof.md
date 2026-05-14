@@ -1,11 +1,12 @@
 ---
-title: "QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.10959
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10959
 next_step: skim
+priority: high
+slack_ts: '1778731263.572679'
+source: cs.LG - Machine Learning
+status: unread
+title: 'QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization'
 ---
 # QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization
 > 原文: [https://arxiv.org/abs/2605.10959](https://arxiv.org/abs/2605.10959)

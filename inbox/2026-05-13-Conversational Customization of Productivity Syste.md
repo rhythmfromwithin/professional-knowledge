@@ -1,11 +1,13 @@
 ---
-title: "Conversational Customization of Productivity Systems: A Design Probe of Malleable AI Interfaces"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.11149
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11149
 next_step: skim
+priority: low
+slack_ts: '1778731260.507929'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Conversational Customization of Productivity Systems: A Design Probe of Malleable
+  AI Interfaces'
 ---
 # Conversational Customization of Productivity Systems: A Design Probe of Malleable AI Interfaces
 > 原文: [https://arxiv.org/abs/2605.11149](https://arxiv.org/abs/2605.11149)

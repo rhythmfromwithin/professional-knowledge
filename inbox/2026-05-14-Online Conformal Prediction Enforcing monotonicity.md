@@ -1,0 +1,14 @@
+---
+title: "Online Conformal Prediction: Enforcing monotonicity via Online Optimization"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2605.12668
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Online Conformal Prediction: Enforcing monotonicity via Online Optimization
+> 原文: [https://arxiv.org/abs/2605.12668](https://arxiv.org/abs/2605.12668)
+
+arXiv:2605.12668v1 Announce Type: new
+Abstract: Conformal prediction provides a principled framework for uncertainty quantification with finite-sample coverage guarantees. While recent work has extended conformal prediction to online and sequential settings, existing methods typically focus on a single coverage level and do not ensure consistency across multiple confidence levels. In many real-world applications, such as weather forecasting, macroeconomic prediction, and risk management, different users operate under heterogeneous risk tolerances and require calibrated uncertainty estimates across a range of coverage levels. In such settings, it is desirable to produce prediction sets corresponding to different coverage levels that are nested and valid simultaneously. In this paper, we propose two novel online conformal prediction methods that output \emph{nested prediction sets} across a range of coverage levels, enabling simultaneous uncertainty quantification across the entire risk spectrum. Beyond interpretability, jointly estimating multiple coverage levels is known to improve statistical efficiency in classical quantile regression by enforcing non-crossing constraints and sharing information across quantiles. Our approaches leverage an online optimization perspective with small regret that translates to quantile estimation error control while enforcing nestedness of prediction sets. Empirical results on synthetic and real-world datasets, including applications in forecasting tasks with heterogeneous risk requirements, demonstrate that our method achieves stable coverage across all levels, strictly nested prediction sets, and improved efficiency compared to existing online conformal baselines.

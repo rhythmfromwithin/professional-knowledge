@@ -1,11 +1,13 @@
 ---
-title: "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.11151
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11151
 next_step: skim
+priority: high
+slack_ts: '1778731264.291669'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action
+  Ranking'
 ---
 # RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking
 > 原文: [https://arxiv.org/abs/2605.11151](https://arxiv.org/abs/2605.11151)

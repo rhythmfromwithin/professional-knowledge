@@ -1,11 +1,12 @@
 ---
-title: "Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.10998
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10998
 next_step: skim
+priority: low
+slack_ts: '1778731261.086429'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs
 ---
 # Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs
 > 原文: [https://arxiv.org/abs/2605.10998](https://arxiv.org/abs/2605.10998)

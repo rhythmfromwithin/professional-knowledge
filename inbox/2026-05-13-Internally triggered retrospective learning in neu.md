@@ -1,11 +1,12 @@
 ---
-title: "Internally triggered retrospective learning in neural networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.10994
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10994
 next_step: skim
+priority: low
+slack_ts: '1778731262.116109'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Internally triggered retrospective learning in neural networks
 ---
 # Internally triggered retrospective learning in neural networks
 > 原文: [https://arxiv.org/abs/2605.10994](https://arxiv.org/abs/2605.10994)

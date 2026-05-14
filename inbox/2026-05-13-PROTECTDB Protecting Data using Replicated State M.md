@@ -1,11 +1,13 @@
 ---
-title: "PROTECT-DB: Protecting Data using Replicated State Machines: Efficient Corruption Detection & Recovery"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.11953
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11953
 next_step: skim
+priority: low
+slack_ts: '1778731263.339679'
+source: cs.DB - Databases
+status: unread
+title: 'PROTECT-DB: Protecting Data using Replicated State Machines: Efficient Corruption
+  Detection & Recovery'
 ---
 # PROTECT-DB: Protecting Data using Replicated State Machines: Efficient Corruption Detection & Recovery
 > 原文: [https://arxiv.org/abs/2605.11953](https://arxiv.org/abs/2605.11953)

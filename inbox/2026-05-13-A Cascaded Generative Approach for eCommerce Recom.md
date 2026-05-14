@@ -1,11 +1,12 @@
 ---
-title: "A Cascaded Generative Approach for e-Commerce Recommendations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.11118
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11118
 next_step: skim
+priority: high
+slack_ts: '1778731258.815129'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: A Cascaded Generative Approach for e-Commerce Recommendations
 ---
 # A Cascaded Generative Approach for e-Commerce Recommendations
 > 原文: [https://arxiv.org/abs/2605.11118](https://arxiv.org/abs/2605.11118)

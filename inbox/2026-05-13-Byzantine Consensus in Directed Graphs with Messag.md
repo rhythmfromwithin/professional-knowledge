@@ -1,11 +1,12 @@
 ---
-title: "Byzantine Consensus in Directed Graphs with Message Authentication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.11309
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11309
 next_step: skim
+priority: medium
+slack_ts: '1778731260.224859'
+source: cs.DC - Distributed Computing
+status: unread
+title: Byzantine Consensus in Directed Graphs with Message Authentication
 ---
 # Byzantine Consensus in Directed Graphs with Message Authentication
 > 原文: [https://arxiv.org/abs/2605.11309](https://arxiv.org/abs/2605.11309)

@@ -1,11 +1,13 @@
 ---
-title: "SEVO: Semantic-Enhanced Virtual Observation for Robust VLA Manipulation via Active Illumination and Data-Centric Collection"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.11114
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11114
 next_step: skim
+priority: medium
+slack_ts: '1778731264.458619'
+source: cs.RO - Robotics
+status: unread
+title: 'SEVO: Semantic-Enhanced Virtual Observation for Robust VLA Manipulation via
+  Active Illumination and Data-Centric Collection'
 ---
 # SEVO: Semantic-Enhanced Virtual Observation for Robust VLA Manipulation via Active Illumination and Data-Centric Collection
 > 原文: [https://arxiv.org/abs/2605.11114](https://arxiv.org/abs/2605.11114)

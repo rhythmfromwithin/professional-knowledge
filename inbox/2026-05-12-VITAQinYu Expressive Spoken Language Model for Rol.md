@@ -1,11 +1,12 @@
 ---
-title: "VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.06765
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.06765
 next_step: skim
+priority: high
+slack_ts: '1778731258.614579'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing'
 ---
 # VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing
 > 原文: [https://arxiv.org/abs/2605.06765](https://arxiv.org/abs/2605.06765)

@@ -1,11 +1,12 @@
 ---
-title: "MT-JailBench: A Modular Benchmark for Understanding Multi-Turn Jailbreak Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.11002
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11002
 next_step: skim
+priority: low
+slack_ts: '1778731262.627379'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MT-JailBench: A Modular Benchmark for Understanding Multi-Turn Jailbreak Attacks'
 ---
 # MT-JailBench: A Modular Benchmark for Understanding Multi-Turn Jailbreak Attacks
 > 原文: [https://arxiv.org/abs/2605.11002](https://arxiv.org/abs/2605.11002)

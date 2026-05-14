@@ -1,11 +1,13 @@
 ---
-title: "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.10947
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10947
 next_step: skim
+priority: high
+slack_ts: '1778731262.218419'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic
+  Architecture Search with Multi-Quadrant Evaluation'
 ---
 # Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation
 > 原文: [https://arxiv.org/abs/2605.10947](https://arxiv.org/abs/2605.10947)

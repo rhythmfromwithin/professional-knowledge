@@ -1,11 +1,12 @@
 ---
-title: "ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.11048
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11048
 next_step: skim
+priority: medium
+slack_ts: '1778731261.187859'
+source: cs.RO - Robotics
+status: unread
+title: 'ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching'
 ---
 # ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching
 > 原文: [https://arxiv.org/abs/2605.11048](https://arxiv.org/abs/2605.11048)

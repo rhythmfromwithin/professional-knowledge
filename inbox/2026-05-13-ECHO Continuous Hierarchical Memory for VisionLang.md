@@ -1,11 +1,12 @@
 ---
-title: "ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.10993
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10993
 next_step: skim
+priority: medium
+slack_ts: '1778731260.693679'
+source: cs.RO - Robotics
+status: unread
+title: 'ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models'
 ---
 # ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2605.10993](https://arxiv.org/abs/2605.10993)

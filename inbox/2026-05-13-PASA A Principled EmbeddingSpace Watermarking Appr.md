@@ -1,11 +1,13 @@
 ---
-title: "PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.10977
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10977
 next_step: skim
+priority: low
+slack_ts: '1778731263.238039'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated
+  Text under Semantic-Invariant Attacks'
 ---
 # PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks
 > 原文: [https://arxiv.org/abs/2605.10977](https://arxiv.org/abs/2605.10977)

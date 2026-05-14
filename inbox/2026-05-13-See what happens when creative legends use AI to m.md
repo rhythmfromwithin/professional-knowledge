@@ -1,11 +1,12 @@
 ---
-title: "See what happens when creative legends use AI to make ads for small businesses."
-source: "Google AI Blog"
-link: https://blog.google/company-news/inside-google/company-announcements/the-small-brief/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/company-news/inside-google/company-announcements/the-small-brief/
 next_step: skim
+priority: high
+slack_ts: '1778731264.657259'
+source: Google AI Blog
+status: unread
+title: See what happens when creative legends use AI to make ads for small businesses.
 ---
 # See what happens when creative legends use AI to make ads for small businesses.
 > 原文: [https://blog.google/company-news/inside-google/company-announcements/the-small-brief/](https://blog.google/company-news/inside-google/company-announcements/the-small-brief/)

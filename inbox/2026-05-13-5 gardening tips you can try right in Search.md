@@ -1,11 +1,12 @@
 ---
-title: "5 gardening tips you can try right in Search"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/gardening-tips/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/gardening-tips/
 next_step: skim
+priority: high
+slack_ts: '1778731258.711989'
+source: Google AI Blog
+status: unread
+title: 5 gardening tips you can try right in Search
 ---
 # 5 gardening tips you can try right in Search
 > 原文: [https://blog.google/products-and-platforms/products/search/gardening-tips/](https://blog.google/products-and-platforms/products/search/gardening-tips/)
