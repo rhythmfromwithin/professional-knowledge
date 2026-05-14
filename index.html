@@ -480,6 +480,31 @@
         return 4;
       }
 
+      function simplifyTocLabel(text, lang, level) {
+        const normalized = text.trim();
+
+        if (lang === "cn") {
+          if (level >= 3) {
+            if (/^为什么/.test(normalized)) return "为什么";
+            if (/^是什么/.test(normalized)) return "是什么";
+            if (/^怎么做/.test(normalized)) return "怎么做";
+            if (/^关键要点/.test(normalized)) return "关键要点";
+            if (/^附录[:：]?/.test(normalized)) return "附录";
+          }
+          return normalized;
+        }
+
+        if (level >= 3) {
+          if (/^why\b/i.test(normalized)) return "Why";
+          if (/^what\b/i.test(normalized)) return "What";
+          if (/^how\b/i.test(normalized)) return "How";
+          if (/^key takeaways$/i.test(normalized)) return "Takeaways";
+          if (/^appendix[:\s]?/i.test(normalized)) return "Appendix";
+        }
+
+        return normalized;
+      }
+
       function buildToc(articleEl, lang) {
         const headings = [...articleEl.querySelectorAll("h1, h2, h3")];
         tocTitleEl.textContent = lang === "cn" ? "目录" : "Contents";
@@ -490,7 +515,8 @@
             if (!level) {
               return "";
             }
-            return `<a class="toc-item level-${level}" href="#${heading.id}">${heading.textContent}</a>`;
+            const label = simplifyTocLabel(heading.textContent || "", lang, level);
+            return `<a class="toc-item level-${level}" href="#${heading.id}">${label}</a>`;
           })
           .join("");
       }
