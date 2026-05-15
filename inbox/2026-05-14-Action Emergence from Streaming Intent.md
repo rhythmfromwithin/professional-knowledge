@@ -1,11 +1,12 @@
 ---
-title: "Action Emergence from Streaming Intent"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.12622
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12622
 next_step: skim
+priority: medium
+slack_ts: '1778817948.045889'
+source: cs.RO - Robotics
+status: unread
+title: Action Emergence from Streaming Intent
 ---
 # Action Emergence from Streaming Intent
 > 原文: [https://arxiv.org/abs/2605.12622](https://arxiv.org/abs/2605.12622)

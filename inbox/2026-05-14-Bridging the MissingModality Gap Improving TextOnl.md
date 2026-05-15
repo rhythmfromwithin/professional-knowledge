@@ -1,11 +1,13 @@
 ---
-title: "Bridging the Missing-Modality Gap: Improving Text-Only Calibration of Vision Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.12517
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12517
 next_step: skim
+priority: high
+slack_ts: '1778817949.168819'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Bridging the Missing-Modality Gap: Improving Text-Only Calibration of Vision
+  Language Models'
 ---
 # Bridging the Missing-Modality Gap: Improving Text-Only Calibration of Vision Language Models
 > 原文: [https://arxiv.org/abs/2605.12517](https://arxiv.org/abs/2605.12517)

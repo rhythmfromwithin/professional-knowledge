@@ -1,11 +1,13 @@
 ---
-title: "Agentic Interpretation: Lattice-Structured Evidence for LLM-Based Program Analysis"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.12694
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12694
 next_step: skim
+priority: low
+slack_ts: '1778817948.326559'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Agentic Interpretation: Lattice-Structured Evidence for LLM-Based Program
+  Analysis'
 ---
 # Agentic Interpretation: Lattice-Structured Evidence for LLM-Based Program Analysis
 > 原文: [https://arxiv.org/abs/2605.12694](https://arxiv.org/abs/2605.12694)

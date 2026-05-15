@@ -1,11 +1,13 @@
 ---
-title: "ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.12768
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12768
 next_step: skim
+priority: medium
+slack_ts: '1778817951.661369'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation,
+  and Forecasting Benchmarks'
 ---
 # ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks
 > 原文: [https://arxiv.org/abs/2605.12768](https://arxiv.org/abs/2605.12768)

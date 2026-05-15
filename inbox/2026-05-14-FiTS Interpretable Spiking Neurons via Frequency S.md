@@ -1,11 +1,13 @@
 ---
-title: "FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.13071
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13071
 next_step: skim
+priority: low
+slack_ts: '1778817950.754519'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal
+  Shaping'
 ---
 # FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping
 > 原文: [https://arxiv.org/abs/2605.13071](https://arxiv.org/abs/2605.13071)

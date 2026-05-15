@@ -1,0 +1,14 @@
+---
+title: "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact"
+source: "cs.CY - Computers and Society"
+link: https://arxiv.org/abs/2605.14021
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact
+> 原文: [https://arxiv.org/abs/2605.14021](https://arxiv.org/abs/2605.14021)
+
+arXiv:2605.14021v1 Announce Type: new
+Abstract: Google AI Overviews (AIOs) are arguably the most widely encountered deployment of generative AI, reaching over 2 billion users who may not realize the answers they see are AI-generated. Where search engines have traditionally surfaced ranked sources and left users to evaluate them, AIOs synthesize and deliver a single answer - giving Google unprecedented editorial control over what users read and know. We present a large-scale longitudinal measurement study, issuing 55,393 trending queries across 19 topical categories over a 40-day window (March 13 - April 21, 2026). We report four main findings. First, overall AIO activation is 13.7%, rising to 64.7% for question-form queries, while politically sensitive topics see markedly lower rates. Second, AIO-cited domains are more credible than co-displayed first-page results, yet nearly 30% do not appear in those results at all, indicating a source selection mechanism distinct from Google's ranking algorithm. Third, decomposing responses into 98,020 atomic claims, 11.0% are unsupported by the cited pages - with omission the dominant failure mode - and source quality and claim fidelity are largely independent. Fourth, well over half of AIO-cited pages carry display advertising, meaning publishers lose revenue when AIOs suppress the click-through, even as Google's own sponsored ads continue to appear on the same page. Together, these findings document a rapid transformation of the online information ecosystem whose consequences for epistemic security remain poorly understood.

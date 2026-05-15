@@ -1,11 +1,12 @@
 ---
-title: "Fine-Tuning Models for Automated Code Review Feedback"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.12610
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12610
 next_step: skim
+priority: low
+slack_ts: '1778817950.833849'
+source: cs.SE - Software Engineering
+status: unread
+title: Fine-Tuning Models for Automated Code Review Feedback
 ---
 # Fine-Tuning Models for Automated Code Review Feedback
 > 原文: [https://arxiv.org/abs/2605.12610](https://arxiv.org/abs/2605.12610)

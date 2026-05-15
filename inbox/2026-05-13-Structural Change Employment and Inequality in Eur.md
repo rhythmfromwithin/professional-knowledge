@@ -1,11 +1,13 @@
 ---
-title: "Structural Change, Employment, and Inequality in Europe: an Economic Complexity Approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2410.07906
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2410.07906
 next_step: skim
+priority: low
+slack_ts: '1778817947.105419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Structural Change, Employment, and Inequality in Europe: an Economic Complexity
+  Approach'
 ---
 # Structural Change, Employment, and Inequality in Europe: an Economic Complexity Approach
 > 原文: [https://arxiv.org/abs/2410.07906](https://arxiv.org/abs/2410.07906)

@@ -1,11 +1,13 @@
 ---
-title: "Learning When to Act: Communication-Efficient Reinforcement Learning via Run-Time Assurance"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.12561
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12561
 next_step: skim
+priority: high
+slack_ts: '1778817951.923439'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Learning When to Act: Communication-Efficient Reinforcement Learning via Run-Time
+  Assurance'
 ---
 # Learning When to Act: Communication-Efficient Reinforcement Learning via Run-Time Assurance
 > 原文: [https://arxiv.org/abs/2605.12561](https://arxiv.org/abs/2605.12561)

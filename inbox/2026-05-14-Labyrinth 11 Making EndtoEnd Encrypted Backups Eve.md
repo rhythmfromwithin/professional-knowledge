@@ -1,11 +1,12 @@
 ---
-title: "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable/
 next_step: skim
+priority: medium
+slack_ts: '1778817951.834119'
+source: Meta Engineering
+status: unread
+title: 'Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable'
 ---
 # Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable
 > 原文: [https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable/](https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable/)

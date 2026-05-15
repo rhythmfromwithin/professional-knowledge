@@ -1,11 +1,13 @@
 ---
-title: "Efficient and Portable Support for Overdecomposition on Distributed Memory GPGPU Platforms"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.12734
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12734
 next_step: skim
+priority: medium
+slack_ts: '1778817950.592759'
+source: cs.DC - Distributed Computing
+status: unread
+title: Efficient and Portable Support for Overdecomposition on Distributed Memory
+  GPGPU Platforms
 ---
 # Efficient and Portable Support for Overdecomposition on Distributed Memory GPGPU Platforms
 > 原文: [https://arxiv.org/abs/2605.12734](https://arxiv.org/abs/2605.12734)

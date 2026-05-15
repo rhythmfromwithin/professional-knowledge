@@ -1,11 +1,13 @@
 ---
-title: "Domain Adaptation of Large Language Models for Polymer-Composite Additive Manufacturing Using Retrieval-Augmented Generation and Fine-Tuning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.12516
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12516
 next_step: skim
+priority: high
+slack_ts: '1778817950.417099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Domain Adaptation of Large Language Models for Polymer-Composite Additive Manufacturing
+  Using Retrieval-Augmented Generation and Fine-Tuning
 ---
 # Domain Adaptation of Large Language Models for Polymer-Composite Additive Manufacturing Using Retrieval-Augmented Generation and Fine-Tuning
 > 原文: [https://arxiv.org/abs/2605.12516](https://arxiv.org/abs/2605.12516)

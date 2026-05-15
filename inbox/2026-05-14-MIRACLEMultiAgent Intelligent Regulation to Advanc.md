@@ -1,11 +1,13 @@
 ---
-title: "MIRACLE_Multi-Agent Intelligent Regulation to Advance Collaborative Learning Environment"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.12923
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12923
 next_step: skim
+priority: medium
+slack_ts: '1778817952.013389'
+source: cs.CY - Computers and Society
+status: unread
+title: MIRACLE_Multi-Agent Intelligent Regulation to Advance Collaborative Learning
+  Environment
 ---
 # MIRACLE_Multi-Agent Intelligent Regulation to Advance Collaborative Learning Environment
 > 原文: [https://arxiv.org/abs/2605.12923](https://arxiv.org/abs/2605.12923)

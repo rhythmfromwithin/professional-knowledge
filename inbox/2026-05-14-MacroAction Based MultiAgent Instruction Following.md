@@ -1,11 +1,12 @@
 ---
-title: "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.12655
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12655
 next_step: skim
+priority: high
+slack_ts: '1778817952.105389'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Macro-Action Based Multi-Agent Instruction Following through Value Cancellation
 ---
 # Macro-Action Based Multi-Agent Instruction Following through Value Cancellation
 > 原文: [https://arxiv.org/abs/2605.12655](https://arxiv.org/abs/2605.12655)

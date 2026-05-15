@@ -1,11 +1,12 @@
 ---
-title: "Creating Group Rules with AI: Human-AI Collaboration in WhatsApp Moderation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.12613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12613
 next_step: skim
+priority: low
+slack_ts: '1778817950.202809'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Creating Group Rules with AI: Human-AI Collaboration in WhatsApp Moderation'
 ---
 # Creating Group Rules with AI: Human-AI Collaboration in WhatsApp Moderation
 > 原文: [https://arxiv.org/abs/2605.12613](https://arxiv.org/abs/2605.12613)

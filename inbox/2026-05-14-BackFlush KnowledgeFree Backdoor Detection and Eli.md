@@ -1,11 +1,13 @@
 ---
-title: "BackFlush: Knowledge-Free Backdoor Detection and Elimination with Watermark Preservation in Large Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.12529
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12529
 next_step: skim
+priority: low
+slack_ts: '1778817948.987159'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'BackFlush: Knowledge-Free Backdoor Detection and Elimination with Watermark
+  Preservation in Large Language Models'
 ---
 # BackFlush: Knowledge-Free Backdoor Detection and Elimination with Watermark Preservation in Large Language Models
 > 原文: [https://arxiv.org/abs/2605.12529](https://arxiv.org/abs/2605.12529)

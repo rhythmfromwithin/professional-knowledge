@@ -1,11 +1,13 @@
 ---
-title: "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/
 next_step: skim
+priority: high
+slack_ts: '1778817948.669259'
+source: AWS Blog
+status: unread
+title: Amazon Redshift introduces AWS Graviton-based RG instances with an integrated
+  data lake query engine
 ---
 # Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/](https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/)

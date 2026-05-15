@@ -1,11 +1,13 @@
 ---
-title: "Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.12536
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12536
 next_step: skim
+priority: low
+slack_ts: '1778817951.751299'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Information as Maximum-Caliber Deviation: A bridge between Integrated Information
+  Theory and the Free Energy Principle'
 ---
 # Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle
 > 原文: [https://arxiv.org/abs/2605.12536](https://arxiv.org/abs/2605.12536)

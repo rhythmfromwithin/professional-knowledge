@@ -1,11 +1,12 @@
 ---
-title: "Uniform Scaling Limits in AdamW-Trained Transformers"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.11059
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11059
 next_step: skim
+priority: medium
+slack_ts: '1778817947.578519'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Uniform Scaling Limits in AdamW-Trained Transformers
 ---
 # Uniform Scaling Limits in AdamW-Trained Transformers
 > 原文: [https://arxiv.org/abs/2605.11059](https://arxiv.org/abs/2605.11059)

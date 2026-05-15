@@ -1,11 +1,13 @@
 ---
-title: "Ghost in the Context: Measuring Policy-Carriage Failures in Decision-Time Assembly"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.12535
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12535
 next_step: skim
+priority: low
+slack_ts: '1778817951.000259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Ghost in the Context: Measuring Policy-Carriage Failures in Decision-Time
+  Assembly'
 ---
 # Ghost in the Context: Measuring Policy-Carriage Failures in Decision-Time Assembly
 > 原文: [https://arxiv.org/abs/2605.12535](https://arxiv.org/abs/2605.12535)

@@ -1,11 +1,12 @@
 ---
-title: "CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.12580
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12580
 next_step: skim
+priority: high
+slack_ts: '1778817949.629879'
+source: cs.LG - Machine Learning
+status: unread
+title: 'CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks'
 ---
 # CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks
 > 原文: [https://arxiv.org/abs/2605.12580](https://arxiv.org/abs/2605.12580)

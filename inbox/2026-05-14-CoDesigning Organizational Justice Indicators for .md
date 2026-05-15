@@ -1,11 +1,12 @@
 ---
-title: "Co-Designing Organizational Justice Indicators for Algorithmic Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.12643
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12643
 next_step: skim
+priority: low
+slack_ts: '1778817949.820949'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Co-Designing Organizational Justice Indicators for Algorithmic Systems
 ---
 # Co-Designing Organizational Justice Indicators for Algorithmic Systems
 > 原文: [https://arxiv.org/abs/2605.12643](https://arxiv.org/abs/2605.12643)

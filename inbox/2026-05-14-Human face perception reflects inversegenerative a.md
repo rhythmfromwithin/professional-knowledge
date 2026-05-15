@@ -1,11 +1,13 @@
 ---
-title: "Human face perception reflects inverse-generative and naturalistic discriminative objectives"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.12619
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12619
 next_step: skim
+priority: low
+slack_ts: '1778817951.563429'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Human face perception reflects inverse-generative and naturalistic discriminative
+  objectives
 ---
 # Human face perception reflects inverse-generative and naturalistic discriminative objectives
 > 原文: [https://arxiv.org/abs/2605.12619](https://arxiv.org/abs/2605.12619)

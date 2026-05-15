@@ -1,11 +1,12 @@
 ---
-title: "Ballot Exhaustion in Multiwinner Single Transferable Vote Elections"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.12676
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12676
 next_step: skim
+priority: low
+slack_ts: '1778817949.081189'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Ballot Exhaustion in Multiwinner Single Transferable Vote Elections
 ---
 # Ballot Exhaustion in Multiwinner Single Transferable Vote Elections
 > 原文: [https://arxiv.org/abs/2605.12676](https://arxiv.org/abs/2605.12676)

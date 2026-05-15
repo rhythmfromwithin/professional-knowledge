@@ -1,11 +1,13 @@
 ---
-title: "Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.10971
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.10971
 next_step: skim
+priority: high
+slack_ts: '1778817947.001349'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Steering Without Breaking: Mechanistically Informed Interventions for Discrete
+  Diffusion Language Models'
 ---
 # Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models
 > 原文: [https://arxiv.org/abs/2605.10971](https://arxiv.org/abs/2605.10971)

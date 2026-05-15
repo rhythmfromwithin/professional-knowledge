@@ -1,11 +1,12 @@
 ---
-title: "Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/
 next_step: skim
+priority: high
+slack_ts: '1778817949.349609'
+source: AWS Blog
+status: unread
+title: Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC
 ---
 # Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/](https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/)

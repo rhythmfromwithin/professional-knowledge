@@ -1,11 +1,12 @@
 ---
-title: "The first global agricultural field boundary map at 10m resolution"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.11055
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11055
 next_step: skim
+priority: medium
+slack_ts: '1778817947.396989'
+source: cs.CV - Computer Vision
+status: unread
+title: The first global agricultural field boundary map at 10m resolution
 ---
 # The first global agricultural field boundary map at 10m resolution
 > 原文: [https://arxiv.org/abs/2605.11055](https://arxiv.org/abs/2605.11055)

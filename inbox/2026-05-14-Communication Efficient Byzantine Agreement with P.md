@@ -1,11 +1,12 @@
 ---
-title: "Communication Efficient Byzantine Agreement with Predictions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.12935
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12935
 next_step: skim
+priority: medium
+slack_ts: '1778817949.909199'
+source: cs.DC - Distributed Computing
+status: unread
+title: Communication Efficient Byzantine Agreement with Predictions
 ---
 # Communication Efficient Byzantine Agreement with Predictions
 > 原文: [https://arxiv.org/abs/2605.12935](https://arxiv.org/abs/2605.12935)

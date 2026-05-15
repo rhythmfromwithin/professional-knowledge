@@ -1,11 +1,12 @@
 ---
-title: "A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.12697
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12697
 next_step: skim
+priority: medium
+slack_ts: '1778817947.858919'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention
 ---
 # A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention
 > 原文: [https://arxiv.org/abs/2605.12697](https://arxiv.org/abs/2605.12697)

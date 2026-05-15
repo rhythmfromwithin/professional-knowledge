@@ -1,11 +1,13 @@
 ---
-title: "CROP: Expert-Aligned Image Cropping via Compositional Reasoning and Optimizing Preference"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.12545
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12545
 next_step: skim
+priority: medium
+slack_ts: '1778817949.725309'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CROP: Expert-Aligned Image Cropping via Compositional Reasoning and Optimizing
+  Preference'
 ---
 # CROP: Expert-Aligned Image Cropping via Compositional Reasoning and Optimizing Preference
 > 原文: [https://arxiv.org/abs/2605.12545](https://arxiv.org/abs/2605.12545)

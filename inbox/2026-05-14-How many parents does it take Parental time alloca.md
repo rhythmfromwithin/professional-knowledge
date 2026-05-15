@@ -1,11 +1,13 @@
 ---
-title: "How many parents does it take? Parental time allocation and the effectiveness of fertility subsidies"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.13679
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13679
 next_step: skim
+priority: low
+slack_ts: '1778817951.464669'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: How many parents does it take? Parental time allocation and the effectiveness
+  of fertility subsidies
 ---
 # How many parents does it take? Parental time allocation and the effectiveness of fertility subsidies
 > 原文: [https://arxiv.org/abs/2605.13679](https://arxiv.org/abs/2605.13679)

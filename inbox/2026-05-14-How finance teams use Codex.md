@@ -1,11 +1,12 @@
 ---
-title: "How finance teams use Codex"
-source: "OpenAI Blog"
-link: https://openai.com/academy/how-finance-teams-use-codex
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/how-finance-teams-use-codex
 next_step: skim
+priority: high
+slack_ts: '1778817951.377989'
+source: OpenAI Blog
+status: unread
+title: How finance teams use Codex
 ---
 # How finance teams use Codex
 > 原文: [https://openai.com/academy/how-finance-teams-use-codex](https://openai.com/academy/how-finance-teams-use-codex)
