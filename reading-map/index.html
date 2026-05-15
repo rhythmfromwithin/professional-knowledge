@@ -11,9 +11,66 @@ body {
   color: #e5e5e5;
   font-family: system-ui, -apple-system, sans-serif;
   line-height: 1.7;
-  padding: 2rem 1.5rem;
-  max-width: 860px;
+  padding: 2rem 1.5rem 2rem 260px;
+  max-width: 1120px;
   margin: 0 auto;
+}
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 240px;
+  height: 100vh;
+  background: #0f0f0f;
+  border-right: 1px solid #333;
+  overflow-y: auto;
+  padding: 1.5rem 1rem;
+  z-index: 100;
+}
+.sidebar-title {
+  font-size: 0.9rem;
+  color: #888;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.sidebar nav a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  color: #bbb;
+  text-decoration: none;
+  font-size: 0.9rem;
+  border-left: 2px solid transparent;
+  transition: all 0.2s;
+}
+.sidebar nav a:hover {
+  color: #d4a574;
+  border-left-color: #d4a574;
+  background: rgba(212, 165, 116, 0.05);
+}
+.sidebar nav a.active {
+  color: #d4a574;
+  border-left-color: #d4a574;
+  background: rgba(212, 165, 116, 0.1);
+}
+.hamburger {
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 101;
+  background: #0f0f0f;
+  border: 1px solid #333;
+  padding: 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.hamburger span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background: #d4a574;
+  margin: 4px 0;
 }
 a { color: #d4a574; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -43,8 +100,11 @@ table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9re
 th, td { border: 1px solid #333; padding: 0.5rem 0.8rem; text-align: left; }
 th { background: #1a1a1a; color: #d4a574; }
 tr:nth-child(even) { background: #111; }
-@media (max-width: 600px) {
-  body { padding: 1rem; }
+@media (max-width: 768px) {
+  body { padding: 1rem; padding-left: 1rem; }
+  .sidebar { transform: translateX(-100%); transition: transform 0.3s; }
+  .sidebar.open { transform: translateX(0); }
+  .hamburger { display: block; }
   h1 { font-size: 1.4rem; }
   h2 { font-size: 1.2rem; }
   table { font-size: 0.8rem; }
@@ -53,15 +113,32 @@ tr:nth-child(even) { background: #111; }
 </style>
 </head>
 <body>
+<button class="hamburger" onclick="document.querySelector('.sidebar').classList.toggle('open')">
+  <span></span><span></span><span></span>
+</button>
+<aside class="sidebar">
+  <div class="sidebar-title">目录导航</div>
+  <nav>
+    <a href="#intro">使用说明</a>
+    <a href="#module1">模块 1：Agent 架构入门</a>
+    <a href="#module2">模块 2：工具设计</a>
+    <a href="#module3">模块 3：上下文工程</a>
+    <a href="#module4">模块 4：评测体系</a>
+    <a href="#module5">模块 5：安全与权限</a>
+    <a href="#module6">模块 6：生产运维</a>
+    <a href="#module7">模块 7：事故复盘</a>
+    <a href="#lookup">快速查找表</a>
+  </nav>
+</aside>
 <a href="../" class="back">&larr; 返回首页</a>
 <h1>Anthropic Engineering Blog — 主题阅读地图</h1>
 <blockquote><p>24 篇文章按 7 个主题模块组织。每模块 30 分钟可消化。<br>建议顺序：从你当前最痛的模块开始，不必按序。</p></blockquote>
 <hr>
-<h2>怎么用这份地图</h2>
+<h2 id="intro">怎么用这份地图</h2>
 <p>你同时跑着多个 AI 项目，没时间从头到尾读 24 篇长文。这份地图帮你做三件事：按当前痛点定位模块、用 30 分钟摘要快速吸收核心知识、用"能解决的问题"验证是否读到位。每个模块设计为一个午休时段可消化的量。如果某个模块的"适合你的时机"描述命中了你现在的处境，优先读它。</p>
 <hr>
 
-<h2>模块 1：Agent 架构入门</h2>
+<h2 id="module1">模块 1：Agent 架构入门</h2>
 <p><strong>适合你的时机：</strong> 你正在决定新项目该用 workflow 还是 agent，或者团队在争论"要不要上 LangGraph"</p>
 
 <h3>必读（1 篇）</h3>
@@ -98,7 +175,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>模块 2：工具设计</h2>
+<h2 id="module2">模块 2：工具设计</h2>
 <p><strong>适合你的时机：</strong> 你正在给 agent 接入内部 API 或 MCP server，发现它老是调错工具、参数填错、token 爆炸</p>
 
 <h3>必读（1 篇）</h3>
@@ -135,7 +212,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>模块 3：上下文工程</h2>
+<h2 id="module3">模块 3：上下文工程</h2>
 <p><strong>适合你的时机：</strong> 你正在处理"长对话变笨"、RAG 检索不准、或者 system prompt 越写越长但效果越来越差</p>
 
 <h3>必读（1 篇）</h3>
@@ -172,7 +249,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>模块 4：评测体系</h2>
+<h2 id="module4">模块 4：评测体系</h2>
 <p><strong>适合你的时机：</strong> 你正在纠结怎么评估 agent 效果、选哪个模型、或者被 leaderboard 数字搞得无所适从</p>
 
 <h3>必读（1 篇）</h3>
@@ -210,7 +287,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>模块 5：安全与权限</h2>
+<h2 id="module5">模块 5：安全与权限</h2>
 <p><strong>适合你的时机：</strong> 你正在设计 agent 的权限模型，或者用户抱怨权限弹窗太多但你又不敢全放开</p>
 
 <h3>必读（1 篇）</h3>
@@ -246,7 +323,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>模块 6：生产运维</h2>
+<h2 id="module6">模块 6：生产运维</h2>
 <p><strong>适合你的时机：</strong> 你正在把 agent 从 demo 推向生产，面对稳定性、可观测性、成本控制、多 agent 编排等工程问题</p>
 
 <h3>必读（1 篇）</h3>
@@ -285,7 +362,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>模块 7：事故复盘</h2>
+<h2 id="module7">模块 7：事故复盘</h2>
 <p><strong>适合你的时机：</strong> 你正在处理线上质量问题、用户投诉"AI 变笨了"、或者想建立团队的 postmortem 文化</p>
 
 <h3>必读（1 篇）</h3>
@@ -321,7 +398,7 @@ tr:nth-child(even) { background: #111; }
 
 <hr>
 
-<h2>快速查找表</h2>
+<h2 id="lookup">快速查找表</h2>
 <table>
 <thead><tr><th>你遇到的问题</th><th>去看模块</th></tr></thead>
 <tbody>
@@ -346,5 +423,43 @@ tr:nth-child(even) { background: #111; }
 </tbody>
 </table>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const links = document.querySelectorAll('.sidebar nav a');
+  const sections = Array.from(links).map(link => document.querySelector(link.getAttribute('href')));
+
+  links.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const target = document.querySelector(this.getAttribute('href'));
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      if (window.innerWidth < 768) {
+        document.querySelector('.sidebar').classList.remove('open');
+      }
+    });
+  });
+
+  function updateActiveLink() {
+    let current = '';
+    sections.forEach(section => {
+      if (section) {
+        const sectionTop = section.offsetTop;
+        if (window.scrollY >= sectionTop - 100) {
+          current = '#' + section.id;
+        }
+      }
+    });
+    links.forEach(link => {
+      link.classList.remove('active');
+      if (link.getAttribute('href') === current) {
+        link.classList.add('active');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', updateActiveLink);
+  updateActiveLink();
+});
+</script>
 </body>
 </html>
