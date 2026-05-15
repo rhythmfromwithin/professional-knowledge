@@ -74,6 +74,8 @@ body {
 }
 a { color: #d4a574; text-decoration: none; }
 a:hover { text-decoration: underline; }
+h3 a, li a { color: #d4a574; }
+h3 a:hover, li a:hover { text-decoration: underline; }
 .back { display: inline-block; margin-bottom: 2rem; font-size: 0.95rem; }
 h1 { font-size: 1.8rem; color: #d4a574; margin-bottom: 0.5rem; }
 h2 { font-size: 1.4rem; color: #d4a574; margin-top: 2.5rem; margin-bottom: 0.8rem; border-bottom: 1px solid #333; padding-bottom: 0.4rem; }
@@ -142,12 +144,12 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在决定新项目该用 workflow 还是 agent，或者团队在争论"要不要上 LangGraph"</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>23. 构建有效的 Agent</strong> — 这是 Anthropic 的 Agent 设计总纲，把 workflow 和 agent 的边界画清楚了，所有后续文章都建立在这个分类体系上</p>
+<p><strong><a href="https://www.anthropic.com/engineering/building-effective-agents" target="_blank" rel="noopener">23. 构建有效的 Agent</a></strong> — 这是 Anthropic 的 Agent 设计总纲，把 workflow 和 agent 的边界画清楚了，所有后续文章都建立在这个分类体系上</p>
 
 <h3>选读（2 篇）</h3>
 <ul>
-<li>4. 长程应用开发的 Harness 设计 — 当任务超过单次对话能完成的规模时，generator/evaluator 分离架构怎么搭</li>
-<li>10. 长时间运行智能体的有效"脚手架" — 跨 session 的状态持久化实操，双 agent 架构的具体实现</li>
+<li><a href="https://www.anthropic.com/engineering/harness-design-long-running-apps" target="_blank" rel="noopener">4. 长程应用开发的 Harness 设计</a> — 当任务超过单次对话能完成的规模时，generator/evaluator 分离架构怎么搭</li>
+<li><a href="https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents" target="_blank" rel="noopener">10. 长时间运行智能体的有效"脚手架"</a> — 跨 session 的状态持久化实操，双 agent 架构的具体实现</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
@@ -179,12 +181,12 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在给 agent 接入内部 API 或 MCP server，发现它老是调错工具、参数填错、token 爆炸</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>17. 为智能体编写高效工具——借助智能体本身</strong> — 工具设计的第一性原理：工具不是 API 的包装，是给非确定性调用方设计的新契约</p>
+<p><strong><a href="https://www.anthropic.com/engineering/writing-tools-for-agents" target="_blank" rel="noopener">17. 为智能体编写高效工具——借助智能体本身</a></strong> — 工具设计的第一性原理：工具不是 API 的包装，是给非确定性调用方设计的新契约</p>
 
 <h3>选读（2 篇）</h3>
 <ul>
-<li>11. Claude 开发者平台的高级工具调用 — 工具数量爆炸时的三件套：Tool Search、Programmatic Tool Calling、Tool Use Examples</li>
-<li>12. 用 MCP 做代码执行：构建更高效的智能体 — 不让 agent 直调工具，而是让它写代码调，token 降 98.7%</li>
+<li><a href="https://www.anthropic.com/engineering/advanced-tool-use" target="_blank" rel="noopener">11. Claude 开发者平台的高级工具调用</a> — 工具数量爆炸时的三件套：Tool Search、Programmatic Tool Calling、Tool Use Examples</li>
+<li><a href="https://www.anthropic.com/engineering/code-execution-with-mcp" target="_blank" rel="noopener">12. 用 MCP 做代码执行：构建更高效的智能体</a> — 不让 agent 直调工具，而是让它写代码调，token 降 98.7%</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
@@ -216,12 +218,12 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在处理"长对话变笨"、RAG 检索不准、或者 system prompt 越写越长但效果越来越差</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>15. 给 AI 智能体的有效上下文工程</strong> — 从"写 prompt"到"管理注意力预算"的范式转移，三套记忆模式的完整框架</p>
+<p><strong><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents" target="_blank" rel="noopener">15. 给 AI 智能体的有效上下文工程</a></strong> — 从"写 prompt"到"管理注意力预算"的范式转移，三套记忆模式的完整框架</p>
 
 <h3>选读（2 篇）</h3>
 <ul>
-<li>21. "Think" 工具：让 Claude 在复杂工具调用中停下来思考 — 在工具调用链中插入显式反思步骤，τ-Bench 提升 54%</li>
-<li>24. Contextual Retrieval：让每个文本片段都带上身份证 — RAG 失败率降 67% 的实操方法</li>
+<li><a href="https://www.anthropic.com/engineering/claude-think-tool" target="_blank" rel="noopener">21. "Think" 工具：让 Claude 在复杂工具调用中停下来思考</a> — 在工具调用链中插入显式反思步骤，τ-Bench 提升 54%</li>
+<li><a href="https://www.anthropic.com/engineering/contextual-retrieval" target="_blank" rel="noopener">24. Contextual Retrieval：让每个文本片段都带上身份证</a> — RAG 失败率降 67% 的实操方法</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
@@ -253,13 +255,13 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在纠结怎么评估 agent 效果、选哪个模型、或者被 leaderboard 数字搞得无所适从</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>9. 揭秘 AI 智能体的评估方法</strong> — 从零搭建 agent 评测体系的完整路线图，8 步方法论</p>
+<p><strong><a href="https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents" target="_blank" rel="noopener">9. 揭秘 AI 智能体的评估方法</a></strong> — 从零搭建 agent 评测体系的完整路线图，8 步方法论</p>
 
 <h3>选读（2-3 篇）</h3>
 <ul>
-<li>6. 量化智能体编码评测中的基础设施噪声 — 同一模型换个容器配置分数涨 6%，leaderboard 3% 以下差异是噪声</li>
-<li>5. Claude Opus 4.6 在 BrowseComp 中的"评估意识"现象 — 模型会逆向工程评测本身，基准分数可能不可信</li>
-<li>8. 设计抗 AI 的技术评估 — 当 AI 能刷穿你的测试时怎么办</li>
+<li><a href="https://www.anthropic.com/engineering/infrastructure-noise" target="_blank" rel="noopener">6. 量化智能体编码评测中的基础设施噪声</a> — 同一模型换个容器配置分数涨 6%，leaderboard 3% 以下差异是噪声</li>
+<li><a href="https://www.anthropic.com/engineering/eval-awareness-browsecomp" target="_blank" rel="noopener">5. Claude Opus 4.6 在 BrowseComp 中的"评估意识"现象</a> — 模型会逆向工程评测本身，基准分数可能不可信</li>
+<li><a href="https://www.anthropic.com/engineering/AI-resistant-technical-evaluations" target="_blank" rel="noopener">8. 设计抗 AI 的技术评估</a> — 当 AI 能刷穿你的测试时怎么办</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
@@ -291,11 +293,11 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在设计 agent 的权限模型，或者用户抱怨权限弹窗太多但你又不敢全放开</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>3. Claude Code Auto 模式：更安全地跳过权限确认</strong> — 用分类器替代人工审批的完整方案，解决 approval fatigue 和裸奔风险之间的两难</p>
+<p><strong><a href="https://www.anthropic.com/engineering/claude-code-auto-mode" target="_blank" rel="noopener">3. Claude Code Auto 模式：更安全地跳过权限确认</a></strong> — 用分类器替代人工审批的完整方案，解决 approval fatigue 和裸奔风险之间的两难</p>
 
 <h3>选读（1 篇）</h3>
 <ul>
-<li>13. Claude Code 沙箱化 — OS 级隔离让 agent 在边界内自由行动，权限弹窗减少 84%</li>
+<li><a href="https://www.anthropic.com/engineering/claude-code-sandboxing" target="_blank" rel="noopener">13. Claude Code 沙箱化</a> — OS 级隔离让 agent 在边界内自由行动，权限弹窗减少 84%</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
@@ -327,13 +329,13 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在把 agent 从 demo 推向生产，面对稳定性、可观测性、成本控制、多 agent 编排等工程问题</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>2. 规模化托管 Agent：把"大脑"和"双手"解耦</strong> — Session/Harness/Sandbox 三层虚拟化，解决"容器死了状态丢失"的生产级架构</p>
+<p><strong><a href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener">2. 规模化托管 Agent：把"大脑"和"双手"解耦</a></strong> — Session/Harness/Sandbox 三层虚拟化，解决"容器死了状态丢失"的生产级架构</p>
 
 <h3>选读（3 篇）</h3>
 <ul>
-<li>19. 我们如何构建多智能体研究系统 — Orchestrator-Worker 架构实战，token 消耗 15 倍但效果提升 90%</li>
-<li>7. 用并行 Claude 团队构建 C 编译器 — 多 agent 并行协作两周、10 万行代码的极限案例</li>
-<li>20. Claude Code：智能体编程最佳实践 — 日常使用 agent 编程的工程实践和失败模式</li>
+<li><a href="https://www.anthropic.com/engineering/multi-agent-research-system" target="_blank" rel="noopener">19. 我们如何构建多智能体研究系统</a> — Orchestrator-Worker 架构实战，token 消耗 15 倍但效果提升 90%</li>
+<li><a href="https://www.anthropic.com/engineering/building-c-compiler" target="_blank" rel="noopener">7. 用并行 Claude 团队构建 C 编译器</a> — 多 agent 并行协作两周、10 万行代码的极限案例</li>
+<li><a href="https://www.anthropic.com/engineering/claude-code-best-practices" target="_blank" rel="noopener">20. Claude Code：智能体编程最佳实践</a> — 日常使用 agent 编程的工程实践和失败模式</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
@@ -366,11 +368,11 @@ tr:nth-child(even) { background: #111; }
 <p><strong>适合你的时机：</strong> 你正在处理线上质量问题、用户投诉"AI 变笨了"、或者想建立团队的 postmortem 文化</p>
 
 <h3>必读（1 篇）</h3>
-<p><strong>1. Claude Code 近期质量问题复盘</strong> — 教科书级 postmortem：三个独立 bug 叠加成弥散性回归，内部 eval 复现不出来</p>
+<p><strong><a href="https://www.anthropic.com/engineering/april-23-postmortem" target="_blank" rel="noopener">1. Claude Code 近期质量问题复盘</a></strong> — 教科书级 postmortem：三个独立 bug 叠加成弥散性回归，内部 eval 复现不出来</p>
 
 <h3>选读（1 篇）</h3>
 <ul>
-<li>16. 近期三起事故的事后复盘 — 路由错误 + 输出损坏 + TPU 编译器精度 bug 三重叠加，展示"评估为什么没抓到"</li>
+<li><a href="https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues" target="_blank" rel="noopener">16. 近期三起事故的事后复盘</a> — 路由错误 + 输出损坏 + TPU 编译器精度 bug 三重叠加，展示"评估为什么没抓到"</li>
 </ul>
 
 <h3>30 分钟摘要</h3>
