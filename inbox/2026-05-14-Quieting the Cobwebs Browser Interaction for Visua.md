@@ -1,11 +1,12 @@
 ---
-title: "Quieting the Cobwebs: Browser Interaction for Visual Floaters"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.12739
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12739
 next_step: skim
+priority: low
+slack_ts: '1778903329.950279'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Quieting the Cobwebs: Browser Interaction for Visual Floaters'
 ---
 # Quieting the Cobwebs: Browser Interaction for Visual Floaters
 > 原文: [https://arxiv.org/abs/2605.12739](https://arxiv.org/abs/2605.12739)

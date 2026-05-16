@@ -1,11 +1,13 @@
 ---
-title: "Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device Gesture Detection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.12506
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12506
 next_step: skim
+priority: medium
+slack_ts: '1778903330.674469'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device
+  Gesture Detection'
 ---
 # Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device Gesture Detection
 > 原文: [https://arxiv.org/abs/2605.12506](https://arxiv.org/abs/2605.12506)

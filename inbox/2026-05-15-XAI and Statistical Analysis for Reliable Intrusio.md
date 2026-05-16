@@ -1,11 +1,13 @@
 ---
-title: "XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.13922
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13922
 next_step: skim
+priority: low
+slack_ts: '1778903352.981839'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025
+  Dataset: From Tree to Hybrid and Tabular DNN Ensembles'
 ---
 # XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles
 > 原文: [https://arxiv.org/abs/2605.13922](https://arxiv.org/abs/2605.13922)

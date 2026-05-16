@@ -1,11 +1,12 @@
 ---
-title: "A Hormone-inspired Emotion Layer for Transformer language models (HELT)"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.13858
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13858
 next_step: skim
+priority: low
+slack_ts: '1778903334.640139'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Hormone-inspired Emotion Layer for Transformer language models (HELT)
 ---
 # A Hormone-inspired Emotion Layer for Transformer language models (HELT)
 > 原文: [https://arxiv.org/abs/2605.13858](https://arxiv.org/abs/2605.13858)

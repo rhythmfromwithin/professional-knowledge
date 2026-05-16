@@ -1,11 +1,13 @@
 ---
-title: "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/
 next_step: skim
+priority: high
+slack_ts: '1778903336.464129'
+source: Microsoft Research
+status: unread
+title: 'Advancing AI for materials with MatterSim: experimental synthesis, faster
+  simulation, and multi-task models'
 ---
 # Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models
 > 原文: [https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/](https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/)

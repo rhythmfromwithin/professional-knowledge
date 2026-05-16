@@ -1,11 +1,12 @@
 ---
-title: "Strategically Analogous Mechanisms"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.12802
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12802
 next_step: skim
+priority: low
+slack_ts: '1778903331.566489'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Strategically Analogous Mechanisms
 ---
 # Strategically Analogous Mechanisms
 > 原文: [https://arxiv.org/abs/2605.12802](https://arxiv.org/abs/2605.12802)

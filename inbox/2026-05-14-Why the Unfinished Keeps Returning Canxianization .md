@@ -1,11 +1,13 @@
 ---
-title: "Why the Unfinished Keeps Returning: Canxianization and the Dynamics of Conscious Priority"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.12543
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12543
 next_step: skim
+priority: low
+slack_ts: '1778903333.983599'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Why the Unfinished Keeps Returning: Canxianization and the Dynamics of Conscious
+  Priority'
 ---
 # Why the Unfinished Keeps Returning: Canxianization and the Dynamics of Conscious Priority
 > 原文: [https://arxiv.org/abs/2605.12543](https://arxiv.org/abs/2605.12543)

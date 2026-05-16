@@ -1,11 +1,12 @@
 ---
-title: "AIS: Adaptive Importance Sampling for Quantized RL"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.13907
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13907
 next_step: skim
+priority: medium
+slack_ts: '1778903335.995329'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'AIS: Adaptive Importance Sampling for Quantized RL'
 ---
 # AIS: Adaptive Importance Sampling for Quantized RL
 > 原文: [https://arxiv.org/abs/2605.13907](https://arxiv.org/abs/2605.13907)

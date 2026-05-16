@@ -1,11 +1,12 @@
 ---
-title: "Texture Regenerating and Grafting Using Genome-Driven Neural Cellular Automata"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.13630
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13630
 next_step: skim
+priority: low
+slack_ts: '1778903331.764269'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Texture Regenerating and Grafting Using Genome-Driven Neural Cellular Automata
 ---
 # Texture Regenerating and Grafting Using Genome-Driven Neural Cellular Automata
 > 原文: [https://arxiv.org/abs/2605.13630](https://arxiv.org/abs/2605.13630)

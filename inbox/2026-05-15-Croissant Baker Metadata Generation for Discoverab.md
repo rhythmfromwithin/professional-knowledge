@@ -1,11 +1,13 @@
 ---
-title: "Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.15079
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15079
 next_step: skim
+priority: low
+slack_ts: '1778903340.716549'
+source: cs.DB - Databases
+status: unread
+title: 'Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable
+  ML Datasets'
 ---
 # Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets
 > 原文: [https://arxiv.org/abs/2605.15079](https://arxiv.org/abs/2605.15079)

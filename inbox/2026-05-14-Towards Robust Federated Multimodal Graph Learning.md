@@ -1,11 +1,12 @@
 ---
-title: "Towards Robust Federated Multimodal Graph Learning under Modality Heterogeneity"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.12584
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12584
 next_step: skim
+priority: high
+slack_ts: '1778903333.208029'
+source: cs.LG - Machine Learning
+status: unread
+title: Towards Robust Federated Multimodal Graph Learning under Modality Heterogeneity
 ---
 # Towards Robust Federated Multimodal Graph Learning under Modality Heterogeneity
 > 原文: [https://arxiv.org/abs/2605.12584](https://arxiv.org/abs/2605.12584)

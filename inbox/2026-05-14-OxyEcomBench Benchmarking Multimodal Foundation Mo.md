@@ -1,11 +1,13 @@
 ---
-title: "OxyEcomBench: Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.13173
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13173
 next_step: skim
+priority: low
+slack_ts: '1778903329.251019'
+source: cs.DB - Databases
+status: unread
+title: 'OxyEcomBench: Benchmarking Multimodal Foundation Models across E-Commerce
+  Ecosystems'
 ---
 # OxyEcomBench: Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems
 > 原文: [https://arxiv.org/abs/2605.13173](https://arxiv.org/abs/2605.13173)

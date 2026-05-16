@@ -1,11 +1,12 @@
 ---
-title: "OverrideFuzz: Semantic-Aware Grammar Fuzzing for Script-Runtime Vulnerabilities"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.12563
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12563
 next_step: skim
+priority: low
+slack_ts: '1778903328.988849'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'OverrideFuzz: Semantic-Aware Grammar Fuzzing for Script-Runtime Vulnerabilities'
 ---
 # OverrideFuzz: Semantic-Aware Grammar Fuzzing for Script-Runtime Vulnerabilities
 > 原文: [https://arxiv.org/abs/2605.12563](https://arxiv.org/abs/2605.12563)

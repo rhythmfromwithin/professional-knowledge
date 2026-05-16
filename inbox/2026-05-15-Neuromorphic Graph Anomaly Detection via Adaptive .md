@@ -1,11 +1,13 @@
 ---
-title: "Neuromorphic Graph Anomaly Detection via Adaptive STDP and Spiking Graph Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.13863
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13863
 next_step: skim
+priority: low
+slack_ts: '1778903347.987459'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neuromorphic Graph Anomaly Detection via Adaptive STDP and Spiking Graph Neural
+  Networks
 ---
 # Neuromorphic Graph Anomaly Detection via Adaptive STDP and Spiking Graph Neural Networks
 > 原文: [https://arxiv.org/abs/2605.13863](https://arxiv.org/abs/2605.13863)

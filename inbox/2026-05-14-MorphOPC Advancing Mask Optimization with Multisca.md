@@ -1,11 +1,13 @@
 ---
-title: "MorphOPC: Advancing Mask Optimization with Multi-scale Hierarchical Morphological Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.12528
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12528
 next_step: skim
+priority: medium
+slack_ts: '1778903328.580859'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MorphOPC: Advancing Mask Optimization with Multi-scale Hierarchical Morphological
+  Learning'
 ---
 # MorphOPC: Advancing Mask Optimization with Multi-scale Hierarchical Morphological Learning
 > 原文: [https://arxiv.org/abs/2605.12528](https://arxiv.org/abs/2605.12528)

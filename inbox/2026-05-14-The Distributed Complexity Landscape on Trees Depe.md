@@ -1,11 +1,13 @@
 ---
-title: "The Distributed Complexity Landscape on Trees Depends on the Knowledge About the Network Size"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.12787
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12787
 next_step: skim
+priority: medium
+slack_ts: '1778903332.217499'
+source: cs.DC - Distributed Computing
+status: unread
+title: The Distributed Complexity Landscape on Trees Depends on the Knowledge About
+  the Network Size
 ---
 # The Distributed Complexity Landscape on Trees Depends on the Knowledge About the Network Size
 > 原文: [https://arxiv.org/abs/2605.12787](https://arxiv.org/abs/2605.12787)

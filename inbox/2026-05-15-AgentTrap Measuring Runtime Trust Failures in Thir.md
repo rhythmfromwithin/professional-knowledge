@@ -1,11 +1,12 @@
 ---
-title: "AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.13940
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13940
 next_step: skim
+priority: low
+slack_ts: '1778903336.715069'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills'
 ---
 # AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills
 > 原文: [https://arxiv.org/abs/2605.13940](https://arxiv.org/abs/2605.13940)

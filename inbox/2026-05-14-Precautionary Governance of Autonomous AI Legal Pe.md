@@ -1,11 +1,13 @@
 ---
-title: "Precautionary Governance of Autonomous AI: Legal Personhood as Functional Instrument"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.12505
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12505
 next_step: skim
+priority: medium
+slack_ts: '1778903329.751969'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Precautionary Governance of Autonomous AI: Legal Personhood as Functional
+  Instrument'
 ---
 # Precautionary Governance of Autonomous AI: Legal Personhood as Functional Instrument
 > 原文: [https://arxiv.org/abs/2605.12505](https://arxiv.org/abs/2605.12505)

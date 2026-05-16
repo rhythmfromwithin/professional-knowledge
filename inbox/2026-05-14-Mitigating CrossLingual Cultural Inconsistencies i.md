@@ -1,11 +1,13 @@
 ---
-title: "Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.12515
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12515
 next_step: skim
+priority: high
+slack_ts: '1778903328.062799'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven
+  Preference Optimisation
 ---
 # Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation
 > 原文: [https://arxiv.org/abs/2605.12515](https://arxiv.org/abs/2605.12515)

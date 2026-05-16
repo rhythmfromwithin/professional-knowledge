@@ -1,11 +1,13 @@
 ---
-title: "User Reviews as a Source for Usability Requirements: A Precursor Study on Using Large Language Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.12657
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12657
 next_step: skim
+priority: low
+slack_ts: '1778903333.474449'
+source: cs.SE - Software Engineering
+status: unread
+title: 'User Reviews as a Source for Usability Requirements: A Precursor Study on
+  Using Large Language Models'
 ---
 # User Reviews as a Source for Usability Requirements: A Precursor Study on Using Large Language Models
 > 原文: [https://arxiv.org/abs/2605.12657](https://arxiv.org/abs/2605.12657)

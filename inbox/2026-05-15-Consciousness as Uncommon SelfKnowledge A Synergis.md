@@ -1,11 +1,12 @@
 ---
-title: "Consciousness as Uncommon Self-Knowledge: A Synergistic Information Framework"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.13884
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13884
 next_step: skim
+priority: low
+slack_ts: '1778903339.995979'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Consciousness as Uncommon Self-Knowledge: A Synergistic Information Framework'
 ---
 # Consciousness as Uncommon Self-Knowledge: A Synergistic Information Framework
 > 原文: [https://arxiv.org/abs/2605.13884](https://arxiv.org/abs/2605.13884)

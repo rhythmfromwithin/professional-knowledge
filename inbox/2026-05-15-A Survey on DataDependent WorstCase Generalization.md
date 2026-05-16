@@ -1,11 +1,12 @@
 ---
-title: "A Survey on Data-Dependent Worst-Case Generalization Bounds"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.13913
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13913
 next_step: skim
+priority: medium
+slack_ts: '1778903335.089489'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Survey on Data-Dependent Worst-Case Generalization Bounds
 ---
 # A Survey on Data-Dependent Worst-Case Generalization Bounds
 > 原文: [https://arxiv.org/abs/2605.13913](https://arxiv.org/abs/2605.13913)

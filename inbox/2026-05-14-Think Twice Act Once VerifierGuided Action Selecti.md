@@ -1,11 +1,12 @@
 ---
-title: "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.12620
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12620
 next_step: skim
+priority: high
+slack_ts: '1778903332.945729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents'
 ---
 # Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents
 > 原文: [https://arxiv.org/abs/2605.12620](https://arxiv.org/abs/2605.12620)

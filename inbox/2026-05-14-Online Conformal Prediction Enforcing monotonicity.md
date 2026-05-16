@@ -1,11 +1,12 @@
 ---
-title: "Online Conformal Prediction: Enforcing monotonicity via Online Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.12668
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12668
 next_step: skim
+priority: medium
+slack_ts: '1778903328.789159'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Online Conformal Prediction: Enforcing monotonicity via Online Optimization'
 ---
 # Online Conformal Prediction: Enforcing monotonicity via Online Optimization
 > 原文: [https://arxiv.org/abs/2605.12668](https://arxiv.org/abs/2605.12668)

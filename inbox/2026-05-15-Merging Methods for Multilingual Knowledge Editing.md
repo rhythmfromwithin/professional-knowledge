@@ -1,11 +1,13 @@
 ---
-title: "Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.13919
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13919
 next_step: skim
+priority: high
+slack_ts: '1778903347.121969'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Merging Methods for Multilingual Knowledge Editing for Large Language Models:
+  An Empirical Odyssey'
 ---
 # Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey
 > 原文: [https://arxiv.org/abs/2605.13919](https://arxiv.org/abs/2605.13919)

@@ -1,11 +1,13 @@
 ---
-title: "BiSpikCLM: A Spiking Language Model integrating Softmax-Free Spiking Attention and Spike-Aware Alignment Distillation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.13859
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13859
 next_step: skim
+priority: low
+slack_ts: '1778903338.626199'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'BiSpikCLM: A Spiking Language Model integrating Softmax-Free Spiking Attention
+  and Spike-Aware Alignment Distillation'
 ---
 # BiSpikCLM: A Spiking Language Model integrating Softmax-Free Spiking Attention and Spike-Aware Alignment Distillation
 > 原文: [https://arxiv.org/abs/2605.13859](https://arxiv.org/abs/2605.13859)

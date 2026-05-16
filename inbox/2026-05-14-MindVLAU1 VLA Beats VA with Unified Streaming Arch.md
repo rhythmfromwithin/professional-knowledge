@@ -1,11 +1,13 @@
 ---
-title: "MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.12624
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12624
 next_step: skim
+priority: medium
+slack_ts: '1778903327.778099'
+source: cs.RO - Robotics
+status: unread
+title: 'MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous
+  Driving'
 ---
 # MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving
 > 原文: [https://arxiv.org/abs/2605.12624](https://arxiv.org/abs/2605.12624)

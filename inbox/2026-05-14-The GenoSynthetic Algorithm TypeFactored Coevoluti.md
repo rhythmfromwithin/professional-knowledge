@@ -1,11 +1,13 @@
 ---
-title: "The Geno-Synthetic Algorithm: Type-Factored Coevolutionary Optimization for Heterogeneous Genotypes and Assembled Phenotypes"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.13365
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13365
 next_step: skim
+priority: low
+slack_ts: '1778903332.477049'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Geno-Synthetic Algorithm: Type-Factored Coevolutionary Optimization for
+  Heterogeneous Genotypes and Assembled Phenotypes'
 ---
 # The Geno-Synthetic Algorithm: Type-Factored Coevolutionary Optimization for Heterogeneous Genotypes and Assembled Phenotypes
 > 原文: [https://arxiv.org/abs/2605.13365](https://arxiv.org/abs/2605.13365)

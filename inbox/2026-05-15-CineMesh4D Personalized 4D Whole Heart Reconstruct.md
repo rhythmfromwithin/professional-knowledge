@@ -1,11 +1,12 @@
 ---
-title: "CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.13994
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13994
 next_step: skim
+priority: medium
+slack_ts: '1778903339.408199'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI'
 ---
 # CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI
 > 原文: [https://arxiv.org/abs/2605.13994](https://arxiv.org/abs/2605.13994)

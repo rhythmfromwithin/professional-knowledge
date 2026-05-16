@@ -1,11 +1,12 @@
 ---
-title: "From Schema to Signal: Retrieval-Augmented Modeling for Relational Data Analytics"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.14464
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14464
 next_step: skim
+priority: low
+slack_ts: '1778903344.030999'
+source: cs.DB - Databases
+status: unread
+title: 'From Schema to Signal: Retrieval-Augmented Modeling for Relational Data Analytics'
 ---
 # From Schema to Signal: Retrieval-Augmented Modeling for Relational Data Analytics
 > 原文: [https://arxiv.org/abs/2605.14464](https://arxiv.org/abs/2605.14464)

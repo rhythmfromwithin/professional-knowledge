@@ -1,11 +1,12 @@
 ---
-title: "Behavior Cloning for Active Perception with Low-Resolution Egocentric Vision"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.14106
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14106
 next_step: skim
+priority: medium
+slack_ts: '1778903338.364179'
+source: cs.RO - Robotics
+status: unread
+title: Behavior Cloning for Active Perception with Low-Resolution Egocentric Vision
 ---
 # Behavior Cloning for Active Perception with Low-Resolution Egocentric Vision
 > 原文: [https://arxiv.org/abs/2605.14106](https://arxiv.org/abs/2605.14106)
