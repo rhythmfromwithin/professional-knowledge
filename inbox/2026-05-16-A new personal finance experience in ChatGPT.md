@@ -1,11 +1,12 @@
 ---
-title: "A new personal finance experience in ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/index/personal-finance-chatgpt
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/personal-finance-chatgpt
 next_step: skim
+priority: high
+slack_ts: '1778990762.621579'
+source: OpenAI Blog
+status: unread
+title: A new personal finance experience in ChatGPT
 ---
 # A new personal finance experience in ChatGPT
 > 原文: [https://openai.com/index/personal-finance-chatgpt](https://openai.com/index/personal-finance-chatgpt)

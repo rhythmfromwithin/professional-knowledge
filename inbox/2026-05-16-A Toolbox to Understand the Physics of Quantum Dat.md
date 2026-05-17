@@ -1,11 +1,12 @@
 ---
-title: "A Toolbox to Understand the Physics of Quantum Data Management"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.14719
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14719
 next_step: skim
+priority: low
+slack_ts: '1778990762.530899'
+source: cs.DB - Databases
+status: unread
+title: A Toolbox to Understand the Physics of Quantum Data Management
 ---
 # A Toolbox to Understand the Physics of Quantum Data Management
 > 原文: [https://arxiv.org/abs/2605.14719](https://arxiv.org/abs/2605.14719)

@@ -1,11 +1,12 @@
 ---
-title: "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.13930
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13930
 next_step: skim
+priority: high
+slack_ts: '1778990759.916279'
+source: cs.LG - Machine Learning
+status: unread
+title: Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders
 ---
 # Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders
 > 原文: [https://arxiv.org/abs/2605.13930](https://arxiv.org/abs/2605.13930)

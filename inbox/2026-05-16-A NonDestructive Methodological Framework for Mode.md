@@ -1,11 +1,13 @@
 ---
-title: "A Non-Destructive Methodological Framework for Modernizing Legacy Clinical Reporting Systems for AI-Driven Pharmacoinformatics: A SAS Case Study"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.13905
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13905
 next_step: skim
+priority: low
+slack_ts: '1778990762.439509'
+source: cs.SE - Software Engineering
+status: unread
+title: 'A Non-Destructive Methodological Framework for Modernizing Legacy Clinical
+  Reporting Systems for AI-Driven Pharmacoinformatics: A SAS Case Study'
 ---
 # A Non-Destructive Methodological Framework for Modernizing Legacy Clinical Reporting Systems for AI-Driven Pharmacoinformatics: A SAS Case Study
 > 原文: [https://arxiv.org/abs/2605.13905](https://arxiv.org/abs/2605.13905)

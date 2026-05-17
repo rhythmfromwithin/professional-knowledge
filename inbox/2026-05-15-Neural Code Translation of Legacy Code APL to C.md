@@ -1,11 +1,12 @@
 ---
-title: "Neural Code Translation of Legacy Code: APL to C#"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.13896
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13896
 next_step: skim
+priority: low
+slack_ts: '1778990760.429829'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Neural Code Translation of Legacy Code: APL to C#'
 ---
 # Neural Code Translation of Legacy Code: APL to C#
 > 原文: [https://arxiv.org/abs/2605.13896](https://arxiv.org/abs/2605.13896)

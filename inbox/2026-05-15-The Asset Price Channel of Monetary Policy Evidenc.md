@@ -1,11 +1,13 @@
 ---
-title: "The Asset Price Channel of Monetary Policy: Evidence from Regional Stock-Market Developments in the Successor States of Former Yugoslavia"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.14575
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14575
 next_step: skim
+priority: low
+slack_ts: '1778990761.501969'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Asset Price Channel of Monetary Policy: Evidence from Regional Stock-Market
+  Developments in the Successor States of Former Yugoslavia'
 ---
 # The Asset Price Channel of Monetary Policy: Evidence from Regional Stock-Market Developments in the Successor States of Former Yugoslavia
 > 原文: [https://arxiv.org/abs/2605.14575](https://arxiv.org/abs/2605.14575)

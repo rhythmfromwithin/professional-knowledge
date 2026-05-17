@@ -1,11 +1,12 @@
 ---
-title: "Rethinking Molecular OOD Generalization via Target-Aware Source Selection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.13932
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13932
 next_step: skim
+priority: high
+slack_ts: '1778990761.041749'
+source: cs.LG - Machine Learning
+status: unread
+title: Rethinking Molecular OOD Generalization via Target-Aware Source Selection
 ---
 # Rethinking Molecular OOD Generalization via Target-Aware Source Selection
 > 原文: [https://arxiv.org/abs/2605.13932](https://arxiv.org/abs/2605.13932)

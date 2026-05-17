@@ -1,11 +1,12 @@
 ---
-title: "The new AI-powered Google Finance is expanding to Europe."
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/
 next_step: skim
+priority: high
+slack_ts: '1778990761.588289'
+source: Google AI Blog
+status: unread
+title: The new AI-powered Google Finance is expanding to Europe.
 ---
 # The new AI-powered Google Finance is expanding to Europe.
 > 原文: [https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/](https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/)

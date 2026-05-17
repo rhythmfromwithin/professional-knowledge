@@ -1,11 +1,13 @@
 ---
-title: "Bidirectional Empowerment of Metamorphic Testing and Large Language Models: A Systematic Survey"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.13898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13898
 next_step: skim
+priority: low
+slack_ts: '1778990763.785109'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Bidirectional Empowerment of Metamorphic Testing and Large Language Models:
+  A Systematic Survey'
 ---
 # Bidirectional Empowerment of Metamorphic Testing and Large Language Models: A Systematic Survey
 > 原文: [https://arxiv.org/abs/2605.13898](https://arxiv.org/abs/2605.13898)

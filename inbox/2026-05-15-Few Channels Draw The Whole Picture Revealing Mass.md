@@ -1,11 +1,13 @@
 ---
-title: "Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.13974
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13974
 next_step: skim
+priority: medium
+slack_ts: '1778990758.794259'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion
+  Transformers'
 ---
 # Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers
 > 原文: [https://arxiv.org/abs/2605.13974](https://arxiv.org/abs/2605.13974)

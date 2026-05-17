@@ -1,0 +1,17 @@
+---
+title: "Reel Friends: Building Social Discovery that Scales to Billions"
+source: "Meta Engineering"
+link: https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Reel Friends: Building Social Discovery that Scales to Billions
+> 原文: [https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/](https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/)
+
+On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...]
+
+[Read More...](https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/)
+
+The post [Reel Friends: Building Social Discovery that Scales to Billions](https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/) appeared first on [Engineering at Meta](https://engineering.fb.com).

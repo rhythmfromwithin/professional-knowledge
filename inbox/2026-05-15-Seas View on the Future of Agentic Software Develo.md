@@ -1,11 +1,12 @@
 ---
-title: "Sea's View on the Future of Agentic Software Development with Codex"
-source: "OpenAI Blog"
-link: https://openai.com/index/sea-david-chen
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/sea-david-chen
 next_step: skim
+priority: high
+slack_ts: '1778990761.139079'
+source: OpenAI Blog
+status: unread
+title: Sea's View on the Future of Agentic Software Development with Codex
 ---
 # Sea's View on the Future of Agentic Software Development with Codex
 > 原文: [https://openai.com/index/sea-david-chen](https://openai.com/index/sea-david-chen)

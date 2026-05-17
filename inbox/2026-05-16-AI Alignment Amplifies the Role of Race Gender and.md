@@ -1,11 +1,12 @@
 ---
-title: "AI Alignment Amplifies the Role of Race, Gender, and Disability in Hiring Decisions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.13866
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13866
 next_step: skim
+priority: medium
+slack_ts: '1778990762.711699'
+source: cs.CY - Computers and Society
+status: unread
+title: AI Alignment Amplifies the Role of Race, Gender, and Disability in Hiring Decisions
 ---
 # AI Alignment Amplifies the Role of Race, Gender, and Disability in Hiring Decisions
 > 原文: [https://arxiv.org/abs/2605.13866](https://arxiv.org/abs/2605.13866)

@@ -1,11 +1,13 @@
 ---
-title: "VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.13989
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13989
 next_step: skim
+priority: high
+slack_ts: '1778990761.854469'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum
+  Learning and Native Tool Use'
 ---
 # VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use
 > 原文: [https://arxiv.org/abs/2605.13989](https://arxiv.org/abs/2605.13989)
