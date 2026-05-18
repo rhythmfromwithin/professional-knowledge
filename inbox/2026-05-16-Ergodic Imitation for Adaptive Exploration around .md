@@ -1,11 +1,12 @@
 ---
-title: "Ergodic Imitation for Adaptive Exploration around Demonstrations"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.13996
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13996
 next_step: skim
+priority: medium
+slack_ts: '1779077920.969919'
+source: cs.RO - Robotics
+status: unread
+title: Ergodic Imitation for Adaptive Exploration around Demonstrations
 ---
 # Ergodic Imitation for Adaptive Exploration around Demonstrations
 > 原文: [https://arxiv.org/abs/2605.13996](https://arxiv.org/abs/2605.13996)

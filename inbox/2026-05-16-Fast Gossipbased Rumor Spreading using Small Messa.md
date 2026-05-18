@@ -1,11 +1,12 @@
 ---
-title: "Fast Gossip-based Rumor Spreading using Small Messages"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.14376
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14376
 next_step: skim
+priority: medium
+slack_ts: '1779077921.059619'
+source: cs.DC - Distributed Computing
+status: unread
+title: Fast Gossip-based Rumor Spreading using Small Messages
 ---
 # Fast Gossip-based Rumor Spreading using Small Messages
 > 原文: [https://arxiv.org/abs/2605.14376](https://arxiv.org/abs/2605.14376)

@@ -1,11 +1,12 @@
 ---
-title: "Modeling AI-TPACK in Practice Insights from Teachers Multi-Agent Workflow Design"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.13906
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13906
 next_step: skim
+priority: medium
+slack_ts: '1779077922.482439'
+source: cs.CY - Computers and Society
+status: unread
+title: Modeling AI-TPACK in Practice Insights from Teachers Multi-Agent Workflow Design
 ---
 # Modeling AI-TPACK in Practice Insights from Teachers Multi-Agent Workflow Design
 > 原文: [https://arxiv.org/abs/2605.13906](https://arxiv.org/abs/2605.13906)

@@ -1,11 +1,13 @@
 ---
-title: "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.14021
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14021
 next_step: skim
+priority: medium
+slack_ts: '1779077921.988179'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity,
+  and Publisher Impact'
 ---
 # Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact
 > 原文: [https://arxiv.org/abs/2605.14021](https://arxiv.org/abs/2605.14021)

@@ -1,11 +1,12 @@
 ---
-title: "Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.14005
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14005
 next_step: skim
+priority: high
+slack_ts: '1779077922.396909'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding'
 ---
 # Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding
 > 原文: [https://arxiv.org/abs/2605.14005](https://arxiv.org/abs/2605.14005)

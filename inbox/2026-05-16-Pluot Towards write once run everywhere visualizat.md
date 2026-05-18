@@ -1,11 +1,12 @@
 ---
-title: "Pluot: Towards 'write once, run everywhere' visualization software"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.14118
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14118
 next_step: skim
+priority: low
+slack_ts: '1779077922.819599'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Pluot: Towards ''write once, run everywhere'' visualization software'
 ---
 # Pluot: Towards 'write once, run everywhere' visualization software
 > 原文: [https://arxiv.org/abs/2605.14118](https://arxiv.org/abs/2605.14118)

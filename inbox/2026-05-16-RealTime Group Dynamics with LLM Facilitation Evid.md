@@ -1,11 +1,13 @@
 ---
-title: "Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.14097
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14097
 next_step: skim
+priority: low
+slack_ts: '1779077922.913139'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation
+  Task'
 ---
 # Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task
 > 原文: [https://arxiv.org/abs/2605.14097](https://arxiv.org/abs/2605.14097)

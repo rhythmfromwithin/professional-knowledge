@@ -1,11 +1,12 @@
 ---
-title: "Feature Visualization Recovers Known Cortical Selectivity from TRIBE v2"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.13904
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13904
 next_step: skim
+priority: low
+slack_ts: '1779077921.150509'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Feature Visualization Recovers Known Cortical Selectivity from TRIBE v2
 ---
 # Feature Visualization Recovers Known Cortical Selectivity from TRIBE v2
 > 原文: [https://arxiv.org/abs/2605.13904](https://arxiv.org/abs/2605.13904)

@@ -1,11 +1,12 @@
 ---
-title: "Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.14493
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14493
 next_step: skim
+priority: low
+slack_ts: '1779077920.584999'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance
 ---
 # Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance
 > 原文: [https://arxiv.org/abs/2605.14493](https://arxiv.org/abs/2605.14493)

@@ -1,11 +1,12 @@
 ---
-title: "Memory Forensics Techniques for Automated Detection and Analysis of Go Malware"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.14020
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14020
 next_step: skim
+priority: low
+slack_ts: '1779077922.201079'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Memory Forensics Techniques for Automated Detection and Analysis of Go Malware
 ---
 # Memory Forensics Techniques for Automated Detection and Analysis of Go Malware
 > 原文: [https://arxiv.org/abs/2605.14020](https://arxiv.org/abs/2605.14020)

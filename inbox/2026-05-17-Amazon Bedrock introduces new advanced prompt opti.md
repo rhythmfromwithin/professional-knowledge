@@ -1,11 +1,12 @@
 ---
-title: "Amazon Bedrock introduces new advanced prompt optimization and migration tool"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/
 next_step: skim
+priority: high
+slack_ts: '1779077924.829759'
+source: AWS Blog
+status: unread
+title: Amazon Bedrock introduces new advanced prompt optimization and migration tool
 ---
 # Amazon Bedrock introduces new advanced prompt optimization and migration tool
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/)

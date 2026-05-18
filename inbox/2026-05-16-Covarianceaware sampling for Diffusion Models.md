@@ -1,11 +1,12 @@
 ---
-title: "Covariance-aware sampling for Diffusion Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.13910
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13910
 next_step: skim
+priority: medium
+slack_ts: '1779077920.392699'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Covariance-aware sampling for Diffusion Models
 ---
 # Covariance-aware sampling for Diffusion Models
 > 原文: [https://arxiv.org/abs/2605.13910](https://arxiv.org/abs/2605.13910)

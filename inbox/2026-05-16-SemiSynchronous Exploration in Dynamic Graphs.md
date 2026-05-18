@@ -1,11 +1,12 @@
 ---
-title: "Semi-Synchronous Exploration in Dynamic Graphs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.14375
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14375
 next_step: skim
+priority: medium
+slack_ts: '1779077923.351329'
+source: cs.DC - Distributed Computing
+status: unread
+title: Semi-Synchronous Exploration in Dynamic Graphs
 ---
 # Semi-Synchronous Exploration in Dynamic Graphs
 > 原文: [https://arxiv.org/abs/2605.14375](https://arxiv.org/abs/2605.14375)

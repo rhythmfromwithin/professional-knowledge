@@ -1,11 +1,12 @@
 ---
-title: "Do Language Models Align with Brains? Prediction Scores Are Not Enough"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.14025
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14025
 next_step: skim
+priority: low
+slack_ts: '1779077920.881699'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Do Language Models Align with Brains? Prediction Scores Are Not Enough
 ---
 # Do Language Models Align with Brains? Prediction Scores Are Not Enough
 > 原文: [https://arxiv.org/abs/2605.14025](https://arxiv.org/abs/2605.14025)

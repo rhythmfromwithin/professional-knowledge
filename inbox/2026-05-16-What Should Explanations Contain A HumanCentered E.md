@@ -1,11 +1,13 @@
 ---
-title: "What Should Explanations Contain? A Human-Centered Explanation Content Model for Local, Post-Hoc Explanations"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.14207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14207
 next_step: skim
+priority: low
+slack_ts: '1779077924.099319'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: What Should Explanations Contain? A Human-Centered Explanation Content Model
+  for Local, Post-Hoc Explanations
 ---
 # What Should Explanations Contain? A Human-Centered Explanation Content Model for Local, Post-Hoc Explanations
 > 原文: [https://arxiv.org/abs/2605.14207](https://arxiv.org/abs/2605.14207)

@@ -1,11 +1,13 @@
 ---
-title: "Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.13923
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13923
 next_step: skim
+priority: high
+slack_ts: '1779077924.012149'
+source: cs.LG - Machine Learning
+status: unread
+title: Vision-Based Runtime Monitoring under Varying Specifications using Semantic
+  Latent Representations
 ---
 # Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations
 > 原文: [https://arxiv.org/abs/2605.13923](https://arxiv.org/abs/2605.13923)

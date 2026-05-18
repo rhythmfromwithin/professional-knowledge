@@ -1,11 +1,12 @@
 ---
-title: "Contrastive Multi-Modal Hypergraph Reasoning for 3D Crowd Mesh Recovery"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.13854
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.13854
 next_step: skim
+priority: medium
+slack_ts: '1779077920.285339'
+source: cs.CV - Computer Vision
+status: unread
+title: Contrastive Multi-Modal Hypergraph Reasoning for 3D Crowd Mesh Recovery
 ---
 # Contrastive Multi-Modal Hypergraph Reasoning for 3D Crowd Mesh Recovery
 > 原文: [https://arxiv.org/abs/2605.13854](https://arxiv.org/abs/2605.13854)

@@ -1,11 +1,12 @@
 ---
-title: "Distributed Statistical Zero-Knowledge Proofs via Sumcheck"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.14015
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.14015
 next_step: skim
+priority: medium
+slack_ts: '1779077920.698809'
+source: cs.DC - Distributed Computing
+status: unread
+title: Distributed Statistical Zero-Knowledge Proofs via Sumcheck
 ---
 # Distributed Statistical Zero-Knowledge Proofs via Sumcheck
 > 原文: [https://arxiv.org/abs/2605.14015](https://arxiv.org/abs/2605.14015)
