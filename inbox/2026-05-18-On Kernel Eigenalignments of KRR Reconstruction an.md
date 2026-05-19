@@ -1,11 +1,12 @@
 ---
-title: "On Kernel Eigen-alignments of KRR: Reconstruction and Generalization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.15240
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15240
 next_step: skim
+priority: medium
+slack_ts: '1779164076.758829'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'On Kernel Eigen-alignments of KRR: Reconstruction and Generalization'
 ---
 # On Kernel Eigen-alignments of KRR: Reconstruction and Generalization
 > 原文: [https://arxiv.org/abs/2605.15240](https://arxiv.org/abs/2605.15240)

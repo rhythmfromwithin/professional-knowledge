@@ -1,11 +1,13 @@
 ---
-title: "Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.15850
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15850
 next_step: skim
+priority: medium
+slack_ts: '1779164063.548929'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in
+  Education'
 ---
 # Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education
 > 原文: [https://arxiv.org/abs/2605.15850](https://arxiv.org/abs/2605.15850)

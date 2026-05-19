@@ -1,11 +1,12 @@
 ---
-title: "Enabling Adversarial Robustness in AI Models through Kubeflow MLOps"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.15249
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15249
 next_step: skim
+priority: low
+slack_ts: '1779164070.780899'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Enabling Adversarial Robustness in AI Models through Kubeflow MLOps
 ---
 # Enabling Adversarial Robustness in AI Models through Kubeflow MLOps
 > 原文: [https://arxiv.org/abs/2605.15249](https://arxiv.org/abs/2605.15249)

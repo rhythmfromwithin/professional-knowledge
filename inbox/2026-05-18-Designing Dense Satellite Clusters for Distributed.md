@@ -1,11 +1,12 @@
 ---
-title: "Designing Dense Satellite Clusters for Distributed Space-based Datacenters"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.15335
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15335
 next_step: skim
+priority: medium
+slack_ts: '1779164069.481589'
+source: cs.DC - Distributed Computing
+status: unread
+title: Designing Dense Satellite Clusters for Distributed Space-based Datacenters
 ---
 # Designing Dense Satellite Clusters for Distributed Space-based Datacenters
 > 原文: [https://arxiv.org/abs/2605.15335](https://arxiv.org/abs/2605.15335)

@@ -1,11 +1,5 @@
 ---
-title: "Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.15652
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1779164068.026269'
 ---
 # Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory "VaCoAl" as a Substrate for Vector-HaSH and TEM
 > 原文: [https://arxiv.org/abs/2605.15652](https://arxiv.org/abs/2605.15652)

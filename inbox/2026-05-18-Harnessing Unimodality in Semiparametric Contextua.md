@@ -1,11 +1,13 @@
 ---
-title: "Harnessing Unimodality in Semiparametric Contextual Pricing via Oracle Price Map Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.15411
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15411
 next_step: skim
+priority: medium
+slack_ts: '1779164074.025559'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Harnessing Unimodality in Semiparametric Contextual Pricing via Oracle Price
+  Map Learning
 ---
 # Harnessing Unimodality in Semiparametric Contextual Pricing via Oracle Price Map Learning
 > 原文: [https://arxiv.org/abs/2605.15411](https://arxiv.org/abs/2605.15411)

@@ -1,11 +1,12 @@
 ---
-title: "Always Learning, Always Mixing: Efficient and Simple Data Mixing All The Time"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.15220
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15220
 next_step: skim
+priority: high
+slack_ts: '1779164064.973239'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Always Learning, Always Mixing: Efficient and Simple Data Mixing All The Time'
 ---
 # Always Learning, Always Mixing: Efficient and Simple Data Mixing All The Time
 > 原文: [https://arxiv.org/abs/2605.15220](https://arxiv.org/abs/2605.15220)

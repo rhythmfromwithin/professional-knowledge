@@ -1,11 +1,12 @@
 ---
-title: "Fluency and Faithfulness in Human and Machine Literary Translation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.15282
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15282
 next_step: skim
+priority: high
+slack_ts: '1779164072.264309'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Fluency and Faithfulness in Human and Machine Literary Translation
 ---
 # Fluency and Faithfulness in Human and Machine Literary Translation
 > 原文: [https://arxiv.org/abs/2605.15282](https://arxiv.org/abs/2605.15282)

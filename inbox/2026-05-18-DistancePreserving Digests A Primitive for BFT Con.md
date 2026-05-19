@@ -1,11 +1,12 @@
 ---
-title: "Distance-Preserving Digests: A Primitive for BFT Consensus"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.15329
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15329
 next_step: skim
+priority: low
+slack_ts: '1779164070.126049'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Distance-Preserving Digests: A Primitive for BFT Consensus'
 ---
 # Distance-Preserving Digests: A Primitive for BFT Consensus
 > 原文: [https://arxiv.org/abs/2605.15329](https://arxiv.org/abs/2605.15329)

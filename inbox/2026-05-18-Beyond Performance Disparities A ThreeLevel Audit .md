@@ -1,11 +1,13 @@
 ---
-title: "Beyond Performance Disparities: A Three-Level Audit of Representational Harm in CelebA"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.15312
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15312
 next_step: skim
+priority: medium
+slack_ts: '1779164067.814479'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Performance Disparities: A Three-Level Audit of Representational Harm
+  in CelebA'
 ---
 # Beyond Performance Disparities: A Three-Level Audit of Representational Harm in CelebA
 > 原文: [https://arxiv.org/abs/2605.15312](https://arxiv.org/abs/2605.15312)

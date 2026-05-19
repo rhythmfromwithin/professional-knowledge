@@ -1,11 +1,13 @@
 ---
-title: "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.15205
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15205
 next_step: skim
+priority: high
+slack_ts: '1779164070.366589'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical
+  Findings from Interactive Evaluations
 ---
 # Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations
 > 原文: [https://arxiv.org/abs/2605.15205](https://arxiv.org/abs/2605.15205)

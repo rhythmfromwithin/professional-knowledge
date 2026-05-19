@@ -1,11 +1,13 @@
 ---
-title: "From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.11885
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.11885
 next_step: skim
+priority: low
+slack_ts: '1779164072.538359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers
+  with LRP'
 ---
 # From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP
 > 原文: [https://arxiv.org/abs/2605.11885](https://arxiv.org/abs/2605.11885)

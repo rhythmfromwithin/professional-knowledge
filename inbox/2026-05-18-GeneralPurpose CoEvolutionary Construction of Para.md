@@ -1,11 +1,13 @@
 ---
-title: "General-Purpose Co-Evolutionary Construction of Parallel Algorithm Portfolios for Multi-Objective Binary Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.15729
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15729
 next_step: skim
+priority: low
+slack_ts: '1779164072.962059'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: General-Purpose Co-Evolutionary Construction of Parallel Algorithm Portfolios
+  for Multi-Objective Binary Optimization
 ---
 # General-Purpose Co-Evolutionary Construction of Parallel Algorithm Portfolios for Multi-Objective Binary Optimization
 > 原文: [https://arxiv.org/abs/2605.15729](https://arxiv.org/abs/2605.15729)

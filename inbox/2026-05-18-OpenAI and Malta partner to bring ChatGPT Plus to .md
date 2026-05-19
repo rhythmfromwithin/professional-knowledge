@@ -1,11 +1,12 @@
 ---
-title: "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
-source: "OpenAI Blog"
-link: https://openai.com/index/malta-chatgpt-plus-partnership
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/malta-chatgpt-plus-partnership
 next_step: skim
+priority: high
+slack_ts: '1779164077.798959'
+source: OpenAI Blog
+status: unread
+title: OpenAI and Malta partner to bring ChatGPT Plus to all citizens
 ---
 # OpenAI and Malta partner to bring ChatGPT Plus to all citizens
 > 原文: [https://openai.com/index/malta-chatgpt-plus-partnership](https://openai.com/index/malta-chatgpt-plus-partnership)

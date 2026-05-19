@@ -1,0 +1,14 @@
+---
+title: "Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal Structure Prediction using Manta Ray Optimization with Levy Flight"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2605.17148
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal Structure Prediction using Manta Ray Optimization with Levy Flight
+> 原文: [https://arxiv.org/abs/2605.17148](https://arxiv.org/abs/2605.17148)
+
+arXiv:2605.17148v1 Announce Type: new
+Abstract: The Manta Ray Foraging Optimization algorithm (MRFO) has proven to be a powerful heuristic strategy in the optimal solution of a large number of engineering problems. In this paper, an improvement of MRFO with Levy Flight is suggested for the training of extreme learning machines (ELMs) whose basic model is a Single Layer Feedforward Network (SLFN). The proposed methodology that we called Evolutionary EELM-MRFO-LF for short is implemented to the prediction of unrelaxed and relaxed formation energy compounds relative to ground state crystal structure of pure components in binary systems. EELM-MRFO-LF follows the learning procedure of traditional Evolutionary ELMs in which first MRFO with LF is used to select the input weights and Moore-Penrose (MP) generalized inverse is applied to analytically determine the output weights. Levy Flight trajectory is implemented for increasing the diversity of the population of ELMs against premature convergence and the ability of avoiding getting trapped in a local optima. The performance of the suggested EELM-MRFO-LF is compared with other well-known nature-inspired algorithms under similar conditions.

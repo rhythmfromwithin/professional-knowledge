@@ -1,11 +1,12 @@
 ---
-title: "Fairness-Aware Retrieval Optimization for Retrieval-Augmented Generation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.15790
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15790
 next_step: skim
+priority: low
+slack_ts: '1779164072.052219'
+source: cs.DB - Databases
+status: unread
+title: Fairness-Aware Retrieval Optimization for Retrieval-Augmented Generation
 ---
 # Fairness-Aware Retrieval Optimization for Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2605.15790](https://arxiv.org/abs/2605.15790)

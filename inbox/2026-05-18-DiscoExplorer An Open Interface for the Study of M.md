@@ -1,11 +1,12 @@
 ---
-title: "DiscoExplorer: An Open Interface for the Study of Multilingual Discourse Relations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.15304
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15304
 next_step: skim
+priority: high
+slack_ts: '1779164069.925649'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DiscoExplorer: An Open Interface for the Study of Multilingual Discourse Relations'
 ---
 # DiscoExplorer: An Open Interface for the Study of Multilingual Discourse Relations
 > 原文: [https://arxiv.org/abs/2605.15304](https://arxiv.org/abs/2605.15304)

@@ -1,11 +1,12 @@
 ---
-title: "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.15206
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15206
 next_step: skim
+priority: high
+slack_ts: '1779164063.968779'
+source: cs.LG - Machine Learning
+status: unread
+title: 'AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices'
 ---
 # AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices
 > 原文: [https://arxiv.org/abs/2605.15206](https://arxiv.org/abs/2605.15206)

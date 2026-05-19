@@ -1,11 +1,12 @@
 ---
-title: "PerfCodeBench: Benchmarking LLMs for System-Level High-Performance Code Optimization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.15222
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15222
 next_step: skim
+priority: low
+slack_ts: '1779164078.677209'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PerfCodeBench: Benchmarking LLMs for System-Level High-Performance Code Optimization'
 ---
 # PerfCodeBench: Benchmarking LLMs for System-Level High-Performance Code Optimization
 > 原文: [https://arxiv.org/abs/2605.15222](https://arxiv.org/abs/2605.15222)

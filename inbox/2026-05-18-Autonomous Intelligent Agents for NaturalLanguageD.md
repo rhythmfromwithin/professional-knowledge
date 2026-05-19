@@ -1,11 +1,13 @@
 ---
-title: "Autonomous Intelligent Agents for Natural-Language-Driven Web Execution with Integrated Security Assurance"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.15281
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15281
 next_step: skim
+priority: low
+slack_ts: '1779164067.347039'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Autonomous Intelligent Agents for Natural-Language-Driven Web Execution with
+  Integrated Security Assurance
 ---
 # Autonomous Intelligent Agents for Natural-Language-Driven Web Execution with Integrated Security Assurance
 > 原文: [https://arxiv.org/abs/2605.15281](https://arxiv.org/abs/2605.15281)

@@ -1,11 +1,12 @@
 ---
-title: "Estimating Social Norm Complementarities"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.15405
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15405
 next_step: skim
+priority: low
+slack_ts: '1779164071.276789'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Estimating Social Norm Complementarities
 ---
 # Estimating Social Norm Complementarities
 > 原文: [https://arxiv.org/abs/2605.15405](https://arxiv.org/abs/2605.15405)

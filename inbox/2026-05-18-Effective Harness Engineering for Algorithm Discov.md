@@ -1,11 +1,12 @@
 ---
-title: "Effective Harness Engineering for Algorithm Discovery with Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.15221
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15221
 next_step: skim
+priority: low
+slack_ts: '1779164070.570719'
+source: cs.SE - Software Engineering
+status: unread
+title: Effective Harness Engineering for Algorithm Discovery with Coding Agents
 ---
 # Effective Harness Engineering for Algorithm Discovery with Coding Agents
 > 原文: [https://arxiv.org/abs/2605.15221](https://arxiv.org/abs/2605.15221)

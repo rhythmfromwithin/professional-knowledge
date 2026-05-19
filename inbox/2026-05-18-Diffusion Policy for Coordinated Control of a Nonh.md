@@ -1,11 +1,13 @@
 ---
-title: "Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base and Dual Arms in Door Opening and Passing"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.15352
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15352
 next_step: skim
+priority: medium
+slack_ts: '1779164069.717969'
+source: cs.RO - Robotics
+status: unread
+title: Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base and
+  Dual Arms in Door Opening and Passing
 ---
 # Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base and Dual Arms in Door Opening and Passing
 > 原文: [https://arxiv.org/abs/2605.15352](https://arxiv.org/abs/2605.15352)

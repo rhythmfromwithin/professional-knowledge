@@ -1,11 +1,13 @@
 ---
-title: "Beyond Flickering: Introducing Code-Modulated Motion Visual Evoked Potentials for Brain-Computer Interfacing"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.15801
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15801
 next_step: skim
+priority: low
+slack_ts: '1779164067.610719'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Beyond Flickering: Introducing Code-Modulated Motion Visual Evoked Potentials
+  for Brain-Computer Interfacing'
 ---
 # Beyond Flickering: Introducing Code-Modulated Motion Visual Evoked Potentials for Brain-Computer Interfacing
 > 原文: [https://arxiv.org/abs/2605.15801](https://arxiv.org/abs/2605.15801)

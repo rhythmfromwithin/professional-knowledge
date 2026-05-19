@@ -1,11 +1,12 @@
 ---
-title: "Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/
 next_step: skim
+priority: high
+slack_ts: '1779164060.951239'
+source: AWS Blog
+status: unread
+title: Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic
 ---
 # Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic
 > 原文: [https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/](https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/)

@@ -1,11 +1,12 @@
 ---
-title: "GreenZ: A Sustainable UX Framework for Complex Digital Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.15468
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15468
 next_step: skim
+priority: low
+slack_ts: '1779164073.431929'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'GreenZ: A Sustainable UX Framework for Complex Digital Systems'
 ---
 # GreenZ: A Sustainable UX Framework for Complex Digital Systems
 > 原文: [https://arxiv.org/abs/2605.15468](https://arxiv.org/abs/2605.15468)

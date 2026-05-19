@@ -1,11 +1,12 @@
 ---
-title: "How business operations teams use Codex"
-source: "OpenAI Blog"
-link: https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
 next_step: skim
+priority: high
+slack_ts: '1779164074.946799'
+source: OpenAI Blog
+status: unread
+title: How business operations teams use Codex
 ---
 # How business operations teams use Codex
 > 原文: [https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex)
