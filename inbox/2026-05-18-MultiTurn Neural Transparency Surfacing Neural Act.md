@@ -1,11 +1,13 @@
 ---
-title: "Multi-Turn Neural Transparency: Surfacing Neural Activations Improves User Calibration to LLM Behavioral Drift"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.15455
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15455
 next_step: skim
+priority: low
+slack_ts: '1779250484.931899'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Multi-Turn Neural Transparency: Surfacing Neural Activations Improves User
+  Calibration to LLM Behavioral Drift'
 ---
 # Multi-Turn Neural Transparency: Surfacing Neural Activations Improves User Calibration to LLM Behavioral Drift
 > 原文: [https://arxiv.org/abs/2605.15455](https://arxiv.org/abs/2605.15455)

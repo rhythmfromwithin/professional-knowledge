@@ -1,11 +1,13 @@
 ---
-title: "HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.16637
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16637
 next_step: skim
+priority: medium
+slack_ts: '1779250491.177299'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware
+  Scheduling'
 ---
 # HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling
 > 原文: [https://arxiv.org/abs/2605.16637](https://arxiv.org/abs/2605.16637)

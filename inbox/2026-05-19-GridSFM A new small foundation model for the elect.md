@@ -1,11 +1,12 @@
 ---
-title: "GridSFM: A new, small foundation model for the electric grid"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/
 next_step: skim
+priority: high
+slack_ts: '1779250490.901909'
+source: Microsoft Research
+status: unread
+title: 'GridSFM: A new, small foundation model for the electric grid'
 ---
 # GridSFM: A new, small foundation model for the electric grid
 > 原文: [https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/)

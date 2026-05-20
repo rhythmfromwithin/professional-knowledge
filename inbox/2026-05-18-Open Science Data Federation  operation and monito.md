@@ -1,11 +1,12 @@
 ---
-title: "Open Science Data Federation -- operation and monitoring"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.15437
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15437
 next_step: skim
+priority: medium
+slack_ts: '1779250485.151709'
+source: cs.DC - Distributed Computing
+status: unread
+title: Open Science Data Federation -- operation and monitoring
 ---
 # Open Science Data Federation -- operation and monitoring
 > 原文: [https://arxiv.org/abs/2605.15437](https://arxiv.org/abs/2605.15437)

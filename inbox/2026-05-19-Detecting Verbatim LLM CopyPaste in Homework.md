@@ -1,11 +1,12 @@
 ---
-title: "Detecting Verbatim LLM Copy-Paste in Homework"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.16336
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16336
 next_step: skim
+priority: low
+slack_ts: '1779250489.921419'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Detecting Verbatim LLM Copy-Paste in Homework
 ---
 # Detecting Verbatim LLM Copy-Paste in Homework
 > 原文: [https://arxiv.org/abs/2605.16336](https://arxiv.org/abs/2605.16336)

@@ -1,11 +1,13 @@
 ---
-title: "The Complex Brain Hypothesis: Resolving the Entropy-Content Conundrum in Minimal Phenomenal Experience"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.16146
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16146
 next_step: skim
+priority: low
+slack_ts: '1779250486.945149'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Complex Brain Hypothesis: Resolving the Entropy-Content Conundrum in Minimal
+  Phenomenal Experience'
 ---
 # The Complex Brain Hypothesis: Resolving the Entropy-Content Conundrum in Minimal Phenomenal Experience
 > 原文: [https://arxiv.org/abs/2605.16146](https://arxiv.org/abs/2605.16146)

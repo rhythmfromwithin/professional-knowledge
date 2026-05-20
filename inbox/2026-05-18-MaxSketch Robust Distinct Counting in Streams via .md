@@ -1,11 +1,12 @@
 ---
-title: "MaxSketch: Robust Distinct Counting in Streams via Random Projections"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.15571
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15571
 next_step: skim
+priority: medium
+slack_ts: '1779250484.419419'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'MaxSketch: Robust Distinct Counting in Streams via Random Projections'
 ---
 # MaxSketch: Robust Distinct Counting in Streams via Random Projections
 > 原文: [https://arxiv.org/abs/2605.15571](https://arxiv.org/abs/2605.15571)

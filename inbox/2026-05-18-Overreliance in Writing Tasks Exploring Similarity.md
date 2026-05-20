@@ -1,11 +1,13 @@
 ---
-title: "Overreliance in Writing Tasks: Exploring Similarity-Based Measures of AI Influence on Writing and Proposing a Reflective Writing Interface Intervention"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.15322
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15322
 next_step: skim
+priority: low
+slack_ts: '1779250485.256249'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Overreliance in Writing Tasks: Exploring Similarity-Based Measures of AI Influence
+  on Writing and Proposing a Reflective Writing Interface Intervention'
 ---
 # Overreliance in Writing Tasks: Exploring Similarity-Based Measures of AI Influence on Writing and Proposing a Reflective Writing Interface Intervention
 > 原文: [https://arxiv.org/abs/2605.15322](https://arxiv.org/abs/2605.15322)

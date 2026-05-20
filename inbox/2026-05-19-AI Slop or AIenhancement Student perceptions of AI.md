@@ -1,11 +1,13 @@
 ---
-title: "AI Slop or AI-enhancement? Student perceptions of AI-generated media for an English for Academic Purposes course"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.16275
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16275
 next_step: skim
+priority: medium
+slack_ts: '1779250488.410609'
+source: cs.CY - Computers and Society
+status: unread
+title: AI Slop or AI-enhancement? Student perceptions of AI-generated media for an
+  English for Academic Purposes course
 ---
 # AI Slop or AI-enhancement? Student perceptions of AI-generated media for an English for Academic Purposes course
 > 原文: [https://arxiv.org/abs/2605.16275](https://arxiv.org/abs/2605.16275)

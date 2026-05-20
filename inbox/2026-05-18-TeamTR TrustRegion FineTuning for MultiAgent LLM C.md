@@ -1,11 +1,12 @@
 ---
-title: "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.15207
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15207
 next_step: skim
+priority: high
+slack_ts: '1779250486.823589'
+source: cs.LG - Machine Learning
+status: unread
+title: 'TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination'
 ---
 # TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination
 > 原文: [https://arxiv.org/abs/2605.15207](https://arxiv.org/abs/2605.15207)

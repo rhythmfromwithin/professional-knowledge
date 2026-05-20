@@ -1,11 +1,12 @@
 ---
-title: "PBT-Bench: Benchmarking AI Agents on Property-Based Testing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.15229
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15229
 next_step: skim
+priority: low
+slack_ts: '1779250485.373989'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PBT-Bench: Benchmarking AI Agents on Property-Based Testing'
 ---
 # PBT-Bench: Benchmarking AI Agents on Property-Based Testing
 > 原文: [https://arxiv.org/abs/2605.15229](https://arxiv.org/abs/2605.15229)

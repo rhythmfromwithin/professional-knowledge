@@ -1,11 +1,12 @@
 ---
-title: "Aderant transforms cloud operations with Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1779250488.740839'
+source: AWS Blog
+status: unread
+title: Aderant transforms cloud operations with Amazon Quick
 ---
 # Aderant transforms cloud operations with Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/)

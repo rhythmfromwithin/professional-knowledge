@@ -1,11 +1,13 @@
 ---
-title: "Using the Open Science Data Federation for data distribution: Big Bear Solar Observatory use case"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.15378
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15378
 next_step: skim
+priority: medium
+slack_ts: '1779250487.611179'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Using the Open Science Data Federation for data distribution: Big Bear Solar
+  Observatory use case'
 ---
 # Using the Open Science Data Federation for data distribution: Big Bear Solar Observatory use case
 > 原文: [https://arxiv.org/abs/2605.15378](https://arxiv.org/abs/2605.15378)

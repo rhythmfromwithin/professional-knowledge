@@ -1,11 +1,13 @@
 ---
-title: "Structure Abstraction and Generalization in a Hippocampal-Entorhinal Inspired World Model"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.15733
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15733
 next_step: skim
+priority: low
+slack_ts: '1779250486.717869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Structure Abstraction and Generalization in a Hippocampal-Entorhinal Inspired
+  World Model
 ---
 # Structure Abstraction and Generalization in a Hippocampal-Entorhinal Inspired World Model
 > 原文: [https://arxiv.org/abs/2605.15733](https://arxiv.org/abs/2605.15733)

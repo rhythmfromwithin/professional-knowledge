@@ -1,11 +1,13 @@
 ---
-title: "Exceeding the Numerical and Performance Characteristics of IEEE-754 SGEMM with BFloat16 Tensor Cores on GPUs for Scientific Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.16617
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16617
 next_step: skim
+priority: medium
+slack_ts: '1779250490.451779'
+source: cs.DC - Distributed Computing
+status: unread
+title: Exceeding the Numerical and Performance Characteristics of IEEE-754 SGEMM with
+  BFloat16 Tensor Cores on GPUs for Scientific Computing
 ---
 # Exceeding the Numerical and Performance Characteristics of IEEE-754 SGEMM with BFloat16 Tensor Cores on GPUs for Scientific Computing
 > 原文: [https://arxiv.org/abs/2605.16617](https://arxiv.org/abs/2605.16617)

@@ -1,11 +1,12 @@
 ---
-title: "To GPU or Not to GPU: Vector Search in Relational Engines"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.15957
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15957
 next_step: skim
+priority: low
+slack_ts: '1779250487.508849'
+source: cs.DB - Databases
+status: unread
+title: 'To GPU or Not to GPU: Vector Search in Relational Engines'
 ---
 # To GPU or Not to GPU: Vector Search in Relational Engines
 > 原文: [https://arxiv.org/abs/2605.15957](https://arxiv.org/abs/2605.15957)

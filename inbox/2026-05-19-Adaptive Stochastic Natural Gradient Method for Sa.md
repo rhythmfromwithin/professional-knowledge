@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Stochastic Natural Gradient Method for Safe Optimization on Binary Space"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.17925
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.17925
 next_step: skim
+priority: low
+slack_ts: '1779250488.627119'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Adaptive Stochastic Natural Gradient Method for Safe Optimization on Binary
+  Space
 ---
 # Adaptive Stochastic Natural Gradient Method for Safe Optimization on Binary Space
 > 原文: [https://arxiv.org/abs/2605.17925](https://arxiv.org/abs/2605.17925)

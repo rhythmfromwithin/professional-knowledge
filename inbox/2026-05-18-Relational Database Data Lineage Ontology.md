@@ -1,11 +1,12 @@
 ---
-title: "Relational Database Data Lineage Ontology"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.16068
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16068
 next_step: skim
+priority: low
+slack_ts: '1779250486.099889'
+source: cs.DB - Databases
+status: unread
+title: Relational Database Data Lineage Ontology
 ---
 # Relational Database Data Lineage Ontology
 > 原文: [https://arxiv.org/abs/2605.16068](https://arxiv.org/abs/2605.16068)

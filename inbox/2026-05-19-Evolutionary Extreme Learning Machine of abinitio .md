@@ -1,11 +1,13 @@
 ---
-title: "Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal Structure Prediction using Manta Ray Optimization with Levy Flight"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.17148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.17148
 next_step: skim
+priority: low
+slack_ts: '1779250490.347279'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal
+  Structure Prediction using Manta Ray Optimization with Levy Flight
 ---
 # Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal Structure Prediction using Manta Ray Optimization with Levy Flight
 > 原文: [https://arxiv.org/abs/2605.17148](https://arxiv.org/abs/2605.17148)

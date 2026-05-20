@@ -1,11 +1,12 @@
 ---
-title: "Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.17199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.17199
 next_step: skim
+priority: low
+slack_ts: '1779250490.788229'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity
 ---
 # Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity
 > 原文: [https://arxiv.org/abs/2605.17199](https://arxiv.org/abs/2605.17199)

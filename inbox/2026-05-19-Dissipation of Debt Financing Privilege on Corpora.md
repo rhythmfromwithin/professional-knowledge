@@ -1,11 +1,13 @@
 ---
-title: "Dissipation of Debt Financing Privilege on Corporate AI Washing: Evidence from China"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.16808
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16808
 next_step: skim
+priority: low
+slack_ts: '1779250490.139709'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Dissipation of Debt Financing Privilege on Corporate AI Washing: Evidence
+  from China'
 ---
 # Dissipation of Debt Financing Privilege on Corporate AI Washing: Evidence from China
 > 原文: [https://arxiv.org/abs/2605.16808](https://arxiv.org/abs/2605.16808)

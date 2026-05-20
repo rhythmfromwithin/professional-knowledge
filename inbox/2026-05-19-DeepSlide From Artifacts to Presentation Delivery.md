@@ -1,11 +1,12 @@
 ---
-title: "DeepSlide: From Artifacts to Presentation Delivery"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.15202
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15202
 next_step: skim
+priority: high
+slack_ts: '1779250489.824119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'DeepSlide: From Artifacts to Presentation Delivery'
 ---
 # DeepSlide: From Artifacts to Presentation Delivery
 > 原文: [https://arxiv.org/abs/2605.15202](https://arxiv.org/abs/2605.15202)

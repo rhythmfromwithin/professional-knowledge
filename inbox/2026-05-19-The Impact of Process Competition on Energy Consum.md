@@ -1,11 +1,12 @@
 ---
-title: "The Impact of Process Competition on Energy Consumption: Analysis and Modeling"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.16260
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16260
 next_step: skim
+priority: medium
+slack_ts: '1779250493.158599'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Impact of Process Competition on Energy Consumption: Analysis and Modeling'
 ---
 # The Impact of Process Competition on Energy Consumption: Analysis and Modeling
 > 原文: [https://arxiv.org/abs/2605.16260](https://arxiv.org/abs/2605.16260)

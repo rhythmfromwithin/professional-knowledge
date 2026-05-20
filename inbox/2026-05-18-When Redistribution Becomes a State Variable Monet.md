@@ -1,11 +1,13 @@
 ---
-title: "When Redistribution Becomes a State Variable: Monetary-Fiscal Stabilization with Type-Specific Sticky Wages"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.15614
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15614
 next_step: skim
+priority: low
+slack_ts: '1779250487.852839'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'When Redistribution Becomes a State Variable: Monetary-Fiscal Stabilization
+  with Type-Specific Sticky Wages'
 ---
 # When Redistribution Becomes a State Variable: Monetary-Fiscal Stabilization with Type-Specific Sticky Wages
 > 原文: [https://arxiv.org/abs/2605.15614](https://arxiv.org/abs/2605.15614)

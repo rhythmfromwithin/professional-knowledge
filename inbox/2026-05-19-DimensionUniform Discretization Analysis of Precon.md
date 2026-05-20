@@ -1,11 +1,13 @@
 ---
-title: "Dimension-Uniform Discretization Analysis of Preconditioned Annealed Langevin Dynamics for Multimodal Gaussian Mixtures"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.16473
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16473
 next_step: skim
+priority: medium
+slack_ts: '1779250490.027949'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Dimension-Uniform Discretization Analysis of Preconditioned Annealed Langevin
+  Dynamics for Multimodal Gaussian Mixtures
 ---
 # Dimension-Uniform Discretization Analysis of Preconditioned Annealed Langevin Dynamics for Multimodal Gaussian Mixtures
 > 原文: [https://arxiv.org/abs/2605.16473](https://arxiv.org/abs/2605.16473)

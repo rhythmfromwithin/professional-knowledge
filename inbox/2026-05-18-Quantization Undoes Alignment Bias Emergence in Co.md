@@ -1,11 +1,13 @@
 ---
-title: "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.15208
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15208
 next_step: skim
+priority: high
+slack_ts: '1779250485.689969'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models
+  and Precision Levels'
 ---
 # Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels
 > 原文: [https://arxiv.org/abs/2605.15208](https://arxiv.org/abs/2605.15208)

@@ -1,11 +1,13 @@
 ---
-title: "PQR: A Framework to Generate Diverse and Realistic User Queries that Elicit QA Agent Failures"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.16551
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16551
 next_step: skim
+priority: high
+slack_ts: '1779250492.162169'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'PQR: A Framework to Generate Diverse and Realistic User Queries that Elicit
+  QA Agent Failures'
 ---
 # PQR: A Framework to Generate Diverse and Realistic User Queries that Elicit QA Agent Failures
 > 原文: [https://arxiv.org/abs/2605.16551](https://arxiv.org/abs/2605.16551)

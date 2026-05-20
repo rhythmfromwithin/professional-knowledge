@@ -1,11 +1,12 @@
 ---
-title: "PhysBrain 1.0 Technical Report"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.15298
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15298
 next_step: skim
+priority: medium
+slack_ts: '1779250485.597279'
+source: cs.RO - Robotics
+status: unread
+title: PhysBrain 1.0 Technical Report
 ---
 # PhysBrain 1.0 Technical Report
 > 原文: [https://arxiv.org/abs/2605.15298](https://arxiv.org/abs/2605.15298)
