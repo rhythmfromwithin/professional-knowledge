@@ -1,11 +1,13 @@
 ---
-title: "How War Distorts International Trade: Gravity-Model Evidence from Europe after the Russia-Ukraine Conflict"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.16334
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16334
 next_step: skim
+priority: low
+slack_ts: '1779337376.105519'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'How War Distorts International Trade: Gravity-Model Evidence from Europe after
+  the Russia-Ukraine Conflict'
 ---
 # How War Distorts International Trade: Gravity-Model Evidence from Europe after the Russia-Ukraine Conflict
 > 原文: [https://arxiv.org/abs/2605.16334](https://arxiv.org/abs/2605.16334)

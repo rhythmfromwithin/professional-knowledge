@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian, and German"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.19069
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19069
 next_step: skim
+priority: high
+slack_ts: '1779337380.827689'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian,
+  and German'
 ---
 # Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian, and German
 > 原文: [https://arxiv.org/abs/2605.19069](https://arxiv.org/abs/2605.19069)

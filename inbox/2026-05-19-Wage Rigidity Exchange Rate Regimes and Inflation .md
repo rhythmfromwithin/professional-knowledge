@@ -1,11 +1,13 @@
 ---
-title: "Wage Rigidity, Exchange Rate Regimes, and Inflation Persistence in Transition Economies: A Cohort-Based Institutional Approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.16862
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16862
 next_step: skim
+priority: low
+slack_ts: '1779337379.445509'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Wage Rigidity, Exchange Rate Regimes, and Inflation Persistence in Transition
+  Economies: A Cohort-Based Institutional Approach'
 ---
 # Wage Rigidity, Exchange Rate Regimes, and Inflation Persistence in Transition Economies: A Cohort-Based Institutional Approach
 > 原文: [https://arxiv.org/abs/2605.16862](https://arxiv.org/abs/2605.16862)

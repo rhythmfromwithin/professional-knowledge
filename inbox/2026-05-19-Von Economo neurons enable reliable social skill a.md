@@ -1,11 +1,13 @@
 ---
-title: "Von Economo neurons enable reliable social skill acquisition in recurrent spiking neural networks: a computational account with clinical predictions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.17399
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.17399
 next_step: skim
+priority: low
+slack_ts: '1779337379.348589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Von Economo neurons enable reliable social skill acquisition in recurrent
+  spiking neural networks: a computational account with clinical predictions'
 ---
 # Von Economo neurons enable reliable social skill acquisition in recurrent spiking neural networks: a computational account with clinical predictions
 > 原文: [https://arxiv.org/abs/2605.17399](https://arxiv.org/abs/2605.17399)

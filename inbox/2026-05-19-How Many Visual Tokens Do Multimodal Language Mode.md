@@ -1,11 +1,13 @@
 ---
-title: "How Many Visual Tokens Do Multimodal Language Models Need? Scaling Visual Token Pruning with F^3A"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.16359
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16359
 next_step: skim
+priority: medium
+slack_ts: '1779337376.013209'
+source: cs.CV - Computer Vision
+status: unread
+title: How Many Visual Tokens Do Multimodal Language Models Need? Scaling Visual Token
+  Pruning with F^3A
 ---
 # How Many Visual Tokens Do Multimodal Language Models Need? Scaling Visual Token Pruning with F^3A
 > 原文: [https://arxiv.org/abs/2605.16359](https://arxiv.org/abs/2605.16359)

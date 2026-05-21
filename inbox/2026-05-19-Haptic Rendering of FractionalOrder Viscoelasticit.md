@@ -1,11 +1,13 @@
 ---
-title: "Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.16389
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16389
 next_step: skim
+priority: medium
+slack_ts: '1779337375.815329'
+source: cs.RO - Robotics
+status: unread
+title: 'Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering
+  Fidelity'
 ---
 # Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity
 > 原文: [https://arxiv.org/abs/2605.16389](https://arxiv.org/abs/2605.16389)

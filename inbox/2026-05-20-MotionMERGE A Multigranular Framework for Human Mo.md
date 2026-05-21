@@ -1,11 +1,13 @@
 ---
-title: "MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning, Generation, and Explanation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.18956
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18956
 next_step: skim
+priority: medium
+slack_ts: '1779337383.815139'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning,
+  Generation, and Explanation'
 ---
 # MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning, Generation, and Explanation
 > 原文: [https://arxiv.org/abs/2605.18956](https://arxiv.org/abs/2605.18956)

@@ -1,11 +1,12 @@
 ---
-title: "Integrate Atlassian Confluence Cloud with Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1779337376.204499'
+source: AWS Blog
+status: unread
+title: Integrate Atlassian Confluence Cloud with Amazon Quick
 ---
 # Integrate Atlassian Confluence Cloud with Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/)

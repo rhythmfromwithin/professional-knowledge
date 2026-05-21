@@ -1,0 +1,14 @@
+---
+title: "Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2605.21000
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization
+> 原文: [https://arxiv.org/abs/2605.21000](https://arxiv.org/abs/2605.21000)
+
+arXiv:2605.21000v1 Announce Type: new
+Abstract: Mixed-integer extensions of evolution strategies (ES) that discretize selected coordinates of sampled continuous vectors often impose a lower bound on the standard deviation of integer variables to prevent premature convergence. While these methods show promising empirical results, this handling can slow the convergence of continuous variables, and its impact has lacked a clear theoretical account. In this paper, we provide a convergence analysis of evolution strategies for mixed-integer optimization, inspired by the drift analysis of the (1+1)-ES in the continuous domain. Specifically, we consider two (1+1)-ES variants for mixed-integer domains: (1+1)-LB-ES, which introduces a lower bound on the standard deviation for integer variables, and (1+1)-LUB-ES, which combines both lower and upper bounds to enhance the convergence of the continuous variables. Focusing on the optimization phase after the integer variables have been optimized, we rigorously analyze their convergence behavior on a benchmark function designed for mixed-integer domains. Our results show that (1+1)-LB-ES can suffer from premature convergence when the number of integer variables is large, while (1+1)-LUB-ES achieves linear convergence under suitable parameter settings. These findings provide theoretical insights into the impact of integer handling on convergence performance and guidance for the design of mixed-integer ES.

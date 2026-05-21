@@ -1,11 +1,13 @@
 ---
-title: "Revisiting the Maximum Defective Clique Problem: Faster Branching and a Tighter Upper Bound"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.16948
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16948
 next_step: skim
+priority: low
+slack_ts: '1779337378.011999'
+source: cs.DB - Databases
+status: unread
+title: 'Revisiting the Maximum Defective Clique Problem: Faster Branching and a Tighter
+  Upper Bound'
 ---
 # Revisiting the Maximum Defective Clique Problem: Faster Branching and a Tighter Upper Bound
 > 原文: [https://arxiv.org/abs/2605.16948](https://arxiv.org/abs/2605.16948)

@@ -1,11 +1,13 @@
 ---
-title: "Mirror Descent-Type Algorithms for the Variational Inequality Problem with Functional Constraints"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.16262
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16262
 next_step: skim
+priority: high
+slack_ts: '1779337377.071889'
+source: cs.LG - Machine Learning
+status: unread
+title: Mirror Descent-Type Algorithms for the Variational Inequality Problem with
+  Functional Constraints
 ---
 # Mirror Descent-Type Algorithms for the Variational Inequality Problem with Functional Constraints
 > 原文: [https://arxiv.org/abs/2605.16262](https://arxiv.org/abs/2605.16262)

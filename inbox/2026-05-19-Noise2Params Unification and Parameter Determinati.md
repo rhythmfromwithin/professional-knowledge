@@ -1,11 +1,13 @@
 ---
-title: "Noise2Params: Unification and Parameter Determination from Noise via a Probabilistic Event Camera Model"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.16317
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16317
 next_step: skim
+priority: medium
+slack_ts: '1779337377.241759'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Noise2Params: Unification and Parameter Determination from Noise via a Probabilistic
+  Event Camera Model'
 ---
 # Noise2Params: Unification and Parameter Determination from Noise via a Probabilistic Event Camera Model
 > 原文: [https://arxiv.org/abs/2605.16317](https://arxiv.org/abs/2605.16317)

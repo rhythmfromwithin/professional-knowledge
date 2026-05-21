@@ -1,11 +1,13 @@
 ---
-title: "Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning in Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.18003
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18003
 next_step: skim
+priority: low
+slack_ts: '1779337378.436999'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning
+  in Spiking Neural Networks'
 ---
 # Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning in Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2605.18003](https://arxiv.org/abs/2605.18003)

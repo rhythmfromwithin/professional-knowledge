@@ -1,11 +1,13 @@
 ---
-title: "Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3 Ultra"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.16259
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16259
 next_step: skim
+priority: high
+slack_ts: '1779337378.826569'
+source: cs.LG - Machine Learning
+status: unread
+title: Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3
+  Ultra
 ---
 # Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3 Ultra
 > 原文: [https://arxiv.org/abs/2605.16259](https://arxiv.org/abs/2605.16259)

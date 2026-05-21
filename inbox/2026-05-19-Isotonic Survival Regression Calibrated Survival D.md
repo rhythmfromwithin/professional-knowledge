@@ -1,11 +1,13 @@
 ---
-title: "Isotonic Survival Regression: Calibrated Survival Distributions from Deep Cox Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.16571
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16571
 next_step: skim
+priority: medium
+slack_ts: '1779337376.326149'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Isotonic Survival Regression: Calibrated Survival Distributions from Deep
+  Cox Models'
 ---
 # Isotonic Survival Regression: Calibrated Survival Distributions from Deep Cox Models
 > 原文: [https://arxiv.org/abs/2605.16571](https://arxiv.org/abs/2605.16571)

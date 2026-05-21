@@ -1,11 +1,13 @@
 ---
-title: "Train the Trainers -- An Agentic AI Framework for Peer-Based Mental Health Support in Battlefield Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.16269
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16269
 next_step: skim
+priority: low
+slack_ts: '1779337379.183589'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Train the Trainers -- An Agentic AI Framework for Peer-Based Mental Health
+  Support in Battlefield Environments
 ---
 # Train the Trainers -- An Agentic AI Framework for Peer-Based Mental Health Support in Battlefield Environments
 > 原文: [https://arxiv.org/abs/2605.16269](https://arxiv.org/abs/2605.16269)

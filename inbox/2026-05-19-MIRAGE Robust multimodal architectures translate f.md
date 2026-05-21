@@ -1,11 +1,13 @@
 ---
-title: "MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from vision to mental imagery"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.17198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.17198
 next_step: skim
+priority: low
+slack_ts: '1779337376.614879'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from
+  vision to mental imagery'
 ---
 # MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from vision to mental imagery
 > 原文: [https://arxiv.org/abs/2605.17198](https://arxiv.org/abs/2605.17198)

@@ -1,11 +1,13 @@
 ---
-title: "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.15204
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.15204
 next_step: skim
+priority: high
+slack_ts: '1779337378.113549'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained
+  Dispatch'
 ---
 # SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch
 > 原文: [https://arxiv.org/abs/2605.15204](https://arxiv.org/abs/2605.15204)

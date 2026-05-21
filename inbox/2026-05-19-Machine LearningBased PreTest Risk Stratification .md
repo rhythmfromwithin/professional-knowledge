@@ -1,11 +1,13 @@
 ---
-title: "Machine Learning-Based Pre-Test Risk Stratification for PCR-Confirmed Chlamydia Using Patient-Reported Data and Urine Biomarkers"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.16365
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16365
 next_step: skim
+priority: low
+slack_ts: '1779337376.709019'
+source: cs.DB - Databases
+status: unread
+title: Machine Learning-Based Pre-Test Risk Stratification for PCR-Confirmed Chlamydia
+  Using Patient-Reported Data and Urine Biomarkers
 ---
 # Machine Learning-Based Pre-Test Risk Stratification for PCR-Confirmed Chlamydia Using Patient-Reported Data and Urine Biomarkers
 > 原文: [https://arxiv.org/abs/2605.16365](https://arxiv.org/abs/2605.16365)

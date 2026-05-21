@@ -1,11 +1,12 @@
 ---
-title: "Scaling Accessible Mathematics on arXiv: HTML Conversion and MathML 4"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.16562
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16562
 next_step: skim
+priority: high
+slack_ts: '1779337378.244799'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Scaling Accessible Mathematics on arXiv: HTML Conversion and MathML 4'
 ---
 # Scaling Accessible Mathematics on arXiv: HTML Conversion and MathML 4
 > 原文: [https://arxiv.org/abs/2605.16562](https://arxiv.org/abs/2605.16562)

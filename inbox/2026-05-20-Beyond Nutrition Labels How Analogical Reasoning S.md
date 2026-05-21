@@ -1,11 +1,13 @@
 ---
-title: "Beyond Nutrition Labels: How Analogical Reasoning Shapes Synthetic Media Disclosure Design"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.19045
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19045
 next_step: skim
+priority: medium
+slack_ts: '1779337380.923629'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Nutrition Labels: How Analogical Reasoning Shapes Synthetic Media Disclosure
+  Design'
 ---
 # Beyond Nutrition Labels: How Analogical Reasoning Shapes Synthetic Media Disclosure Design
 > 原文: [https://arxiv.org/abs/2605.19045](https://arxiv.org/abs/2605.19045)

@@ -1,11 +1,13 @@
 ---
-title: "Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.18984
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18984
 next_step: skim
+priority: medium
+slack_ts: '1779337380.414349'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts
+  of AI-Generated Videos'
 ---
 # Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos
 > 原文: [https://arxiv.org/abs/2605.18984](https://arxiv.org/abs/2605.18984)

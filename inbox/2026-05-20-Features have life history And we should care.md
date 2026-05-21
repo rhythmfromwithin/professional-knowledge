@@ -1,11 +1,12 @@
 ---
-title: "Features have life history. And we should care"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.18789
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18789
 next_step: skim
+priority: low
+slack_ts: '1779337382.347249'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Features have life history. And we should care
 ---
 # Features have life history. And we should care
 > 原文: [https://arxiv.org/abs/2605.18789](https://arxiv.org/abs/2605.18789)

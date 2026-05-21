@@ -1,11 +1,12 @@
 ---
-title: "Adversarial Stress Testing of SPARK Humanoid Safety Filters"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.19009
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19009
 next_step: skim
+priority: medium
+slack_ts: '1779337379.898919'
+source: cs.RO - Robotics
+status: unread
+title: Adversarial Stress Testing of SPARK Humanoid Safety Filters
 ---
 # Adversarial Stress Testing of SPARK Humanoid Safety Filters
 > 原文: [https://arxiv.org/abs/2605.19009](https://arxiv.org/abs/2605.19009)

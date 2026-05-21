@@ -1,11 +1,13 @@
 ---
-title: "TARIPlay: A Test Framework for AR Applications based on Interactive Area Tracking in Playback Videos"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.16544
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16544
 next_step: skim
+priority: low
+slack_ts: '1779337378.921739'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TARIPlay: A Test Framework for AR Applications based on Interactive Area Tracking
+  in Playback Videos'
 ---
 # TARIPlay: A Test Framework for AR Applications based on Interactive Area Tracking in Playback Videos
 > 原文: [https://arxiv.org/abs/2605.16544](https://arxiv.org/abs/2605.16544)

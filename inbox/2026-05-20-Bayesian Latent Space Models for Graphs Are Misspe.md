@@ -1,11 +1,13 @@
 ---
-title: "Bayesian Latent Space Models for Graphs Are Misspecified: Toward Robust Inference via Generalized Posteriors"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.18927
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18927
 next_step: skim
+priority: medium
+slack_ts: '1779337380.741809'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Bayesian Latent Space Models for Graphs Are Misspecified: Toward Robust Inference
+  via Generalized Posteriors'
 ---
 # Bayesian Latent Space Models for Graphs Are Misspecified: Toward Robust Inference via Generalized Posteriors
 > 原文: [https://arxiv.org/abs/2605.18927](https://arxiv.org/abs/2605.18927)

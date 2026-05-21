@@ -1,11 +1,13 @@
 ---
-title: "LLM-Based Intelligent Notification Composition: From Static Personalization to Context-Aware Persuasive Messaging"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.16264
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16264
 next_step: skim
+priority: low
+slack_ts: '1779337376.513429'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'LLM-Based Intelligent Notification Composition: From Static Personalization
+  to Context-Aware Persuasive Messaging'
 ---
 # LLM-Based Intelligent Notification Composition: From Static Personalization to Context-Aware Persuasive Messaging
 > 原文: [https://arxiv.org/abs/2605.16264](https://arxiv.org/abs/2605.16264)

@@ -1,11 +1,12 @@
 ---
-title: "Prompting Amazon Nova 2 for content moderation"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/
 next_step: skim
+priority: high
+slack_ts: '1779337377.656399'
+source: AWS Blog
+status: unread
+title: Prompting Amazon Nova 2 for content moderation
 ---
 # Prompting Amazon Nova 2 for content moderation
 > 原文: [https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/](https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/)

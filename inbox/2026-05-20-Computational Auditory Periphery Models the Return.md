@@ -1,11 +1,12 @@
 ---
-title: "Computational Auditory Periphery Models: the Return of the Rodent"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.19070
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19070
 next_step: skim
+priority: low
+slack_ts: '1779337381.101369'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Computational Auditory Periphery Models: the Return of the Rodent'
 ---
 # Computational Auditory Periphery Models: the Return of the Rodent
 > 原文: [https://arxiv.org/abs/2605.19070](https://arxiv.org/abs/2605.19070)

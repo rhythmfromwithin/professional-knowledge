@@ -1,11 +1,12 @@
 ---
-title: "Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.19043
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19043
 next_step: skim
+priority: medium
+slack_ts: '1779337380.650359'
+source: cs.CY - Computers and Society
+status: unread
+title: Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 ---
 # Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 > 原文: [https://arxiv.org/abs/2605.19043](https://arxiv.org/abs/2605.19043)

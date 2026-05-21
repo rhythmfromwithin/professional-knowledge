@@ -1,11 +1,12 @@
 ---
-title: "Harnessing Self-Supervised Features for Art Classification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.18974
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18974
 next_step: skim
+priority: medium
+slack_ts: '1779337382.842439'
+source: cs.CV - Computer Vision
+status: unread
+title: Harnessing Self-Supervised Features for Art Classification
 ---
 # Harnessing Self-Supervised Features for Art Classification
 > 原文: [https://arxiv.org/abs/2605.18974](https://arxiv.org/abs/2605.18974)

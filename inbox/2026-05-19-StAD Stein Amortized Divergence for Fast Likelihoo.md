@@ -1,11 +1,12 @@
 ---
-title: "StAD: Stein Amortized Divergence for Fast Likelihoods with Diffusion and Flow"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.16486
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16486
 next_step: skim
+priority: medium
+slack_ts: '1779337378.539859'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'StAD: Stein Amortized Divergence for Fast Likelihoods with Diffusion and Flow'
 ---
 # StAD: Stein Amortized Divergence for Fast Likelihoods with Diffusion and Flow
 > 原文: [https://arxiv.org/abs/2605.16486](https://arxiv.org/abs/2605.16486)

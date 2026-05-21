@@ -1,11 +1,12 @@
 ---
-title: "StrLoRA: Towards Streaming Continual Visual Instruction Tuning for MLLMs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.16353
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16353
 next_step: skim
+priority: medium
+slack_ts: '1779337378.728629'
+source: cs.CV - Computer Vision
+status: unread
+title: 'StrLoRA: Towards Streaming Continual Visual Instruction Tuning for MLLMs'
 ---
 # StrLoRA: Towards Streaming Continual Visual Instruction Tuning for MLLMs
 > 原文: [https://arxiv.org/abs/2605.16353](https://arxiv.org/abs/2605.16353)

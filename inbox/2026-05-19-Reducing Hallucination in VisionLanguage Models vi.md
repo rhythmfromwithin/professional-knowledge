@@ -1,11 +1,13 @@
 ---
-title: "Reducing Hallucination in Vision-Language Models via Stage-wise Preference Optimization under Distribution Shift"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.16411
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.16411
 next_step: skim
+priority: low
+slack_ts: '1779337377.821179'
+source: cs.DB - Databases
+status: unread
+title: Reducing Hallucination in Vision-Language Models via Stage-wise Preference
+  Optimization under Distribution Shift
 ---
 # Reducing Hallucination in Vision-Language Models via Stage-wise Preference Optimization under Distribution Shift
 > 原文: [https://arxiv.org/abs/2605.16411](https://arxiv.org/abs/2605.16411)
