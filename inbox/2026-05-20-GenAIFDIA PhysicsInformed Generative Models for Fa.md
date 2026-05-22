@@ -1,11 +1,12 @@
 ---
-title: "GenAI-FDIA: Physics-Informed Generative Models for False Data Injection Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.18873
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18873
 next_step: skim
+priority: low
+slack_ts: '1779423486.052309'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'GenAI-FDIA: Physics-Informed Generative Models for False Data Injection Attacks'
 ---
 # GenAI-FDIA: Physics-Informed Generative Models for False Data Injection Attacks
 > 原文: [https://arxiv.org/abs/2605.18873](https://arxiv.org/abs/2605.18873)

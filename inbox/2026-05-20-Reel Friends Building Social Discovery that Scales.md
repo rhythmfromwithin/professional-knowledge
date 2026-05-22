@@ -1,11 +1,12 @@
 ---
-title: "Reel Friends: Building Social Discovery that Scales to Billions"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/
 next_step: skim
+priority: medium
+slack_ts: '1779423489.794209'
+source: Meta Engineering
+status: unread
+title: 'Reel Friends: Building Social Discovery that Scales to Billions'
 ---
 # Reel Friends: Building Social Discovery that Scales to Billions
 > 原文: [https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/](https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/)

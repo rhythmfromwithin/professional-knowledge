@@ -1,11 +1,13 @@
 ---
-title: "The Insurability Frontier of AI Risk: Mapping Threats to Affirmative Coverage, Silent Exposures, and Exclusions"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.18784
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18784
 next_step: skim
+priority: low
+slack_ts: '1779423490.803509'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Insurability Frontier of AI Risk: Mapping Threats to Affirmative Coverage,
+  Silent Exposures, and Exclusions'
 ---
 # The Insurability Frontier of AI Risk: Mapping Threats to Affirmative Coverage, Silent Exposures, and Exclusions
 > 原文: [https://arxiv.org/abs/2605.18784](https://arxiv.org/abs/2605.18784)

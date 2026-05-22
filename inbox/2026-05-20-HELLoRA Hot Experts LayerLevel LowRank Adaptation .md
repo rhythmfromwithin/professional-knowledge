@@ -1,11 +1,13 @@
 ---
-title: "HELLoRA: Hot Experts Layer-Level Low-Rank Adaptation for Mixture-of-Experts Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.18795
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18795
 next_step: skim
+priority: high
+slack_ts: '1779423486.593629'
+source: cs.LG - Machine Learning
+status: unread
+title: 'HELLoRA: Hot Experts Layer-Level Low-Rank Adaptation for Mixture-of-Experts
+  Models'
 ---
 # HELLoRA: Hot Experts Layer-Level Low-Rank Adaptation for Mixture-of-Experts Models
 > 原文: [https://arxiv.org/abs/2605.18795](https://arxiv.org/abs/2605.18795)

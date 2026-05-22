@@ -1,11 +1,12 @@
 ---
-title: "Leveraging I/O Stalls for Efficient Scheduling in ANNS"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.19335
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19335
 next_step: skim
+priority: low
+slack_ts: '1779423487.717229'
+source: cs.DB - Databases
+status: unread
+title: Leveraging I/O Stalls for Efficient Scheduling in ANNS
 ---
 # Leveraging I/O Stalls for Efficient Scheduling in ANNS
 > 原文: [https://arxiv.org/abs/2605.19335](https://arxiv.org/abs/2605.19335)

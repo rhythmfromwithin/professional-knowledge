@@ -1,11 +1,13 @@
 ---
-title: "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/
 next_step: skim
+priority: high
+slack_ts: '1779423485.468379'
+source: AWS Blog
+status: unread
+title: Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore
+  Memory
 ---
 # Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory
 > 原文: [https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/](https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/)

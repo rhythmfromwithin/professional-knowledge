@@ -1,11 +1,13 @@
 ---
-title: "Markov Chain Decoders Overcome the Heavy-Tail Limitations of Lipschitz Generative Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.18931
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18931
 next_step: skim
+priority: medium
+slack_ts: '1779423487.849289'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Markov Chain Decoders Overcome the Heavy-Tail Limitations of Lipschitz Generative
+  Models
 ---
 # Markov Chain Decoders Overcome the Heavy-Tail Limitations of Lipschitz Generative Models
 > 原文: [https://arxiv.org/abs/2605.18931](https://arxiv.org/abs/2605.18931)

@@ -1,11 +1,13 @@
 ---
-title: "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.19190
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19190
 next_step: skim
+priority: medium
+slack_ts: '1779423486.373459'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety
+  in the Global South'
 ---
 # Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South
 > 原文: [https://arxiv.org/abs/2605.19190](https://arxiv.org/abs/2605.19190)

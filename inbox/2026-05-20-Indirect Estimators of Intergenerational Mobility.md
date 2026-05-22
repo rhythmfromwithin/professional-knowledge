@@ -1,11 +1,12 @@
 ---
-title: "Indirect Estimators of Intergenerational Mobility"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.19154
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19154
 next_step: skim
+priority: low
+slack_ts: '1779423487.068569'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Indirect Estimators of Intergenerational Mobility
 ---
 # Indirect Estimators of Intergenerational Mobility
 > 原文: [https://arxiv.org/abs/2605.19154](https://arxiv.org/abs/2605.19154)

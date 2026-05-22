@@ -1,11 +1,12 @@
 ---
-title: "Meta-Theorems for Cuttable Distributed Problems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.19157
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19157
 next_step: skim
+priority: medium
+slack_ts: '1779423488.195249'
+source: cs.DC - Distributed Computing
+status: unread
+title: Meta-Theorems for Cuttable Distributed Problems
 ---
 # Meta-Theorems for Cuttable Distributed Problems
 > 原文: [https://arxiv.org/abs/2605.19157](https://arxiv.org/abs/2605.19157)

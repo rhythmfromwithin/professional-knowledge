@@ -1,11 +1,12 @@
 ---
-title: "Prompt Optimization for LLM Code Generation via Reinforcement Learning"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.19102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19102
 next_step: skim
+priority: low
+slack_ts: '1779423489.394369'
+source: cs.SE - Software Engineering
+status: unread
+title: Prompt Optimization for LLM Code Generation via Reinforcement Learning
 ---
 # Prompt Optimization for LLM Code Generation via Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2605.19102](https://arxiv.org/abs/2605.19102)

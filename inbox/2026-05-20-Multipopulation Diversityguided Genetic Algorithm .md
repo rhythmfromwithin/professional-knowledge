@@ -1,11 +1,13 @@
 ---
-title: "Multi-population Diversity-guided Genetic Algorithm for Feature Selection in Network Intrusion Detection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.19864
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19864
 next_step: skim
+priority: low
+slack_ts: '1779423488.552839'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Multi-population Diversity-guided Genetic Algorithm for Feature Selection in
+  Network Intrusion Detection
 ---
 # Multi-population Diversity-guided Genetic Algorithm for Feature Selection in Network Intrusion Detection
 > 原文: [https://arxiv.org/abs/2605.19864](https://arxiv.org/abs/2605.19864)

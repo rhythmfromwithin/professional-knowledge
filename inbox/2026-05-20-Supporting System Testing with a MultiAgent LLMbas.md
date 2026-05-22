@@ -1,11 +1,13 @@
 ---
-title: "Supporting System Testing with a Multi-Agent LLM-based Framework for Knowledge Graph Extraction: A Case Study with Ethernet Switch Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.19180
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19180
 next_step: skim
+priority: low
+slack_ts: '1779423490.518639'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Supporting System Testing with a Multi-Agent LLM-based Framework for Knowledge
+  Graph Extraction: A Case Study with Ethernet Switch Systems'
 ---
 # Supporting System Testing with a Multi-Agent LLM-based Framework for Knowledge Graph Extraction: A Case Study with Ethernet Switch Systems
 > 原文: [https://arxiv.org/abs/2605.19180](https://arxiv.org/abs/2605.19180)

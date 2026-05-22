@@ -1,11 +1,13 @@
 ---
-title: "Interoceptive Divergence in Aesthetic Evaluation and Implications for Human-AI Alignment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.18759
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18759
 next_step: skim
+priority: low
+slack_ts: '1779423487.170739'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Interoceptive Divergence in Aesthetic Evaluation and Implications for Human-AI
+  Alignment
 ---
 # Interoceptive Divergence in Aesthetic Evaluation and Implications for Human-AI Alignment
 > 原文: [https://arxiv.org/abs/2605.18759](https://arxiv.org/abs/2605.18759)

@@ -1,11 +1,12 @@
 ---
-title: "Contradiction Graphs Determine VC Dimension"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.20434
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20434
 next_step: skim
+priority: medium
+slack_ts: '1779423492.280549'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Contradiction Graphs Determine VC Dimension
 ---
 # Contradiction Graphs Determine VC Dimension
 > 原文: [https://arxiv.org/abs/2605.20434](https://arxiv.org/abs/2605.20434)

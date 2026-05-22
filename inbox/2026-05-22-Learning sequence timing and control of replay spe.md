@@ -1,0 +1,14 @@
+---
+title: "Learning sequence timing and control of replay speed in networks of spiking neurons"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2605.22523
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Learning sequence timing and control of replay speed in networks of spiking neurons
+> 原文: [https://arxiv.org/abs/2605.22523](https://arxiv.org/abs/2605.22523)
+
+arXiv:2605.22523v1 Announce Type: new
+Abstract: Processing sequential inputs is a fundamental brain function, underlying tasks such as sensory perception, language, and motor control. A challenge in sequence processing is to represent not only the order of events, but also their precise timing. While existing computational models can learn sequential structure, many lack biologically plausible mechanisms to encode element-specific timing and to flexibly control the speed of sequence replay. The spiking Temporal Memory (sTM) model, a biologically inspired network model, provides a framework for key aspects of sequence processing. In the sTM model, each sequence element is represented by a small set of neurons firing synchronously, where the set of active neurons encodes the element's identity in its sequential context. In its original version, however, the sTM model learns the order but not the timing of sequence elements. Further, it remains an open question in neuroscience how the speed of sequence replay can be flexibly modulated. We propose a mechanism where the duration of sequence elements is represented by a sequential activation of element specific neuronal populations, enabling the model to encode sequences across a wide range of timescales. This provides a biologically plausible basis for learning and replaying complex temporal patterns. Additionally, we show that oscillatory background inputs can serve as a clock signal and provide a robust and flexible mechanism for controlling the speed of sequence replay. Our findings suggest that elapsed time is encoded by unique and sparse spatiotemporal patterns of neural activity, and that the speed of sequence replay during wakefulness and sleep is correlated to the characteristics of global oscillatory activity observed in EEG or LFP recordings.

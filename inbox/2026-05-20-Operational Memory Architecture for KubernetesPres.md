@@ -1,11 +1,13 @@
 ---
-title: "Operational Memory Architecture for Kubernetes:Preserving Causal Context Across the Evidence Horizon"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.18755
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18755
 next_step: skim
+priority: medium
+slack_ts: '1779423489.017479'
+source: cs.DC - Distributed Computing
+status: unread
+title: Operational Memory Architecture for Kubernetes:Preserving Causal Context Across
+  the Evidence Horizon
 ---
 # Operational Memory Architecture for Kubernetes:Preserving Causal Context Across the Evidence Horizon
 > 原文: [https://arxiv.org/abs/2605.18755](https://arxiv.org/abs/2605.18755)

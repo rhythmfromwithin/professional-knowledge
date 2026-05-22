@@ -1,11 +1,13 @@
 ---
-title: "KG-ASG: Collision-Knowledge-Guided Closed-Loop Adversarial Scenario Generation With Primary-Support Attribution"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.18895
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18895
 next_step: skim
+priority: medium
+slack_ts: '1779423487.512019'
+source: cs.RO - Robotics
+status: unread
+title: 'KG-ASG: Collision-Knowledge-Guided Closed-Loop Adversarial Scenario Generation
+  With Primary-Support Attribution'
 ---
 # KG-ASG: Collision-Knowledge-Guided Closed-Loop Adversarial Scenario Generation With Primary-Support Attribution
 > 原文: [https://arxiv.org/abs/2605.18895](https://arxiv.org/abs/2605.18895)

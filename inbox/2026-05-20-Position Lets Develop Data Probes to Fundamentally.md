@@ -1,11 +1,13 @@
 ---
-title: "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.18801
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18801
 next_step: skim
+priority: high
+slack_ts: '1779423489.289789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Position: Let''s Develop Data Probes to Fundamentally Understand How Data
+  Affects LLM Performance'
 ---
 # Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance
 > 原文: [https://arxiv.org/abs/2605.18801](https://arxiv.org/abs/2605.18801)

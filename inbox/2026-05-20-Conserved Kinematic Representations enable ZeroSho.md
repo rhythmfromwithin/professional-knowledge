@@ -1,11 +1,13 @@
 ---
-title: "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.19048
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19048
 next_step: skim
+priority: low
+slack_ts: '1779423484.714069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting
+  BCIs
 ---
 # Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs
 > 原文: [https://arxiv.org/abs/2605.19048](https://arxiv.org/abs/2605.19048)

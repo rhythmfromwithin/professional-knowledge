@@ -1,11 +1,13 @@
 ---
-title: "GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.19119
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19119
 next_step: skim
+priority: low
+slack_ts: '1779423485.946059'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective
+  Optimization'
 ---
 # GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization
 > 原文: [https://arxiv.org/abs/2605.19119](https://arxiv.org/abs/2605.19119)

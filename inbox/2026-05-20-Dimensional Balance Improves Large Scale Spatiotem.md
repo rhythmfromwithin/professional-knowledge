@@ -1,11 +1,12 @@
 ---
-title: "Dimensional Balance Improves Large Scale Spatiotemporal Prediction Performance"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.18793
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18793
 next_step: skim
+priority: high
+slack_ts: '1779423485.082169'
+source: cs.LG - Machine Learning
+status: unread
+title: Dimensional Balance Improves Large Scale Spatiotemporal Prediction Performance
 ---
 # Dimensional Balance Improves Large Scale Spatiotemporal Prediction Performance
 > 原文: [https://arxiv.org/abs/2605.18793](https://arxiv.org/abs/2605.18793)

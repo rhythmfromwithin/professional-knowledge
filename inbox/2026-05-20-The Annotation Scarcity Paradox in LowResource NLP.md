@@ -1,11 +1,13 @@
 ---
-title: "The Annotation Scarcity Paradox in Low-Resource NLP Evaluation: A Decade of Acceleration and Emerging Constraints"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.19066
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19066
 next_step: skim
+priority: high
+slack_ts: '1779423490.623099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Annotation Scarcity Paradox in Low-Resource NLP Evaluation: A Decade of
+  Acceleration and Emerging Constraints'
 ---
 # The Annotation Scarcity Paradox in Low-Resource NLP Evaluation: A Decade of Acceleration and Emerging Constraints
 > 原文: [https://arxiv.org/abs/2605.19066](https://arxiv.org/abs/2605.19066)

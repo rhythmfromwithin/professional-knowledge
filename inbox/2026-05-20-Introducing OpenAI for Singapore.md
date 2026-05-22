@@ -1,11 +1,12 @@
 ---
-title: "Introducing OpenAI for Singapore"
-source: "OpenAI Blog"
-link: https://openai.com/index/introducing-openai-for-singapore
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/introducing-openai-for-singapore
 next_step: skim
+priority: high
+slack_ts: '1779423487.401809'
+source: OpenAI Blog
+status: unread
+title: Introducing OpenAI for Singapore
 ---
 # Introducing OpenAI for Singapore
 > 原文: [https://openai.com/index/introducing-openai-for-singapore](https://openai.com/index/introducing-openai-for-singapore)

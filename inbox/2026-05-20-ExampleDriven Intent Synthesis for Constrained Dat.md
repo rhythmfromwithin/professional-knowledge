@@ -1,11 +1,13 @@
 ---
-title: "Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused Text Snippet Extraction and Beyond"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.19246
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19246
 next_step: skim
+priority: low
+slack_ts: '1779423485.328379'
+source: cs.DB - Databases
+status: unread
+title: 'Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused
+  Text Snippet Extraction and Beyond'
 ---
 # Example-Driven Intent Synthesis for Constrained Data Bundle Retrieval: Focused Text Snippet Extraction and Beyond
 > 原文: [https://arxiv.org/abs/2605.19246](https://arxiv.org/abs/2605.19246)

@@ -1,11 +1,13 @@
 ---
-title: "Restructure This: Using AI to Restructure Onboarding Documents to Reduce Cognitive Overload"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.19174
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19174
 next_step: skim
+priority: low
+slack_ts: '1779423489.901469'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Restructure This: Using AI to Restructure Onboarding Documents to Reduce Cognitive
+  Overload'
 ---
 # Restructure This: Using AI to Restructure Onboarding Documents to Reduce Cognitive Overload
 > 原文: [https://arxiv.org/abs/2605.19174](https://arxiv.org/abs/2605.19174)

@@ -1,11 +1,12 @@
 ---
-title: "Hypergraph Partitioning on GPU with Distinct Incident Hyperedges and Size Constraints"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.20497
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20497
 next_step: skim
+priority: medium
+slack_ts: '1779423493.277489'
+source: cs.DC - Distributed Computing
+status: unread
+title: Hypergraph Partitioning on GPU with Distinct Incident Hyperedges and Size Constraints
 ---
 # Hypergraph Partitioning on GPU with Distinct Incident Hyperedges and Size Constraints
 > 原文: [https://arxiv.org/abs/2605.20497](https://arxiv.org/abs/2605.20497)

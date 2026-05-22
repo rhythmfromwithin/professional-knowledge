@@ -1,11 +1,13 @@
 ---
-title: "DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.18868
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18868
 next_step: skim
+priority: low
+slack_ts: '1779423484.836529'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language
+  Models'
 ---
 # DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language Models
 > 原文: [https://arxiv.org/abs/2605.18868](https://arxiv.org/abs/2605.18868)

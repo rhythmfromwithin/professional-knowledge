@@ -1,11 +1,12 @@
 ---
-title: "External Demand, Domestic Monetary Conditions, and Remittance Dynamics in Nepal"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.19401
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19401
 next_step: skim
+priority: low
+slack_ts: '1779423485.618379'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: External Demand, Domestic Monetary Conditions, and Remittance Dynamics in Nepal
 ---
 # External Demand, Domestic Monetary Conditions, and Remittance Dynamics in Nepal
 > 原文: [https://arxiv.org/abs/2605.19401](https://arxiv.org/abs/2605.19401)

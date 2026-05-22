@@ -1,11 +1,13 @@
 ---
-title: "Geo-Data-Driven HD Map Generation Workflow with Integrated Reference-Free Constraint-Based Verification"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.18921
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18921
 next_step: skim
+priority: medium
+slack_ts: '1779423486.252359'
+source: cs.RO - Robotics
+status: unread
+title: Geo-Data-Driven HD Map Generation Workflow with Integrated Reference-Free Constraint-Based
+  Verification
 ---
 # Geo-Data-Driven HD Map Generation Workflow with Integrated Reference-Free Constraint-Based Verification
 > 原文: [https://arxiv.org/abs/2605.18921](https://arxiv.org/abs/2605.18921)

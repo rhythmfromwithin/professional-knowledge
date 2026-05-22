@@ -1,11 +1,12 @@
 ---
-title: "OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.18758
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18758
 next_step: skim
+priority: low
+slack_ts: '1779423488.756019'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments'
 ---
 # OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments
 > 原文: [https://arxiv.org/abs/2605.18758](https://arxiv.org/abs/2605.18758)

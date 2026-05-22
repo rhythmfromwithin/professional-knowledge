@@ -1,11 +1,13 @@
 ---
-title: "Decentralized autonomous organization and blockchain-based incentivization framework for community-based facilities management"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.18773
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18773
 next_step: skim
+priority: low
+slack_ts: '1779423484.978919'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Decentralized autonomous organization and blockchain-based incentivization
+  framework for community-based facilities management
 ---
 # Decentralized autonomous organization and blockchain-based incentivization framework for community-based facilities management
 > 原文: [https://arxiv.org/abs/2605.18773](https://arxiv.org/abs/2605.18773)

@@ -1,11 +1,12 @@
 ---
-title: "ReacTOD: Bounded Neuro-Symbolic Agentic NLU for Zero-Shot Dialogue State Tracking"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.19077
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19077
 next_step: skim
+priority: high
+slack_ts: '1779423489.679709'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'ReacTOD: Bounded Neuro-Symbolic Agentic NLU for Zero-Shot Dialogue State Tracking'
 ---
 # ReacTOD: Bounded Neuro-Symbolic Agentic NLU for Zero-Shot Dialogue State Tracking
 > 原文: [https://arxiv.org/abs/2605.19077](https://arxiv.org/abs/2605.19077)

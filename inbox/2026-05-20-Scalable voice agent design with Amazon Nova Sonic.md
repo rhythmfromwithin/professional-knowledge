@@ -1,11 +1,13 @@
 ---
-title: "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/
 next_step: skim
+priority: high
+slack_ts: '1779423490.101079'
+source: AWS Blog
+status: unread
+title: 'Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and
+  session segmentation'
 ---
 # Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation
 > 原文: [https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/](https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/)
