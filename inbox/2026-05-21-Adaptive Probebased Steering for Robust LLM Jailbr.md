@@ -1,11 +1,12 @@
 ---
-title: "Adaptive Probe-based Steering for Robust LLM Jailbreaking"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.20286
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20286
 next_step: skim
+priority: low
+slack_ts: '1779508579.827589'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Adaptive Probe-based Steering for Robust LLM Jailbreaking
 ---
 # Adaptive Probe-based Steering for Robust LLM Jailbreaking
 > 原文: [https://arxiv.org/abs/2605.20286](https://arxiv.org/abs/2605.20286)

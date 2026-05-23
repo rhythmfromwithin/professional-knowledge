@@ -1,11 +1,12 @@
 ---
-title: "Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.21000
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21000
 next_step: skim
+priority: low
+slack_ts: '1779508582.282499'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization
 ---
 # Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization
 > 原文: [https://arxiv.org/abs/2605.21000](https://arxiv.org/abs/2605.21000)

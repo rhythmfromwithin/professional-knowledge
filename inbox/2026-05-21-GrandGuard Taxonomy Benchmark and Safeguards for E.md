@@ -1,11 +1,13 @@
 ---
-title: "GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.20203
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20203
 next_step: skim
+priority: low
+slack_ts: '1779508584.119589'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction
+  Safety'
 ---
 # GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety
 > 原文: [https://arxiv.org/abs/2605.20203](https://arxiv.org/abs/2605.20203)

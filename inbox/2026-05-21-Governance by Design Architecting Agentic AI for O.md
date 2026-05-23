@@ -1,11 +1,13 @@
 ---
-title: "Governance by Design: Architecting Agentic AI for Organizational Learning and Scalable Autonomy"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.20210
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20210
 next_step: skim
+priority: medium
+slack_ts: '1779508583.967089'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Governance by Design: Architecting Agentic AI for Organizational Learning
+  and Scalable Autonomy'
 ---
 # Governance by Design: Architecting Agentic AI for Organizational Learning and Scalable Autonomy
 > 原文: [https://arxiv.org/abs/2605.20210](https://arxiv.org/abs/2605.20210)

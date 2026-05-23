@@ -1,11 +1,13 @@
 ---
-title: "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.20496
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20496
 next_step: skim
+priority: low
+slack_ts: '1779508587.939139'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Platonic Representations in the Human Brain: Unsupervised Recovery of Universal
+  Geometry'
 ---
 # Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry
 > 原文: [https://arxiv.org/abs/2605.20496](https://arxiv.org/abs/2605.20496)

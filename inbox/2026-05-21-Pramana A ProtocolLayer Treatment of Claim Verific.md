@@ -1,11 +1,13 @@
 ---
-title: "Pramana: A Protocol-Layer Treatment of Claim Verification in Autonomous Agent Networks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.20312
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20312
 next_step: skim
+priority: low
+slack_ts: '1779508588.315449'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Pramana: A Protocol-Layer Treatment of Claim Verification in Autonomous Agent
+  Networks'
 ---
 # Pramana: A Protocol-Layer Treatment of Claim Verification in Autonomous Agent Networks
 > 原文: [https://arxiv.org/abs/2605.20312](https://arxiv.org/abs/2605.20312)

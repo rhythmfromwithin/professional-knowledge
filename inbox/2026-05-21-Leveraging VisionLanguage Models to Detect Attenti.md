@@ -1,11 +1,12 @@
 ---
-title: "Leveraging Vision-Language Models to Detect Attention in Educational Videos"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.20211
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20211
 next_step: skim
+priority: medium
+slack_ts: '1779508585.960279'
+source: cs.CV - Computer Vision
+status: unread
+title: Leveraging Vision-Language Models to Detect Attention in Educational Videos
 ---
 # Leveraging Vision-Language Models to Detect Attention in Educational Videos
 > 原文: [https://arxiv.org/abs/2605.20211](https://arxiv.org/abs/2605.20211)

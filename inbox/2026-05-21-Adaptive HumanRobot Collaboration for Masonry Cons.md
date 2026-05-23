@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Human-Robot Collaboration for Masonry Construction Under Material and Assembly Uncertainty"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.20264
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20264
 next_step: skim
+priority: medium
+slack_ts: '1779508579.660149'
+source: cs.RO - Robotics
+status: unread
+title: Adaptive Human-Robot Collaboration for Masonry Construction Under Material
+  and Assembly Uncertainty
 ---
 # Adaptive Human-Robot Collaboration for Masonry Construction Under Material and Assembly Uncertainty
 > 原文: [https://arxiv.org/abs/2605.20264](https://arxiv.org/abs/2605.20264)

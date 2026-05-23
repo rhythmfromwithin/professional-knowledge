@@ -1,11 +1,13 @@
 ---
-title: "E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.20717
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20717
 next_step: skim
+priority: low
+slack_ts: '1779508582.777759'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM
+  Macro for Conventional and Spiking Neural Edge Inference'
 ---
 # E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference
 > 原文: [https://arxiv.org/abs/2605.20717](https://arxiv.org/abs/2605.20717)

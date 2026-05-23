@@ -1,11 +1,12 @@
 ---
-title: "Unleashing the Power of Tree-of-Thoughts for Edge-Enabled AIGC Service Provisioning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.19108
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.19108
 next_step: skim
+priority: medium
+slack_ts: '1779508577.955779'
+source: cs.DC - Distributed Computing
+status: unread
+title: Unleashing the Power of Tree-of-Thoughts for Edge-Enabled AIGC Service Provisioning
 ---
 # Unleashing the Power of Tree-of-Thoughts for Edge-Enabled AIGC Service Provisioning
 > 原文: [https://arxiv.org/abs/2605.19108](https://arxiv.org/abs/2605.19108)

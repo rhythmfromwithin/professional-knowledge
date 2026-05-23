@@ -1,11 +1,12 @@
 ---
-title: "Proximal State Nudging: Reducing Skill Atrophy from AI Assistance"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.20355
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20355
 next_step: skim
+priority: medium
+slack_ts: '1779508589.018809'
+source: cs.RO - Robotics
+status: unread
+title: 'Proximal State Nudging: Reducing Skill Atrophy from AI Assistance'
 ---
 # Proximal State Nudging: Reducing Skill Atrophy from AI Assistance
 > 原文: [https://arxiv.org/abs/2605.20355](https://arxiv.org/abs/2605.20355)

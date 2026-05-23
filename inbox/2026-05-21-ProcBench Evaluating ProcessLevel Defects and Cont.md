@@ -1,11 +1,13 @@
 ---
-title: "ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.20251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20251
 next_step: skim
+priority: low
+slack_ts: '1779508588.674379'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM
+  Coding Agents'
 ---
 # ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents
 > 原文: [https://arxiv.org/abs/2605.20251](https://arxiv.org/abs/2605.20251)

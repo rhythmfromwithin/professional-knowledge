@@ -1,11 +1,13 @@
 ---
-title: "Frequency-Domain Regularized Adversarial Alignment for Transferable Attacks against Closed-Source MLLMs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.21541
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21541
 next_step: skim
+priority: low
+slack_ts: '1779508595.063799'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Frequency-Domain Regularized Adversarial Alignment for Transferable Attacks
+  against Closed-Source MLLMs
 ---
 # Frequency-Domain Regularized Adversarial Alignment for Transferable Attacks against Closed-Source MLLMs
 > 原文: [https://arxiv.org/abs/2605.21541](https://arxiv.org/abs/2605.21541)

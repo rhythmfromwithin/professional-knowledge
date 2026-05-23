@@ -1,11 +1,12 @@
 ---
-title: "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/
 next_step: skim
+priority: high
+slack_ts: '1779508580.927679'
+source: AWS Blog
+status: unread
+title: Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints
 ---
 # Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints
 > 原文: [https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/](https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/)

@@ -1,11 +1,13 @@
 ---
-title: "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.18818
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18818
 next_step: skim
+priority: high
+slack_ts: '1779508587.583839'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Operationalizing Document AI: A Microservice Architecture for OCR and LLM
+  Pipelines in Production'
 ---
 # Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production
 > 原文: [https://arxiv.org/abs/2605.18818](https://arxiv.org/abs/2605.18818)

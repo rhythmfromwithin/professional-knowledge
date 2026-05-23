@@ -1,11 +1,12 @@
 ---
-title: "An OpenAI model has disproved a central conjecture in discrete geometry"
-source: "OpenAI Blog"
-link: https://openai.com/index/model-disproves-discrete-geometry-conjecture
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/model-disproves-discrete-geometry-conjecture
 next_step: skim
+priority: high
+slack_ts: '1779508580.741749'
+source: OpenAI Blog
+status: unread
+title: An OpenAI model has disproved a central conjecture in discrete geometry
 ---
 # An OpenAI model has disproved a central conjecture in discrete geometry
 > 原文: [https://openai.com/index/model-disproves-discrete-geometry-conjecture](https://openai.com/index/model-disproves-discrete-geometry-conjecture)

@@ -1,11 +1,13 @@
 ---
-title: "AI-Assisted Competency Assessment from Egocentric Video in Simulation-Based Nursing Education"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.20233
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20233
 next_step: skim
+priority: medium
+slack_ts: '1779508579.282759'
+source: cs.CV - Computer Vision
+status: unread
+title: AI-Assisted Competency Assessment from Egocentric Video in Simulation-Based
+  Nursing Education
 ---
 # AI-Assisted Competency Assessment from Egocentric Video in Simulation-Based Nursing Education
 > 原文: [https://arxiv.org/abs/2605.20233](https://arxiv.org/abs/2605.20233)

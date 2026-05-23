@@ -1,11 +1,13 @@
 ---
-title: "Multi-Head Attention as Ensemble Nadaraya-Watson Estimation: Variance Reduction, Decorrelation, and Optimal Head Diversity"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.20271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20271
 next_step: skim
+priority: medium
+slack_ts: '1779508587.027529'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Multi-Head Attention as Ensemble Nadaraya-Watson Estimation: Variance Reduction,
+  Decorrelation, and Optimal Head Diversity'
 ---
 # Multi-Head Attention as Ensemble Nadaraya-Watson Estimation: Variance Reduction, Decorrelation, and Optimal Head Diversity
 > 原文: [https://arxiv.org/abs/2605.20271](https://arxiv.org/abs/2605.20271)

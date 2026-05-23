@@ -1,11 +1,13 @@
 ---
-title: "Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision LLM Inference with WebGPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.20706
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20706
 next_step: skim
+priority: medium
+slack_ts: '1779508586.126799'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision
+  LLM Inference with WebGPU'
 ---
 # Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision LLM Inference with WebGPU
 > 原文: [https://arxiv.org/abs/2605.20706](https://arxiv.org/abs/2605.20706)

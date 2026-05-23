@@ -1,11 +1,13 @@
 ---
-title: "Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.20345
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20345
 next_step: skim
+priority: medium
+slack_ts: '1779508582.427719'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Corrected Integrated Laplace Approximation for Bayesian Inference in Latent
+  Gaussian Models
 ---
 # Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models
 > 原文: [https://arxiv.org/abs/2605.20345](https://arxiv.org/abs/2605.20345)

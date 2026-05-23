@@ -1,11 +1,12 @@
 ---
-title: "Not Yet: Humans Outperform LLMs in a Colonel Blotto Tournament"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.22095
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22095
 next_step: skim
+priority: low
+slack_ts: '1779508598.023859'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Not Yet: Humans Outperform LLMs in a Colonel Blotto Tournament'
 ---
 # Not Yet: Humans Outperform LLMs in a Colonel Blotto Tournament
 > 原文: [https://arxiv.org/abs/2605.22095](https://arxiv.org/abs/2605.22095)

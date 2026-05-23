@@ -1,11 +1,12 @@
 ---
-title: "Build real-time voice applications with Amazon SageMaker AI and vLLM"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/
 next_step: skim
+priority: high
+slack_ts: '1779508581.604499'
+source: AWS Blog
+status: unread
+title: Build real-time voice applications with Amazon SageMaker AI and vLLM
 ---
 # Build real-time voice applications with Amazon SageMaker AI and vLLM
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/](https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/)

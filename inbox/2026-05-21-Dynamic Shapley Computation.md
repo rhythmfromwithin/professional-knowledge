@@ -1,11 +1,12 @@
 ---
-title: "Dynamic Shapley Computation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.20620
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20620
 next_step: skim
+priority: low
+slack_ts: '1779508582.607139'
+source: cs.DB - Databases
+status: unread
+title: Dynamic Shapley Computation
 ---
 # Dynamic Shapley Computation
 > 原文: [https://arxiv.org/abs/2605.20620](https://arxiv.org/abs/2605.20620)

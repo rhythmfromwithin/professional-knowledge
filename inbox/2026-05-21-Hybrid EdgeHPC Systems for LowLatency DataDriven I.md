@@ -1,11 +1,12 @@
 ---
-title: "Hybrid Edge-HPC Systems for Low-Latency Data-Driven Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.20532
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20532
 next_step: skim
+priority: medium
+slack_ts: '1779508585.055029'
+source: cs.DC - Distributed Computing
+status: unread
+title: Hybrid Edge-HPC Systems for Low-Latency Data-Driven Inference
 ---
 # Hybrid Edge-HPC Systems for Low-Latency Data-Driven Inference
 > 原文: [https://arxiv.org/abs/2605.20532](https://arxiv.org/abs/2605.20532)

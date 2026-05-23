@@ -1,11 +1,12 @@
 ---
-title: "Optimizing Navigational Graph Queries"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2406.05417
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2406.05417
 next_step: skim
+priority: low
+slack_ts: '1779508587.745719'
+source: cs.DB - Databases
+status: unread
+title: Optimizing Navigational Graph Queries
 ---
 # Optimizing Navigational Graph Queries
 > 原文: [https://arxiv.org/abs/2406.05417](https://arxiv.org/abs/2406.05417)

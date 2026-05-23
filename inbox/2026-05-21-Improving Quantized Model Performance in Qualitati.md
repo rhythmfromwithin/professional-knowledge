@@ -1,11 +1,13 @@
 ---
-title: "Improving Quantized Model Performance in Qualitative Analysis with Multi-Pass Prompt Verification"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.20193
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20193
 next_step: skim
+priority: high
+slack_ts: '1779508585.241019'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Improving Quantized Model Performance in Qualitative Analysis with Multi-Pass
+  Prompt Verification
 ---
 # Improving Quantized Model Performance in Qualitative Analysis with Multi-Pass Prompt Verification
 > 原文: [https://arxiv.org/abs/2605.20193](https://arxiv.org/abs/2605.20193)

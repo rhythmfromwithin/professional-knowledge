@@ -1,11 +1,12 @@
 ---
-title: "Evaluating the Utility of Personal Health Records in Personalized Health AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.18937
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.18937
 next_step: skim
+priority: high
+slack_ts: '1779508583.121539'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Evaluating the Utility of Personal Health Records in Personalized Health AI
 ---
 # Evaluating the Utility of Personal Health Records in Personalized Health AI
 > 原文: [https://arxiv.org/abs/2605.18937](https://arxiv.org/abs/2605.18937)

@@ -1,11 +1,13 @@
 ---
-title: "Privacy-Preserving Distributed Optimization Under Time Constraints Using Secure Multi-Party Computation and Evolutionary Algorithms"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.20944
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20944
 next_step: skim
+priority: low
+slack_ts: '1779508588.502859'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Privacy-Preserving Distributed Optimization Under Time Constraints Using Secure
+  Multi-Party Computation and Evolutionary Algorithms
 ---
 # Privacy-Preserving Distributed Optimization Under Time Constraints Using Secure Multi-Party Computation and Evolutionary Algorithms
 > 原文: [https://arxiv.org/abs/2605.20944](https://arxiv.org/abs/2605.20944)

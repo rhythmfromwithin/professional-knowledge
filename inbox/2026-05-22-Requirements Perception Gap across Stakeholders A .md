@@ -1,11 +1,13 @@
 ---
-title: "Requirements Perception Gap across Stakeholders: A Comparative Survey of Aged Care Digital Health Software"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.21495
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21495
 next_step: skim
+priority: low
+slack_ts: '1779508599.073719'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Requirements Perception Gap across Stakeholders: A Comparative Survey of Aged
+  Care Digital Health Software'
 ---
 # Requirements Perception Gap across Stakeholders: A Comparative Survey of Aged Care Digital Health Software
 > 原文: [https://arxiv.org/abs/2605.21495](https://arxiv.org/abs/2605.21495)

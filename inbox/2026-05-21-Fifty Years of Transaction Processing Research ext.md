@@ -1,11 +1,12 @@
 ---
-title: "Fifty Years of Transaction Processing Research (extended)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.20466
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20466
 next_step: skim
+priority: low
+slack_ts: '1779508583.465929'
+source: cs.DB - Databases
+status: unread
+title: Fifty Years of Transaction Processing Research (extended)
 ---
 # Fifty Years of Transaction Processing Research (extended)
 > 原文: [https://arxiv.org/abs/2605.20466](https://arxiv.org/abs/2605.20466)

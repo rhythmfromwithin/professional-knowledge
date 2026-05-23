@@ -1,11 +1,12 @@
 ---
-title: "May 7, 2026PolicyFocus areas for The Anthropic Institute"
-source: "Anthropic"
-link: https://www.anthropic.com/research/anthropic-institute-agenda
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/anthropic-institute-agenda
 next_step: skim
+priority: high
+slack_ts: '1779508586.472379'
+source: Anthropic
+status: unread
+title: May 7, 2026PolicyFocus areas for The Anthropic Institute
 ---
 # May 7, 2026PolicyFocus areas for The Anthropic Institute
 > 原文: [https://www.anthropic.com/research/anthropic-institute-agenda](https://www.anthropic.com/research/anthropic-institute-agenda)

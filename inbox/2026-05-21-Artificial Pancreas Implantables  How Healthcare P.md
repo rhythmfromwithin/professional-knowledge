@@ -1,11 +1,13 @@
 ---
-title: "Artificial Pancreas Implantables -- How Healthcare Professionals May Deal With DIY Bio Cases"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.20208
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20208
 next_step: skim
+priority: low
+slack_ts: '1779508581.106829'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Artificial Pancreas Implantables -- How Healthcare Professionals May Deal With
+  DIY Bio Cases
 ---
 # Artificial Pancreas Implantables -- How Healthcare Professionals May Deal With DIY Bio Cases
 > 原文: [https://arxiv.org/abs/2605.20208](https://arxiv.org/abs/2605.20208)

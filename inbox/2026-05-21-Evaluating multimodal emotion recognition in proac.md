@@ -1,11 +1,13 @@
 ---
-title: "Evaluating multimodal emotion recognition in proactive conversational agents: A user study"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.20200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20200
 next_step: skim
+priority: low
+slack_ts: '1779508582.943299'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Evaluating multimodal emotion recognition in proactive conversational agents:
+  A user study'
 ---
 # Evaluating multimodal emotion recognition in proactive conversational agents: A user study
 > 原文: [https://arxiv.org/abs/2605.20200](https://arxiv.org/abs/2605.20200)

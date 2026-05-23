@@ -1,11 +1,13 @@
 ---
-title: "Augmented Analytics and Decision Quality: The Role of Trust among Non-Technical BI Users"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.20198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20198
 next_step: skim
+priority: low
+slack_ts: '1779508581.257699'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Augmented Analytics and Decision Quality: The Role of Trust among Non-Technical
+  BI Users'
 ---
 # Augmented Analytics and Decision Quality: The Role of Trust among Non-Technical BI Users
 > 原文: [https://arxiv.org/abs/2605.20198](https://arxiv.org/abs/2605.20198)

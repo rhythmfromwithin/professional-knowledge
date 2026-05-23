@@ -1,11 +1,12 @@
 ---
-title: "A simple model of co-emergence of grid and place fields"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.21356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21356
 next_step: skim
+priority: low
+slack_ts: '1779508578.930469'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A simple model of co-emergence of grid and place fields
 ---
 # A simple model of co-emergence of grid and place fields
 > 原文: [https://arxiv.org/abs/2605.21356](https://arxiv.org/abs/2605.21356)
