@@ -1,11 +1,12 @@
 ---
-title: "Terrestrial Soft Mobile Robots: A Review"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.20304
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20304
 next_step: skim
+priority: medium
+slack_ts: '1779596218.167869'
+source: cs.RO - Robotics
+status: unread
+title: 'Terrestrial Soft Mobile Robots: A Review'
 ---
 # Terrestrial Soft Mobile Robots: A Review
 > 原文: [https://arxiv.org/abs/2605.20304](https://arxiv.org/abs/2605.20304)

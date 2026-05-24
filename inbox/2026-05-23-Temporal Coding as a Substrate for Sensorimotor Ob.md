@@ -1,11 +1,13 @@
 ---
-title: "Temporal Coding as a Substrate for Sensorimotor Object Inference: A Spiking Reinterpretation of Thousand Brains Architecture"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.22206
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22206
 next_step: skim
+priority: low
+slack_ts: '1779596250.513039'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Temporal Coding as a Substrate for Sensorimotor Object Inference: A Spiking
+  Reinterpretation of Thousand Brains Architecture'
 ---
 # Temporal Coding as a Substrate for Sensorimotor Object Inference: A Spiking Reinterpretation of Thousand Brains Architecture
 > 原文: [https://arxiv.org/abs/2605.22206](https://arxiv.org/abs/2605.22206)

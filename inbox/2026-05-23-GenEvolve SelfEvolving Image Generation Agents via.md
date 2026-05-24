@@ -1,11 +1,13 @@
 ---
-title: "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.21605
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21605
 next_step: skim
+priority: medium
+slack_ts: '1779596242.553459'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual
+  Experience Distillation'
 ---
 # GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation
 > 原文: [https://arxiv.org/abs/2605.21605](https://arxiv.org/abs/2605.21605)

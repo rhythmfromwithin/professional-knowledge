@@ -1,11 +1,12 @@
 ---
-title: "Stimulus symmetries can confound representational similarity analyses"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.21324
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21324
 next_step: skim
+priority: low
+slack_ts: '1779596217.631289'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Stimulus symmetries can confound representational similarity analyses
 ---
 # Stimulus symmetries can confound representational similarity analyses
 > 原文: [https://arxiv.org/abs/2605.21324](https://arxiv.org/abs/2605.21324)

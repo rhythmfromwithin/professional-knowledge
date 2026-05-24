@@ -1,11 +1,13 @@
 ---
-title: "Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.21629
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21629
 next_step: skim
+priority: medium
+slack_ts: '1779596225.910219'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Faster Completion, Less Learning: Generative AI Reduced Study Time on Math
+  Problems and the Knowledge They Build'
 ---
 # Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 > 原文: [https://arxiv.org/abs/2605.21629](https://arxiv.org/abs/2605.21629)

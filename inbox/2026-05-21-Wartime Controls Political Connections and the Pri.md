@@ -1,11 +1,13 @@
 ---
-title: "Wartime Controls, Political Connections, and the Pricing of Zaibatsu Rents in Japan, 1930-1943"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.21009
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21009
 next_step: skim
+priority: low
+slack_ts: '1779596219.420129'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Wartime Controls, Political Connections, and the Pricing of Zaibatsu Rents
+  in Japan, 1930-1943
 ---
 # Wartime Controls, Political Connections, and the Pricing of Zaibatsu Rents in Japan, 1930-1943
 > 原文: [https://arxiv.org/abs/2605.21009](https://arxiv.org/abs/2605.21009)

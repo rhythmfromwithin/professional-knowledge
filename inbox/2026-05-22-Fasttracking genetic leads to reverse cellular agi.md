@@ -1,11 +1,12 @@
 ---
-title: "Fast-tracking genetic leads to reverse cellular aging"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/
 next_step: skim
+priority: high
+slack_ts: '1779596226.101439'
+source: DeepMind Blog
+status: unread
+title: Fast-tracking genetic leads to reverse cellular aging
 ---
 # Fast-tracking genetic leads to reverse cellular aging
 > 原文: [https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/)

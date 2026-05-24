@@ -1,11 +1,13 @@
 ---
-title: "DynaFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.21603
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21603
 next_step: skim
+priority: medium
+slack_ts: '1779596225.271879'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DynaFlow: Transparent and Flexible Intra-Device Parallelism via Programmable
+  Operator Scheduling'
 ---
 # DynaFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling
 > 原文: [https://arxiv.org/abs/2605.21603](https://arxiv.org/abs/2605.21603)

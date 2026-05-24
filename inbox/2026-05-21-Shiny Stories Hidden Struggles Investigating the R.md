@@ -1,11 +1,13 @@
 ---
-title: "Shiny Stories, Hidden Struggles: Investigating the Representation of Disability Through the Lens of LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.20191
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20191
 next_step: skim
+priority: high
+slack_ts: '1779596216.917269'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Shiny Stories, Hidden Struggles: Investigating the Representation of Disability
+  Through the Lens of LLMs'
 ---
 # Shiny Stories, Hidden Struggles: Investigating the Representation of Disability Through the Lens of LLMs
 > 原文: [https://arxiv.org/abs/2605.20191](https://arxiv.org/abs/2605.20191)

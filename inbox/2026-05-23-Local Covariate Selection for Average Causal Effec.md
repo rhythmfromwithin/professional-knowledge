@@ -1,11 +1,13 @@
 ---
-title: "Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.21548
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21548
 next_step: skim
+priority: medium
+slack_ts: '1779596245.422009'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Local Covariate Selection for Average Causal Effect Estimation without Pretreatment
+  and Causal Sufficiency Assumptions
 ---
 # Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions
 > 原文: [https://arxiv.org/abs/2605.21548](https://arxiv.org/abs/2605.21548)

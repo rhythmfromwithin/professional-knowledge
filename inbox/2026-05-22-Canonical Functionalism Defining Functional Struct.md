@@ -1,11 +1,13 @@
 ---
-title: "Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.21506
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21506
 next_step: skim
+priority: low
+slack_ts: '1779596224.046859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Canonical Functionalism: Defining Functional Structure without Observer-Relative
+  Semantic Maps'
 ---
 # Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps
 > 原文: [https://arxiv.org/abs/2605.21506](https://arxiv.org/abs/2605.21506)

@@ -1,11 +1,13 @@
 ---
-title: "The Economics of Model Collapse: Equilibrium, Welfare, and Optimal Provenance Subsidies in Synthetic Data Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.20279
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20279
 next_step: skim
+priority: low
+slack_ts: '1779596218.437839'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Economics of Model Collapse: Equilibrium, Welfare, and Optimal Provenance
+  Subsidies in Synthetic Data Markets'
 ---
 # The Economics of Model Collapse: Equilibrium, Welfare, and Optimal Provenance Subsidies in Synthetic Data Markets
 > 原文: [https://arxiv.org/abs/2605.20279](https://arxiv.org/abs/2605.20279)

@@ -1,11 +1,13 @@
 ---
-title: "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/
 next_step: skim
+priority: high
+slack_ts: '1779596227.965529'
+source: AWS Blog
+status: unread
+title: Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore
+  Runtime
 ---
 # Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime
 > 原文: [https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/](https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/)

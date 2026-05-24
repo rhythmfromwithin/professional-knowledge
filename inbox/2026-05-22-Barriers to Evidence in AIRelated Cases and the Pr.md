@@ -1,11 +1,12 @@
 ---
-title: "Barriers to Evidence in AI-Related Cases and the Privatization of Proof"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.21816
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21816
 next_step: skim
+priority: medium
+slack_ts: '1779596223.273009'
+source: cs.CY - Computers and Society
+status: unread
+title: Barriers to Evidence in AI-Related Cases and the Privatization of Proof
 ---
 # Barriers to Evidence in AI-Related Cases and the Privatization of Proof
 > 原文: [https://arxiv.org/abs/2605.21816](https://arxiv.org/abs/2605.21816)

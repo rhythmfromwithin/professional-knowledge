@@ -1,11 +1,13 @@
 ---
-title: "Adaptive RBF-KAN: A Comparative Evaluation of Dynamic Shape Parameters in Kolmogorov-Arnold Networks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.21534
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21534
 next_step: skim
+priority: medium
+slack_ts: '1779596221.062169'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Adaptive RBF-KAN: A Comparative Evaluation of Dynamic Shape Parameters in
+  Kolmogorov-Arnold Networks'
 ---
 # Adaptive RBF-KAN: A Comparative Evaluation of Dynamic Shape Parameters in Kolmogorov-Arnold Networks
 > 原文: [https://arxiv.org/abs/2605.21534](https://arxiv.org/abs/2605.21534)

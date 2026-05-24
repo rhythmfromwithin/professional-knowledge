@@ -1,11 +1,13 @@
 ---
-title: "Position: The Pre/Post-Training Boundary Should Govern IP in Industry-Academia ML Collaborations"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.22632
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22632
 next_step: skim
+priority: low
+slack_ts: '1779596247.446969'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Position: The Pre/Post-Training Boundary Should Govern IP in Industry-Academia
+  ML Collaborations'
 ---
 # Position: The Pre/Post-Training Boundary Should Govern IP in Industry-Academia ML Collaborations
 > 原文: [https://arxiv.org/abs/2605.22632](https://arxiv.org/abs/2605.22632)

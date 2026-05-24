@@ -1,11 +1,12 @@
 ---
-title: "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.20423
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20423
 next_step: skim
+priority: high
+slack_ts: '1779596231.411859'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind'
 ---
 # OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind
 > 原文: [https://arxiv.org/abs/2605.20423](https://arxiv.org/abs/2605.20423)

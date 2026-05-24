@@ -1,11 +1,13 @@
 ---
-title: "Machine Learning as Performative Materialist Practice: Thirteen Theses on the Epistemology, Methodology, and Politics of Applied ML"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.21785
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21785
 next_step: skim
+priority: medium
+slack_ts: '1779596229.905249'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Machine Learning as Performative Materialist Practice: Thirteen Theses on
+  the Epistemology, Methodology, and Politics of Applied ML'
 ---
 # Machine Learning as Performative Materialist Practice: Thirteen Theses on the Epistemology, Methodology, and Politics of Applied ML
 > 原文: [https://arxiv.org/abs/2605.21785](https://arxiv.org/abs/2605.21785)

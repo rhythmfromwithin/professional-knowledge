@@ -1,11 +1,13 @@
 ---
-title: "mimalloc: A new, high-performance, scalable memory allocator for the modern era"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/
 next_step: skim
+priority: high
+slack_ts: '1779596219.802359'
+source: Microsoft Research
+status: unread
+title: mimalloc: A new, high-performance, scalable memory allocator for the modern
+  era
 ---
 # mimalloc: A new, high-performance, scalable memory allocator for the modern era
 > 原文: [https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/)

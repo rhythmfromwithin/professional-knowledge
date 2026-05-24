@@ -1,11 +1,14 @@
 ---
-title: "Programmable Participatory Governance -- A Formal Framework for Transparent, Accountable, and Citizen-Responsive Democratic Systems: From Deliberative Theory to Decentralised Architecture"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.20261
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20261
 next_step: skim
+priority: medium
+slack_ts: '1779596216.376259'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Programmable Participatory Governance -- A Formal Framework for Transparent,
+  Accountable, and Citizen-Responsive Democratic Systems: From Deliberative Theory
+  to Decentralised Architecture'
 ---
 # Programmable Participatory Governance -- A Formal Framework for Transparent, Accountable, and Citizen-Responsive Democratic Systems: From Deliberative Theory to Decentralised Architecture
 > 原文: [https://arxiv.org/abs/2605.20261](https://arxiv.org/abs/2605.20261)

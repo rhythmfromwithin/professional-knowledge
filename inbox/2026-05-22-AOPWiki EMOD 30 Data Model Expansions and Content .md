@@ -1,11 +1,14 @@
 ---
-title: "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.21645
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21645
 next_step: skim
+priority: low
+slack_ts: '1779596220.577539'
+source: cs.DB - Databases
+status: unread
+title: 'AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework
+  for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies
+  (NAMs)'
 ---
 # AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)
 > 原文: [https://arxiv.org/abs/2605.21645](https://arxiv.org/abs/2605.21645)

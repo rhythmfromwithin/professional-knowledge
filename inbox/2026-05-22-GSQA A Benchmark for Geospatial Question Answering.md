@@ -1,11 +1,12 @@
 ---
-title: "GS-QA: A Benchmark for Geospatial Question Answering"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.22811
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22811
 next_step: skim
+priority: low
+slack_ts: '1779596226.850759'
+source: cs.DB - Databases
+status: unread
+title: 'GS-QA: A Benchmark for Geospatial Question Answering'
 ---
 # GS-QA: A Benchmark for Geospatial Question Answering
 > 原文: [https://arxiv.org/abs/2605.22811](https://arxiv.org/abs/2605.22811)

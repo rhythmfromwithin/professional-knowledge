@@ -1,11 +1,12 @@
 ---
-title: "Articulate but Wrong: Self-Review Failures in LLM-Based Code Modernization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.21537
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21537
 next_step: skim
+priority: low
+slack_ts: '1779596222.821439'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Articulate but Wrong: Self-Review Failures in LLM-Based Code Modernization'
 ---
 # Articulate but Wrong: Self-Review Failures in LLM-Based Code Modernization
 > 原文: [https://arxiv.org/abs/2605.21537](https://arxiv.org/abs/2605.21537)

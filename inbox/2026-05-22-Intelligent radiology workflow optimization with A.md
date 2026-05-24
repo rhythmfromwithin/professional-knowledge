@@ -1,11 +1,12 @@
 ---
-title: "Intelligent radiology workflow optimization with AI agents"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/
 next_step: skim
+priority: high
+slack_ts: '1779596228.215359'
+source: AWS Blog
+status: unread
+title: Intelligent radiology workflow optimization with AI agents
 ---
 # Intelligent radiology workflow optimization with AI agents
 > 原文: [https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/](https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/)
