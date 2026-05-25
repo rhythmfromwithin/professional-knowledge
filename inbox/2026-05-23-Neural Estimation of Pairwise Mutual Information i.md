@@ -1,11 +1,13 @@
 ---
-title: "Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.20187
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20187
 next_step: skim
+priority: high
+slack_ts: '1779683951.705459'
+source: cs.LG - Machine Learning
+status: unread
+title: Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence
+  Models
 ---
 # Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models
 > 原文: [https://arxiv.org/abs/2605.20187](https://arxiv.org/abs/2605.20187)

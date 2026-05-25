@@ -1,11 +1,12 @@
 ---
-title: "Residual Skill Optimization for Text-to-SQL Ensembles"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.21792
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21792
 next_step: skim
+priority: low
+slack_ts: '1779683946.999899'
+source: cs.DB - Databases
+status: unread
+title: Residual Skill Optimization for Text-to-SQL Ensembles
 ---
 # Residual Skill Optimization for Text-to-SQL Ensembles
 > 原文: [https://arxiv.org/abs/2605.21792](https://arxiv.org/abs/2605.21792)

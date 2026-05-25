@@ -1,11 +1,13 @@
 ---
-title: "Efficient coding under constraint drives neural systems towards criticality and sloppiness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.22598
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22598
 next_step: skim
+priority: low
+slack_ts: '1779683949.934919'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Efficient coding under constraint drives neural systems towards criticality
+  and sloppiness
 ---
 # Efficient coding under constraint drives neural systems towards criticality and sloppiness
 > 原文: [https://arxiv.org/abs/2605.22598](https://arxiv.org/abs/2605.22598)

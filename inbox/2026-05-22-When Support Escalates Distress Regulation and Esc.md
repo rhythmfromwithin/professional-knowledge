@@ -1,11 +1,13 @@
 ---
-title: "When Support Escalates Distress: Regulation and Escalation in LLM Responses to Venting and Advice-Seeking"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.21569
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21569
 next_step: skim
+priority: low
+slack_ts: '1779683948.221529'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'When Support Escalates Distress: Regulation and Escalation in LLM Responses
+  to Venting and Advice-Seeking'
 ---
 # When Support Escalates Distress: Regulation and Escalation in LLM Responses to Venting and Advice-Seeking
 > 原文: [https://arxiv.org/abs/2605.21569](https://arxiv.org/abs/2605.21569)

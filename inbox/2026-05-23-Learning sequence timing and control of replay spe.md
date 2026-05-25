@@ -1,11 +1,13 @@
 ---
-title: "Learning sequence timing and control of replay speed in networks of spiking neurons"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.22523
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22523
 next_step: skim
+priority: low
+slack_ts: '1779683951.085239'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Learning sequence timing and control of replay speed in networks of spiking
+  neurons
 ---
 # Learning sequence timing and control of replay speed in networks of spiking neurons
 > 原文: [https://arxiv.org/abs/2605.22523](https://arxiv.org/abs/2605.22523)

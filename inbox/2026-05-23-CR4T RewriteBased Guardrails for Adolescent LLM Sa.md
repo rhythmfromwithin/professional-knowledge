@@ -1,11 +1,12 @@
 ---
-title: "CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.21609
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21609
 next_step: skim
+priority: high
+slack_ts: '1779683949.422759'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety'
 ---
 # CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety
 > 原文: [https://arxiv.org/abs/2605.21609](https://arxiv.org/abs/2605.21609)

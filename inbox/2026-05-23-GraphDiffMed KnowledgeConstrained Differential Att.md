@@ -1,11 +1,13 @@
 ---
-title: "GraphDiffMed: Knowledge-Constrained Differential Attention with Pharmacological Graph Priors for Medication Recommendation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.20188
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20188
 next_step: skim
+priority: high
+slack_ts: '1779683950.569809'
+source: cs.LG - Machine Learning
+status: unread
+title: 'GraphDiffMed: Knowledge-Constrained Differential Attention with Pharmacological
+  Graph Priors for Medication Recommendation'
 ---
 # GraphDiffMed: Knowledge-Constrained Differential Attention with Pharmacological Graph Priors for Medication Recommendation
 > 原文: [https://arxiv.org/abs/2605.20188](https://arxiv.org/abs/2605.20188)

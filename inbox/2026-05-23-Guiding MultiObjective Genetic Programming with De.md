@@ -1,11 +1,13 @@
 ---
-title: "Guiding Multi-Objective Genetic Programming with Description Length Improves Symbolic Regression Solutions"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.22374
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22374
 next_step: skim
+priority: low
+slack_ts: '1779683950.662399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Guiding Multi-Objective Genetic Programming with Description Length Improves
+  Symbolic Regression Solutions
 ---
 # Guiding Multi-Objective Genetic Programming with Description Length Improves Symbolic Regression Solutions
 > 原文: [https://arxiv.org/abs/2605.22374](https://arxiv.org/abs/2605.22374)

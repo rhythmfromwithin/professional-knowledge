@@ -1,11 +1,12 @@
 ---
-title: "Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.21573
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21573
 next_step: skim
+priority: medium
+slack_ts: '1779683951.176239'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models'
 ---
 # Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models
 > 原文: [https://arxiv.org/abs/2605.21573](https://arxiv.org/abs/2605.21573)

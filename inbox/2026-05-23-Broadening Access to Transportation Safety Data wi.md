@@ -1,11 +1,13 @@
 ---
-title: "Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded Framework for Spatial Natural Language Queries"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.21712
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21712
 next_step: skim
+priority: high
+slack_ts: '1779683949.334099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded
+  Framework for Spatial Natural Language Queries'
 ---
 # Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded Framework for Spatial Natural Language Queries
 > 原文: [https://arxiv.org/abs/2605.21712](https://arxiv.org/abs/2605.21712)

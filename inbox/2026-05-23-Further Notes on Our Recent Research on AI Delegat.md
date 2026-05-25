@@ -1,11 +1,12 @@
 ---
-title: "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/
 next_step: skim
+priority: high
+slack_ts: '1779683950.377239'
+source: Microsoft Research
+status: unread
+title: Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability
 ---
 # Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability
 > 原文: [https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/)

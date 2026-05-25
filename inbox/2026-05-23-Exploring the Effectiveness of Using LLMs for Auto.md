@@ -1,11 +1,13 @@
 ---
-title: "Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.21614
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21614
 next_step: skim
+priority: low
+slack_ts: '1779683950.021759'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Exploring the Effectiveness of Using LLMs for Automated Assessment of Student
+  Self Explanations in Programming Education
 ---
 # Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
 > 原文: [https://arxiv.org/abs/2605.21614](https://arxiv.org/abs/2605.21614)

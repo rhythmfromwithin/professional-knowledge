@@ -1,11 +1,12 @@
 ---
-title: "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.20190
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20190
 next_step: skim
+priority: high
+slack_ts: '1779683947.936929'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration
 ---
 # Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration
 > 原文: [https://arxiv.org/abs/2605.20190](https://arxiv.org/abs/2605.20190)

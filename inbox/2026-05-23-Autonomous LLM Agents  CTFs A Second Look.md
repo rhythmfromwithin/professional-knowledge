@@ -1,11 +1,12 @@
 ---
-title: "Autonomous LLM Agents & CTFs: A Second Look"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.21497
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21497
 next_step: skim
+priority: low
+slack_ts: '1779683949.154199'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Autonomous LLM Agents & CTFs: A Second Look'
 ---
 # Autonomous LLM Agents & CTFs: A Second Look
 > 原文: [https://arxiv.org/abs/2605.21497](https://arxiv.org/abs/2605.21497)

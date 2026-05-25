@@ -1,11 +1,12 @@
 ---
-title: "LiveR: Fine-Grained Elasticity via Live Reconfiguration for Model Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.22014
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22014
 next_step: skim
+priority: medium
+slack_ts: '1779683951.275639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LiveR: Fine-Grained Elasticity via Live Reconfiguration for Model Training'
 ---
 # LiveR: Fine-Grained Elasticity via Live Reconfiguration for Model Training
 > 原文: [https://arxiv.org/abs/2605.22014](https://arxiv.org/abs/2605.22014)

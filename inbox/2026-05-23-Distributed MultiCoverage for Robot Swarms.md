@@ -1,11 +1,12 @@
 ---
-title: "Distributed Multi-Coverage for Robot Swarms"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.21686
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21686
 next_step: skim
+priority: medium
+slack_ts: '1779683949.848819'
+source: cs.RO - Robotics
+status: unread
+title: Distributed Multi-Coverage for Robot Swarms
 ---
 # Distributed Multi-Coverage for Robot Swarms
 > 原文: [https://arxiv.org/abs/2605.21686](https://arxiv.org/abs/2605.21686)

@@ -1,11 +1,13 @@
 ---
-title: "Secure and Parallel Determinant Computation for Large-Scale Matrices in Edge Environments"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.22039
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22039
 next_step: skim
+priority: medium
+slack_ts: '1779683947.307929'
+source: cs.DC - Distributed Computing
+status: unread
+title: Secure and Parallel Determinant Computation for Large-Scale Matrices in Edge
+  Environments
 ---
 # Secure and Parallel Determinant Computation for Large-Scale Matrices in Edge Environments
 > 原文: [https://arxiv.org/abs/2605.22039](https://arxiv.org/abs/2605.22039)

@@ -1,11 +1,13 @@
 ---
-title: "Closed-Loop Sim-to-Real Reinforcement Learning for Deformable Microfiber Shape Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.21688
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21688
 next_step: skim
+priority: medium
+slack_ts: '1779683949.675509'
+source: cs.RO - Robotics
+status: unread
+title: Closed-Loop Sim-to-Real Reinforcement Learning for Deformable Microfiber Shape
+  Control
 ---
 # Closed-Loop Sim-to-Real Reinforcement Learning for Deformable Microfiber Shape Control
 > 原文: [https://arxiv.org/abs/2605.21688](https://arxiv.org/abs/2605.21688)

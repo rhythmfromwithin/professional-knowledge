@@ -1,11 +1,12 @@
 ---
-title: "Isomorphic Dynamic Programs"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.22076
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22076
 next_step: skim
+priority: low
+slack_ts: '1779683950.996969'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Isomorphic Dynamic Programs
 ---
 # Isomorphic Dynamic Programs
 > 原文: [https://arxiv.org/abs/2605.22076](https://arxiv.org/abs/2605.22076)
