@@ -1,11 +1,12 @@
 ---
-title: "How Virgin Atlantic ships faster with Codex"
-source: "OpenAI Blog"
-link: https://openai.com/index/virgin-atlantic
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/virgin-atlantic
 next_step: skim
+priority: high
+slack_ts: '1779768838.406229'
+source: OpenAI Blog
+status: unread
+title: How Virgin Atlantic ships faster with Codex
 ---
 # How Virgin Atlantic ships faster with Codex
 > 原文: [https://openai.com/index/virgin-atlantic](https://openai.com/index/virgin-atlantic)

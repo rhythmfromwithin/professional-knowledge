@@ -1,11 +1,12 @@
 ---
-title: "Active Sensing Subserves Task-Level Control"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.22988
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22988
 next_step: skim
+priority: low
+slack_ts: '1779768840.809389'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Active Sensing Subserves Task-Level Control
 ---
 # Active Sensing Subserves Task-Level Control
 > 原文: [https://arxiv.org/abs/2605.22988](https://arxiv.org/abs/2605.22988)

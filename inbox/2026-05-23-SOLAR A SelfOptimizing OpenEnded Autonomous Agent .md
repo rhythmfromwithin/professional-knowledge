@@ -1,11 +1,13 @@
 ---
-title: "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.20189
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20189
 next_step: skim
+priority: high
+slack_ts: '1779768834.901029'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning
+  and Continual Adaptation'
 ---
 # SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation
 > 原文: [https://arxiv.org/abs/2605.20189](https://arxiv.org/abs/2605.20189)

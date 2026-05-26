@@ -1,11 +1,13 @@
 ---
-title: "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.21572
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21572
 next_step: skim
+priority: medium
+slack_ts: '1779768834.146339'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable,
+  and Articulated Objects'
 ---
 # PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
 > 原文: [https://arxiv.org/abs/2605.21572](https://arxiv.org/abs/2605.21572)

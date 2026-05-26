@@ -1,11 +1,12 @@
 ---
-title: "Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.22527
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22527
 next_step: skim
+priority: low
+slack_ts: '1779768834.311909'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection
 ---
 # Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection
 > 原文: [https://arxiv.org/abs/2605.22527](https://arxiv.org/abs/2605.22527)

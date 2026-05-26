@@ -1,11 +1,12 @@
 ---
-title: "Preisach Attention: A Hysteretic Model of Sequential Memory"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.23603
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23603
 next_step: skim
+priority: low
+slack_ts: '1779768846.025189'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Preisach Attention: A Hysteretic Model of Sequential Memory'
 ---
 # Preisach Attention: A Hysteretic Model of Sequential Memory
 > 原文: [https://arxiv.org/abs/2605.23603](https://arxiv.org/abs/2605.23603)

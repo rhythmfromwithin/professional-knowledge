@@ -1,11 +1,12 @@
 ---
-title: "Scalable On-Policy Reinforcement Learning via Adaptive Batch Scaling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.21557
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21557
 next_step: skim
+priority: medium
+slack_ts: '1779768835.039599'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Scalable On-Policy Reinforcement Learning via Adaptive Batch Scaling
 ---
 # Scalable On-Policy Reinforcement Learning via Adaptive Batch Scaling
 > 原文: [https://arxiv.org/abs/2605.21557](https://arxiv.org/abs/2605.21557)

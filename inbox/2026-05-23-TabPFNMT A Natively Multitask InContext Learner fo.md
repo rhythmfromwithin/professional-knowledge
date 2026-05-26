@@ -1,11 +1,12 @@
 ---
-title: "TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.20234
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.20234
 next_step: skim
+priority: high
+slack_ts: '1779768835.713879'
+source: cs.LG - Machine Learning
+status: unread
+title: 'TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data'
 ---
 # TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data
 > 原文: [https://arxiv.org/abs/2605.20234](https://arxiv.org/abs/2605.20234)

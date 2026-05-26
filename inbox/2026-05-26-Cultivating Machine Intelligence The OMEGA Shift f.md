@@ -1,0 +1,14 @@
+---
+title: "Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2605.25062
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies
+> 原文: [https://arxiv.org/abs/2605.25062](https://arxiv.org/abs/2605.25062)
+
+arXiv:2605.25062v1 Announce Type: new
+Abstract: The dominant artificial intelligence paradigm trains neural architectures via gradient descent against proxy objectives and reinforcement learning from human feedback. While remarkably capable, this top-down optimization inherently generates structural failure modes, including hallucination, sycophancy, reward hacking, and alignment fragility, which represent paradigmatic limitations rather than mere engineering defects. In response, we introduce RECLAIM (Recursive, Ecological, Cognitive, Lifelike, Adaptive, Intelligent Machine), a theoretical framework for cultivating intelligence through computational ecology rather than engineering it through strict optimization. The model is supported by four interlocking theoretical pillars. General Darwinism replaces gradients with blind variation and selective retention, while non-agentic emergence substitutes evaluative rewards with environmental physics to structurally prevent specification gaming against human intent. Concurrently, the Polya-Hebbian bridge applies Polya urn dynamics to Hebbian reinforcement for path-dependent specialization, and the free energy principle is integrated as environmental thermodynamics rather than as an agent objective. The architecture situates autopoietic units, bounded by Markov blankets and competing for finite computational energy, within a data ecology shaped by cognitive food chains and Red Queen arms races. This framework suggests the spontaneous emergence of dual-process cognition, sensory specialization, analogical reasoning, and intrinsic motivation as natural consequences of evolution under resource constraints. We conceptualize this paradigm transition as the OMEGA shift, representing a move from optimization and maximization to emergence through generative autopoiesis.

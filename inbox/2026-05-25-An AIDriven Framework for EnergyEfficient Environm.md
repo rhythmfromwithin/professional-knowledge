@@ -1,11 +1,13 @@
 ---
-title: "An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.22824
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22824
 next_step: skim
+priority: medium
+slack_ts: '1779768842.099449'
+source: cs.DC - Distributed Computing
+status: unread
+title: An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart
+  Cities Using Edge Intelligence
 ---
 # An AI-Driven Framework for Energy-Efficient Environmental Monitoring in Smart Cities Using Edge Intelligence
 > 原文: [https://arxiv.org/abs/2605.22824](https://arxiv.org/abs/2605.22824)

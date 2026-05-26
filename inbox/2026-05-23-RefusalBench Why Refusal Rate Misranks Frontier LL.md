@@ -1,11 +1,13 @@
 ---
-title: "RefusalBench: Why Refusal Rate Misranks Frontier LLMs on Biological Research Prompts"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.21545
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21545
 next_step: skim
+priority: low
+slack_ts: '1779768834.771389'
+source: cs.SE - Software Engineering
+status: unread
+title: 'RefusalBench: Why Refusal Rate Misranks Frontier LLMs on Biological Research
+  Prompts'
 ---
 # RefusalBench: Why Refusal Rate Misranks Frontier LLMs on Biological Research Prompts
 > 原文: [https://arxiv.org/abs/2605.21545](https://arxiv.org/abs/2605.21545)

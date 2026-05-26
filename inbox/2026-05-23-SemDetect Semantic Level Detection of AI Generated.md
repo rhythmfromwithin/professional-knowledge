@@ -1,11 +1,12 @@
 ---
-title: "Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.21713
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21713
 next_step: skim
+priority: high
+slack_ts: '1779768835.291399'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews'
 ---
 # Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews
 > 原文: [https://arxiv.org/abs/2605.21713](https://arxiv.org/abs/2605.21713)

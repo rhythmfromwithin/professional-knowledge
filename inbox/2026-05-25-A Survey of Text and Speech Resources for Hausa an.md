@@ -1,11 +1,13 @@
 ---
-title: "A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.22828
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22828
 next_step: skim
+priority: high
+slack_ts: '1779768840.433869'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'A Survey of Text and Speech Resources for Hausa and Fongbe: Availability,
+  Quality, and Gaps for NLP Development'
 ---
 # A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development
 > 原文: [https://arxiv.org/abs/2605.22828](https://arxiv.org/abs/2605.22828)

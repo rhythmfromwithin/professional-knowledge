@@ -1,11 +1,13 @@
 ---
-title: "De-risking renewable energy investments: Assessing contract design and project finance using operational wind park data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.23400
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23400
 next_step: skim
+priority: low
+slack_ts: '1779768843.085579'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'De-risking renewable energy investments: Assessing contract design and project
+  finance using operational wind park data'
 ---
 # De-risking renewable energy investments: Assessing contract design and project finance using operational wind park data
 > 原文: [https://arxiv.org/abs/2605.23400](https://arxiv.org/abs/2605.23400)

@@ -1,11 +1,13 @@
 ---
-title: "Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.21613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.21613
 next_step: skim
+priority: low
+slack_ts: '1779768835.426829'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Simulating Learners' Task-Selection Strategies and System Constraints in Mastery
+  Learning
 ---
 # Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
 > 原文: [https://arxiv.org/abs/2605.21613](https://arxiv.org/abs/2605.21613)
