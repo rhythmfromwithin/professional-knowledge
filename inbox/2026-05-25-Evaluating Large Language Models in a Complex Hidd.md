@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Large Language Models in a Complex Hidden Role Game"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.22826
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22826
 next_step: skim
+priority: high
+slack_ts: '1779856020.630139'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Evaluating Large Language Models in a Complex Hidden Role Game
 ---
 # Evaluating Large Language Models in a Complex Hidden Role Game
 > 原文: [https://arxiv.org/abs/2605.22826](https://arxiv.org/abs/2605.22826)

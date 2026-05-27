@@ -1,11 +1,13 @@
 ---
-title: "Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.22834
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22834
 next_step: skim
+priority: high
+slack_ts: '1779856024.857329'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic
+  Strategy with Contextual Window Expansion'
 ---
 # Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion
 > 原文: [https://arxiv.org/abs/2605.22834](https://arxiv.org/abs/2605.22834)

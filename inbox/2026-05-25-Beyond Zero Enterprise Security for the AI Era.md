@@ -1,11 +1,12 @@
 ---
-title: "Beyond Zero: Enterprise Security for the AI Era"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.22985
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22985
 next_step: skim
+priority: low
+slack_ts: '1779856019.443869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Beyond Zero: Enterprise Security for the AI Era'
 ---
 # Beyond Zero: Enterprise Security for the AI Era
 > 原文: [https://arxiv.org/abs/2605.22985](https://arxiv.org/abs/2605.22985)

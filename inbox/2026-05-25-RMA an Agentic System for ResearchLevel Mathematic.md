@@ -1,11 +1,12 @@
 ---
-title: "RMA: an Agentic System for Research-Level Mathematical Problems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.22875
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22875
 next_step: skim
+priority: high
+slack_ts: '1779856024.996819'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'RMA: an Agentic System for Research-Level Mathematical Problems'
 ---
 # RMA: an Agentic System for Research-Level Mathematical Problems
 > 原文: [https://arxiv.org/abs/2605.22875](https://arxiv.org/abs/2605.22875)

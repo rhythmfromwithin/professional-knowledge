@@ -1,11 +1,13 @@
 ---
-title: "Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.23012
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23012
 next_step: skim
+priority: low
+slack_ts: '1779856022.362659'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Integrating Cognitive Load and Embodied Cognition Theories Through Representations
+  as Multi-Scale Attractors
 ---
 # Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors
 > 原文: [https://arxiv.org/abs/2605.23012](https://arxiv.org/abs/2605.23012)

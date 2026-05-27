@@ -1,11 +1,12 @@
 ---
-title: "Reading Calibrated Uncertainty from Language Model Trajectories"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.22864
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22864
 next_step: skim
+priority: high
+slack_ts: '1779856025.241919'
+source: cs.LG - Machine Learning
+status: unread
+title: Reading Calibrated Uncertainty from Language Model Trajectories
 ---
 # Reading Calibrated Uncertainty from Language Model Trajectories
 > 原文: [https://arxiv.org/abs/2605.22864](https://arxiv.org/abs/2605.22864)

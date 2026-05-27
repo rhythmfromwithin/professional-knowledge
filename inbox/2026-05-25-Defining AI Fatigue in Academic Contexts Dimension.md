@@ -1,11 +1,13 @@
 ---
-title: "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.23123
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23123
 next_step: skim
+priority: medium
+slack_ts: '1779856020.372189'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based
+  Model Using Grounded Theory'
 ---
 # Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
 > 原文: [https://arxiv.org/abs/2605.23123](https://arxiv.org/abs/2605.23123)

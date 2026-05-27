@@ -1,11 +1,13 @@
 ---
-title: "KPI2KVI: A Multi Agent Workflow for Calculating Key Value Indicators from Service Descriptions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.22825
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22825
 next_step: skim
+priority: medium
+slack_ts: '1779856023.040969'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'KPI2KVI: A Multi Agent Workflow for Calculating Key Value Indicators from
+  Service Descriptions'
 ---
 # KPI2KVI: A Multi Agent Workflow for Calculating Key Value Indicators from Service Descriptions
 > 原文: [https://arxiv.org/abs/2605.22825](https://arxiv.org/abs/2605.22825)

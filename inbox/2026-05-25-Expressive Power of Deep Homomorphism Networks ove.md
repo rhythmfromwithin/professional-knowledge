@@ -1,11 +1,12 @@
 ---
-title: "Expressive Power of Deep Homomorphism Networks over Relational Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.22852
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22852
 next_step: skim
+priority: low
+slack_ts: '1779856020.768899'
+source: cs.DB - Databases
+status: unread
+title: Expressive Power of Deep Homomorphism Networks over Relational Databases
 ---
 # Expressive Power of Deep Homomorphism Networks over Relational Databases
 > 原文: [https://arxiv.org/abs/2605.22852](https://arxiv.org/abs/2605.22852)

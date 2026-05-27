@@ -1,11 +1,13 @@
 ---
-title: "The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.22842
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22842
 next_step: skim
+priority: low
+slack_ts: '1779856026.390429'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in
+  Agentic AI Systems'
 ---
 # The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems
 > 原文: [https://arxiv.org/abs/2605.22842](https://arxiv.org/abs/2605.22842)

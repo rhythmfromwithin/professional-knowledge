@@ -1,11 +1,12 @@
 ---
-title: "StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.23048
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23048
 next_step: skim
+priority: low
+slack_ts: '1779856026.149599'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing'
 ---
 # StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
 > 原文: [https://arxiv.org/abs/2605.23048](https://arxiv.org/abs/2605.23048)

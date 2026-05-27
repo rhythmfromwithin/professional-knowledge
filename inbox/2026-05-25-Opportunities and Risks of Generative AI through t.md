@@ -1,11 +1,12 @@
 ---
-title: "Opportunities and Risks of Generative AI through the Health Information Journey"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.23026
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23026
 next_step: skim
+priority: medium
+slack_ts: '1779856024.717719'
+source: cs.CY - Computers and Society
+status: unread
+title: Opportunities and Risks of Generative AI through the Health Information Journey
 ---
 # Opportunities and Risks of Generative AI through the Health Information Journey
 > 原文: [https://arxiv.org/abs/2605.23026](https://arxiv.org/abs/2605.23026)

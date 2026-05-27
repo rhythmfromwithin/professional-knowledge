@@ -1,11 +1,12 @@
 ---
-title: "On the Reliability of Code Comprehension Proxies"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.23008
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23008
 next_step: skim
+priority: low
+slack_ts: '1779856024.449049'
+source: cs.SE - Software Engineering
+status: unread
+title: On the Reliability of Code Comprehension Proxies
 ---
 # On the Reliability of Code Comprehension Proxies
 > 原文: [https://arxiv.org/abs/2605.23008](https://arxiv.org/abs/2605.23008)

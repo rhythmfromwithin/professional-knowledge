@@ -1,11 +1,13 @@
 ---
-title: "Remind Me To Check The Stove Before I Leave The House: Authoring Personalized Context-Aware Smart Home Reminders Using Everyday Language"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.23085
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23085
 next_step: skim
+priority: low
+slack_ts: '1779856025.498789'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Remind Me To Check The Stove Before I Leave The House: Authoring Personalized
+  Context-Aware Smart Home Reminders Using Everyday Language'
 ---
 # Remind Me To Check The Stove Before I Leave The House: Authoring Personalized Context-Aware Smart Home Reminders Using Everyday Language
 > 原文: [https://arxiv.org/abs/2605.23085](https://arxiv.org/abs/2605.23085)

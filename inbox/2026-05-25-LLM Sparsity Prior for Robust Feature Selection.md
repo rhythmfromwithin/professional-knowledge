@@ -1,11 +1,12 @@
 ---
-title: "LLM Sparsity Prior for Robust Feature Selection"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.23102
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23102
 next_step: skim
+priority: medium
+slack_ts: '1779856023.263769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: LLM Sparsity Prior for Robust Feature Selection
 ---
 # LLM Sparsity Prior for Robust Feature Selection
 > 原文: [https://arxiv.org/abs/2605.23102](https://arxiv.org/abs/2605.23102)

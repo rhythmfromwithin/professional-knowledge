@@ -1,11 +1,12 @@
 ---
-title: "Ownership Networks and Economic Power in the Italian Energy Sector"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.25555
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.25555
 next_step: skim
+priority: low
+slack_ts: '1779856032.088349'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Ownership Networks and Economic Power in the Italian Energy Sector
 ---
 # Ownership Networks and Economic Power in the Italian Energy Sector
 > 原文: [https://arxiv.org/abs/2605.25555](https://arxiv.org/abs/2605.25555)

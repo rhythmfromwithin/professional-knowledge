@@ -1,11 +1,12 @@
 ---
-title: "Latent Cache Flow: Model-to-Model Communication Without Text"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.22863
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22863
 next_step: skim
+priority: high
+slack_ts: '1779856023.407449'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Latent Cache Flow: Model-to-Model Communication Without Text'
 ---
 # Latent Cache Flow: Model-to-Model Communication Without Text
 > 原文: [https://arxiv.org/abs/2605.22863](https://arxiv.org/abs/2605.22863)

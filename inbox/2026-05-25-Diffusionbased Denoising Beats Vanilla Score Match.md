@@ -1,11 +1,13 @@
 ---
-title: "Diffusion-based Denoising Beats Vanilla Score Matching in Parameter Estimation: A Theoretical Explanation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.22950
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22950
 next_step: skim
+priority: medium
+slack_ts: '1779856020.501479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Diffusion-based Denoising Beats Vanilla Score Matching in Parameter Estimation:
+  A Theoretical Explanation'
 ---
 # Diffusion-based Denoising Beats Vanilla Score Matching in Parameter Estimation: A Theoretical Explanation
 > 原文: [https://arxiv.org/abs/2605.22950](https://arxiv.org/abs/2605.22950)

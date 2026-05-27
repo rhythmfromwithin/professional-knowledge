@@ -1,11 +1,12 @@
 ---
-title: "Conceptual Schema Inference for Tabular Datasets using Large Language Models"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.23105
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23105
 next_step: skim
+priority: low
+slack_ts: '1779856020.095909'
+source: cs.DB - Databases
+status: unread
+title: Conceptual Schema Inference for Tabular Datasets using Large Language Models
 ---
 # Conceptual Schema Inference for Tabular Datasets using Large Language Models
 > 原文: [https://arxiv.org/abs/2605.23105](https://arxiv.org/abs/2605.23105)

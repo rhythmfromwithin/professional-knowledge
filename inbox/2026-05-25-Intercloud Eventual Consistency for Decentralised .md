@@ -1,11 +1,13 @@
 ---
-title: "Intercloud: Eventual Consistency for Decentralised Economies via Chilling-Effect Consensus"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.22830
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22830
 next_step: skim
+priority: medium
+slack_ts: '1779856022.651179'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Intercloud: Eventual Consistency for Decentralised Economies via Chilling-Effect
+  Consensus'
 ---
 # Intercloud: Eventual Consistency for Decentralised Economies via Chilling-Effect Consensus
 > 原文: [https://arxiv.org/abs/2605.22830](https://arxiv.org/abs/2605.22830)

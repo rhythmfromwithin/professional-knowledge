@@ -1,11 +1,13 @@
 ---
-title: "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.22874
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22874
 next_step: skim
+priority: high
+slack_ts: '1779856024.311439'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of
+  Linear Temporal Logic'
 ---
 # NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
 > 原文: [https://arxiv.org/abs/2605.22874](https://arxiv.org/abs/2605.22874)

@@ -1,11 +1,13 @@
 ---
-title: "From Preventive to Reactive: How AI Coding Assistants Transform Developers' Security Awareness"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.23130
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23130
 next_step: skim
+priority: low
+slack_ts: '1779856021.284159'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Preventive to Reactive: How AI Coding Assistants Transform Developers''
+  Security Awareness'
 ---
 # From Preventive to Reactive: How AI Coding Assistants Transform Developers' Security Awareness
 > 原文: [https://arxiv.org/abs/2605.23130](https://arxiv.org/abs/2605.23130)

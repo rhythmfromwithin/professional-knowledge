@@ -1,11 +1,12 @@
 ---
-title: "Botnet Detection on CTU-13 Using Lightweight Machine Learning Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.23004
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23004
 next_step: skim
+priority: low
+slack_ts: '1779856019.580839'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Botnet Detection on CTU-13 Using Lightweight Machine Learning Models
 ---
 # Botnet Detection on CTU-13 Using Lightweight Machine Learning Models
 > 原文: [https://arxiv.org/abs/2605.23004](https://arxiv.org/abs/2605.23004)

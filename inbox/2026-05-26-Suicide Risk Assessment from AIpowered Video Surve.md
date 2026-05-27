@@ -1,11 +1,13 @@
 ---
-title: "Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.22904
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22904
 next_step: skim
+priority: medium
+slack_ts: '1779856033.016929'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable
+  Framework for Prevention in Metro Stations'
 ---
 # Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations
 > 原文: [https://arxiv.org/abs/2605.22904](https://arxiv.org/abs/2605.22904)

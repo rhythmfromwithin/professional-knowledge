@@ -1,11 +1,12 @@
 ---
-title: "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.22866
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22866
 next_step: skim
+priority: high
+slack_ts: '1779856019.314679'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems'
 ---
 # BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems
 > 原文: [https://arxiv.org/abs/2605.22866](https://arxiv.org/abs/2605.22866)

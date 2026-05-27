@@ -1,11 +1,13 @@
 ---
-title: "Measuring Database Unfairness via Dependency Quantification Under Differential Privacy"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.22952
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22952
 next_step: skim
+priority: low
+slack_ts: '1779856023.895549'
+source: cs.DB - Databases
+status: unread
+title: Measuring Database Unfairness via Dependency Quantification Under Differential
+  Privacy
 ---
 # Measuring Database Unfairness via Dependency Quantification Under Differential Privacy
 > 原文: [https://arxiv.org/abs/2605.22952](https://arxiv.org/abs/2605.22952)

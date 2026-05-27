@@ -1,11 +1,12 @@
 ---
-title: "Extending Deep Event Visual Odometry with Sparse Point-Cloud Export"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.22890
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22890
 next_step: skim
+priority: medium
+slack_ts: '1779856020.900259'
+source: cs.RO - Robotics
+status: unread
+title: Extending Deep Event Visual Odometry with Sparse Point-Cloud Export
 ---
 # Extending Deep Event Visual Odometry with Sparse Point-Cloud Export
 > 原文: [https://arxiv.org/abs/2605.22890](https://arxiv.org/abs/2605.22890)

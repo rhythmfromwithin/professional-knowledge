@@ -1,11 +1,13 @@
 ---
-title: "FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.22868
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22868
 next_step: skim
+priority: high
+slack_ts: '1779856021.542089'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal
+  Edge Intelligence'
 ---
 # FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence
 > 原文: [https://arxiv.org/abs/2605.22868](https://arxiv.org/abs/2605.22868)
