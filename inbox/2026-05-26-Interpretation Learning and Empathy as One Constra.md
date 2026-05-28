@@ -1,11 +1,13 @@
 ---
-title: "Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy Architecture with Accountable Abstention"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.24999
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24999
 next_step: skim
+priority: low
+slack_ts: '1779941826.057019'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy
+  Architecture with Accountable Abstention'
 ---
 # Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy Architecture with Accountable Abstention
 > 原文: [https://arxiv.org/abs/2605.24999](https://arxiv.org/abs/2605.24999)

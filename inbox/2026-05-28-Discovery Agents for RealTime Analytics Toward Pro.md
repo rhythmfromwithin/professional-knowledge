@@ -1,0 +1,14 @@
+---
+title: "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2605.27571
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems
+> 原文: [https://arxiv.org/abs/2605.27571](https://arxiv.org/abs/2605.27571)
+
+arXiv:2605.27571v1 Announce Type: cross
+Abstract: Modern analytics systems are fundamentally reactive, requiring users to define queries over increasingly complex and continuously evolving data. In real-time streaming environments, this paradigm breaks down, as the space of potential insights becomes too large to enumerate manually. We present a multi-agent architecture for autonomous insight discovery over real-time data streams. The system implements a continuous discovery loop in which agents generate hypotheses, compile them into executable analytics, validate generated artifacts, and produce visualizations and deployable applications. The architecture leverages Apache Kafka for event-driven coordination, Apache Flink for stream processing, and large language models to implement specialized agents. A key contribution is a contract-driven design based on typed intermediate artifacts, enabling modularity, observability, lineage, and safer execution of dynamically generated analytics. Through use cases in retail, finance, and public data, we show how this architecture supports a shift from query-driven analytics to proactive, discovery-driven systems.

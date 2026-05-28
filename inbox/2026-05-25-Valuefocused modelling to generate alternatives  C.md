@@ -1,11 +1,13 @@
 ---
-title: "Value-focused modelling to generate alternatives -- Coupling multi-criteria decision analysis and optimisation models to support strategic decisions"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.23616
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23616
 next_step: skim
+priority: low
+slack_ts: '1779941822.242239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Value-focused modelling to generate alternatives -- Coupling multi-criteria
+  decision analysis and optimisation models to support strategic decisions
 ---
 # Value-focused modelling to generate alternatives -- Coupling multi-criteria decision analysis and optimisation models to support strategic decisions
 > 原文: [https://arxiv.org/abs/2605.23616](https://arxiv.org/abs/2605.23616)

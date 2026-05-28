@@ -1,11 +1,12 @@
 ---
-title: "Algometrics: Forecasting Under Algorithmic Feedback"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.23978
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23978
 next_step: skim
+priority: high
+slack_ts: '1779941823.297909'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Algometrics: Forecasting Under Algorithmic Feedback'
 ---
 # Algometrics: Forecasting Under Algorithmic Feedback
 > 原文: [https://arxiv.org/abs/2605.23978](https://arxiv.org/abs/2605.23978)

@@ -1,11 +1,12 @@
 ---
-title: "High-Risk AI Systems and the Problem of Identity in the European AI Act"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.23922
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23922
 next_step: skim
+priority: medium
+slack_ts: '1779941825.498569'
+source: cs.CY - Computers and Society
+status: unread
+title: High-Risk AI Systems and the Problem of Identity in the European AI Act
 ---
 # High-Risk AI Systems and the Problem of Identity in the European AI Act
 > 原文: [https://arxiv.org/abs/2605.23922](https://arxiv.org/abs/2605.23922)

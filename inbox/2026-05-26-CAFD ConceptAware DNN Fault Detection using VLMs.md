@@ -1,11 +1,12 @@
 ---
-title: "CAFD: Concept-Aware DNN Fault Detection using VLMs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.24008
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24008
 next_step: skim
+priority: high
+slack_ts: '1779941824.082549'
+source: cs.LG - Machine Learning
+status: unread
+title: 'CAFD: Concept-Aware DNN Fault Detection using VLMs'
 ---
 # CAFD: Concept-Aware DNN Fault Detection using VLMs
 > 原文: [https://arxiv.org/abs/2605.24008](https://arxiv.org/abs/2605.24008)

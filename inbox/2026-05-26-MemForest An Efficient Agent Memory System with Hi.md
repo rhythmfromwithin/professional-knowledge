@@ -1,11 +1,12 @@
 ---
-title: "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.23986
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23986
 next_step: skim
+priority: low
+slack_ts: '1779941826.523769'
+source: cs.DB - Databases
+status: unread
+title: 'MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing'
 ---
 # MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing
 > 原文: [https://arxiv.org/abs/2605.23986](https://arxiv.org/abs/2605.23986)

@@ -1,11 +1,12 @@
 ---
-title: "Migrating Data Ingestion Systems at Meta Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/
 next_step: skim
+priority: medium
+slack_ts: '1779941826.793259'
+source: Meta Engineering
+status: unread
+title: Migrating Data Ingestion Systems at Meta Scale
 ---
 # Migrating Data Ingestion Systems at Meta Scale
 > 原文: [https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/](https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/)

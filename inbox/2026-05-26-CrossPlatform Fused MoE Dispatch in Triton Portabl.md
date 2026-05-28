@@ -1,11 +1,13 @@
 ---
-title: "Cross-Platform Fused MoE Dispatch in Triton: Portable Expert Routing Without CUDA"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.23911
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23911
 next_step: skim
+priority: medium
+slack_ts: '1779941824.709989'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Cross-Platform Fused MoE Dispatch in Triton: Portable Expert Routing Without
+  CUDA'
 ---
 # Cross-Platform Fused MoE Dispatch in Triton: Portable Expert Routing Without CUDA
 > 原文: [https://arxiv.org/abs/2605.23911](https://arxiv.org/abs/2605.23911)

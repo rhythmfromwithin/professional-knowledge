@@ -1,11 +1,13 @@
 ---
-title: "Causality as the Statistical Conscience of Artificial Intelligence: From Pearl's Ladder to Trustworthy Machines"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.24076
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24076
 next_step: skim
+priority: medium
+slack_ts: '1779941824.370909'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Causality as the Statistical Conscience of Artificial Intelligence: From Pearl''s
+  Ladder to Trustworthy Machines'
 ---
 # Causality as the Statistical Conscience of Artificial Intelligence: From Pearl's Ladder to Trustworthy Machines
 > 原文: [https://arxiv.org/abs/2605.24076](https://arxiv.org/abs/2605.24076)

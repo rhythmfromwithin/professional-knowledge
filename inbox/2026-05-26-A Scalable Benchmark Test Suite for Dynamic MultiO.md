@@ -1,11 +1,13 @@
 ---
-title: "A Scalable Benchmark Test Suite for Dynamic Multi-Objective Optimization with a Changing Number of Objectives"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.25785
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.25785
 next_step: skim
+priority: low
+slack_ts: '1779941822.844549'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Scalable Benchmark Test Suite for Dynamic Multi-Objective Optimization with
+  a Changing Number of Objectives
 ---
 # A Scalable Benchmark Test Suite for Dynamic Multi-Objective Optimization with a Changing Number of Objectives
 > 原文: [https://arxiv.org/abs/2605.25785](https://arxiv.org/abs/2605.25785)

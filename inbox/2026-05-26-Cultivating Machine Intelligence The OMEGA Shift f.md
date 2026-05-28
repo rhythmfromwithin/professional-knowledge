@@ -1,11 +1,13 @@
 ---
-title: "Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.25062
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.25062
 next_step: skim
+priority: low
+slack_ts: '1779941824.794039'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization
+  to Autopoietic Cognitive Ecologies'
 ---
 # Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies
 > 原文: [https://arxiv.org/abs/2605.25062](https://arxiv.org/abs/2605.25062)

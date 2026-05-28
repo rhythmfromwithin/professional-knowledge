@@ -1,11 +1,12 @@
 ---
-title: "Whose Good, Whose Place? The Moral Geography of Agentic AI for Social Good"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.22995
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22995
 next_step: skim
+priority: medium
+slack_ts: '1779941822.640149'
+source: cs.CY - Computers and Society
+status: unread
+title: Whose Good, Whose Place? The Moral Geography of Agentic AI for Social Good
 ---
 # Whose Good, Whose Place? The Moral Geography of Agentic AI for Social Good
 > 原文: [https://arxiv.org/abs/2605.22995](https://arxiv.org/abs/2605.22995)

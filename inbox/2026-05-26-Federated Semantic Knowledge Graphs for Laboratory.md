@@ -1,11 +1,13 @@
 ---
-title: "Federated Semantic Knowledge Graphs for Laboratory Workflows: A Structured Expert Elicitation Methodology Demonstrated Through Bioanalytical Workflow Twins"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.23985
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23985
 next_step: skim
+priority: low
+slack_ts: '1779941825.225899'
+source: cs.DB - Databases
+status: unread
+title: 'Federated Semantic Knowledge Graphs for Laboratory Workflows: A Structured
+  Expert Elicitation Methodology Demonstrated Through Bioanalytical Workflow Twins'
 ---
 # Federated Semantic Knowledge Graphs for Laboratory Workflows: A Structured Expert Elicitation Methodology Demonstrated Through Bioanalytical Workflow Twins
 > 原文: [https://arxiv.org/abs/2605.23985](https://arxiv.org/abs/2605.23985)

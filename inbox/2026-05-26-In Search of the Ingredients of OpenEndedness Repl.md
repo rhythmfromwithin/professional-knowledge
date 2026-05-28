@@ -1,11 +1,13 @@
 ---
-title: "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.23908
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23908
 next_step: skim
+priority: high
+slack_ts: '1779941825.769939'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with
+  Large Vision-Language Models'
 ---
 # In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models
 > 原文: [https://arxiv.org/abs/2605.23908](https://arxiv.org/abs/2605.23908)

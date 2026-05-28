@@ -1,11 +1,13 @@
 ---
-title: "Modernizing User Privacy Preference Measurement through GPPI: A GDPR-aligned Privacy Preference Item Bank"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.24307
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24307
 next_step: skim
+priority: low
+slack_ts: '1779941826.884979'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Modernizing User Privacy Preference Measurement through GPPI: A GDPR-aligned
+  Privacy Preference Item Bank'
 ---
 # Modernizing User Privacy Preference Measurement through GPPI: A GDPR-aligned Privacy Preference Item Bank
 > 原文: [https://arxiv.org/abs/2605.24307](https://arxiv.org/abs/2605.24307)

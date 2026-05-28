@@ -1,11 +1,13 @@
 ---
-title: "One at a Time? The Personal Productivity Bias in Emergency Department Patient Assignment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.24208
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24208
 next_step: skim
+priority: low
+slack_ts: '1779941827.282949'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: One at a Time? The Personal Productivity Bias in Emergency Department Patient
+  Assignment
 ---
 # One at a Time? The Personal Productivity Bias in Emergency Department Patient Assignment
 > 原文: [https://arxiv.org/abs/2605.24208](https://arxiv.org/abs/2605.24208)

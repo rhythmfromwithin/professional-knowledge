@@ -1,11 +1,12 @@
 ---
-title: "Confidence Calibration in Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.23909
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23909
 next_step: skim
+priority: high
+slack_ts: '1779941824.628529'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Confidence Calibration in Large Language Models
 ---
 # Confidence Calibration in Large Language Models
 > 原文: [https://arxiv.org/abs/2605.23909](https://arxiv.org/abs/2605.23909)

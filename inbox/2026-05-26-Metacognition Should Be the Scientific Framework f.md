@@ -1,11 +1,13 @@
 ---
-title: "Metacognition Should Be the Scientific Framework for Bounded and Effective Self-Governance in Generative AI"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.23981
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23981
 next_step: skim
+priority: low
+slack_ts: '1779941826.609449'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Metacognition Should Be the Scientific Framework for Bounded and Effective
+  Self-Governance in Generative AI
 ---
 # Metacognition Should Be the Scientific Framework for Bounded and Effective Self-Governance in Generative AI
 > 原文: [https://arxiv.org/abs/2605.23981](https://arxiv.org/abs/2605.23981)

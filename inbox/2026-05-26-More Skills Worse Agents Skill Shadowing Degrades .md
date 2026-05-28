@@ -1,11 +1,13 @@
 ---
-title: "More Skills, Worse Agents? Skill Shadowing Degrades Performance When Expanding Skill Libraries"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.24050
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24050
 next_step: skim
+priority: low
+slack_ts: '1779941827.083719'
+source: cs.SE - Software Engineering
+status: unread
+title: More Skills, Worse Agents? Skill Shadowing Degrades Performance When Expanding
+  Skill Libraries
 ---
 # More Skills, Worse Agents? Skill Shadowing Degrades Performance When Expanding Skill Libraries
 > 原文: [https://arxiv.org/abs/2605.24050](https://arxiv.org/abs/2605.24050)

@@ -1,11 +1,13 @@
 ---
-title: "Detecting Metastable Basins in High Dimensions via Marginal Trajectory Distribution Discrimination"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.24136
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24136
 next_step: skim
+priority: medium
+slack_ts: '1779941824.880399'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Detecting Metastable Basins in High Dimensions via Marginal Trajectory Distribution
+  Discrimination
 ---
 # Detecting Metastable Basins in High Dimensions via Marginal Trajectory Distribution Discrimination
 > 原文: [https://arxiv.org/abs/2605.24136](https://arxiv.org/abs/2605.24136)

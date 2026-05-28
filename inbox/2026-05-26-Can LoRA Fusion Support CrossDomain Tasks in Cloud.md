@@ -1,11 +1,12 @@
 ---
-title: "Can LoRA Fusion Support Cross-Domain Tasks in Cloud-Edge Collaboration?"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.23913
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23913
 next_step: skim
+priority: medium
+slack_ts: '1779941824.165439'
+source: cs.DC - Distributed Computing
+status: unread
+title: Can LoRA Fusion Support Cross-Domain Tasks in Cloud-Edge Collaboration?
 ---
 # Can LoRA Fusion Support Cross-Domain Tasks in Cloud-Edge Collaboration?
 > 原文: [https://arxiv.org/abs/2605.23913](https://arxiv.org/abs/2605.23913)

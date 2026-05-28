@@ -1,11 +1,12 @@
 ---
-title: "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.22882
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22882
 next_step: skim
+priority: medium
+slack_ts: '1779941825.407399'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation'
 ---
 # GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation
 > 原文: [https://arxiv.org/abs/2605.22882](https://arxiv.org/abs/2605.22882)

@@ -1,11 +1,13 @@
 ---
-title: "Document Classification Pattern Recognition via Information Fusion: A Systematic Review of Multimodal and Multiview Representation Approaches"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.23910
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23910
 next_step: skim
+priority: high
+slack_ts: '1779941824.966139'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Document Classification Pattern Recognition via Information Fusion: A Systematic
+  Review of Multimodal and Multiview Representation Approaches'
 ---
 # Document Classification Pattern Recognition via Information Fusion: A Systematic Review of Multimodal and Multiview Representation Approaches
 > 原文: [https://arxiv.org/abs/2605.23910](https://arxiv.org/abs/2605.23910)

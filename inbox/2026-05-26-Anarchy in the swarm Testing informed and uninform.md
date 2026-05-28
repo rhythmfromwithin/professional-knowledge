@@ -1,11 +1,13 @@
 ---
-title: "Anarchy in the swarm: Testing informed and uninformed diversity-enhancing mechanisms within PSO framework"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.25093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.25093
 next_step: skim
+priority: low
+slack_ts: '1779941823.660649'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Anarchy in the swarm: Testing informed and uninformed diversity-enhancing
+  mechanisms within PSO framework'
 ---
 # Anarchy in the swarm: Testing informed and uninformed diversity-enhancing mechanisms within PSO framework
 > 原文: [https://arxiv.org/abs/2605.25093](https://arxiv.org/abs/2605.25093)

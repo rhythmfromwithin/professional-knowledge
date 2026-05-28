@@ -1,11 +1,12 @@
 ---
-title: "MASt3R-Nav: WayPixel Navigation in Relative 3D Maps"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.24111
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24111
 next_step: skim
+priority: medium
+slack_ts: '1779941826.337199'
+source: cs.RO - Robotics
+status: unread
+title: 'MASt3R-Nav: WayPixel Navigation in Relative 3D Maps'
 ---
 # MASt3R-Nav: WayPixel Navigation in Relative 3D Maps
 > 原文: [https://arxiv.org/abs/2605.24111](https://arxiv.org/abs/2605.24111)

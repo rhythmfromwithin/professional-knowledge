@@ -1,11 +1,12 @@
 ---
-title: "All Systems Nominal – Nominal Spotlight"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/
 next_step: skim
+priority: high
+slack_ts: '1779941823.476789'
+source: Sequoia Capital
+status: unread
+title: All Systems Nominal – Nominal Spotlight
 ---
 # All Systems Nominal – Nominal Spotlight
 > 原文: [https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/](https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/)

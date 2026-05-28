@@ -1,11 +1,13 @@
 ---
-title: "Coding Beyond Your Training: Claude Code and the Technological Frontier of Software Developers"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.25438
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.25438
 next_step: skim
+priority: low
+slack_ts: '1779941824.545689'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Coding Beyond Your Training: Claude Code and the Technological Frontier of
+  Software Developers'
 ---
 # Coding Beyond Your Training: Claude Code and the Technological Frontier of Software Developers
 > 原文: [https://arxiv.org/abs/2605.25438](https://arxiv.org/abs/2605.25438)

@@ -1,11 +1,13 @@
 ---
-title: "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.26551
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26551
 next_step: skim
+priority: low
+slack_ts: '1779941830.263739'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Random neural networks match observed dimensionality of neural population recordings
+  and motivate stronger experimental tests
 ---
 # Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests
 > 原文: [https://arxiv.org/abs/2605.26551](https://arxiv.org/abs/2605.26551)

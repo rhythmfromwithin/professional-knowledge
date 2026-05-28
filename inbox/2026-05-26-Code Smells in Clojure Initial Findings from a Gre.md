@@ -1,11 +1,12 @@
 ---
-title: "Code Smells in Clojure: Initial Findings from a Grey Literature Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.24049
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24049
 next_step: skim
+priority: low
+slack_ts: '1779941824.456099'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Code Smells in Clojure: Initial Findings from a Grey Literature Review'
 ---
 # Code Smells in Clojure: Initial Findings from a Grey Literature Review
 > 原文: [https://arxiv.org/abs/2605.24049](https://arxiv.org/abs/2605.24049)

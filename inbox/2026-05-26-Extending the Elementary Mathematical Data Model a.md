@@ -1,11 +1,13 @@
 ---
-title: "Extending the (Elementary) Mathematical Data Model and MatBase with two new constraint types: inexistence and anti-existence"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.24021
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24021
 next_step: skim
+priority: low
+slack_ts: '1779941825.050539'
+source: cs.DB - Databases
+status: unread
+title: 'Extending the (Elementary) Mathematical Data Model and MatBase with two new
+  constraint types: inexistence and anti-existence'
 ---
 # Extending the (Elementary) Mathematical Data Model and MatBase with two new constraint types: inexistence and anti-existence
 > 原文: [https://arxiv.org/abs/2605.24021](https://arxiv.org/abs/2605.24021)

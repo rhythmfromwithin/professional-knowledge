@@ -1,11 +1,12 @@
 ---
-title: "Anisotropic Diffusion-Driven Ergodic Coverage in Multi-Robot Systems"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.24125
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24125
 next_step: skim
+priority: medium
+slack_ts: '1779941823.742749'
+source: cs.RO - Robotics
+status: unread
+title: Anisotropic Diffusion-Driven Ergodic Coverage in Multi-Robot Systems
 ---
 # Anisotropic Diffusion-Driven Ergodic Coverage in Multi-Robot Systems
 > 原文: [https://arxiv.org/abs/2605.24125](https://arxiv.org/abs/2605.24125)
