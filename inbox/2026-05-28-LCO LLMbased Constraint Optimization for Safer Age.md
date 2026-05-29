@@ -1,11 +1,13 @@
 ---
-title: "LCO: LLM-based Constraint Optimization for Safer Agentic LLMs in Real-world Tasks"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.27375
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27375
 next_step: skim
+priority: high
+slack_ts: '1780028393.335309'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'LCO: LLM-based Constraint Optimization for Safer Agentic LLMs in Real-world
+  Tasks'
 ---
 # LCO: LLM-based Constraint Optimization for Safer Agentic LLMs in Real-world Tasks
 > 原文: [https://arxiv.org/abs/2605.27375](https://arxiv.org/abs/2605.27375)

@@ -1,11 +1,13 @@
 ---
-title: "Constitutional Arms Races in the Public Goods Game: Co-Evolving LLM Constitutions Under Cooperation-Defection Pressure"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.26448
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26448
 next_step: skim
+priority: low
+slack_ts: '1780028376.240859'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Constitutional Arms Races in the Public Goods Game: Co-Evolving LLM Constitutions
+  Under Cooperation-Defection Pressure'
 ---
 # Constitutional Arms Races in the Public Goods Game: Co-Evolving LLM Constitutions Under Cooperation-Defection Pressure
 > 原文: [https://arxiv.org/abs/2605.26448](https://arxiv.org/abs/2605.26448)

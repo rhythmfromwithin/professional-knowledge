@@ -1,11 +1,13 @@
 ---
-title: "Verifiable Secure Aggregation via Dual Servers with Linear Tags in Federated Learning"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.24054
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24054
 next_step: skim
+priority: low
+slack_ts: '1780028372.011329'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Verifiable Secure Aggregation via Dual Servers with Linear Tags in Federated
+  Learning
 ---
 # Verifiable Secure Aggregation via Dual Servers with Linear Tags in Federated Learning
 > 原文: [https://arxiv.org/abs/2605.24054](https://arxiv.org/abs/2605.24054)

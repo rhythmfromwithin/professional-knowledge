@@ -1,11 +1,12 @@
 ---
-title: "Catch up on the Dialogues stage at Google I/O 2026."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/
 next_step: skim
+priority: high
+slack_ts: '1780028388.266979'
+source: Google AI Blog
+status: unread
+title: Catch up on the Dialogues stage at Google I/O 2026.
 ---
 # Catch up on the Dialogues stage at Google I/O 2026.
 > 原文: [https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/)

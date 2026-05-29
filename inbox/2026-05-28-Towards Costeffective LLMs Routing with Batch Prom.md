@@ -1,11 +1,12 @@
 ---
-title: "Towards Cost-effective LLMs Routing with Batch Prompting"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.28268
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28268
 next_step: skim
+priority: low
+slack_ts: '1780028397.210019'
+source: cs.DB - Databases
+status: unread
+title: Towards Cost-effective LLMs Routing with Batch Prompting
 ---
 # Towards Cost-effective LLMs Routing with Batch Prompting
 > 原文: [https://arxiv.org/abs/2605.28268](https://arxiv.org/abs/2605.28268)

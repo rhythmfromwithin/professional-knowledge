@@ -1,11 +1,12 @@
 ---
-title: "Raon-Speech Technical Report"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.23912
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23912
 next_step: skim
+priority: high
+slack_ts: '1780028370.332679'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Raon-Speech Technical Report
 ---
 # Raon-Speech Technical Report
 > 原文: [https://arxiv.org/abs/2605.23912](https://arxiv.org/abs/2605.23912)

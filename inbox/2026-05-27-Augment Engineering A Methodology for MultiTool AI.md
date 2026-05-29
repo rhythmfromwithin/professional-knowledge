@@ -1,11 +1,13 @@
 ---
-title: "Augment Engineering: A Methodology for Multi-Tool AI Orchestration Across Professional Domains"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.26146
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26146
 next_step: skim
+priority: low
+slack_ts: '1780028374.209179'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Augment Engineering: A Methodology for Multi-Tool AI Orchestration Across
+  Professional Domains'
 ---
 # Augment Engineering: A Methodology for Multi-Tool AI Orchestration Across Professional Domains
 > 原文: [https://arxiv.org/abs/2605.26146](https://arxiv.org/abs/2605.26146)

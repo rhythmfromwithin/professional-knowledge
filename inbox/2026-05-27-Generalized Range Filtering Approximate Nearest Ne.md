@@ -1,11 +1,13 @@
 ---
-title: "Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.26474
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26474
 next_step: skim
+priority: low
+slack_ts: '1780028377.927859'
+source: cs.DB - Databases
+status: unread
+title: 'Generalized Range Filtering Approximate Nearest Neighbor Search: Containment
+  and Overlap [Technical Report]'
 ---
 # Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]
 > 原文: [https://arxiv.org/abs/2605.26474](https://arxiv.org/abs/2605.26474)

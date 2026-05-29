@@ -1,11 +1,13 @@
 ---
-title: "Edge AI Deployment Beyond Models: A BSP-Aware Systems Framework for Industrial Embedded Platforms"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.26119
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26119
 next_step: skim
+priority: medium
+slack_ts: '1780028376.799679'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Edge AI Deployment Beyond Models: A BSP-Aware Systems Framework for Industrial
+  Embedded Platforms'
 ---
 # Edge AI Deployment Beyond Models: A BSP-Aware Systems Framework for Industrial Embedded Platforms
 > 原文: [https://arxiv.org/abs/2605.26119](https://arxiv.org/abs/2605.26119)

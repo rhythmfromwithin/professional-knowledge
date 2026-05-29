@@ -1,11 +1,12 @@
 ---
-title: "We’re announcing new community investments in Missouri."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/
 next_step: skim
+priority: high
+slack_ts: '1780028372.554099'
+source: Google AI Blog
+status: unread
+title: We’re announcing new community investments in Missouri.
 ---
 # We’re announcing new community investments in Missouri.
 > 原文: [https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/)

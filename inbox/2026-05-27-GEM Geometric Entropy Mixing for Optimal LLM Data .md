@@ -1,11 +1,12 @@
 ---
-title: "GEM: Geometric Entropy Mixing for Optimal LLM Data Curation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.26121
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26121
 next_step: skim
+priority: high
+slack_ts: '1780028377.723019'
+source: cs.LG - Machine Learning
+status: unread
+title: 'GEM: Geometric Entropy Mixing for Optimal LLM Data Curation'
 ---
 # GEM: Geometric Entropy Mixing for Optimal LLM Data Curation
 > 原文: [https://arxiv.org/abs/2605.26121](https://arxiv.org/abs/2605.26121)

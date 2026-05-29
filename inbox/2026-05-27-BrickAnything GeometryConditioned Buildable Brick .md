@@ -1,11 +1,13 @@
 ---
-title: "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.26182
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26182
 next_step: skim
+priority: high
+slack_ts: '1780028374.753259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware
+  Tokenization'
 ---
 # BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization
 > 原文: [https://arxiv.org/abs/2605.26182](https://arxiv.org/abs/2605.26182)

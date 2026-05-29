@@ -1,11 +1,12 @@
 ---
-title: "Examining the Challenges of Intellectual Property in AI-Generated Productions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.26590
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26590
 next_step: skim
+priority: medium
+slack_ts: '1780028377.175199'
+source: cs.CY - Computers and Society
+status: unread
+title: Examining the Challenges of Intellectual Property in AI-Generated Productions
 ---
 # Examining the Challenges of Intellectual Property in AI-Generated Productions
 > 原文: [https://arxiv.org/abs/2605.26590](https://arxiv.org/abs/2605.26590)

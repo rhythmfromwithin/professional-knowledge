@@ -1,11 +1,12 @@
 ---
-title: "Process financial documents using Amazon Bedrock Data Automation"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/
 next_step: skim
+priority: high
+slack_ts: '1780028395.343359'
+source: AWS Blog
+status: unread
+title: Process financial documents using Amazon Bedrock Data Automation
 ---
 # Process financial documents using Amazon Bedrock Data Automation
 > 原文: [https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/](https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/)

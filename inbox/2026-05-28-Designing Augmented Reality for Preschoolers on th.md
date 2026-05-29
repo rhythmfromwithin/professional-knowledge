@@ -1,11 +1,12 @@
 ---
-title: "Designing Augmented Reality for Preschoolers on the Move"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.27386
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27386
 next_step: skim
+priority: low
+slack_ts: '1780028389.214489'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Designing Augmented Reality for Preschoolers on the Move
 ---
 # Designing Augmented Reality for Preschoolers on the Move
 > 原文: [https://arxiv.org/abs/2605.27386](https://arxiv.org/abs/2605.27386)

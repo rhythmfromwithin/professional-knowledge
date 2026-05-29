@@ -1,0 +1,16 @@
+---
+title: "Silent Data Corruption Protection through Efficient Task Replication"
+source: "cs.DC - Distributed Computing"
+link: https://arxiv.org/abs/2605.29506
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Silent Data Corruption Protection through Efficient Task Replication
+> 原文: [https://arxiv.org/abs/2605.29506](https://arxiv.org/abs/2605.29506)
+
+arXiv:2605.29506v1 Announce Type: new
+Abstract: The trend of increasing cluster sizes of supercomputers leads to a growing susceptibility to Silent Data Corruption (SDC) that can invalidate program results. A common strategy for SDC protection is replication, where the computation is repeated, and the correct result is determined as the one that is the same in at least two different computations. Applying replication to Asynchronous Many-Task (AMT) runtimes on clusters is challenging due to dynamic task spawning and work stealing, which complicate the identification of replicated tasks.
+To address the challenge, this paper introduces a novel replication scheme that detects and corrects SDCs for nested fork-join programs. Briefly stated, our approach replicates the computation and records the task tree. Upon a mismatch in the final result, it traverses the tree top-down to identify all corrupted tasks that could have impacted the final result. Recovery is then performed by recomputing these tasks, while the results of correct child tasks are reused.
+We demonstrate our implementation within a variant of the Itoyori cluster AMT runtime. Our experimental results suggest that the time to identify and reprocess the affected tasks is negligible. The paper concludes by discussing the adaptability of our scheme to tasks that cooperate through futures.

@@ -1,11 +1,12 @@
 ---
-title: "MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.26154
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26154
 next_step: skim
+priority: low
+slack_ts: '1780028380.290259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning'
 ---
 # MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning
 > 原文: [https://arxiv.org/abs/2605.26154](https://arxiv.org/abs/2605.26154)

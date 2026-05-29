@@ -1,11 +1,13 @@
 ---
-title: "Generic Interpretation Approach for Transformer Models Incorporating Heterogenous Attention Structures"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.27458
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27458
 next_step: skim
+priority: medium
+slack_ts: '1780028391.267879'
+source: cs.CV - Computer Vision
+status: unread
+title: Generic Interpretation Approach for Transformer Models Incorporating Heterogenous
+  Attention Structures
 ---
 # Generic Interpretation Approach for Transformer Models Incorporating Heterogenous Attention Structures
 > 原文: [https://arxiv.org/abs/2605.27458](https://arxiv.org/abs/2605.27458)

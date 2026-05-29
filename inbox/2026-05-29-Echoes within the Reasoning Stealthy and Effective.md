@@ -1,0 +1,15 @@
+---
+title: "Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2605.28890
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought
+> 原文: [https://arxiv.org/abs/2605.28890](https://arxiv.org/abs/2605.28890)
+
+arXiv:2605.28890v1 Announce Type: new
+Abstract: Large Language Models with Chain-of-Thought reasoning capabilities represent valuable intellectual property, yet existing black-box watermarking methods often trade robustness for reasoning fidelity by perturbing final answers or relying on fragile trigger patterns. We propose BiCoT, a watermarking framework that embeds ownership signals into the internal geometry of reasoning traces by aligning high-saliency structural anchors with a private signature subspace while regularizing ordinary control tokens to preserve semantic capacity. This design couples the watermark with reasoning-relevant representations, making removal difficult without disrupting the features that support coherent reasoning. To enable verification under model theft and representation drift, we introduce Robust Subspace Registration (RSR), a Top-
+logprob-based black-box verifier that uses sentinel tokens to calibrate systematic shifts in the output distribution. Experiments show that BiCoT preserves reasoning fidelity across diverse complex reasoning tasks while achieving robust detection under fine-tuning, quantization, model-level perturbations, and adaptive output-level attacks across in-domain and out-of-distribution settings.

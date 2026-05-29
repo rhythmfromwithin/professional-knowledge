@@ -1,11 +1,13 @@
 ---
-title: "AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution via Latent Consistency Diffusion"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.26130
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26130
 next_step: skim
+priority: high
+slack_ts: '1780028373.467039'
+source: cs.LG - Machine Learning
+status: unread
+title: 'AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution
+  via Latent Consistency Diffusion'
 ---
 # AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution via Latent Consistency Diffusion
 > 原文: [https://arxiv.org/abs/2605.26130](https://arxiv.org/abs/2605.26130)

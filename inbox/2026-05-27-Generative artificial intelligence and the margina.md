@@ -1,11 +1,13 @@
 ---
-title: "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.26769
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26769
 next_step: skim
+priority: medium
+slack_ts: '1780028378.285709'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Generative artificial intelligence and the marginalization of minoritized
+  knowledges in higher education: the case of disability'
 ---
 # Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability
 > 原文: [https://arxiv.org/abs/2605.26769](https://arxiv.org/abs/2605.26769)

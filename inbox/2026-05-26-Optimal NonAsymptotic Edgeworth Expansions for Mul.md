@@ -1,11 +1,13 @@
 ---
-title: "Optimal Non-Asymptotic Edgeworth Expansions for Multivariate Neural Network Outputs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.24072
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24072
 next_step: skim
+priority: medium
+slack_ts: '1780028369.596819'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Optimal Non-Asymptotic Edgeworth Expansions for Multivariate Neural Network
+  Outputs
 ---
 # Optimal Non-Asymptotic Edgeworth Expansions for Multivariate Neural Network Outputs
 > 原文: [https://arxiv.org/abs/2605.24072](https://arxiv.org/abs/2605.24072)

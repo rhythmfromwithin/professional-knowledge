@@ -1,11 +1,12 @@
 ---
-title: "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.26230
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26230
 next_step: skim
+priority: medium
+slack_ts: '1780028378.466489'
+source: cs.CV - Computer Vision
+status: unread
+title: Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction
 ---
 # Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction
 > 原文: [https://arxiv.org/abs/2605.26230](https://arxiv.org/abs/2605.26230)

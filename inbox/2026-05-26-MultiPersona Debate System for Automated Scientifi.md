@@ -1,11 +1,12 @@
 ---
-title: "Multi-Persona Debate System for Automated Scientific Hypothesis Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.23917
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23917
 next_step: skim
+priority: high
+slack_ts: '1780028369.205019'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Multi-Persona Debate System for Automated Scientific Hypothesis Generation
 ---
 # Multi-Persona Debate System for Automated Scientific Hypothesis Generation
 > 原文: [https://arxiv.org/abs/2605.23917](https://arxiv.org/abs/2605.23917)

@@ -1,11 +1,12 @@
 ---
-title: "Furina: Fragmented Uncertainty-Driven Refusal Instability Attack"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.26158
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26158
 next_step: skim
+priority: low
+slack_ts: '1780028377.536969'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Furina: Fragmented Uncertainty-Driven Refusal Instability Attack'
 ---
 # Furina: Fragmented Uncertainty-Driven Refusal Instability Attack
 > 原文: [https://arxiv.org/abs/2605.26158](https://arxiv.org/abs/2605.26158)

@@ -1,0 +1,14 @@
+---
+title: "Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2605.29355
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys
+> 原文: [https://arxiv.org/abs/2605.29355](https://arxiv.org/abs/2605.29355)
+
+arXiv:2605.29355v1 Announce Type: cross
+Abstract: Understanding how cortical activity represents natural whole-body behaviors in primates remains challenging. Limited by the diversity of movements and inaccessibility of large-scale neural representation of whole-body kinematics, previous motor decoding studies focused on constrained tasks and limited limb movements. Here, we present a neural-behavioral recording and modeling framework for freely moving monkeys, combining large-scale epidural cortical signals from distributed sensory- and motor-related areas with synchronized multi-view motion capture through a custom-made data collection platform. We reconstructed whole-body monkey kinematics and learned a compact behavior prior using an autoregressive encoder-decoder model. Conditioned on neural signals, the model decoded accurate and realistic whole-body movement without explicit physical constraints. Our results provide a novel proof-of-concept approach for decoding natural whole-body movements in primates using large-scale intracranial neural activity.

@@ -1,11 +1,13 @@
 ---
-title: "Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary Games"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.26685
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26685
 next_step: skim
+priority: low
+slack_ts: '1780028376.988219'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary
+  Games'
 ---
 # Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary Games
 > 原文: [https://arxiv.org/abs/2605.26685](https://arxiv.org/abs/2605.26685)

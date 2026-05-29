@@ -1,11 +1,13 @@
 ---
-title: "Parameter Efficient Multi-Class Intelligent Scheduling for Multimodal Online Distributed Industrial Anomaly Detection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.23984
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23984
 next_step: skim
+priority: high
+slack_ts: '1780028369.783929'
+source: cs.LG - Machine Learning
+status: unread
+title: Parameter Efficient Multi-Class Intelligent Scheduling for Multimodal Online
+  Distributed Industrial Anomaly Detection
 ---
 # Parameter Efficient Multi-Class Intelligent Scheduling for Multimodal Online Distributed Industrial Anomaly Detection
 > 原文: [https://arxiv.org/abs/2605.23984](https://arxiv.org/abs/2605.23984)

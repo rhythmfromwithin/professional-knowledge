@@ -1,11 +1,13 @@
 ---
-title: "From user-understandable to technical process model: a model-driven approach using cuta4bpm"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.26117
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26117
 next_step: skim
+priority: low
+slack_ts: '1780028377.355979'
+source: cs.SE - Software Engineering
+status: unread
+title: 'From user-understandable to technical process model: a model-driven approach
+  using cuta4bpm'
 ---
 # From user-understandable to technical process model: a model-driven approach using cuta4bpm
 > 原文: [https://arxiv.org/abs/2605.26117](https://arxiv.org/abs/2605.26117)

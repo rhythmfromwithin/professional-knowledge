@@ -1,11 +1,13 @@
 ---
-title: "Fine-Tuning Vision-Language Models for Understanding Current Damage and Scoring Priority with Quality Guard Agent"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.27452
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27452
 next_step: skim
+priority: medium
+slack_ts: '1780028390.332049'
+source: cs.CV - Computer Vision
+status: unread
+title: Fine-Tuning Vision-Language Models for Understanding Current Damage and Scoring
+  Priority with Quality Guard Agent
 ---
 # Fine-Tuning Vision-Language Models for Understanding Current Damage and Scoring Priority with Quality Guard Agent
 > 原文: [https://arxiv.org/abs/2605.27452](https://arxiv.org/abs/2605.27452)

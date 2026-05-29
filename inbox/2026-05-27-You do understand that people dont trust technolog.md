@@ -1,11 +1,5 @@
 ---
-title: ""You do understand that people don't trust technology?": Explaining Trusted Execution Environments to Non-Experts"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.26196
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1780028385.287439'
 ---
 # "You do understand that people don't trust technology?": Explaining Trusted Execution Environments to Non-Experts
 > 原文: [https://arxiv.org/abs/2605.26196](https://arxiv.org/abs/2605.26196)

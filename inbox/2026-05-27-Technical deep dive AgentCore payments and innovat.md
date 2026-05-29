@@ -1,11 +1,12 @@
 ---
-title: "Technical deep dive: AgentCore payments and innovation in agentic commerce"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/
 next_step: skim
+priority: high
+slack_ts: '1780028383.330849'
+source: AWS Blog
+status: unread
+title: 'Technical deep dive: AgentCore payments and innovation in agentic commerce'
 ---
 # Technical deep dive: AgentCore payments and innovation in agentic commerce
 > 原文: [https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/](https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/)

@@ -1,11 +1,12 @@
 ---
-title: "Sketch Bug: Using Sketch-Based Input for Interactive Code Debugging"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.24228
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24228
 next_step: skim
+priority: low
+slack_ts: '1780028371.283279'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Sketch Bug: Using Sketch-Based Input for Interactive Code Debugging'
 ---
 # Sketch Bug: Using Sketch-Based Input for Interactive Code Debugging
 > 原文: [https://arxiv.org/abs/2605.24228](https://arxiv.org/abs/2605.24228)

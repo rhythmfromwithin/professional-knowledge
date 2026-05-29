@@ -1,11 +1,13 @@
 ---
-title: "Beyond Differences: Doubly Robust Meta-Learners for Ratio-Based Treatment Effects"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.26288
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26288
 next_step: skim
+priority: medium
+slack_ts: '1780028374.577249'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Beyond Differences: Doubly Robust Meta-Learners for Ratio-Based Treatment
+  Effects'
 ---
 # Beyond Differences: Doubly Robust Meta-Learners for Ratio-Based Treatment Effects
 > 原文: [https://arxiv.org/abs/2605.26288](https://arxiv.org/abs/2605.26288)

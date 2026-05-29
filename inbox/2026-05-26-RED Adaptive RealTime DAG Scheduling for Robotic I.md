@@ -1,11 +1,13 @@
 ---
-title: "RED: Adaptive Real-Time DAG Scheduling for Robotic Inference under Environmental Dynamics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.24044
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.24044
 next_step: skim
+priority: medium
+slack_ts: '1780028369.965989'
+source: cs.RO - Robotics
+status: unread
+title: 'RED: Adaptive Real-Time DAG Scheduling for Robotic Inference under Environmental
+  Dynamics'
 ---
 # RED: Adaptive Real-Time DAG Scheduling for Robotic Inference under Environmental Dynamics
 > 原文: [https://arxiv.org/abs/2605.24044](https://arxiv.org/abs/2605.24044)

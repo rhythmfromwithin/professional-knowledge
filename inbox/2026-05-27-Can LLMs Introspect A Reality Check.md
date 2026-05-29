@@ -1,11 +1,12 @@
 ---
-title: "Can LLMs Introspect? A Reality Check"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.26242
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26242
 next_step: skim
+priority: high
+slack_ts: '1780028375.305669'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Can LLMs Introspect? A Reality Check
 ---
 # Can LLMs Introspect? A Reality Check
 > 原文: [https://arxiv.org/abs/2605.26242](https://arxiv.org/abs/2605.26242)

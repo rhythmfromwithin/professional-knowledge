@@ -1,11 +1,12 @@
 ---
-title: "Knowledge Graphs as the Missing Data Layer for LLM-Based Industrial Asset Operations"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.26874
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26874
 next_step: skim
+priority: low
+slack_ts: '1780028379.193719'
+source: cs.DB - Databases
+status: unread
+title: Knowledge Graphs as the Missing Data Layer for LLM-Based Industrial Asset Operations
 ---
 # Knowledge Graphs as the Missing Data Layer for LLM-Based Industrial Asset Operations
 > 原文: [https://arxiv.org/abs/2605.26874](https://arxiv.org/abs/2605.26874)

@@ -1,11 +1,13 @@
 ---
-title: "DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.26236
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26236
 next_step: skim
+priority: medium
+slack_ts: '1780028376.616049'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech
+  Gesture Generation'
 ---
 # DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation
 > 原文: [https://arxiv.org/abs/2605.26236](https://arxiv.org/abs/2605.26236)

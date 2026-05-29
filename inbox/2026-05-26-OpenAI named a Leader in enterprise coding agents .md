@@ -1,11 +1,12 @@
 ---
-title: "OpenAI named a Leader in enterprise coding agents by Gartner"
-source: "OpenAI Blog"
-link: https://openai.com/index/gartner-2026-agentic-coding-leader
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gartner-2026-agentic-coding-leader
 next_step: skim
+priority: high
+slack_ts: '1780028369.405309'
+source: OpenAI Blog
+status: unread
+title: OpenAI named a Leader in enterprise coding agents by Gartner
 ---
 # OpenAI named a Leader in enterprise coding agents by Gartner
 > 原文: [https://openai.com/index/gartner-2026-agentic-coding-leader](https://openai.com/index/gartner-2026-agentic-coding-leader)

@@ -1,11 +1,13 @@
 ---
-title: "Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.26133
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26133
 next_step: skim
+priority: high
+slack_ts: '1780028381.280539'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Pretraining Data Exposure in Large Language Models: A Survey of Membership
+  Inference, Data Contamination, and Security Implications'
 ---
 # Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications
 > 原文: [https://arxiv.org/abs/2605.26133](https://arxiv.org/abs/2605.26133)

@@ -1,11 +1,12 @@
 ---
-title: "SPEAR: Code-Augmented Agentic Prompt Optimization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.26275
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26275
 next_step: skim
+priority: high
+slack_ts: '1780028382.219649'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SPEAR: Code-Augmented Agentic Prompt Optimization'
 ---
 # SPEAR: Code-Augmented Agentic Prompt Optimization
 > 原文: [https://arxiv.org/abs/2605.26275](https://arxiv.org/abs/2605.26275)

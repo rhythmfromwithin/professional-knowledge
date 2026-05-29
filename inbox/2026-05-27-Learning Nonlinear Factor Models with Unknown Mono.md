@@ -1,11 +1,13 @@
 ---
-title: "Learning Nonlinear Factor Models with Unknown Monotone Links from Incomplete and Noisy Data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.26271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26271
 next_step: skim
+priority: medium
+slack_ts: '1780028379.559659'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning Nonlinear Factor Models with Unknown Monotone Links from Incomplete
+  and Noisy Data
 ---
 # Learning Nonlinear Factor Models with Unknown Monotone Links from Incomplete and Noisy Data
 > 原文: [https://arxiv.org/abs/2605.26271](https://arxiv.org/abs/2605.26271)

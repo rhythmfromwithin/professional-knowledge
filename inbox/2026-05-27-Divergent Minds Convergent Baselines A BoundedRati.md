@@ -1,11 +1,13 @@
 ---
-title: "Divergent Minds, Convergent Baselines: A Bounded-Rationality Account of LLM-Human Strategic Behaviour"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.26437
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26437
 next_step: skim
+priority: low
+slack_ts: '1780028376.428079'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Divergent Minds, Convergent Baselines: A Bounded-Rationality Account of LLM-Human
+  Strategic Behaviour'
 ---
 # Divergent Minds, Convergent Baselines: A Bounded-Rationality Account of LLM-Human Strategic Behaviour
 > 原文: [https://arxiv.org/abs/2605.26437](https://arxiv.org/abs/2605.26437)

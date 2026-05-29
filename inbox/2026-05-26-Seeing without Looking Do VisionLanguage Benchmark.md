@@ -1,11 +1,12 @@
 ---
-title: "Seeing without Looking: Do Vision-Language Benchmarks Really Test Vision?"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.22903
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.22903
 next_step: skim
+priority: medium
+slack_ts: '1780028370.912309'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Seeing without Looking: Do Vision-Language Benchmarks Really Test Vision?'
 ---
 # Seeing without Looking: Do Vision-Language Benchmarks Really Test Vision?
 > 原文: [https://arxiv.org/abs/2605.22903](https://arxiv.org/abs/2605.22903)

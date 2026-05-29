@@ -1,11 +1,12 @@
 ---
-title: "Collaborative Navigation and Exploration with $\beta$-Sparse Gaussian Processes"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.26304
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26304
 next_step: skim
+priority: medium
+slack_ts: '1780028375.685369'
+source: cs.RO - Robotics
+status: unread
+title: "Collaborative Navigation and Exploration with $\beta$-Sparse Gaussian Processes"
 ---
 # Collaborative Navigation and Exploration with $\beta$-Sparse Gaussian Processes
 > 原文: [https://arxiv.org/abs/2605.26304](https://arxiv.org/abs/2605.26304)
