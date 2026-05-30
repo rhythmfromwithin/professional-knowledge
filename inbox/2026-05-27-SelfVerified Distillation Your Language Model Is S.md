@@ -1,11 +1,13 @@
 ---
-title: "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.26132
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26132
 next_step: skim
+priority: high
+slack_ts: '1780113868.376389'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic
+  Data Pipeline'
 ---
 # Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline
 > 原文: [https://arxiv.org/abs/2605.26132](https://arxiv.org/abs/2605.26132)

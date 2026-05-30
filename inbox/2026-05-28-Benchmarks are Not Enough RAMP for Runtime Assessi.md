@@ -1,11 +1,13 @@
 ---
-title: "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.27492
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27492
 next_step: skim
+priority: low
+slack_ts: '1780113871.274749'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in
+  Production Systems'
 ---
 # Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems
 > 原文: [https://arxiv.org/abs/2605.27492](https://arxiv.org/abs/2605.27492)

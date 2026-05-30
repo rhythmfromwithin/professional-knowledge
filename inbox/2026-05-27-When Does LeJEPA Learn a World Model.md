@@ -1,11 +1,12 @@
 ---
-title: "When Does LeJEPA Learn a World Model?"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.26379
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26379
 next_step: skim
+priority: medium
+slack_ts: '1780113869.846779'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: When Does LeJEPA Learn a World Model?
 ---
 # When Does LeJEPA Learn a World Model?
 > 原文: [https://arxiv.org/abs/2605.26379](https://arxiv.org/abs/2605.26379)

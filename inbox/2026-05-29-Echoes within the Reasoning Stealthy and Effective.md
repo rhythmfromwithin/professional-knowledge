@@ -1,11 +1,13 @@
 ---
-title: "Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.28890
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28890
 next_step: skim
+priority: low
+slack_ts: '1780113878.111819'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain
+  of Thought'
 ---
 # Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought
 > 原文: [https://arxiv.org/abs/2605.28890](https://arxiv.org/abs/2605.28890)

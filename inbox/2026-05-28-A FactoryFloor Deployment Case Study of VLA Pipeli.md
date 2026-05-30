@@ -1,11 +1,13 @@
 ---
-title: "A Factory-Floor Deployment Case Study of VLA Pipelines for Industrial Packaging Task: Workflow, Failures, and Lessons"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.27461
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27461
 next_step: skim
+priority: medium
+slack_ts: '1780113870.168289'
+source: cs.RO - Robotics
+status: unread
+title: 'A Factory-Floor Deployment Case Study of VLA Pipelines for Industrial Packaging
+  Task: Workflow, Failures, and Lessons'
 ---
 # A Factory-Floor Deployment Case Study of VLA Pipelines for Industrial Packaging Task: Workflow, Failures, and Lessons
 > 原文: [https://arxiv.org/abs/2605.27461](https://arxiv.org/abs/2605.27461)

@@ -1,11 +1,13 @@
 ---
-title: "IGADA-IoT: IoT Sensor Energy Optimization in Wireless Sensor Networks Driven by Automatic Data Augmentation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.27397
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27397
 next_step: skim
+priority: high
+slack_ts: '1780113874.054289'
+source: cs.LG - Machine Learning
+status: unread
+title: 'IGADA-IoT: IoT Sensor Energy Optimization in Wireless Sensor Networks Driven
+  by Automatic Data Augmentation'
 ---
 # IGADA-IoT: IoT Sensor Energy Optimization in Wireless Sensor Networks Driven by Automatic Data Augmentation
 > 原文: [https://arxiv.org/abs/2605.27397](https://arxiv.org/abs/2605.27397)

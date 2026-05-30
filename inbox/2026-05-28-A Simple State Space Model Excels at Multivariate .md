@@ -1,11 +1,12 @@
 ---
-title: "A Simple State Space Model Excels at Multivariate Time Series Classification"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.27406
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27406
 next_step: skim
+priority: high
+slack_ts: '1780113870.379409'
+source: cs.LG - Machine Learning
+status: unread
+title: A Simple State Space Model Excels at Multivariate Time Series Classification
 ---
 # A Simple State Space Model Excels at Multivariate Time Series Classification
 > 原文: [https://arxiv.org/abs/2605.27406](https://arxiv.org/abs/2605.27406)

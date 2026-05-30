@@ -1,11 +1,13 @@
 ---
-title: "Calibrated Inference for the Conditional Average Treatment Effect in the Few-Placebo Regime via Gaussian Processes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.27473
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27473
 next_step: skim
+priority: medium
+slack_ts: '1780113871.743129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Calibrated Inference for the Conditional Average Treatment Effect in the Few-Placebo
+  Regime via Gaussian Processes
 ---
 # Calibrated Inference for the Conditional Average Treatment Effect in the Few-Placebo Regime via Gaussian Processes
 > 原文: [https://arxiv.org/abs/2605.27473](https://arxiv.org/abs/2605.27473)

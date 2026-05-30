@@ -1,11 +1,12 @@
 ---
-title: "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.27571
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27571
 next_step: skim
+priority: low
+slack_ts: '1780113872.420899'
+source: cs.DB - Databases
+status: unread
+title: 'Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems'
 ---
 # Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems
 > 原文: [https://arxiv.org/abs/2605.27571](https://arxiv.org/abs/2605.27571)

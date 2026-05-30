@@ -1,11 +1,12 @@
 ---
-title: "Not All Modalities Are Equal: Instruction-Aware Gating for Multimodal Videos"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.26232
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26232
 next_step: skim
+priority: medium
+slack_ts: '1780113867.279099'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Not All Modalities Are Equal: Instruction-Aware Gating for Multimodal Videos'
 ---
 # Not All Modalities Are Equal: Instruction-Aware Gating for Multimodal Videos
 > 原文: [https://arxiv.org/abs/2605.26232](https://arxiv.org/abs/2605.26232)

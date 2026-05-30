@@ -1,11 +1,12 @@
 ---
-title: "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership"
-source: "OpenAI Blog"
-link: https://openai.com/index/grupo-folha-grupo-uol-partnership
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/grupo-folha-grupo-uol-partnership
 next_step: skim
+priority: high
+slack_ts: '1780113867.409939'
+source: OpenAI Blog
+status: unread
+title: OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
 ---
 # OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
 > 原文: [https://openai.com/index/grupo-folha-grupo-uol-partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership)

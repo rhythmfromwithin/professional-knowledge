@@ -1,11 +1,12 @@
 ---
-title: "Xe-Forge: Multi-Stage LLM-Powered Kernel Optimization for Intel GPU"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.26118
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26118
 next_step: skim
+priority: medium
+slack_ts: '1780113869.949229'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Xe-Forge: Multi-Stage LLM-Powered Kernel Optimization for Intel GPU'
 ---
 # Xe-Forge: Multi-Stage LLM-Powered Kernel Optimization for Intel GPU
 > 原文: [https://arxiv.org/abs/2605.26118](https://arxiv.org/abs/2605.26118)

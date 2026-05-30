@@ -1,11 +1,12 @@
 ---
-title: "VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.26144
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26144
 next_step: skim
+priority: low
+slack_ts: '1780113869.424119'
+source: cs.SE - Software Engineering
+status: unread
+title: 'VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents'
 ---
 # VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents
 > 原文: [https://arxiv.org/abs/2605.26144](https://arxiv.org/abs/2605.26144)

@@ -1,11 +1,13 @@
 ---
-title: "Visual Matters: Connecting Aesthetic Appeal and Production Quality of Photos, Infographics and Data Visualizations to Credibility of Social Media Posts"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.26309
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26309
 next_step: skim
+priority: low
+slack_ts: '1780113869.539299'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Visual Matters: Connecting Aesthetic Appeal and Production Quality of Photos,
+  Infographics and Data Visualizations to Credibility of Social Media Posts'
 ---
 # Visual Matters: Connecting Aesthetic Appeal and Production Quality of Photos, Infographics and Data Visualizations to Credibility of Social Media Posts
 > 原文: [https://arxiv.org/abs/2605.26309](https://arxiv.org/abs/2605.26309)

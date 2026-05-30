@@ -1,11 +1,13 @@
 ---
-title: "Semantic-aware Token Selection and Resource Optimization for Communication-efficient Split Federated Fine-tuning in Edge Intelligence"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.26120
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26120
 next_step: skim
+priority: medium
+slack_ts: '1780113868.500019'
+source: cs.DC - Distributed Computing
+status: unread
+title: Semantic-aware Token Selection and Resource Optimization for Communication-efficient
+  Split Federated Fine-tuning in Edge Intelligence
 ---
 # Semantic-aware Token Selection and Resource Optimization for Communication-efficient Split Federated Fine-tuning in Edge Intelligence
 > 原文: [https://arxiv.org/abs/2605.26120](https://arxiv.org/abs/2605.26120)

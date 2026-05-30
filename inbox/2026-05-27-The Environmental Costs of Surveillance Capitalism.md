@@ -1,11 +1,13 @@
 ---
-title: "The Environmental Costs of Surveillance Capitalism: A Case Study of Social Media Platforms"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.26314
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26314
 next_step: skim
+priority: medium
+slack_ts: '1780113868.958959'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Environmental Costs of Surveillance Capitalism: A Case Study of Social
+  Media Platforms'
 ---
 # The Environmental Costs of Surveillance Capitalism: A Case Study of Social Media Platforms
 > 原文: [https://arxiv.org/abs/2605.26314](https://arxiv.org/abs/2605.26314)

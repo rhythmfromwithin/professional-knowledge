@@ -1,11 +1,12 @@
 ---
-title: "Cisco and OpenAI redefine enterprise engineering with Codex"
-source: "OpenAI Blog"
-link: https://openai.com/index/cisco
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/cisco
 next_step: skim
+priority: high
+slack_ts: '1780113871.860219'
+source: OpenAI Blog
+status: unread
+title: Cisco and OpenAI redefine enterprise engineering with Codex
 ---
 # Cisco and OpenAI redefine enterprise engineering with Codex
 > 原文: [https://openai.com/index/cisco](https://openai.com/index/cisco)

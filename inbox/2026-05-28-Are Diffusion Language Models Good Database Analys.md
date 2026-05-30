@@ -1,11 +1,12 @@
 ---
-title: "Are Diffusion Language Models Good Database Analysts?"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.27791
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27791
 next_step: skim
+priority: low
+slack_ts: '1780113871.030179'
+source: cs.DB - Databases
+status: unread
+title: Are Diffusion Language Models Good Database Analysts?
 ---
 # Are Diffusion Language Models Good Database Analysts?
 > 原文: [https://arxiv.org/abs/2605.27791](https://arxiv.org/abs/2605.27791)

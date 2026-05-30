@@ -1,11 +1,13 @@
 ---
-title: "GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.27491
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27491
 next_step: skim
+priority: medium
+slack_ts: '1780113873.427859'
+source: cs.RO - Robotics
+status: unread
+title: 'GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators
+  for Robotic Manipulation'
 ---
 # GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation
 > 原文: [https://arxiv.org/abs/2605.27491](https://arxiv.org/abs/2605.27491)

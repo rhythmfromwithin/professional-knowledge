@@ -1,11 +1,13 @@
 ---
-title: "The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.26856
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26856
 next_step: skim
+priority: low
+slack_ts: '1780113869.092199'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Sensation Modulating Network:Haltability as the architectural ground for
+  object-directed phenomenology
 ---
 # The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology
 > 原文: [https://arxiv.org/abs/2605.26856](https://arxiv.org/abs/2605.26856)

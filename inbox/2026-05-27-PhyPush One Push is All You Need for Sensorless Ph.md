@@ -1,11 +1,13 @@
 ---
-title: "PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.26284
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26284
 next_step: skim
+priority: medium
+slack_ts: '1780113867.535189'
+source: cs.RO - Robotics
+status: unread
+title: 'PhyPush: One Push is All You Need for Sensorless Physical Property Estimation
+  with Physics-Guided Transformers'
 ---
 # PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers
 > 原文: [https://arxiv.org/abs/2605.26284](https://arxiv.org/abs/2605.26284)

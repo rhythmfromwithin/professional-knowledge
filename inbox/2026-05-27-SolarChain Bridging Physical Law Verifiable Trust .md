@@ -1,11 +1,13 @@
 ---
-title: "SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets for Urban Energy Resilience"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.23162
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.23162
 next_step: skim
+priority: low
+slack_ts: '1780113868.746399'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets
+  for Urban Energy Resilience'
 ---
 # SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets for Urban Energy Resilience
 > 原文: [https://arxiv.org/abs/2605.23162](https://arxiv.org/abs/2605.23162)

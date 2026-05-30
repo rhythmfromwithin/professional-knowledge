@@ -1,11 +1,13 @@
 ---
-title: "Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.28860
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28860
 next_step: skim
+priority: high
+slack_ts: '1780113880.054639'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Mechanistic origins of catastrophic forgetting: why RL preserves circuits
+  better than SFT?'
 ---
 # Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?
 > 原文: [https://arxiv.org/abs/2605.28860](https://arxiv.org/abs/2605.28860)

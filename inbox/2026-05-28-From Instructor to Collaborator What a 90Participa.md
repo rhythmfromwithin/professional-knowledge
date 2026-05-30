@@ -1,11 +1,13 @@
 ---
-title: "From Instructor to Collaborator: What a 90-Participant Study Reveals about Human-Agent Collaboration in a Mobile Serious Game"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.27384
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27384
 next_step: skim
+priority: low
+slack_ts: '1780113873.191939'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Instructor to Collaborator: What a 90-Participant Study Reveals about
+  Human-Agent Collaboration in a Mobile Serious Game'
 ---
 # From Instructor to Collaborator: What a 90-Participant Study Reveals about Human-Agent Collaboration in a Mobile Serious Game
 > 原文: [https://arxiv.org/abs/2605.27384](https://arxiv.org/abs/2605.27384)

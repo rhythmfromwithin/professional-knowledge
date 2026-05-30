@@ -1,11 +1,13 @@
 ---
-title: "Context-aware Simopt-Power: Using structural data with simulation metadata to optimise FPGA designs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.27446
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27446
 next_step: skim
+priority: medium
+slack_ts: '1780113872.310419'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Context-aware Simopt-Power: Using structural data with simulation metadata
+  to optimise FPGA designs'
 ---
 # Context-aware Simopt-Power: Using structural data with simulation metadata to optimise FPGA designs
 > 原文: [https://arxiv.org/abs/2605.27446](https://arxiv.org/abs/2605.27446)

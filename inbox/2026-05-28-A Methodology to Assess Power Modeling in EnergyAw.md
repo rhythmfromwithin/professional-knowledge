@@ -1,11 +1,13 @@
 ---
-title: "A Methodology to Assess Power Modeling in Energy-Aware Federated Learning on Heterogeneous Mobile Devices"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.27601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27601
 next_step: skim
+priority: medium
+slack_ts: '1780113870.274259'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Methodology to Assess Power Modeling in Energy-Aware Federated Learning on
+  Heterogeneous Mobile Devices
 ---
 # A Methodology to Assess Power Modeling in Energy-Aware Federated Learning on Heterogeneous Mobile Devices
 > 原文: [https://arxiv.org/abs/2605.27601](https://arxiv.org/abs/2605.27601)

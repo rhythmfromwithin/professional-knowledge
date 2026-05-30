@@ -1,11 +1,13 @@
 ---
-title: "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.26910
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26910
 next_step: skim
+priority: low
+slack_ts: '1780113872.524009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation
+  Models'
 ---
 # EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models
 > 原文: [https://arxiv.org/abs/2605.26910](https://arxiv.org/abs/2605.26910)

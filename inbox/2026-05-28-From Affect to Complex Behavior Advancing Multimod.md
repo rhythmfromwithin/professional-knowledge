@@ -1,11 +1,13 @@
 ---
-title: "From Affect to Complex Behavior: Advancing Multimodal Human-Centered AI at the 10th ABAW Workshop & Competition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.27451
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27451
 next_step: skim
+priority: medium
+slack_ts: '1780113873.061089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'From Affect to Complex Behavior: Advancing Multimodal Human-Centered AI at
+  the 10th ABAW Workshop & Competition'
 ---
 # From Affect to Complex Behavior: Advancing Multimodal Human-Centered AI at the 10th ABAW Workshop & Competition
 > 原文: [https://arxiv.org/abs/2605.27451](https://arxiv.org/abs/2605.27451)

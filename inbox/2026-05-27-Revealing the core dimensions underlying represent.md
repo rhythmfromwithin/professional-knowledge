@@ -1,11 +1,13 @@
 ---
-title: "Revealing the core dimensions underlying representations in brains, behavior and AI"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.26921
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.26921
 next_step: skim
+priority: low
+slack_ts: '1780113868.120079'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Revealing the core dimensions underlying representations in brains, behavior
+  and AI
 ---
 # Revealing the core dimensions underlying representations in brains, behavior and AI
 > 原文: [https://arxiv.org/abs/2605.26921](https://arxiv.org/abs/2605.26921)

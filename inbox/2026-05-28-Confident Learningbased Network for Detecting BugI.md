@@ -1,11 +1,13 @@
 ---
-title: "Confident Learning-based Network for Detecting Bug-Inducing Commits on SZZ with Noisy Labels"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.27880
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27880
 next_step: skim
+priority: low
+slack_ts: '1780113872.060439'
+source: cs.SE - Software Engineering
+status: unread
+title: Confident Learning-based Network for Detecting Bug-Inducing Commits on SZZ
+  with Noisy Labels
 ---
 # Confident Learning-based Network for Detecting Bug-Inducing Commits on SZZ with Noisy Labels
 > 原文: [https://arxiv.org/abs/2605.27880](https://arxiv.org/abs/2605.27880)

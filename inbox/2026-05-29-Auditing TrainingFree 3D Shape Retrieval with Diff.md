@@ -1,11 +1,12 @@
 ---
-title: "Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.29004
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29004
 next_step: skim
+priority: medium
+slack_ts: '1780113877.075259'
+source: cs.CV - Computer Vision
+status: unread
+title: Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments
 ---
 # Auditing Training-Free 3D Shape Retrieval with Diffused Geodesic Moments
 > 原文: [https://arxiv.org/abs/2605.29004](https://arxiv.org/abs/2605.29004)

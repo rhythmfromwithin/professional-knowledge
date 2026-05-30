@@ -1,11 +1,13 @@
 ---
-title: "Quantifying Social Inflation in Liability Insurance with Advanced Statistical Methods"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.27265
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27265
 next_step: skim
+priority: low
+slack_ts: '1780113867.643699'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Quantifying Social Inflation in Liability Insurance with Advanced Statistical
+  Methods
 ---
 # Quantifying Social Inflation in Liability Insurance with Advanced Statistical Methods
 > 原文: [https://arxiv.org/abs/2605.27265](https://arxiv.org/abs/2605.27265)
