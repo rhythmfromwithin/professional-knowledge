@@ -1,11 +1,12 @@
 ---
-title: "HARP: Measuring Harm Amplification in Multi-Agent LLM Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.27489
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27489
 next_step: skim
+priority: low
+slack_ts: '1780202378.700549'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'HARP: Measuring Harm Amplification in Multi-Agent LLM Systems'
 ---
 # HARP: Measuring Harm Amplification in Multi-Agent LLM Systems
 > 原文: [https://arxiv.org/abs/2605.27489](https://arxiv.org/abs/2605.27489)

@@ -1,11 +1,12 @@
 ---
-title: "Human-AI Collaboration for Estimating Scientific Replicability"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.27394
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27394
 next_step: skim
+priority: medium
+slack_ts: '1780202378.984929'
+source: cs.CY - Computers and Society
+status: unread
+title: Human-AI Collaboration for Estimating Scientific Replicability
 ---
 # Human-AI Collaboration for Estimating Scientific Replicability
 > 原文: [https://arxiv.org/abs/2605.27394](https://arxiv.org/abs/2605.27394)

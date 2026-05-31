@@ -1,11 +1,13 @@
 ---
-title: "Prediction-Powered Inference Across Many Tasks for AI Evaluation & Social Science Research"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.29249
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29249
 next_step: skim
+priority: medium
+slack_ts: '1780202387.298609'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Prediction-Powered Inference Across Many Tasks for AI Evaluation & Social Science
+  Research
 ---
 # Prediction-Powered Inference Across Many Tasks for AI Evaluation & Social Science Research
 > 原文: [https://arxiv.org/abs/2605.29249](https://arxiv.org/abs/2605.29249)

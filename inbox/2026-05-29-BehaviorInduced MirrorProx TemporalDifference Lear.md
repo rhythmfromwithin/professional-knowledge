@@ -1,11 +1,13 @@
 ---
-title: "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.28849
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28849
 next_step: skim
+priority: high
+slack_ts: '1780202383.101329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy
+  Prediction
 ---
 # Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction
 > 原文: [https://arxiv.org/abs/2605.28849](https://arxiv.org/abs/2605.28849)

@@ -1,11 +1,12 @@
 ---
-title: "AIRGuard: Guarding Agent Actions with Runtime Authority Control"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.28914
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28914
 next_step: skim
+priority: low
+slack_ts: '1780202382.534499'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'AIRGuard: Guarding Agent Actions with Runtime Authority Control'
 ---
 # AIRGuard: Guarding Agent Actions with Runtime Authority Control
 > 原文: [https://arxiv.org/abs/2605.28914](https://arxiv.org/abs/2605.28914)

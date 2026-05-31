@@ -1,11 +1,12 @@
 ---
-title: "Insider and stealth trading with dynamic legal risk"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.27684
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27684
 next_step: skim
+priority: low
+slack_ts: '1780202379.338989'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Insider and stealth trading with dynamic legal risk
 ---
 # Insider and stealth trading with dynamic legal risk
 > 原文: [https://arxiv.org/abs/2605.27684](https://arxiv.org/abs/2605.27684)

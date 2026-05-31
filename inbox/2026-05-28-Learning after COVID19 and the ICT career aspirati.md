@@ -1,11 +1,13 @@
 ---
-title: "Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.27391
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27391
 next_step: skim
+priority: medium
+slack_ts: '1780202379.815639'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Learning after COVID-19 and the ICT career aspirations: Are students entering
+  the AI era with weaker skills?'
 ---
 # Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
 > 原文: [https://arxiv.org/abs/2605.27391](https://arxiv.org/abs/2605.27391)

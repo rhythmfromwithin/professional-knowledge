@@ -1,11 +1,13 @@
 ---
-title: "Iterative Causal Discovery: Per-Edge Impossibility Certificates, Tier-Aware Oracle Queries, and the $1+K$ Lower Bound"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.27477
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27477
 next_step: skim
+priority: medium
+slack_ts: '1780202379.590169'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Iterative Causal Discovery: Per-Edge Impossibility Certificates, Tier-Aware
+  Oracle Queries, and the $1+K$ Lower Bound'
 ---
 # Iterative Causal Discovery: Per-Edge Impossibility Certificates, Tier-Aware Oracle Queries, and the $1+K$ Lower Bound
 > 原文: [https://arxiv.org/abs/2605.27477](https://arxiv.org/abs/2605.27477)

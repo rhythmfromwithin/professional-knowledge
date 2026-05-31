@@ -1,11 +1,13 @@
 ---
-title: "Designing for the Moment: How One-Minute Interventions Fit or Falter Across Domains"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.29051
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29051
 next_step: skim
+priority: low
+slack_ts: '1780202384.159089'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Designing for the Moment: How One-Minute Interventions Fit or Falter Across
+  Domains'
 ---
 # Designing for the Moment: How One-Minute Interventions Fit or Falter Across Domains
 > 原文: [https://arxiv.org/abs/2605.29051](https://arxiv.org/abs/2605.29051)

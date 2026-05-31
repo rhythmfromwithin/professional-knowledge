@@ -1,11 +1,12 @@
 ---
-title: "Anytime-Valid Federated Conformal RAG for LLM Swarms"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.29139
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29139
 next_step: skim
+priority: medium
+slack_ts: '1780202382.882669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Anytime-Valid Federated Conformal RAG for LLM Swarms
 ---
 # Anytime-Valid Federated Conformal RAG for LLM Swarms
 > 原文: [https://arxiv.org/abs/2605.29139](https://arxiv.org/abs/2605.29139)

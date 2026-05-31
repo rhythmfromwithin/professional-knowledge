@@ -1,11 +1,12 @@
 ---
-title: "On the Origin of Synthetic Information by Means of Steganographic Inheritance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.27551
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27551
 next_step: skim
+priority: high
+slack_ts: '1780202380.578629'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: On the Origin of Synthetic Information by Means of Steganographic Inheritance
 ---
 # On the Origin of Synthetic Information by Means of Steganographic Inheritance
 > 原文: [https://arxiv.org/abs/2605.27551](https://arxiv.org/abs/2605.27551)

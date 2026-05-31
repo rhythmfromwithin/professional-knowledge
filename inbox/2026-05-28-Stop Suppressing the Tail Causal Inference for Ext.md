@@ -1,11 +1,12 @@
 ---
-title: "Stop Suppressing the Tail: Causal Inference for Extreme Events"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.27474
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27474
 next_step: skim
+priority: medium
+slack_ts: '1780202381.632339'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Stop Suppressing the Tail: Causal Inference for Extreme Events'
 ---
 # Stop Suppressing the Tail: Causal Inference for Extreme Events
 > 原文: [https://arxiv.org/abs/2605.27474](https://arxiv.org/abs/2605.27474)

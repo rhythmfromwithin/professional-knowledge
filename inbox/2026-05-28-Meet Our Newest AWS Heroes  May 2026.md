@@ -1,11 +1,12 @@
 ---
-title: "Meet Our Newest AWS Heroes – May 2026"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/
 next_step: skim
+priority: high
+slack_ts: '1780202380.310439'
+source: AWS Blog
+status: unread
+title: Meet Our Newest AWS Heroes – May 2026
 ---
 # Meet Our Newest AWS Heroes – May 2026
 > 原文: [https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/)

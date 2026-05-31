@@ -1,11 +1,12 @@
 ---
-title: "Does Distributed Training Undermine Compute Governance?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.29359
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29359
 next_step: skim
+priority: medium
+slack_ts: '1780202384.274899'
+source: cs.CY - Computers and Society
+status: unread
+title: Does Distributed Training Undermine Compute Governance?
 ---
 # Does Distributed Training Undermine Compute Governance?
 > 原文: [https://arxiv.org/abs/2605.29359](https://arxiv.org/abs/2605.29359)

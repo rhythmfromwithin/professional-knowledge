@@ -1,11 +1,13 @@
 ---
-title: "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/
 next_step: skim
+priority: high
+slack_ts: '1780202386.278539'
+source: Microsoft Research
+status: unread
+title: 'MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for
+  small models'
 ---
 # MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models
 > 原文: [https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/)

@@ -1,11 +1,12 @@
 ---
-title: "SCALE-COMM: Shared, Contrastively-Aligned Latent Embeddings for MARL Communication"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.27532
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27532
 next_step: skim
+priority: medium
+slack_ts: '1780202381.028889'
+source: cs.RO - Robotics
+status: unread
+title: 'SCALE-COMM: Shared, Contrastively-Aligned Latent Embeddings for MARL Communication'
 ---
 # SCALE-COMM: Shared, Contrastively-Aligned Latent Embeddings for MARL Communication
 > 原文: [https://arxiv.org/abs/2605.27532](https://arxiv.org/abs/2605.27532)

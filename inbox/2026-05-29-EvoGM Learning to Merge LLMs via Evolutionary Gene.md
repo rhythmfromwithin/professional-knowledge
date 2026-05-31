@@ -1,11 +1,12 @@
 ---
-title: "EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.29295
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29295
 next_step: skim
+priority: low
+slack_ts: '1780202384.423899'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization'
 ---
 # EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization
 > 原文: [https://arxiv.org/abs/2605.29295](https://arxiv.org/abs/2605.29295)

@@ -1,11 +1,13 @@
 ---
-title: "LLM Based Web Accessibility Repair: An Empirical Study of Detection, Remediation, and Cost"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.27716
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27716
 next_step: skim
+priority: low
+slack_ts: '1780202379.707669'
+source: cs.SE - Software Engineering
+status: unread
+title: 'LLM Based Web Accessibility Repair: An Empirical Study of Detection, Remediation,
+  and Cost'
 ---
 # LLM Based Web Accessibility Repair: An Empirical Study of Detection, Remediation, and Cost
 > 原文: [https://arxiv.org/abs/2605.27716](https://arxiv.org/abs/2605.27716)

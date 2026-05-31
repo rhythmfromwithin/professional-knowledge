@@ -1,11 +1,13 @@
 ---
-title: "Genetic algorithm vs. gradient descent for training a neural network architecture dedicated to low data regimes in small medical datasets"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.27411
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27411
 next_step: skim
+priority: low
+slack_ts: '1780202378.442699'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Genetic algorithm vs. gradient descent for training a neural network architecture
+  dedicated to low data regimes in small medical datasets
 ---
 # Genetic algorithm vs. gradient descent for training a neural network architecture dedicated to low data regimes in small medical datasets
 > 原文: [https://arxiv.org/abs/2605.27411](https://arxiv.org/abs/2605.27411)

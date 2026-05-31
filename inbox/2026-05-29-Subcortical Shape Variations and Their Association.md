@@ -1,11 +1,13 @@
 ---
-title: "Subcortical Shape Variations and Their Associations with Cognition Across the 8th Decade of Life. A Study in the Lothian Birth Cohort 1936"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.29703
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29703
 next_step: skim
+priority: low
+slack_ts: '1780202388.295259'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Subcortical Shape Variations and Their Associations with Cognition Across the
+  8th Decade of Life. A Study in the Lothian Birth Cohort 1936
 ---
 # Subcortical Shape Variations and Their Associations with Cognition Across the 8th Decade of Life. A Study in the Lothian Birth Cohort 1936
 > 原文: [https://arxiv.org/abs/2605.29703](https://arxiv.org/abs/2605.29703)

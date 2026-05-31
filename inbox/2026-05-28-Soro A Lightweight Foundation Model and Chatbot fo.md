@@ -1,11 +1,12 @@
 ---
-title: "Soro: A Lightweight Foundation Model and Chatbot for Tajik"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.27379
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27379
 next_step: skim
+priority: high
+slack_ts: '1780202381.510819'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Soro: A Lightweight Foundation Model and Chatbot for Tajik'
 ---
 # Soro: A Lightweight Foundation Model and Chatbot for Tajik
 > 原文: [https://arxiv.org/abs/2605.27379](https://arxiv.org/abs/2605.27379)

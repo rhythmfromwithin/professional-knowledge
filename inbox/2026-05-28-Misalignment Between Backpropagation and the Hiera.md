@@ -1,11 +1,13 @@
 ---
-title: "Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.28693
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28693
 next_step: skim
+priority: low
+slack_ts: '1780202380.457379'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Misalignment Between Backpropagation and the Hierarchy of Brain Responses to
+  Images
 ---
 # Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images
 > 原文: [https://arxiv.org/abs/2605.28693](https://arxiv.org/abs/2605.28693)

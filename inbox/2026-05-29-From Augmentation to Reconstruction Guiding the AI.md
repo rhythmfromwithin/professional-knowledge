@@ -1,11 +1,13 @@
 ---
-title: "From Augmentation to Reconstruction: Guiding the AI Disruption to the Good Place"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.29207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29207
 next_step: skim
+priority: low
+slack_ts: '1780202384.786319'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'From Augmentation to Reconstruction: Guiding the AI Disruption to the Good
+  Place'
 ---
 # From Augmentation to Reconstruction: Guiding the AI Disruption to the Good Place
 > 原文: [https://arxiv.org/abs/2605.29207](https://arxiv.org/abs/2605.29207)

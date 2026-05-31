@@ -1,11 +1,13 @@
 ---
-title: "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.27373
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27373
 next_step: skim
+priority: high
+slack_ts: '1780202379.089759'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Identifying and Understanding Human Values in Text: A Tailorable LLM-based
+  Architecture'
 ---
 # Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture
 > 原文: [https://arxiv.org/abs/2605.27373](https://arxiv.org/abs/2605.27373)

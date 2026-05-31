@@ -1,11 +1,13 @@
 ---
-title: "Personalized Observation Normalization for Federated Reinforcement Learning in Simulation Environments with Heterogeneity"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.27385
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27385
 next_step: skim
+priority: high
+slack_ts: '1780202380.690849'
+source: cs.LG - Machine Learning
+status: unread
+title: Personalized Observation Normalization for Federated Reinforcement Learning
+  in Simulation Environments with Heterogeneity
 ---
 # Personalized Observation Normalization for Federated Reinforcement Learning in Simulation Environments with Heterogeneity
 > 原文: [https://arxiv.org/abs/2605.27385](https://arxiv.org/abs/2605.27385)

@@ -1,11 +1,13 @@
 ---
-title: "HPC-vQPU: A Service-Export Architecture for Virtual QPUs on Batch-Scheduled HPC Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.28845
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28845
 next_step: skim
+priority: medium
+slack_ts: '1780202385.152289'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'HPC-vQPU: A Service-Export Architecture for Virtual QPUs on Batch-Scheduled
+  HPC Systems'
 ---
 # HPC-vQPU: A Service-Export Architecture for Virtual QPUs on Batch-Scheduled HPC Systems
 > 原文: [https://arxiv.org/abs/2605.28845](https://arxiv.org/abs/2605.28845)

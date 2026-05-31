@@ -1,11 +1,12 @@
 ---
-title: "The Alignment Floor: When Persona Customization Is Safe"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.27382
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27382
 next_step: skim
+priority: low
+slack_ts: '1780202381.752239'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Alignment Floor: When Persona Customization Is Safe'
 ---
 # The Alignment Floor: When Persona Customization Is Safe
 > 原文: [https://arxiv.org/abs/2605.27382](https://arxiv.org/abs/2605.27382)
