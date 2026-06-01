@@ -1,11 +1,12 @@
 ---
-title: "ScanTwin: Simulating Performance Regressions Without Access to Tenant Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.29093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29093
 next_step: skim
+priority: low
+slack_ts: '1780290088.514679'
+source: cs.DB - Databases
+status: unread
+title: 'ScanTwin: Simulating Performance Regressions Without Access to Tenant Data'
 ---
 # ScanTwin: Simulating Performance Regressions Without Access to Tenant Data
 > 原文: [https://arxiv.org/abs/2605.29093](https://arxiv.org/abs/2605.29093)

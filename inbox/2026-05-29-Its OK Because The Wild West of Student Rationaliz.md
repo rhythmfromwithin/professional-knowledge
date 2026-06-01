@@ -1,11 +1,5 @@
 ---
-title: ""It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.29090
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1780290086.749479'
 ---
 # "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing
 > 原文: [https://arxiv.org/abs/2605.29090](https://arxiv.org/abs/2605.29090)

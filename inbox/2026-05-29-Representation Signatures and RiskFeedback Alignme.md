@@ -1,11 +1,12 @@
 ---
-title: "Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.28850
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28850
 next_step: skim
+priority: high
+slack_ts: '1780290088.233959'
+source: cs.LG - Machine Learning
+status: unread
+title: Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents
 ---
 # Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents
 > 原文: [https://arxiv.org/abs/2605.28850](https://arxiv.org/abs/2605.28850)

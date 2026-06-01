@@ -1,11 +1,13 @@
 ---
-title: "Unlocking Fine-Grained and Within-Utterance Speaking Style Control in Prompt-Based Text-to-Speech Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.27376
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.27376
 next_step: skim
+priority: high
+slack_ts: '1780290089.222269'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Unlocking Fine-Grained and Within-Utterance Speaking Style Control in Prompt-Based
+  Text-to-Speech Models
 ---
 # Unlocking Fine-Grained and Within-Utterance Speaking Style Control in Prompt-Based Text-to-Speech Models
 > 原文: [https://arxiv.org/abs/2605.27376](https://arxiv.org/abs/2605.27376)

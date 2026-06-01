@@ -1,11 +1,12 @@
 ---
-title: "Boston Children’s uses AI to unlock new diagnoses"
-source: "OpenAI Blog"
-link: https://openai.com/index/boston-childrens-hospital
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/boston-childrens-hospital
 next_step: skim
+priority: high
+slack_ts: '1780290092.338019'
+source: OpenAI Blog
+status: unread
+title: Boston Children’s uses AI to unlock new diagnoses
 ---
 # Boston Children’s uses AI to unlock new diagnoses
 > 原文: [https://openai.com/index/boston-childrens-hospital](https://openai.com/index/boston-childrens-hospital)

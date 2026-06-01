@@ -1,11 +1,13 @@
 ---
-title: "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.28864
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28864
 next_step: skim
+priority: high
+slack_ts: '1780290088.939089'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases
+  for Language Modeling'
 ---
 # The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling
 > 原文: [https://arxiv.org/abs/2605.28864](https://arxiv.org/abs/2605.28864)

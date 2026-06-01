@@ -1,11 +1,12 @@
 ---
-title: "LogDx-CI: Benchmarking Log Reduction Tools for LLM Root-Cause Diagnosis"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.28876
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28876
 next_step: skim
+priority: low
+slack_ts: '1780290087.011289'
+source: cs.SE - Software Engineering
+status: unread
+title: 'LogDx-CI: Benchmarking Log Reduction Tools for LLM Root-Cause Diagnosis'
 ---
 # LogDx-CI: Benchmarking Log Reduction Tools for LLM Root-Cause Diagnosis
 > 原文: [https://arxiv.org/abs/2605.28876](https://arxiv.org/abs/2605.28876)

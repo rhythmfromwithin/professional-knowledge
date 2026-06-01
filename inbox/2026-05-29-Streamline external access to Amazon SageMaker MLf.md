@@ -1,11 +1,12 @@
 ---
-title: "Streamline external access to Amazon SageMaker MLflow using a REST API proxy"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/
 next_step: skim
+priority: high
+slack_ts: '1780290088.856269'
+source: AWS Blog
+status: unread
+title: Streamline external access to Amazon SageMaker MLflow using a REST API proxy
 ---
 # Streamline external access to Amazon SageMaker MLflow using a REST API proxy
 > 原文: [https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/](https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/)

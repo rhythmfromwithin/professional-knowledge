@@ -1,11 +1,13 @@
 ---
-title: "One Ring to Shuffle Them All: Scalable Intra-Process Data Redistribution with Ring-Buffer Shuffle in Redpanda Oxla"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.29099
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29099
 next_step: skim
+priority: low
+slack_ts: '1780290087.884129'
+source: cs.DB - Databases
+status: unread
+title: 'One Ring to Shuffle Them All: Scalable Intra-Process Data Redistribution with
+  Ring-Buffer Shuffle in Redpanda Oxla'
 ---
 # One Ring to Shuffle Them All: Scalable Intra-Process Data Redistribution with Ring-Buffer Shuffle in Redpanda Oxla
 > 原文: [https://arxiv.org/abs/2605.29099](https://arxiv.org/abs/2605.29099)

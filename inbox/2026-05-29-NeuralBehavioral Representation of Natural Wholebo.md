@@ -1,11 +1,12 @@
 ---
-title: "Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.29355
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29355
 next_step: skim
+priority: low
+slack_ts: '1780290087.726519'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys
 ---
 # Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys
 > 原文: [https://arxiv.org/abs/2605.29355](https://arxiv.org/abs/2605.29355)

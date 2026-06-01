@@ -1,11 +1,12 @@
 ---
-title: "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/
 next_step: skim
+priority: high
+slack_ts: '1780290090.010469'
+source: AWS Blog
+status: unread
+title: Build a custom portal with embedded Amazon SageMaker AI MLflow Apps
 ---
 # Build a custom portal with embedded Amazon SageMaker AI MLflow Apps
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/](https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/)

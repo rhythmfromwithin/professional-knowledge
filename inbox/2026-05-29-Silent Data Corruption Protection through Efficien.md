@@ -1,11 +1,12 @@
 ---
-title: "Silent Data Corruption Protection through Efficient Task Replication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.29506
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29506
 next_step: skim
+priority: medium
+slack_ts: '1780290088.613489'
+source: cs.DC - Distributed Computing
+status: unread
+title: Silent Data Corruption Protection through Efficient Task Replication
 ---
 # Silent Data Corruption Protection through Efficient Task Replication
 > 原文: [https://arxiv.org/abs/2605.29506](https://arxiv.org/abs/2605.29506)

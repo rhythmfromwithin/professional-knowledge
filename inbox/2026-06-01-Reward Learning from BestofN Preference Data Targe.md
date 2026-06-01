@@ -1,0 +1,14 @@
+---
+title: "Reward Learning from Best-of-$N$ Preference Data: Targets, Tradeoffs, and Design Principles"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2605.30619
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Reward Learning from Best-of-$N$ Preference Data: Targets, Tradeoffs, and Design Principles
+> 原文: [https://arxiv.org/abs/2605.30619](https://arxiv.org/abs/2605.30619)
+
+arXiv:2605.30619v1 Announce Type: new
+Abstract: Best-of-$N$ sampling is widely used to construct pairwise preference data: $N$ candidates are drawn from a base distribution, and the best is paired with a rejected response. Despite its widespread use, what Bradley--Terry (BT) reward learning extracts from such data, and how to choose $N$ and the base distribution, remain unclear. We specialize a recent analysis of preference data via its induced conditional distribution to Best-of-$N$. For independent-reference variants, we derive closed-form reward targets as explicit functions of $N$ and the base distribution, and show that they preserve the latent reward ranking. For the practical Best-vs-Random and Best-vs-Worst variants, chosen and rejected responses are coupled through the same candidate set, so exact BT representability generally fails; nevertheless, bounded-class minimizers approach the reference targets as $N$ grows. Although margin and connectivity are known to govern sample efficiency in pairwise preference learning, Best-of-$N$ couples them through $N$ in opposing directions: larger $N$ widens pairwise margins but reduces connectivity. This trade-off yields two design principles: use larger $N$ when preference labels are the bottleneck, smaller $N$ when generation is the bottleneck; and shape the base distribution to place mass between the responses whose comparison matters most at test time. Experiments on synthetic and real preference data support the predicted dependence on sample size and base-distribution shape.

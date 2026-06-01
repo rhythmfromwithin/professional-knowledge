@@ -1,11 +1,12 @@
 ---
-title: "Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.28908
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28908
 next_step: skim
+priority: low
+slack_ts: '1780290089.568709'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries
 ---
 # Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries
 > 原文: [https://arxiv.org/abs/2605.28908](https://arxiv.org/abs/2605.28908)

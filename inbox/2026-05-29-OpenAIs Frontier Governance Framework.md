@@ -1,11 +1,12 @@
 ---
-title: "OpenAI’s Frontier Governance Framework"
-source: "OpenAI Blog"
-link: https://openai.com/index/openai-frontier-governance-framework
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/openai-frontier-governance-framework
 next_step: skim
+priority: high
+slack_ts: '1780290087.959889'
+source: OpenAI Blog
+status: unread
+title: OpenAI’s Frontier Governance Framework
 ---
 # OpenAI’s Frontier Governance Framework
 > 原文: [https://openai.com/index/openai-frontier-governance-framework](https://openai.com/index/openai-frontier-governance-framework)

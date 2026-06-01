@@ -1,11 +1,13 @@
 ---
-title: "Long-Term Health and Human Capital Effects of Universal Health Care and Mass Literacy: Evidence from Cuba"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.29785
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29785
 next_step: skim
+priority: low
+slack_ts: '1780290087.096559'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Long-Term Health and Human Capital Effects of Universal Health Care and Mass
+  Literacy: Evidence from Cuba'
 ---
 # Long-Term Health and Human Capital Effects of Universal Health Care and Mass Literacy: Evidence from Cuba
 > 原文: [https://arxiv.org/abs/2605.29785](https://arxiv.org/abs/2605.29785)

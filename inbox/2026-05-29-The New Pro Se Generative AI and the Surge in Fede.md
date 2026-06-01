@@ -1,11 +1,12 @@
 ---
-title: "The New Pro Se: Generative AI and the Surge in Federal Civil Self-Representation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.29493
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29493
 next_step: skim
+priority: medium
+slack_ts: '1780290089.018919'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The New Pro Se: Generative AI and the Surge in Federal Civil Self-Representation'
 ---
 # The New Pro Se: Generative AI and the Surge in Federal Civil Self-Representation
 > 原文: [https://arxiv.org/abs/2605.29493](https://arxiv.org/abs/2605.29493)

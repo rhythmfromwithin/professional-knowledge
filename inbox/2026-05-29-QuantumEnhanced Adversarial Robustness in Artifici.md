@@ -1,11 +1,12 @@
 ---
-title: "Quantum-Enhanced Adversarial Robustness in Artificial Intelligence"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.28899
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28899
 next_step: skim
+priority: low
+slack_ts: '1780290088.053869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Quantum-Enhanced Adversarial Robustness in Artificial Intelligence
 ---
 # Quantum-Enhanced Adversarial Robustness in Artificial Intelligence
 > 原文: [https://arxiv.org/abs/2605.28899](https://arxiv.org/abs/2605.28899)

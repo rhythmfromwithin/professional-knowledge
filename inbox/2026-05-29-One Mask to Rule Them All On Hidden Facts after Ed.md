@@ -1,11 +1,12 @@
 ---
-title: "One Mask to Rule Them All: On Hidden Facts after Editing and How to Find Them"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.28839
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28839
 next_step: skim
+priority: high
+slack_ts: '1780290087.806229'
+source: cs.LG - Machine Learning
+status: unread
+title: 'One Mask to Rule Them All: On Hidden Facts after Editing and How to Find Them'
 ---
 # One Mask to Rule Them All: On Hidden Facts after Editing and How to Find Them
 > 原文: [https://arxiv.org/abs/2605.28839](https://arxiv.org/abs/2605.28839)

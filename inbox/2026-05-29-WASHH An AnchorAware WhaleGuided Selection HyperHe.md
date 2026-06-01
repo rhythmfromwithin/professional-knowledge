@@ -1,11 +1,13 @@
 ---
-title: "WASHH: An Anchor-Aware Whale-Guided Selection Hyper-Heuristic for Continuous Optimization and SVC Configuration"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.28844
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28844
 next_step: skim
+priority: low
+slack_ts: '1780290089.406139'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'WASHH: An Anchor-Aware Whale-Guided Selection Hyper-Heuristic for Continuous
+  Optimization and SVC Configuration'
 ---
 # WASHH: An Anchor-Aware Whale-Guided Selection Hyper-Heuristic for Continuous Optimization and SVC Configuration
 > 原文: [https://arxiv.org/abs/2605.28844](https://arxiv.org/abs/2605.28844)

@@ -1,11 +1,13 @@
 ---
-title: "Runtime Analysis of a Compact Genetic Algorithm on a Truly Multi-valued OneMax Function"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.29477
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29477
 next_step: skim
+priority: low
+slack_ts: '1780290088.315159'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Runtime Analysis of a Compact Genetic Algorithm on a Truly Multi-valued OneMax
+  Function
 ---
 # Runtime Analysis of a Compact Genetic Algorithm on a Truly Multi-valued OneMax Function
 > 原文: [https://arxiv.org/abs/2605.29477](https://arxiv.org/abs/2605.29477)

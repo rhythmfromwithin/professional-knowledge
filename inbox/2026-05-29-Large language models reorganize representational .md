@@ -1,11 +1,13 @@
 ---
-title: "Large language models reorganize representational geometry during in-context learning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.28854
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.28854
 next_step: skim
+priority: low
+slack_ts: '1780290086.841009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Large language models reorganize representational geometry during in-context
+  learning
 ---
 # Large language models reorganize representational geometry during in-context learning
 > 原文: [https://arxiv.org/abs/2605.28854](https://arxiv.org/abs/2605.28854)

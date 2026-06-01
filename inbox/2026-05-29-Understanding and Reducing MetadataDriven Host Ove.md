@@ -1,11 +1,13 @@
 ---
-title: "Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based GNN Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.29346
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.29346
 next_step: skim
+priority: medium
+slack_ts: '1780290089.098319'
+source: cs.DC - Distributed Computing
+status: unread
+title: Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based
+  GNN Training
 ---
 # Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based GNN Training
 > 原文: [https://arxiv.org/abs/2605.29346](https://arxiv.org/abs/2605.29346)
