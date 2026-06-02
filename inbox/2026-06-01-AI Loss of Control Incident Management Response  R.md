@@ -1,11 +1,12 @@
 ---
-title: "AI Loss of Control Incident Management: Response & Resilience"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.30406
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30406
 next_step: skim
+priority: medium
+slack_ts: '1780375673.892299'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI Loss of Control Incident Management: Response & Resilience'
 ---
 # AI Loss of Control Incident Management: Response & Resilience
 > 原文: [https://arxiv.org/abs/2605.30406](https://arxiv.org/abs/2605.30406)

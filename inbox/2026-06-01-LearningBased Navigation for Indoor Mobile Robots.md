@@ -1,11 +1,12 @@
 ---
-title: "Learning-Based Navigation for Indoor Mobile Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.30468
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30468
 next_step: skim
+priority: medium
+slack_ts: '1780375675.591579'
+source: cs.RO - Robotics
+status: unread
+title: Learning-Based Navigation for Indoor Mobile Robots
 ---
 # Learning-Based Navigation for Indoor Mobile Robots
 > 原文: [https://arxiv.org/abs/2605.30468](https://arxiv.org/abs/2605.30468)

@@ -1,7 +1,9 @@
 ---
-title: "Viaduct 1.0 and the future of Airbnb’s data mesh"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss
+slack_ts: '1780375673.564149'
+source: Airbnb Engineering
+title: Viaduct 1.0 and the future of Airbnb’s data mesh
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

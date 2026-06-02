@@ -1,11 +1,12 @@
 ---
-title: "Check out real-life AI prototypes from the Futures Lab."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
 next_step: skim
+priority: high
+slack_ts: '1780375671.617859'
+source: Google AI Blog
+status: unread
+title: Check out real-life AI prototypes from the Futures Lab.
 ---
 # Check out real-life AI prototypes from the Futures Lab.
 > 原文: [https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/](https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/)

@@ -1,11 +1,12 @@
 ---
-title: "A Datalog Framework for Conflict-Free Replicated Data Types"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.31569
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.31569
 next_step: skim
+priority: medium
+slack_ts: '1780375673.801059'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Datalog Framework for Conflict-Free Replicated Data Types
 ---
 # A Datalog Framework for Conflict-Free Replicated Data Types
 > 原文: [https://arxiv.org/abs/2605.31569](https://arxiv.org/abs/2605.31569)
