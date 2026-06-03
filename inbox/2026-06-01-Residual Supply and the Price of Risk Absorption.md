@@ -1,11 +1,12 @@
 ---
-title: "Residual Supply and the Price of Risk Absorption"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.30672
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30672
 next_step: skim
+priority: low
+slack_ts: '1780462692.684989'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Residual Supply and the Price of Risk Absorption
 ---
 # Residual Supply and the Price of Risk Absorption
 > 原文: [https://arxiv.org/abs/2605.30672](https://arxiv.org/abs/2605.30672)

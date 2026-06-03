@@ -1,11 +1,13 @@
 ---
-title: "Improving Small Language Models for Code Generation with Reinforcement Learning from Verification Feedback"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.30478
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30478
 next_step: skim
+priority: low
+slack_ts: '1780462689.612439'
+source: cs.SE - Software Engineering
+status: unread
+title: Improving Small Language Models for Code Generation with Reinforcement Learning
+  from Verification Feedback
 ---
 # Improving Small Language Models for Code Generation with Reinforcement Learning from Verification Feedback
 > 原文: [https://arxiv.org/abs/2605.30478](https://arxiv.org/abs/2605.30478)

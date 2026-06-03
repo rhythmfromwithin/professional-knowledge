@@ -1,11 +1,12 @@
 ---
-title: "Exploring Autonomous Agentic Data Engineering for Model Specialization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.30407
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30407
 next_step: skim
+priority: high
+slack_ts: '1780462688.568159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Exploring Autonomous Agentic Data Engineering for Model Specialization
 ---
 # Exploring Autonomous Agentic Data Engineering for Model Specialization
 > 原文: [https://arxiv.org/abs/2605.30407](https://arxiv.org/abs/2605.30407)

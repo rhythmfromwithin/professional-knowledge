@@ -1,11 +1,13 @@
 ---
-title: "Domain Adaptation and Reasoning Frameworks in Language Models: A Controlled Experiment with Historical Cosmology"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.30415
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30415
 next_step: skim
+priority: high
+slack_ts: '1780462688.233409'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Domain Adaptation and Reasoning Frameworks in Language Models: A Controlled
+  Experiment with Historical Cosmology'
 ---
 # Domain Adaptation and Reasoning Frameworks in Language Models: A Controlled Experiment with Historical Cosmology
 > 原文: [https://arxiv.org/abs/2605.30415](https://arxiv.org/abs/2605.30415)

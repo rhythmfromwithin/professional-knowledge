@@ -1,11 +1,13 @@
 ---
-title: "VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData Synthesis"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.00053
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00053
 next_step: skim
+priority: medium
+slack_ts: '1780462700.338699'
+source: cs.RO - Robotics
+status: unread
+title: 'VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData
+  Synthesis'
 ---
 # VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData Synthesis
 > 原文: [https://arxiv.org/abs/2606.00053](https://arxiv.org/abs/2606.00053)

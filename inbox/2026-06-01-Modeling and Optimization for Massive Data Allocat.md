@@ -1,11 +1,12 @@
 ---
-title: "Modeling and Optimization for Massive Data Allocation in Database"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.31002
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.31002
 next_step: skim
+priority: low
+slack_ts: '1780462690.931219'
+source: cs.DB - Databases
+status: unread
+title: Modeling and Optimization for Massive Data Allocation in Database
 ---
 # Modeling and Optimization for Massive Data Allocation in Database
 > 原文: [https://arxiv.org/abs/2605.31002](https://arxiv.org/abs/2605.31002)

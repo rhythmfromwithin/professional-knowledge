@@ -1,11 +1,13 @@
 ---
-title: "From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.00054
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00054
 next_step: skim
+priority: medium
+slack_ts: '1780462696.710899'
+source: cs.RO - Robotics
+status: unread
+title: 'From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action
+  Learning with Human-Centric Data'
 ---
 # From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data
 > 原文: [https://arxiv.org/abs/2606.00054](https://arxiv.org/abs/2606.00054)

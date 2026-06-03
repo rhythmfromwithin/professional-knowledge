@@ -1,11 +1,12 @@
 ---
-title: "DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.30431
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30431
 next_step: skim
+priority: medium
+slack_ts: '1780462688.045109'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution'
 ---
 # DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution
 > 原文: [https://arxiv.org/abs/2605.30431](https://arxiv.org/abs/2605.30431)

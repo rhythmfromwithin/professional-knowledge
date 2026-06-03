@@ -1,11 +1,12 @@
 ---
-title: "Recession Detection in Japan using Labor Market Data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.00948
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00948
 next_step: skim
+priority: low
+slack_ts: '1780462699.356049'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Recession Detection in Japan using Labor Market Data
 ---
 # Recession Detection in Japan using Labor Market Data
 > 原文: [https://arxiv.org/abs/2606.00948](https://arxiv.org/abs/2606.00948)

@@ -1,11 +1,12 @@
 ---
-title: "Rationalize: Shared Semantic Reasoning for Human-AI Alignment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.30632
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30632
 next_step: skim
+priority: low
+slack_ts: '1780462692.424099'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Rationalize: Shared Semantic Reasoning for Human-AI Alignment'
 ---
 # Rationalize: Shared Semantic Reasoning for Human-AI Alignment
 > 原文: [https://arxiv.org/abs/2605.30632](https://arxiv.org/abs/2605.30632)

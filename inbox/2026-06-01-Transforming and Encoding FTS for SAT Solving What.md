@@ -1,11 +1,13 @@
 ---
-title: "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.30563
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30563
 next_step: skim
+priority: high
+slack_ts: '1780462694.103449'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended
+  Version)'
 ---
 # Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)
 > 原文: [https://arxiv.org/abs/2605.30563](https://arxiv.org/abs/2605.30563)

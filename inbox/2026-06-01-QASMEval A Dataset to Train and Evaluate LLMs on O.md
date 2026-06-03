@@ -1,11 +1,13 @@
 ---
-title: "QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.30358
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30358
 next_step: skim
+priority: high
+slack_ts: '1780462692.257209'
+source: cs.LG - Machine Learning
+status: unread
+title: 'QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum
+  Circuits'
 ---
 # QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits
 > 原文: [https://arxiv.org/abs/2605.30358](https://arxiv.org/abs/2605.30358)

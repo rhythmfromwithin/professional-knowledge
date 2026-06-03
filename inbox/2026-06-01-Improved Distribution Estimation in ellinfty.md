@@ -1,11 +1,5 @@
 ---
-title: "Improved Distribution Estimation in $\ell_\infty$"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.30509
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1780462689.519509'
 ---
 # Improved Distribution Estimation in $\ell_\infty$
 > 原文: [https://arxiv.org/abs/2605.30509](https://arxiv.org/abs/2605.30509)

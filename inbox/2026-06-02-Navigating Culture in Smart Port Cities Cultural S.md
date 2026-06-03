@@ -1,11 +1,13 @@
 ---
-title: "Navigating Culture in Smart Port Cities: Cultural Sensitivity and Digital Engagement Among Sailing Tourists in the Mediterranean"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.00004
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00004
 next_step: skim
+priority: low
+slack_ts: '1780462698.753399'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Navigating Culture in Smart Port Cities: Cultural Sensitivity and Digital
+  Engagement Among Sailing Tourists in the Mediterranean'
 ---
 # Navigating Culture in Smart Port Cities: Cultural Sensitivity and Digital Engagement Among Sailing Tourists in the Mediterranean
 > 原文: [https://arxiv.org/abs/2606.00004](https://arxiv.org/abs/2606.00004)

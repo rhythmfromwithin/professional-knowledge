@@ -1,11 +1,12 @@
 ---
-title: "The Surface You Test Is Not the Surface That Breaks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.30454
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30454
 next_step: skim
+priority: low
+slack_ts: '1780462693.672909'
+source: cs.CR - Cryptography and Security
+status: unread
+title: The Surface You Test Is Not the Surface That Breaks
 ---
 # The Surface You Test Is Not the Surface That Breaks
 > 原文: [https://arxiv.org/abs/2605.30454](https://arxiv.org/abs/2605.30454)

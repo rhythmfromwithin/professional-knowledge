@@ -1,11 +1,12 @@
 ---
-title: "AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.00016
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00016
 next_step: skim
+priority: high
+slack_ts: '1780462694.724319'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection'
 ---
 # AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection
 > 原文: [https://arxiv.org/abs/2606.00016](https://arxiv.org/abs/2606.00016)

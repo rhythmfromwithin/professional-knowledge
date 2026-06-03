@@ -1,11 +1,13 @@
 ---
-title: "Protocol for evaluating ChatGPT in biomedical association generation and verification using a RAG-enabled, cross-model majority voting workflow"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2605.30400
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30400
 next_step: skim
+priority: high
+slack_ts: '1780462692.176289'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Protocol for evaluating ChatGPT in biomedical association generation and verification
+  using a RAG-enabled, cross-model majority voting workflow
 ---
 # Protocol for evaluating ChatGPT in biomedical association generation and verification using a RAG-enabled, cross-model majority voting workflow
 > 原文: [https://arxiv.org/abs/2605.30400](https://arxiv.org/abs/2605.30400)

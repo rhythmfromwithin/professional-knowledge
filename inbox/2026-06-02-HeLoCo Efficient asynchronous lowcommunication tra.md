@@ -1,11 +1,13 @@
 ---
-title: "HeLoCo: Efficient asynchronous low-communication training under data and device heterogeneity"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.00271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00271
 next_step: skim
+priority: medium
+slack_ts: '1780462697.026069'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'HeLoCo: Efficient asynchronous low-communication training under data and device
+  heterogeneity'
 ---
 # HeLoCo: Efficient asynchronous low-communication training under data and device heterogeneity
 > 原文: [https://arxiv.org/abs/2606.00271](https://arxiv.org/abs/2606.00271)

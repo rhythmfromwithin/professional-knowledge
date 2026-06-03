@@ -1,11 +1,12 @@
 ---
-title: "Listing Even Cycles Faster than the Submodular-Width Barrier"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.30564
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30564
 next_step: skim
+priority: low
+slack_ts: '1780462690.275899'
+source: cs.DB - Databases
+status: unread
+title: Listing Even Cycles Faster than the Submodular-Width Barrier
 ---
 # Listing Even Cycles Faster than the Submodular-Width Barrier
 > 原文: [https://arxiv.org/abs/2605.30564](https://arxiv.org/abs/2605.30564)

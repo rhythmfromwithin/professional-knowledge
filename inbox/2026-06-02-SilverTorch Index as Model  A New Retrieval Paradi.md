@@ -1,11 +1,13 @@
 ---
-title: "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/
 next_step: skim
+priority: medium
+slack_ts: '1780462699.935739'
+source: Meta Engineering
+status: unread
+title: 'SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation
+  Systems'
 ---
 # SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems
 > 原文: [https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/](https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/)

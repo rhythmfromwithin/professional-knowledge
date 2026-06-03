@@ -1,11 +1,13 @@
 ---
-title: "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2605.30666
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30666
 next_step: skim
+priority: medium
+slack_ts: '1780462693.813169'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four
+  Conversation Signals'
 ---
 # The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
 > 原文: [https://arxiv.org/abs/2605.30666](https://arxiv.org/abs/2605.30666)

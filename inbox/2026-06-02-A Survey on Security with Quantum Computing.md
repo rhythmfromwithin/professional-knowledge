@@ -1,11 +1,12 @@
 ---
-title: "A Survey on Security with Quantum Computing"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.00058
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00058
 next_step: skim
+priority: low
+slack_ts: '1780462694.553139'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Survey on Security with Quantum Computing
 ---
 # A Survey on Security with Quantum Computing
 > 原文: [https://arxiv.org/abs/2606.00058](https://arxiv.org/abs/2606.00058)

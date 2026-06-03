@@ -1,11 +1,13 @@
 ---
-title: "Extended predictive coding framework as variational free-energy minimisation under exponential-family assumption"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.30882
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30882
 next_step: skim
+priority: low
+slack_ts: '1780462688.650929'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Extended predictive coding framework as variational free-energy minimisation
+  under exponential-family assumption
 ---
 # Extended predictive coding framework as variational free-energy minimisation under exponential-family assumption
 > 原文: [https://arxiv.org/abs/2605.30882](https://arxiv.org/abs/2605.30882)

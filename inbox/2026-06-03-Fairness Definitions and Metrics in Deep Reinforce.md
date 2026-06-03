@@ -1,0 +1,14 @@
+---
+title: "Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review"
+source: "cs.CY - Computers and Society"
+link: https://arxiv.org/abs/2606.02902
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review
+> 原文: [https://arxiv.org/abs/2606.02902](https://arxiv.org/abs/2606.02902)
+
+arXiv:2606.02902v1 Announce Type: new
+Abstract: Deep reinforcement learning (DRL) is increasingly applied to de novo molecular design, but choices in data, rewards, and evaluation can yield uneven performance across disease areas and chemotypes. Despite this, there is no concise synthesis of how fairness is defined, measured, and tested in DRL-based drug discovery. In this rapid evidence review, we synthesize fairness definitions and metrics for DRL-driven molecule generation in healthcare. We focus on three questions: (i) how dataset composition and split strategies, especially scaffold versus random splits, affect evaluation and distribution shift; (ii) how reward design (e.g., QED, docking, toxicity, synthetic accessibility) can create or mitigate bias, with emphasis on cancer targets; and (iii) which measurable metrics best capture fairness. This includes parity across cancer versus non-cancer indications and across cancer subtypes. It also includes distributional balance in key physicochemical descriptors, scaffold/chemotype diversity, groupwise validity, toxicity, and synthetic accessibility. From 2017 onward, we searched major biomedical, computer science, and engineering literature databases and used arXiv for horizon scanning. Records were screened using PRISMA-style procedures and analyzed via content coding to link reported parity outcomes to dataset and reward choices. Our review provides a concise set of fairness definitions and metrics for DRL molecule generation. It offers practical guidance for reporting distribution parity and outcome parity. It also summarizes how dataset and reward choices relate to observed parity effects and identifies open gaps relevant to trustworthy, cancer-relevant DRL generation.

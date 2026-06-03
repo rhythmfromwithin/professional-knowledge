@@ -1,11 +1,12 @@
 ---
-title: "BitsMoE: Efficient Spectral Energy-Guided Bit Allocation for MoE LLM Quantization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.00079
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00079
 next_step: skim
+priority: high
+slack_ts: '1780462695.329209'
+source: cs.LG - Machine Learning
+status: unread
+title: 'BitsMoE: Efficient Spectral Energy-Guided Bit Allocation for MoE LLM Quantization'
 ---
 # BitsMoE: Efficient Spectral Energy-Guided Bit Allocation for MoE LLM Quantization
 > 原文: [https://arxiv.org/abs/2606.00079](https://arxiv.org/abs/2606.00079)

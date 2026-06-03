@@ -1,11 +1,12 @@
 ---
-title: "Interpreting FCDNNs via RG on Exponential Family"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.00157
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00157
 next_step: skim
+priority: medium
+slack_ts: '1780462697.320489'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Interpreting FCDNNs via RG on Exponential Family
 ---
 # Interpreting FCDNNs via RG on Exponential Family
 > 原文: [https://arxiv.org/abs/2606.00157](https://arxiv.org/abs/2606.00157)

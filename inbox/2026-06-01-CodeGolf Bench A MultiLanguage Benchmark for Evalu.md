@@ -1,11 +1,13 @@
 ---
-title: "CodeGolf Bench: A Multi-Language Benchmark for Evaluating Concise Code Generation Capabilities of Large Language Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.30394
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30394
 next_step: skim
+priority: low
+slack_ts: '1780462687.699169'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CodeGolf Bench: A Multi-Language Benchmark for Evaluating Concise Code Generation
+  Capabilities of Large Language Models'
 ---
 # CodeGolf Bench: A Multi-Language Benchmark for Evaluating Concise Code Generation Capabilities of Large Language Models
 > 原文: [https://arxiv.org/abs/2605.30394](https://arxiv.org/abs/2605.30394)

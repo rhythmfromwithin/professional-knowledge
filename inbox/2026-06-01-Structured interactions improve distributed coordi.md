@@ -1,11 +1,13 @@
 ---
-title: "Structured interactions improve distributed coordination beyond model scaling in a real-world multi-robot system"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2605.30383
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30383
 next_step: skim
+priority: medium
+slack_ts: '1780462693.424179'
+source: cs.RO - Robotics
+status: unread
+title: Structured interactions improve distributed coordination beyond model scaling
+  in a real-world multi-robot system
 ---
 # Structured interactions improve distributed coordination beyond model scaling in a real-world multi-robot system
 > 原文: [https://arxiv.org/abs/2605.30383](https://arxiv.org/abs/2605.30383)

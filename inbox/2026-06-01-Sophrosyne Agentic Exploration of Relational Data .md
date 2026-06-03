@@ -1,11 +1,12 @@
 ---
-title: "Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.30862
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30862
 next_step: skim
+priority: low
+slack_ts: '1780462693.146989'
+source: cs.DB - Databases
+status: unread
+title: 'Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation'
 ---
 # Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation
 > 原文: [https://arxiv.org/abs/2605.30862](https://arxiv.org/abs/2605.30862)

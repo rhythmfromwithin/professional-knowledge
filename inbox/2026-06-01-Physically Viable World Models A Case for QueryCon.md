@@ -1,11 +1,12 @@
 ---
-title: "Physically Viable World Models: A Case for Query-Conditioned Embodied AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2605.30542
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30542
 next_step: skim
+priority: high
+slack_ts: '1780462691.985779'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Physically Viable World Models: A Case for Query-Conditioned Embodied AI'
 ---
 # Physically Viable World Models: A Case for Query-Conditioned Embodied AI
 > 原文: [https://arxiv.org/abs/2605.30542](https://arxiv.org/abs/2605.30542)

@@ -1,11 +1,13 @@
 ---
-title: "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/
 next_step: skim
+priority: high
+slack_ts: '1780462699.546819'
+source: AWS Blog
+status: unread
+title: Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore
+  Identity
 ---
 # Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity
 > 原文: [https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/](https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/)

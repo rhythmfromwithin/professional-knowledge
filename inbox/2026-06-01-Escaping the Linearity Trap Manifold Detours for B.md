@@ -1,11 +1,13 @@
 ---
-title: "Escaping the Linearity Trap: Manifold Detours for Black-Box Adversarial Attacks on Singing Audio Deepfake Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2605.30366
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30366
 next_step: skim
+priority: low
+slack_ts: '1780462688.478859'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Escaping the Linearity Trap: Manifold Detours for Black-Box Adversarial Attacks
+  on Singing Audio Deepfake Detection'
 ---
 # Escaping the Linearity Trap: Manifold Detours for Black-Box Adversarial Attacks on Singing Audio Deepfake Detection
 > 原文: [https://arxiv.org/abs/2605.30366](https://arxiv.org/abs/2605.30366)

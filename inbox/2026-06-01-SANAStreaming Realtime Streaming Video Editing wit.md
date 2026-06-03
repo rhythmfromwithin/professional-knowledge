@@ -1,11 +1,12 @@
 ---
-title: "SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.30409
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30409
 next_step: skim
+priority: medium
+slack_ts: '1780462692.878649'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer'
 ---
 # SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer
 > 原文: [https://arxiv.org/abs/2605.30409](https://arxiv.org/abs/2605.30409)

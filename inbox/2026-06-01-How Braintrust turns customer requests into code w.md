@@ -1,11 +1,12 @@
 ---
-title: "How Braintrust turns customer requests into code with Codex"
-source: "OpenAI Blog"
-link: https://openai.com/index/braintrust
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/braintrust
 next_step: skim
+priority: high
+slack_ts: '1780462689.437459'
+source: OpenAI Blog
+status: unread
+title: How Braintrust turns customer requests into code with Codex
 ---
 # How Braintrust turns customer requests into code with Codex
 > 原文: [https://openai.com/index/braintrust](https://openai.com/index/braintrust)

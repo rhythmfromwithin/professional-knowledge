@@ -1,11 +1,13 @@
 ---
-title: "Reward Learning from Best-of-$N$ Preference Data: Targets, Tradeoffs, and Design Principles"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.30619
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30619
 next_step: skim
+priority: medium
+slack_ts: '1780462692.783549'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Reward Learning from Best-of-$N$ Preference Data: Targets, Tradeoffs, and
+  Design Principles'
 ---
 # Reward Learning from Best-of-$N$ Preference Data: Targets, Tradeoffs, and Design Principles
 > 原文: [https://arxiv.org/abs/2605.30619](https://arxiv.org/abs/2605.30619)

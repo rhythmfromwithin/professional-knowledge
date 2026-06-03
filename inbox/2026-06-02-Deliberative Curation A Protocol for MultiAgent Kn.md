@@ -1,11 +1,12 @@
 ---
-title: "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.00007
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00007
 next_step: skim
+priority: high
+slack_ts: '1780462696.057199'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases'
 ---
 # Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases
 > 原文: [https://arxiv.org/abs/2606.00007](https://arxiv.org/abs/2606.00007)

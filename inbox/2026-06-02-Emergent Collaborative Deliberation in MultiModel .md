@@ -1,11 +1,13 @@
 ---
-title: "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.00005
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00005
 next_step: skim
+priority: high
+slack_ts: '1780462696.264059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived
+  Protocol for Epistemic Synthesis'
 ---
 # Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis
 > 原文: [https://arxiv.org/abs/2606.00005](https://arxiv.org/abs/2606.00005)

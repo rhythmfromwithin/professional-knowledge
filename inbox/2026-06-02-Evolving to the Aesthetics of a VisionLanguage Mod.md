@@ -1,11 +1,12 @@
 ---
-title: "Evolving to the Aesthetics of a Vision-Language Model"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.00112
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00112
 next_step: skim
+priority: low
+slack_ts: '1780462696.359709'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Evolving to the Aesthetics of a Vision-Language Model
 ---
 # Evolving to the Aesthetics of a Vision-Language Model
 > 原文: [https://arxiv.org/abs/2606.00112](https://arxiv.org/abs/2606.00112)

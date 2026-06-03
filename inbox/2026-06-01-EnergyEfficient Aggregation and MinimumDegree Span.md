@@ -1,11 +1,12 @@
 ---
-title: "Energy-Efficient Aggregation and Minimum-Degree Spanning Trees in Radio Networks"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.30546
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30546
 next_step: skim
+priority: medium
+slack_ts: '1780462688.356639'
+source: cs.DC - Distributed Computing
+status: unread
+title: Energy-Efficient Aggregation and Minimum-Degree Spanning Trees in Radio Networks
 ---
 # Energy-Efficient Aggregation and Minimum-Degree Spanning Trees in Radio Networks
 > 原文: [https://arxiv.org/abs/2605.30546](https://arxiv.org/abs/2605.30546)

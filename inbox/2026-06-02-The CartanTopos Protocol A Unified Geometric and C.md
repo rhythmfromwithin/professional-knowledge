@@ -1,11 +1,13 @@
 ---
-title: "The Cartan-Topos Protocol: A Unified Geometric and Categorical Framework for Resilient Multi-Agent Coordination"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.00714
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00714
 next_step: skim
+priority: medium
+slack_ts: '1780462700.115499'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Cartan-Topos Protocol: A Unified Geometric and Categorical Framework for
+  Resilient Multi-Agent Coordination'
 ---
 # The Cartan-Topos Protocol: A Unified Geometric and Categorical Framework for Resilient Multi-Agent Coordination
 > 原文: [https://arxiv.org/abs/2606.00714](https://arxiv.org/abs/2606.00714)

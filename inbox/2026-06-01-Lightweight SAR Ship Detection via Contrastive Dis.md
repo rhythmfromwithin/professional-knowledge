@@ -1,11 +1,12 @@
 ---
-title: "Lightweight SAR Ship Detection via Contrastive Distillation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2605.30380
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30380
 next_step: skim
+priority: medium
+slack_ts: '1780462690.170249'
+source: cs.CV - Computer Vision
+status: unread
+title: Lightweight SAR Ship Detection via Contrastive Distillation
 ---
 # Lightweight SAR Ship Detection via Contrastive Distillation
 > 原文: [https://arxiv.org/abs/2605.30380](https://arxiv.org/abs/2605.30380)

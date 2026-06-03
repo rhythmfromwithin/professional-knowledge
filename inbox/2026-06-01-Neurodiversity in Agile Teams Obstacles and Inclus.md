@@ -1,11 +1,12 @@
 ---
-title: "Neurodiversity in Agile Teams: Obstacles and Inclusion Barriers"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2605.30555
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30555
 next_step: skim
+priority: low
+slack_ts: '1780462691.716529'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Neurodiversity in Agile Teams: Obstacles and Inclusion Barriers'
 ---
 # Neurodiversity in Agile Teams: Obstacles and Inclusion Barriers
 > 原文: [https://arxiv.org/abs/2605.30555](https://arxiv.org/abs/2605.30555)

@@ -1,11 +1,12 @@
 ---
-title: "Take our I/O 2026 quiz, vibe coded in Google AI Studio."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
 next_step: skim
+priority: high
+slack_ts: '1780462693.506529'
+source: Google AI Blog
+status: unread
+title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
 ---
 # Take our I/O 2026 quiz, vibe coded in Google AI Studio.
 > 原文: [https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/)

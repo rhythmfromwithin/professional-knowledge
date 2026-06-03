@@ -1,11 +1,13 @@
 ---
-title: "Polynomial Histograms for Memory-Efficient Representation of Long-tailed System Distributions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2605.30360
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30360
 next_step: skim
+priority: medium
+slack_ts: '1780462692.088119'
+source: cs.DC - Distributed Computing
+status: unread
+title: Polynomial Histograms for Memory-Efficient Representation of Long-tailed System
+  Distributions
 ---
 # Polynomial Histograms for Memory-Efficient Representation of Long-tailed System Distributions
 > 原文: [https://arxiv.org/abs/2605.30360](https://arxiv.org/abs/2605.30360)

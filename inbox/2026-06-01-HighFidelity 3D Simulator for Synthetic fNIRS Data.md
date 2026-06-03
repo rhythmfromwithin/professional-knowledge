@@ -1,11 +1,12 @@
 ---
-title: "High-Fidelity 3D Simulator for Synthetic fNIRS Data Generation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.30552
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30552
 next_step: skim
+priority: low
+slack_ts: '1780462689.347139'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: High-Fidelity 3D Simulator for Synthetic fNIRS Data Generation
 ---
 # High-Fidelity 3D Simulator for Synthetic fNIRS Data Generation
 > 原文: [https://arxiv.org/abs/2605.30552](https://arxiv.org/abs/2605.30552)

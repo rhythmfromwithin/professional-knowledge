@@ -1,11 +1,12 @@
 ---
-title: "Learning from Mistakes: Can LLM Self-Recover after Misalignment?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.00003
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00003
 next_step: skim
+priority: medium
+slack_ts: '1780462697.637129'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Learning from Mistakes: Can LLM Self-Recover after Misalignment?'
 ---
 # Learning from Mistakes: Can LLM Self-Recover after Misalignment?
 > 原文: [https://arxiv.org/abs/2606.00003](https://arxiv.org/abs/2606.00003)

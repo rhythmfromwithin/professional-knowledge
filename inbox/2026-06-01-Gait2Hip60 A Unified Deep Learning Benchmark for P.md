@@ -1,11 +1,13 @@
 ---
-title: "Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip Muscle Forces and Joint Moments from Multi-Cadence Gait Kinematics"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.30374
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30374
 next_step: skim
+priority: high
+slack_ts: '1780462688.910189'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip Muscle Forces
+  and Joint Moments from Multi-Cadence Gait Kinematics'
 ---
 # Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip Muscle Forces and Joint Moments from Multi-Cadence Gait Kinematics
 > 原文: [https://arxiv.org/abs/2605.30374](https://arxiv.org/abs/2605.30374)

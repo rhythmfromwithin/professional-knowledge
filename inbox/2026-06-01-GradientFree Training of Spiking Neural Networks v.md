@@ -1,11 +1,12 @@
 ---
-title: "Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.30361
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30361
 next_step: skim
+priority: low
+slack_ts: '1780462689.186049'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies
 ---
 # Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies
 > 原文: [https://arxiv.org/abs/2605.30361](https://arxiv.org/abs/2605.30361)

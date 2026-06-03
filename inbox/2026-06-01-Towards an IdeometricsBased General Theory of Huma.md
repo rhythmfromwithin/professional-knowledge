@@ -1,11 +1,12 @@
 ---
-title: "Towards an Ideometrics-Based General Theory of Human Progress"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2605.30683
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30683
 next_step: skim
+priority: low
+slack_ts: '1780462693.933009'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Towards an Ideometrics-Based General Theory of Human Progress
 ---
 # Towards an Ideometrics-Based General Theory of Human Progress
 > 原文: [https://arxiv.org/abs/2605.30683](https://arxiv.org/abs/2605.30683)

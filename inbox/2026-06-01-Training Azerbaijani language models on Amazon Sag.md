@@ -1,11 +1,12 @@
 ---
-title: "Training Azerbaijani language models on Amazon SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1780462694.022979'
+source: AWS Blog
+status: unread
+title: Training Azerbaijani language models on Amazon SageMaker AI
 ---
 # Training Azerbaijani language models on Amazon SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/)

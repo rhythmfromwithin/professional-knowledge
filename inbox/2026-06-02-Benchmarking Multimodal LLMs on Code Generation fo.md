@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking Multimodal LLMs on Code Generation for Complex Interactive Webpages"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.00154
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00154
 next_step: skim
+priority: low
+slack_ts: '1780462695.233719'
+source: cs.SE - Software Engineering
+status: unread
+title: Benchmarking Multimodal LLMs on Code Generation for Complex Interactive Webpages
 ---
 # Benchmarking Multimodal LLMs on Code Generation for Complex Interactive Webpages
 > 原文: [https://arxiv.org/abs/2606.00154](https://arxiv.org/abs/2606.00154)

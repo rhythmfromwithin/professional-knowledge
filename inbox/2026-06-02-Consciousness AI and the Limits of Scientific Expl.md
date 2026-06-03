@@ -1,11 +1,12 @@
 ---
-title: "Consciousness, AI, and the Limits of Scientific Explanation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.00226
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00226
 next_step: skim
+priority: low
+slack_ts: '1780462695.777859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Consciousness, AI, and the Limits of Scientific Explanation
 ---
 # Consciousness, AI, and the Limits of Scientific Explanation
 > 原文: [https://arxiv.org/abs/2606.00226](https://arxiv.org/abs/2606.00226)

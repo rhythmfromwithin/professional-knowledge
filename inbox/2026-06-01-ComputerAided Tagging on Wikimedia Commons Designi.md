@@ -1,11 +1,13 @@
 ---
-title: "Computer-Aided Tagging on Wikimedia Commons: Designing for Human-AI Collaboration in Open Knowledge Work"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2605.30800
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30800
 next_step: skim
+priority: low
+slack_ts: '1780462687.877839'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Computer-Aided Tagging on Wikimedia Commons: Designing for Human-AI Collaboration
+  in Open Knowledge Work'
 ---
 # Computer-Aided Tagging on Wikimedia Commons: Designing for Human-AI Collaboration in Open Knowledge Work
 > 原文: [https://arxiv.org/abs/2605.30800](https://arxiv.org/abs/2605.30800)

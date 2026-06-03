@@ -1,11 +1,12 @@
 ---
-title: "Strengthening societal resilience with Rosalind Biodefense"
-source: "OpenAI Blog"
-link: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
 next_step: skim
+priority: high
+slack_ts: '1780462693.330189'
+source: OpenAI Blog
+status: unread
+title: Strengthening societal resilience with Rosalind Biodefense
 ---
 # Strengthening societal resilience with Rosalind Biodefense
 > 原文: [https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense)

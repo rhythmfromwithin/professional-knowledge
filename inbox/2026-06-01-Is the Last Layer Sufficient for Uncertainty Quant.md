@@ -1,11 +1,12 @@
 ---
-title: "Is the Last Layer Sufficient for Uncertainty Quantification?"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2605.30741
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30741
 next_step: skim
+priority: medium
+slack_ts: '1780462689.908479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Is the Last Layer Sufficient for Uncertainty Quantification?
 ---
 # Is the Last Layer Sufficient for Uncertainty Quantification?
 > 原文: [https://arxiv.org/abs/2605.30741](https://arxiv.org/abs/2605.30741)

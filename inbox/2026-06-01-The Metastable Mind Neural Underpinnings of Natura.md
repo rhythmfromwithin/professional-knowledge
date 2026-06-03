@@ -1,11 +1,13 @@
 ---
-title: "The Metastable Mind: Neural Underpinnings of Naturalistic Cognition Through the Synthesis of Event Segmentation and Metastable Neural States"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.31473
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.31473
 next_step: skim
+priority: low
+slack_ts: '1780462693.588889'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Metastable Mind: Neural Underpinnings of Naturalistic Cognition Through
+  the Synthesis of Event Segmentation and Metastable Neural States'
 ---
 # The Metastable Mind: Neural Underpinnings of Naturalistic Cognition Through the Synthesis of Event Segmentation and Metastable Neural States
 > 原文: [https://arxiv.org/abs/2605.31473](https://arxiv.org/abs/2605.31473)
