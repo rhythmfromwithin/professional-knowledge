@@ -1,11 +1,12 @@
 ---
-title: "Acceptance-Test-Driven Evaluation Protocols for Business-Centric LLM Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.02755
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02755
 next_step: skim
+priority: low
+slack_ts: '1780548660.125169'
+source: cs.SE - Software Engineering
+status: unread
+title: Acceptance-Test-Driven Evaluation Protocols for Business-Centric LLM Systems
 ---
 # Acceptance-Test-Driven Evaluation Protocols for Business-Centric LLM Systems
 > 原文: [https://arxiv.org/abs/2606.02755](https://arxiv.org/abs/2606.02755)

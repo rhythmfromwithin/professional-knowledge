@@ -1,11 +1,13 @@
 ---
-title: "DefocusTrackerAI -- A Generalized Framework for the Automatic Detection of Defocused Particle Images"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.00076
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00076
 next_step: skim
+priority: medium
+slack_ts: '1780548653.429329'
+source: cs.CV - Computer Vision
+status: unread
+title: DefocusTrackerAI -- A Generalized Framework for the Automatic Detection of
+  Defocused Particle Images
 ---
 # DefocusTrackerAI -- A Generalized Framework for the Automatic Detection of Defocused Particle Images
 > 原文: [https://arxiv.org/abs/2606.00076](https://arxiv.org/abs/2606.00076)

@@ -1,11 +1,12 @@
 ---
-title: "Target Updates May Stabilize Linear Q-Learning: Periodic and Soft Dynamics"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.02645
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02645
 next_step: skim
+priority: medium
+slack_ts: '1780548667.545099'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Target Updates May Stabilize Linear Q-Learning: Periodic and Soft Dynamics'
 ---
 # Target Updates May Stabilize Linear Q-Learning: Periodic and Soft Dynamics
 > 原文: [https://arxiv.org/abs/2606.02645](https://arxiv.org/abs/2606.02645)

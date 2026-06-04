@@ -1,11 +1,12 @@
 ---
-title: "Is Zero-Shot Super-Resolution Possible in Operator Learning?"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.00296
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00296
 next_step: skim
+priority: medium
+slack_ts: '1780548655.560019'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Is Zero-Shot Super-Resolution Possible in Operator Learning?
 ---
 # Is Zero-Shot Super-Resolution Possible in Operator Learning?
 > 原文: [https://arxiv.org/abs/2606.00296](https://arxiv.org/abs/2606.00296)

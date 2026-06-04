@@ -1,11 +1,13 @@
 ---
-title: "D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.02640
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02640
 next_step: skim
+priority: low
+slack_ts: '1780548661.783399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output
+  Rewriting'
 ---
 # D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting
 > 原文: [https://arxiv.org/abs/2606.02640](https://arxiv.org/abs/2606.02640)

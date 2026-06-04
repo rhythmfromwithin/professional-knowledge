@@ -1,11 +1,13 @@
 ---
-title: "LLM-Assisted Reranking to Operationalize Nuanced Objectives in Recommender Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.02883
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02883
 next_step: skim
+priority: low
+slack_ts: '1780548664.470219'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: LLM-Assisted Reranking to Operationalize Nuanced Objectives in Recommender
+  Systems
 ---
 # LLM-Assisted Reranking to Operationalize Nuanced Objectives in Recommender Systems
 > 原文: [https://arxiv.org/abs/2606.02883](https://arxiv.org/abs/2606.02883)

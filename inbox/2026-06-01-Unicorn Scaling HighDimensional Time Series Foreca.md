@@ -1,11 +1,13 @@
 ---
-title: "Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2605.30376
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30376
 next_step: skim
+priority: high
+slack_ts: '1780548650.469369'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation
+  Modeling'
 ---
 # Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling
 > 原文: [https://arxiv.org/abs/2605.30376](https://arxiv.org/abs/2605.30376)

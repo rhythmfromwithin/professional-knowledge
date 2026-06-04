@@ -1,11 +1,12 @@
 ---
-title: "On the synaptic matrix eigenvalues of sparsely connected neural networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.00326
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00326
 next_step: skim
+priority: low
+slack_ts: '1780548656.920529'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: On the synaptic matrix eigenvalues of sparsely connected neural networks
 ---
 # On the synaptic matrix eigenvalues of sparsely connected neural networks
 > 原文: [https://arxiv.org/abs/2606.00326](https://arxiv.org/abs/2606.00326)

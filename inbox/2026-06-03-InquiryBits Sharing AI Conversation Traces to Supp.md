@@ -1,11 +1,13 @@
 ---
-title: "InquiryBits: Sharing AI Conversation Traces to Support Collaboration Within Trust Boundaries"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.02763
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02763
 next_step: skim
+priority: low
+slack_ts: '1780548663.861869'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'InquiryBits: Sharing AI Conversation Traces to Support Collaboration Within
+  Trust Boundaries'
 ---
 # InquiryBits: Sharing AI Conversation Traces to Support Collaboration Within Trust Boundaries
 > 原文: [https://arxiv.org/abs/2606.02763](https://arxiv.org/abs/2606.02763)

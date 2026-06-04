@@ -1,11 +1,12 @@
 ---
-title: "Recession Detection Using Real Time GDP Data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.00989
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00989
 next_step: skim
+priority: low
+slack_ts: '1780548657.810749'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Recession Detection Using Real Time GDP Data
 ---
 # Recession Detection Using Real Time GDP Data
 > 原文: [https://arxiv.org/abs/2606.00989](https://arxiv.org/abs/2606.00989)

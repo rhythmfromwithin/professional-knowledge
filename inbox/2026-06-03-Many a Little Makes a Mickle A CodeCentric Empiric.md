@@ -1,11 +1,13 @@
 ---
-title: "Many a Little Makes a Mickle: A Code-Centric Empirical Study of Data Minimization Principle in Android App Development"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.02960
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02960
 next_step: skim
+priority: low
+slack_ts: '1780548664.956029'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Many a Little Makes a Mickle: A Code-Centric Empirical Study of Data Minimization
+  Principle in Android App Development'
 ---
 # Many a Little Makes a Mickle: A Code-Centric Empirical Study of Data Minimization Principle in Android App Development
 > 原文: [https://arxiv.org/abs/2606.02960](https://arxiv.org/abs/2606.02960)

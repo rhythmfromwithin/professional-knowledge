@@ -1,11 +1,12 @@
 ---
-title: "Do Matching Mechanisms Work with LLM Agents?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.03030
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03030
 next_step: skim
+priority: low
+slack_ts: '1780548662.094349'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Do Matching Mechanisms Work with LLM Agents?
 ---
 # Do Matching Mechanisms Work with LLM Agents?
 > 原文: [https://arxiv.org/abs/2606.03030](https://arxiv.org/abs/2606.03030)

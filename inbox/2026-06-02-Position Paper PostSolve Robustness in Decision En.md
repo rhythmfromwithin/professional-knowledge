@@ -1,11 +1,13 @@
 ---
-title: "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.00002
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00002
 next_step: skim
+priority: high
+slack_ts: '1780548657.516059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions
+  and Smoothness Under Perturbations'
 ---
 # Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations
 > 原文: [https://arxiv.org/abs/2606.00002](https://arxiv.org/abs/2606.00002)

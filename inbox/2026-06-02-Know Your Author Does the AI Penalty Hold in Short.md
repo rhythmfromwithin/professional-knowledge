@@ -1,11 +1,12 @@
 ---
-title: "Know Your Author: Does the AI Penalty Hold in Short Fiction?"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.00006
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00006
 next_step: skim
+priority: low
+slack_ts: '1780548655.738549'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Know Your Author: Does the AI Penalty Hold in Short Fiction?'
 ---
 # Know Your Author: Does the AI Penalty Hold in Short Fiction?
 > 原文: [https://arxiv.org/abs/2606.00006](https://arxiv.org/abs/2606.00006)

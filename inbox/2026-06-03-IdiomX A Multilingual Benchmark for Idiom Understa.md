@@ -1,11 +1,12 @@
 ---
-title: "IdiomX A Multilingual Benchmark for Idiom Understanding, Retrieval, and Interpretation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.02584
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02584
 next_step: skim
+priority: high
+slack_ts: '1780548663.723119'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: IdiomX A Multilingual Benchmark for Idiom Understanding, Retrieval, and Interpretation
 ---
 # IdiomX A Multilingual Benchmark for Idiom Understanding, Retrieval, and Interpretation
 > 原文: [https://arxiv.org/abs/2606.02584](https://arxiv.org/abs/2606.02584)

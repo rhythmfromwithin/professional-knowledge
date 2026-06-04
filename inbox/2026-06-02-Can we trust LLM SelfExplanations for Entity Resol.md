@@ -1,11 +1,12 @@
 ---
-title: "Can we trust LLM Self-Explanations for Entity Resolution?"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.01210
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.01210
 next_step: skim
+priority: low
+slack_ts: '1780548652.669209'
+source: cs.DB - Databases
+status: unread
+title: Can we trust LLM Self-Explanations for Entity Resolution?
 ---
 # Can we trust LLM Self-Explanations for Entity Resolution?
 > 原文: [https://arxiv.org/abs/2606.01210](https://arxiv.org/abs/2606.01210)

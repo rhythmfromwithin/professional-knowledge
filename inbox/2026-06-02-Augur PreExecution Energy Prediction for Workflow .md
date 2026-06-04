@@ -1,11 +1,13 @@
 ---
-title: "Augur: Pre-Execution Energy Prediction for Workflow Tasks in Heterogeneous Clusters"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.00348
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00348
 next_step: skim
+priority: medium
+slack_ts: '1780548651.988109'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Augur: Pre-Execution Energy Prediction for Workflow Tasks in Heterogeneous
+  Clusters'
 ---
 # Augur: Pre-Execution Energy Prediction for Workflow Tasks in Heterogeneous Clusters
 > 原文: [https://arxiv.org/abs/2606.00348](https://arxiv.org/abs/2606.00348)

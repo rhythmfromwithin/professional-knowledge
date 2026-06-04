@@ -1,0 +1,14 @@
+---
+title: "Counterfactual Explanations for Deep Two-Sample Testing"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2606.04009
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Counterfactual Explanations for Deep Two-Sample Testing
+> 原文: [https://arxiv.org/abs/2606.04009](https://arxiv.org/abs/2606.04009)
+
+arXiv:2606.04009v1 Announce Type: new
+Abstract: Two-sample testing is a fundamental tool for detecting distributional differences across scientific domains, but classical tests (including kernel-based tests) can be ineffective on high-dimensional structured data such as images. Recent deep two-sample tests improve sensitivity in these settings by learning informative representations, yet they provide limited insight into which data features drive rejection of the null hypothesis $H\_0$. To address this issue, we propose a counterfactual explanation framework for deep two-sample testing that generates sample-level edits moving observations from a source group toward a target group while explicitly reducing the discrepancy measured by the test. Our method combines a diffusion autoencoder with a pretrained deep two-sample test model and optimizes a maximum mean discrepancy (MMD) objective in the test model's representation space to produce plausible counterfactuals. We quantify distribution-level effects through changes in the test statistic and the resulting two-sample p-values. We evaluate the method on synthetic 2D shape datasets and two MRI cohorts. Across both settings, the counterfactual transformations consistently increase p-values relative to the original samples, indicating that the edited source set becomes statistically closer to the target distribution under the test. We measure minimality using LPIPS to ensure the counterfactuals remain close to the original samples. The resulting edits provide interpretable evidence of the features associated with the detected group differences. On MRI, the localized changes are consistent with known anatomical differences between cohorts.

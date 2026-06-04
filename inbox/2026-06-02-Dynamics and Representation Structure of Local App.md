@@ -1,11 +1,13 @@
 ---
-title: "Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.00243
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00243
 next_step: skim
+priority: low
+slack_ts: '1780548653.718229'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Dynamics and Representation Structure of Local Approximations to Gradient-Based
+  Learning in Linear Recurrent Neural Networks
 ---
 # Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks
 > 原文: [https://arxiv.org/abs/2606.00243](https://arxiv.org/abs/2606.00243)

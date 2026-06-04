@@ -1,11 +1,13 @@
 ---
-title: "Mitigation of spatial economic impact propagation of highway disruptions by redundant networks"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.00614
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00614
 next_step: skim
+priority: low
+slack_ts: '1780548656.550249'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Mitigation of spatial economic impact propagation of highway disruptions by
+  redundant networks
 ---
 # Mitigation of spatial economic impact propagation of highway disruptions by redundant networks
 > 原文: [https://arxiv.org/abs/2606.00614](https://arxiv.org/abs/2606.00614)

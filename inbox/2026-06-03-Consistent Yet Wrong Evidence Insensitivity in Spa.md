@@ -1,11 +1,12 @@
 ---
-title: "Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.02742
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02742
 next_step: skim
+priority: medium
+slack_ts: '1780548661.412289'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models'
 ---
 # Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models
 > 原文: [https://arxiv.org/abs/2606.02742](https://arxiv.org/abs/2606.02742)

@@ -1,11 +1,12 @@
 ---
-title: "Brief Announcement: Generative Markov Model for Distributed Computing Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.03061
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03061
 next_step: skim
+priority: medium
+slack_ts: '1780548660.385119'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Brief Announcement: Generative Markov Model for Distributed Computing Systems'
 ---
 # Brief Announcement: Generative Markov Model for Distributed Computing Systems
 > 原文: [https://arxiv.org/abs/2606.03061](https://arxiv.org/abs/2606.03061)

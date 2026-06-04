@@ -1,11 +1,12 @@
 ---
-title: "AURA: Action-Gated Memory for Robot Policies at Constant VRAM"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.02775
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02775
 next_step: skim
+priority: high
+slack_ts: '1780548659.741949'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AURA: Action-Gated Memory for Robot Policies at Constant VRAM'
 ---
 # AURA: Action-Gated Memory for Robot Policies at Constant VRAM
 > 原文: [https://arxiv.org/abs/2606.02775](https://arxiv.org/abs/2606.02775)

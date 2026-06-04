@@ -1,11 +1,12 @@
 ---
-title: "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1780548663.272459'
+source: AWS Blog
+status: unread
+title: How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore
 ---
 # How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/)

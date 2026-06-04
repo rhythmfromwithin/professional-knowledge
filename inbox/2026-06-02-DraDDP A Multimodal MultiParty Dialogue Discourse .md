@@ -1,11 +1,12 @@
 ---
-title: "DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.00012
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00012
 next_step: skim
+priority: high
+slack_ts: '1780548653.574099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset'
 ---
 # DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset
 > 原文: [https://arxiv.org/abs/2606.00012](https://arxiv.org/abs/2606.00012)

@@ -1,11 +1,12 @@
 ---
-title: "A phenomenon of AI-conformity: how algorithms change human moral decision-making"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.00013
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00013
 next_step: skim
+priority: medium
+slack_ts: '1780548651.149459'
+source: cs.CY - Computers and Society
+status: unread
+title: 'A phenomenon of AI-conformity: how algorithms change human moral decision-making'
 ---
 # A phenomenon of AI-conformity: how algorithms change human moral decision-making
 > 原文: [https://arxiv.org/abs/2606.00013](https://arxiv.org/abs/2606.00013)

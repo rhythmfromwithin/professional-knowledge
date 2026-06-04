@@ -1,11 +1,13 @@
 ---
-title: "COD10K-C: Benchmarking Robustness of Camouflaged Object Detection Under Natural Image Corruptions"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.02603
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02603
 next_step: skim
+priority: medium
+slack_ts: '1780548660.828429'
+source: cs.CV - Computer Vision
+status: unread
+title: 'COD10K-C: Benchmarking Robustness of Camouflaged Object Detection Under Natural
+  Image Corruptions'
 ---
 # COD10K-C: Benchmarking Robustness of Camouflaged Object Detection Under Natural Image Corruptions
 > 原文: [https://arxiv.org/abs/2606.02603](https://arxiv.org/abs/2606.02603)

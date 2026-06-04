@@ -1,11 +1,12 @@
 ---
-title: "Building the infrastructure for the Intelligence Age in Michigan"
-source: "OpenAI Blog"
-link: https://openai.com/index/stargate-michigan-data-center
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/stargate-michigan-data-center
 next_step: skim
+priority: high
+slack_ts: '1780548652.498299'
+source: OpenAI Blog
+status: unread
+title: Building the infrastructure for the Intelligence Age in Michigan
 ---
 # Building the infrastructure for the Intelligence Age in Michigan
 > 原文: [https://openai.com/index/stargate-michigan-data-center](https://openai.com/index/stargate-michigan-data-center)

@@ -1,11 +1,12 @@
 ---
-title: "Cost-Aware Optimization for Agentic Query Execution"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.03152
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03152
 next_step: skim
+priority: low
+slack_ts: '1780548661.599429'
+source: cs.DB - Databases
+status: unread
+title: Cost-Aware Optimization for Agentic Query Execution
 ---
 # Cost-Aware Optimization for Agentic Query Execution
 > 原文: [https://arxiv.org/abs/2606.03152](https://arxiv.org/abs/2606.03152)

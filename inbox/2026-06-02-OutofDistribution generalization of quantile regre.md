@@ -1,11 +1,13 @@
 ---
-title: "Out-of-Distribution generalization of quantile regression with heavy tailed inputs: an SVM approach"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.00265
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00265
 next_step: skim
+priority: medium
+slack_ts: '1780548657.379179'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Out-of-Distribution generalization of quantile regression with heavy tailed
+  inputs: an SVM approach'
 ---
 # Out-of-Distribution generalization of quantile regression with heavy tailed inputs: an SVM approach
 > 原文: [https://arxiv.org/abs/2606.00265](https://arxiv.org/abs/2606.00265)

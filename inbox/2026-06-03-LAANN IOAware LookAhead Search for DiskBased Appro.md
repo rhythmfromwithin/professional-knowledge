@@ -1,11 +1,13 @@
 ---
-title: "LAANN: I/O-Aware Look-Ahead Search for Disk-Based Approximate Nearest Neighbor Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.02784
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02784
 next_step: skim
+priority: low
+slack_ts: '1780548664.279489'
+source: cs.DB - Databases
+status: unread
+title: 'LAANN: I/O-Aware Look-Ahead Search for Disk-Based Approximate Nearest Neighbor
+  Search'
 ---
 # LAANN: I/O-Aware Look-Ahead Search for Disk-Based Approximate Nearest Neighbor Search
 > 原文: [https://arxiv.org/abs/2606.02784](https://arxiv.org/abs/2606.02784)

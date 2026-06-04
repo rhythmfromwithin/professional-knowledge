@@ -1,11 +1,13 @@
 ---
-title: "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/
 next_step: skim
+priority: high
+slack_ts: '1780548659.104449'
+source: AWS Blog
+status: unread
+title: 'Transforming rare cancer research with Amazon Quick: Integrating biomedical
+  databases for breakthrough discoveries'
 ---
 # Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries
 > 原文: [https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/](https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/)

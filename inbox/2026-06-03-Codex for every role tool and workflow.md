@@ -1,11 +1,12 @@
 ---
-title: "Codex for every role, tool, and workflow"
-source: "OpenAI Blog"
-link: https://openai.com/index/codex-for-every-role-tool-workflow
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/codex-for-every-role-tool-workflow
 next_step: skim
+priority: high
+slack_ts: '1780548661.110139'
+source: OpenAI Blog
+status: unread
+title: Codex for every role, tool, and workflow
 ---
 # Codex for every role, tool, and workflow
 > 原文: [https://openai.com/index/codex-for-every-role-tool-workflow](https://openai.com/index/codex-for-every-role-tool-workflow)

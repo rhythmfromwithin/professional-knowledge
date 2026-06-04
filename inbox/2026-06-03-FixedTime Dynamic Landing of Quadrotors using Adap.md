@@ -1,11 +1,13 @@
 ---
-title: "Fixed-Time Dynamic Landing of Quadrotors using Adaptive Unscented Kalman Filtering and Nonlinear Model Predictive Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.02658
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02658
 next_step: skim
+priority: medium
+slack_ts: '1780548662.772509'
+source: cs.RO - Robotics
+status: unread
+title: Fixed-Time Dynamic Landing of Quadrotors using Adaptive Unscented Kalman Filtering
+  and Nonlinear Model Predictive Control
 ---
 # Fixed-Time Dynamic Landing of Quadrotors using Adaptive Unscented Kalman Filtering and Nonlinear Model Predictive Control
 > 原文: [https://arxiv.org/abs/2606.02658](https://arxiv.org/abs/2606.02658)

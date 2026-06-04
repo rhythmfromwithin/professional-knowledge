@@ -1,11 +1,13 @@
 ---
-title: "Characterization and Effects of CS2 Learning with GenAI, Visualization, and Human Support"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.02933
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02933
 next_step: skim
+priority: low
+slack_ts: '1780548660.973269'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Characterization and Effects of CS2 Learning with GenAI, Visualization, and
+  Human Support
 ---
 # Characterization and Effects of CS2 Learning with GenAI, Visualization, and Human Support
 > 原文: [https://arxiv.org/abs/2606.02933](https://arxiv.org/abs/2606.02933)

@@ -1,11 +1,13 @@
 ---
-title: "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/
 next_step: skim
+priority: high
+slack_ts: '1780548655.377839'
+source: AWS Blog
+status: unread
+title: Introducing the next generation of AWS Resilience Hub for generative AI-based
+  SRE resilience journey
 ---
 # Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/)

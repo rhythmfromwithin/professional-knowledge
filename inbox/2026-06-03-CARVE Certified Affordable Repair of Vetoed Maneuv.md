@@ -1,11 +1,13 @@
 ---
-title: "CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.02641
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02641
 next_step: skim
+priority: medium
+slack_ts: '1780548660.686249'
+source: cs.RO - Robotics
+status: unread
+title: 'CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive
+  Driving'
 ---
 # CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving
 > 原文: [https://arxiv.org/abs/2606.02641](https://arxiv.org/abs/2606.02641)

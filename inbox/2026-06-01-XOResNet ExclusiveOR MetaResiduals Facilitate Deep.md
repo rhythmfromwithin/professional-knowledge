@@ -1,11 +1,13 @@
 ---
-title: "XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks Learning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2605.30362
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.30362
 next_step: skim
+priority: low
+slack_ts: '1780548650.841909'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks
+  Learning'
 ---
 # XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks Learning
 > 原文: [https://arxiv.org/abs/2605.30362](https://arxiv.org/abs/2605.30362)

@@ -1,11 +1,13 @@
 ---
-title: "Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.00014
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00014
 next_step: skim
+priority: high
+slack_ts: '1780548658.966999'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies
+  for Target Inaccessible Demonstration Retrieval'
 ---
 # Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval
 > 原文: [https://arxiv.org/abs/2606.00014](https://arxiv.org/abs/2606.00014)

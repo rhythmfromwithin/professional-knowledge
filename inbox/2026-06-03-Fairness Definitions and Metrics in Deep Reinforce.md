@@ -1,11 +1,13 @@
 ---
-title: "Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.02902
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02902
 next_step: skim
+priority: medium
+slack_ts: '1780548662.424919'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery
+  in Healthcare: A Rapid Evidence Review'
 ---
 # Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review
 > 原文: [https://arxiv.org/abs/2606.02902](https://arxiv.org/abs/2606.02902)

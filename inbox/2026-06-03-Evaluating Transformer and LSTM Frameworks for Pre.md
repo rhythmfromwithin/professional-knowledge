@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.02791
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02791
 next_step: skim
+priority: high
+slack_ts: '1780548662.230679'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins
 ---
 # Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins
 > 原文: [https://arxiv.org/abs/2606.02791](https://arxiv.org/abs/2606.02791)

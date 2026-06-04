@@ -1,11 +1,13 @@
 ---
-title: "Reinforcement Learning for Optimal Experiment Design in Parameter Identification of Mechatronic Systems"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.00059
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00059
 next_step: skim
+priority: medium
+slack_ts: '1780548657.959399'
+source: cs.RO - Robotics
+status: unread
+title: Reinforcement Learning for Optimal Experiment Design in Parameter Identification
+  of Mechatronic Systems
 ---
 # Reinforcement Learning for Optimal Experiment Design in Parameter Identification of Mechatronic Systems
 > 原文: [https://arxiv.org/abs/2606.00059](https://arxiv.org/abs/2606.00059)

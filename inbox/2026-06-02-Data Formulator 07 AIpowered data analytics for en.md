@@ -1,11 +1,12 @@
 ---
-title: "Data Formulator 0.7: AI-powered data analytics for enterprise data"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/
 next_step: skim
+priority: high
+slack_ts: '1780548653.291349'
+source: Microsoft Research
+status: unread
+title: 'Data Formulator 0.7: AI-powered data analytics for enterprise data'
 ---
 # Data Formulator 0.7: AI-powered data analytics for enterprise data
 > 原文: [https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/)

@@ -1,11 +1,13 @@
 ---
-title: "SCOPE: Cost-Efficient Model Selection for Compound AI Systems under Quality Constraints"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.00774
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00774
 next_step: skim
+priority: low
+slack_ts: '1780548658.154929'
+source: cs.DB - Databases
+status: unread
+title: 'SCOPE: Cost-Efficient Model Selection for Compound AI Systems under Quality
+  Constraints'
 ---
 # SCOPE: Cost-Efficient Model Selection for Compound AI Systems under Quality Constraints
 > 原文: [https://arxiv.org/abs/2606.00774](https://arxiv.org/abs/2606.00774)

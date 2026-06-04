@@ -1,11 +1,12 @@
 ---
-title: "Hoeffding Concept Bottleneck Models with Applications to Overhead Images"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.00082
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00082
 next_step: skim
+priority: high
+slack_ts: '1780548654.945159'
+source: cs.LG - Machine Learning
+status: unread
+title: Hoeffding Concept Bottleneck Models with Applications to Overhead Images
 ---
 # Hoeffding Concept Bottleneck Models with Applications to Overhead Images
 > 原文: [https://arxiv.org/abs/2606.00082](https://arxiv.org/abs/2606.00082)

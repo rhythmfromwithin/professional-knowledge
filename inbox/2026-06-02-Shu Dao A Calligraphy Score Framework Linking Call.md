@@ -1,11 +1,12 @@
 ---
-title: "Shu Dao: A Calligraphy Score Framework Linking Calligraphy, Music, and Performance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.00001
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00001
 next_step: skim
+priority: low
+slack_ts: '1780548658.536239'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Shu Dao: A Calligraphy Score Framework Linking Calligraphy, Music, and Performance'
 ---
 # Shu Dao: A Calligraphy Score Framework Linking Calligraphy, Music, and Performance
 > 原文: [https://arxiv.org/abs/2606.00001](https://arxiv.org/abs/2606.00001)

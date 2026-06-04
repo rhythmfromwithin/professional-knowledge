@@ -1,11 +1,13 @@
 ---
-title: "The Fair Lending Model: How the Longest-Running Algorithmic Fairness Programs Work in Practice"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.02957
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02957
 next_step: skim
+priority: medium
+slack_ts: '1780548667.841089'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Fair Lending Model: How the Longest-Running Algorithmic Fairness Programs
+  Work in Practice'
 ---
 # The Fair Lending Model: How the Longest-Running Algorithmic Fairness Programs Work in Practice
 > 原文: [https://arxiv.org/abs/2606.02957](https://arxiv.org/abs/2606.02957)

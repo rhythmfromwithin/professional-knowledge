@@ -1,11 +1,12 @@
 ---
-title: "Building a secure auth code flow setup using AgentCore Gateway with MCP clients"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/
 next_step: skim
+priority: high
+slack_ts: '1780548652.312499'
+source: AWS Blog
+status: unread
+title: Building a secure auth code flow setup using AgentCore Gateway with MCP clients
 ---
 # Building a secure auth code flow setup using AgentCore Gateway with MCP clients
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/](https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/)

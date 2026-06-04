@@ -1,11 +1,13 @@
 ---
-title: "Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.00073
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00073
 next_step: skim
+priority: low
+slack_ts: '1780548657.661099'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Rare Events, Real Signals: Functional Ensembles as Units of Computation in
+  Deep Spiking Networks'
 ---
 # Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks
 > 原文: [https://arxiv.org/abs/2606.00073](https://arxiv.org/abs/2606.00073)

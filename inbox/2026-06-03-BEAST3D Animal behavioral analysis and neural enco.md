@@ -1,11 +1,13 @@
 ---
-title: "BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.02937
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02937
 next_step: skim
+priority: low
+slack_ts: '1780548660.259579'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'BEAST3D: Animal behavioral analysis and neural encoding from multi-view video
+  via Gaussian splatting'
 ---
 # BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting
 > 原文: [https://arxiv.org/abs/2606.02937](https://arxiv.org/abs/2606.02937)

@@ -1,11 +1,13 @@
 ---
-title: "Human-in-the-Loop Contextual Bandits for Short-Term Rental Dynamic Pricing: Structural Equivalence of Historical Warm-Up and Approval-Gated Live Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.02595
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02595
 next_step: skim
+priority: high
+slack_ts: '1780548663.579619'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Human-in-the-Loop Contextual Bandits for Short-Term Rental Dynamic Pricing:
+  Structural Equivalence of Historical Warm-Up and Approval-Gated Live Learning'
 ---
 # Human-in-the-Loop Contextual Bandits for Short-Term Rental Dynamic Pricing: Structural Equivalence of Historical Warm-Up and Approval-Gated Live Learning
 > 原文: [https://arxiv.org/abs/2606.02595](https://arxiv.org/abs/2606.02595)

@@ -1,11 +1,12 @@
 ---
-title: "Listen to the Market"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/listen-to-the-market/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/listen-to-the-market/
 next_step: skim
+priority: high
+slack_ts: '1780548655.926759'
+source: Sequoia Capital
+status: unread
+title: Listen to the Market
 ---
 # Listen to the Market
 > 原文: [https://sequoiacap.com/article/listen-to-the-market/](https://sequoiacap.com/article/listen-to-the-market/)

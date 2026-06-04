@@ -1,11 +1,13 @@
 ---
-title: "From Frontier to Shadow AI: A Simmering Threat to Assurance and Security in Critical Infrastructure"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.00088
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00088
 next_step: skim
+priority: low
+slack_ts: '1780548654.177679'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'From Frontier to Shadow AI: A Simmering Threat to Assurance and Security in
+  Critical Infrastructure'
 ---
 # From Frontier to Shadow AI: A Simmering Threat to Assurance and Security in Critical Infrastructure
 > 原文: [https://arxiv.org/abs/2606.00088](https://arxiv.org/abs/2606.00088)

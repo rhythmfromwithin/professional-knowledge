@@ -1,11 +1,12 @@
 ---
-title: "Improved Belief-Attention in Vision Task"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.00077
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00077
 next_step: skim
+priority: medium
+slack_ts: '1780548655.089549'
+source: cs.CV - Computer Vision
+status: unread
+title: Improved Belief-Attention in Vision Task
 ---
 # Improved Belief-Attention in Vision Task
 > 原文: [https://arxiv.org/abs/2606.00077](https://arxiv.org/abs/2606.00077)

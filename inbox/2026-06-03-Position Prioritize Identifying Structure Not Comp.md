@@ -1,11 +1,13 @@
 ---
-title: "Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.02632
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02632
 next_step: skim
+priority: medium
+slack_ts: '1780548666.049669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Position: Prioritize Identifying Structure, Not Complex Models, for Scientific
+  Discovery'
 ---
 # Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery
 > 原文: [https://arxiv.org/abs/2606.02632](https://arxiv.org/abs/2606.02632)

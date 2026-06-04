@@ -1,11 +1,13 @@
 ---
-title: "DAStatFormer: A Hybrid Multibranch Transformer with Statistical Feature Integration for DAS-Based Pattern Recognitions"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.00081
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00081
 next_step: skim
+priority: high
+slack_ts: '1780548653.092199'
+source: cs.LG - Machine Learning
+status: unread
+title: 'DAStatFormer: A Hybrid Multibranch Transformer with Statistical Feature Integration
+  for DAS-Based Pattern Recognitions'
 ---
 # DAStatFormer: A Hybrid Multibranch Transformer with Statistical Feature Integration for DAS-Based Pattern Recognitions
 > 原文: [https://arxiv.org/abs/2606.00081](https://arxiv.org/abs/2606.00081)

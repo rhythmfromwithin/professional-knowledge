@@ -1,11 +1,12 @@
 ---
-title: "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1780548654.622979'
+source: AWS Blog
+status: unread
+title: Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock
 ---
 # Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/](https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/)

@@ -1,11 +1,12 @@
 ---
-title: "Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.03019
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03019
 next_step: skim
+priority: medium
+slack_ts: '1780548666.582069'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds'
 ---
 # Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds
 > 原文: [https://arxiv.org/abs/2606.03019](https://arxiv.org/abs/2606.03019)

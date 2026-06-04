@@ -1,11 +1,12 @@
 ---
-title: "Sequential chaotic oscillations in excitatory-inhibitory threshold-linear networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.00373
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00373
 next_step: skim
+priority: low
+slack_ts: '1780548658.348779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Sequential chaotic oscillations in excitatory-inhibitory threshold-linear networks
 ---
 # Sequential chaotic oscillations in excitatory-inhibitory threshold-linear networks
 > 原文: [https://arxiv.org/abs/2606.00373](https://arxiv.org/abs/2606.00373)

@@ -1,0 +1,14 @@
+---
+title: "AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation"
+source: "cs.RO - Robotics"
+link: https://arxiv.org/abs/2606.04111
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation
+> 原文: [https://arxiv.org/abs/2606.04111](https://arxiv.org/abs/2606.04111)
+
+arXiv:2606.04111v1 Announce Type: new
+Abstract: Indoor UAV navigation requires efficient exploration, scene understanding, and reliable trajectory execution under limited field-of-view observations. Existing vision-based navigation frameworks typically rely on single-view observations, limiting their ability to reason about occlusions, target visibility, and global scene structure. In this work, we propose AgenticDiffusion, a multi-view UAV navigation framework that coordinates language-guided reasoning, open-vocabulary target grounding, vision-based diffusion planning, and NMPC within a unified aerial navigation pipeline. Given a natural language instruction and synchronized first-person-view (FPV) and top-view observations, the framework determines the most informative viewpoint for navigation and generates a mission plan prior to trajectory execution. The targets are localized using an open-vocabulary grounding model, after which viewpoint-specific diffusion planners generate navigation trajectories for UAV execution. Using complementary viewpoints, the proposed framework reduces repeated target exploration and improves navigation efficiency in cluttered indoor environments. The framework was validated in four real-world UAV navigation scenarios involving adaptive viewpoint selection, multi-stage mission execution, long-horizon navigation, and safe landing-site selection. The experimental results demonstrated an overall mission success rate of 80% in 40 real-world trials, while the diffusion planners achieved a trajectory generation success rate of 100%.

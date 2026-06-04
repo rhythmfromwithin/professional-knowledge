@@ -1,11 +1,13 @@
 ---
-title: "XAI-SOH-FL: Enhancing SOH-FL with Adaptive Aggregation and Explainable AI for Intrusion Detection in Heterogeneous IoT"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.00134
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.00134
 next_step: skim
+priority: low
+slack_ts: '1780548659.400459'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'XAI-SOH-FL: Enhancing SOH-FL with Adaptive Aggregation and Explainable AI
+  for Intrusion Detection in Heterogeneous IoT'
 ---
 # XAI-SOH-FL: Enhancing SOH-FL with Adaptive Aggregation and Explainable AI for Intrusion Detection in Heterogeneous IoT
 > 原文: [https://arxiv.org/abs/2606.00134](https://arxiv.org/abs/2606.00134)

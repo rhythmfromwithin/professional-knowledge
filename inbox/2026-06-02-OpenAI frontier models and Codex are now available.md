@@ -1,11 +1,12 @@
 ---
-title: "OpenAI frontier models and Codex are now available on AWS"
-source: "OpenAI Blog"
-link: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
 next_step: skim
+priority: high
+slack_ts: '1780548657.099489'
+source: OpenAI Blog
+status: unread
+title: OpenAI frontier models and Codex are now available on AWS
 ---
 # OpenAI frontier models and Codex are now available on AWS
 > 原文: [https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws)
