@@ -1,11 +1,12 @@
 ---
-title: "Peer Effects in Consideration and Preferences"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2310.12272
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2310.12272
 next_step: skim
+priority: low
+slack_ts: '1780633554.765179'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Peer Effects in Consideration and Preferences
 ---
 # Peer Effects in Consideration and Preferences
 > 原文: [https://arxiv.org/abs/2310.12272](https://arxiv.org/abs/2310.12272)

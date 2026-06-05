@@ -1,11 +1,13 @@
 ---
-title: "CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.04130
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04130
 next_step: skim
+priority: medium
+slack_ts: '1780633552.367459'
+source: cs.RO - Robotics
+status: unread
+title: 'CLAW: Learning Continuous Latent Action World Models via Adversarial Latent
+  Regularization'
 ---
 # CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization
 > 原文: [https://arxiv.org/abs/2606.04130](https://arxiv.org/abs/2606.04130)

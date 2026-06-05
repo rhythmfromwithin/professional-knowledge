@@ -1,11 +1,13 @@
 ---
-title: "Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.05150
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05150
 next_step: skim
+priority: low
+slack_ts: '1780633554.443729'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm
+  Optimization
 ---
 # Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization
 > 原文: [https://arxiv.org/abs/2606.05150](https://arxiv.org/abs/2606.05150)

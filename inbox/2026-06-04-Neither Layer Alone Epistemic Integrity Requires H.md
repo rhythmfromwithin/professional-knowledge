@@ -1,11 +1,13 @@
 ---
-title: "Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.04017
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04017
 next_step: skim
+priority: low
+slack_ts: '1780633554.615479'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design
+  for Long-Running AI Agents'
 ---
 # Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents
 > 原文: [https://arxiv.org/abs/2606.04017](https://arxiv.org/abs/2606.04017)

@@ -1,11 +1,13 @@
 ---
-title: "Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.02623
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02623
 next_step: skim
+priority: low
+slack_ts: '1780633550.023249'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural
+  PDE Solvers
 ---
 # Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers
 > 原文: [https://arxiv.org/abs/2606.02623](https://arxiv.org/abs/2606.02623)

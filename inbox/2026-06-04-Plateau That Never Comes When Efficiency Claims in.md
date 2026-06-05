@@ -1,11 +1,13 @@
 ---
-title: "Plateau That Never Comes: When Efficiency Claims in Datacenters and AI Become Greenwashing"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.04214
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04214
 next_step: skim
+priority: medium
+slack_ts: '1780633554.839179'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Plateau That Never Comes: When Efficiency Claims in Datacenters and AI Become
+  Greenwashing'
 ---
 # Plateau That Never Comes: When Efficiency Claims in Datacenters and AI Become Greenwashing
 > 原文: [https://arxiv.org/abs/2606.04214](https://arxiv.org/abs/2606.04214)

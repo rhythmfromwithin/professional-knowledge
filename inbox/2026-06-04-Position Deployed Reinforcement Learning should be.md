@@ -1,11 +1,12 @@
 ---
-title: "Position: Deployed Reinforcement Learning should be Continual"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.04029
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04029
 next_step: skim
+priority: high
+slack_ts: '1780633554.914539'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Position: Deployed Reinforcement Learning should be Continual'
 ---
 # Position: Deployed Reinforcement Learning should be Continual
 > 原文: [https://arxiv.org/abs/2606.04029](https://arxiv.org/abs/2606.04029)

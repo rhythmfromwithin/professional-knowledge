@@ -1,11 +1,12 @@
 ---
-title: "Counterfactual Explanations for Deep Two-Sample Testing"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.04009
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04009
 next_step: skim
+priority: medium
+slack_ts: '1780633552.699249'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Counterfactual Explanations for Deep Two-Sample Testing
 ---
 # Counterfactual Explanations for Deep Two-Sample Testing
 > 原文: [https://arxiv.org/abs/2606.04009](https://arxiv.org/abs/2606.04009)

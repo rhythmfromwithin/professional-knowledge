@@ -1,0 +1,14 @@
+---
+title: "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2606.05206
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature
+> 原文: [https://arxiv.org/abs/2606.05206](https://arxiv.org/abs/2606.05206)
+
+arXiv:2606.05206v1 Announce Type: new
+Abstract: Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve. Here, we describe a local multi-LLM pipeline for ontology-constrained literature synthesis. The pipeline reads papers, extracts evidence, incorporates figure descriptions, assembles constrained prompts, and validates outputs against an expert glossary. We manually defined a predictive-coding glossary of thirty-six concepts grouped into three hypotheses: predictive suppression, feedforward error propagation, and ubiquity. A council of ten local language models scored 31 studies according to their agreement or disagreement with each glossary factor across local and global oddball contexts. This enabled pairwise study-agreement analysis, cross-model comparison, and three-dimensional hypothesis-space mapping. Agreement was high for some hypotheses but weaker for others, revealing structured disagreement, particularly across local versus global oddball paradigms. We further define hypothesis-space temperature, a geometric dispersion metric measuring how compactly studies occupy the hypothesis space. Temperature was lower for local oddball contexts and higher for global oddball contexts, indicating greater dispersion in the latter. The scoring geometry also allowed us to estimate vectors of change between experimental contexts. These results demonstrate that local multi-LLM councils can produce auditable disagreement measurements that map heterogeneous literatures into quantitative evidence spaces. This framework may generalize to cross-study hypothesis mapping where conventional meta-analysis lacks a common comparison space.

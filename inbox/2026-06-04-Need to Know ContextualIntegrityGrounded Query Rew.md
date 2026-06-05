@@ -1,11 +1,13 @@
 ---
-title: "Need to Know: Contextual-Integrity-Grounded Query Rewriting for Privacy-Conscious LLM Delegation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.04067
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04067
 next_step: skim
+priority: low
+slack_ts: '1780633554.526109'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Need to Know: Contextual-Integrity-Grounded Query Rewriting for Privacy-Conscious
+  LLM Delegation'
 ---
 # Need to Know: Contextual-Integrity-Grounded Query Rewriting for Privacy-Conscious LLM Delegation
 > 原文: [https://arxiv.org/abs/2606.04067](https://arxiv.org/abs/2606.04067)

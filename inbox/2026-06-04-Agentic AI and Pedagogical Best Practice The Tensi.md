@@ -1,11 +1,13 @@
 ---
-title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.04543
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04543
 next_step: skim
+priority: medium
+slack_ts: '1780633551.750569'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Agentic AI and Pedagogical Best Practice: The Tension Between Automation and
+  Learning'
 ---
 # Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 > 原文: [https://arxiv.org/abs/2606.04543](https://arxiv.org/abs/2606.04543)

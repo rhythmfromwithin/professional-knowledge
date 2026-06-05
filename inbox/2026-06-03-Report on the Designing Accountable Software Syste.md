@@ -1,11 +1,12 @@
 ---
-title: "Report on the Designing Accountable Software Systems Workshop"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.02804
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02804
 next_step: skim
+priority: low
+slack_ts: '1780633550.441559'
+source: cs.SE - Software Engineering
+status: unread
+title: Report on the Designing Accountable Software Systems Workshop
 ---
 # Report on the Designing Accountable Software Systems Workshop
 > 原文: [https://arxiv.org/abs/2606.02804](https://arxiv.org/abs/2606.02804)

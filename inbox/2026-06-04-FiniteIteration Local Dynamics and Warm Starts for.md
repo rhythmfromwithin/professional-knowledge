@@ -1,11 +1,13 @@
 ---
-title: "Finite-Iteration Local Dynamics and Warm Starts for Alternating Power Iteration in Spiked Tensor PCA"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.04065
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04065
 next_step: skim
+priority: medium
+slack_ts: '1780633553.261589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Finite-Iteration Local Dynamics and Warm Starts for Alternating Power Iteration
+  in Spiked Tensor PCA
 ---
 # Finite-Iteration Local Dynamics and Warm Starts for Alternating Power Iteration in Spiked Tensor PCA
 > 原文: [https://arxiv.org/abs/2606.04065](https://arxiv.org/abs/2606.04065)

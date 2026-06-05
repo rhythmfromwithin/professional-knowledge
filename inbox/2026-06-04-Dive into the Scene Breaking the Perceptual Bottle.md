@@ -1,11 +1,13 @@
 ---
-title: "Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.04046
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04046
 next_step: skim
+priority: medium
+slack_ts: '1780633553.025519'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language
+  Decision Making via Focus Plan Generation'
 ---
 # Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation
 > 原文: [https://arxiv.org/abs/2606.04046](https://arxiv.org/abs/2606.04046)

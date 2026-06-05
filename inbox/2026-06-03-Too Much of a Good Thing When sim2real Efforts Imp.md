@@ -1,11 +1,13 @@
 ---
-title: "Too Much of a Good Thing: When sim2real Efforts Impede Policy Learning (And What to Do About It)"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.02636
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02636
 next_step: skim
+priority: medium
+slack_ts: '1780633551.197789'
+source: cs.RO - Robotics
+status: unread
+title: 'Too Much of a Good Thing: When sim2real Efforts Impede Policy Learning (And
+  What to Do About It)'
 ---
 # Too Much of a Good Thing: When sim2real Efforts Impede Policy Learning (And What to Do About It)
 > 原文: [https://arxiv.org/abs/2606.02636](https://arxiv.org/abs/2606.02636)

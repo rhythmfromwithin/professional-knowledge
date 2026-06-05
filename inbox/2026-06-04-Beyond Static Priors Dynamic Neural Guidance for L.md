@@ -1,11 +1,12 @@
 ---
-title: "Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.04039
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04039
 next_step: skim
+priority: low
+slack_ts: '1780633552.136429'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization'
 ---
 # Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization
 > 原文: [https://arxiv.org/abs/2606.04039](https://arxiv.org/abs/2606.04039)

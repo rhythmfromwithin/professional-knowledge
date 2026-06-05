@@ -1,11 +1,12 @@
 ---
-title: "The art and science of hyperparameter optimization on Amazon Nova Forge"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/
 next_step: skim
+priority: high
+slack_ts: '1780633551.024849'
+source: AWS Blog
+status: unread
+title: The art and science of hyperparameter optimization on Amazon Nova Forge
 ---
 # The art and science of hyperparameter optimization on Amazon Nova Forge
 > 原文: [https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/](https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/)

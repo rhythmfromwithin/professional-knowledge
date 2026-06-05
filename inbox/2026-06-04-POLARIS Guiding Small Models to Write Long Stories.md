@@ -1,11 +1,12 @@
 ---
-title: "POLARIS: Guiding Small Models to Write Long Stories"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.04095
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04095
 next_step: skim
+priority: high
+slack_ts: '1780633554.691039'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'POLARIS: Guiding Small Models to Write Long Stories'
 ---
 # POLARIS: Guiding Small Models to Write Long Stories
 > 原文: [https://arxiv.org/abs/2606.04095](https://arxiv.org/abs/2606.04095)

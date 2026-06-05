@@ -1,11 +1,13 @@
 ---
-title: "AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.04111
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04111
 next_step: skim
+priority: medium
+slack_ts: '1780633551.828719'
+source: cs.RO - Robotics
+status: unread
+title: 'AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV
+  Navigation'
 ---
 # AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation
 > 原文: [https://arxiv.org/abs/2606.04111](https://arxiv.org/abs/2606.04111)

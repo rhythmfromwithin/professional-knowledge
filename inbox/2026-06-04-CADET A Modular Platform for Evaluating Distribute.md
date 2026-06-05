@@ -1,11 +1,13 @@
 ---
-title: "CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.04072
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04072
 next_step: skim
+priority: medium
+slack_ts: '1780633552.289659'
+source: cs.RO - Robotics
+status: unread
+title: 'CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy
+  in Connected Autonomous Vehicles'
 ---
 # CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles
 > 原文: [https://arxiv.org/abs/2606.04072](https://arxiv.org/abs/2606.04072)

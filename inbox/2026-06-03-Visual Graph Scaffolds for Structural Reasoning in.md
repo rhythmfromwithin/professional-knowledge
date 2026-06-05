@@ -1,11 +1,12 @@
 ---
-title: "Visual Graph Scaffolds for Structural Reasoning in Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.02673
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02673
 next_step: skim
+priority: high
+slack_ts: '1780633551.340729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Visual Graph Scaffolds for Structural Reasoning in Large Language Models
 ---
 # Visual Graph Scaffolds for Structural Reasoning in Large Language Models
 > 原文: [https://arxiv.org/abs/2606.02673](https://arxiv.org/abs/2606.02673)

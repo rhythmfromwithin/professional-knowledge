@@ -1,11 +1,13 @@
 ---
-title: "Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.04978
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04978
 next_step: skim
+priority: low
+slack_ts: '1780633554.987559'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk
+  Decisions: Evidence from the St. Petersburg Game'
 ---
 # Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game
 > 原文: [https://arxiv.org/abs/2606.04978](https://arxiv.org/abs/2606.04978)

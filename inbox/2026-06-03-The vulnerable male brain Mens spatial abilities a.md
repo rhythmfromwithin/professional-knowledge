@@ -1,11 +1,13 @@
 ---
-title: "The vulnerable male brain: Men's spatial abilities are condition-dependent, sexually selected traits"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.02591
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02591
 next_step: skim
+priority: low
+slack_ts: '1780633551.110709'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The vulnerable male brain: Men''s spatial abilities are condition-dependent,
+  sexually selected traits'
 ---
 # The vulnerable male brain: Men's spatial abilities are condition-dependent, sexually selected traits
 > 原文: [https://arxiv.org/abs/2606.02591](https://arxiv.org/abs/2606.02591)

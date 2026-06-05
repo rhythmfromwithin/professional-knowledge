@@ -1,11 +1,13 @@
 ---
-title: "Spectral Asymptotics of Neural Network Loss Landscapes: An Exact Decomposition of the Curvature Exponent"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.02596
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.02596
 next_step: skim
+priority: high
+slack_ts: '1780633550.791209'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Spectral Asymptotics of Neural Network Loss Landscapes: An Exact Decomposition
+  of the Curvature Exponent'
 ---
 # Spectral Asymptotics of Neural Network Loss Landscapes: An Exact Decomposition of the Curvature Exponent
 > 原文: [https://arxiv.org/abs/2606.02596](https://arxiv.org/abs/2606.02596)

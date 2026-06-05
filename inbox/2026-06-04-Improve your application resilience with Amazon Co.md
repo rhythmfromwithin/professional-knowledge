@@ -1,11 +1,12 @@
 ---
-title: "Improve your application resilience with Amazon Cognito multi-Region replication"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/
 next_step: skim
+priority: high
+slack_ts: '1780633553.821169'
+source: AWS Blog
+status: unread
+title: Improve your application resilience with Amazon Cognito multi-Region replication
 ---
 # Improve your application resilience with Amazon Cognito multi-Region replication
 > 原文: [https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/](https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/)

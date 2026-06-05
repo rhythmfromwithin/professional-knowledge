@@ -1,11 +1,12 @@
 ---
-title: "CodegenBench: Can LLMs Write Efficient Code Across Architectures?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.04023
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04023
 next_step: skim
+priority: low
+slack_ts: '1780633552.455619'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CodegenBench: Can LLMs Write Efficient Code Across Architectures?'
 ---
 # CodegenBench: Can LLMs Write Efficient Code Across Architectures?
 > 原文: [https://arxiv.org/abs/2606.04023](https://arxiv.org/abs/2606.04023)

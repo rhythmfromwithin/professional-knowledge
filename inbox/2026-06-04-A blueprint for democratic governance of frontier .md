@@ -1,11 +1,12 @@
 ---
-title: "A blueprint for democratic governance of frontier AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/frontier-safety-blueprint
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/frontier-safety-blueprint
 next_step: skim
+priority: high
+slack_ts: '1780633551.416729'
+source: OpenAI Blog
+status: unread
+title: A blueprint for democratic governance of frontier AI
 ---
 # A blueprint for democratic governance of frontier AI
 > 原文: [https://openai.com/index/frontier-safety-blueprint](https://openai.com/index/frontier-safety-blueprint)

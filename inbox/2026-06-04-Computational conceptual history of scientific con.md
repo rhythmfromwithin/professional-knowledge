@@ -1,11 +1,13 @@
 ---
-title: "Computational conceptual history of scientific concepts: From early digital methods to LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.04118
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04118
 next_step: skim
+priority: high
+slack_ts: '1780633552.539419'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Computational conceptual history of scientific concepts: From early digital
+  methods to LLMs'
 ---
 # Computational conceptual history of scientific concepts: From early digital methods to LLMs
 > 原文: [https://arxiv.org/abs/2606.04118](https://arxiv.org/abs/2606.04118)

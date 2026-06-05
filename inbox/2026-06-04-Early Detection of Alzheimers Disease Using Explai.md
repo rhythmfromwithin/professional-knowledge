@@ -1,11 +1,14 @@
 ---
-title: "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.03995
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03995
 next_step: skim
+priority: high
+slack_ts: '1780633553.104049'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Early Detection of Alzheimer''s Disease Using Explainable Machine Learning
+  on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer''s
+  Disease Neuroimaging Initiative (ADNI) Dataset'
 ---
 # Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset
 > 原文: [https://arxiv.org/abs/2606.03995](https://arxiv.org/abs/2606.03995)

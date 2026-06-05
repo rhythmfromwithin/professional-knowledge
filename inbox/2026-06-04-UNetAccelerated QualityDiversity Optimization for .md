@@ -1,11 +1,13 @@
 ---
-title: "U-Net-Accelerated Quality-Diversity Optimization for Climate-Adaptive Urban Layouts"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.04658
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04658
 next_step: skim
+priority: low
+slack_ts: '1780633555.735709'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: U-Net-Accelerated Quality-Diversity Optimization for Climate-Adaptive Urban
+  Layouts
 ---
 # U-Net-Accelerated Quality-Diversity Optimization for Climate-Adaptive Urban Layouts
 > 原文: [https://arxiv.org/abs/2606.04658](https://arxiv.org/abs/2606.04658)

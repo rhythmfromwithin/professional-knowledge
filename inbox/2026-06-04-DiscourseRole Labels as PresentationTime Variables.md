@@ -1,11 +1,13 @@
 ---
-title: "Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.04109
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04109
 next_step: skim
+priority: high
+slack_ts: '1780633552.951439'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Discourse-Role Labels as Presentation-Time Variables for Context Use in Language
+  Models
 ---
 # Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models
 > 原文: [https://arxiv.org/abs/2606.04109](https://arxiv.org/abs/2606.04109)

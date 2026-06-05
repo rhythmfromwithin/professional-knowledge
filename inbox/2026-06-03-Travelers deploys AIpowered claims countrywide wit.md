@@ -1,11 +1,12 @@
 ---
-title: "Travelers deploys AI-powered claims countrywide with OpenAI"
-source: "OpenAI Blog"
-link: https://openai.com/index/travelers
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/travelers
 next_step: skim
+priority: high
+slack_ts: '1780633551.265019'
+source: OpenAI Blog
+status: unread
+title: Travelers deploys AI-powered claims countrywide with OpenAI
 ---
 # Travelers deploys AI-powered claims countrywide with OpenAI
 > 原文: [https://openai.com/index/travelers](https://openai.com/index/travelers)

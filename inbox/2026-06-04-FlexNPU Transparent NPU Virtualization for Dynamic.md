@@ -1,11 +1,12 @@
 ---
-title: "FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.04415
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04415
 next_step: skim
+priority: medium
+slack_ts: '1780633553.336919'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location'
 ---
 # FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location
 > 原文: [https://arxiv.org/abs/2606.04415](https://arxiv.org/abs/2606.04415)

@@ -1,11 +1,12 @@
 ---
-title: "Merit or networks? What decides where research is published"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.03763
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03763
 next_step: skim
+priority: low
+slack_ts: '1780633549.858799'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Merit or networks? What decides where research is published
 ---
 # Merit or networks? What decides where research is published
 > 原文: [https://arxiv.org/abs/2606.03763](https://arxiv.org/abs/2606.03763)

@@ -1,11 +1,12 @@
 ---
-title: "Creative Reading: Scaffolding Reading for Transformation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.04308
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04308
 next_step: skim
+priority: low
+slack_ts: '1780633552.783849'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Creative Reading: Scaffolding Reading for Transformation'
 ---
 # Creative Reading: Scaffolding Reading for Transformation
 > 原文: [https://arxiv.org/abs/2606.04308](https://arxiv.org/abs/2606.04308)

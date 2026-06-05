@@ -1,11 +1,13 @@
 ---
-title: "Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired Reservoir Model for Multistep Goal-Directed Action Planning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.03481
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03481
 next_step: skim
+priority: low
+slack_ts: '1780633550.526329'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired
+  Reservoir Model for Multistep Goal-Directed Action Planning
 ---
 # Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired Reservoir Model for Multistep Goal-Directed Action Planning
 > 原文: [https://arxiv.org/abs/2606.03481](https://arxiv.org/abs/2606.03481)

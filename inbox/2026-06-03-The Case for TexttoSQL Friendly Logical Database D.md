@@ -1,11 +1,12 @@
 ---
-title: "The Case for Text-to-SQL Friendly Logical Database Design"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.03145
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03145
 next_step: skim
+priority: low
+slack_ts: '1780633550.943119'
+source: cs.DB - Databases
+status: unread
+title: The Case for Text-to-SQL Friendly Logical Database Design
 ---
 # The Case for Text-to-SQL Friendly Logical Database Design
 > 原文: [https://arxiv.org/abs/2606.03145](https://arxiv.org/abs/2606.03145)

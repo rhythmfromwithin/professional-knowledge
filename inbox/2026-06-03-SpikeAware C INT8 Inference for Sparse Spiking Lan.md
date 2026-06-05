@@ -1,11 +1,13 @@
 ---
-title: "Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity CPUs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.03026
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03026
 next_step: skim
+priority: low
+slack_ts: '1780633550.868489'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity
+  CPUs
 ---
 # Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity CPUs
 > 原文: [https://arxiv.org/abs/2606.03026](https://arxiv.org/abs/2606.03026)
