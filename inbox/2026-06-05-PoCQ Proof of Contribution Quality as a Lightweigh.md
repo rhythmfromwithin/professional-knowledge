@@ -1,11 +1,13 @@
 ---
-title: "PoCQ: Proof of Contribution Quality as a Lightweight Blockchain Consensus for Secure Federated Learning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.05642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05642
 next_step: skim
+priority: medium
+slack_ts: '1780718918.775619'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'PoCQ: Proof of Contribution Quality as a Lightweight Blockchain Consensus
+  for Secure Federated Learning'
 ---
 # PoCQ: Proof of Contribution Quality as a Lightweight Blockchain Consensus for Secure Federated Learning
 > 原文: [https://arxiv.org/abs/2606.05642](https://arxiv.org/abs/2606.05642)

@@ -1,11 +1,12 @@
 ---
-title: "Biodefense in the Intelligence Age"
-source: "OpenAI Blog"
-link: https://openai.com/index/biodefense-in-the-intelligence-age
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/biodefense-in-the-intelligence-age
 next_step: skim
+priority: high
+slack_ts: '1780718907.908399'
+source: OpenAI Blog
+status: unread
+title: Biodefense in the Intelligence Age
 ---
 # Biodefense in the Intelligence Age
 > 原文: [https://openai.com/index/biodefense-in-the-intelligence-age](https://openai.com/index/biodefense-in-the-intelligence-age)

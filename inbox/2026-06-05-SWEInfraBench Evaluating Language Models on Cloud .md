@@ -1,11 +1,12 @@
 ---
-title: "SWE-InfraBench: Evaluating Language Models on Cloud Infrastructure Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.05249
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05249
 next_step: skim
+priority: low
+slack_ts: '1780718920.767449'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SWE-InfraBench: Evaluating Language Models on Cloud Infrastructure Code'
 ---
 # SWE-InfraBench: Evaluating Language Models on Cloud Infrastructure Code
 > 原文: [https://arxiv.org/abs/2606.05249](https://arxiv.org/abs/2606.05249)

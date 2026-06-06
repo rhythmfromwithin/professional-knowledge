@@ -1,11 +1,12 @@
 ---
-title: "Hub-Aware Hybrid Search: Accelerating the Locally Aligned Ant Technique"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.06198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06198
 next_step: skim
+priority: low
+slack_ts: '1780718914.648869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Hub-Aware Hybrid Search: Accelerating the Locally Aligned Ant Technique'
 ---
 # Hub-Aware Hybrid Search: Accelerating the Locally Aligned Ant Technique
 > 原文: [https://arxiv.org/abs/2606.06198](https://arxiv.org/abs/2606.06198)

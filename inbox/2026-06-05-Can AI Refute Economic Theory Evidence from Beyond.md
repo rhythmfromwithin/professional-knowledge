@@ -1,11 +1,12 @@
 ---
-title: "Can AI Refute Economic Theory? Evidence from Beyond the Knowledge Cutoff"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.05383
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05383
 next_step: skim
+priority: low
+slack_ts: '1780718908.726659'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Can AI Refute Economic Theory? Evidence from Beyond the Knowledge Cutoff
 ---
 # Can AI Refute Economic Theory? Evidence from Beyond the Knowledge Cutoff
 > 原文: [https://arxiv.org/abs/2606.05383](https://arxiv.org/abs/2606.05383)

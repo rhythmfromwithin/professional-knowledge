@@ -1,11 +1,14 @@
 ---
-title: "Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.05233
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05233
 next_step: skim
+priority: low
+slack_ts: '1780718910.873779'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode
+  Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit
+  of Recent Red-Teaming'
 ---
 # Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming
 > 原文: [https://arxiv.org/abs/2606.05233](https://arxiv.org/abs/2606.05233)

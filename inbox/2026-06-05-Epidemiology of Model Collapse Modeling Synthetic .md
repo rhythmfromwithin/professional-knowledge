@@ -1,11 +1,13 @@
 ---
-title: "Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.05168
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05168
 next_step: skim
+priority: high
+slack_ts: '1780718911.954249'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via
+  Bilayer SIR Dynamics'
 ---
 # Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics
 > 原文: [https://arxiv.org/abs/2606.05168](https://arxiv.org/abs/2606.05168)

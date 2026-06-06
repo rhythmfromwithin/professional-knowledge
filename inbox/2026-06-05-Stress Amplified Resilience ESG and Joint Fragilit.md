@@ -1,11 +1,12 @@
 ---
-title: "Stress Amplified Resilience: ESG and Joint Fragility in Equity Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.05631
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05631
 next_step: skim
+priority: low
+slack_ts: '1780718922.484269'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Stress Amplified Resilience: ESG and Joint Fragility in Equity Markets'
 ---
 # Stress Amplified Resilience: ESG and Joint Fragility in Equity Markets
 > 原文: [https://arxiv.org/abs/2606.05631](https://arxiv.org/abs/2606.05631)

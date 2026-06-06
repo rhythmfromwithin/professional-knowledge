@@ -1,11 +1,12 @@
 ---
-title: "Personal AI Agent for Camera Roll VQA"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.05275
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05275
 next_step: skim
+priority: medium
+slack_ts: '1780718918.555929'
+source: cs.CV - Computer Vision
+status: unread
+title: Personal AI Agent for Camera Roll VQA
 ---
 # Personal AI Agent for Camera Roll VQA
 > 原文: [https://arxiv.org/abs/2606.05275](https://arxiv.org/abs/2606.05275)

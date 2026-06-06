@@ -1,11 +1,13 @@
 ---
-title: "Causal Scaffolding for Physical Reasoning: A Benchmark for Causally-Informed Physical World Understanding in VLMs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.05966
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05966
 next_step: skim
+priority: low
+slack_ts: '1780718908.939819'
+source: cs.DB - Databases
+status: unread
+title: 'Causal Scaffolding for Physical Reasoning: A Benchmark for Causally-Informed
+  Physical World Understanding in VLMs'
 ---
 # Causal Scaffolding for Physical Reasoning: A Benchmark for Causally-Informed Physical World Understanding in VLMs
 > 原文: [https://arxiv.org/abs/2606.05966](https://arxiv.org/abs/2606.05966)

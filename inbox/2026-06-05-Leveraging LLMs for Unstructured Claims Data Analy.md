@@ -1,11 +1,12 @@
 ---
-title: "Leveraging LLMs for Unstructured Claims Data Analysis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.06089
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06089
 next_step: skim
+priority: low
+slack_ts: '1780718915.947949'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Leveraging LLMs for Unstructured Claims Data Analysis
 ---
 # Leveraging LLMs for Unstructured Claims Data Analysis
 > 原文: [https://arxiv.org/abs/2606.06089](https://arxiv.org/abs/2606.06089)

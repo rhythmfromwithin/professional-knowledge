@@ -1,11 +1,13 @@
 ---
-title: "Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Public Benchmark Evaluation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.05241
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05241
 next_step: skim
+priority: low
+slack_ts: '1780718921.336839'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation
+  in Public Benchmark Evaluation'
 ---
 # Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Public Benchmark Evaluation
 > 原文: [https://arxiv.org/abs/2606.05241](https://arxiv.org/abs/2606.05241)

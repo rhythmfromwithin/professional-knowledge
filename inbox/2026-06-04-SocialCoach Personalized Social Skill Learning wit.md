@@ -1,11 +1,13 @@
 ---
-title: "SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.04155
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04155
 next_step: skim
+priority: low
+slack_ts: '1780718903.596629'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring
+  and Practice'
 ---
 # SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice
 > 原文: [https://arxiv.org/abs/2606.04155](https://arxiv.org/abs/2606.04155)

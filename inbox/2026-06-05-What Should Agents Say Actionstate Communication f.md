@@ -1,11 +1,13 @@
 ---
-title: "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.05304
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05304
 next_step: skim
+priority: high
+slack_ts: '1780718923.579169'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: What Should Agents Say? Action-state Communication for Efficient Multi-Agent
+  Systems
 ---
 # What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems
 > 原文: [https://arxiv.org/abs/2606.05304](https://arxiv.org/abs/2606.05304)

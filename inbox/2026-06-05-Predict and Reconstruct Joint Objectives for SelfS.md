@@ -1,11 +1,13 @@
 ---
-title: "Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.05173
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05173
 next_step: skim
+priority: high
+slack_ts: '1780718919.331069'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation
+  Learning'
 ---
 # Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning
 > 原文: [https://arxiv.org/abs/2606.05173](https://arxiv.org/abs/2606.05173)

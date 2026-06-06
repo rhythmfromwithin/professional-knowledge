@@ -1,11 +1,13 @@
 ---
-title: "Towards an Ideometrics-Based Understanding of Consciousness, Time, Space and Dreams"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.04011
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04011
 next_step: skim
+priority: low
+slack_ts: '1780718905.273839'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Towards an Ideometrics-Based Understanding of Consciousness, Time, Space and
+  Dreams
 ---
 # Towards an Ideometrics-Based Understanding of Consciousness, Time, Space and Dreams
 > 原文: [https://arxiv.org/abs/2606.04011](https://arxiv.org/abs/2606.04011)

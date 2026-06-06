@@ -1,11 +1,13 @@
 ---
-title: "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.04150
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04150
 next_step: skim
+priority: high
+slack_ts: '1780718903.888259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape
+  Human Connection'
 ---
 # Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection
 > 原文: [https://arxiv.org/abs/2606.04150](https://arxiv.org/abs/2606.04150)

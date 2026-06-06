@@ -1,11 +1,13 @@
 ---
-title: "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.05870
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05870
 next_step: skim
+priority: low
+slack_ts: '1780718909.784629'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Cross-scale spatially-aware generative modeling of transcriptomic programs
+  underlying neurodegenerative brain organization
 ---
 # Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization
 > 原文: [https://arxiv.org/abs/2606.05870](https://arxiv.org/abs/2606.05870)

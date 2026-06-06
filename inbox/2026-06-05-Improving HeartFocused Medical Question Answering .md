@@ -1,11 +1,13 @@
 ---
-title: "Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.05174
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05174
 next_step: skim
+priority: high
+slack_ts: '1780718915.435389'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware
+  Rubric Rewards with GRPO
 ---
 # Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO
 > 原文: [https://arxiv.org/abs/2606.05174](https://arxiv.org/abs/2606.05174)

@@ -1,11 +1,12 @@
 ---
-title: "Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.04028
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04028
 next_step: skim
+priority: high
+slack_ts: '1780718917.773929'
+source: cs.LG - Machine Learning
+status: unread
+title: Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning
 ---
 # Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning
 > 原文: [https://arxiv.org/abs/2606.04028](https://arxiv.org/abs/2606.04028)

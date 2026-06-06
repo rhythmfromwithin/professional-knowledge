@@ -1,11 +1,12 @@
 ---
-title: "Central Description Length (CDL) Clustering Validation Index"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.05230
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05230
 next_step: skim
+priority: medium
+slack_ts: '1780718909.210949'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Central Description Length (CDL) Clustering Validation Index
 ---
 # Central Description Length (CDL) Clustering Validation Index
 > 原文: [https://arxiv.org/abs/2606.05230](https://arxiv.org/abs/2606.05230)

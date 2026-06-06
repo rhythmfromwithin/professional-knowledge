@@ -1,11 +1,13 @@
 ---
-title: "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.05256
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05256
 next_step: skim
+priority: high
+slack_ts: '1780718914.087299'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued
+  Field Experiment
 ---
 # How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment
 > 原文: [https://arxiv.org/abs/2606.05256](https://arxiv.org/abs/2606.05256)

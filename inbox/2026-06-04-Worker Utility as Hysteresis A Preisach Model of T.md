@@ -1,11 +1,13 @@
 ---
-title: "Worker Utility as Hysteresis: A Preisach Model of Transaction Acceptance in Gig Labour Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.04916
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04916
 next_step: skim
+priority: low
+slack_ts: '1780718905.516839'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Worker Utility as Hysteresis: A Preisach Model of Transaction Acceptance in
+  Gig Labour Markets'
 ---
 # Worker Utility as Hysteresis: A Preisach Model of Transaction Acceptance in Gig Labour Markets
 > 原文: [https://arxiv.org/abs/2606.04916](https://arxiv.org/abs/2606.04916)

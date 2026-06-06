@@ -1,11 +1,12 @@
 ---
-title: "QDAG: Declarative Composition of Reusable Analytics Methodologies at LinkedIn"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.05662
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05662
 next_step: skim
+priority: low
+slack_ts: '1780718919.615399'
+source: cs.DB - Databases
+status: unread
+title: 'QDAG: Declarative Composition of Reusable Analytics Methodologies at LinkedIn'
 ---
 # QDAG: Declarative Composition of Reusable Analytics Methodologies at LinkedIn
 > 原文: [https://arxiv.org/abs/2606.05662](https://arxiv.org/abs/2606.05662)

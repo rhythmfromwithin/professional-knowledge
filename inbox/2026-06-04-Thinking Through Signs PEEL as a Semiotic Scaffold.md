@@ -1,11 +1,13 @@
 ---
-title: "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.04152
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04152
 next_step: skim
+priority: high
+slack_ts: '1780718904.694929'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable
+  AI-Enabled Research'
 ---
 # Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research
 > 原文: [https://arxiv.org/abs/2606.04152](https://arxiv.org/abs/2606.04152)

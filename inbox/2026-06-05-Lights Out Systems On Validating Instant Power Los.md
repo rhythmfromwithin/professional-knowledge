@@ -1,11 +1,12 @@
 ---
-title: "Lights Out, Systems On: Validating Instant Power Loss Readiness"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/
 next_step: skim
+priority: medium
+slack_ts: '1780718916.243769'
+source: Meta Engineering
+status: unread
+title: 'Lights Out, Systems On: Validating Instant Power Loss Readiness'
 ---
 # Lights Out, Systems On: Validating Instant Power Loss Readiness
 > 原文: [https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/](https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/)

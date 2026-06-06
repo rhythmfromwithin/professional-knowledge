@@ -1,11 +1,13 @@
 ---
-title: "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.05206
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05206
 next_step: skim
+priority: low
+slack_ts: '1780718918.287409'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Ontology-constrained multi-LLM scoring of hypothesis support in the predictive
+  processing literature
 ---
 # Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature
 > 原文: [https://arxiv.org/abs/2606.05206](https://arxiv.org/abs/2606.05206)

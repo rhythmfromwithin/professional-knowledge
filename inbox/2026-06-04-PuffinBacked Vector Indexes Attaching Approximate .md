@@ -1,11 +1,13 @@
 ---
-title: "Puffin-Backed Vector Indexes: Attaching Approximate Nearest Neighbor Indexes to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.04196
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04196
 next_step: skim
+priority: low
+slack_ts: '1780718901.922079'
+source: cs.DB - Databases
+status: unread
+title: 'Puffin-Backed Vector Indexes: Attaching Approximate Nearest Neighbor Indexes
+  to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines'
 ---
 # Puffin-Backed Vector Indexes: Attaching Approximate Nearest Neighbor Indexes to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines
 > 原文: [https://arxiv.org/abs/2606.04196](https://arxiv.org/abs/2606.04196)

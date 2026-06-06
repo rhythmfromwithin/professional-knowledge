@@ -1,11 +1,13 @@
 ---
-title: "Drishti AI-Event Guardian: An Intelligent Real-Time Crowd Monitoring and Emergency Response System for Mass Gathering Events"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.05185
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05185
 next_step: skim
+priority: medium
+slack_ts: '1780718911.447799'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Drishti AI-Event Guardian: An Intelligent Real-Time Crowd Monitoring and Emergency
+  Response System for Mass Gathering Events'
 ---
 # Drishti AI-Event Guardian: An Intelligent Real-Time Crowd Monitoring and Emergency Response System for Mass Gathering Events
 > 原文: [https://arxiv.org/abs/2606.05185](https://arxiv.org/abs/2606.05185)

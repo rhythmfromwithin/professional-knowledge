@@ -1,11 +1,12 @@
 ---
-title: "NIV: Neural Axis Variations for Variable Font Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.05261
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05261
 next_step: skim
+priority: medium
+slack_ts: '1780718917.256089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'NIV: Neural Axis Variations for Variable Font Generation'
 ---
 # NIV: Neural Axis Variations for Variable Font Generation
 > 原文: [https://arxiv.org/abs/2606.05261](https://arxiv.org/abs/2606.05261)

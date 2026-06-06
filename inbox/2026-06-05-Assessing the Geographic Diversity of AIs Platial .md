@@ -1,11 +1,13 @@
 ---
-title: "Assessing the Geographic Diversity of AI's Platial Representations in Image Generation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.05188
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05188
 next_step: skim
+priority: medium
+slack_ts: '1780718907.468959'
+source: cs.CY - Computers and Society
+status: unread
+title: Assessing the Geographic Diversity of AI's Platial Representations in Image
+  Generation
 ---
 # Assessing the Geographic Diversity of AI's Platial Representations in Image Generation
 > 原文: [https://arxiv.org/abs/2606.05188](https://arxiv.org/abs/2606.05188)

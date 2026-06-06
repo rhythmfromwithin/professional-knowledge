@@ -1,11 +1,12 @@
 ---
-title: "VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.05259
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05259
 next_step: skim
+priority: medium
+slack_ts: '1780718923.074229'
+source: cs.CV - Computer Vision
+status: unread
+title: 'VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding'
 ---
 # VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding
 > 原文: [https://arxiv.org/abs/2606.05259](https://arxiv.org/abs/2606.05259)

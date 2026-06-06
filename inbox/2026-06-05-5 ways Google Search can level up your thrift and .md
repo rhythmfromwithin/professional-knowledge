@@ -1,11 +1,12 @@
 ---
-title: "5 ways Google Search can level up your thrift and vintage shopping"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/thrifting-tips/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/thrifting-tips/
 next_step: skim
+priority: high
+slack_ts: '1780718905.808149'
+source: Google AI Blog
+status: unread
+title: 5 ways Google Search can level up your thrift and vintage shopping
 ---
 # 5 ways Google Search can level up your thrift and vintage shopping
 > 原文: [https://blog.google/products-and-platforms/products/search/thrifting-tips/](https://blog.google/products-and-platforms/products/search/thrifting-tips/)

@@ -1,11 +1,13 @@
 ---
-title: "Where Do Large Language Models Fail on Competitive Programming? A Taxonomy of Failures by Algorithm Type and Difficulty Rating"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.05228
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05228
 next_step: skim
+priority: low
+slack_ts: '1780718924.143659'
+source: cs.SE - Software Engineering
+status: unread
+title: Where Do Large Language Models Fail on Competitive Programming? A Taxonomy
+  of Failures by Algorithm Type and Difficulty Rating
 ---
 # Where Do Large Language Models Fail on Competitive Programming? A Taxonomy of Failures by Algorithm Type and Difficulty Rating
 > 原文: [https://arxiv.org/abs/2606.05228](https://arxiv.org/abs/2606.05228)

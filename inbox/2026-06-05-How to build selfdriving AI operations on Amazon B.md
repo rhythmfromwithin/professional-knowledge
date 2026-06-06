@@ -1,11 +1,12 @@
 ---
-title: "How to build self-driving AI operations on Amazon Bedrock at scale"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/
 next_step: skim
+priority: high
+slack_ts: '1780718914.376249'
+source: AWS Blog
+status: unread
+title: How to build self-driving AI operations on Amazon Bedrock at scale
 ---
 # How to build self-driving AI operations on Amazon Bedrock at scale
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/](https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/)

@@ -1,11 +1,12 @@
 ---
-title: "Data Flow Control: Data Safety Policies for AI Agents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.05679
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05679
 next_step: skim
+priority: low
+slack_ts: '1780718910.063609'
+source: cs.DB - Databases
+status: unread
+title: 'Data Flow Control: Data Safety Policies for AI Agents'
 ---
 # Data Flow Control: Data Safety Policies for AI Agents
 > 原文: [https://arxiv.org/abs/2606.05679](https://arxiv.org/abs/2606.05679)

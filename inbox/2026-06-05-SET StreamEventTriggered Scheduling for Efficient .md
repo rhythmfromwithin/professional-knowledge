@@ -1,11 +1,12 @@
 ---
-title: "SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.05495
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05495
 next_step: skim
+priority: medium
+slack_ts: '1780718920.490979'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines'
 ---
 # SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines
 > 原文: [https://arxiv.org/abs/2606.05495](https://arxiv.org/abs/2606.05495)

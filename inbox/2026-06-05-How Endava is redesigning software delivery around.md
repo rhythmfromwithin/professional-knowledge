@@ -1,11 +1,12 @@
 ---
-title: "How Endava is redesigning software delivery around AI agents"
-source: "OpenAI Blog"
-link: https://openai.com/index/endava-frontiers
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/endava-frontiers
 next_step: skim
+priority: high
+slack_ts: '1780718913.863049'
+source: OpenAI Blog
+status: unread
+title: How Endava is redesigning software delivery around AI agents
 ---
 # How Endava is redesigning software delivery around AI agents
 > 原文: [https://openai.com/index/endava-frontiers](https://openai.com/index/endava-frontiers)

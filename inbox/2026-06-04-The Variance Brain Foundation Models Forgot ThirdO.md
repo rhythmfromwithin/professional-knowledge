@@ -1,11 +1,13 @@
 ---
-title: "The Variance Brain Foundation Models Forgot: Third-Order Statistics Predict Cognition Where Billion-Parameter Models Fail"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.04010
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04010
 next_step: skim
+priority: low
+slack_ts: '1780718904.398029'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Variance Brain Foundation Models Forgot: Third-Order Statistics Predict
+  Cognition Where Billion-Parameter Models Fail'
 ---
 # The Variance Brain Foundation Models Forgot: Third-Order Statistics Predict Cognition Where Billion-Parameter Models Fail
 > 原文: [https://arxiv.org/abs/2606.04010](https://arxiv.org/abs/2606.04010)

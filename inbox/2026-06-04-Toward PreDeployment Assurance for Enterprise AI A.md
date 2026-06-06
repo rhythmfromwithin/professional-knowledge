@@ -1,11 +1,13 @@
 ---
-title: "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.04037
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.04037
 next_step: skim
+priority: high
+slack_ts: '1780718904.972579'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded
+  Simulation and Trust Certification'
 ---
 # Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification
 > 原文: [https://arxiv.org/abs/2606.04037](https://arxiv.org/abs/2606.04037)

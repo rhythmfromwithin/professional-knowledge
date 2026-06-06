@@ -1,11 +1,13 @@
 ---
-title: "From Attack Simulation to SIEM Rule: Deterministic Detection-as-Code Synthesis with Probe-Level Traceability"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.05252
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05252
 next_step: skim
+priority: low
+slack_ts: '1780718912.816639'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'From Attack Simulation to SIEM Rule: Deterministic Detection-as-Code Synthesis
+  with Probe-Level Traceability'
 ---
 # From Attack Simulation to SIEM Rule: Deterministic Detection-as-Code Synthesis with Probe-Level Traceability
 > 原文: [https://arxiv.org/abs/2606.05252](https://arxiv.org/abs/2606.05252)

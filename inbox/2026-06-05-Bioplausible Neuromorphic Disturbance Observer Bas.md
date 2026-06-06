@@ -1,11 +1,13 @@
 ---
-title: "Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.05189
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05189
 next_step: skim
+priority: low
+slack_ts: '1780718908.195209'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory:
+  Extended Version'
 ---
 # Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version
 > 原文: [https://arxiv.org/abs/2606.05189](https://arxiv.org/abs/2606.05189)

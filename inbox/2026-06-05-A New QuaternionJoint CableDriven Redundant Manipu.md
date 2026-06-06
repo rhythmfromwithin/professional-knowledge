@@ -1,11 +1,13 @@
 ---
-title: "A New Quaternion-Joint Cable-Driven Redundant Manipulator Configuration and its Control Through FABRIK and Residual Reinforcement Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.05236
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05236
 next_step: skim
+priority: medium
+slack_ts: '1780718906.040459'
+source: cs.RO - Robotics
+status: unread
+title: A New Quaternion-Joint Cable-Driven Redundant Manipulator Configuration and
+  its Control Through FABRIK and Residual Reinforcement Learning
 ---
 # A New Quaternion-Joint Cable-Driven Redundant Manipulator Configuration and its Control Through FABRIK and Residual Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2606.05236](https://arxiv.org/abs/2606.05236)

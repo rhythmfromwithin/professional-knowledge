@@ -1,11 +1,12 @@
 ---
-title: "OLIVE: Online Low-Rank Incremental Learning for Efficient Adaptive Exoskeletons"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.05234
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05234
 next_step: skim
+priority: medium
+slack_ts: '1780718918.061979'
+source: cs.RO - Robotics
+status: unread
+title: 'OLIVE: Online Low-Rank Incremental Learning for Efficient Adaptive Exoskeletons'
 ---
 # OLIVE: Online Low-Rank Incremental Learning for Efficient Adaptive Exoskeletons
 > 原文: [https://arxiv.org/abs/2606.05234](https://arxiv.org/abs/2606.05234)

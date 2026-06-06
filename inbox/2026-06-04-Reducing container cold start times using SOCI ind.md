@@ -1,11 +1,12 @@
 ---
-title: "Reducing container cold start times using SOCI index on DLAMI and DLC"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/
 next_step: skim
+priority: high
+slack_ts: '1780718902.784409'
+source: AWS Blog
+status: unread
+title: Reducing container cold start times using SOCI index on DLAMI and DLC
 ---
 # Reducing container cold start times using SOCI index on DLAMI and DLC
 > 原文: [https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/](https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/)

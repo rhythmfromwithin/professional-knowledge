@@ -1,11 +1,12 @@
 ---
-title: "AppAgent-Claw: CLI Is All You Need for GUI Automation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.05171
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05171
 next_step: skim
+priority: low
+slack_ts: '1780718907.186249'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'AppAgent-Claw: CLI Is All You Need for GUI Automation'
 ---
 # AppAgent-Claw: CLI Is All You Need for GUI Automation
 > 原文: [https://arxiv.org/abs/2606.05171](https://arxiv.org/abs/2606.05171)

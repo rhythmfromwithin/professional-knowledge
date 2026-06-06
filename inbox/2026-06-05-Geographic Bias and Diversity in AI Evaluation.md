@@ -1,11 +1,12 @@
 ---
-title: "Geographic Bias and Diversity in AI Evaluation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.05187
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05187
 next_step: skim
+priority: medium
+slack_ts: '1780718913.637499'
+source: cs.CY - Computers and Society
+status: unread
+title: Geographic Bias and Diversity in AI Evaluation
 ---
 # Geographic Bias and Diversity in AI Evaluation
 > 原文: [https://arxiv.org/abs/2606.05187](https://arxiv.org/abs/2606.05187)

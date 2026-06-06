@@ -1,11 +1,13 @@
 ---
-title: "HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.05239
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.05239
 next_step: skim
+priority: medium
+slack_ts: '1780718914.929969'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for
+  Time Series Imputation'
 ---
 # HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation
 > 原文: [https://arxiv.org/abs/2606.05239](https://arxiv.org/abs/2606.05239)
