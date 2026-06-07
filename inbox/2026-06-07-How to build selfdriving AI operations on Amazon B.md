@@ -3,7 +3,7 @@ interest: medium
 link: https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/
 next_step: skim
 priority: high
-slack_ts: '1780807472.409629'
+slack_ts: '1780807477.640009'
 source: AWS Blog
 status: unread
 title: How to build self-driving AI operations on Amazon Bedrock at scale

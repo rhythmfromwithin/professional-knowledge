@@ -3,7 +3,7 @@ interest: medium
 link: http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html
 next_step: skim
 priority: high
-slack_ts: '1780807471.228389'
+slack_ts: '1780807475.339529'
 source: Google AI Blog
 status: unread
 title: 'AutoBNN: Probabilistic time series forecasting with compositional bayesian

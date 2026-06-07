@@ -3,7 +3,7 @@ interest: medium
 link: https://www.ycombinator.com/blog/welcome-harshita/
 next_step: skim
 priority: high
-slack_ts: '1780807472.077519'
+slack_ts: '1780807477.317579'
 source: Y Combinator
 status: unread
 title: Harshita Arora Joins YC as General Partner

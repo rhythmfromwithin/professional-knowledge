@@ -3,7 +3,7 @@ interest: medium
 link: https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/
 next_step: skim
 priority: high
-slack_ts: '1780807472.702889'
+slack_ts: '1780807477.928979'
 source: AWS Blog
 status: unread
 title: Improve your application resilience with Amazon Cognito multi-Region replication

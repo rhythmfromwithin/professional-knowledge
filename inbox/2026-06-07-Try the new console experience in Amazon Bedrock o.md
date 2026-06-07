@@ -3,7 +3,7 @@ interest: medium
 link: https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/
 next_step: skim
 priority: high
-slack_ts: '1780807474.325339'
+slack_ts: '1780807480.402839'
 source: AWS Blog
 status: unread
 title: Try the new console experience in Amazon Bedrock, optimized for Anthropic-

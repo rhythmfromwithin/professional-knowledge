@@ -3,7 +3,7 @@ interest: medium
 link: https://www.anthropic.com/research/coding-agents-social-sciences
 next_step: skim
 priority: high
-slack_ts: '1780807473.435919'
+slack_ts: '1780807479.049029'
 source: Anthropic
 status: unread
 title: May 27, 2026Economic ResearchCoding agents in the social sciences

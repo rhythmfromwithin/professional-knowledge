@@ -3,7 +3,7 @@ interest: medium
 link: https://www.anthropic.com/research/making-claude-a-chemist
 next_step: skim
 priority: high
-slack_ts: '1780807473.102669'
+slack_ts: '1780807478.222319'
 source: Anthropic
 status: unread
 title: Jun 5, 2026ScienceMaking Claude a chemist

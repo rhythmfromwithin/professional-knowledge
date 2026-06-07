@@ -3,7 +3,7 @@ interest: medium
 link: https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/
 next_step: skim
 priority: medium
-slack_ts: '1780807473.292119'
+slack_ts: '1780807478.362859'
 source: Meta Engineering
 status: unread
 title: 'Lights Out, Systems On: Validating Instant Power Loss Readiness'

@@ -1,6 +1,6 @@
 ---
 link: https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss
-slack_ts: '1780807473.729459'
+slack_ts: '1780807479.691289'
 source: Airbnb Engineering
 title: Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure
 ----53c7c27702d5---4

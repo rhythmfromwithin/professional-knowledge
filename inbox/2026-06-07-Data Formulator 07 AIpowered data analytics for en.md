@@ -3,7 +3,7 @@ interest: medium
 link: https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/
 next_step: skim
 priority: high
-slack_ts: '1780807471.553889'
+slack_ts: '1780807476.187039'
 source: Microsoft Research
 status: unread
 title: 'Data Formulator 0.7: AI-powered data analytics for enterprise data'
