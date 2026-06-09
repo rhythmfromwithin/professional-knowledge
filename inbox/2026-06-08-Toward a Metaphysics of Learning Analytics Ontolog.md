@@ -1,11 +1,13 @@
 ---
-title: "Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.06851
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06851
 next_step: skim
+priority: medium
+slack_ts: '1780978308.205889'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data,
+  Inference, and Normativity'
 ---
 # Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity
 > 原文: [https://arxiv.org/abs/2606.06851](https://arxiv.org/abs/2606.06851)

@@ -1,11 +1,13 @@
 ---
-title: "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/
 next_step: skim
+priority: high
+slack_ts: '1780978308.270379'
+source: AWS Blog
+status: unread
+title: Try the new console experience in Amazon Bedrock, optimized for Anthropic-
+  and OpenAI-compatible APIs
 ---
 # Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs
 > 原文: [https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)

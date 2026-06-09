@@ -1,11 +1,13 @@
 ---
-title: "Terastal: Layer-Variant-based Scheduling for Real-Time Multi-DNN Workloads on Heterogeneous Accelerators"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.06818
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06818
 next_step: skim
+priority: medium
+slack_ts: '1780978307.978609'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Terastal: Layer-Variant-based Scheduling for Real-Time Multi-DNN Workloads
+  on Heterogeneous Accelerators'
 ---
 # Terastal: Layer-Variant-based Scheduling for Real-Time Multi-DNN Workloads on Heterogeneous Accelerators
 > 原文: [https://arxiv.org/abs/2606.06818](https://arxiv.org/abs/2606.06818)

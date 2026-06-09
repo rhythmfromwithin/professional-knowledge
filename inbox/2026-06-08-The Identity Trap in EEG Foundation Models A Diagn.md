@@ -1,11 +1,12 @@
 ---
-title: "The Identity Trap in EEG Foundation Models: A Diagnostic Audit"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.06647
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06647
 next_step: skim
+priority: low
+slack_ts: '1780978308.054779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Identity Trap in EEG Foundation Models: A Diagnostic Audit'
 ---
 # The Identity Trap in EEG Foundation Models: A Diagnostic Audit
 > 原文: [https://arxiv.org/abs/2606.06647](https://arxiv.org/abs/2606.06647)

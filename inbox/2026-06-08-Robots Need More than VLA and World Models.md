@@ -1,11 +1,12 @@
 ---
-title: "Robots Need More than VLA and World Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.06556
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06556
 next_step: skim
+priority: medium
+slack_ts: '1780978307.384489'
+source: cs.RO - Robotics
+status: unread
+title: Robots Need More than VLA and World Models
 ---
 # Robots Need More than VLA and World Models
 > 原文: [https://arxiv.org/abs/2606.06556](https://arxiv.org/abs/2606.06556)

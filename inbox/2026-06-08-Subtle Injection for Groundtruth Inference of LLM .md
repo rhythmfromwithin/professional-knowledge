@@ -1,11 +1,12 @@
 ---
-title: "Subtle Injection for Ground-truth Inference of LLM Training Data"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.06502
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06502
 next_step: skim
+priority: low
+slack_ts: '1780978307.813079'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Subtle Injection for Ground-truth Inference of LLM Training Data
 ---
 # Subtle Injection for Ground-truth Inference of LLM Training Data
 > 原文: [https://arxiv.org/abs/2606.06502](https://arxiv.org/abs/2606.06502)

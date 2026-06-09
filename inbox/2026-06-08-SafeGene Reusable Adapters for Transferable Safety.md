@@ -1,11 +1,12 @@
 ---
-title: "SafeGene: Reusable Adapters for Transferable Safety Alignment"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.06519
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06519
 next_step: skim
+priority: high
+slack_ts: '1780978307.465219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SafeGene: Reusable Adapters for Transferable Safety Alignment'
 ---
 # SafeGene: Reusable Adapters for Transferable Safety Alignment
 > 原文: [https://arxiv.org/abs/2606.06519](https://arxiv.org/abs/2606.06519)

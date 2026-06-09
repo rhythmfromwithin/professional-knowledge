@@ -1,11 +1,13 @@
 ---
-title: "Temporal Dynamics of Development Aid in Africa: Evidence from a Staggered Difference-in-Differences Study of China and World Bank Projects in Africa"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.06651
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.06651
 next_step: skim
+priority: low
+slack_ts: '1780978307.900279'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Temporal Dynamics of Development Aid in Africa: Evidence from a Staggered
+  Difference-in-Differences Study of China and World Bank Projects in Africa'
 ---
 # Temporal Dynamics of Development Aid in Africa: Evidence from a Staggered Difference-in-Differences Study of China and World Bank Projects in Africa
 > 原文: [https://arxiv.org/abs/2606.06651](https://arxiv.org/abs/2606.06651)
