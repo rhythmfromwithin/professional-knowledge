@@ -1,11 +1,12 @@
 ---
-title: "The Winner's Bliss in Common-Value Auctions under Horizontal Differentiation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.08419
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.08419
 next_step: skim
+priority: low
+slack_ts: '1781065394.045649'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Winner's Bliss in Common-Value Auctions under Horizontal Differentiation
 ---
 # The Winner's Bliss in Common-Value Auctions under Horizontal Differentiation
 > 原文: [https://arxiv.org/abs/2606.08419](https://arxiv.org/abs/2606.08419)

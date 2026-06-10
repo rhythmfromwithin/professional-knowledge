@@ -1,11 +1,13 @@
 ---
-title: "TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.07765
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07765
 next_step: skim
+priority: low
+slack_ts: '1781065394.759749'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary
+  Resuscitation Training in High-Altitude Regions of Tibet'
 ---
 # TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet
 > 原文: [https://arxiv.org/abs/2606.07765](https://arxiv.org/abs/2606.07765)

@@ -1,11 +1,13 @@
 ---
-title: "SHIELD-IDS: Structurally Heterogeneous Ensemble with Integrated Layered Defense for Intrusion Detection Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.07716
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07716
 next_step: skim
+priority: low
+slack_ts: '1781065392.463699'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SHIELD-IDS: Structurally Heterogeneous Ensemble with Integrated Layered Defense
+  for Intrusion Detection Systems'
 ---
 # SHIELD-IDS: Structurally Heterogeneous Ensemble with Integrated Layered Defense for Intrusion Detection Systems
 > 原文: [https://arxiv.org/abs/2606.07716](https://arxiv.org/abs/2606.07716)

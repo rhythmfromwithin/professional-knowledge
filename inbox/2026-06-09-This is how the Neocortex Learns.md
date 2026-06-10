@@ -1,11 +1,12 @@
 ---
-title: "This is how the Neocortex Learns"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.08720
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.08720
 next_step: skim
+priority: low
+slack_ts: '1781065394.523039'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: This is how the Neocortex Learns
 ---
 # This is how the Neocortex Learns
 > 原文: [https://arxiv.org/abs/2606.08720](https://arxiv.org/abs/2606.08720)

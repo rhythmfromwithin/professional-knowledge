@@ -1,11 +1,13 @@
 ---
-title: "Seq103: A Unified Neuroevolution Framework for Compact Sequence Architecture Discovery"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.07664
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07664
 next_step: skim
+priority: low
+slack_ts: '1781065393.277099'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Seq103: A Unified Neuroevolution Framework for Compact Sequence Architecture
+  Discovery'
 ---
 # Seq103: A Unified Neuroevolution Framework for Compact Sequence Architecture Discovery
 > 原文: [https://arxiv.org/abs/2606.07664](https://arxiv.org/abs/2606.07664)

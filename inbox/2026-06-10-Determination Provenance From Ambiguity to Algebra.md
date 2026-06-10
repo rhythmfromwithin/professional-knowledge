@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.10270
+next_step: skim
+priority: low
+slack_ts: '1781065403.765389'
+source: cs.DB - Databases
+status: unread
+title: 'Determination Provenance: From Ambiguity to Algebra'
+---
+# Determination Provenance: From Ambiguity to Algebra
+> 原文: [https://arxiv.org/abs/2606.10270](https://arxiv.org/abs/2606.10270)
+
+arXiv:2606.10270v1 Announce Type: new
+Abstract: Many data systems admit multiple admissible outcomes for the same input: concurrent transactions may serialize in one of many orders; a logic program may have multiple stable models. Classical data provenance cannot even pose its question in such settings -- it explains how a result was derived, but only after something has chosen which result to produce. We introduce \emph{determination provenance} to track the commitments that resolve this ambiguity. A tuple's \emph{support} is the set of resolutions under which it holds. Supports form a commutative semiring, and layered commitments induce a \emph{filtration} measuring each tuple's \emph{query-relative depth} -- how many layers of semantic resolution it depends on. Positive relational algebra respects the filtration, enabling compositional robustness analysis and quantitative diagnosis of resolution cost. We instantiate the framework for transactional isolation and for $\mbox{Datalog}^\neg$; in both, classical semantic variants (isolation levels; negation semantics) correspond to different views of a single shared filtration.

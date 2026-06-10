@@ -1,11 +1,12 @@
 ---
-title: "Transfer learning for causal forest"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.07693
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07693
 next_step: skim
+priority: medium
+slack_ts: '1781065395.225929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Transfer learning for causal forest
 ---
 # Transfer learning for causal forest
 > 原文: [https://arxiv.org/abs/2606.07693](https://arxiv.org/abs/2606.07693)

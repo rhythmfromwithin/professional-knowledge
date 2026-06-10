@@ -1,11 +1,13 @@
 ---
-title: "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.07682
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07682
 next_step: skim
+priority: low
+slack_ts: '1781065392.724699'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software
+  Work?'
 ---
 # SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?
 > 原文: [https://arxiv.org/abs/2606.07682](https://arxiv.org/abs/2606.07682)

@@ -1,11 +1,12 @@
 ---
-title: "TinyJudge: Unverifiable Constraint Alignment via Lightweight Specialist Ensembles"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.07520
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07520
 next_step: skim
+priority: high
+slack_ts: '1781065394.997189'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TinyJudge: Unverifiable Constraint Alignment via Lightweight Specialist Ensembles'
 ---
 # TinyJudge: Unverifiable Constraint Alignment via Lightweight Specialist Ensembles
 > 原文: [https://arxiv.org/abs/2606.07520](https://arxiv.org/abs/2606.07520)

@@ -1,11 +1,12 @@
 ---
-title: "The Role of Semirings in Incremental View Maintenance"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.07795
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07795
 next_step: skim
+priority: low
+slack_ts: '1781065393.800049'
+source: cs.DB - Databases
+status: unread
+title: The Role of Semirings in Incremental View Maintenance
 ---
 # The Role of Semirings in Incremental View Maintenance
 > 原文: [https://arxiv.org/abs/2606.07795](https://arxiv.org/abs/2606.07795)

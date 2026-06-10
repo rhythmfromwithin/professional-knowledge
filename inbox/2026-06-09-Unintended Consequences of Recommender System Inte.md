@@ -1,11 +1,13 @@
 ---
-title: "Unintended Consequences of Recommender System Interventions: Evidence from a Field Experiment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.08265
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.08265
 next_step: skim
+priority: low
+slack_ts: '1781065395.718749'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Unintended Consequences of Recommender System Interventions: Evidence from
+  a Field Experiment'
 ---
 # Unintended Consequences of Recommender System Interventions: Evidence from a Field Experiment
 > 原文: [https://arxiv.org/abs/2606.08265](https://arxiv.org/abs/2606.08265)

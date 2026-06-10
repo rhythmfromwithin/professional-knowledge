@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.09870
+next_step: skim
+priority: low
+slack_ts: '1781065413.051109'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Safecloud: A Distributed, Encrypted Storage Cloud for Streaming'
+---
+# Safecloud: A Distributed, Encrypted Storage Cloud for Streaming
+> 原文: [https://arxiv.org/abs/2606.09870](https://arxiv.org/abs/2606.09870)
+
+arXiv:2606.09870v1 Announce Type: new
+Abstract: We present Safecloud, a distributed, encrypted, self-pricing storage and streaming network whose storage and routing nodes never see plaintext and never hold keys. Each file is split into chunks, encrypted on the owner's device, and distributed across Drops (browser tabs storing ciphertext in IndexedDB) and Jets (federated routing servers). Only the owner, or an authorised grantee, can decrypt. We make five contributions: (1) A one-root key hierarchy: every key derives deterministically from a single root via HKDF, and owner and range-scoped grantee derive identical chunk keys (derivation agreement); a subtree key derives its range and nothing else (delegation containment). (2) Convergent content addressing: identical content yields identical ciphertext and identifiers, enabling deduplication without plaintext exposure, with identifiers binding authenticated ciphertext so a keyless Drop verifies integrity (blind verifiability). (3) Three parallel trees over one navigation path (Merkle for integrity, key-derivation for confidentiality, access for authorisation), with sound Merkle-verified retrieval. (4) The key tree doubles as a streaming index: a player derives each segment key in O(1), seeking by derivation, while parallel tracks (video, audio, captions) are independent subtrees unlockable per-track and per-segment, a combination we believe no prior encrypted-storage network offers. (5) Jets and Drops earn Safebux verifiably, kept honest by a one-signature proof-of-storage challenge under chilling-effect Proof-of-Corruption, a zero-sum economy that is significantly cheaper than Filecoin's proof-of-replication sealing (which is slow and provides no confidentiality). We give the architecture, cryptographic construction, a threat model, and an open-source reference implementation, stating precisely what is implemented versus designed.

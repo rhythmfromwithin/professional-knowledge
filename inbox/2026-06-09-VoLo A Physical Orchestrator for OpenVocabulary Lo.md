@@ -1,11 +1,12 @@
 ---
-title: "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.07723
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.07723
 next_step: skim
+priority: medium
+slack_ts: '1781065395.967969'
+source: cs.RO - Robotics
+status: unread
+title: 'VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation'
 ---
 # VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation
 > 原文: [https://arxiv.org/abs/2606.07723](https://arxiv.org/abs/2606.07723)
