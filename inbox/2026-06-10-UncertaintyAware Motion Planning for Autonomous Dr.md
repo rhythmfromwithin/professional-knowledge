@@ -1,11 +1,12 @@
 ---
-title: "Uncertainty-Aware Motion Planning for Autonomous Driving in Mixed Traffic Environment"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.09958
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.09958
 next_step: skim
+priority: medium
+slack_ts: '1781153108.008719'
+source: cs.RO - Robotics
+status: unread
+title: Uncertainty-Aware Motion Planning for Autonomous Driving in Mixed Traffic Environment
 ---
 # Uncertainty-Aware Motion Planning for Autonomous Driving in Mixed Traffic Environment
 > 原文: [https://arxiv.org/abs/2606.09958](https://arxiv.org/abs/2606.09958)

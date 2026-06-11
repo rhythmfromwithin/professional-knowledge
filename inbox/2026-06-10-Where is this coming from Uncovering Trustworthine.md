@@ -1,11 +1,5 @@
 ---
-title: ""Where is this coming from?" Uncovering Trustworthiness Ideals in AI-powered Peripartum Information Seeking"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.10158
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1781153108.769949'
 ---
 # "Where is this coming from?" Uncovering Trustworthiness Ideals in AI-powered Peripartum Information Seeking
 > 原文: [https://arxiv.org/abs/2606.10158](https://arxiv.org/abs/2606.10158)

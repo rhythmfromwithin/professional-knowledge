@@ -1,11 +1,13 @@
 ---
-title: "Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.09856
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.09856
 next_step: skim
+priority: high
+slack_ts: '1781153108.191069'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Using Probabilistic Programs to Train Inductive Reasoning in Large Language
+  Models
 ---
 # Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models
 > 原文: [https://arxiv.org/abs/2606.09856](https://arxiv.org/abs/2606.09856)

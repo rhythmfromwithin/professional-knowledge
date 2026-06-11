@@ -1,11 +1,12 @@
 ---
-title: "Spiking Neural Network inference on FPGAs with hls4ml"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.10008
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.10008
 next_step: skim
+priority: low
+slack_ts: '1781153107.434509'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Spiking Neural Network inference on FPGAs with hls4ml
 ---
 # Spiking Neural Network inference on FPGAs with hls4ml
 > 原文: [https://arxiv.org/abs/2606.10008](https://arxiv.org/abs/2606.10008)

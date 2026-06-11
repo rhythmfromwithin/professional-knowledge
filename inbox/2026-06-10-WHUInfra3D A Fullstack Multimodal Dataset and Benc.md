@@ -1,11 +1,13 @@
 ---
-title: "WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.09882
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.09882
 next_step: skim
+priority: medium
+slack_ts: '1781153108.382299'
+source: cs.CV - Computer Vision
+status: unread
+title: 'WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside
+  Infrastructure Inventory'
 ---
 # WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory
 > 原文: [https://arxiv.org/abs/2606.09882](https://arxiv.org/abs/2606.09882)
