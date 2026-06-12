@@ -1,13 +1,11 @@
 ---
-interest: medium
+title: "To Intervene or Not: Guiding Inference-time Alignment with Probabilistic Model Blending"
+source: "cs.LG - Machine Learning"
 link: https://arxiv.org/abs/2606.11201
-next_step: skim
 priority: high
-slack_ts: '1781239677.559779'
-source: cs.LG - Machine Learning
 status: unread
-title: 'To Intervene or Not: Guiding Inference-time Alignment with Probabilistic Model
-  Blending'
+interest: medium
+next_step: skim
 ---
 # To Intervene or Not: Guiding Inference-time Alignment with Probabilistic Model Blending
 > 原文: [https://arxiv.org/abs/2606.11201](https://arxiv.org/abs/2606.11201)

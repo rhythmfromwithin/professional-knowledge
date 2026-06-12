@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.12885
+next_step: skim
+priority: low
+slack_ts: '1781239686.006439'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Mixed-Categorical Black-Box Optimization via Information-Geometric Bilevel
+  Decomposition
+---
+# Mixed-Categorical Black-Box Optimization via Information-Geometric Bilevel Decomposition
+> 原文: [https://arxiv.org/abs/2606.12885](https://arxiv.org/abs/2606.12885)
+
+arXiv:2606.12885v1 Announce Type: new
+Abstract: Mixed categorical-continuous optimization arises in many practical domains, yet remains challenging. In the black-box setting, evolution strategy-based approaches have shown promise in extending the efficiency and robustness of the CMA-ES to mixed-variable spaces. However, these methods exhibit worsened performance when strong categorical-continuous interactions are present, as their underlying search distributions assume independence between categorical and continuous variables. To address this limitation, we propose a bilevel optimization framework that explicitly captures such interactions by optimizing over categorical variables in an outer loop, and over continuous variables conditioned on each categorical configuration in an inner loop. We formulate each level of the bilevel problem as a stochastic relaxation under information-geometric optimization. To mitigate the high computational cost inherent to bilevel optimization, we introduce a warm-starting strategy that accelerates the lower-level search by selecting the best among multiple cached configurations and updating the cache after each iteration. Experimental results on binary-continuous domain demonstrate that the proposed method outperforms existing state-of-the-art approaches in interaction-handling capability while also being more computationally efficient across benchmarks encompassing both previously reported and newly proposed types of interaction.

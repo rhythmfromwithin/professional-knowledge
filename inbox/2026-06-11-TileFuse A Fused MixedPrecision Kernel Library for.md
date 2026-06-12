@@ -1,11 +1,13 @@
 ---
-title: "TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized LLM Inference on AMD NPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.11357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.11357
 next_step: skim
+priority: medium
+slack_ts: '1781239677.424399'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized LLM
+  Inference on AMD NPUs'
 ---
 # TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized LLM Inference on AMD NPUs
 > 原文: [https://arxiv.org/abs/2606.11357](https://arxiv.org/abs/2606.11357)

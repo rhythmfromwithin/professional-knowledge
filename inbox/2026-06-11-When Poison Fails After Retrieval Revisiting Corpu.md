@@ -1,11 +1,13 @@
 ---
-title: "When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking and Reranking Pipelines"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.11265
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.11265
 next_step: skim
+priority: low
+slack_ts: '1781239677.927219'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking
+  and Reranking Pipelines'
 ---
 # When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking and Reranking Pipelines
 > 原文: [https://arxiv.org/abs/2606.11265](https://arxiv.org/abs/2606.11265)

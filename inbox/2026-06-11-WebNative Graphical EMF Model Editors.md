@@ -1,11 +1,12 @@
 ---
-title: "Web-Native Graphical EMF Model Editors"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.11442
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.11442
 next_step: skim
+priority: low
+slack_ts: '1781239677.685279'
+source: cs.SE - Software Engineering
+status: unread
+title: Web-Native Graphical EMF Model Editors
 ---
 # Web-Native Graphical EMF Model Editors
 > 原文: [https://arxiv.org/abs/2606.11442](https://arxiv.org/abs/2606.11442)
