@@ -1,11 +1,13 @@
 ---
-title: "Technology Shocks, Relative Performance Measures, and Outcomes: Evidence from Classical Chess"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.12893
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.12893
 next_step: skim
+priority: low
+slack_ts: '1781324788.396449'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Technology Shocks, Relative Performance Measures, and Outcomes: Evidence from
+  Classical Chess'
 ---
 # Technology Shocks, Relative Performance Measures, and Outcomes: Evidence from Classical Chess
 > 原文: [https://arxiv.org/abs/2606.12893](https://arxiv.org/abs/2606.12893)

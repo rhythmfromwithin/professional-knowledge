@@ -1,11 +1,13 @@
 ---
-title: "Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.12473
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.12473
 next_step: skim
+priority: medium
+slack_ts: '1781324788.304679'
+source: cs.CV - Computer Vision
+status: unread
+title: Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation
+  on the AMD Kria K26 SOM
 ---
 # Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM
 > 原文: [https://arxiv.org/abs/2606.12473](https://arxiv.org/abs/2606.12473)

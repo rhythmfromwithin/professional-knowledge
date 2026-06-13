@@ -1,11 +1,13 @@
 ---
-title: "The Privilege of Exposure: Caste and Generative AI in India's Graduate Labour Market"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.13314
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13314
 next_step: skim
+priority: low
+slack_ts: '1781324788.568879'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Privilege of Exposure: Caste and Generative AI in India''s Graduate Labour
+  Market'
 ---
 # The Privilege of Exposure: Caste and Generative AI in India's Graduate Labour Market
 > 原文: [https://arxiv.org/abs/2606.13314](https://arxiv.org/abs/2606.13314)

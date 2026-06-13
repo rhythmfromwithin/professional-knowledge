@@ -1,11 +1,12 @@
 ---
-title: "The Khipu Problem: Institutional Legibility Under Distributed Cognition"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.12414
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.12414
 next_step: skim
+priority: medium
+slack_ts: '1781324788.486359'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Khipu Problem: Institutional Legibility Under Distributed Cognition'
 ---
 # The Khipu Problem: Institutional Legibility Under Distributed Cognition
 > 原文: [https://arxiv.org/abs/2606.12414](https://arxiv.org/abs/2606.12414)

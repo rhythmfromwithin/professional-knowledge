@@ -1,11 +1,13 @@
 ---
-title: "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1781324788.224679'
+source: AWS Blog
+status: unread
+title: 'Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in
+  Amazon Quick'
 ---
 # Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/)

@@ -1,6 +1,6 @@
 ---
 link: https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss
-slack_ts: '1781324788.977669'
+slack_ts: '1781324792.444299'
 source: Airbnb Engineering
 title: When history fails you, borrow from geography
 ----53c7c27702d5---4

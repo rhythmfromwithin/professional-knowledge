@@ -1,11 +1,13 @@
 ---
-title: "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.12451
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.12451
 next_step: skim
+priority: high
+slack_ts: '1781324788.829819'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in
+  LLMs'
 ---
 # ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs
 > 原文: [https://arxiv.org/abs/2606.12451](https://arxiv.org/abs/2606.12451)
