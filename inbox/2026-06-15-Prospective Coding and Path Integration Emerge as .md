@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.14649
+next_step: skim
+priority: low
+slack_ts: '1781500246.751019'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Prospective Coding and Path Integration Emerge as Equilibrium Solutions of
+  Self-Organizing Neural Networks with Firing-Rate Adaptation
+---
+# Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation
+> 原文: [https://arxiv.org/abs/2606.14649](https://arxiv.org/abs/2606.14649)
+
+arXiv:2606.14649v1 Announce Type: new
+Abstract: Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this structured connectivity emerges via learning remain relatively unexplored. This work presents a theoretical framework revealing how continuous attractor connectivity and its computational properties self-organize through Hebbian plasticity, firing-rate adaptation, and global inhibition. We show that translationally invariant inputs naturally drive the emergence of stable, Gaussian-profiled feedforward weights. Crucially, anticipatory dynamics arise spontaneously within these feedforward architectures, shifting the activity bump forward without requiring recurrent excitatory collaterals. This predictive shift can be linearly amplified across multilayer networks, consistent with anticipatory activity observed in the superficial layers of the entorhinal cortex. Furthermore, introducing recurrent interactions allows the network to learn connections capable of self-sustaining a moving bump of activity. Finally, by modulating the network with an external, time-varying baseline current that encodes speed, the system adjusts its intrinsic velocity to function as a precise unidirectional path integrator. Ultimately, this study suggests that prospective coding and path integration are not manually engineered features, but rather naturally co-emergent properties of a single self-organizing competitive network.
