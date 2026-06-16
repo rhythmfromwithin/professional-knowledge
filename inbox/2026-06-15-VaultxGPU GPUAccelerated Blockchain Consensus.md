@@ -1,11 +1,12 @@
 ---
-title: "VaultxGPU: GPU-Accelerated Blockchain Consensus"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.14007
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.14007
 next_step: skim
+priority: medium
+slack_ts: '1781586962.969289'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'VaultxGPU: GPU-Accelerated Blockchain Consensus'
 ---
 # VaultxGPU: GPU-Accelerated Blockchain Consensus
 > 原文: [https://arxiv.org/abs/2606.14007](https://arxiv.org/abs/2606.14007)

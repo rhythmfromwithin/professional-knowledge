@@ -1,11 +1,13 @@
 ---
-title: "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.13683
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13683
 next_step: skim
+priority: high
+slack_ts: '1781586962.786889'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning
+  with Large Language Models in Goal-oriented Dialogue Systems'
 ---
 # UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems
 > 原文: [https://arxiv.org/abs/2606.13683](https://arxiv.org/abs/2606.13683)

@@ -1,11 +1,13 @@
 ---
-title: "SpheriCity: Designing Trustworthy Conversational AI for Sustainability Decision Support"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.13854
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13854
 next_step: skim
+priority: low
+slack_ts: '1781586961.758049'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SpheriCity: Designing Trustworthy Conversational AI for Sustainability Decision
+  Support'
 ---
 # SpheriCity: Designing Trustworthy Conversational AI for Sustainability Decision Support
 > 原文: [https://arxiv.org/abs/2606.13854](https://arxiv.org/abs/2606.13854)

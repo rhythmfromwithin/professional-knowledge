@@ -1,11 +1,12 @@
 ---
-title: "Which Models Perform Better in Inheritance Reasoning?"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.13751
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13751
 next_step: skim
+priority: high
+slack_ts: '1781586963.102639'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Which Models Perform Better in Inheritance Reasoning?
 ---
 # Which Models Perform Better in Inheritance Reasoning?
 > 原文: [https://arxiv.org/abs/2606.13751](https://arxiv.org/abs/2606.13751)

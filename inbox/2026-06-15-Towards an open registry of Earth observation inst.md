@@ -1,11 +1,12 @@
 ---
-title: "Towards an open registry of Earth observation instruments"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.13923
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13923
 next_step: skim
+priority: low
+slack_ts: '1781586962.660569'
+source: cs.DB - Databases
+status: unread
+title: Towards an open registry of Earth observation instruments
 ---
 # Towards an open registry of Earth observation instruments
 > 原文: [https://arxiv.org/abs/2606.13923](https://arxiv.org/abs/2606.13923)

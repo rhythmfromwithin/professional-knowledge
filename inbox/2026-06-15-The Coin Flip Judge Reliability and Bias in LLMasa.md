@@ -1,11 +1,12 @@
 ---
-title: "The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.13685
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13685
 next_step: skim
+priority: high
+slack_ts: '1781586962.096349'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation
 ---
 # The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation
 > 原文: [https://arxiv.org/abs/2606.13685](https://arxiv.org/abs/2606.13685)

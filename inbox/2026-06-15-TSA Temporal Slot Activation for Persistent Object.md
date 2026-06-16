@@ -1,11 +1,12 @@
 ---
-title: "TSA: Temporal Slot Activation for Persistent Object-Centric Video Representation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.13714
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13714
 next_step: skim
+priority: medium
+slack_ts: '1781586961.947759'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TSA: Temporal Slot Activation for Persistent Object-Centric Video Representation'
 ---
 # TSA: Temporal Slot Activation for Persistent Object-Centric Video Representation
 > 原文: [https://arxiv.org/abs/2606.13714](https://arxiv.org/abs/2606.13714)

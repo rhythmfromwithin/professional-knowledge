@@ -1,0 +1,14 @@
+---
+interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/
+next_step: skim
+priority: high
+slack_ts: '1781586970.679959'
+source: AWS Blog
+status: unread
+title: Introducing Gemma 4 models on Amazon Bedrock
+---
+# Introducing Gemma 4 models on Amazon Bedrock
+> 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/)
+
+Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the Apache 2.0 license, Gemma 4 is a family of open-weight models designed with a focus on intelligence-per-parameter across a broad range of deployment scenarios. The family includes three instruction-tuned variants: Gemma 4 31B, Gemma 4 26B-A4B, and Gemma 4 E2B. These cover dense and mixture-of-experts (MoE) architectures, where only a fraction of the model’s parameters activate per request. The variants offer built-in reasoning, native function calling, and multimodal input across text and image.

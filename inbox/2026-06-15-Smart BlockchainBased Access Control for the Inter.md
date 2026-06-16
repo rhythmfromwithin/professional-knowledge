@@ -1,11 +1,12 @@
 ---
-title: "Smart Blockchain-Based Access Control for the Internet of Things"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.13798
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13798
 next_step: skim
+priority: low
+slack_ts: '1781586961.605489'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Smart Blockchain-Based Access Control for the Internet of Things
 ---
 # Smart Blockchain-Based Access Control for the Internet of Things
 > 原文: [https://arxiv.org/abs/2606.13798](https://arxiv.org/abs/2606.13798)

@@ -1,11 +1,5 @@
 ---
-title: "$\mu_0$: A Scalable 3D Interaction-Trace World Model"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.13769
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1781586963.295839'
 ---
 # $\mu_0$: A Scalable 3D Interaction-Trace World Model
 > 原文: [https://arxiv.org/abs/2606.13769](https://arxiv.org/abs/2606.13769)

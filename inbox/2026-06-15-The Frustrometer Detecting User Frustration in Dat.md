@@ -1,11 +1,13 @@
 ---
-title: "The Frustrometer: Detecting User Frustration in Data Visualization Tasks using Biomarkers and Interaction Patterns"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.13687
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.13687
 next_step: skim
+priority: low
+slack_ts: '1781586962.267739'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Frustrometer: Detecting User Frustration in Data Visualization Tasks using
+  Biomarkers and Interaction Patterns'
 ---
 # The Frustrometer: Detecting User Frustration in Data Visualization Tasks using Biomarkers and Interaction Patterns
 > 原文: [https://arxiv.org/abs/2606.13687](https://arxiv.org/abs/2606.13687)
