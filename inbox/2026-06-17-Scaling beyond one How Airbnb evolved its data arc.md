@@ -1,6 +1,6 @@
 ---
 link: https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss
-slack_ts: '1781672183.143709'
+slack_ts: '1781672198.798989'
 source: Airbnb Engineering
 title: 'Scaling beyond one: How Airbnb evolved its data architecture for a multi-product
   world'

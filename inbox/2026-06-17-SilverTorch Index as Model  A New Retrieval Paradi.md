@@ -3,7 +3,7 @@ interest: medium
 link: https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/
 next_step: skim
 priority: medium
-slack_ts: '1781672183.716559'
+slack_ts: '1781672199.766719'
 source: Meta Engineering
 status: unread
 title: 'SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation

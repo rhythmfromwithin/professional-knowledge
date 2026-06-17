@@ -1,11 +1,13 @@
 ---
-title: "Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.14866
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.14866
 next_step: skim
+priority: low
+slack_ts: '1781672184.210769'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding
+  using Membrane Potential Alignment
 ---
 # Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment
 > 原文: [https://arxiv.org/abs/2606.14866](https://arxiv.org/abs/2606.14866)

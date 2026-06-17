@@ -1,11 +1,12 @@
 ---
-title: "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.14711
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.14711
 next_step: skim
+priority: medium
+slack_ts: '1781672182.948079'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SWARM-LLM: Collaborative Inference for Edge-based Small Language Models'
 ---
 # SWARM-LLM: Collaborative Inference for Edge-based Small Language Models
 > 原文: [https://arxiv.org/abs/2606.14711](https://arxiv.org/abs/2606.14711)

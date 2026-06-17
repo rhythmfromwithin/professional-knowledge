@@ -1,11 +1,12 @@
 ---
-title: "Relational Structural Causal Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.14892
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.14892
 next_step: skim
+priority: high
+slack_ts: '1781672182.692369'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Relational Structural Causal Models
 ---
 # Relational Structural Causal Models
 > 原文: [https://arxiv.org/abs/2606.14892](https://arxiv.org/abs/2606.14892)

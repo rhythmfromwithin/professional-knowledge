@@ -1,11 +1,13 @@
 ---
-title: "Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.15091
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.15091
 next_step: skim
+priority: low
+slack_ts: '1781672183.531879'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework
+  and Convergence Roadmap'
 ---
 # Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap
 > 原文: [https://arxiv.org/abs/2606.15091](https://arxiv.org/abs/2606.15091)

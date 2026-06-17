@@ -1,11 +1,12 @@
 ---
-title: "Schema-Agnostic Process Trace Construction: From Raw Tables to Execution Behavior"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.14775
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.14775
 next_step: skim
+priority: low
+slack_ts: '1781672183.333249'
+source: cs.DB - Databases
+status: unread
+title: 'Schema-Agnostic Process Trace Construction: From Raw Tables to Execution Behavior'
 ---
 # Schema-Agnostic Process Trace Construction: From Raw Tables to Execution Behavior
 > 原文: [https://arxiv.org/abs/2606.14775](https://arxiv.org/abs/2606.14775)

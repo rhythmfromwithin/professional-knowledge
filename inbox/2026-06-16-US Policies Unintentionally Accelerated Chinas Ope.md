@@ -1,11 +1,12 @@
 ---
-title: "U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.15999
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.15999
 next_step: skim
+priority: low
+slack_ts: '1781672184.726269'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems
 ---
 # U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems
 > 原文: [https://arxiv.org/abs/2606.15999](https://arxiv.org/abs/2606.15999)
