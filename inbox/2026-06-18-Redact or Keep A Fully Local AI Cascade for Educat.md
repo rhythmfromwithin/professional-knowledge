@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.18372
+next_step: skim
+priority: high
+slack_ts: '1781759644.343249'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Redact or Keep? A Fully Local AI Cascade for Educational Dialogue De-Identification
+---
+# Redact or Keep? A Fully Local AI Cascade for Educational Dialogue De-Identification
+> 原文: [https://arxiv.org/abs/2606.18372](https://arxiv.org/abs/2606.18372)
+
+arXiv:2606.18372v1 Announce Type: new
+Abstract: Educational dialogue is a valuable but sensitive resource for research: the same transcripts that capture authentic learning often capture personally identifiable information (PII) entangled with curricular content, where "Riemann" may refer to a real student or to a mathematical concept. Existing approaches force a tradeoff between governance and accuracy. Commercial Large Language Models (LLMs) can handle this ambiguity but require sending student data to third parties, while local named entity recognition (NER) systems preserve governance but over-redact curricular terms. We propose a fully local cascade framework that reframes de-identification from open-ended entity recognition to constrained privacy triage. A recall-first union proposer combines two lightweight encoders with deterministic rules to over-generate candidate spans; a context-aware reviewer then makes a binary Redact/Keep decision for each candidate using surrounding dialogue and speaker role. We evaluate three reviewer configurations against same-family LLM-only baselines and a commercial API on math tutoring transcripts from two large platforms. The strongest local configuration reaches 0.958 macro F1, compared with 0.767 for a same-family LLM-only baseline and 0.706 for the commercial API, while running entirely on a single laptop. On a targeted challenge set of curricular-personal name ambiguity, the same configuration degrades by only 0.03 F1 versus 0.19 to 0.25 for smaller reviewers. These results suggest that for educational de-identification, problem formulation matters more than model scale.

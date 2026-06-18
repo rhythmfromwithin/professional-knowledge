@@ -1,11 +1,13 @@
 ---
-title: "ZIVARI-TLBO: A Zero-Cost Inter-Group Evaluated-Elite Relay Mechanism for Teaching-Learning-Based Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.17087
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.17087
 next_step: skim
+priority: low
+slack_ts: '1781759638.530219'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'ZIVARI-TLBO: A Zero-Cost Inter-Group Evaluated-Elite Relay Mechanism for Teaching-Learning-Based
+  Optimization'
 ---
 # ZIVARI-TLBO: A Zero-Cost Inter-Group Evaluated-Elite Relay Mechanism for Teaching-Learning-Based Optimization
 > 原文: [https://arxiv.org/abs/2606.17087](https://arxiv.org/abs/2606.17087)

@@ -1,11 +1,5 @@
 ---
-title: "Tight $L_\infty$ Sample Complexity for Low-Degree and Sparse Boolean Polynomials"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.17319
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1781759638.231599'
 ---
 # Tight $L_\infty$ Sample Complexity for Low-Degree and Sparse Boolean Polynomials
 > 原文: [https://arxiv.org/abs/2606.17319](https://arxiv.org/abs/2606.17319)

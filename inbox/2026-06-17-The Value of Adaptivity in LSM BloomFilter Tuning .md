@@ -1,11 +1,13 @@
 ---
-title: "The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.18138
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18138
 next_step: skim
+priority: low
+slack_ts: '1781759638.039209'
+source: cs.DB - Databases
+status: unread
+title: 'The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock
+  Frontier'
 ---
 # The Value of Adaptivity in LSM Bloom-Filter Tuning: A Log-Law and a Two-Clock Frontier
 > 原文: [https://arxiv.org/abs/2606.18138](https://arxiv.org/abs/2606.18138)

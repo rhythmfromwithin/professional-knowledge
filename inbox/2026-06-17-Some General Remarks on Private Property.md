@@ -1,11 +1,12 @@
 ---
-title: "Some General Remarks on Private Property"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.17373
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.17373
 next_step: skim
+priority: low
+slack_ts: '1781759637.897319'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Some General Remarks on Private Property
 ---
 # Some General Remarks on Private Property
 > 原文: [https://arxiv.org/abs/2606.17373](https://arxiv.org/abs/2606.17373)
