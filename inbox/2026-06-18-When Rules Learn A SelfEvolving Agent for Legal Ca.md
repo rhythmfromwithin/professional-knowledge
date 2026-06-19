@@ -1,11 +1,12 @@
 ---
-title: "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.17220
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.17220
 next_step: skim
+priority: high
+slack_ts: '1781847255.891319'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval'
 ---
 # When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval
 > 原文: [https://arxiv.org/abs/2606.17220](https://arxiv.org/abs/2606.17220)

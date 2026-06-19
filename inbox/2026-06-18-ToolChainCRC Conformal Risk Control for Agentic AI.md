@@ -1,11 +1,13 @@
 ---
-title: "ToolChain-CRC: Conformal Risk Control for Agentic AI Under Retrieval and Tool-Use Drift"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.18467
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18467
 next_step: skim
+priority: medium
+slack_ts: '1781847255.161539'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ToolChain-CRC: Conformal Risk Control for Agentic AI Under Retrieval and Tool-Use
+  Drift'
 ---
 # ToolChain-CRC: Conformal Risk Control for Agentic AI Under Retrieval and Tool-Use Drift
 > 原文: [https://arxiv.org/abs/2606.18467](https://arxiv.org/abs/2606.18467)

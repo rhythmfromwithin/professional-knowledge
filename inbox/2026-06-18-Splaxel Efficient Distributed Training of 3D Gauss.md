@@ -1,11 +1,13 @@
 ---
-title: "Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.18588
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18588
 next_step: skim
+priority: medium
+slack_ts: '1781847254.856079'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale
+  Scene Reconstruction via Pixel-level Communication'
 ---
 # Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication
 > 原文: [https://arxiv.org/abs/2606.18588](https://arxiv.org/abs/2606.18588)

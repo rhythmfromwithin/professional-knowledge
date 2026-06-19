@@ -1,11 +1,12 @@
 ---
-title: "Tractable Gap-Constraint Languages for Complex Event Recognition"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.18878
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18878
 next_step: skim
+priority: low
+slack_ts: '1781847255.389869'
+source: cs.DB - Databases
+status: unread
+title: Tractable Gap-Constraint Languages for Complex Event Recognition
 ---
 # Tractable Gap-Constraint Languages for Complex Event Recognition
 > 原文: [https://arxiv.org/abs/2606.18878](https://arxiv.org/abs/2606.18878)

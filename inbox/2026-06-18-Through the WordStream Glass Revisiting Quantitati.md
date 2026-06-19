@@ -1,11 +1,13 @@
 ---
-title: "Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.18692
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18692
 next_step: skim
+priority: medium
+slack_ts: '1781847255.065879'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative
+  Learning Analytics'
 ---
 # Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
 > 原文: [https://arxiv.org/abs/2606.18692](https://arxiv.org/abs/2606.18692)

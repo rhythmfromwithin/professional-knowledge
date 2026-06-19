@@ -1,11 +1,13 @@
 ---
-title: "SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.18381
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18381
 next_step: skim
+priority: high
+slack_ts: '1781847254.969819'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document
+  RAG'
 ---
 # SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG
 > 原文: [https://arxiv.org/abs/2606.18381](https://arxiv.org/abs/2606.18381)

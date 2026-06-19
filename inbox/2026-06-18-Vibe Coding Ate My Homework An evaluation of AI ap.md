@@ -1,11 +1,13 @@
 ---
-title: "Vibe Coding Ate My Homework: An evaluation of AI approaches to greenfield software engineering and programming"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.18293
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18293
 next_step: skim
+priority: low
+slack_ts: '1781847255.684279'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Vibe Coding Ate My Homework: An evaluation of AI approaches to greenfield
+  software engineering and programming'
 ---
 # Vibe Coding Ate My Homework: An evaluation of AI approaches to greenfield software engineering and programming
 > 原文: [https://arxiv.org/abs/2606.18293](https://arxiv.org/abs/2606.18293)
