@@ -1,11 +1,13 @@
 ---
-title: "WorkBenchMark: A LEGO-Based Assembly Benchmark with an Assembly-by-Disassembly Baseline for the Smart Manufacturing League"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.19358
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19358
 next_step: skim
+priority: medium
+slack_ts: '1781930798.913879'
+source: cs.RO - Robotics
+status: unread
+title: 'WorkBenchMark: A LEGO-Based Assembly Benchmark with an Assembly-by-Disassembly
+  Baseline for the Smart Manufacturing League'
 ---
 # WorkBenchMark: A LEGO-Based Assembly Benchmark with an Assembly-by-Disassembly Baseline for the Smart Manufacturing League
 > 原文: [https://arxiv.org/abs/2606.19358](https://arxiv.org/abs/2606.19358)

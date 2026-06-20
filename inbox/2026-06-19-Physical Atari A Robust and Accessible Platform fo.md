@@ -1,11 +1,13 @@
 ---
-title: "Physical Atari: A Robust and Accessible Platform for Real-time Reinforcement Learning on Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.19357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19357
 next_step: skim
+priority: medium
+slack_ts: '1781930797.049059'
+source: cs.RO - Robotics
+status: unread
+title: 'Physical Atari: A Robust and Accessible Platform for Real-time Reinforcement
+  Learning on Robots'
 ---
 # Physical Atari: A Robust and Accessible Platform for Real-time Reinforcement Learning on Robots
 > 原文: [https://arxiv.org/abs/2606.19357](https://arxiv.org/abs/2606.19357)

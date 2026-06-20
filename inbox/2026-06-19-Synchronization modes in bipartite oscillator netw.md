@@ -1,11 +1,12 @@
 ---
-title: "Synchronization modes in bipartite oscillator networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.20345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.20345
 next_step: skim
+priority: low
+slack_ts: '1781930798.259759'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Synchronization modes in bipartite oscillator networks
 ---
 # Synchronization modes in bipartite oscillator networks
 > 原文: [https://arxiv.org/abs/2606.20345](https://arxiv.org/abs/2606.20345)

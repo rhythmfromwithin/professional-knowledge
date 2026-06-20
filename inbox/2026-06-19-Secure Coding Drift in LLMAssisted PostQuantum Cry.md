@@ -1,11 +1,13 @@
 ---
-title: "Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.19474
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19474
 next_step: skim
+priority: low
+slack_ts: '1781930797.734369'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development:
+  A Gamified Fix'
 ---
 # Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix
 > 原文: [https://arxiv.org/abs/2606.19474](https://arxiv.org/abs/2606.19474)

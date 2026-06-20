@@ -1,11 +1,13 @@
 ---
-title: "Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2606.19460
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19460
 next_step: skim
+priority: medium
+slack_ts: '1781930797.578379'
+source: cs.CV - Computer Vision
+status: unread
+title: Scaling Generative Foundation Models for Chest Radiography with Rectified Flow
+  Transformers
 ---
 # Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers
 > 原文: [https://arxiv.org/abs/2606.19460](https://arxiv.org/abs/2606.19460)

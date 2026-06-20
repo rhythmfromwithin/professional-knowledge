@@ -1,11 +1,12 @@
 ---
-title: "Quadratic Forms for Measuring Geometric Trees in 3-dimensional Space"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.20096
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.20096
 next_step: skim
+priority: low
+slack_ts: '1781930797.135539'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Quadratic Forms for Measuring Geometric Trees in 3-dimensional Space
 ---
 # Quadratic Forms for Measuring Geometric Trees in 3-dimensional Space
 > 原文: [https://arxiv.org/abs/2606.20096](https://arxiv.org/abs/2606.20096)

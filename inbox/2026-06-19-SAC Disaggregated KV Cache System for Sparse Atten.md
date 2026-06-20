@@ -1,11 +1,12 @@
 ---
-title: "SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.19746
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19746
 next_step: skim
+priority: medium
+slack_ts: '1781930797.490539'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL'
 ---
 # SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL
 > 原文: [https://arxiv.org/abs/2606.19746](https://arxiv.org/abs/2606.19746)

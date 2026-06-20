@@ -1,11 +1,12 @@
 ---
-title: "Open Weight AI Models Require Proportional Evaluation Approaches"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.19890
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19890
 next_step: skim
+priority: medium
+slack_ts: '1781930796.862029'
+source: cs.CY - Computers and Society
+status: unread
+title: Open Weight AI Models Require Proportional Evaluation Approaches
 ---
 # Open Weight AI Models Require Proportional Evaluation Approaches
 > 原文: [https://arxiv.org/abs/2606.19890](https://arxiv.org/abs/2606.19890)

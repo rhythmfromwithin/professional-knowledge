@@ -1,11 +1,13 @@
 ---
-title: "Robust probabilistic measurement of structural-functional module consistency in infant brain development"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.19739
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19739
 next_step: skim
+priority: low
+slack_ts: '1781930797.400969'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Robust probabilistic measurement of structural-functional module consistency
+  in infant brain development
 ---
 # Robust probabilistic measurement of structural-functional module consistency in infant brain development
 > 原文: [https://arxiv.org/abs/2606.19739](https://arxiv.org/abs/2606.19739)

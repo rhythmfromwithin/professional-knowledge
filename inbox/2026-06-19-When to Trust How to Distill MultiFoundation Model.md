@@ -1,11 +1,13 @@
 ---
-title: "When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight, Robust Scientific Time Series Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.19363
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19363
 next_step: skim
+priority: high
+slack_ts: '1781930798.841749'
+source: cs.LG - Machine Learning
+status: unread
+title: 'When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight,
+  Robust Scientific Time Series Forecasting'
 ---
 # When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight, Robust Scientific Time Series Forecasting
 > 原文: [https://arxiv.org/abs/2606.19363](https://arxiv.org/abs/2606.19363)

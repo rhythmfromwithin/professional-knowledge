@@ -1,11 +1,13 @@
 ---
-title: "Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.19861
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19861
 next_step: skim
+priority: low
+slack_ts: '1781930798.544419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic
+  Natural Gradient
 ---
 # Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient
 > 原文: [https://arxiv.org/abs/2606.19861](https://arxiv.org/abs/2606.19861)

@@ -1,11 +1,12 @@
 ---
-title: "Using AI to help physicians diagnose rare genetic diseases affecting children"
-source: "OpenAI Blog"
-link: https://openai.com/index/diagnose-rare-childhood-diseases
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/diagnose-rare-childhood-diseases
 next_step: skim
+priority: high
+slack_ts: '1781930798.403999'
+source: OpenAI Blog
+status: unread
+title: Using AI to help physicians diagnose rare genetic diseases affecting children
 ---
 # Using AI to help physicians diagnose rare genetic diseases affecting children
 > 原文: [https://openai.com/index/diagnose-rare-childhood-diseases](https://openai.com/index/diagnose-rare-childhood-diseases)

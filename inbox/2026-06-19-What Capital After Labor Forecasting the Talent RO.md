@@ -1,11 +1,13 @@
 ---
-title: "What Capital After Labor? Forecasting the Talent ROI Transition in the Human-AI Era"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.19846
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19846
 next_step: skim
+priority: low
+slack_ts: '1781930798.689809'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: What Capital After Labor? Forecasting the Talent ROI Transition in the Human-AI
+  Era
 ---
 # What Capital After Labor? Forecasting the Talent ROI Transition in the Human-AI Era
 > 原文: [https://arxiv.org/abs/2606.19846](https://arxiv.org/abs/2606.19846)

@@ -1,11 +1,12 @@
 ---
-title: "Variational Consensus Monte Carlo for Bayesian Mixture"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.19643
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.19643
 next_step: skim
+priority: medium
+slack_ts: '1781930798.472969'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Variational Consensus Monte Carlo for Bayesian Mixture
 ---
 # Variational Consensus Monte Carlo for Bayesian Mixture
 > 原文: [https://arxiv.org/abs/2606.19643](https://arxiv.org/abs/2606.19643)
