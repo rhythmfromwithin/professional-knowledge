@@ -3,7 +3,7 @@ interest: medium
 link: https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/
 next_step: skim
 priority: high
-slack_ts: '1782019818.896009'
+slack_ts: '1782019823.763559'
 source: AWS Blog
 status: unread
 title: Top announcements of the AWS Summit in New York, 2026

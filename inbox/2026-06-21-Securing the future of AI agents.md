@@ -3,7 +3,7 @@ interest: medium
 link: https://deepmind.google/blog/securing-the-future-of-ai-agents/
 next_step: skim
 priority: high
-slack_ts: '1782019818.608739'
+slack_ts: '1782019823.391199'
 source: DeepMind Blog
 status: unread
 title: Securing the future of AI agents

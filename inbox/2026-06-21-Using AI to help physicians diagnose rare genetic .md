@@ -3,7 +3,7 @@ interest: medium
 link: https://openai.com/index/diagnose-rare-childhood-diseases
 next_step: skim
 priority: high
-slack_ts: '1782019819.192829'
+slack_ts: '1782019824.016449'
 source: OpenAI Blog
 status: unread
 title: Using AI to help physicians diagnose rare genetic diseases affecting children

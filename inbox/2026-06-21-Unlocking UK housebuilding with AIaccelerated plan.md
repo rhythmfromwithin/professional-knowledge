@@ -3,7 +3,7 @@ interest: medium
 link: https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
 next_step: skim
 priority: high
-slack_ts: '1782019819.057089'
+slack_ts: '1782019823.885179'
 source: DeepMind Blog
 status: unread
 title: Unlocking UK house-building with AI-accelerated planning
