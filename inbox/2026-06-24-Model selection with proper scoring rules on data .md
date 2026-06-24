@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.24715
+next_step: skim
+priority: medium
+slack_ts: '1782274338.500839'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Model selection with proper scoring rules on data sets of time series
+---
+# Model selection with proper scoring rules on data sets of time series
+> 原文: [https://arxiv.org/abs/2606.24715](https://arxiv.org/abs/2606.24715)
+
+arXiv:2606.24715v1 Announce Type: new
+Abstract: We consider the problem of model selection between probabilistic models on data sets of time series. Chosen a proper scoring rule, we denote by the term \textit{score} the average value of the scoring rule on the test of an individual time series. For model selection, we need aggregating the values of the scores across multiple time series. Three summary statistics are commonly used for model selection: mean score, median score, and mean rank. Results in previous papers show that these statistics can yield conflicting decisions; we show how the conflicting conclusions are due to the skewness of the distribution of scores. We also show that as the test set of each time series of the data set increases, the different model selection criteria progressively converge to the same conclusion. However, for short tests sets, only the mean score identifies the true model as the best.
+We illustrate these phenomena with an analysis on intermittent time series, including the data set of the M5 competition, where we underline the importance of having a large test set. In such experiments, we further notice that model selection based on mean ranks remains unchanged using different scaling factors.
