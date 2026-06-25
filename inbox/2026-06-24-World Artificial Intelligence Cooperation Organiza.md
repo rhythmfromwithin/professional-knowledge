@@ -1,11 +1,13 @@
 ---
-title: "World Artificial Intelligence Cooperation Organization (WAICO): Mapping an Emerging Institution in the Global AI Governance Regime Complex"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.23860
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.23860
 next_step: skim
+priority: medium
+slack_ts: '1782360753.352989'
+source: cs.CY - Computers and Society
+status: unread
+title: 'World Artificial Intelligence Cooperation Organization (WAICO): Mapping an
+  Emerging Institution in the Global AI Governance Regime Complex'
 ---
 # World Artificial Intelligence Cooperation Organization (WAICO): Mapping an Emerging Institution in the Global AI Governance Regime Complex
 > 原文: [https://arxiv.org/abs/2606.23860](https://arxiv.org/abs/2606.23860)

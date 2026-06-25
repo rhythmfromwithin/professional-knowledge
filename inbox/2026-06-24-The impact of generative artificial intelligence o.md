@@ -1,11 +1,13 @@
 ---
-title: "The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.24104
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.24104
 next_step: skim
+priority: low
+slack_ts: '1782360751.389619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: The impact of generative artificial intelligence on academic development of
+  Chinese students in humanities and social sciences
 ---
 # The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences
 > 原文: [https://arxiv.org/abs/2606.24104](https://arxiv.org/abs/2606.24104)

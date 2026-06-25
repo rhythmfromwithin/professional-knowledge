@@ -1,0 +1,14 @@
+---
+title: "Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2606.25874
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization
+> 原文: [https://arxiv.org/abs/2606.25874](https://arxiv.org/abs/2606.25874)
+
+arXiv:2606.25874v1 Announce Type: new
+Abstract: Polychronous Neuronal Groups (PNGs) reproducible, time-locked spatiotemporal firing cascades stabilised by Spike-Timing-Dependent Plasticity (STDP) and heterogeneous axonal delays provide a combinatorially rich substrate for neural computation whose structural determinants remain poorly understood. We simulate a recurrent network of N=1000 Izhikevich neurons over ten hours of biological time and identify 1545 unique PNGs via an offline event-driven detection algorithm. A parametric Watts-Strogatz topology sweep reveals that the clusteringcoefficient C is the primary structural driver of PNG yield: the transition from a ring-lattice (C~0.35, $\sim\!850$ \PNGs) to a random graph (C~!0.20$, $<\!50$ \PNGs) reduces representational capacity by more than 90%. We further introduce a sparse-dot-product Recurrence Plot (RP) framework that identifies PNGs as unit-slope diagonal structures in the phase-space recurrence matrix, entirely independent of anatomical neuron labelling. Recurrence Quantification Analysis yields DET~0.65, quantifying the reproducibility of the network's dynamical trajectory. Together, the results establish small-world topology as the structural optimum for polychronization and the \RP decoder as a principled, label-free tool for PNG identification.

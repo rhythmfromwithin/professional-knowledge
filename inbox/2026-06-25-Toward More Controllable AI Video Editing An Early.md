@@ -1,6 +1,6 @@
 ---
 link: https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss
-slack_ts: '1782360751.687469'
+slack_ts: '1782360772.366769'
 source: Netflix Tech Blog
 title: 'Toward More Controllable AI Video Editing: An Early Research Exploration at
   Netflix'

@@ -1,13 +1,11 @@
 ---
-interest: medium
+title: "We’re strengthening our presence in Alabama through new investments and community support."
+source: "Google AI Blog"
 link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
-next_step: skim
 priority: high
-slack_ts: '1782360753.119499'
-source: Google AI Blog
 status: unread
-title: We’re strengthening our presence in Alabama through new investments and community
-  support.
+interest: medium
+next_step: skim
 ---
 # We’re strengthening our presence in Alabama through new investments and community support.
 > 原文: [https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/)

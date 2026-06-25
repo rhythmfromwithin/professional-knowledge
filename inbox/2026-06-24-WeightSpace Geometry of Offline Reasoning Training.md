@@ -1,11 +1,12 @@
 ---
-title: "Weight-Space Geometry of Offline Reasoning Training"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.23740
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.23740
 next_step: skim
+priority: high
+slack_ts: '1782360752.889949'
+source: cs.LG - Machine Learning
+status: unread
+title: Weight-Space Geometry of Offline Reasoning Training
 ---
 # Weight-Space Geometry of Offline Reasoning Training
 > 原文: [https://arxiv.org/abs/2606.23740](https://arxiv.org/abs/2606.23740)

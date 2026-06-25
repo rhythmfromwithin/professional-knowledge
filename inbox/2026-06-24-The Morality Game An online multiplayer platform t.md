@@ -1,11 +1,13 @@
 ---
-title: "The Morality Game: An online multiplayer platform to standardize, expedite, and expand research on cooperation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.24037
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.24037
 next_step: skim
+priority: low
+slack_ts: '1782360750.899789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Morality Game: An online multiplayer platform to standardize, expedite,
+  and expand research on cooperation'
 ---
 # The Morality Game: An online multiplayer platform to standardize, expedite, and expand research on cooperation
 > 原文: [https://arxiv.org/abs/2606.24037](https://arxiv.org/abs/2606.24037)

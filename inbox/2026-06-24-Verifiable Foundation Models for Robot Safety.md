@@ -1,11 +1,12 @@
 ---
-title: "Verifiable Foundation Models for Robot Safety"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2606.23754
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.23754
 next_step: skim
+priority: medium
+slack_ts: '1782360752.593859'
+source: cs.RO - Robotics
+status: unread
+title: Verifiable Foundation Models for Robot Safety
 ---
 # Verifiable Foundation Models for Robot Safety
 > 原文: [https://arxiv.org/abs/2606.23754](https://arxiv.org/abs/2606.23754)

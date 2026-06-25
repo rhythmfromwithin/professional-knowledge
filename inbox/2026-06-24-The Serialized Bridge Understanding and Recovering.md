@@ -1,11 +1,13 @@
 ---
-title: "The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.23969
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.23969
 next_step: skim
+priority: medium
+slack_ts: '1782360751.156649'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Serialized Bridge: Understanding and Recovering LLM Serving Performance
+  under Blackwell GPU Confidential Computing'
 ---
 # The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing
 > 原文: [https://arxiv.org/abs/2606.23969](https://arxiv.org/abs/2606.23969)

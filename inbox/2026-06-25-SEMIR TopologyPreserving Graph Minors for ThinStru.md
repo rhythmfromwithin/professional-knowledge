@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.24935
+next_step: skim
+priority: medium
+slack_ts: '1782360769.088509'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SEMIR: Topology-Preserving Graph Minors for Thin-Structure Segmentation'
+---
+# SEMIR: Topology-Preserving Graph Minors for Thin-Structure Segmentation
+> 原文: [https://arxiv.org/abs/2606.24935](https://arxiv.org/abs/2606.24935)
+
+arXiv:2606.24935v1 Announce Type: new
+Abstract: Thin-structure segmentation--power lines, cracks, lane markings at 1-3 pixel width--requires preserving connectivity that standard representations preclude: patching severs continuous structures and conventional superpixels merge thin targets into background before classification. Topology-aware losses penalize connectivity breaks at the objective level but cannot recover what the representation has already destroyed. We propose SEMIR, a framework that replaces the pixel lattice with a parameterized graph minor whose contraction map preserves thin-structure connectivity under the contraction criterion. The minor collapses millions of pixels into tens or hundreds of boundary-aligned supernodes, enabling full-resolution inference without patching at scales demonstrated up to 21 MP in this paper; a lightweight GNN classifies the reduced graph and an exact map lifts predictions to pixel resolution. One pipeline--identical architecture, features, loss, and GNN hyperparameters across all dataset--matches or exceeds domain-specific baselines on TTPLA (power lines), CrackSeg9k (pavement cracks), and SkyScapes Lane (aerial markings) on Dice, IoU, and Boundary F1 while reducing mask fragmentation by at least 4.6x relative to SLIC at matched inference.
