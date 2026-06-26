@@ -1,11 +1,13 @@
 ---
-title: "Tensor-Based Batch Fuzzing with Adaptive Perturbation Scaling for Deep Neural Networks"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.25239
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.25239
 next_step: skim
+priority: low
+slack_ts: '1782447542.809589'
+source: cs.SE - Software Engineering
+status: unread
+title: Tensor-Based Batch Fuzzing with Adaptive Perturbation Scaling for Deep Neural
+  Networks
 ---
 # Tensor-Based Batch Fuzzing with Adaptive Perturbation Scaling for Deep Neural Networks
 > 原文: [https://arxiv.org/abs/2606.25239](https://arxiv.org/abs/2606.25239)

@@ -1,11 +1,12 @@
 ---
-title: "Stabilizing black-box algorithms through task-oriented randomization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.25269
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.25269
 next_step: skim
+priority: medium
+slack_ts: '1782447542.325799'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Stabilizing black-box algorithms through task-oriented randomization
 ---
 # Stabilizing black-box algorithms through task-oriented randomization
 > 原文: [https://arxiv.org/abs/2606.25269](https://arxiv.org/abs/2606.25269)

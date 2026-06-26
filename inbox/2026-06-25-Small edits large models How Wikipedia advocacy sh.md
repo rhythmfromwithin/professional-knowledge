@@ -1,11 +1,12 @@
 ---
-title: "Small edits, large models: How Wikipedia advocacy shapes LLM values"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2606.24890
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.24890
 next_step: skim
+priority: high
+slack_ts: '1782447541.952559'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Small edits, large models: How Wikipedia advocacy shapes LLM values'
 ---
 # Small edits, large models: How Wikipedia advocacy shapes LLM values
 > 原文: [https://arxiv.org/abs/2606.24890](https://arxiv.org/abs/2606.24890)

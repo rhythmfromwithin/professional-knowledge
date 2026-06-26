@@ -1,11 +1,13 @@
 ---
-title: "Speculation at a Distance: Where Edge-Cloud Speculative Decoding Actually Pays Off"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2606.25091
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.25091
 next_step: skim
+priority: medium
+slack_ts: '1782447542.171729'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Speculation at a Distance: Where Edge-Cloud Speculative Decoding Actually
+  Pays Off'
 ---
 # Speculation at a Distance: Where Edge-Cloud Speculative Decoding Actually Pays Off
 > 原文: [https://arxiv.org/abs/2606.25091](https://arxiv.org/abs/2606.25091)

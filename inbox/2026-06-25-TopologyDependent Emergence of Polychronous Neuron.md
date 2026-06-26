@@ -1,11 +1,13 @@
 ---
-title: "Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2606.25874
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.25874
 next_step: skim
+priority: low
+slack_ts: '1782447543.003579'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot
+  Characterization'
 ---
 # Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization
 > 原文: [https://arxiv.org/abs/2606.25874](https://arxiv.org/abs/2606.25874)

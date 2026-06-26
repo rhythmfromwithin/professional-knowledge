@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.26733
+next_step: skim
+priority: low
+slack_ts: '1782447554.337889'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Surviving by Serving: Functional Relevance Drives Self-Organization in Complex
+  Adaptive Systems'
+---
+# Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems
+> 原文: [https://arxiv.org/abs/2606.26733](https://arxiv.org/abs/2606.26733)
+
+arXiv:2606.26733v1 Announce Type: new
+Abstract: Complex adaptive systems often develop organized structures without centralized control. Yet the local mechanisms by which functional organization emerges and persists remain incompletely understood. Here we propose Surviving by Serving (SBS) as a general principle of self-organization: components persist as long as their outputs are utilized by other components, whereas prolonged non-utilization promotes adaptation and exploration. To investigate this idea, we introduce a minimal multi-agent model in which agents transform shared resources and receive only local feedback when their outputs are subsequently utilized elsewhere in the system. Despite the absence of global objectives, the system spontaneously self-organizes into functional interaction networks. We observe the emergence of stable transformation chains, core-periphery organization, and the generation of novel states that enable previously inaccessible target conditions to be reached. Remarkably, self-sustaining interaction networks can arise even without external selection pressures, creating a pre-adaptive search phase from which later functional solutions emerge. These findings suggest that functional utilization may provide a simple, substrate-independent mechanism for the emergence and stabilization of organized structure in complex adaptive systems.

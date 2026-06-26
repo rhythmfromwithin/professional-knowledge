@@ -1,11 +1,12 @@
 ---
-title: "Statistically Valid Hyperparameter Selection: From Tuning to Guarantees"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.25601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.25601
 next_step: skim
+priority: medium
+slack_ts: '1782447542.494809'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Statistically Valid Hyperparameter Selection: From Tuning to Guarantees'
 ---
 # Statistically Valid Hyperparameter Selection: From Tuning to Guarantees
 > 原文: [https://arxiv.org/abs/2606.25601](https://arxiv.org/abs/2606.25601)

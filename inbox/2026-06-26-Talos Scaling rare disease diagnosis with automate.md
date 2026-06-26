@@ -1,12 +1,11 @@
 ---
-interest: medium
+title: "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis"
+source: "Microsoft Research"
 link: https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/
-next_step: skim
 priority: high
-slack_ts: '1782447542.653539'
-source: Microsoft Research
 status: unread
-title: 'Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis'
+interest: medium
+next_step: skim
 ---
 # Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis
 > 原文: [https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/)
