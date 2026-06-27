@@ -3,7 +3,7 @@ interest: medium
 link: https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/
 next_step: skim
 priority: high
-slack_ts: '1782533139.927849'
+slack_ts: '1782533147.877959'
 source: Microsoft Research
 status: unread
 title: 'Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis'

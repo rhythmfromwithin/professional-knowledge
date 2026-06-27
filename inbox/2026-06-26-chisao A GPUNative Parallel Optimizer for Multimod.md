@@ -1,11 +1,5 @@
 ---
-title: "\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2606.26164
-priority: high
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1782533142.077349'
 ---
 # \chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation
 > 原文: [https://arxiv.org/abs/2606.26164](https://arxiv.org/abs/2606.26164)

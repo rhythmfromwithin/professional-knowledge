@@ -1,11 +1,13 @@
 ---
-title: "TinyCNNDeep: Lightweight Attention-Based CNN for EEG Classification of Eye States and Sleep Deprivation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2606.26506
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26506
 next_step: skim
+priority: low
+slack_ts: '1782533140.817369'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'TinyCNNDeep: Lightweight Attention-Based CNN for EEG Classification of Eye
+  States and Sleep Deprivation'
 ---
 # TinyCNNDeep: Lightweight Attention-Based CNN for EEG Classification of Eye States and Sleep Deprivation
 > 原文: [https://arxiv.org/abs/2606.26506](https://arxiv.org/abs/2606.26506)

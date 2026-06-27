@@ -1,11 +1,12 @@
 ---
-title: "Towards Safety-Aware Mutation Testing for Autonomous Driving Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2606.26456
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26456
 next_step: skim
+priority: low
+slack_ts: '1782533141.114429'
+source: cs.SE - Software Engineering
+status: unread
+title: Towards Safety-Aware Mutation Testing for Autonomous Driving Systems
 ---
 # Towards Safety-Aware Mutation Testing for Autonomous Driving Systems
 > 原文: [https://arxiv.org/abs/2606.26456](https://arxiv.org/abs/2606.26456)

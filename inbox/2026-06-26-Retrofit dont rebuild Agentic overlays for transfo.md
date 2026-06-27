@@ -1,11 +1,13 @@
 ---
-title: "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/
 next_step: skim
+priority: high
+slack_ts: '1782533139.250839'
+source: AWS Blog
+status: unread
+title: 'Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise
+  services'
 ---
 # Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services
 > 原文: [https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/)

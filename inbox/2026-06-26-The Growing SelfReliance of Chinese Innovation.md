@@ -1,11 +1,12 @@
 ---
-title: "The Growing Self-Reliance of Chinese Innovation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.26470
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26470
 next_step: skim
+priority: low
+slack_ts: '1782533140.328309'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Growing Self-Reliance of Chinese Innovation
 ---
 # The Growing Self-Reliance of Chinese Innovation
 > 原文: [https://arxiv.org/abs/2606.26470](https://arxiv.org/abs/2606.26470)

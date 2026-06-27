@@ -1,11 +1,12 @@
 ---
-title: "The Red Queen G\"odel Machine: Co-Evolving Agents and Their Evaluators"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2606.26294
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26294
 next_step: skim
+priority: low
+slack_ts: '1782533140.506469'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Red Queen G"odel Machine: Co-Evolving Agents and Their Evaluators'
 ---
 # The Red Queen G\"odel Machine: Co-Evolving Agents and Their Evaluators
 > 原文: [https://arxiv.org/abs/2606.26294](https://arxiv.org/abs/2606.26294)

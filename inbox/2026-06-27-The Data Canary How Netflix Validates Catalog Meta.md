@@ -1,6 +1,6 @@
 ---
 link: https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss
-slack_ts: '1782533140.129789'
+slack_ts: '1782533148.018809'
 source: Netflix Tech Blog
 title: 'The Data Canary: How Netflix Validates Catalog Metadata'
 ----2615bd06b42e---4

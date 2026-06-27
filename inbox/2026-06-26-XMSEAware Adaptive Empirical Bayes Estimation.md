@@ -1,11 +1,12 @@
 ---
-title: "XMSE-Aware Adaptive Empirical Bayes Estimation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.26975
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26975
 next_step: skim
+priority: medium
+slack_ts: '1782533141.912009'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: XMSE-Aware Adaptive Empirical Bayes Estimation
 ---
 # XMSE-Aware Adaptive Empirical Bayes Estimation
 > 原文: [https://arxiv.org/abs/2606.26975](https://arxiv.org/abs/2606.26975)

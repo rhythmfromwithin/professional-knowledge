@@ -3,7 +3,7 @@ interest: medium
 link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
 next_step: skim
 priority: high
-slack_ts: '1782533141.578559'
+slack_ts: '1782533148.607599'
 source: Google AI Blog
 status: unread
 title: We’re strengthening our presence in Alabama through new investments and community

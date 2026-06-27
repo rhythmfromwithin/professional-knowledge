@@ -3,7 +3,7 @@ interest: medium
 link: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/
 next_step: skim
 priority: high
-slack_ts: '1782533139.432349'
+slack_ts: '1782533147.235279'
 source: AWS Blog
 status: unread
 title: 'Run isolated sandboxes with full lifecycle control: AWS Lambda introduces

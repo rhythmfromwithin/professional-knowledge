@@ -1,11 +1,12 @@
 ---
-title: "Too cheap to meter? A stochastic analysis of projected future fusion costs"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.26536
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26536
 next_step: skim
+priority: low
+slack_ts: '1782533140.967219'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Too cheap to meter? A stochastic analysis of projected future fusion costs
 ---
 # Too cheap to meter? A stochastic analysis of projected future fusion costs
 > 原文: [https://arxiv.org/abs/2606.26536](https://arxiv.org/abs/2606.26536)

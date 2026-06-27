@@ -3,7 +3,7 @@ interest: medium
 link: https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
 next_step: skim
 priority: high
-slack_ts: '1782533141.261969'
+slack_ts: '1782533148.341109'
 source: Microsoft Research
 status: unread
 title: Understanding the brain with AI-driven explanations and experiments

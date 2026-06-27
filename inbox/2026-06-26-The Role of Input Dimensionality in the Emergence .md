@@ -1,11 +1,13 @@
 ---
-title: "The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.26207
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26207
 next_step: skim
+priority: medium
+slack_ts: '1782533140.680609'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial
+  Examples
 ---
 # The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples
 > 原文: [https://arxiv.org/abs/2606.26207](https://arxiv.org/abs/2606.26207)

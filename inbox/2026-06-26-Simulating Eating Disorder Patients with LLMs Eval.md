@@ -1,11 +1,13 @@
 ---
-title: "Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.26109
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.26109
 next_step: skim
+priority: medium
+slack_ts: '1782533139.795729'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona
+  Stability in Multi-Turn Conversations'
 ---
 # Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations
 > 原文: [https://arxiv.org/abs/2606.26109](https://arxiv.org/abs/2606.26109)
