@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2606.27764
+next_step: skim
+priority: low
+slack_ts: '1782708421.611219'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'DE-2LS: Differential Evolution with Lightweight Late Local Search for Constrained
+  Numerical Optimization'
+---
+# DE-2LS: Differential Evolution with Lightweight Late Local Search for Constrained Numerical Optimization
+> 原文: [https://arxiv.org/abs/2606.27764](https://arxiv.org/abs/2606.27764)
+
+arXiv:2606.27764v1 Announce Type: new
+Abstract: Constrained single-objective numerical optimization requires a careful balance among feasibility, objective convergence, and computational efficiency under a fixed function-evaluation budget. This paper proposes DE-2LS, a late-stage, locally search-enhanced variant of differential evolution built on the RDEx framework. The proposed method preserves the original RDEx components, including mutation and crossover operators, success-history adaptation, archive mechanism, population-size reduction, and $\epsilon$-based constraint handling. A lightweight coordinate-pattern local search is added as a guarded polishing component around the current best solution. It is activated only in the late stage of the run, uses a small evaluation budget, and accepts candidates through a feasibility-aware comparison rule. Ablation results show that the finalized DE-2LS configuration achieves the best U-score among all tested variants, confirming that controlled late-stage refinement is more effective than aggressive or premature local search. In the direct comparison with RDEx, DE-2LS achieves a 5.58\% gain in U-score. In the four-algorithm comparison, DE-2LS obtains the highest overall U-score of 80968 and the best total rank of 48 among RDEx, CL-SRDE, and UDE-III. These results indicate that DE-2LS improves the exploitation capability of the RDEx-based search framework while preserving its speed advantage under the combined speed-accuracy scoring criterion. The source code of DE-2LS is available at https://github.com/ChauhanDikshit?tab=repositories.
