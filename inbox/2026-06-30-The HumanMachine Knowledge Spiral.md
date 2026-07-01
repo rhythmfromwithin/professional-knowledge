@@ -1,11 +1,12 @@
 ---
-title: "The Human-Machine Knowledge Spiral"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.29227
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.29227
 next_step: skim
+priority: low
+slack_ts: '1782880924.156069'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Human-Machine Knowledge Spiral
 ---
 # The Human-Machine Knowledge Spiral
 > 原文: [https://arxiv.org/abs/2606.29227](https://arxiv.org/abs/2606.29227)

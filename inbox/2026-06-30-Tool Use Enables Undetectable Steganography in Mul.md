@@ -1,11 +1,12 @@
 ---
-title: "Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2606.28425
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.28425
 next_step: skim
+priority: low
+slack_ts: '1782880924.294329'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems
 ---
 # Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems
 > 原文: [https://arxiv.org/abs/2606.28425](https://arxiv.org/abs/2606.28425)

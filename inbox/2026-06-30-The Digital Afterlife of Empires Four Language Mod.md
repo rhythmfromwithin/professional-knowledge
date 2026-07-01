@@ -1,11 +1,13 @@
 ---
-title: "The Digital Afterlife of Empires: Four Language Models Converge on the Same Imperial Cartography of Writing"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.28325
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.28325
 next_step: skim
+priority: medium
+slack_ts: '1782880924.007119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Digital Afterlife of Empires: Four Language Models Converge on the Same
+  Imperial Cartography of Writing'
 ---
 # The Digital Afterlife of Empires: Four Language Models Converge on the Same Imperial Cartography of Writing
 > 原文: [https://arxiv.org/abs/2606.28325](https://arxiv.org/abs/2606.28325)

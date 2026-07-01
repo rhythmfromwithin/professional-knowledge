@@ -1,11 +1,12 @@
 ---
-title: "When Does Personality Composition Matter for Multi-Agent LLM Teams?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2606.27443
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.27443
 next_step: skim
+priority: high
+slack_ts: '1782880924.978129'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Does Personality Composition Matter for Multi-Agent LLM Teams?
 ---
 # When Does Personality Composition Matter for Multi-Agent LLM Teams?
 > 原文: [https://arxiv.org/abs/2606.27443](https://arxiv.org/abs/2606.27443)

@@ -1,11 +1,13 @@
 ---
-title: "When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk Medical Queries"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.28332
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.28332
 next_step: skim
+priority: medium
+slack_ts: '1782880925.314119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk
+  Medical Queries'
 ---
 # When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk Medical Queries
 > 原文: [https://arxiv.org/abs/2606.28332](https://arxiv.org/abs/2606.28332)

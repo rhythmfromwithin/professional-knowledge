@@ -1,11 +1,13 @@
 ---
-title: "Variance Reduction for Stochastic Gradient Generalized Non-reversible Langevin Monte Carlo Algorithms"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2606.28808
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.28808
 next_step: skim
+priority: medium
+slack_ts: '1782880924.807429'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Variance Reduction for Stochastic Gradient Generalized Non-reversible Langevin
+  Monte Carlo Algorithms
 ---
 # Variance Reduction for Stochastic Gradient Generalized Non-reversible Langevin Monte Carlo Algorithms
 > 原文: [https://arxiv.org/abs/2606.28808](https://arxiv.org/abs/2606.28808)

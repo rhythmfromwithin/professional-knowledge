@@ -1,11 +1,12 @@
 ---
-title: "Understanding the brain with AI-driven explanations and experiments"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
 next_step: skim
+priority: high
+slack_ts: '1782880924.479449'
+source: Microsoft Research
+status: unread
+title: Understanding the brain with AI-driven explanations and experiments
 ---
 # Understanding the brain with AI-driven explanations and experiments
 > 原文: [https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
