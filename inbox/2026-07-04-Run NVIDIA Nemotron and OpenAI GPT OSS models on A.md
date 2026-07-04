@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/
+next_step: skim
+priority: high
+slack_ts: '1783136974.976799'
+source: AWS Blog
+status: unread
+title: Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud
+  (US)
+---
+# Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)
+> 原文: [https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)
+
+We're excited to introduce US-based frontier open-weight models in AWS GovCloud (US). With this release, Amazon Bedrock now supports OpenAI’s open-weight GPT OSS models (120B and 20B) and NVIDIA Nemotron (Nano 9B v2, Nano 12B v2, Nano 30B, Super 120B) models. In this post, we cover these models and their capabilities, the inference options for data residency, the available service tiers and how to get started.
