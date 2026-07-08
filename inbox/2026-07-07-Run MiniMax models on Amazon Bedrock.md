@@ -1,11 +1,12 @@
 ---
-title: "Run MiniMax models on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1783481421.869499'
+source: AWS Blog
+status: unread
+title: Run MiniMax models on Amazon Bedrock
 ---
 # Run MiniMax models on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/)

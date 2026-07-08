@@ -1,11 +1,13 @@
 ---
-title: "RES-DARE: Failure-Aware Expert Adaptation and Rollback-Safe Self-Repair for Intrusion Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.02687
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02687
 next_step: skim
+priority: low
+slack_ts: '1783481420.822769'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'RES-DARE: Failure-Aware Expert Adaptation and Rollback-Safe Self-Repair for
+  Intrusion Detection'
 ---
 # RES-DARE: Failure-Aware Expert Adaptation and Rollback-Safe Self-Repair for Intrusion Detection
 > 原文: [https://arxiv.org/abs/2607.02687](https://arxiv.org/abs/2607.02687)

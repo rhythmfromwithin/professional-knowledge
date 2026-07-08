@@ -1,11 +1,12 @@
 ---
-title: "SpendableStore: A UTXO-based Decentralized Data Store"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.02677
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02677
 next_step: skim
+priority: low
+slack_ts: '1783481423.665589'
+source: cs.DB - Databases
+status: unread
+title: 'SpendableStore: A UTXO-based Decentralized Data Store'
 ---
 # SpendableStore: A UTXO-based Decentralized Data Store
 > 原文: [https://arxiv.org/abs/2607.02677](https://arxiv.org/abs/2607.02677)

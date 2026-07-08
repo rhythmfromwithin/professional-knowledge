@@ -1,11 +1,13 @@
 ---
-title: "The agent creates, we validate: A Lightweight Framework for Agentic Artifact Generation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.02615
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02615
 next_step: skim
+priority: low
+slack_ts: '1783481424.491449'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The agent creates, we validate: A Lightweight Framework for Agentic Artifact
+  Generation'
 ---
 # The agent creates, we validate: A Lightweight Framework for Agentic Artifact Generation
 > 原文: [https://arxiv.org/abs/2607.02615](https://arxiv.org/abs/2607.02615)

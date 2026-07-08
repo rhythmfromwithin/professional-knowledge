@@ -1,11 +1,12 @@
 ---
-title: "Tile-Level Activation Overlap for Efficient LLM Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.02521
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02521
 next_step: skim
+priority: medium
+slack_ts: '1783481425.047999'
+source: cs.DC - Distributed Computing
+status: unread
+title: Tile-Level Activation Overlap for Efficient LLM Inference
 ---
 # Tile-Level Activation Overlap for Efficient LLM Inference
 > 原文: [https://arxiv.org/abs/2607.02521](https://arxiv.org/abs/2607.02521)

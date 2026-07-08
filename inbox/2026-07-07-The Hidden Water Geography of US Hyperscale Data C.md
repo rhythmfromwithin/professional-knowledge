@@ -1,11 +1,12 @@
 ---
-title: "The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.02531
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02531
 next_step: skim
+priority: medium
+slack_ts: '1783481424.253699'
+source: cs.CY - Computers and Society
+status: unread
+title: The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era
 ---
 # The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era
 > 原文: [https://arxiv.org/abs/2607.02531](https://arxiv.org/abs/2607.02531)

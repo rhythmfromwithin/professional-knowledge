@@ -1,11 +1,13 @@
 ---
-title: "QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.02632
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02632
 next_step: skim
+priority: high
+slack_ts: '1783481420.496199'
+source: cs.LG - Machine Learning
+status: unread
+title: 'QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series
+  Forecasting'
 ---
 # QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting
 > 原文: [https://arxiv.org/abs/2607.02632](https://arxiv.org/abs/2607.02632)

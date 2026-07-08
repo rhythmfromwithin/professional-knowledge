@@ -1,11 +1,12 @@
 ---
-title: "Selectivity Estimation for Linear Queries via Online Learning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.02895
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02895
 next_step: skim
+priority: low
+slack_ts: '1783481422.610849'
+source: cs.DB - Databases
+status: unread
+title: Selectivity Estimation for Linear Queries via Online Learning
 ---
 # Selectivity Estimation for Linear Queries via Online Learning
 > 原文: [https://arxiv.org/abs/2607.02895](https://arxiv.org/abs/2607.02895)

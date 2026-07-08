@@ -1,11 +1,13 @@
 ---
-title: "Modeling the Impact of Visual Brand Language on Attention, Object Recognition, and Memory Retrieval"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.02929
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02929
 next_step: skim
+priority: low
+slack_ts: '1783481418.994239'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Modeling the Impact of Visual Brand Language on Attention, Object Recognition,
+  and Memory Retrieval
 ---
 # Modeling the Impact of Visual Brand Language on Attention, Object Recognition, and Memory Retrieval
 > 原文: [https://arxiv.org/abs/2607.02929](https://arxiv.org/abs/2607.02929)

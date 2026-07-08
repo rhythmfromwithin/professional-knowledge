@@ -1,11 +1,12 @@
 ---
-title: "iFLYTEK-Embodied-Omni Technical Report"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.02542
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02542
 next_step: skim
+priority: high
+slack_ts: '1783481426.833139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: iFLYTEK-Embodied-Omni Technical Report
 ---
 # iFLYTEK-Embodied-Omni Technical Report
 > 原文: [https://arxiv.org/abs/2607.02542](https://arxiv.org/abs/2607.02542)
