@@ -1,11 +1,12 @@
 ---
-title: "Reinforcement Learning for Data-Efficient Code-Switched ASR"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.02757
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02757
 next_step: skim
+priority: high
+slack_ts: '1783569518.053769'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Reinforcement Learning for Data-Efficient Code-Switched ASR
 ---
 # Reinforcement Learning for Data-Efficient Code-Switched ASR
 > 原文: [https://arxiv.org/abs/2607.02757](https://arxiv.org/abs/2607.02757)

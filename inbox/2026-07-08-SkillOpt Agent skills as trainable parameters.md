@@ -1,11 +1,12 @@
 ---
-title: "SkillOpt: Agent skills as trainable parameters"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/
 next_step: skim
+priority: high
+slack_ts: '1783569519.280419'
+source: Microsoft Research
+status: unread
+title: 'SkillOpt: Agent skills as trainable parameters'
 ---
 # SkillOpt: Agent skills as trainable parameters
 > 原文: [https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/)

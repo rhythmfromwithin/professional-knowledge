@@ -1,11 +1,12 @@
 ---
-title: "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/
 next_step: skim
+priority: high
+slack_ts: '1783569515.352959'
+source: Microsoft Research
+status: unread
+title: Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
 ---
 # Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
 > 原文: [https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)

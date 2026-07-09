@@ -1,0 +1,13 @@
+---
+title: "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?"
+source: "Anthropic"
+link: https://www.anthropic.com/research/economic-index-june-2026-report
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?
+> 原文: [https://www.anthropic.com/research/economic-index-june-2026-report](https://www.anthropic.com/research/economic-index-june-2026-report)
+
+Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?

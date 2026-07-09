@@ -1,11 +1,12 @@
 ---
-title: "Learning 3D Affordances for Blade Insertion in Cluttered Stowing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.02549
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02549
 next_step: skim
+priority: medium
+slack_ts: '1783569514.886959'
+source: cs.CV - Computer Vision
+status: unread
+title: Learning 3D Affordances for Blade Insertion in Cluttered Stowing
 ---
 # Learning 3D Affordances for Blade Insertion in Cluttered Stowing
 > 原文: [https://arxiv.org/abs/2607.02549](https://arxiv.org/abs/2607.02549)

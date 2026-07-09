@@ -1,11 +1,13 @@
 ---
-title: "MorphQuad: Morphable Quadrotor for Superhuman Maneuverability, Manipulation, and Resiliency"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.02764
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02764
 next_step: skim
+priority: medium
+slack_ts: '1783569516.393839'
+source: cs.RO - Robotics
+status: unread
+title: 'MorphQuad: Morphable Quadrotor for Superhuman Maneuverability, Manipulation,
+  and Resiliency'
 ---
 # MorphQuad: Morphable Quadrotor for Superhuman Maneuverability, Manipulation, and Resiliency
 > 原文: [https://arxiv.org/abs/2607.02764](https://arxiv.org/abs/2607.02764)

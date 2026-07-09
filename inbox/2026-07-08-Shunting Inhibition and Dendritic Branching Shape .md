@@ -1,11 +1,12 @@
 ---
-title: "Shunting Inhibition and Dendritic Branching Shape Local Credit Assignment"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.03556
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.03556
 next_step: skim
+priority: low
+slack_ts: '1783569518.820529'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Shunting Inhibition and Dendritic Branching Shape Local Credit Assignment
 ---
 # Shunting Inhibition and Dendritic Branching Shape Local Credit Assignment
 > 原文: [https://arxiv.org/abs/2607.03556](https://arxiv.org/abs/2607.03556)

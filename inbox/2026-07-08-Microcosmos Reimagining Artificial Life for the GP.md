@@ -1,11 +1,12 @@
 ---
-title: "Microcosmos: Reimagining Artificial Life for the GPU Era"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.02954
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02954
 next_step: skim
+priority: low
+slack_ts: '1783569515.865269'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Microcosmos: Reimagining Artificial Life for the GPU Era'
 ---
 # Microcosmos: Reimagining Artificial Life for the GPU Era
 > 原文: [https://arxiv.org/abs/2607.02954](https://arxiv.org/abs/2607.02954)

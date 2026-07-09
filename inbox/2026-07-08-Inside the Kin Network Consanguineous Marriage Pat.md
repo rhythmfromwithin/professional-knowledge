@@ -1,11 +1,13 @@
 ---
-title: "Inside the Kin Network: Consanguineous Marriage, Patriarchal Bargaining, and Women's Acceptance of Intimate Partner Violence in Pakistan"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.02785
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02785
 next_step: skim
+priority: low
+slack_ts: '1783569513.716699'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Inside the Kin Network: Consanguineous Marriage, Patriarchal Bargaining, and
+  Women''s Acceptance of Intimate Partner Violence in Pakistan'
 ---
 # Inside the Kin Network: Consanguineous Marriage, Patriarchal Bargaining, and Women's Acceptance of Intimate Partner Violence in Pakistan
 > 原文: [https://arxiv.org/abs/2607.02785](https://arxiv.org/abs/2607.02785)

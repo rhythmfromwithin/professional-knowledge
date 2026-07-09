@@ -1,11 +1,12 @@
 ---
-title: "Kotlin-MP: DSL and IR Transformer for Parallelism"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.02519
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02519
 next_step: skim
+priority: medium
+slack_ts: '1783569514.656999'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Kotlin-MP: DSL and IR Transformer for Parallelism'
 ---
 # Kotlin-MP: DSL and IR Transformer for Parallelism
 > 原文: [https://arxiv.org/abs/2607.02519](https://arxiv.org/abs/2607.02519)

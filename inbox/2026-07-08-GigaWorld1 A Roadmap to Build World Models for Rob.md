@@ -1,11 +1,12 @@
 ---
-title: "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.02642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02642
 next_step: skim
+priority: medium
+slack_ts: '1783569512.228049'
+source: cs.RO - Robotics
+status: unread
+title: 'GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation'
 ---
 # GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation
 > 原文: [https://arxiv.org/abs/2607.02642](https://arxiv.org/abs/2607.02642)

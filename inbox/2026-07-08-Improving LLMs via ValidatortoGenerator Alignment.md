@@ -1,11 +1,12 @@
 ---
-title: "Improving LLMs via Validator-to-Generator Alignment"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.02668
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02668
 next_step: skim
+priority: high
+slack_ts: '1783569513.333879'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Improving LLMs via Validator-to-Generator Alignment
 ---
 # Improving LLMs via Validator-to-Generator Alignment
 > 原文: [https://arxiv.org/abs/2607.02668](https://arxiv.org/abs/2607.02668)

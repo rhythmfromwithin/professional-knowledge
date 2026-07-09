@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2607.06456
+next_step: skim
+priority: low
+slack_ts: '1783569521.953589'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal
+  Spiking Neural Networks
+---
+# A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks
+> 原文: [https://arxiv.org/abs/2607.06456](https://arxiv.org/abs/2607.06456)
+
+arXiv:2607.06456v1 Announce Type: cross
+Abstract: Energy-efficient neuromorphic computing at the edge requires simulation tools that can capture the non-ideal behavior of mixed-signal spiking neural network (SNN) hardware while supporting system-level design exploration. This work presents an open-source hardware-aware simulation framework for mixed-signal SNNs that enables comparative analysis across neuron, synapse and architecture choices. The framework supports multiple neuron models, including Leaky Integrate-and-Fire (LIF), Hodgkin-Huxley (HH) and Axon-Hillock (AH), together with non-volatile analog synapses based on floating-gate transistors and ReRAM devices. By incorporating device-level nonlinearities directly into PyTorch-based training and inference, the tool enables optimization of physical synaptic parameters rather than idealized abstract weights. The framework is evaluated on standard neuromorphic benchmarks, including N-MNIST, DVS Gesture and Spiking Heidelberg Digits (SHD). For each model dataset configuration, it reports classification accuracy together with hardware-oriented metrics such as silicon area, power consumption and quantization sensitivity. These capabilities enable cross-layer design space exploration and help identify neuron-synapse configurations that best satisfy application-specific constraints on accuracy, energy efficiency, area and hardware fidelity.

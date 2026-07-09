@@ -1,11 +1,12 @@
 ---
-title: "Regulating AI: Where U.S. State Policy and HCI (Mis)align"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.03292
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.03292
 next_step: skim
+priority: low
+slack_ts: '1783569517.825589'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Regulating AI: Where U.S. State Policy and HCI (Mis)align'
 ---
 # Regulating AI: Where U.S. State Policy and HCI (Mis)align
 > 原文: [https://arxiv.org/abs/2607.03292](https://arxiv.org/abs/2607.03292)

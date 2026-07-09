@@ -1,11 +1,12 @@
 ---
-title: "Microsecond-precision sound localization emerges from slow equilibrium dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.03890
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.03890
 next_step: skim
+priority: low
+slack_ts: '1783569516.154869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Microsecond-precision sound localization emerges from slow equilibrium dynamics
 ---
 # Microsecond-precision sound localization emerges from slow equilibrium dynamics
 > 原文: [https://arxiv.org/abs/2607.03890](https://arxiv.org/abs/2607.03890)

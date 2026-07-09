@@ -1,11 +1,13 @@
 ---
-title: "When Not to Write Memory: Governing False Promotion from Correlated Agent Traces"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.02579
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02579
 next_step: skim
+priority: low
+slack_ts: '1783569521.012729'
+source: cs.SE - Software Engineering
+status: unread
+title: 'When Not to Write Memory: Governing False Promotion from Correlated Agent
+  Traces'
 ---
 # When Not to Write Memory: Governing False Promotion from Correlated Agent Traces
 > 原文: [https://arxiv.org/abs/2607.02579](https://arxiv.org/abs/2607.02579)

@@ -1,11 +1,12 @@
 ---
-title: "Scalable Maximal Frequent Episode Mining with Desbordante"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.03188
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.03188
 next_step: skim
+priority: low
+slack_ts: '1783569518.348609'
+source: cs.DB - Databases
+status: unread
+title: Scalable Maximal Frequent Episode Mining with Desbordante
 ---
 # Scalable Maximal Frequent Episode Mining with Desbordante
 > 原文: [https://arxiv.org/abs/2607.03188](https://arxiv.org/abs/2607.03188)

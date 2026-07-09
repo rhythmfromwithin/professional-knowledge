@@ -1,11 +1,13 @@
 ---
-title: "Interpretable machine learning predicts Parkinson's disease severity using motion-corrected QSM MRI and multiband multiecho fMRI features"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.02553
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02553
 next_step: skim
+priority: medium
+slack_ts: '1783569513.957639'
+source: cs.CV - Computer Vision
+status: unread
+title: Interpretable machine learning predicts Parkinson's disease severity using
+  motion-corrected QSM MRI and multiband multiecho fMRI features
 ---
 # Interpretable machine learning predicts Parkinson's disease severity using motion-corrected QSM MRI and multiband multiecho fMRI features
 > 原文: [https://arxiv.org/abs/2607.02553](https://arxiv.org/abs/2607.02553)
