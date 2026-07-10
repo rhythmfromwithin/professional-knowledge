@@ -1,11 +1,12 @@
 ---
-title: "The U.S. Mortality Crisis as a Preston Curve Reversal"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.06427
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06427
 next_step: skim
+priority: low
+slack_ts: '1783655935.415419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The U.S. Mortality Crisis as a Preston Curve Reversal
 ---
 # The U.S. Mortality Crisis as a Preston Curve Reversal
 > 原文: [https://arxiv.org/abs/2607.06427](https://arxiv.org/abs/2607.06427)

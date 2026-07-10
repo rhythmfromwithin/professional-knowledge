@@ -1,11 +1,13 @@
 ---
-title: "How Stable Is a PNT Resilience Score? Decision-Instability of Single-Number Resilience Ratings under Framework-Aligned Weighting"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.05415
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05415
 next_step: skim
+priority: low
+slack_ts: '1783655933.447129'
+source: cs.CR - Cryptography and Security
+status: unread
+title: How Stable Is a PNT Resilience Score? Decision-Instability of Single-Number
+  Resilience Ratings under Framework-Aligned Weighting
 ---
 # How Stable Is a PNT Resilience Score? Decision-Instability of Single-Number Resilience Ratings under Framework-Aligned Weighting
 > 原文: [https://arxiv.org/abs/2607.05415](https://arxiv.org/abs/2607.05415)

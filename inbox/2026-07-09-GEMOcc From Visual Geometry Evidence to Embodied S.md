@@ -1,11 +1,12 @@
 ---
-title: "GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.05543
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05543
 next_step: skim
+priority: medium
+slack_ts: '1783655932.702319'
+source: cs.RO - Robotics
+status: unread
+title: 'GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory'
 ---
 # GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory
 > 原文: [https://arxiv.org/abs/2607.05543](https://arxiv.org/abs/2607.05543)

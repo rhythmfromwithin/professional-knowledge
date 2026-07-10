@@ -1,0 +1,14 @@
+---
+title: "Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2607.06596
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages
+> 原文: [https://arxiv.org/abs/2607.06596](https://arxiv.org/abs/2607.06596)
+
+arXiv:2607.06596v1 Announce Type: new
+Abstract: Trusted monitoring is a central defense in AI control: a cheaper trusted model scores an untrusted model's actions for sabotage, and the most suspicious are audited or deferred. Such monitors are evaluated against one or two untrusted models, and the accuracy is reported as a property of the monitor. We ask whether it is partly a property of the pairing. We make the untrusted policy family the controlled axis: we fit a monitor on family A's transcripts, apply it to family B, and decompose the cross-family AUROC into how obvious each family's sabotage is, how capable each monitor is, and the residual own-family advantage after both are removed: the interaction. On code-backdoor transcripts the interaction is positive and survives the dominant confounds: +0.172 (95% CI [+0.158, +0.185]) on four open-weight families on a strict leak-free basis, holding across an eight-family matrix spanning four frontier vendors, blatancy-matched controls, a trained transcript-reading monitor up to 34B parameters, and a second code benchmark. The gap is geometric: each lineage's sabotage occupies a different scoring direction, and rotating the monitor's scoring direction toward the target lineage recovers most of the lost detection while a matched random rotation recovers nothing. At a 1% audit budget under defer-to-trusted, an off-lineage monitor catches 19% of attack attempts where an in-lineage monitor catches 41% at the same audit cost, a +21.7-point gap. Control evaluations should report cross-family transfer matrices: a single-pairing accuracy overstates the safety a monitor delivers against a lineage it was not calibrated on. We give a four-step protocol that acts on the gap, with each step a measured result.

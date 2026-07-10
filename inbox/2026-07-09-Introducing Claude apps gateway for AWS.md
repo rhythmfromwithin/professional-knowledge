@@ -1,11 +1,12 @@
 ---
-title: "Introducing Claude apps gateway for AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/
 next_step: skim
+priority: high
+slack_ts: '1783655933.525609'
+source: AWS Blog
+status: unread
+title: Introducing Claude apps gateway for AWS
 ---
 # Introducing Claude apps gateway for AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)

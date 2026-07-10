@@ -1,11 +1,13 @@
 ---
-title: "Quaternion-Averaging-Based Adaptive Complementary Filter for Pedestrian Dead Reckoning With a Foot-Mounted AHRS"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.05451
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05451
 next_step: skim
+priority: medium
+slack_ts: '1783655934.749789'
+source: cs.RO - Robotics
+status: unread
+title: Quaternion-Averaging-Based Adaptive Complementary Filter for Pedestrian Dead
+  Reckoning With a Foot-Mounted AHRS
 ---
 # Quaternion-Averaging-Based Adaptive Complementary Filter for Pedestrian Dead Reckoning With a Foot-Mounted AHRS
 > 原文: [https://arxiv.org/abs/2607.05451](https://arxiv.org/abs/2607.05451)

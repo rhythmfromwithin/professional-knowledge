@@ -1,11 +1,13 @@
 ---
-title: "Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.05416
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05416
 next_step: skim
+priority: high
+slack_ts: '1783655935.280499'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Text Distance from Nested and Hierarchical Repetitions: A Compression-Based
+  Perspective'
 ---
 # Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective
 > 原文: [https://arxiv.org/abs/2607.05416](https://arxiv.org/abs/2607.05416)

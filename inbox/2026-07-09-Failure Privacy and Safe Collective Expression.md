@@ -1,11 +1,12 @@
 ---
-title: "Failure Privacy and Safe Collective Expression"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.05802
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05802
 next_step: skim
+priority: low
+slack_ts: '1783655932.470589'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Failure Privacy and Safe Collective Expression
 ---
 # Failure Privacy and Safe Collective Expression
 > 原文: [https://arxiv.org/abs/2607.05802](https://arxiv.org/abs/2607.05802)

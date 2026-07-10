@@ -1,11 +1,12 @@
 ---
-title: "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/
 next_step: skim
+priority: high
+slack_ts: '1783655935.718709'
+source: AWS Blog
+status: unread
+title: Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks
 ---
 # Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks
 > 原文: [https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/](https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/)

@@ -1,11 +1,13 @@
 ---
-title: "Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation in Parkinson's Disease"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.05453
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05453
 next_step: skim
+priority: low
+slack_ts: '1783655934.237449'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation
+  in Parkinson's Disease
 ---
 # Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation in Parkinson's Disease
 > 原文: [https://arxiv.org/abs/2607.05453](https://arxiv.org/abs/2607.05453)

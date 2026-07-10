@@ -1,11 +1,13 @@
 ---
-title: "Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.05449
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05449
 next_step: skim
+priority: high
+slack_ts: '1783655932.952829'
+source: cs.LG - Machine Learning
+status: unread
+title: Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone
+  Reconstruction
 ---
 # Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction
 > 原文: [https://arxiv.org/abs/2607.05449](https://arxiv.org/abs/2607.05449)

@@ -1,11 +1,12 @@
 ---
-title: "Learning 4D Geometric Priors for Inference-Efficient World Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.05468
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05468
 next_step: skim
+priority: medium
+slack_ts: '1783655933.903069'
+source: cs.RO - Robotics
+status: unread
+title: Learning 4D Geometric Priors for Inference-Efficient World Action Models
 ---
 # Learning 4D Geometric Priors for Inference-Efficient World Action Models
 > 原文: [https://arxiv.org/abs/2607.05468](https://arxiv.org/abs/2607.05468)

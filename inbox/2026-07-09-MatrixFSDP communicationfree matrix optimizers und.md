@@ -1,11 +1,12 @@
 ---
-title: "MatrixFSDP: communication-free matrix optimizers under ZeRO-3 parameter sharding"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.05895
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05895
 next_step: skim
+priority: medium
+slack_ts: '1783655933.974799'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'MatrixFSDP: communication-free matrix optimizers under ZeRO-3 parameter sharding'
 ---
 # MatrixFSDP: communication-free matrix optimizers under ZeRO-3 parameter sharding
 > 原文: [https://arxiv.org/abs/2607.05895](https://arxiv.org/abs/2607.05895)

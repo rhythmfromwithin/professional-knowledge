@@ -1,11 +1,12 @@
 ---
-title: "TypeGo: An OS Runtime for Embodied Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.05482
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05482
 next_step: skim
+priority: low
+slack_ts: '1783655935.647339'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TypeGo: An OS Runtime for Embodied Agents'
 ---
 # TypeGo: An OS Runtime for Embodied Agents
 > 原文: [https://arxiv.org/abs/2607.05482](https://arxiv.org/abs/2607.05482)

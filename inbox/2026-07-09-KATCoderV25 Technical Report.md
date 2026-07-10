@@ -1,11 +1,12 @@
 ---
-title: "KAT-Coder-V2.5 Technical Report"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.05471
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05471
 next_step: skim
+priority: low
+slack_ts: '1783655933.750389'
+source: cs.SE - Software Engineering
+status: unread
+title: KAT-Coder-V2.5 Technical Report
 ---
 # KAT-Coder-V2.5 Technical Report
 > 原文: [https://arxiv.org/abs/2607.05471](https://arxiv.org/abs/2607.05471)

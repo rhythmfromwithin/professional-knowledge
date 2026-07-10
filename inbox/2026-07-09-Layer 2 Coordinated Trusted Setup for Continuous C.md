@@ -1,11 +1,12 @@
 ---
-title: "Layer 2 Coordinated Trusted Setup for Continuous CRS Generation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.05776
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05776
 next_step: skim
+priority: medium
+slack_ts: '1783655933.828419'
+source: cs.DC - Distributed Computing
+status: unread
+title: Layer 2 Coordinated Trusted Setup for Continuous CRS Generation
 ---
 # Layer 2 Coordinated Trusted Setup for Continuous CRS Generation
 > 原文: [https://arxiv.org/abs/2607.05776](https://arxiv.org/abs/2607.05776)

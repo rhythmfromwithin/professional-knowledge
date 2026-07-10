@@ -1,11 +1,12 @@
 ---
-title: "Scalable Perturbation Learning for Online Self-Supervised Echo State Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.06079
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06079
 next_step: skim
+priority: low
+slack_ts: '1783655934.901209'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Scalable Perturbation Learning for Online Self-Supervised Echo State Networks
 ---
 # Scalable Perturbation Learning for Online Self-Supervised Echo State Networks
 > 原文: [https://arxiv.org/abs/2607.06079](https://arxiv.org/abs/2607.06079)

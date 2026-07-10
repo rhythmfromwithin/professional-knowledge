@@ -1,11 +1,12 @@
 ---
-title: "Higher-Order Certified Robustness for Regression"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.05536
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05536
 next_step: skim
+priority: medium
+slack_ts: '1783655933.266279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Higher-Order Certified Robustness for Regression
 ---
 # Higher-Order Certified Robustness for Regression
 > 原文: [https://arxiv.org/abs/2607.05536](https://arxiv.org/abs/2607.05536)

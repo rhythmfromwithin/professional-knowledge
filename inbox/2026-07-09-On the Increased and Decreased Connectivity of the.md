@@ -1,11 +1,12 @@
 ---
-title: "On the Increased and Decreased Connectivity of the Demented Human Brain"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.05654
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05654
 next_step: skim
+priority: low
+slack_ts: '1783655934.364899'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: On the Increased and Decreased Connectivity of the Demented Human Brain
 ---
 # On the Increased and Decreased Connectivity of the Demented Human Brain
 > 原文: [https://arxiv.org/abs/2607.05654](https://arxiv.org/abs/2607.05654)

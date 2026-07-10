@@ -1,11 +1,13 @@
 ---
-title: "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.05563
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05563
 next_step: skim
+priority: high
+slack_ts: '1783655932.627019'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical
+  IoT Systems and Beyond'
 ---
 # From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond
 > 原文: [https://arxiv.org/abs/2607.05563](https://arxiv.org/abs/2607.05563)

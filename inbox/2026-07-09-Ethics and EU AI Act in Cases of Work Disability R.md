@@ -1,11 +1,13 @@
 ---
-title: "Ethics and EU AI Act in Cases of Work Disability Risk and Alzheimer's Disease Risk Prediction"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.05402
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05402
 next_step: skim
+priority: medium
+slack_ts: '1783655932.283429'
+source: cs.CY - Computers and Society
+status: unread
+title: Ethics and EU AI Act in Cases of Work Disability Risk and Alzheimer's Disease
+  Risk Prediction
 ---
 # Ethics and EU AI Act in Cases of Work Disability Risk and Alzheimer's Disease Risk Prediction
 > 原文: [https://arxiv.org/abs/2607.05402](https://arxiv.org/abs/2607.05402)

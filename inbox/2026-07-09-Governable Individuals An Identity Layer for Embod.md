@@ -1,11 +1,12 @@
 ---
-title: "Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.05463
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05463
 next_step: skim
+priority: low
+slack_ts: '1783655933.115689'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning'
 ---
 # Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning
 > 原文: [https://arxiv.org/abs/2607.05463](https://arxiv.org/abs/2607.05463)

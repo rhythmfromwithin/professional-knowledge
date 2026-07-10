@@ -1,11 +1,13 @@
 ---
-title: "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/
 next_step: skim
+priority: high
+slack_ts: '1783655934.510689'
+source: AWS Blog
+status: unread
+title: 'Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical
+  research'
 ---
 # Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research
 > 原文: [https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/](https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/)

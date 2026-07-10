@@ -1,11 +1,12 @@
 ---
-title: "Prompt-to-Paper: Agentic AI System for Bioinformatics"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.05456
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05456
 next_step: skim
+priority: high
+slack_ts: '1783655934.673119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Prompt-to-Paper: Agentic AI System for Bioinformatics'
 ---
 # Prompt-to-Paper: Agentic AI System for Bioinformatics
 > 原文: [https://arxiv.org/abs/2607.05456](https://arxiv.org/abs/2607.05456)

@@ -1,11 +1,12 @@
 ---
-title: "GeoXplain: On-the-Fly Visual Explanations for Weather Foundation Models"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.05655
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.05655
 next_step: skim
+priority: low
+slack_ts: '1783655932.881039'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'GeoXplain: On-the-Fly Visual Explanations for Weather Foundation Models'
 ---
 # GeoXplain: On-the-Fly Visual Explanations for Weather Foundation Models
 > 原文: [https://arxiv.org/abs/2607.05655](https://arxiv.org/abs/2607.05655)
