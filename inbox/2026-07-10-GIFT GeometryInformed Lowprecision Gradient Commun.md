@@ -1,11 +1,12 @@
 ---
-title: "GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.07494
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07494
 next_step: skim
+priority: medium
+slack_ts: '1783740344.042789'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining'
 ---
 # GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining
 > 原文: [https://arxiv.org/abs/2607.07494](https://arxiv.org/abs/2607.07494)

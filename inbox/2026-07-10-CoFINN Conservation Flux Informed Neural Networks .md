@@ -1,11 +1,13 @@
 ---
-title: "CoFINN: Conservation Flux Informed Neural Networks for Physics Problems Governed by Conservation Laws"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.06587
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06587
 next_step: skim
+priority: medium
+slack_ts: '1783740340.390089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CoFINN: Conservation Flux Informed Neural Networks for Physics Problems Governed
+  by Conservation Laws'
 ---
 # CoFINN: Conservation Flux Informed Neural Networks for Physics Problems Governed by Conservation Laws
 > 原文: [https://arxiv.org/abs/2607.06587](https://arxiv.org/abs/2607.06587)

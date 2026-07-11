@@ -1,11 +1,13 @@
 ---
-title: "RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.06699
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06699
 next_step: skim
+priority: medium
+slack_ts: '1783740351.770149'
+source: cs.RO - Robotics
+status: unread
+title: 'RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning
+  and Evaluation'
 ---
 # RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation
 > 原文: [https://arxiv.org/abs/2607.06699](https://arxiv.org/abs/2607.06699)

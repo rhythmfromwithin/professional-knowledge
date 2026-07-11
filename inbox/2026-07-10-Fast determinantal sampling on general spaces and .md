@@ -1,11 +1,12 @@
 ---
-title: "Fast determinantal sampling on general spaces and diffusion geometry"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.06644
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06644
 next_step: skim
+priority: medium
+slack_ts: '1783740343.037989'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Fast determinantal sampling on general spaces and diffusion geometry
 ---
 # Fast determinantal sampling on general spaces and diffusion geometry
 > 原文: [https://arxiv.org/abs/2607.06644](https://arxiv.org/abs/2607.06644)

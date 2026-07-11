@@ -1,11 +1,12 @@
 ---
-title: "The Joneses Visit an Economics Lab"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.07353
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07353
 next_step: skim
+priority: low
+slack_ts: '1783740354.825999'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Joneses Visit an Economics Lab
 ---
 # The Joneses Visit an Economics Lab
 > 原文: [https://arxiv.org/abs/2607.07353](https://arxiv.org/abs/2607.07353)

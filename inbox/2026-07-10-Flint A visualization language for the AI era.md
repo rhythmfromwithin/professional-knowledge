@@ -1,11 +1,12 @@
 ---
-title: "Flint: A visualization language for the AI era"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/
 next_step: skim
+priority: high
+slack_ts: '1783740343.325059'
+source: Microsoft Research
+status: unread
+title: 'Flint: A visualization language for the AI era'
 ---
 # Flint: A visualization language for the AI era
 > 原文: [https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/)

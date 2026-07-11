@@ -1,11 +1,12 @@
 ---
-title: "Pelican-VLA 0.5: Attending Before Acting Benefits Generalization"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.06655
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06655
 next_step: skim
+priority: medium
+slack_ts: '1783740350.021799'
+source: cs.RO - Robotics
+status: unread
+title: 'Pelican-VLA 0.5: Attending Before Acting Benefits Generalization'
 ---
 # Pelican-VLA 0.5: Attending Before Acting Benefits Generalization
 > 原文: [https://arxiv.org/abs/2607.06655](https://arxiv.org/abs/2607.06655)

@@ -1,11 +1,13 @@
 ---
-title: "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.06720
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06720
 next_step: skim
+priority: high
+slack_ts: '1783740356.503399'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven
+  Reasoning
 ---
 # When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning
 > 原文: [https://arxiv.org/abs/2607.06720](https://arxiv.org/abs/2607.06720)

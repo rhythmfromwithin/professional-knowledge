@@ -1,11 +1,12 @@
 ---
-title: "Reliable and Developer-Aligned Evaluation of Agents for Software Engineering"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.06713
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06713
 next_step: skim
+priority: low
+slack_ts: '1783740351.291689'
+source: cs.SE - Software Engineering
+status: unread
+title: Reliable and Developer-Aligned Evaluation of Agents for Software Engineering
 ---
 # Reliable and Developer-Aligned Evaluation of Agents for Software Engineering
 > 原文: [https://arxiv.org/abs/2607.06713](https://arxiv.org/abs/2607.06713)

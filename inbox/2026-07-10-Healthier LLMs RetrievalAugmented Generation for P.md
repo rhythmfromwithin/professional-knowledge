@@ -1,11 +1,13 @@
 ---
-title: "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.06641
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06641
 next_step: skim
+priority: high
+slack_ts: '1783740345.967629'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Healthier LLMs: Retrieval-Augmented Generation for Public Health Question
+  Answering'
 ---
 # Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering
 > 原文: [https://arxiv.org/abs/2607.06641](https://arxiv.org/abs/2607.06641)

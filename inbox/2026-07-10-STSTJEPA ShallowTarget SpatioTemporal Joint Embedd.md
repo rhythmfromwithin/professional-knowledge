@@ -1,11 +1,13 @@
 ---
-title: "STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.06629
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06629
 next_step: skim
+priority: low
+slack_ts: '1783740352.060919'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture
+  For EEG Self-Supervised Learning'
 ---
 # STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning
 > 原文: [https://arxiv.org/abs/2607.06629](https://arxiv.org/abs/2607.06629)

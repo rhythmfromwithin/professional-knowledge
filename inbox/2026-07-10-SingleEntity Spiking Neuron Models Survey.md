@@ -1,11 +1,12 @@
 ---
-title: "Single-Entity Spiking Neuron Models: Survey"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.07429
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07429
 next_step: skim
+priority: low
+slack_ts: '1783740353.474639'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Single-Entity Spiking Neuron Models: Survey'
 ---
 # Single-Entity Spiking Neuron Models: Survey
 > 原文: [https://arxiv.org/abs/2607.07429](https://arxiv.org/abs/2607.07429)

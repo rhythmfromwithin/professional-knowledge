@@ -1,11 +1,12 @@
 ---
-title: "An Introduction and Tutorial of the Beagle Framework"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.06731
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06731
 next_step: skim
+priority: low
+slack_ts: '1783740337.634399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: An Introduction and Tutorial of the Beagle Framework
 ---
 # An Introduction and Tutorial of the Beagle Framework
 > 原文: [https://arxiv.org/abs/2607.06731](https://arxiv.org/abs/2607.06731)

@@ -1,11 +1,13 @@
 ---
-title: "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.07696
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07696
 next_step: skim
+priority: low
+slack_ts: '1783740339.087989'
+source: cs.DB - Databases
+status: unread
+title: 'Breaking Database Lock-in: Agentic Regeneration of High Performance Storage
+  Readers for Database Bypass'
 ---
 # Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass
 > 原文: [https://arxiv.org/abs/2607.07696](https://arxiv.org/abs/2607.07696)

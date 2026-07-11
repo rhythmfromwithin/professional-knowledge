@@ -1,0 +1,14 @@
+---
+title: "Expressivity and Statistical Trade-offs in Diffusion Policy Learning"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2607.07967
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Expressivity and Statistical Trade-offs in Diffusion Policy Learning
+> 原文: [https://arxiv.org/abs/2607.07967](https://arxiv.org/abs/2607.07967)
+
+arXiv:2607.07967v1 Announce Type: new
+Abstract: Diffusion-based policies have recently emerged as powerful policy parameterizations for reinforcement learning, representing state-conditioned action distributions as terminal laws of diffusion processes with parameterized drifts. This terminal-law representation has shown substantial expressive flexibility in practice, enabling diffusion policies to model complex, multimodal, and highly non-Gaussian action distributions; however, it remains unclear what mathematically drives this expressivity and how to fully exploit it when the policy is learned from finite data. In this paper, we identify the drift Lipschitz budget $K$ as a central quantity governing the expressivity and statistical behavior of diffusion policies. We quantify expressivity through approximation: diffusion policies with $K$-Lipschitz drifts can concentrate near optimal deterministic policies and achieve value approximation error of order $1/K$; moreover, we prove a matching lower bound under nondegenerate diffusion noise. This increased expressivity comes with a statistical cost. When the drift is parameterized by neural networks, increasing $K$ improves approximation but increases statistical complexity. Balancing these two terms yields a finite-sample performance gap of order $\tilde{O}(n^{-2/(m+6)})$ for generic neural-network drifts, and a sharper rate $\tilde{O}(n^{-2/(m+4)})$ for one-sided dissipative drift classes, where $n$ is the sample size and $m$ is the dimension of the state space. Numerical experiments provide empirical evidence for the sample-dependent trade-off in $K$, supporting both theoretical regimes. Our framework also suggests a practical implementation principle: choose the diffusion budget $K$ according to the available sample size, and then select a neural-network architecture with the corresponding fixed Lipschitz coefficient.

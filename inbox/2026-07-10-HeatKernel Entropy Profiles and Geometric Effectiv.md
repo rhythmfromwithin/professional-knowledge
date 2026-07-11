@@ -1,11 +1,13 @@
 ---
-title: "Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.06696
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06696
 next_step: skim
+priority: medium
+slack_ts: '1783740346.254139'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted
+  Measures on Manifolds
 ---
 # Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds
 > 原文: [https://arxiv.org/abs/2607.06696](https://arxiv.org/abs/2607.06696)

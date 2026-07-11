@@ -1,11 +1,14 @@
 ---
-title: "Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.07207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07207
 next_step: skim
+priority: low
+slack_ts: '1783740348.392599'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030
+  -- A quantitative scenario analysis of inference economics, training-cost divergence,
+  and infrastructure solvency
 ---
 # Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency
 > 原文: [https://arxiv.org/abs/2607.07207](https://arxiv.org/abs/2607.07207)

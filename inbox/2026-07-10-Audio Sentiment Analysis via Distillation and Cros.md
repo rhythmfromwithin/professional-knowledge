@@ -1,11 +1,13 @@
 ---
-title: "Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.06611
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06611
 next_step: skim
+priority: high
+slack_ts: '1783740337.905109'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated
+  Multilingual Transcripts
 ---
 # Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts
 > 原文: [https://arxiv.org/abs/2607.06611](https://arxiv.org/abs/2607.06611)

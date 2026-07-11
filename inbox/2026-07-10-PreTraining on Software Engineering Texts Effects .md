@@ -1,11 +1,13 @@
 ---
-title: "Pre-Training on Software Engineering Texts: Effects on Domain Adaptation and General-Language Understanding"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.06613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06613
 next_step: skim
+priority: low
+slack_ts: '1783740350.538159'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Pre-Training on Software Engineering Texts: Effects on Domain Adaptation and
+  General-Language Understanding'
 ---
 # Pre-Training on Software Engineering Texts: Effects on Domain Adaptation and General-Language Understanding
 > 原文: [https://arxiv.org/abs/2607.06613](https://arxiv.org/abs/2607.06613)

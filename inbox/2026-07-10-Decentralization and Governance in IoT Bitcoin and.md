@@ -1,11 +1,12 @@
 ---
-title: "Decentralization and Governance in IoT: Bitcoin and Wikipedia Case"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.06784
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06784
 next_step: skim
+priority: medium
+slack_ts: '1783740340.977939'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Decentralization and Governance in IoT: Bitcoin and Wikipedia Case'
 ---
 # Decentralization and Governance in IoT: Bitcoin and Wikipedia Case
 > 原文: [https://arxiv.org/abs/2607.06784](https://arxiv.org/abs/2607.06784)

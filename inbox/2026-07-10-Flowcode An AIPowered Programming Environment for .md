@@ -1,11 +1,13 @@
 ---
-title: "Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.06721
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06721
 next_step: skim
+priority: low
+slack_ts: '1783740343.569049'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration
+  in Creative Computing Education'
 ---
 # Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 > 原文: [https://arxiv.org/abs/2607.06721](https://arxiv.org/abs/2607.06721)

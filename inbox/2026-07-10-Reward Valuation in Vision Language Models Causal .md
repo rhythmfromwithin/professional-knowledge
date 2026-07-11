@@ -1,11 +1,12 @@
 ---
-title: "Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.06626
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06626
 next_step: skim
+priority: low
+slack_ts: '1783740351.536379'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia'
 ---
 # Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia
 > 原文: [https://arxiv.org/abs/2607.06626](https://arxiv.org/abs/2607.06626)

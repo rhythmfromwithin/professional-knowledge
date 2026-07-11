@@ -1,11 +1,13 @@
 ---
-title: "Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.07175
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07175
 next_step: skim
+priority: low
+slack_ts: '1783740338.629389'
+source: cs.DB - Databases
+status: unread
+title: Benchmark Engineering as a Design Instrument for Heterogeneous Information
+  Systems
 ---
 # Benchmark Engineering as a Design Instrument for Heterogeneous Information Systems
 > 原文: [https://arxiv.org/abs/2607.07175](https://arxiv.org/abs/2607.07175)

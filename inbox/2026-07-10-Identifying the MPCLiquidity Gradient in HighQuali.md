@@ -1,11 +1,12 @@
 ---
-title: "Identifying the MPC-Liquidity Gradient in High-Quality Data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.07055
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07055
 next_step: skim
+priority: low
+slack_ts: '1783740346.714009'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Identifying the MPC-Liquidity Gradient in High-Quality Data
 ---
 # Identifying the MPC-Liquidity Gradient in High-Quality Data
 > 原文: [https://arxiv.org/abs/2607.07055](https://arxiv.org/abs/2607.07055)

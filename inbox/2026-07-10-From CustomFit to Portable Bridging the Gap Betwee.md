@@ -1,11 +1,13 @@
 ---
-title: "From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.07632
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07632
 next_step: skim
+priority: low
+slack_ts: '1783740343.808559'
+source: cs.DB - Databases
+status: unread
+title: 'From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered
+  GPU Query Execution'
 ---
 # From Custom-Fit to Portable: Bridging the Gap Between Synthesized and Engineered GPU Query Execution
 > 原文: [https://arxiv.org/abs/2607.07632](https://arxiv.org/abs/2607.07632)

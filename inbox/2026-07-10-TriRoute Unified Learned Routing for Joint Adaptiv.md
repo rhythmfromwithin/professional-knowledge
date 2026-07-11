@@ -1,11 +1,13 @@
 ---
-title: "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.06601
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06601
 next_step: skim
+priority: high
+slack_ts: '1783740355.339679'
+source: cs.LG - Machine Learning
+status: unread
+title: 'TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and
+  KV-Cache Allocation'
 ---
 # TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation
 > 原文: [https://arxiv.org/abs/2607.06601](https://arxiv.org/abs/2607.06601)

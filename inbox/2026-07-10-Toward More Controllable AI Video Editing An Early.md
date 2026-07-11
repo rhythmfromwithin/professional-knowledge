@@ -1,7 +1,10 @@
 ---
-title: "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss
+slack_ts: '1783740355.055169'
+source: Netflix Tech Blog
+title: 'Toward More Controllable AI Video Editing: An Early Research Exploration at
+  Netflix'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

@@ -1,11 +1,13 @@
 ---
-title: "Evaluating LLM Robustness Under Domain-Specific Prompt Perturbations in Public Health Applications"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.06913
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06913
 next_step: skim
+priority: medium
+slack_ts: '1783740342.263169'
+source: cs.CY - Computers and Society
+status: unread
+title: Evaluating LLM Robustness Under Domain-Specific Prompt Perturbations in Public
+  Health Applications
 ---
 # Evaluating LLM Robustness Under Domain-Specific Prompt Perturbations in Public Health Applications
 > 原文: [https://arxiv.org/abs/2607.06913](https://arxiv.org/abs/2607.06913)

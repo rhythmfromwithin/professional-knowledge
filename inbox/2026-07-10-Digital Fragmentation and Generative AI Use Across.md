@@ -1,11 +1,13 @@
 ---
-title: "Digital Fragmentation and Generative AI Use Across 103 Million Application Events"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.06681
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06681
 next_step: skim
+priority: low
+slack_ts: '1783740341.226959'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Digital Fragmentation and Generative AI Use Across 103 Million Application
+  Events
 ---
 # Digital Fragmentation and Generative AI Use Across 103 Million Application Events
 > 原文: [https://arxiv.org/abs/2607.06681](https://arxiv.org/abs/2607.06681)

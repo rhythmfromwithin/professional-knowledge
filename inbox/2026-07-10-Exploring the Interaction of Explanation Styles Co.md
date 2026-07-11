@@ -1,11 +1,13 @@
 ---
-title: "Exploring the Interaction of Explanation Styles, Context, and Trust of AI Privacy Redaction in AI-mediated Interactions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.06687
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06687
 next_step: skim
+priority: low
+slack_ts: '1783740342.804399'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Exploring the Interaction of Explanation Styles, Context, and Trust of AI Privacy
+  Redaction in AI-mediated Interactions
 ---
 # Exploring the Interaction of Explanation Styles, Context, and Trust of AI Privacy Redaction in AI-mediated Interactions
 > 原文: [https://arxiv.org/abs/2607.06687](https://arxiv.org/abs/2607.06687)

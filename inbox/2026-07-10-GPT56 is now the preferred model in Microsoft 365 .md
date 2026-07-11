@@ -1,11 +1,12 @@
 ---
-title: "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
-source: "OpenAI Blog"
-link: https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 next_step: skim
+priority: high
+slack_ts: '1783740344.613149'
+source: OpenAI Blog
+status: unread
+title: GPT-5.6 is now the preferred model in Microsoft 365 Copilot
 ---
 # GPT-5.6 is now the preferred model in Microsoft 365 Copilot
 > 原文: [https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)

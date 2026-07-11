@@ -1,11 +1,12 @@
 ---
-title: "Modeling Misinformation as a Commons Problem"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.06984
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06984
 next_step: skim
+priority: medium
+slack_ts: '1783740348.906529'
+source: cs.CY - Computers and Society
+status: unread
+title: Modeling Misinformation as a Commons Problem
 ---
 # Modeling Misinformation as a Commons Problem
 > 原文: [https://arxiv.org/abs/2607.06984](https://arxiv.org/abs/2607.06984)

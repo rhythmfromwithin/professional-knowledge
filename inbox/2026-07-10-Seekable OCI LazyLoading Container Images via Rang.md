@@ -1,11 +1,12 @@
 ---
-title: "Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.06868
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06868
 next_step: skim
+priority: medium
+slack_ts: '1783740352.577389'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing'
 ---
 # Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing
 > 原文: [https://arxiv.org/abs/2607.06868](https://arxiv.org/abs/2607.06868)

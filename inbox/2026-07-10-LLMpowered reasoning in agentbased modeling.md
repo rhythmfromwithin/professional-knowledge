@@ -1,11 +1,12 @@
 ---
-title: "LLM-powered reasoning in agent-based modeling"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.06757
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06757
 next_step: skim
+priority: high
+slack_ts: '1783740347.701859'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: LLM-powered reasoning in agent-based modeling
 ---
 # LLM-powered reasoning in agent-based modeling
 > 原文: [https://arxiv.org/abs/2607.06757](https://arxiv.org/abs/2607.06757)

@@ -1,11 +1,12 @@
 ---
-title: "Specification Grounding Drives Test Effectiveness for LLM Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.06636
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06636
 next_step: skim
+priority: low
+slack_ts: '1783740354.342459'
+source: cs.SE - Software Engineering
+status: unread
+title: Specification Grounding Drives Test Effectiveness for LLM Code
 ---
 # Specification Grounding Drives Test Effectiveness for LLM Code
 > 原文: [https://arxiv.org/abs/2607.06636](https://arxiv.org/abs/2607.06636)

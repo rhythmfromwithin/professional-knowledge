@@ -1,11 +1,13 @@
 ---
-title: "Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.06596
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06596
 next_step: skim
+priority: low
+slack_ts: '1783740339.597979'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Calibration-Family Overfit: Why Trusted Sabotage Monitors Don''t Transfer
+  Across Lineages'
 ---
 # Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages
 > 原文: [https://arxiv.org/abs/2607.06596](https://arxiv.org/abs/2607.06596)

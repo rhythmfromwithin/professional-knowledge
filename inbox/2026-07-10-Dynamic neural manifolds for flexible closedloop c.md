@@ -1,11 +1,12 @@
 ---
-title: "Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.07373
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07373
 next_step: skim
+priority: low
+slack_ts: '1783740341.529869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware
 ---
 # Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware
 > 原文: [https://arxiv.org/abs/2607.07373](https://arxiv.org/abs/2607.07373)

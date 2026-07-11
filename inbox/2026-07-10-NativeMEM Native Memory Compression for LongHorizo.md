@@ -1,11 +1,12 @@
 ---
-title: "NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.06678
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06678
 next_step: skim
+priority: medium
+slack_ts: '1783740349.193269'
+source: cs.RO - Robotics
+status: unread
+title: 'NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation'
 ---
 # NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation
 > 原文: [https://arxiv.org/abs/2607.06678](https://arxiv.org/abs/2607.06678)
