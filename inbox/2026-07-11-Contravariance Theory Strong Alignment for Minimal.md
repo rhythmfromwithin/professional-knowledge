@@ -1,11 +1,12 @@
 ---
-title: "Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.08561
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08561
 next_step: skim
+priority: low
+slack_ts: '1783827429.471999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks'
 ---
 # Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks
 > 原文: [https://arxiv.org/abs/2607.08561](https://arxiv.org/abs/2607.08561)

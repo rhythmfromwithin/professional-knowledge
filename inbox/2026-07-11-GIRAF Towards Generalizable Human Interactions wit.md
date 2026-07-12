@@ -1,11 +1,12 @@
 ---
-title: "GIRAF: Towards Generalizable Human Interactions with Articulated Objects"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.07880
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07880
 next_step: skim
+priority: medium
+slack_ts: '1783827430.407119'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GIRAF: Towards Generalizable Human Interactions with Articulated Objects'
 ---
 # GIRAF: Towards Generalizable Human Interactions with Articulated Objects
 > 原文: [https://arxiv.org/abs/2607.07880](https://arxiv.org/abs/2607.07880)

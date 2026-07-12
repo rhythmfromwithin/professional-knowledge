@@ -1,7 +1,9 @@
 ---
-title: "GenPage: Towards End-to-End Generative Homepage Construction at Netflix"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss
+slack_ts: '1783827430.803019'
+source: Netflix Tech Blog
+title: 'GenPage: Towards End-to-End Generative Homepage Construction at Netflix'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

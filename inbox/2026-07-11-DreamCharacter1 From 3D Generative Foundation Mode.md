@@ -1,11 +1,13 @@
 ---
-title: "DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.07817
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07817
 next_step: skim
+priority: medium
+slack_ts: '1783827429.890079'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character
+  Generation'
 ---
 # DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character Generation
 > 原文: [https://arxiv.org/abs/2607.07817](https://arxiv.org/abs/2607.07817)

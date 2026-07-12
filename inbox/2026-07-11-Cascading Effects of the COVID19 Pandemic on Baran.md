@@ -1,11 +1,12 @@
 ---
-title: "Cascading Effects of the COVID-19 Pandemic on Barangays in the Philippines"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.07768
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07768
 next_step: skim
+priority: low
+slack_ts: '1783827429.329429'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Cascading Effects of the COVID-19 Pandemic on Barangays in the Philippines
 ---
 # Cascading Effects of the COVID-19 Pandemic on Barangays in the Philippines
 > 原文: [https://arxiv.org/abs/2607.07768](https://arxiv.org/abs/2607.07768)

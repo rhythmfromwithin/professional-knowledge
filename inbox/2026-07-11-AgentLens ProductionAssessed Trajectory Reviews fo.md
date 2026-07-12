@@ -1,11 +1,12 @@
 ---
-title: "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.06624
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06624
 next_step: skim
+priority: high
+slack_ts: '1783827428.869709'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation'
 ---
 # AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation
 > 原文: [https://arxiv.org/abs/2607.06624](https://arxiv.org/abs/2607.06624)

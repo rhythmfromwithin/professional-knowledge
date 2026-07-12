@@ -1,11 +1,13 @@
 ---
-title: "Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.07830
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07830
 next_step: skim
+priority: medium
+slack_ts: '1783827432.051039'
+source: cs.RO - Robotics
+status: unread
+title: Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme
+  Sloped Terrains
 ---
 # Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains
 > 原文: [https://arxiv.org/abs/2607.07830](https://arxiv.org/abs/2607.07830)

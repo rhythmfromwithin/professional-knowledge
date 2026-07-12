@@ -1,11 +1,12 @@
 ---
-title: "Buffy versus Bella: An archetypometric analysis and comparison"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.07826
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07826
 next_step: skim
+priority: medium
+slack_ts: '1783827429.104609'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Buffy versus Bella: An archetypometric analysis and comparison'
 ---
 # Buffy versus Bella: An archetypometric analysis and comparison
 > 原文: [https://arxiv.org/abs/2607.07826](https://arxiv.org/abs/2607.07826)

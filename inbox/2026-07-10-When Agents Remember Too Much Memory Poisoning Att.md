@@ -1,11 +1,13 @@
 ---
-title: "When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.06595
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06595
 next_step: skim
+priority: low
+slack_ts: '1783827428.236729'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'When Agents Remember Too Much: Memory Poisoning Attacks on Large Language
+  Model Agents'
 ---
 # When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents
 > 原文: [https://arxiv.org/abs/2607.06595](https://arxiv.org/abs/2607.06595)

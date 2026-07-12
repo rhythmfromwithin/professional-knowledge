@@ -1,11 +1,13 @@
 ---
-title: "SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.07737
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07737
 next_step: skim
+priority: medium
+slack_ts: '1783827432.489429'
+source: cs.RO - Robotics
+status: unread
+title: 'SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs --
+  A Framework and Synthetic Proof of Concept'
 ---
 # SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept
 > 原文: [https://arxiv.org/abs/2607.07737](https://arxiv.org/abs/2607.07737)

@@ -1,11 +1,13 @@
 ---
-title: "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/
 next_step: skim
+priority: high
+slack_ts: '1783827430.117349'
+source: AWS Blog
+status: unread
+title: Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model
+  customization
 ---
 # Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization
 > 原文: [https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/](https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/)

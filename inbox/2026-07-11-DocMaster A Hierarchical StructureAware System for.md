@@ -1,11 +1,12 @@
 ---
-title: "DocMaster: A Hierarchical Structure-Aware System for Document Analysis"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.08539
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08539
 next_step: skim
+priority: low
+slack_ts: '1783827429.811329'
+source: cs.DB - Databases
+status: unread
+title: 'DocMaster: A Hierarchical Structure-Aware System for Document Analysis'
 ---
 # DocMaster: A Hierarchical Structure-Aware System for Document Analysis
 > 原文: [https://arxiv.org/abs/2607.08539](https://arxiv.org/abs/2607.08539)

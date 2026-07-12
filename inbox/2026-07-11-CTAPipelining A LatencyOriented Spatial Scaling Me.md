@@ -1,11 +1,12 @@
 ---
-title: "CTA-Pipelining: A Latency-Oriented Spatial Scaling Method for Multi-GPU Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.07862
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07862
 next_step: skim
+priority: medium
+slack_ts: '1783827429.261899'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CTA-Pipelining: A Latency-Oriented Spatial Scaling Method for Multi-GPU Systems'
 ---
 # CTA-Pipelining: A Latency-Oriented Spatial Scaling Method for Multi-GPU Systems
 > 原文: [https://arxiv.org/abs/2607.07862](https://arxiv.org/abs/2607.07862)

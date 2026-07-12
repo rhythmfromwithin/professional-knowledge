@@ -1,11 +1,12 @@
 ---
-title: "LLT: Local Linear Transformer for PDE Operator Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.07718
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07718
 next_step: skim
+priority: high
+slack_ts: '1783827431.591509'
+source: cs.LG - Machine Learning
+status: unread
+title: 'LLT: Local Linear Transformer for PDE Operator Learning'
 ---
 # LLT: Local Linear Transformer for PDE Operator Learning
 > 原文: [https://arxiv.org/abs/2607.07718](https://arxiv.org/abs/2607.07718)

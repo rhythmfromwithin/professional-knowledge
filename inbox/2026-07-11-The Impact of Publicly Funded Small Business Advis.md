@@ -1,11 +1,13 @@
 ---
-title: "The Impact of Publicly Funded Small Business Advisory Services: Firm Take-up and Performance in the United States"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.07849
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07849
 next_step: skim
+priority: low
+slack_ts: '1783827432.978829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Impact of Publicly Funded Small Business Advisory Services: Firm Take-up
+  and Performance in the United States'
 ---
 # The Impact of Publicly Funded Small Business Advisory Services: Firm Take-up and Performance in the United States
 > 原文: [https://arxiv.org/abs/2607.07849](https://arxiv.org/abs/2607.07849)

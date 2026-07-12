@@ -1,11 +1,13 @@
 ---
-title: "From Thesis to Transition: An INSIGHT-Inspired Approach to Co-Designing Industry 5.0 Competency Pathways for Early-Stage Researchers"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.08222
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08222
 next_step: skim
+priority: medium
+slack_ts: '1783827430.335249'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Thesis to Transition: An INSIGHT-Inspired Approach to Co-Designing Industry
+  5.0 Competency Pathways for Early-Stage Researchers'
 ---
 # From Thesis to Transition: An INSIGHT-Inspired Approach to Co-Designing Industry 5.0 Competency Pathways for Early-Stage Researchers
 > 原文: [https://arxiv.org/abs/2607.08222](https://arxiv.org/abs/2607.08222)

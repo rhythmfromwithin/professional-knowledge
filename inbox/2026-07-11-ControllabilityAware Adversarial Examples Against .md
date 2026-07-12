@@ -1,11 +1,13 @@
 ---
-title: "Controllability-Aware Adversarial Examples Against LLM-Based Network Traffic Classifiers"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.07739
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07739
 next_step: skim
+priority: low
+slack_ts: '1783827429.544579'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Controllability-Aware Adversarial Examples Against LLM-Based Network Traffic
+  Classifiers
 ---
 # Controllability-Aware Adversarial Examples Against LLM-Based Network Traffic Classifiers
 > 原文: [https://arxiv.org/abs/2607.07739](https://arxiv.org/abs/2607.07739)

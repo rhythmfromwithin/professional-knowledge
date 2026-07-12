@@ -1,11 +1,13 @@
 ---
-title: "Value of Information under Imprecise Probabilities: Decision-Rule-Specific Values and Fixed-Measure Envelopes on a Credal Set"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.06570
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.06570
 next_step: skim
+priority: medium
+slack_ts: '1783827428.062459'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Value of Information under Imprecise Probabilities: Decision-Rule-Specific
+  Values and Fixed-Measure Envelopes on a Credal Set'
 ---
 # Value of Information under Imprecise Probabilities: Decision-Rule-Specific Values and Fixed-Measure Envelopes on a Credal Set
 > 原文: [https://arxiv.org/abs/2607.06570](https://arxiv.org/abs/2607.06570)

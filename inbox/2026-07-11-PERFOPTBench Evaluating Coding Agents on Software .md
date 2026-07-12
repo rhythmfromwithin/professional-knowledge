@@ -1,11 +1,12 @@
 ---
-title: "PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.07744
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07744
 next_step: skim
+priority: low
+slack_ts: '1783827431.981319'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization'
 ---
 # PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization
 > 原文: [https://arxiv.org/abs/2607.07744](https://arxiv.org/abs/2607.07744)

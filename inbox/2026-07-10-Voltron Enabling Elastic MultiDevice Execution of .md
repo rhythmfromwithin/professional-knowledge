@@ -1,11 +1,13 @@
 ---
-title: "Voltron: Enabling Elastic Multi-Device Execution of LLM Inference for Empowered Edge Intelligence"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.07046
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07046
 next_step: skim
+priority: medium
+slack_ts: '1783827428.152459'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Voltron: Enabling Elastic Multi-Device Execution of LLM Inference for Empowered
+  Edge Intelligence'
 ---
 # Voltron: Enabling Elastic Multi-Device Execution of LLM Inference for Empowered Edge Intelligence
 > 原文: [https://arxiv.org/abs/2607.07046](https://arxiv.org/abs/2607.07046)

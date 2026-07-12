@@ -1,11 +1,12 @@
 ---
-title: "How Deutsche Telekom is rewiring telecommunications with AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/deutsche-telekom
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/deutsche-telekom
 next_step: skim
+priority: high
+slack_ts: '1783827431.219999'
+source: OpenAI Blog
+status: unread
+title: How Deutsche Telekom is rewiring telecommunications with AI
 ---
 # How Deutsche Telekom is rewiring telecommunications with AI
 > 原文: [https://openai.com/index/deutsche-telekom](https://openai.com/index/deutsche-telekom)

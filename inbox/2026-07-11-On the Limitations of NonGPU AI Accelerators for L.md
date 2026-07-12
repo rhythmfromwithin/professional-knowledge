@@ -1,11 +1,13 @@
 ---
-title: "On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.08215
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08215
 next_step: skim
+priority: medium
+slack_ts: '1783827431.902869'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A
+  Field Study of MoE and Multimodal Serving on Huawei Ascend'
 ---
 # On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend
 > 原文: [https://arxiv.org/abs/2607.08215](https://arxiv.org/abs/2607.08215)

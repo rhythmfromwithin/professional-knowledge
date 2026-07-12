@@ -1,11 +1,13 @@
 ---
-title: "Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.07751
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07751
 next_step: skim
+priority: low
+slack_ts: '1783827430.189959'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven
+  Victim Reports Analysis'
 ---
 # Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis
 > 原文: [https://arxiv.org/abs/2607.07751](https://arxiv.org/abs/2607.07751)

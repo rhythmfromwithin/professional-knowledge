@@ -1,11 +1,13 @@
 ---
-title: "Distributionally Faithful Imputation via Positive Semi-Definite Kernel Density Estimation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.07767
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07767
 next_step: skim
+priority: medium
+slack_ts: '1783827429.700369'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Distributionally Faithful Imputation via Positive Semi-Definite Kernel Density
+  Estimation
 ---
 # Distributionally Faithful Imputation via Positive Semi-Definite Kernel Density Estimation
 > 原文: [https://arxiv.org/abs/2607.07767](https://arxiv.org/abs/2607.07767)

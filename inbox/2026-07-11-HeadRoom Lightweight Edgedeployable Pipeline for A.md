@@ -1,11 +1,13 @@
 ---
-title: "HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.08083
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08083
 next_step: skim
+priority: low
+slack_ts: '1783827431.137889'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification
+  Routing'
 ---
 # HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing
 > 原文: [https://arxiv.org/abs/2607.08083](https://arxiv.org/abs/2607.08083)

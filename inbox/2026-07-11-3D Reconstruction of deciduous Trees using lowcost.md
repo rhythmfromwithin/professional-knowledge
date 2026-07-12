@@ -1,11 +1,13 @@
 ---
-title: "3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.07905
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07905
 next_step: skim
+priority: medium
+slack_ts: '1783827428.581179'
+source: cs.CV - Computer Vision
+status: unread
+title: 3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry
+  for Monitoring Shoot Elongation across entire Canopies
 ---
 # 3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies
 > 原文: [https://arxiv.org/abs/2607.07905](https://arxiv.org/abs/2607.07905)

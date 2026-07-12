@@ -1,11 +1,13 @@
 ---
-title: "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.07779
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07779
 next_step: skim
+priority: high
+slack_ts: '1783827430.263649'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Solvers to Research: Large Language Model-Driven Formal Mathematics at
+  the Research Frontier'
 ---
 # From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier
 > 原文: [https://arxiv.org/abs/2607.07779](https://arxiv.org/abs/2607.07779)

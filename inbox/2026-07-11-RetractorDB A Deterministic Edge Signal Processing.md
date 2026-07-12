@@ -1,11 +1,13 @@
 ---
-title: "RetractorDB: A Deterministic Edge Signal Processing Engine Based on Rational Beatty Sequences and Fraenkel's Partition"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.07730
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07730
 next_step: skim
+priority: low
+slack_ts: '1783827432.373339'
+source: cs.DB - Databases
+status: unread
+title: 'RetractorDB: A Deterministic Edge Signal Processing Engine Based on Rational
+  Beatty Sequences and Fraenkel''s Partition'
 ---
 # RetractorDB: A Deterministic Edge Signal Processing Engine Based on Rational Beatty Sequences and Fraenkel's Partition
 > 原文: [https://arxiv.org/abs/2607.07730](https://arxiv.org/abs/2607.07730)

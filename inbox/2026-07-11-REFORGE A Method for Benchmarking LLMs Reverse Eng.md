@@ -1,11 +1,13 @@
 ---
-title: "REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.07738
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07738
 next_step: skim
+priority: low
+slack_ts: '1783827432.201289'
+source: cs.SE - Software Engineering
+status: unread
+title: 'REFORGE: A Method for Benchmarking LLMs'' Reverse Engineering Capabilities
+  in Decompiled Binary Function Naming'
 ---
 # REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming
 > 原文: [https://arxiv.org/abs/2607.07738](https://arxiv.org/abs/2607.07738)
