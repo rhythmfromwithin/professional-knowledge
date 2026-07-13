@@ -1,11 +1,13 @@
 ---
-title: "Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.07717
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07717
 next_step: skim
+priority: high
+slack_ts: '1783913959.031549'
+source: cs.LG - Machine Learning
+status: unread
+title: Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed
+  Chest X-ray Classification
 ---
 # Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification
 > 原文: [https://arxiv.org/abs/2607.07717](https://arxiv.org/abs/2607.07717)

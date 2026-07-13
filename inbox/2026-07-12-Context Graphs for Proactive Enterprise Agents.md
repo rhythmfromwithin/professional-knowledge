@@ -1,11 +1,12 @@
 ---
-title: "Context Graphs for Proactive Enterprise Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.07721
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07721
 next_step: skim
+priority: high
+slack_ts: '1783913960.039779'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Context Graphs for Proactive Enterprise Agents
 ---
 # Context Graphs for Proactive Enterprise Agents
 > 原文: [https://arxiv.org/abs/2607.07721](https://arxiv.org/abs/2607.07721)

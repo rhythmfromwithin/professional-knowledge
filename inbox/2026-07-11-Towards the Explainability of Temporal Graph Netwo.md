@@ -1,11 +1,13 @@
 ---
-title: "Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.07716
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07716
 next_step: skim
+priority: high
+slack_ts: '1783913958.657779'
+source: cs.LG - Machine Learning
+status: unread
+title: Towards the Explainability of Temporal Graph Networks via Memory Backtracking
+  and Topological Attribution
 ---
 # Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution
 > 原文: [https://arxiv.org/abs/2607.07716](https://arxiv.org/abs/2607.07716)

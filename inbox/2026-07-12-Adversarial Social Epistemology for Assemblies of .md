@@ -1,11 +1,13 @@
 ---
-title: "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.07760
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07760
 next_step: skim
+priority: high
+slack_ts: '1783913959.535959'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Adversarial Social Epistemology for Assemblies of Humans and Large Language
+  Models
 ---
 # Adversarial Social Epistemology for Assemblies of Humans and Large Language Models
 > 原文: [https://arxiv.org/abs/2607.07760](https://arxiv.org/abs/2607.07760)

@@ -1,11 +1,13 @@
 ---
-title: "Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.07844
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07844
 next_step: skim
+priority: medium
+slack_ts: '1783913957.972689'
+source: cs.RO - Robotics
+status: unread
+title: 'Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous
+  Driving Motion Planning'
 ---
 # Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning
 > 原文: [https://arxiv.org/abs/2607.07844](https://arxiv.org/abs/2607.07844)

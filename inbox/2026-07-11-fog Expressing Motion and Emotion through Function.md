@@ -1,11 +1,13 @@
 ---
-title: "fog: Expressing Motion and Emotion through Function Composition of AI-Generated Code"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.07952
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07952
 next_step: skim
+priority: low
+slack_ts: '1783913959.107559'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'fog: Expressing Motion and Emotion through Function Composition of AI-Generated
+  Code'
 ---
 # fog: Expressing Motion and Emotion through Function Composition of AI-Generated Code
 > 原文: [https://arxiv.org/abs/2607.07952](https://arxiv.org/abs/2607.07952)

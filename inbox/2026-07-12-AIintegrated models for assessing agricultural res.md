@@ -1,11 +1,12 @@
 ---
-title: "AI-integrated models for assessing agricultural resilience"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.07759
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07759
 next_step: skim
+priority: high
+slack_ts: '1783913959.325709'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: AI-integrated models for assessing agricultural resilience
 ---
 # AI-integrated models for assessing agricultural resilience
 > 原文: [https://arxiv.org/abs/2607.07759](https://arxiv.org/abs/2607.07759)

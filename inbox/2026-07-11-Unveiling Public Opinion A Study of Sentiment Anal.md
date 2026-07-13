@@ -1,11 +1,13 @@
 ---
-title: "Unveiling Public Opinion: A Study of Sentiment Analysis Using LSTM and Traditional Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.07772
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07772
 next_step: skim
+priority: high
+slack_ts: '1783913958.725289'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Unveiling Public Opinion: A Study of Sentiment Analysis Using LSTM and Traditional
+  Models'
 ---
 # Unveiling Public Opinion: A Study of Sentiment Analysis Using LSTM and Traditional Models
 > 原文: [https://arxiv.org/abs/2607.07772](https://arxiv.org/abs/2607.07772)

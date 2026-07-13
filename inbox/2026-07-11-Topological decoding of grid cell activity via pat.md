@@ -1,11 +1,12 @@
 ---
-title: "Topological decoding of grid cell activity via path lifting to covering spaces"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2510.16216
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2510.16216
 next_step: skim
+priority: low
+slack_ts: '1783913958.516439'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Topological decoding of grid cell activity via path lifting to covering spaces
 ---
 # Topological decoding of grid cell activity via path lifting to covering spaces
 > 原文: [https://arxiv.org/abs/2510.16216](https://arxiv.org/abs/2510.16216)

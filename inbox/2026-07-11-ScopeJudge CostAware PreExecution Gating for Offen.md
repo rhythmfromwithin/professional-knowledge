@@ -1,11 +1,12 @@
 ---
-title: "ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.07774
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07774
 next_step: skim
+priority: low
+slack_ts: '1783913957.897819'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents'
 ---
 # ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents
 > 原文: [https://arxiv.org/abs/2607.07774](https://arxiv.org/abs/2607.07774)

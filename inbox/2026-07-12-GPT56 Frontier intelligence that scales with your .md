@@ -1,11 +1,12 @@
 ---
-title: "GPT-5.6: Frontier intelligence that scales with your ambition"
-source: "OpenAI Blog"
-link: https://openai.com/index/gpt-5-6
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gpt-5-6
 next_step: skim
+priority: high
+slack_ts: '1783913960.640139'
+source: OpenAI Blog
+status: unread
+title: 'GPT-5.6: Frontier intelligence that scales with your ambition'
 ---
 # GPT-5.6: Frontier intelligence that scales with your ambition
 > 原文: [https://openai.com/index/gpt-5-6](https://openai.com/index/gpt-5-6)

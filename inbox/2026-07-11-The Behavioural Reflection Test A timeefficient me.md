@@ -1,11 +1,13 @@
 ---
-title: "The Behavioural Reflection Test: A time-efficient measure of reflective reasoning in morally and epistemically charged decisions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.07961
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.07961
 next_step: skim
+priority: low
+slack_ts: '1783913958.363989'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Behavioural Reflection Test: A time-efficient measure of reflective reasoning
+  in morally and epistemically charged decisions'
 ---
 # The Behavioural Reflection Test: A time-efficient measure of reflective reasoning in morally and epistemically charged decisions
 > 原文: [https://arxiv.org/abs/2607.07961](https://arxiv.org/abs/2607.07961)
