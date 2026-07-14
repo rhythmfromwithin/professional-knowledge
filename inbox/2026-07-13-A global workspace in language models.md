@@ -1,11 +1,12 @@
 ---
-title: "A global workspace in language models"
-source: "Anthropic"
-link: https://www.anthropic.com/research/global-workspace
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/global-workspace
 next_step: skim
+priority: high
+slack_ts: '1783998893.055249'
+source: Anthropic
+status: unread
+title: A global workspace in language models
 ---
 # A global workspace in language models
 > 原文: [https://www.anthropic.com/research/global-workspace](https://www.anthropic.com/research/global-workspace)

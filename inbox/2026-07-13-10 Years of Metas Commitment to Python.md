@@ -1,11 +1,12 @@
 ---
-title: "10 Years of Meta’s Commitment to Python"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/
 next_step: skim
+priority: medium
+slack_ts: '1783998892.811379'
+source: Meta Engineering
+status: unread
+title: 10 Years of Meta’s Commitment to Python
 ---
 # 10 Years of Meta’s Commitment to Python
 > 原文: [https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/](https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/)

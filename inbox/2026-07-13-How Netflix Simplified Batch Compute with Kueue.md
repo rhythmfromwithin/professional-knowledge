@@ -1,7 +1,9 @@
 ---
-title: "How Netflix Simplified Batch Compute with Kueue"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss
+slack_ts: '1783998898.376789'
+source: Netflix Tech Blog
+title: How Netflix Simplified Batch Compute with Kueue
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

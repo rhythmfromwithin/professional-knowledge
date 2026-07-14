@@ -1,11 +1,13 @@
 ---
-title: "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/
 next_step: skim
+priority: high
+slack_ts: '1783998893.603049'
+source: AWS Blog
+status: unread
+title: Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation
+  Express mode
 ---
 # Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode
 > 原文: [https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/](https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/)

@@ -1,11 +1,13 @@
 ---
-title: "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1783998894.619159'
+source: AWS Blog
+status: unread
+title: Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock
+  AgentCore
 ---
 # Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)

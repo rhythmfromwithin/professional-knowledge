@@ -1,11 +1,13 @@
 ---
-title: "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/
 next_step: skim
+priority: high
+slack_ts: '1783998900.839119'
+source: AWS Blog
+status: unread
+title: Real-time dental image verification with Amazon SageMaker AI at Henry Schein
+  One
 ---
 # Real-time dental image verification with Amazon SageMaker AI at Henry Schein One
 > 原文: [https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)

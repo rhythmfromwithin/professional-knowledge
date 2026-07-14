@@ -1,11 +1,13 @@
 ---
-title: "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/
 next_step: skim
+priority: medium
+slack_ts: '1783998900.339689'
+source: Meta Engineering
+status: unread
+title: 'Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification
+  Case Study'
 ---
 # Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study
 > 原文: [https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/](https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/)
