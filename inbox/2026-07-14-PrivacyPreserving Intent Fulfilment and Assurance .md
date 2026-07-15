@@ -1,11 +1,12 @@
 ---
-title: "Privacy-Preserving Intent Fulfilment and Assurance for 6G RAN"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.08809
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08809
 next_step: skim
+priority: low
+slack_ts: '1784085266.231189'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Privacy-Preserving Intent Fulfilment and Assurance for 6G RAN
 ---
 # Privacy-Preserving Intent Fulfilment and Assurance for 6G RAN
 > 原文: [https://arxiv.org/abs/2607.08809](https://arxiv.org/abs/2607.08809)

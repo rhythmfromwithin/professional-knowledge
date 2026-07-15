@@ -1,11 +1,12 @@
 ---
-title: "Ever since Ellsberg"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.09355
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09355
 next_step: skim
+priority: low
+slack_ts: '1784085262.536979'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Ever since Ellsberg
 ---
 # Ever since Ellsberg
 > 原文: [https://arxiv.org/abs/2607.09355](https://arxiv.org/abs/2607.09355)

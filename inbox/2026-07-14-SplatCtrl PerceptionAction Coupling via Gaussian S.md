@@ -1,11 +1,13 @@
 ---
-title: "SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.08948
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08948
 next_step: skim
+priority: medium
+slack_ts: '1784085267.266029'
+source: cs.RO - Robotics
+status: unread
+title: 'SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and
+  Reactive Robot Control'
 ---
 # SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control
 > 原文: [https://arxiv.org/abs/2607.08948](https://arxiv.org/abs/2607.08948)

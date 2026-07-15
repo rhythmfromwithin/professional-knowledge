@@ -1,11 +1,13 @@
 ---
-title: "Micro-level AI Feedback Features and Student Responses in Consecutive LLM Tutoring Interactions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.08952
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08952
 next_step: skim
+priority: low
+slack_ts: '1784085265.497689'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Micro-level AI Feedback Features and Student Responses in Consecutive LLM Tutoring
+  Interactions
 ---
 # Micro-level AI Feedback Features and Student Responses in Consecutive LLM Tutoring Interactions
 > 原文: [https://arxiv.org/abs/2607.08952](https://arxiv.org/abs/2607.08952)

@@ -1,11 +1,12 @@
 ---
-title: "Distributed Symmetry Breaking on Hyperbolic Random Graphs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.09170
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09170
 next_step: skim
+priority: medium
+slack_ts: '1784085262.263469'
+source: cs.DC - Distributed Computing
+status: unread
+title: Distributed Symmetry Breaking on Hyperbolic Random Graphs
 ---
 # Distributed Symmetry Breaking on Hyperbolic Random Graphs
 > 原文: [https://arxiv.org/abs/2607.09170](https://arxiv.org/abs/2607.09170)

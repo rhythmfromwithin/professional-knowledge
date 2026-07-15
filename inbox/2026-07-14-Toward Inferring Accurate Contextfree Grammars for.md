@@ -1,11 +1,13 @@
 ---
-title: "Toward Inferring Accurate Context-free Grammars for Big Languages in a Black-box Setting"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.08959
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08959
 next_step: skim
+priority: low
+slack_ts: '1784085268.036979'
+source: cs.SE - Software Engineering
+status: unread
+title: Toward Inferring Accurate Context-free Grammars for Big Languages in a Black-box
+  Setting
 ---
 # Toward Inferring Accurate Context-free Grammars for Big Languages in a Black-box Setting
 > 原文: [https://arxiv.org/abs/2607.08959](https://arxiv.org/abs/2607.08959)

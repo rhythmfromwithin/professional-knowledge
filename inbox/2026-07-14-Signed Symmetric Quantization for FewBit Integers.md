@@ -1,11 +1,12 @@
 ---
-title: "Signed Symmetric Quantization for Few-Bit Integers"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.08779
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08779
 next_step: skim
+priority: high
+slack_ts: '1784085266.888499'
+source: cs.LG - Machine Learning
+status: unread
+title: Signed Symmetric Quantization for Few-Bit Integers
 ---
 # Signed Symmetric Quantization for Few-Bit Integers
 > 原文: [https://arxiv.org/abs/2607.08779](https://arxiv.org/abs/2607.08779)

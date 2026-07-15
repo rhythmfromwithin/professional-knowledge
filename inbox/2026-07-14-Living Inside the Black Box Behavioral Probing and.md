@@ -1,11 +1,13 @@
 ---
-title: "Living Inside the Black Box: Behavioral Probing and Adaptation in Mandatory Wearable Sensing"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.09009
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09009
 next_step: skim
+priority: low
+slack_ts: '1784085265.250559'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Living Inside the Black Box: Behavioral Probing and Adaptation in Mandatory
+  Wearable Sensing'
 ---
 # Living Inside the Black Box: Behavioral Probing and Adaptation in Mandatory Wearable Sensing
 > 原文: [https://arxiv.org/abs/2607.09009](https://arxiv.org/abs/2607.09009)

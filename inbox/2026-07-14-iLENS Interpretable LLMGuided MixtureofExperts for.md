@@ -1,11 +1,13 @@
 ---
-title: "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.08778
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08778
 next_step: skim
+priority: high
+slack_ts: '1784085268.567289'
+source: cs.LG - Machine Learning
+status: unread
+title: 'iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival
+  Analysis'
 ---
 # iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis
 > 原文: [https://arxiv.org/abs/2607.08778](https://arxiv.org/abs/2607.08778)

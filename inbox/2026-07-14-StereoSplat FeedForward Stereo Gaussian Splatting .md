@@ -1,11 +1,13 @@
 ---
-title: "StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.08808
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08808
 next_step: skim
+priority: medium
+slack_ts: '1784085267.545679'
+source: cs.CV - Computer Vision
+status: unread
+title: 'StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted
+  Progressive Inference'
 ---
 # StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference
 > 原文: [https://arxiv.org/abs/2607.08808](https://arxiv.org/abs/2607.08808)

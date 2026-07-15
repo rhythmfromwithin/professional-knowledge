@@ -1,11 +1,13 @@
 ---
-title: "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.08877
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08877
 next_step: skim
+priority: medium
+slack_ts: '1784085263.120479'
+source: cs.RO - Robotics
+status: unread
+title: 'FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent
+  Space'
 ---
 # FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space
 > 原文: [https://arxiv.org/abs/2607.08877](https://arxiv.org/abs/2607.08877)

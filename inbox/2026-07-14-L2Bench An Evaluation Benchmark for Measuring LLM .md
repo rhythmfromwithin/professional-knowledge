@@ -1,11 +1,13 @@
 ---
-title: "L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.08842
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08842
 next_step: skim
+priority: medium
+slack_ts: '1784085264.997499'
+source: cs.CY - Computers and Society
+status: unread
+title: 'L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second
+  Language Education'
 ---
 # L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education
 > 原文: [https://arxiv.org/abs/2607.08842](https://arxiv.org/abs/2607.08842)

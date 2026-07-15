@@ -1,11 +1,12 @@
 ---
-title: "Influence Diagnostics in High-dimensional M-estimation: Precise Asymptotics"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.09250
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09250
 next_step: skim
+priority: medium
+slack_ts: '1784085264.172929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Influence Diagnostics in High-dimensional M-estimation: Precise Asymptotics'
 ---
 # Influence Diagnostics in High-dimensional M-estimation: Precise Asymptotics
 > 原文: [https://arxiv.org/abs/2607.09250](https://arxiv.org/abs/2607.09250)

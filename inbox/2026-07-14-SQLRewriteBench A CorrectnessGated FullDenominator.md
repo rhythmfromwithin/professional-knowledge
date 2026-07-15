@@ -1,11 +1,13 @@
 ---
-title: "SQL-RewriteBench: A Correctness-Gated, Full-Denominator Benchmark for Statement-Level SQL Rewriting [Experiment,Analysis & Benchmark]"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.09251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09251
 next_step: skim
+priority: low
+slack_ts: '1784085266.494719'
+source: cs.DB - Databases
+status: unread
+title: 'SQL-RewriteBench: A Correctness-Gated, Full-Denominator Benchmark for Statement-Level
+  SQL Rewriting [Experiment,Analysis & Benchmark]'
 ---
 # SQL-RewriteBench: A Correctness-Gated, Full-Denominator Benchmark for Statement-Level SQL Rewriting [Experiment,Analysis & Benchmark]
 > 原文: [https://arxiv.org/abs/2607.09251](https://arxiv.org/abs/2607.09251)

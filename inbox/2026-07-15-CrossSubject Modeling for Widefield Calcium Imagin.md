@@ -1,0 +1,14 @@
+---
+title: "Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2607.09754
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization
+> 原文: [https://arxiv.org/abs/2607.09754](https://arxiv.org/abs/2607.09754)
+
+arXiv:2607.09754v1 Announce Type: new
+Abstract: Large-scale, multi-subject widefield calcium imaging provides unprecedented access to brain-wide cortical dynamics. However, the high dimensionality, complex spatiotemporal structure, and substantial task-irrelevant activity in widefield recordings have largely restricted modeling efforts to single-session analyses, limiting scalability and generalization. While multi-subject pretrained models have been explored for some neural modalities, multi-subject models for widefield calcium imaging have not yet been demonstrated; further, subject-invariant zero-shot behavior decoding remains elusive for multi-subject models across neural modalities more broadly. As a first step toward foundation modeling of widefield data, we introduce WiCAT, a multi-subject model that leverages self-supervised pretraining to both outperform single-session models and enable zero-shot behavior decoding on unseen subjects. WiCAT introduces an atlas-grounded tokenization scheme without session-specific components and learns globally shared spatiotemporal representations. Across multiple widefield datasets, the pretrained model supports lightweight downstream decoding, transfers across subjects, tasks, and datasets, and outperforms baseline models. Notably, the model also achieves robust zero-shot continuous behavior decoding and left-out brain region reconstruction on unseen subjects.

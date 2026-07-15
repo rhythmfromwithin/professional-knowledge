@@ -1,11 +1,13 @@
 ---
-title: "Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.08839
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08839
 next_step: skim
+priority: medium
+slack_ts: '1784085265.628549'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs
+  Through Probing'
 ---
 # Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing
 > 原文: [https://arxiv.org/abs/2607.08839](https://arxiv.org/abs/2607.08839)

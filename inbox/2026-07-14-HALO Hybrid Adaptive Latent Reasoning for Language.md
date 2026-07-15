@@ -1,11 +1,12 @@
 ---
-title: "HALO: Hybrid Adaptive Latent Reasoning for Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.08775
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08775
 next_step: skim
+priority: high
+slack_ts: '1784085263.926649'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'HALO: Hybrid Adaptive Latent Reasoning for Language Models'
 ---
 # HALO: Hybrid Adaptive Latent Reasoning for Language Models
 > 原文: [https://arxiv.org/abs/2607.08775](https://arxiv.org/abs/2607.08775)

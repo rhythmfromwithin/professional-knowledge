@@ -1,11 +1,13 @@
 ---
-title: "Structural Brain Predictors of Visual Attention Gradient Modulated by Trait Anxiety"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.09278
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09278
 next_step: skim
+priority: low
+slack_ts: '1784085267.672499'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Structural Brain Predictors of Visual Attention Gradient Modulated by Trait
+  Anxiety
 ---
 # Structural Brain Predictors of Visual Attention Gradient Modulated by Trait Anxiety
 > 原文: [https://arxiv.org/abs/2607.09278](https://arxiv.org/abs/2607.09278)

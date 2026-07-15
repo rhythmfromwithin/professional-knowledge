@@ -1,11 +1,12 @@
 ---
-title: "Experimental Evidence on the Learning Impact of Generative AI"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.08849
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08849
 next_step: skim
+priority: low
+slack_ts: '1784085262.852299'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Experimental Evidence on the Learning Impact of Generative AI
 ---
 # Experimental Evidence on the Learning Impact of Generative AI
 > 原文: [https://arxiv.org/abs/2607.08849](https://arxiv.org/abs/2607.08849)

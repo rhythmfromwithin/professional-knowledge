@@ -1,11 +1,13 @@
 ---
-title: "Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling Measure for EEG Connectivity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.08855
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08855
 next_step: skim
+priority: low
+slack_ts: '1784085267.135429'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling
+  Measure for EEG Connectivity'
 ---
 # Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling Measure for EEG Connectivity
 > 原文: [https://arxiv.org/abs/2607.08855](https://arxiv.org/abs/2607.08855)

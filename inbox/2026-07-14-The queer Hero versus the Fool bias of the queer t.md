@@ -1,11 +1,13 @@
 ---
-title: "The queer Hero versus the Fool bias of the queer trait: An archetypometric analysis of the collective portrayal of queerness in fictional stories"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.08859
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08859
 next_step: skim
+priority: medium
+slack_ts: '1784085267.915289'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The queer Hero versus the Fool bias of the queer trait: An archetypometric
+  analysis of the collective portrayal of queerness in fictional stories'
 ---
 # The queer Hero versus the Fool bias of the queer trait: An archetypometric analysis of the collective portrayal of queerness in fictional stories
 > 原文: [https://arxiv.org/abs/2607.08859](https://arxiv.org/abs/2607.08859)

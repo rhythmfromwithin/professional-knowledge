@@ -1,11 +1,14 @@
 ---
-title: "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.09662
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09662
 next_step: skim
+priority: low
+slack_ts: '1784085265.988379'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic
+  Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal
+  Synthesis'
 ---
 # PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis
 > 原文: [https://arxiv.org/abs/2607.09662](https://arxiv.org/abs/2607.09662)

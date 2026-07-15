@@ -1,11 +1,13 @@
 ---
-title: "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms."
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
 next_step: skim
+priority: high
+slack_ts: '1784085265.867369'
+source: Google AI Blog
+status: unread
+title: New York City educators and industry leaders gathered at Google’s offices to
+  shape the future of AI in classrooms.
 ---
 # New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.
 > 原文: [https://blog.google/products-and-platforms/products/education/nyc-ai-summit/](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/)

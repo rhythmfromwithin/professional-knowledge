@@ -1,11 +1,12 @@
 ---
-title: "Interval Certifications for Multilayered Perceptrons via Lattice Traversal"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.08773
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08773
 next_step: skim
+priority: high
+slack_ts: '1784085264.300449'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Interval Certifications for Multilayered Perceptrons via Lattice Traversal
 ---
 # Interval Certifications for Multilayered Perceptrons via Lattice Traversal
 > 原文: [https://arxiv.org/abs/2607.08773](https://arxiv.org/abs/2607.08773)

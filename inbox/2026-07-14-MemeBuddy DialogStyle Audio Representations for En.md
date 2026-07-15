@@ -1,11 +1,13 @@
 ---
-title: "MemeBuddy: Dialog-Style Audio Representations for Engaging Non-Visual Meme Experiences"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.08912
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.08912
 next_step: skim
+priority: low
+slack_ts: '1784085265.372369'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'MemeBuddy: Dialog-Style Audio Representations for Engaging Non-Visual Meme
+  Experiences'
 ---
 # MemeBuddy: Dialog-Style Audio Representations for Engaging Non-Visual Meme Experiences
 > 原文: [https://arxiv.org/abs/2607.08912](https://arxiv.org/abs/2607.08912)

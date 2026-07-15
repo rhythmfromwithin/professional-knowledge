@@ -1,11 +1,13 @@
 ---
-title: "Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.09025
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09025
 next_step: skim
+priority: low
+slack_ts: '1784085262.675829'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation
+  to Cumulative Discovery Systems'
 ---
 # Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems
 > 原文: [https://arxiv.org/abs/2607.09025](https://arxiv.org/abs/2607.09025)
