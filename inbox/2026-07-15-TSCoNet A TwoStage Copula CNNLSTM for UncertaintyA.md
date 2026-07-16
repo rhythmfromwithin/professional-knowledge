@@ -1,11 +1,13 @@
 ---
-title: "TSCoNet: A Two-Stage Copula CNN-LSTM for Uncertainty-Aware Spatio-Temporal Forecasting"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.10410
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10410
 next_step: skim
+priority: medium
+slack_ts: '1784172054.564759'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'TSCoNet: A Two-Stage Copula CNN-LSTM for Uncertainty-Aware Spatio-Temporal
+  Forecasting'
 ---
 # TSCoNet: A Two-Stage Copula CNN-LSTM for Uncertainty-Aware Spatio-Temporal Forecasting
 > 原文: [https://arxiv.org/abs/2607.10410](https://arxiv.org/abs/2607.10410)

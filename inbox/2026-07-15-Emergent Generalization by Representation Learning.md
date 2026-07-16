@@ -1,11 +1,12 @@
 ---
-title: "Emergent Generalization by Representation Learning in Artificial Neural Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.10430
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10430
 next_step: skim
+priority: low
+slack_ts: '1784172046.029719'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Emergent Generalization by Representation Learning in Artificial Neural Networks
 ---
 # Emergent Generalization by Representation Learning in Artificial Neural Networks
 > 原文: [https://arxiv.org/abs/2607.10430](https://arxiv.org/abs/2607.10430)

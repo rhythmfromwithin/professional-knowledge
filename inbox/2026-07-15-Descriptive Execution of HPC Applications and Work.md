@@ -1,11 +1,12 @@
 ---
-title: "Descriptive Execution of HPC Applications and Workflows"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.10081
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10081
 next_step: skim
+priority: medium
+slack_ts: '1784172045.122819'
+source: cs.DC - Distributed Computing
+status: unread
+title: Descriptive Execution of HPC Applications and Workflows
 ---
 # Descriptive Execution of HPC Applications and Workflows
 > 原文: [https://arxiv.org/abs/2607.10081](https://arxiv.org/abs/2607.10081)

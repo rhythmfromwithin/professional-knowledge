@@ -1,11 +1,13 @@
 ---
-title: "Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.09754
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09754
 next_step: skim
+priority: medium
+slack_ts: '1784172044.968209'
+source: cs.CV - Computer Vision
+status: unread
+title: Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal
+  Tokenization
 ---
 # Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization
 > 原文: [https://arxiv.org/abs/2607.09754](https://arxiv.org/abs/2607.09754)

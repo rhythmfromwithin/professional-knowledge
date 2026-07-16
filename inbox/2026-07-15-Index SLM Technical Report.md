@@ -1,11 +1,12 @@
 ---
-title: "Index SLM Technical Report"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.09885
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09885
 next_step: skim
+priority: high
+slack_ts: '1784172049.937379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Index SLM Technical Report
 ---
 # Index SLM Technical Report
 > 原文: [https://arxiv.org/abs/2607.09885](https://arxiv.org/abs/2607.09885)

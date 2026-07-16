@@ -1,11 +1,12 @@
 ---
-title: "How to manage AI investments in the agentic era"
-source: "OpenAI Blog"
-link: https://openai.com/index/managing-ai-investments-in-agentic-era
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/managing-ai-investments-in-agentic-era
 next_step: skim
+priority: high
+slack_ts: '1784172049.783369'
+source: OpenAI Blog
+status: unread
+title: How to manage AI investments in the agentic era
 ---
 # How to manage AI investments in the agentic era
 > 原文: [https://openai.com/index/managing-ai-investments-in-agentic-era](https://openai.com/index/managing-ai-investments-in-agentic-era)

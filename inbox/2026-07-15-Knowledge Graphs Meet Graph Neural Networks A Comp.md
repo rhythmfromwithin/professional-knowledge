@@ -1,11 +1,12 @@
 ---
-title: "Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.09666
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09666
 next_step: skim
+priority: high
+slack_ts: '1784172051.025979'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey'
 ---
 # Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey
 > 原文: [https://arxiv.org/abs/2607.09666](https://arxiv.org/abs/2607.09666)

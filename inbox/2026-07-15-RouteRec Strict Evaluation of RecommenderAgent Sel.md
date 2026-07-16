@@ -1,11 +1,12 @@
 ---
-title: "RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.09908
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09908
 next_step: skim
+priority: high
+slack_ts: '1784172053.644199'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation'
 ---
 # RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation
 > 原文: [https://arxiv.org/abs/2607.09908](https://arxiv.org/abs/2607.09908)

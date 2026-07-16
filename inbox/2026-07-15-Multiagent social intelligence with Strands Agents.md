@@ -1,11 +1,12 @@
 ---
-title: "Multi-agent social intelligence with Strands Agents and Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1784172052.401619'
+source: AWS Blog
+status: unread
+title: Multi-agent social intelligence with Strands Agents and Amazon Bedrock
 ---
 # Multi-agent social intelligence with Strands Agents and Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/)

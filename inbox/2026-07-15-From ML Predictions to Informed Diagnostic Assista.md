@@ -1,11 +1,13 @@
 ---
-title: "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.09664
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09664
 next_step: skim
+priority: high
+slack_ts: '1784172047.268929'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model
+  of Argumentation
 ---
 # From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation
 > 原文: [https://arxiv.org/abs/2607.09664](https://arxiv.org/abs/2607.09664)

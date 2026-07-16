@@ -1,11 +1,12 @@
 ---
-title: "Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.10931
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10931
 next_step: skim
+priority: low
+slack_ts: '1784172046.815409'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding
 ---
 # Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding
 > 原文: [https://arxiv.org/abs/2607.10931](https://arxiv.org/abs/2607.10931)

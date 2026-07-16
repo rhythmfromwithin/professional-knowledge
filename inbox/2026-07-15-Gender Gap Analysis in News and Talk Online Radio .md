@@ -1,11 +1,12 @@
 ---
-title: "Gender Gap Analysis in News and Talk Online Radio Broadcast"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.09675
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09675
 next_step: skim
+priority: medium
+slack_ts: '1784172047.952789'
+source: cs.CY - Computers and Society
+status: unread
+title: Gender Gap Analysis in News and Talk Online Radio Broadcast
 ---
 # Gender Gap Analysis in News and Talk Online Radio Broadcast
 > 原文: [https://arxiv.org/abs/2607.09675](https://arxiv.org/abs/2607.09675)

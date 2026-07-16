@@ -1,11 +1,12 @@
 ---
-title: "Political Power in International Trade"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.09990
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09990
 next_step: skim
+priority: low
+slack_ts: '1784172052.557079'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Political Power in International Trade
 ---
 # Political Power in International Trade
 > 原文: [https://arxiv.org/abs/2607.09990](https://arxiv.org/abs/2607.09990)

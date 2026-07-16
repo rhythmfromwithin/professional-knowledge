@@ -1,11 +1,13 @@
 ---
-title: "AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.09682
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09682
 next_step: skim
+priority: high
+slack_ts: '1784172042.880109'
+source: cs.LG - Machine Learning
+status: unread
+title: 'AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted
+  and Data-Transformation Workflows'
 ---
 # AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows
 > 原文: [https://arxiv.org/abs/2607.09682](https://arxiv.org/abs/2607.09682)

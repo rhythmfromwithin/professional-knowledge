@@ -1,11 +1,13 @@
 ---
-title: "EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.09701
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09701
 next_step: skim
+priority: medium
+slack_ts: '1784172045.810959'
+source: cs.RO - Robotics
+status: unread
+title: 'EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from
+  Egocentric Videos'
 ---
 # EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos
 > 原文: [https://arxiv.org/abs/2607.09701](https://arxiv.org/abs/2607.09701)

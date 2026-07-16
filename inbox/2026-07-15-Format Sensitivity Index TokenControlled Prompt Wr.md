@@ -1,11 +1,13 @@
 ---
-title: "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.09665
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09665
 next_step: skim
+priority: high
+slack_ts: '1784172047.087259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema
+  Compliance in LLM Benchmarking'
 ---
 # Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking
 > 原文: [https://arxiv.org/abs/2607.09665](https://arxiv.org/abs/2607.09665)

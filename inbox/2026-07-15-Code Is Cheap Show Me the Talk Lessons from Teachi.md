@@ -1,11 +1,5 @@
 ---
-title: ""Code Is Cheap. Show Me the Talk.": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.09938
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1784172044.213069'
 ---
 # "Code Is Cheap. Show Me the Talk.": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course
 > 原文: [https://arxiv.org/abs/2607.09938](https://arxiv.org/abs/2607.09938)

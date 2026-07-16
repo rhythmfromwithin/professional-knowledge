@@ -1,11 +1,13 @@
 ---
-title: "Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.11065
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11065
 next_step: skim
+priority: low
+slack_ts: '1784172045.635289'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue
+  Detection
 ---
 # Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection
 > 原文: [https://arxiv.org/abs/2607.11065](https://arxiv.org/abs/2607.11065)

@@ -1,11 +1,12 @@
 ---
-title: "Position: Every Ground Truth is a Human Construction, not an Objective Truth"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.09668
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09668
 next_step: skim
+priority: high
+slack_ts: '1784172052.733939'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Position: Every Ground Truth is a Human Construction, not an Objective Truth'
 ---
 # Position: Every Ground Truth is a Human Construction, not an Objective Truth
 > 原文: [https://arxiv.org/abs/2607.09668](https://arxiv.org/abs/2607.09668)

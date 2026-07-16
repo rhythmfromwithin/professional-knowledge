@@ -1,11 +1,13 @@
 ---
-title: "Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.10508
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10508
 next_step: skim
+priority: low
+slack_ts: '1784172044.554469'
+source: cs.DB - Databases
+status: unread
+title: 'Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable,
+  Non-Wasteful, Transparent, and Collaborative Research [Vision]'
 ---
 # Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]
 > 原文: [https://arxiv.org/abs/2607.10508](https://arxiv.org/abs/2607.10508)

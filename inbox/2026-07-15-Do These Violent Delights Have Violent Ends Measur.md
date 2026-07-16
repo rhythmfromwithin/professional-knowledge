@@ -1,11 +1,13 @@
 ---
-title: "Do These Violent Delights Have Violent Ends? Measuring the Post-Merge Fate of Agentic Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.09902
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09902
 next_step: skim
+priority: low
+slack_ts: '1784172045.476829'
+source: cs.SE - Software Engineering
+status: unread
+title: Do These Violent Delights Have Violent Ends? Measuring the Post-Merge Fate
+  of Agentic Code
 ---
 # Do These Violent Delights Have Violent Ends? Measuring the Post-Merge Fate of Agentic Code
 > 原文: [https://arxiv.org/abs/2607.09902](https://arxiv.org/abs/2607.09902)

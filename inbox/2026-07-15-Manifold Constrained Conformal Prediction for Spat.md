@@ -1,11 +1,12 @@
 ---
-title: "Manifold Constrained Conformal Prediction for Spatial Events"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.10008
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10008
 next_step: skim
+priority: medium
+slack_ts: '1784172051.885529'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Manifold Constrained Conformal Prediction for Spatial Events
 ---
 # Manifold Constrained Conformal Prediction for Spatial Events
 > 原文: [https://arxiv.org/abs/2607.10008](https://arxiv.org/abs/2607.10008)

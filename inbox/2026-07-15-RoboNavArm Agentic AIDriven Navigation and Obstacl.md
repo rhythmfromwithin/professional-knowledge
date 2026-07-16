@@ -1,11 +1,13 @@
 ---
-title: "RoboNav-Arm: Agentic AI-Driven Navigation and Obstacle Avoidance for Robotic Manipulator in Cluttered Environments"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.09716
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09716
 next_step: skim
+priority: medium
+slack_ts: '1784172053.464069'
+source: cs.RO - Robotics
+status: unread
+title: 'RoboNav-Arm: Agentic AI-Driven Navigation and Obstacle Avoidance for Robotic
+  Manipulator in Cluttered Environments'
 ---
 # RoboNav-Arm: Agentic AI-Driven Navigation and Obstacle Avoidance for Robotic Manipulator in Cluttered Environments
 > 原文: [https://arxiv.org/abs/2607.09716](https://arxiv.org/abs/2607.09716)

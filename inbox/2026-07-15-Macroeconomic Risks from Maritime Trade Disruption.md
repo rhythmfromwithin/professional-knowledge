@@ -1,11 +1,12 @@
 ---
-title: "Macroeconomic Risks from Maritime Trade Disruptions"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.09951
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09951
 next_step: skim
+priority: low
+slack_ts: '1784172051.714609'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Macroeconomic Risks from Maritime Trade Disruptions
 ---
 # Macroeconomic Risks from Maritime Trade Disruptions
 > 原文: [https://arxiv.org/abs/2607.09951](https://arxiv.org/abs/2607.09951)

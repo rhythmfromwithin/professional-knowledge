@@ -1,11 +1,12 @@
 ---
-title: "Learning the Brain's Dynamics as a Port-Hamiltonian System"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.10439
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10439
 next_step: skim
+priority: low
+slack_ts: '1784172051.190389'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Learning the Brain's Dynamics as a Port-Hamiltonian System
 ---
 # Learning the Brain's Dynamics as a Port-Hamiltonian System
 > 原文: [https://arxiv.org/abs/2607.10439](https://arxiv.org/abs/2607.10439)

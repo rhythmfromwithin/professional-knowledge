@@ -1,11 +1,12 @@
 ---
-title: "Generative Testing of Automated Speech Recognition Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.09833
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09833
 next_step: skim
+priority: low
+slack_ts: '1784172048.320539'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Generative Testing of Automated Speech Recognition Systems
 ---
 # Generative Testing of Automated Speech Recognition Systems
 > 原文: [https://arxiv.org/abs/2607.09833](https://arxiv.org/abs/2607.09833)

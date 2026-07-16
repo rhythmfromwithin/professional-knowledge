@@ -1,11 +1,13 @@
 ---
-title: "From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring with LearnAdapt Agentic Studio and PedOS 1.1 Lumina"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.09674
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09674
 next_step: skim
+priority: medium
+slack_ts: '1784172047.438299'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring
+  with LearnAdapt Agentic Studio and PedOS 1.1 Lumina'
 ---
 # From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring with LearnAdapt Agentic Studio and PedOS 1.1 Lumina
 > 原文: [https://arxiv.org/abs/2607.09674](https://arxiv.org/abs/2607.09674)

@@ -1,11 +1,13 @@
 ---
-title: "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.09678
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09678
 next_step: skim
+priority: high
+slack_ts: '1784172046.583419'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays
+  Are Tier-Dependent'
 ---
 # Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent
 > 原文: [https://arxiv.org/abs/2607.09678](https://arxiv.org/abs/2607.09678)

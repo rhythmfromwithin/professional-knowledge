@@ -1,11 +1,12 @@
 ---
-title: "Prices and Competition in Vertically Integrated Launch Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.10385
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10385
 next_step: skim
+priority: low
+slack_ts: '1784172052.924139'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Prices and Competition in Vertically Integrated Launch Markets
 ---
 # Prices and Competition in Vertically Integrated Launch Markets
 > 原文: [https://arxiv.org/abs/2607.10385](https://arxiv.org/abs/2607.10385)

@@ -1,11 +1,13 @@
 ---
-title: "RSLoRA: Training-free Rank Allocation for LoRA via Representational Sensitivity Probing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.09757
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09757
 next_step: skim
+priority: medium
+slack_ts: '1784172053.090209'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RSLoRA: Training-free Rank Allocation for LoRA via Representational Sensitivity
+  Probing'
 ---
 # RSLoRA: Training-free Rank Allocation for LoRA via Representational Sensitivity Probing
 > 原文: [https://arxiv.org/abs/2607.09757](https://arxiv.org/abs/2607.09757)

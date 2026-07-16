@@ -1,11 +1,12 @@
 ---
-title: "Life as Plasmas: Autonomy and Interactivism in-materio"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.09747
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09747
 next_step: skim
+priority: low
+slack_ts: '1784172051.384259'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Life as Plasmas: Autonomy and Interactivism in-materio'
 ---
 # Life as Plasmas: Autonomy and Interactivism in-materio
 > 原文: [https://arxiv.org/abs/2607.09747](https://arxiv.org/abs/2607.09747)

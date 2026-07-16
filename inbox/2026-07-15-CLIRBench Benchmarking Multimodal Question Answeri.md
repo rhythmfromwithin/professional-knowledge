@@ -1,11 +1,13 @@
 ---
-title: "CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.09880
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09880
 next_step: skim
+priority: high
+slack_ts: '1784172043.596939'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical
+  Time Series'
 ---
 # CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series
 > 原文: [https://arxiv.org/abs/2607.09880](https://arxiv.org/abs/2607.09880)

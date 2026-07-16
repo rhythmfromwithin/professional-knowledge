@@ -1,11 +1,13 @@
 ---
-title: "Critsly: An Artefact-Aware AI Critique Teammate for Design Education and Project-Based Learning"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.09673
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09673
 next_step: skim
+priority: medium
+slack_ts: '1784172044.801899'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Critsly: An Artefact-Aware AI Critique Teammate for Design Education and Project-Based
+  Learning'
 ---
 # Critsly: An Artefact-Aware AI Critique Teammate for Design Education and Project-Based Learning
 > 原文: [https://arxiv.org/abs/2607.09673](https://arxiv.org/abs/2607.09673)
