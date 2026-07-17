@@ -1,11 +1,12 @@
 ---
-title: "GRAFT: Graph-Matched Retrieval and Fusion of Tables in Data Lakes"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.12717
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12717
 next_step: skim
+priority: low
+slack_ts: '1784258636.504819'
+source: cs.DB - Databases
+status: unread
+title: 'GRAFT: Graph-Matched Retrieval and Fusion of Tables in Data Lakes'
 ---
 # GRAFT: Graph-Matched Retrieval and Fusion of Tables in Data Lakes
 > 原文: [https://arxiv.org/abs/2607.12717](https://arxiv.org/abs/2607.12717)

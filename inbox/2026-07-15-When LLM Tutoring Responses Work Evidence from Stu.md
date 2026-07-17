@@ -1,11 +1,12 @@
 ---
-title: "When LLM Tutoring Responses Work: Evidence from Student Programming Conversations"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.09919
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09919
 next_step: skim
+priority: low
+slack_ts: '1784258630.003069'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'When LLM Tutoring Responses Work: Evidence from Student Programming Conversations'
 ---
 # When LLM Tutoring Responses Work: Evidence from Student Programming Conversations
 > 原文: [https://arxiv.org/abs/2607.09919](https://arxiv.org/abs/2607.09919)

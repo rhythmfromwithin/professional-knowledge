@@ -1,11 +1,13 @@
 ---
-title: "Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.12414
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12414
 next_step: skim
+priority: low
+slack_ts: '1784258631.961989'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance,
+  and Adjustment Dynamics'
 ---
 # Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics
 > 原文: [https://arxiv.org/abs/2607.12414](https://arxiv.org/abs/2607.12414)

@@ -1,11 +1,12 @@
 ---
-title: "Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.12345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12345
 next_step: skim
+priority: low
+slack_ts: '1784258635.870569'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach'
 ---
 # Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach
 > 原文: [https://arxiv.org/abs/2607.12345](https://arxiv.org/abs/2607.12345)

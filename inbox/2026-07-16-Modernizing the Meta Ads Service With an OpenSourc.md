@@ -1,11 +1,12 @@
 ---
-title: "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/
 next_step: skim
+priority: medium
+slack_ts: '1784258639.692589'
+source: Meta Engineering
+status: unread
+title: Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler
 ---
 # Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler
 > 原文: [https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/](https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/)

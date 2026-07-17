@@ -1,11 +1,13 @@
 ---
-title: "Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.11958
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11958
 next_step: skim
+priority: low
+slack_ts: '1784258633.582989'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Constructed Reality, Contested Priors: Decoupling and the Architecture of
+  Cognitive Relapse Under the Free Energy Principle'
 ---
 # Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle
 > 原文: [https://arxiv.org/abs/2607.11958](https://arxiv.org/abs/2607.11958)

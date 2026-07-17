@@ -1,11 +1,12 @@
 ---
-title: "Predicting Acceptance and Review Effort in Human and Agent Pull Requests"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.12057
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12057
 next_step: skim
+priority: low
+slack_ts: '1784258640.830229'
+source: cs.SE - Software Engineering
+status: unread
+title: Predicting Acceptance and Review Effort in Human and Agent Pull Requests
 ---
 # Predicting Acceptance and Review Effort in Human and Agent Pull Requests
 > 原文: [https://arxiv.org/abs/2607.12057](https://arxiv.org/abs/2607.12057)

@@ -1,11 +1,13 @@
 ---
-title: "Did We Actually Fix It? An Independent Adversarial Stress-Test of Post-Point-Adjustment Evaluation Metrics for Time-Series Anomaly Detection"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.11969
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11969
 next_step: skim
+priority: medium
+slack_ts: '1784258634.138269'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Did We Actually Fix It? An Independent Adversarial Stress-Test of Post-Point-Adjustment
+  Evaluation Metrics for Time-Series Anomaly Detection
 ---
 # Did We Actually Fix It? An Independent Adversarial Stress-Test of Post-Point-Adjustment Evaluation Metrics for Time-Series Anomaly Detection
 > 原文: [https://arxiv.org/abs/2607.11969](https://arxiv.org/abs/2607.11969)

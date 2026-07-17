@@ -1,11 +1,13 @@
 ---
-title: "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/
 next_step: skim
+priority: high
+slack_ts: '1784258639.883019'
+source: AWS Blog
+status: unread
+title: Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch
+  dashboards
 ---
 # Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards
 > 原文: [https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/](https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/)

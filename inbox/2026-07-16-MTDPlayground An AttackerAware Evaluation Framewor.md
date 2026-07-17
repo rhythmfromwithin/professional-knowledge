@@ -1,11 +1,13 @@
 ---
-title: "MTD-Playground: An Attacker-Aware Evaluation Framework for Network Moving Target Defense"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.12199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12199
 next_step: skim
+priority: low
+slack_ts: '1784258639.108809'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MTD-Playground: An Attacker-Aware Evaluation Framework for Network Moving
+  Target Defense'
 ---
 # MTD-Playground: An Attacker-Aware Evaluation Framework for Network Moving Target Defense
 > 原文: [https://arxiv.org/abs/2607.12199](https://arxiv.org/abs/2607.12199)

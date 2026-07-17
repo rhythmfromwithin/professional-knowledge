@@ -1,11 +1,13 @@
 ---
-title: "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.11888
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11888
 next_step: skim
+priority: high
+slack_ts: '1784258640.264369'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity
+  Provision in Perpetual Futures Markets'
 ---
 # Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets
 > 原文: [https://arxiv.org/abs/2607.11888](https://arxiv.org/abs/2607.11888)

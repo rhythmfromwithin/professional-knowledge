@@ -1,0 +1,14 @@
+---
+title: "The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context Adjudicators"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2607.13075
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context Adjudicators
+> 原文: [https://arxiv.org/abs/2607.13075](https://arxiv.org/abs/2607.13075)
+
+arXiv:2607.13075v1 Announce Type: new
+Abstract: Context can change whether a request is harmful without changing its topic or surface form. We ask whether residual-stream probes distinguish harmful requests from surface-matched benign controls at a useful operating point. Across three 7-8B model families, an activation sensor blocks 95.5-97.7 percent of judge-classified compliant attacks in a taxonomy-selected set. It also blocks 59.6-68.4 percent of XSTest prompts. A fully disjoint audit reconstructs near-ceiling source-contrast AUROC (0.996-0.999), but fixed transfer to matched pairs is weaker: 0.656-0.819 on the guard-selected Twin-n70 subset and 0.590-0.690 on the full Twin-n163 cohort. We test ten axes on the reference family and seven across all families with leakage, hold-out, and permutation controls. On Twin-n163, no axis evaluated without direct pair-boundary fitting reaches the specified numerical threshold. Requiring persistence on that full cohort was added at analysis time. A separately specified 24B/32B extension gives the same result. Pair-trained classifiers weaken under category and generation-batch hold-out and false-block 79.6-100 percent of XSTest at 95 percent in-corpus TPR. At the tested read points, these activation scores behave as broad-risk detectors rather than standalone context adjudicators.

@@ -1,11 +1,12 @@
 ---
-title: "HARP-ME: Closure-Driven Exact Induced Motif Enumeration on GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.12074
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12074
 next_step: skim
+priority: medium
+slack_ts: '1784258637.455979'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'HARP-ME: Closure-Driven Exact Induced Motif Enumeration on GPUs'
 ---
 # HARP-ME: Closure-Driven Exact Induced Motif Enumeration on GPUs
 > 原文: [https://arxiv.org/abs/2607.12074](https://arxiv.org/abs/2607.12074)

@@ -1,11 +1,12 @@
 ---
-title: "TGMS: An Agent-Native Bi-Temporal Graph Management System"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.10265
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10265
 next_step: skim
+priority: low
+slack_ts: '1784258628.661929'
+source: cs.DB - Databases
+status: unread
+title: 'TGMS: An Agent-Native Bi-Temporal Graph Management System'
 ---
 # TGMS: An Agent-Native Bi-Temporal Graph Management System
 > 原文: [https://arxiv.org/abs/2607.10265](https://arxiv.org/abs/2607.10265)

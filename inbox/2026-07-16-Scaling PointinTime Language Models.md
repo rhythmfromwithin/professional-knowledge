@@ -1,11 +1,12 @@
 ---
-title: "Scaling Point-in-Time Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.11889
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11889
 next_step: skim
+priority: high
+slack_ts: '1784258641.744159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Scaling Point-in-Time Language Models
 ---
 # Scaling Point-in-Time Language Models
 > 原文: [https://arxiv.org/abs/2607.11889](https://arxiv.org/abs/2607.11889)

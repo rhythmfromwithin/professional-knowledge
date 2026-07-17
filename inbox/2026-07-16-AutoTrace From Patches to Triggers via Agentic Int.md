@@ -1,11 +1,12 @@
 ---
-title: "AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.12058
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12058
 next_step: skim
+priority: low
+slack_ts: '1784258631.765869'
+source: cs.SE - Software Engineering
+status: unread
+title: 'AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration'
 ---
 # AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration
 > 原文: [https://arxiv.org/abs/2607.12058](https://arxiv.org/abs/2607.12058)

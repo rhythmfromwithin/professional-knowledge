@@ -1,11 +1,13 @@
 ---
-title: "The Individual-Targeting Assumption: A Systematic Review of Proactive Robots in Human Group Settings"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.09734
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09734
 next_step: skim
+priority: low
+slack_ts: '1784258628.855919'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Individual-Targeting Assumption: A Systematic Review of Proactive Robots
+  in Human Group Settings'
 ---
 # The Individual-Targeting Assumption: A Systematic Review of Proactive Robots in Human Group Settings
 > 原文: [https://arxiv.org/abs/2607.09734](https://arxiv.org/abs/2607.09734)

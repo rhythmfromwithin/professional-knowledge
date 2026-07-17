@@ -1,11 +1,13 @@
 ---
-title: "Trusted Floors Under Untrusted Learners: A Runtime Assured-SLO Guard for ML Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.09992
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09992
 next_step: skim
+priority: medium
+slack_ts: '1784258629.624169'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Trusted Floors Under Untrusted Learners: A Runtime Assured-SLO Guard for ML
+  Serving'
 ---
 # Trusted Floors Under Untrusted Learners: A Runtime Assured-SLO Guard for ML Serving
 > 原文: [https://arxiv.org/abs/2607.09992](https://arxiv.org/abs/2607.09992)

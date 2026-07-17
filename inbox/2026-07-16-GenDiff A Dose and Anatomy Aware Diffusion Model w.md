@@ -1,11 +1,13 @@
 ---
-title: "GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.11941
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11941
 next_step: skim
+priority: medium
+slack_ts: '1784258636.689339'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement
+  for Low-Dose CT Reconstruction and Generalization'
 ---
 # GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization
 > 原文: [https://arxiv.org/abs/2607.11941](https://arxiv.org/abs/2607.11941)

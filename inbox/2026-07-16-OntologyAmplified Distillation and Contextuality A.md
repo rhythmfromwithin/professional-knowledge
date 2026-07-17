@@ -1,11 +1,13 @@
 ---
-title: "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.11948
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11948
 next_step: skim
+priority: high
+slack_ts: '1784258640.074999'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise
+  Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study'
 ---
 # Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study
 > 原文: [https://arxiv.org/abs/2607.11948](https://arxiv.org/abs/2607.11948)

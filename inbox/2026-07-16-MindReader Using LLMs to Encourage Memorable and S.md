@@ -1,11 +1,12 @@
 ---
-title: "MindReader: Using LLMs to Encourage Memorable and Secure Password Replacement"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.12148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12148
 next_step: skim
+priority: low
+slack_ts: '1784258639.495229'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MindReader: Using LLMs to Encourage Memorable and Secure Password Replacement'
 ---
 # MindReader: Using LLMs to Encourage Memorable and Secure Password Replacement
 > 原文: [https://arxiv.org/abs/2607.12148](https://arxiv.org/abs/2607.12148)

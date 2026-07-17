@@ -1,11 +1,12 @@
 ---
-title: "CANDI: Contextual Alignment for Niche Domains Question Answering"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.11891
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11891
 next_step: skim
+priority: high
+slack_ts: '1784258632.730789'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'CANDI: Contextual Alignment for Niche Domains Question Answering'
 ---
 # CANDI: Contextual Alignment for Niche Domains Question Answering
 > 原文: [https://arxiv.org/abs/2607.11891](https://arxiv.org/abs/2607.11891)

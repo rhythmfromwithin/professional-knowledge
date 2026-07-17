@@ -1,0 +1,14 @@
+---
+title: "The impact of objective interactions on the performance of massive objective optimization algorithms"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2607.13377
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The impact of objective interactions on the performance of massive objective optimization algorithms
+> 原文: [https://arxiv.org/abs/2607.13377](https://arxiv.org/abs/2607.13377)
+
+arXiv:2607.13377v1 Announce Type: new
+Abstract: Many-objective optimization has been a field of interest over the past two decades and several evolutionary optimization algorithms have been introduced to tackle these problems; yet two fundamental questions remain underexplored: (i) What happens when the number of objectives grows beyond the typical many-objective regime of about fifteen and becomes massive? (ii) How do problem characteristics, such as the nature of interactions between objectives, influence algorithmic performance? To answer these questions we employ a diagnostic benchmark suite that allows control over problem characteristics and can be scaled to extremely high objective counts. Using this framework we evaluate several state-of-the-art evolutionary algorithms including NSGA-II, NSGA-III, MOEA/D and lexicase selection across a range of dimensionalities and diagnostic problem landscapes. Our experiments reveal that problem characteristics significantly affect algorithm performance. In particular, the nature of interactions between objectives appears important. These results highlight the importance of understanding these properties before selecting an algorithm for a specific problem. We also show that lexicase selection, an algorithm originally designed for genetic programming, compares favorably with state-of-the-art many-objective optimization algorithms while avoiding the dependence on predefined reference directions.

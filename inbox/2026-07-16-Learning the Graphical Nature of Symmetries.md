@@ -1,11 +1,12 @@
 ---
-title: "Learning the Graphical Nature of Symmetries"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.12026
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12026
 next_step: skim
+priority: medium
+slack_ts: '1784258638.925739'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning the Graphical Nature of Symmetries
 ---
 # Learning the Graphical Nature of Symmetries
 > 原文: [https://arxiv.org/abs/2607.12026](https://arxiv.org/abs/2607.12026)

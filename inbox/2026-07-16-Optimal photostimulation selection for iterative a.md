@@ -1,11 +1,12 @@
 ---
-title: "Optimal photostimulation selection for iterative activity maps"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.12930
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12930
 next_step: skim
+priority: low
+slack_ts: '1784258640.453739'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Optimal photostimulation selection for iterative activity maps
 ---
 # Optimal photostimulation selection for iterative activity maps
 > 原文: [https://arxiv.org/abs/2607.12930](https://arxiv.org/abs/2607.12930)

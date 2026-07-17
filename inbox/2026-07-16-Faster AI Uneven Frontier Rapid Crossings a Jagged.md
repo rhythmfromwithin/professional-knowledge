@@ -1,11 +1,13 @@
 ---
-title: "Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning of Human Judgment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.12125
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12125
 next_step: skim
+priority: low
+slack_ts: '1784258635.493449'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning
+  of Human Judgment'
 ---
 # Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning of Human Judgment
 > 原文: [https://arxiv.org/abs/2607.12125](https://arxiv.org/abs/2607.12125)

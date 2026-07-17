@@ -1,11 +1,13 @@
 ---
-title: "EFLUX: Elastic Multi-Robot Formation Navigation and Adaptation with Agentic LLMs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.12050
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12050
 next_step: skim
+priority: medium
+slack_ts: '1784258634.521299'
+source: cs.RO - Robotics
+status: unread
+title: 'EFLUX: Elastic Multi-Robot Formation Navigation and Adaptation with Agentic
+  LLMs'
 ---
 # EFLUX: Elastic Multi-Robot Formation Navigation and Adaptation with Agentic LLMs
 > 原文: [https://arxiv.org/abs/2607.12050](https://arxiv.org/abs/2607.12050)

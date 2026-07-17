@@ -1,11 +1,12 @@
 ---
-title: "Dynamic Online Processor-Native Inference for State Estimation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.12095
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12095
 next_step: skim
+priority: medium
+slack_ts: '1784258634.330279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Dynamic Online Processor-Native Inference for State Estimation
 ---
 # Dynamic Online Processor-Native Inference for State Estimation
 > 原文: [https://arxiv.org/abs/2607.12095](https://arxiv.org/abs/2607.12095)

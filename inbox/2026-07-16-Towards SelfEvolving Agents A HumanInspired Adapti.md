@@ -1,11 +1,13 @@
 ---
-title: "Towards Self-Evolving Agents: A Human-Inspired Adaptive Exploration-Exploitation Framework for Genetic Network Programming"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.11913
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11913
 next_step: skim
+priority: low
+slack_ts: '1784258643.794429'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Towards Self-Evolving Agents: A Human-Inspired Adaptive Exploration-Exploitation
+  Framework for Genetic Network Programming'
 ---
 # Towards Self-Evolving Agents: A Human-Inspired Adaptive Exploration-Exploitation Framework for Genetic Network Programming
 > 原文: [https://arxiv.org/abs/2607.11913](https://arxiv.org/abs/2607.11913)

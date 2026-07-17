@@ -1,11 +1,12 @@
 ---
-title: "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/
 next_step: skim
+priority: high
+slack_ts: '1784258630.820419'
+source: AWS Blog
+status: unread
+title: 'Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers'
 ---
 # Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers
 > 原文: [https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/](https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/)

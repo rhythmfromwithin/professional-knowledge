@@ -1,11 +1,12 @@
 ---
-title: "Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.09753
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.09753
 next_step: skim
+priority: medium
+slack_ts: '1784258629.810699'
+source: cs.CV - Computer Vision
+status: unread
+title: Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis
 ---
 # Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis
 > 原文: [https://arxiv.org/abs/2607.09753](https://arxiv.org/abs/2607.09753)

@@ -1,11 +1,13 @@
 ---
-title: "Anomalous Frame Detection Using VLM-Based Description Comparison for Extracting Expert-Specific Actions and Contextual Decision-Making Scenes with Intra-Video Self-Similarity"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.11957
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11957
 next_step: skim
+priority: medium
+slack_ts: '1784258631.199539'
+source: cs.CV - Computer Vision
+status: unread
+title: Anomalous Frame Detection Using VLM-Based Description Comparison for Extracting
+  Expert-Specific Actions and Contextual Decision-Making Scenes with Intra-Video Self-Similarity
 ---
 # Anomalous Frame Detection Using VLM-Based Description Comparison for Extracting Expert-Specific Actions and Contextual Decision-Making Scenes with Intra-Video Self-Similarity
 > 原文: [https://arxiv.org/abs/2607.11957](https://arxiv.org/abs/2607.11957)

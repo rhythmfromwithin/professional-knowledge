@@ -1,11 +1,5 @@
 ---
-title: "Trivial Prompt Reframing Bypasses Safety Guardrails in Google\'s MedGemma-4B"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.09804
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1784258629.435869'
 ---
 # Trivial Prompt Reframing Bypasses Safety Guardrails in Google\'s MedGemma-4B
 > 原文: [https://arxiv.org/abs/2607.09804](https://arxiv.org/abs/2607.09804)

@@ -1,11 +1,12 @@
 ---
-title: "AgentSociety 2: An Integrated Research Environment for Executable Social Science"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.11895
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11895
 next_step: skim
+priority: medium
+slack_ts: '1784258630.619339'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AgentSociety 2: An Integrated Research Environment for Executable Social Science'
 ---
 # AgentSociety 2: An Integrated Research Environment for Executable Social Science
 > 原文: [https://arxiv.org/abs/2607.11895](https://arxiv.org/abs/2607.11895)

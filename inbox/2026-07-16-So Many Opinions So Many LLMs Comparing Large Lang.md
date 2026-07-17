@@ -1,11 +1,13 @@
 ---
-title: "So Many Opinions, So Many LLMs: Comparing Large Language Models to Traditional Machine Learning for Open- Ended Survey Analysis"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.11890
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11890
 next_step: skim
+priority: medium
+slack_ts: '1784258642.660369'
+source: cs.CY - Computers and Society
+status: unread
+title: 'So Many Opinions, So Many LLMs: Comparing Large Language Models to Traditional
+  Machine Learning for Open- Ended Survey Analysis'
 ---
 # So Many Opinions, So Many LLMs: Comparing Large Language Models to Traditional Machine Learning for Open- Ended Survey Analysis
 > 原文: [https://arxiv.org/abs/2607.11890](https://arxiv.org/abs/2607.11890)

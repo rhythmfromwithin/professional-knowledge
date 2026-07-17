@@ -1,0 +1,14 @@
+---
+title: "Grounded world models in biological organisms and future embodied AI"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2607.13560
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Grounded world models in biological organisms and future embodied AI
+> 原文: [https://arxiv.org/abs/2607.13560](https://arxiv.org/abs/2607.13560)
+
+arXiv:2607.13560v1 Announce Type: new
+Abstract: Recent advances in generative and embodied AI have been driven by large-scale predictive learning over multimodal data. However, the resulting systems remain largely based on passive training regimes where linguistic regularities create the scaffold onto which information from other modalities is attached. Conversely, neuroscience and cognitive science suggest that biological intelligence is organized in the opposite way, where grounded world models acquired through interaction with the environment provide the semantic scaffold to which language is attached. Here, we illustrate five examples of neural circuits supporting grounded world modelling, which underlie navigation in physical and conceptual spaces, affordance-based perception and interaction with objects, active perception and exploratory learning, allostatic control and emotion, and the distinction between self- and world-generated outcomes. These examples highlight several features largely missing from current embodied AI, including the role of intrinsic dynamics as a foundation for learning, the centrality of action in aligning these dynamics with the external world, the prominence of autonomous experience and open-ended learning over passive assimilation of externally provided data, and the fact that early predictive and control mechanisms scaffold higher cognitive abilities such as reasoning, conceptual navigation, planning, imagination, understanding others' minds, and communication. Finally, we discuss whether and how principles derived from biological systems may inform future embodied AI, including training regimes based on social interaction to construct world models that are not only grounded but also socially shared and aligned with human norms and values.

@@ -1,11 +1,13 @@
 ---
-title: "FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.11464
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11464
 next_step: skim
+priority: low
+slack_ts: '1784258635.303569'
+source: cs.DB - Databases
+status: unread
+title: 'FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data
+  Analysis'
 ---
 # FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis
 > 原文: [https://arxiv.org/abs/2607.11464](https://arxiv.org/abs/2607.11464)
