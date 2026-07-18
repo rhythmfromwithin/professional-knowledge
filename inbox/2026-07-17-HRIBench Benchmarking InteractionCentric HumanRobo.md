@@ -1,11 +1,12 @@
 ---
-title: "HRIBench: Benchmarking Interaction-Centric Human-Robot Collaboration"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.13056
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13056
 next_step: skim
+priority: medium
+slack_ts: '1784344402.285469'
+source: cs.RO - Robotics
+status: unread
+title: 'HRIBench: Benchmarking Interaction-Centric Human-Robot Collaboration'
 ---
 # HRIBench: Benchmarking Interaction-Centric Human-Robot Collaboration
 > 原文: [https://arxiv.org/abs/2607.13056](https://arxiv.org/abs/2607.13056)

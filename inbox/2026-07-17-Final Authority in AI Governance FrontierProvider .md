@@ -1,11 +1,13 @@
 ---
-title: "Final Authority in AI Governance: Frontier-Provider Sovereignty and Action-Centered Deployer Governance"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.13040
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13040
 next_step: skim
+priority: medium
+slack_ts: '1784344400.652459'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Final Authority in AI Governance: Frontier-Provider Sovereignty and Action-Centered
+  Deployer Governance'
 ---
 # Final Authority in AI Governance: Frontier-Provider Sovereignty and Action-Centered Deployer Governance
 > 原文: [https://arxiv.org/abs/2607.13040](https://arxiv.org/abs/2607.13040)

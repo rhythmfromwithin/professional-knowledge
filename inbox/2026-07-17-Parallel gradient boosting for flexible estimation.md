@@ -1,11 +1,12 @@
 ---
-title: "Parallel gradient boosting for flexible estimation of conditional distributions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.13550
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13550
 next_step: skim
+priority: medium
+slack_ts: '1784344405.375639'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Parallel gradient boosting for flexible estimation of conditional distributions
 ---
 # Parallel gradient boosting for flexible estimation of conditional distributions
 > 原文: [https://arxiv.org/abs/2607.13550](https://arxiv.org/abs/2607.13550)

@@ -1,0 +1,14 @@
+---
+title: "From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate Design Principles for Fashion E-Commerce User Experience"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2607.14429
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate Design Principles for Fashion E-Commerce User Experience
+> 原文: [https://arxiv.org/abs/2607.14429](https://arxiv.org/abs/2607.14429)
+
+arXiv:2607.14429v1 Announce Type: new
+Abstract: This paper proposes twelve candidate Experience-Led Commerce design principles for high-constraint, relational fashion e-commerce, surfaced through design-led induction while building VogueDrop, a multi-vendor prototype. The principles address multi-entry discovery, experience continuity, relational exploration, preference sovereignty, evidence-scoped correspondence, recommendation-time feasibility, customer-compatible commercial ranking, adaptive but stable workspaces, attributable transaction authority, outcome-linked learning, shared composition authoring, and accountable human to agent handoff. The paper uses fashion as an intentionally bounded domain in which fit, composition, material, identity-sensitive preference, seller fragmentation, visual correspondence, and delivery timing make the interaction breakdown observable; it does not claim universal applicability across e-commerce. Each candidate principle is paired with a prespecified hypothesis, primary behavioural outcome, and rejection condition. A formative critical-incident study and a preregistered matched-interface experiment are specified, with user-experience and platform-facing outcomes reported separately. No empirical superiority is claimed before those studies are completed.

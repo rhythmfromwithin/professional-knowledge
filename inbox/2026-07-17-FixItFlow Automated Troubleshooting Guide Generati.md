@@ -1,11 +1,12 @@
 ---
-title: "FixItFlow: Automated Troubleshooting Guide Generation from Cloud Incidents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.13035
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13035
 next_step: skim
+priority: high
+slack_ts: '1784344400.865239'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'FixItFlow: Automated Troubleshooting Guide Generation from Cloud Incidents'
 ---
 # FixItFlow: Automated Troubleshooting Guide Generation from Cloud Incidents
 > 原文: [https://arxiv.org/abs/2607.13035](https://arxiv.org/abs/2607.13035)

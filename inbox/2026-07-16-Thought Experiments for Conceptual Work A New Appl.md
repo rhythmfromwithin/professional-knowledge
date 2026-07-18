@@ -1,11 +1,13 @@
 ---
-title: "Thought Experiments for Conceptual Work: A New Application of a (Very) Old Method"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.12092
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12092
 next_step: skim
+priority: low
+slack_ts: '1784344394.821709'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Thought Experiments for Conceptual Work: A New Application of a (Very) Old
+  Method'
 ---
 # Thought Experiments for Conceptual Work: A New Application of a (Very) Old Method
 > 原文: [https://arxiv.org/abs/2607.12092](https://arxiv.org/abs/2607.12092)

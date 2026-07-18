@@ -1,7 +1,9 @@
 ---
-title: "From weeks to a day: how we made LLM evaluation fast enough to iterate on"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss
+slack_ts: '1784344401.472319'
+source: Airbnb Engineering
+title: 'From weeks to a day: how we made LLM evaluation fast enough to iterate on'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

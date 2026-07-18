@@ -1,11 +1,12 @@
 ---
-title: "Grounded world models in biological organisms and future embodied AI"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.13560
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13560
 next_step: skim
+priority: low
+slack_ts: '1784344402.076189'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Grounded world models in biological organisms and future embodied AI
 ---
 # Grounded world models in biological organisms and future embodied AI
 > 原文: [https://arxiv.org/abs/2607.13560](https://arxiv.org/abs/2607.13560)

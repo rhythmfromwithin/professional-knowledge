@@ -1,11 +1,12 @@
 ---
-title: "Falsifiable Release Gates for Self-Improving Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.13070
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13070
 next_step: skim
+priority: low
+slack_ts: '1784344400.492959'
+source: cs.SE - Software Engineering
+status: unread
+title: Falsifiable Release Gates for Self-Improving Systems
 ---
 # Falsifiable Release Gates for Self-Improving Systems
 > 原文: [https://arxiv.org/abs/2607.13070](https://arxiv.org/abs/2607.13070)

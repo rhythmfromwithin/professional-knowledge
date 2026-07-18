@@ -1,11 +1,12 @@
 ---
-title: "Equilibrium stability as a driver of cooperation among Q-learners"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.13607
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13607
 next_step: skim
+priority: low
+slack_ts: '1784344399.877569'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Equilibrium stability as a driver of cooperation among Q-learners
 ---
 # Equilibrium stability as a driver of cooperation among Q-learners
 > 原文: [https://arxiv.org/abs/2607.13607](https://arxiv.org/abs/2607.13607)

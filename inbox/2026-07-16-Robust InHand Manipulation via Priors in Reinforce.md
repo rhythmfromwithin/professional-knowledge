@@ -1,11 +1,13 @@
 ---
-title: "Robust In-Hand Manipulation via Priors in Reinforcement Learning and Mechanical Design"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.12105
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12105
 next_step: skim
+priority: medium
+slack_ts: '1784344393.262839'
+source: cs.RO - Robotics
+status: unread
+title: Robust In-Hand Manipulation via Priors in Reinforcement Learning and Mechanical
+  Design
 ---
 # Robust In-Hand Manipulation via Priors in Reinforcement Learning and Mechanical Design
 > 原文: [https://arxiv.org/abs/2607.12105](https://arxiv.org/abs/2607.12105)

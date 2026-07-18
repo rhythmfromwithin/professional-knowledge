@@ -1,11 +1,13 @@
 ---
-title: "Hybrid multi-objective evolutionary algorithms for service placement in the computing continuum: a comparative study with genetic traceability"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.13200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13200
 next_step: skim
+priority: low
+slack_ts: '1784344402.660199'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Hybrid multi-objective evolutionary algorithms for service placement in the
+  computing continuum: a comparative study with genetic traceability'
 ---
 # Hybrid multi-objective evolutionary algorithms for service placement in the computing continuum: a comparative study with genetic traceability
 > 原文: [https://arxiv.org/abs/2607.13200](https://arxiv.org/abs/2607.13200)

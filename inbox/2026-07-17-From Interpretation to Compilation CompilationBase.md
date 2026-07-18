@@ -1,11 +1,13 @@
 ---
-title: "From Interpretation to Compilation: Compilation-Based Execution of Semantic Operators [Vision]"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.13407
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13407
 next_step: skim
+priority: low
+slack_ts: '1784344401.249139'
+source: cs.DB - Databases
+status: unread
+title: 'From Interpretation to Compilation: Compilation-Based Execution of Semantic
+  Operators [Vision]'
 ---
 # From Interpretation to Compilation: Compilation-Based Execution of Semantic Operators [Vision]
 > 原文: [https://arxiv.org/abs/2607.13407](https://arxiv.org/abs/2607.13407)

@@ -1,11 +1,12 @@
 ---
-title: "A Masked Autoencoder Approach to Unsupervised Steel Surface Defect Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.13178
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13178
 next_step: skim
+priority: medium
+slack_ts: '1784344395.783029'
+source: cs.CV - Computer Vision
+status: unread
+title: A Masked Autoencoder Approach to Unsupervised Steel Surface Defect Recognition
 ---
 # A Masked Autoencoder Approach to Unsupervised Steel Surface Defect Recognition
 > 原文: [https://arxiv.org/abs/2607.13178](https://arxiv.org/abs/2607.13178)

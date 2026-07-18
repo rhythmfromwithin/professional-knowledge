@@ -1,11 +1,13 @@
 ---
-title: "Autonomous UAV Route Planning for Coverage Maximization in Environmental Monitoring: A Systematic Literature Review"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.13054
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13054
 next_step: skim
+priority: medium
+slack_ts: '1784344397.284119'
+source: cs.RO - Robotics
+status: unread
+title: 'Autonomous UAV Route Planning for Coverage Maximization in Environmental Monitoring:
+  A Systematic Literature Review'
 ---
 # Autonomous UAV Route Planning for Coverage Maximization in Environmental Monitoring: A Systematic Literature Review
 > 原文: [https://arxiv.org/abs/2607.13054](https://arxiv.org/abs/2607.13054)

@@ -1,11 +1,13 @@
 ---
-title: "TSCA-Net: Temporal-Spatial Clique Attention for Interpretable Multimodal Pedestrian Trajectory Prediction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.11939
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11939
 next_step: skim
+priority: medium
+slack_ts: '1784344394.431389'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TSCA-Net: Temporal-Spatial Clique Attention for Interpretable Multimodal Pedestrian
+  Trajectory Prediction'
 ---
 # TSCA-Net: Temporal-Spatial Clique Attention for Interpretable Multimodal Pedestrian Trajectory Prediction
 > 原文: [https://arxiv.org/abs/2607.11939](https://arxiv.org/abs/2607.11939)

@@ -1,11 +1,13 @@
 ---
-title: "Compaction as Epistemic Failure: How Agentic LLM Tools Fabricate Confirmed Results from Killed Processes"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.13071
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13071
 next_step: skim
+priority: low
+slack_ts: '1784344398.849949'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Compaction as Epistemic Failure: How Agentic LLM Tools Fabricate Confirmed
+  Results from Killed Processes'
 ---
 # Compaction as Epistemic Failure: How Agentic LLM Tools Fabricate Confirmed Results from Killed Processes
 > 原文: [https://arxiv.org/abs/2607.13071](https://arxiv.org/abs/2607.13071)

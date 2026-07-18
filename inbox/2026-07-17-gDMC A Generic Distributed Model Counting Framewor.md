@@ -1,11 +1,12 @@
 ---
-title: "gDMC: A Generic Distributed Model Counting Framework via Work-Stealing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.13634
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13634
 next_step: skim
+priority: medium
+slack_ts: '1784344408.369169'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'gDMC: A Generic Distributed Model Counting Framework via Work-Stealing'
 ---
 # gDMC: A Generic Distributed Model Counting Framework via Work-Stealing
 > 原文: [https://arxiv.org/abs/2607.13634](https://arxiv.org/abs/2607.13634)

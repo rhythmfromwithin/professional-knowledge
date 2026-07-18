@@ -1,11 +1,12 @@
 ---
-title: "Designing Safety-Constrained LLM Systems for Public Health Information Access"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.13038
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13038
 next_step: skim
+priority: medium
+slack_ts: '1784344399.549809'
+source: cs.CY - Computers and Society
+status: unread
+title: Designing Safety-Constrained LLM Systems for Public Health Information Access
 ---
 # Designing Safety-Constrained LLM Systems for Public Health Information Access
 > 原文: [https://arxiv.org/abs/2607.13038](https://arxiv.org/abs/2607.13038)

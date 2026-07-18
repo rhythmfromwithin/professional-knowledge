@@ -1,11 +1,13 @@
 ---
-title: "Fair on the Surface: Transaction-Ordering Bias and MEV in Mysticeti DAG-based BFT Protocol"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.13378
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13378
 next_step: skim
+priority: medium
+slack_ts: '1784344400.205839'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Fair on the Surface: Transaction-Ordering Bias and MEV in Mysticeti DAG-based
+  BFT Protocol'
 ---
 # Fair on the Surface: Transaction-Ordering Bias and MEV in Mysticeti DAG-based BFT Protocol
 > 原文: [https://arxiv.org/abs/2607.13378](https://arxiv.org/abs/2607.13378)

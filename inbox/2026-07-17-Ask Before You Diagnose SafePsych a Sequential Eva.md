@@ -1,11 +1,13 @@
 ---
-title: "Ask Before You Diagnose: Safe-Psych, a Sequential Evaluation Benchmark for LLMs in Psychiatry"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.13036
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13036
 next_step: skim
+priority: high
+slack_ts: '1784344396.425589'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Ask Before You Diagnose: Safe-Psych, a Sequential Evaluation Benchmark for
+  LLMs in Psychiatry'
 ---
 # Ask Before You Diagnose: Safe-Psych, a Sequential Evaluation Benchmark for LLMs in Psychiatry
 > 原文: [https://arxiv.org/abs/2607.13036](https://arxiv.org/abs/2607.13036)

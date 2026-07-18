@@ -1,11 +1,12 @@
 ---
-title: "Introducing Grok on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1784344403.410579'
+source: AWS Blog
+status: unread
+title: Introducing Grok on Amazon Bedrock
 ---
 # Introducing Grok on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/)

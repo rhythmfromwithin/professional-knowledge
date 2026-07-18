@@ -1,11 +1,13 @@
 ---
-title: "Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.11897
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11897
 next_step: skim
+priority: high
+slack_ts: '1784344393.583879'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive
+  Chunk-WY Kernels'
 ---
 # Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels
 > 原文: [https://arxiv.org/abs/2607.11897](https://arxiv.org/abs/2607.11897)

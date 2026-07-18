@@ -1,11 +1,13 @@
 ---
-title: "Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.13042
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13042
 next_step: skim
+priority: high
+slack_ts: '1784344397.039959'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Automatic Differentiation from Scratch: How PyTorch Computes Gradients in
+  Physics-Informed Neural Networks'
 ---
 # Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks
 > 原文: [https://arxiv.org/abs/2607.13042](https://arxiv.org/abs/2607.13042)

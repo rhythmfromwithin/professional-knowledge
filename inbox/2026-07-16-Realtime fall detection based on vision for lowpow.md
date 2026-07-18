@@ -1,11 +1,12 @@
 ---
-title: "Real-time fall detection based on vision for low-power edge platforms"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.12909
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12909
 next_step: skim
+priority: low
+slack_ts: '1784344392.837399'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Real-time fall detection based on vision for low-power edge platforms
 ---
 # Real-time fall detection based on vision for low-power edge platforms
 > 原文: [https://arxiv.org/abs/2607.12909](https://arxiv.org/abs/2607.12909)

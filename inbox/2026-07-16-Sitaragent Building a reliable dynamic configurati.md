@@ -1,7 +1,9 @@
 ---
-title: "Sitar-agent: Building a reliable dynamic configuration sidecar at scale"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss
+slack_ts: '1784344393.987619'
+source: Airbnb Engineering
+title: 'Sitar-agent: Building a reliable dynamic configuration sidecar at scale'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

@@ -1,11 +1,13 @@
 ---
-title: "The impact of objective interactions on the performance of massive objective optimization algorithms"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.13377
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13377
 next_step: skim
+priority: low
+slack_ts: '1784344407.470439'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: The impact of objective interactions on the performance of massive objective
+  optimization algorithms
 ---
 # The impact of objective interactions on the performance of massive objective optimization algorithms
 > 原文: [https://arxiv.org/abs/2607.13377](https://arxiv.org/abs/2607.13377)

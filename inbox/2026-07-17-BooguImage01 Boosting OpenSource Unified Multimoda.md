@@ -1,11 +1,13 @@
 ---
-title: "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.13125
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13125
 next_step: skim
+priority: medium
+slack_ts: '1784344397.666059'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and
+  Generation'
 ---
 # Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation
 > 原文: [https://arxiv.org/abs/2607.13125](https://arxiv.org/abs/2607.13125)

@@ -1,11 +1,13 @@
 ---
-title: "Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.11928
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11928
 next_step: skim
+priority: high
+slack_ts: '1784344393.072389'
+source: cs.LG - Machine Learning
+status: unread
+title: Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection
+  Profilometry
 ---
 # Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry
 > 原文: [https://arxiv.org/abs/2607.11928](https://arxiv.org/abs/2607.11928)

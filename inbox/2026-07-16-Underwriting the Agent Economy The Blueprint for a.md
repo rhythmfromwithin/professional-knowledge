@@ -1,11 +1,12 @@
 ---
-title: "Underwriting the Agent Economy: The Blueprint for an AI Insurance Stack"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.11999
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11999
 next_step: skim
+priority: medium
+slack_ts: '1784344395.397339'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Underwriting the Agent Economy: The Blueprint for an AI Insurance Stack'
 ---
 # Underwriting the Agent Economy: The Blueprint for an AI Insurance Stack
 > 原文: [https://arxiv.org/abs/2607.11999](https://arxiv.org/abs/2607.11999)

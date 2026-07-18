@@ -1,11 +1,12 @@
 ---
-title: "A Distributed Framework for Compiling and Reasoning with d-DNNF"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.13642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13642
 next_step: skim
+priority: medium
+slack_ts: '1784344395.621739'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Distributed Framework for Compiling and Reasoning with d-DNNF
 ---
 # A Distributed Framework for Compiling and Reasoning with d-DNNF
 > 原文: [https://arxiv.org/abs/2607.13642](https://arxiv.org/abs/2607.13642)

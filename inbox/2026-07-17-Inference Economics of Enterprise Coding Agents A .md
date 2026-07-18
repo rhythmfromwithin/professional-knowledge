@@ -1,11 +1,13 @@
 ---
-title: "Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs. On-Premise LLMs"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.13080
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13080
 next_step: skim
+priority: low
+slack_ts: '1784344402.872039'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs.
+  On-Premise LLMs'
 ---
 # Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs. On-Premise LLMs
 > 原文: [https://arxiv.org/abs/2607.13080](https://arxiv.org/abs/2607.13080)

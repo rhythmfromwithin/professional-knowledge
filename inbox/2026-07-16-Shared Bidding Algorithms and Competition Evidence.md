@@ -1,11 +1,12 @@
 ---
-title: "Shared Bidding Algorithms and Competition: Evidence from Electricity Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.13002
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13002
 next_step: skim
+priority: low
+slack_ts: '1784344393.826659'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Shared Bidding Algorithms and Competition: Evidence from Electricity Markets'
 ---
 # Shared Bidding Algorithms and Competition: Evidence from Electricity Markets
 > 原文: [https://arxiv.org/abs/2607.13002](https://arxiv.org/abs/2607.13002)

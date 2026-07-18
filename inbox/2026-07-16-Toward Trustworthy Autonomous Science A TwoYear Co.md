@@ -1,11 +1,12 @@
 ---
-title: "Toward Trustworthy Autonomous Science: A Two-Year Community Roadmap"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.12113
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.12113
 next_step: skim
+priority: medium
+slack_ts: '1784344395.139059'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Toward Trustworthy Autonomous Science: A Two-Year Community Roadmap'
 ---
 # Toward Trustworthy Autonomous Science: A Two-Year Community Roadmap
 > 原文: [https://arxiv.org/abs/2607.12113](https://arxiv.org/abs/2607.12113)
