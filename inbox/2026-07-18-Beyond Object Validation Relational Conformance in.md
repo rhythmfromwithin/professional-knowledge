@@ -1,11 +1,12 @@
 ---
-title: "Beyond Object Validation: Relational Conformance in Multi-Artifact Agent Releases"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.14155
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14155
 next_step: skim
+priority: low
+slack_ts: '1784432005.304719'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Beyond Object Validation: Relational Conformance in Multi-Artifact Agent Releases'
 ---
 # Beyond Object Validation: Relational Conformance in Multi-Artifact Agent Releases
 > 原文: [https://arxiv.org/abs/2607.14155](https://arxiv.org/abs/2607.14155)

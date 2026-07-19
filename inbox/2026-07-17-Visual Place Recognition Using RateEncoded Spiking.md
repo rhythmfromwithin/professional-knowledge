@@ -1,11 +1,13 @@
 ---
-title: "Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.13584
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13584
 next_step: skim
+priority: low
+slack_ts: '1784432003.974549'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete
+  STDP Learning
 ---
 # Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning
 > 原文: [https://arxiv.org/abs/2607.13584](https://arxiv.org/abs/2607.13584)

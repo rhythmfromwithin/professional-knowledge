@@ -1,11 +1,5 @@
 ---
-title: "Asymptotical Analysis of the $(1+(\lambda,\lambda))$ GA Escape Time from Local Optima on Jump Functions"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.14278
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1784432004.904519'
 ---
 # Asymptotical Analysis of the $(1+(\lambda,\lambda))$ GA Escape Time from Local Optima on Jump Functions
 > 原文: [https://arxiv.org/abs/2607.14278](https://arxiv.org/abs/2607.14278)

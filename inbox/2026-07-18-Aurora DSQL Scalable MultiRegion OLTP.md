@@ -1,11 +1,12 @@
 ---
-title: "Aurora DSQL: Scalable, Multi-Region OLTP"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.13276
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13276
 next_step: skim
+priority: low
+slack_ts: '1784432005.109129'
+source: cs.DB - Databases
+status: unread
+title: 'Aurora DSQL: Scalable, Multi-Region OLTP'
 ---
 # Aurora DSQL: Scalable, Multi-Region OLTP
 > 原文: [https://arxiv.org/abs/2607.13276](https://arxiv.org/abs/2607.13276)

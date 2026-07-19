@@ -1,11 +1,12 @@
 ---
-title: "Does Multi-Agent Debate Improve AI Feedback on Research Papers?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.14713
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14713
 next_step: skim
+priority: low
+slack_ts: '1784432006.425419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Does Multi-Agent Debate Improve AI Feedback on Research Papers?
 ---
 # Does Multi-Agent Debate Improve AI Feedback on Research Papers?
 > 原文: [https://arxiv.org/abs/2607.14713](https://arxiv.org/abs/2607.14713)

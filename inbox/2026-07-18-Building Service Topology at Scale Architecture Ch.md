@@ -1,7 +1,10 @@
 ---
-title: "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss
+slack_ts: '1784432005.487889'
+source: Netflix Tech Blog
+title: 'Building Service Topology at Scale: Architecture, Challenges, and Lessons
+  Learned'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

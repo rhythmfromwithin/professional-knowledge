@@ -1,11 +1,12 @@
 ---
-title: "Messy Research, Certification and the Monetization of Science"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.13844
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13844
 next_step: skim
+priority: low
+slack_ts: '1784432002.300359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Messy Research, Certification and the Monetization of Science
 ---
 # Messy Research, Certification and the Monetization of Science
 > 原文: [https://arxiv.org/abs/2607.13844](https://arxiv.org/abs/2607.13844)

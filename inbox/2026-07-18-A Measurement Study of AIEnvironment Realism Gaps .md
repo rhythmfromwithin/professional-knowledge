@@ -1,11 +1,12 @@
 ---
-title: "A Measurement Study of AI-Environment Realism Gaps in Malware-Analysis Sandboxes"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.14434
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14434
 next_step: skim
+priority: low
+slack_ts: '1784432004.258089'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Measurement Study of AI-Environment Realism Gaps in Malware-Analysis Sandboxes
 ---
 # A Measurement Study of AI-Environment Realism Gaps in Malware-Analysis Sandboxes
 > 原文: [https://arxiv.org/abs/2607.14434](https://arxiv.org/abs/2607.14434)

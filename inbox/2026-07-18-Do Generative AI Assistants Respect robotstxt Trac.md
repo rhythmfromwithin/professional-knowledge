@@ -1,11 +1,13 @@
 ---
-title: "Do Generative AI Assistants Respect robots.txt? Tracing Web Access Beyond Visible Answers"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.14447
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14447
 next_step: skim
+priority: medium
+slack_ts: '1784432006.353459'
+source: cs.CY - Computers and Society
+status: unread
+title: Do Generative AI Assistants Respect robots.txt? Tracing Web Access Beyond Visible
+  Answers
 ---
 # Do Generative AI Assistants Respect robots.txt? Tracing Web Access Beyond Visible Answers
 > 原文: [https://arxiv.org/abs/2607.14447](https://arxiv.org/abs/2607.14447)

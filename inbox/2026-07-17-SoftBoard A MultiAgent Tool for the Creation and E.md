@@ -1,11 +1,13 @@
 ---
-title: "SoftBoard: A Multi-Agent Tool for the Creation and Evaluation of Low-Fidelity Prototypes"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.13179
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13179
 next_step: skim
+priority: low
+slack_ts: '1784432003.490859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SoftBoard: A Multi-Agent Tool for the Creation and Evaluation of Low-Fidelity
+  Prototypes'
 ---
 # SoftBoard: A Multi-Agent Tool for the Creation and Evaluation of Low-Fidelity Prototypes
 > 原文: [https://arxiv.org/abs/2607.13179](https://arxiv.org/abs/2607.13179)

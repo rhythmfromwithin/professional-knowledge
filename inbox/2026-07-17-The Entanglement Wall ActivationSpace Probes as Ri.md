@@ -1,11 +1,13 @@
 ---
-title: "The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context Adjudicators"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.13075
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13075
 next_step: skim
+priority: low
+slack_ts: '1784432003.559829'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context
+  Adjudicators'
 ---
 # The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context Adjudicators
 > 原文: [https://arxiv.org/abs/2607.13075](https://arxiv.org/abs/2607.13075)

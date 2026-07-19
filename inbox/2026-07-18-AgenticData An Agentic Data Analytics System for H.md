@@ -1,11 +1,12 @@
 ---
-title: "AgenticData: An Agentic Data Analytics System for Heterogeneous Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2508.05002
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2508.05002
 next_step: skim
+priority: low
+slack_ts: '1784432004.768749'
+source: cs.DB - Databases
+status: unread
+title: 'AgenticData: An Agentic Data Analytics System for Heterogeneous Data'
 ---
 # AgenticData: An Agentic Data Analytics System for Heterogeneous Data
 > 原文: [https://arxiv.org/abs/2508.05002](https://arxiv.org/abs/2508.05002)

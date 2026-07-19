@@ -1,11 +1,12 @@
 ---
-title: "The Perplexity Trap: When Patent Law Makes Human Writing Look Like AI"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.13044
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13044
 next_step: skim
+priority: high
+slack_ts: '1784432003.687669'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Perplexity Trap: When Patent Law Makes Human Writing Look Like AI'
 ---
 # The Perplexity Trap: When Patent Law Makes Human Writing Look Like AI
 > 原文: [https://arxiv.org/abs/2607.13044](https://arxiv.org/abs/2607.13044)

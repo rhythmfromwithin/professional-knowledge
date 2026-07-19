@@ -1,11 +1,12 @@
 ---
-title: "Confidence-based Ranking with Adaptive Sampling for Noisy Black-Box Optimisation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.14936
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14936
 next_step: skim
+priority: low
+slack_ts: '1784432005.962679'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Confidence-based Ranking with Adaptive Sampling for Noisy Black-Box Optimisation
 ---
 # Confidence-based Ranking with Adaptive Sampling for Noisy Black-Box Optimisation
 > 原文: [https://arxiv.org/abs/2607.14936](https://arxiv.org/abs/2607.14936)

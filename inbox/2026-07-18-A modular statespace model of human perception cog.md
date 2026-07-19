@@ -1,11 +1,12 @@
 ---
-title: "A modular state-space model of human perception, cognition, and decision dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.14078
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14078
 next_step: skim
+priority: low
+slack_ts: '1784432004.355739'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A modular state-space model of human perception, cognition, and decision dynamics
 ---
 # A modular state-space model of human perception, cognition, and decision dynamics
 > 原文: [https://arxiv.org/abs/2607.14078](https://arxiv.org/abs/2607.14078)

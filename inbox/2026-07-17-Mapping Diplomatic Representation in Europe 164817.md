@@ -1,11 +1,12 @@
 ---
-title: "Mapping Diplomatic Representation in Europe, 1648-1715"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.13526
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13526
 next_step: skim
+priority: low
+slack_ts: '1784432002.202849'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Mapping Diplomatic Representation in Europe, 1648-1715
 ---
 # Mapping Diplomatic Representation in Europe, 1648-1715
 > 原文: [https://arxiv.org/abs/2607.13526](https://arxiv.org/abs/2607.13526)

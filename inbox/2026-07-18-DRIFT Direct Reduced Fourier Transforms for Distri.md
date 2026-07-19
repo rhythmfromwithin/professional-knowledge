@@ -1,11 +1,12 @@
 ---
-title: "DRIFT: Direct Reduced Fourier Transforms for Distributed Spectral Neural Operators"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.14394
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14394
 next_step: skim
+priority: medium
+slack_ts: '1784432006.207699'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DRIFT: Direct Reduced Fourier Transforms for Distributed Spectral Neural Operators'
 ---
 # DRIFT: Direct Reduced Fourier Transforms for Distributed Spectral Neural Operators
 > 原文: [https://arxiv.org/abs/2607.14394](https://arxiv.org/abs/2607.14394)

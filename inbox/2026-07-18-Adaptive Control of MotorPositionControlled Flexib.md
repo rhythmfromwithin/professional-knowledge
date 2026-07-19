@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Control of Motor-Position-Controlled Flexible Joint Robots with Uncertain Joint Stiffness"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.14177
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14177
 next_step: skim
+priority: medium
+slack_ts: '1784432004.698159'
+source: cs.RO - Robotics
+status: unread
+title: Adaptive Control of Motor-Position-Controlled Flexible Joint Robots with Uncertain
+  Joint Stiffness
 ---
 # Adaptive Control of Motor-Position-Controlled Flexible Joint Robots with Uncertain Joint Stiffness
 > 原文: [https://arxiv.org/abs/2607.14177](https://arxiv.org/abs/2607.14177)

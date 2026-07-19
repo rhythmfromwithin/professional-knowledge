@@ -1,11 +1,12 @@
 ---
-title: "Price of Fairness in Bandits: A Tight Minimax Characterization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.13402
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13402
 next_step: skim
+priority: medium
+slack_ts: '1784432003.088299'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Price of Fairness in Bandits: A Tight Minimax Characterization'
 ---
 # Price of Fairness in Bandits: A Tight Minimax Characterization
 > 原文: [https://arxiv.org/abs/2607.13402](https://arxiv.org/abs/2607.13402)

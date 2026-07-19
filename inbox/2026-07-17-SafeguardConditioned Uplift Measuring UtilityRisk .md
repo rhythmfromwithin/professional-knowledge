@@ -1,11 +1,13 @@
 ---
-title: "Safeguard-Conditioned Uplift: Measuring Utility-Risk Frontiers for Dual-Use Biology Assistants"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.13039
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13039
 next_step: skim
+priority: medium
+slack_ts: '1784432003.277059'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Safeguard-Conditioned Uplift: Measuring Utility-Risk Frontiers for Dual-Use
+  Biology Assistants'
 ---
 # Safeguard-Conditioned Uplift: Measuring Utility-Risk Frontiers for Dual-Use Biology Assistants
 > 原文: [https://arxiv.org/abs/2607.13039](https://arxiv.org/abs/2607.13039)

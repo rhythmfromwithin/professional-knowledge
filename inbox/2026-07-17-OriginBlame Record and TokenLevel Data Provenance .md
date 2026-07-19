@@ -1,11 +1,12 @@
 ---
-title: "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.13037
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13037
 next_step: skim
+priority: high
+slack_ts: '1784432002.684649'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets'
 ---
 # OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets
 > 原文: [https://arxiv.org/abs/2607.13037](https://arxiv.org/abs/2607.13037)

@@ -1,11 +1,12 @@
 ---
-title: "BioTIER: A Refusal Benchmark for Targeted Biological Risk Mitigation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.14479
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14479
 next_step: skim
+priority: medium
+slack_ts: '1784432005.383159'
+source: cs.CY - Computers and Society
+status: unread
+title: 'BioTIER: A Refusal Benchmark for Targeted Biological Risk Mitigation'
 ---
 # BioTIER: A Refusal Benchmark for Targeted Biological Risk Mitigation
 > 原文: [https://arxiv.org/abs/2607.14479](https://arxiv.org/abs/2607.14479)

@@ -1,11 +1,13 @@
 ---
-title: "Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.14127
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14127
 next_step: skim
+priority: high
+slack_ts: '1784432006.565679'
+source: cs.LG - Machine Learning
+status: unread
+title: Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived
+  Terrain Intelligence
 ---
 # Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence
 > 原文: [https://arxiv.org/abs/2607.14127](https://arxiv.org/abs/2607.14127)

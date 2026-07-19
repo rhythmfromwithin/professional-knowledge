@@ -1,11 +1,12 @@
 ---
-title: "Not Your Usual Type(s): Data contracts as types across languages and engines"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.13339
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13339
 next_step: skim
+priority: low
+slack_ts: '1784432002.463989'
+source: cs.DB - Databases
+status: unread
+title: 'Not Your Usual Type(s): Data contracts as types across languages and engines'
 ---
 # Not Your Usual Type(s): Data contracts as types across languages and engines
 > 原文: [https://arxiv.org/abs/2607.13339](https://arxiv.org/abs/2607.13339)

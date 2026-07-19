@@ -1,11 +1,12 @@
 ---
-title: "Power from Potential: A Survey of Electrostatic Actuators for Haptics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.13058
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13058
 next_step: skim
+priority: medium
+slack_ts: '1784432003.007709'
+source: cs.RO - Robotics
+status: unread
+title: 'Power from Potential: A Survey of Electrostatic Actuators for Haptics'
 ---
 # Power from Potential: A Survey of Electrostatic Actuators for Haptics
 > 原文: [https://arxiv.org/abs/2607.13058](https://arxiv.org/abs/2607.13058)

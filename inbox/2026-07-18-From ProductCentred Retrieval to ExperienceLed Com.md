@@ -1,11 +1,13 @@
 ---
-title: "From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate Design Principles for Fashion E-Commerce User Experience"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.14429
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14429
 next_step: skim
+priority: low
+slack_ts: '1784432006.796519'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate
+  Design Principles for Fashion E-Commerce User Experience
 ---
 # From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate Design Principles for Fashion E-Commerce User Experience
 > 原文: [https://arxiv.org/abs/2607.14429](https://arxiv.org/abs/2607.14429)
