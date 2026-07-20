@@ -1,11 +1,12 @@
 ---
-title: "Natural-Language to SysMLv2 Translation via Conformance-Driven Iterative Refinement"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.14162
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14162
 next_step: skim
+priority: low
+slack_ts: '1784519280.965499'
+source: cs.SE - Software Engineering
+status: unread
+title: Natural-Language to SysMLv2 Translation via Conformance-Driven Iterative Refinement
 ---
 # Natural-Language to SysMLv2 Translation via Conformance-Driven Iterative Refinement
 > 原文: [https://arxiv.org/abs/2607.14162](https://arxiv.org/abs/2607.14162)

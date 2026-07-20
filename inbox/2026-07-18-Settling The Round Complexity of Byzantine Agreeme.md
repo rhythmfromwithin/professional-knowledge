@@ -1,11 +1,13 @@
 ---
-title: "Settling The Round Complexity of Byzantine Agreement Against a Full-Information, Adaptive Adversary"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.14413
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14413
 next_step: skim
+priority: medium
+slack_ts: '1784519284.317749'
+source: cs.DC - Distributed Computing
+status: unread
+title: Settling The Round Complexity of Byzantine Agreement Against a Full-Information,
+  Adaptive Adversary
 ---
 # Settling The Round Complexity of Byzantine Agreement Against a Full-Information, Adaptive Adversary
 > 原文: [https://arxiv.org/abs/2607.14413](https://arxiv.org/abs/2607.14413)

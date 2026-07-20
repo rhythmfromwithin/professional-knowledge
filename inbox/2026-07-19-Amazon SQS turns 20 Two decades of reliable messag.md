@@ -1,11 +1,12 @@
 ---
-title: "Amazon SQS turns 20: Two decades of reliable messaging at scale"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/
 next_step: skim
+priority: high
+slack_ts: '1784519288.241579'
+source: AWS Blog
+status: unread
+title: 'Amazon SQS turns 20: Two decades of reliable messaging at scale'
 ---
 # Amazon SQS turns 20: Two decades of reliable messaging at scale
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/](https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/)

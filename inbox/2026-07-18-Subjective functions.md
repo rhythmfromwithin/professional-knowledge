@@ -1,11 +1,12 @@
 ---
-title: "Subjective functions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2512.15948
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2512.15948
 next_step: skim
+priority: low
+slack_ts: '1784519284.882779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Subjective functions
 ---
 # Subjective functions
 > 原文: [https://arxiv.org/abs/2512.15948](https://arxiv.org/abs/2512.15948)

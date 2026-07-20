@@ -1,11 +1,13 @@
 ---
-title: "Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents for SAR ADC Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.14165
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14165
 next_step: skim
+priority: low
+slack_ts: '1784519285.765459'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents
+  for SAR ADC Generation'
 ---
 # Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents for SAR ADC Generation
 > 原文: [https://arxiv.org/abs/2607.14165](https://arxiv.org/abs/2607.14165)

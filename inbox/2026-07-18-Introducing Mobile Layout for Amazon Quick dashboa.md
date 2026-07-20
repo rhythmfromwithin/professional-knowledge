@@ -1,11 +1,12 @@
 ---
-title: "Introducing Mobile Layout for Amazon Quick dashboards"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/
 next_step: skim
+priority: high
+slack_ts: '1784519278.851159'
+source: AWS Blog
+status: unread
+title: Introducing Mobile Layout for Amazon Quick dashboards
 ---
 # Introducing Mobile Layout for Amazon Quick dashboards
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/](https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/)

@@ -1,11 +1,12 @@
 ---
-title: "LBA: Textual Hard-Label Adversarial Attack under Low Query Budgets"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.14101
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14101
 next_step: skim
+priority: high
+slack_ts: '1784519280.163329'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'LBA: Textual Hard-Label Adversarial Attack under Low Query Budgets'
 ---
 # LBA: Textual Hard-Label Adversarial Attack under Low Query Budgets
 > 原文: [https://arxiv.org/abs/2607.14101](https://arxiv.org/abs/2607.14101)

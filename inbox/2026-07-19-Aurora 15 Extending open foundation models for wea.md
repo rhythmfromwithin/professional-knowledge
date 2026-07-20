@@ -1,11 +1,13 @@
 ---
-title: "Aurora 1.5: Extending open foundation models for weather and Earth-system applications"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/
 next_step: skim
+priority: high
+slack_ts: '1784519288.534669'
+source: Microsoft Research
+status: unread
+title: 'Aurora 1.5: Extending open foundation models for weather and Earth-system
+  applications'
 ---
 # Aurora 1.5: Extending open foundation models for weather and Earth-system applications
 > 原文: [https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/)

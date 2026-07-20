@@ -1,11 +1,13 @@
 ---
-title: "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.13069
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13069
 next_step: skim
+priority: high
+slack_ts: '1784519278.339339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM
+  Chain-of-Thought via Predicate Substitution'
 ---
 # Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution
 > 原文: [https://arxiv.org/abs/2607.13069](https://arxiv.org/abs/2607.13069)

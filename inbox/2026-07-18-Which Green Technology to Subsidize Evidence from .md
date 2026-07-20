@@ -1,11 +1,13 @@
 ---
-title: "Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.14446
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14446
 next_step: skim
+priority: low
+slack_ts: '1784519286.863599'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Which Green Technology to Subsidize? Evidence from Electric Vehicles in South
+  Korea
 ---
 # Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea
 > 原文: [https://arxiv.org/abs/2607.14446](https://arxiv.org/abs/2607.14446)

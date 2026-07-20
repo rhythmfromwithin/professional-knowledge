@@ -1,11 +1,13 @@
 ---
-title: "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.14202
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14202
 next_step: skim
+priority: medium
+slack_ts: '1784519279.869509'
+source: cs.CV - Computer Vision
+status: unread
+title: 'KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned
+  Video Generation'
 ---
 # KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation
 > 原文: [https://arxiv.org/abs/2607.14202](https://arxiv.org/abs/2607.14202)

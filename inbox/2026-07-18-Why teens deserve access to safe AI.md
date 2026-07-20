@@ -1,11 +1,12 @@
 ---
-title: "Why teens deserve access to safe AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/why-teens-deserve-access-safe-ai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/why-teens-deserve-access-safe-ai
 next_step: skim
+priority: high
+slack_ts: '1784519287.095979'
+source: OpenAI Blog
+status: unread
+title: Why teens deserve access to safe AI
 ---
 # Why teens deserve access to safe AI
 > 原文: [https://openai.com/index/why-teens-deserve-access-safe-ai](https://openai.com/index/why-teens-deserve-access-safe-ai)

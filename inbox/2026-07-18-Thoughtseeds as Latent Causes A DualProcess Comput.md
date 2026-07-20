@@ -1,11 +1,13 @@
 ---
-title: "Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.14833
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14833
 next_step: skim
+priority: low
+slack_ts: '1784519285.459789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology
+  of Focused-Attention Meditation'
 ---
 # Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation
 > 原文: [https://arxiv.org/abs/2607.14833](https://arxiv.org/abs/2607.14833)

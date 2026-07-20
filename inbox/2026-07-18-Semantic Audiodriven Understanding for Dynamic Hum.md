@@ -1,11 +1,12 @@
 ---
-title: "Semantic Audio-driven Understanding for Dynamic Humanoid Whole Body Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.14182
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14182
 next_step: skim
+priority: medium
+slack_ts: '1784519284.027879'
+source: cs.RO - Robotics
+status: unread
+title: Semantic Audio-driven Understanding for Dynamic Humanoid Whole Body Control
 ---
 # Semantic Audio-driven Understanding for Dynamic Humanoid Whole Body Control
 > 原文: [https://arxiv.org/abs/2607.14182](https://arxiv.org/abs/2607.14182)

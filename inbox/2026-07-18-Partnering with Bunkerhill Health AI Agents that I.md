@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/
 next_step: skim
+priority: high
+slack_ts: '1784519282.403699'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes'
 ---
 # Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes
 > 原文: [https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/](https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/)

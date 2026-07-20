@@ -1,11 +1,13 @@
 ---
-title: "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.14189
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14189
 next_step: skim
+priority: medium
+slack_ts: '1784519280.675769'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video
+  Generation'
 ---
 # MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation
 > 原文: [https://arxiv.org/abs/2607.14189](https://arxiv.org/abs/2607.14189)

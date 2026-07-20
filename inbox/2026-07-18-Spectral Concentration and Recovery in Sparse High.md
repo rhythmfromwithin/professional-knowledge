@@ -1,11 +1,13 @@
 ---
-title: "Spectral Concentration and Recovery in Sparse High-Dimensional Random Geometric Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.14304
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14304
 next_step: skim
+priority: medium
+slack_ts: '1784519284.601069'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Spectral Concentration and Recovery in Sparse High-Dimensional Random Geometric
+  Graphs
 ---
 # Spectral Concentration and Recovery in Sparse High-Dimensional Random Geometric Graphs
 > 原文: [https://arxiv.org/abs/2607.14304](https://arxiv.org/abs/2607.14304)

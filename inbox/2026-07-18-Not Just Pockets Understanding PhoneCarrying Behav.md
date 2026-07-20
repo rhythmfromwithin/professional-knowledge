@@ -1,11 +1,13 @@
 ---
-title: "Not Just Pockets: Understanding Phone-Carrying Behaviors of Wheelchair Users for Mobile Context-Awareness"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.14437
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14437
 next_step: skim
+priority: low
+slack_ts: '1784519281.249739'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Not Just Pockets: Understanding Phone-Carrying Behaviors of Wheelchair Users
+  for Mobile Context-Awareness'
 ---
 # Not Just Pockets: Understanding Phone-Carrying Behaviors of Wheelchair Users for Mobile Context-Awareness
 > 原文: [https://arxiv.org/abs/2607.14437](https://arxiv.org/abs/2607.14437)

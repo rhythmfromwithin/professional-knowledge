@@ -1,11 +1,13 @@
 ---
-title: "Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.14183
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14183
 next_step: skim
+priority: medium
+slack_ts: '1784519281.540179'
+source: cs.RO - Robotics
+status: unread
+title: 'Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied
+  Learning'
 ---
 # Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning
 > 原文: [https://arxiv.org/abs/2607.14183](https://arxiv.org/abs/2607.14183)

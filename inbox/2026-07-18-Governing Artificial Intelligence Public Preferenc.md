@@ -1,11 +1,12 @@
 ---
-title: "Governing Artificial Intelligence: Public Preferences and Regulatory Options"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.14585
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14585
 next_step: skim
+priority: low
+slack_ts: '1784519277.303339'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Governing Artificial Intelligence: Public Preferences and Regulatory Options'
 ---
 # Governing Artificial Intelligence: Public Preferences and Regulatory Options
 > 原文: [https://arxiv.org/abs/2607.14585](https://arxiv.org/abs/2607.14585)

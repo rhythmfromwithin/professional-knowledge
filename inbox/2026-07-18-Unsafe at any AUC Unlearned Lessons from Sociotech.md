@@ -1,11 +1,13 @@
 ---
-title: "Unsafe at any AUC: Unlearned Lessons from Sociotechnical Disasters for Responsible AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.14353
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14353
 next_step: skim
+priority: medium
+slack_ts: '1784519286.278609'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Unsafe at any AUC: Unlearned Lessons from Sociotechnical Disasters for Responsible
+  AI'
 ---
 # Unsafe at any AUC: Unlearned Lessons from Sociotechnical Disasters for Responsible AI
 > 原文: [https://arxiv.org/abs/2607.14353](https://arxiv.org/abs/2607.14353)

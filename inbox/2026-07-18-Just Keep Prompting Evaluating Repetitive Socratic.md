@@ -1,11 +1,12 @@
 ---
-title: "Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.14099
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14099
 next_step: skim
+priority: high
+slack_ts: '1784519279.586619'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs'
 ---
 # Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs
 > 原文: [https://arxiv.org/abs/2607.14099](https://arxiv.org/abs/2607.14099)

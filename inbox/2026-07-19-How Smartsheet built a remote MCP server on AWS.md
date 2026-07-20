@@ -1,11 +1,12 @@
 ---
-title: "How Smartsheet built a remote MCP server on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1784519293.437789'
+source: AWS Blog
+status: unread
+title: How Smartsheet built a remote MCP server on AWS
 ---
 # How Smartsheet built a remote MCP server on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)

@@ -1,11 +1,13 @@
 ---
-title: "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.14123
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14123
 next_step: skim
+priority: high
+slack_ts: '1784519283.135179'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Position: Explainability Research Must Prioritize Foundations over Ad-hoc
+  Methods'
 ---
 # Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods
 > 原文: [https://arxiv.org/abs/2607.14123](https://arxiv.org/abs/2607.14123)

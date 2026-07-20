@@ -1,11 +1,12 @@
 ---
-title: "SPINE: Bridging the Cyber-Physical Gap with Agentic AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.13049
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.13049
 next_step: skim
+priority: high
+slack_ts: '1784519283.413219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SPINE: Bridging the Cyber-Physical Gap with Agentic AI'
 ---
 # SPINE: Bridging the Cyber-Physical Gap with Agentic AI
 > 原文: [https://arxiv.org/abs/2607.13049](https://arxiv.org/abs/2607.13049)

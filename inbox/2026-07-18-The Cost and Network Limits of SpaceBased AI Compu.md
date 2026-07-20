@@ -1,11 +1,12 @@
 ---
-title: "The Cost and Network Limits of Space-Based AI Compute"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.14172
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.14172
 next_step: skim
+priority: medium
+slack_ts: '1784519285.168669'
+source: cs.DC - Distributed Computing
+status: unread
+title: The Cost and Network Limits of Space-Based AI Compute
 ---
 # The Cost and Network Limits of Space-Based AI Compute
 > 原文: [https://arxiv.org/abs/2607.14172](https://arxiv.org/abs/2607.14172)
