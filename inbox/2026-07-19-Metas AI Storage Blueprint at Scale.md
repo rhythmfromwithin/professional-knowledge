@@ -1,11 +1,12 @@
 ---
-title: "Meta’s AI Storage Blueprint at Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/
 next_step: skim
+priority: medium
+slack_ts: '1784604417.074259'
+source: Meta Engineering
+status: unread
+title: Meta’s AI Storage Blueprint at Scale
 ---
 # Meta’s AI Storage Blueprint at Scale
 > 原文: [https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/)

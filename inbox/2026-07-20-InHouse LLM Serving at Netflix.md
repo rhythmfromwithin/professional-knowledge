@@ -1,7 +1,9 @@
 ---
-title: "In-House LLM Serving at Netflix"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss
+slack_ts: '1784604421.743059'
+source: Netflix Tech Blog
+title: In-House LLM Serving at Netflix
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

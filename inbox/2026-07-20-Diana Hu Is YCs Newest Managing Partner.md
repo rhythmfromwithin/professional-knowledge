@@ -1,11 +1,12 @@
 ---
-title: "Diana Hu Is YC's Newest Managing Partner"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/diana-hu-managing-partner/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/diana-hu-managing-partner/
 next_step: skim
+priority: high
+slack_ts: '1784604420.618949'
+source: Y Combinator
+status: unread
+title: Diana Hu Is YC's Newest Managing Partner
 ---
 # Diana Hu Is YC's Newest Managing Partner
 > 原文: [https://www.ycombinator.com/blog/diana-hu-managing-partner/](https://www.ycombinator.com/blog/diana-hu-managing-partner/)

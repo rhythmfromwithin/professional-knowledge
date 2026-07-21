@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Sable: Closing the Diffusion Gap"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/
 next_step: skim
+priority: high
+slack_ts: '1784604417.673109'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Sable: Closing the Diffusion Gap'
 ---
 # Partnering with Sable: Closing the Diffusion Gap
 > 原文: [https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/](https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/)

@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Probook: AI for the Trades"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/
 next_step: skim
+priority: high
+slack_ts: '1784604422.890749'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Probook: AI for the Trades'
 ---
 # Partnering with Probook: AI for the Trades
 > 原文: [https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/](https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/)

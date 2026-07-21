@@ -1,11 +1,12 @@
 ---
-title: "Celebrating 25 years of visual search innovation"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
 next_step: skim
+priority: high
+slack_ts: '1784604420.056539'
+source: Google AI Blog
+status: unread
+title: Celebrating 25 years of visual search innovation
 ---
 # Celebrating 25 years of visual search innovation
 > 原文: [https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/)
