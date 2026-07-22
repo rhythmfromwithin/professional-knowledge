@@ -1,11 +1,13 @@
 ---
-title: "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.15280
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15280
 next_step: skim
+priority: high
+slack_ts: '1784690753.302569'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential
+  Diagnosis'
 ---
 # GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis
 > 原文: [https://arxiv.org/abs/2607.15280](https://arxiv.org/abs/2607.15280)

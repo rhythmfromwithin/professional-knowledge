@@ -1,0 +1,14 @@
+---
+title: "I-Rex: An Interactive Debugger for SQL"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2607.16452
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# I-Rex: An Interactive Debugger for SQL
+> 原文: [https://arxiv.org/abs/2607.16452](https://arxiv.org/abs/2607.16452)
+
+arXiv:2607.16452v1 Announce Type: new
+Abstract: SQL is declarative in nature and rich in its features. Writing semantically correct SQL queries and finding logical bugs in SQL are not easy, even for experienced programmers, who are often used to the mindset of working with general-purpose programming languages (GPLs). While there are many GPL debuggers, SQL debugging has received much less attention. In this paper, we present I-Rex, a SQL debugger that enables users to inspect the logical execution of SQL queries visually and interactively to identify and potentially fix logical bugs in the queries. I-Rex draws analogies to the debugging paradigm of GPLs (e.g., stepping, watchpoints, etc.), making it easier for programmers to adopt. However, unlike debugging GPLs, which involves executing the underlying program in full to the point of interest, I-Rex allows users to jump to arbitrary points of interest by leveraging the power of the database systems, through selective materialization and query rewrites. To simplify deployment, I-Rex acts as a lightweight middleware on top of the database system; it imposes no overhead to prepare a database for debugging and maintains no state in the database systems during debugging sessions. We demonstrate the effectiveness of I-Rex through performance experiments as well as a user study in an educational setting.

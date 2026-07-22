@@ -1,11 +1,12 @@
 ---
-title: "Efficient and Effective In-place Graph-based Vector Index Updates"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.15576
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15576
 next_step: skim
+priority: low
+slack_ts: '1784690752.448489'
+source: cs.DB - Databases
+status: unread
+title: Efficient and Effective In-place Graph-based Vector Index Updates
 ---
 # Efficient and Effective In-place Graph-based Vector Index Updates
 > 原文: [https://arxiv.org/abs/2607.15576](https://arxiv.org/abs/2607.15576)

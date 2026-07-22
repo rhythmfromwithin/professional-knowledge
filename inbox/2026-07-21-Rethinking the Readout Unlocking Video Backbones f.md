@@ -1,11 +1,12 @@
 ---
-title: "Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.15321
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15321
 next_step: skim
+priority: medium
+slack_ts: '1784690755.032519'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection'
 ---
 # Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection
 > 原文: [https://arxiv.org/abs/2607.15321](https://arxiv.org/abs/2607.15321)

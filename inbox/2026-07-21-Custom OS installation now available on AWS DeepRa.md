@@ -1,11 +1,12 @@
 ---
-title: "Custom OS installation now available on AWS DeepRacer devices"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/
 next_step: skim
+priority: high
+slack_ts: '1784690752.226479'
+source: AWS Blog
+status: unread
+title: Custom OS installation now available on AWS DeepRacer devices
 ---
 # Custom OS installation now available on AWS DeepRacer devices
 > 原文: [https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/](https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/)

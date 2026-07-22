@@ -1,11 +1,13 @@
 ---
-title: "Empathy as Predictive Misalignment Tolerance: A Co-Regulation Framework and the Regime Structure of Dialogue Repair"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.15282
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15282
 next_step: skim
+priority: low
+slack_ts: '1784690752.547529'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Empathy as Predictive Misalignment Tolerance: A Co-Regulation Framework and
+  the Regime Structure of Dialogue Repair'
 ---
 # Empathy as Predictive Misalignment Tolerance: A Co-Regulation Framework and the Regime Structure of Dialogue Repair
 > 原文: [https://arxiv.org/abs/2607.15282](https://arxiv.org/abs/2607.15282)

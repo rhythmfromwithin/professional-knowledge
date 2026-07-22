@@ -1,11 +1,13 @@
 ---
-title: "Toward a mechanistic understanding of inference in visual cortex and diffusion models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.15693
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15693
 next_step: skim
+priority: low
+slack_ts: '1784690755.733619'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Toward a mechanistic understanding of inference in visual cortex and diffusion
+  models
 ---
 # Toward a mechanistic understanding of inference in visual cortex and diffusion models
 > 原文: [https://arxiv.org/abs/2607.15693](https://arxiv.org/abs/2607.15693)

@@ -1,11 +1,12 @@
 ---
-title: "Large Language Models as Unified Multimodal Learners for Clinical Prediction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.15380
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15380
 next_step: skim
+priority: high
+slack_ts: '1784690754.031489'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Large Language Models as Unified Multimodal Learners for Clinical Prediction
 ---
 # Large Language Models as Unified Multimodal Learners for Clinical Prediction
 > 原文: [https://arxiv.org/abs/2607.15380](https://arxiv.org/abs/2607.15380)

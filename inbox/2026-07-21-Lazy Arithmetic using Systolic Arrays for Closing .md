@@ -1,11 +1,13 @@
 ---
-title: "Lazy Arithmetic using Systolic Arrays for Closing the Verification Gap on Embedded Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.15328
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15328
 next_step: skim
+priority: low
+slack_ts: '1784690754.100879'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Lazy Arithmetic using Systolic Arrays for Closing the Verification Gap on Embedded
+  Systems
 ---
 # Lazy Arithmetic using Systolic Arrays for Closing the Verification Gap on Embedded Systems
 > 原文: [https://arxiv.org/abs/2607.15328](https://arxiv.org/abs/2607.15328)

@@ -1,0 +1,14 @@
+---
+title: "AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2607.16372
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language
+> 原文: [https://arxiv.org/abs/2607.16372](https://arxiv.org/abs/2607.16372)
+
+arXiv:2607.16372v1 Announce Type: new
+Abstract: Interactive theorem proving (ITP) underpins program verification and formalized mathematics, but its manual effort limits scalability. LLM-based proof agents promise to ease this effort, but their heavy token consumption and API cost remain a major obstacle. We trace this cost to a shared root: current agents operate on serialized concrete syntax, emitting proofs as source text and recovering proof states through separate, line-number-based queries, so every edit shifts later lines and forces repeated relocation of errors and states. This same dependence on concrete syntax also blocks adoption of Minilang, a recent proof language that reaches SOTA on LLM-based proving but is too new for LLMs' training corpora. We address both problems by lifting the agent off source text and onto the abstract syntax tree (AST): the model supplies proofs as JSON representations of Minilang's AST -- native to tool-calling LLMs -- and drives the prover through a tree-edit model that fuses proof operations and states into one proof tree, so each operation carries its own subgoal's state, readable directly off the tree. We realize this design in \emph{Agent over AST} (AoA). Against Amazon's Isabelle Agent on miniF2F and NTP4VC-Pearl common success sets, AoA cuts API cost by 2.3--4.7x (normalized input-cache accounting), uses 2.9--6.9x fewer tokens and 3.9--8.9x fewer tool calls, and finishes 1.4--2.0x faster -- while also solving far more problems on the harder verification benchmark.

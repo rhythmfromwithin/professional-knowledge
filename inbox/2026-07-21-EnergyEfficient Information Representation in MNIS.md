@@ -1,11 +1,13 @@
 ---
-title: "Energy-Efficient Information Representation in MNIST Classification Using Biologically Inspired Learning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2603.00588
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2603.00588
 next_step: skim
+priority: low
+slack_ts: '1784690752.708679'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Energy-Efficient Information Representation in MNIST Classification Using Biologically
+  Inspired Learning
 ---
 # Energy-Efficient Information Representation in MNIST Classification Using Biologically Inspired Learning
 > 原文: [https://arxiv.org/abs/2603.00588](https://arxiv.org/abs/2603.00588)

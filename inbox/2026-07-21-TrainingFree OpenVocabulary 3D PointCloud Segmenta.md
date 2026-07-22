@@ -1,11 +1,13 @@
 ---
-title: "Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.15331
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15331
 next_step: skim
+priority: medium
+slack_ts: '1784690756.319969'
+source: cs.CV - Computer Vision
+status: unread
+title: Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized
+  Few-Shot Benchmark
 ---
 # Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark
 > 原文: [https://arxiv.org/abs/2607.15331](https://arxiv.org/abs/2607.15331)

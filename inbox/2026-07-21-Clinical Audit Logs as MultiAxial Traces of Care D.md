@@ -1,11 +1,12 @@
 ---
-title: "Clinical Audit Logs as Multi-Axial Traces of Care Delivery"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.15397
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15397
 next_step: skim
+priority: medium
+slack_ts: '1784690751.838769'
+source: cs.CY - Computers and Society
+status: unread
+title: Clinical Audit Logs as Multi-Axial Traces of Care Delivery
 ---
 # Clinical Audit Logs as Multi-Axial Traces of Care Delivery
 > 原文: [https://arxiv.org/abs/2607.15397](https://arxiv.org/abs/2607.15397)

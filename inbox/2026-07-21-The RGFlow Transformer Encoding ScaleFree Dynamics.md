@@ -1,11 +1,12 @@
 ---
-title: "The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.11950
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.11950
 next_step: skim
+priority: low
+slack_ts: '1784690755.663359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG'
 ---
 # The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG
 > 原文: [https://arxiv.org/abs/2607.11950](https://arxiv.org/abs/2607.11950)

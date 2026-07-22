@@ -1,11 +1,12 @@
 ---
-title: "Retraining Seeks Stable Signals"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.15623
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15623
 next_step: skim
+priority: medium
+slack_ts: '1784690755.120469'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Retraining Seeks Stable Signals
 ---
 # Retraining Seeks Stable Signals
 > 原文: [https://arxiv.org/abs/2607.15623](https://arxiv.org/abs/2607.15623)

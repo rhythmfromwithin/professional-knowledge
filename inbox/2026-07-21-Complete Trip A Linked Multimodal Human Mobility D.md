@@ -1,11 +1,12 @@
 ---
-title: "Complete Trip: A Linked Multimodal Human Mobility Dataset"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.15436
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15436
 next_step: skim
+priority: medium
+slack_ts: '1784690751.925609'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Complete Trip: A Linked Multimodal Human Mobility Dataset'
 ---
 # Complete Trip: A Linked Multimodal Human Mobility Dataset
 > 原文: [https://arxiv.org/abs/2607.15436](https://arxiv.org/abs/2607.15436)

@@ -1,11 +1,13 @@
 ---
-title: "Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.15313
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15313
 next_step: skim
+priority: high
+slack_ts: '1784690754.868009'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic
+  Scaling'
 ---
 # Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling
 > 原文: [https://arxiv.org/abs/2607.15313](https://arxiv.org/abs/2607.15313)

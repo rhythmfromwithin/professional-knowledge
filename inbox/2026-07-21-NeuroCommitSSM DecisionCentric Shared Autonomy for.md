@@ -1,11 +1,13 @@
 ---
-title: "NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation via EEG-EMG-ET Commit Readiness"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.15395
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15395
 next_step: skim
+priority: medium
+slack_ts: '1784690754.405859'
+source: cs.RO - Robotics
+status: unread
+title: 'NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation
+  via EEG-EMG-ET Commit Readiness'
 ---
 # NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation via EEG-EMG-ET Commit Readiness
 > 原文: [https://arxiv.org/abs/2607.15395](https://arxiv.org/abs/2607.15395)

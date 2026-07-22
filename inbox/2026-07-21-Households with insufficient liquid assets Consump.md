@@ -1,11 +1,13 @@
 ---
-title: "Households with insufficient liquid assets: Consumption responses to income changes"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.15363
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15363
 next_step: skim
+priority: low
+slack_ts: '1784690753.451239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Households with insufficient liquid assets: Consumption responses to income
+  changes'
 ---
 # Households with insufficient liquid assets: Consumption responses to income changes
 > 原文: [https://arxiv.org/abs/2607.15363](https://arxiv.org/abs/2607.15363)

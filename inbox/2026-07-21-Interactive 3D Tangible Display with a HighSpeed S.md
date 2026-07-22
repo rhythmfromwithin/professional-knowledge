@@ -1,11 +1,13 @@
 ---
-title: "Interactive 3D Tangible Display with a High-Speed Stiffness-Variable Jamming Module"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.15325
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15325
 next_step: skim
+priority: low
+slack_ts: '1784690753.663639'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Interactive 3D Tangible Display with a High-Speed Stiffness-Variable Jamming
+  Module
 ---
 # Interactive 3D Tangible Display with a High-Speed Stiffness-Variable Jamming Module
 > 原文: [https://arxiv.org/abs/2607.15325](https://arxiv.org/abs/2607.15325)

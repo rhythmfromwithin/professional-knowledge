@@ -1,11 +1,12 @@
 ---
-title: "FSZ: Breaking the Prediction-Throughput Trade-off in GPU Lossy Compression"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.15413
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15413
 next_step: skim
+priority: medium
+slack_ts: '1784690752.857429'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'FSZ: Breaking the Prediction-Throughput Trade-off in GPU Lossy Compression'
 ---
 # FSZ: Breaking the Prediction-Throughput Trade-off in GPU Lossy Compression
 > 原文: [https://arxiv.org/abs/2607.15413](https://arxiv.org/abs/2607.15413)

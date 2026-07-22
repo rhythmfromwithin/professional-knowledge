@@ -1,11 +1,13 @@
 ---
-title: "Two-Path Status Verification for Outbound Enterprise Messaging Pipelines: Webhook and Scheduled Polling Fallback Architecture"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.15529
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15529
 next_step: skim
+priority: low
+slack_ts: '1784690756.479079'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Two-Path Status Verification for Outbound Enterprise Messaging Pipelines:
+  Webhook and Scheduled Polling Fallback Architecture'
 ---
 # Two-Path Status Verification for Outbound Enterprise Messaging Pipelines: Webhook and Scheduled Polling Fallback Architecture
 > 原文: [https://arxiv.org/abs/2607.15529](https://arxiv.org/abs/2607.15529)

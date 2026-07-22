@@ -1,11 +1,12 @@
 ---
-title: "Scalable LLM Agent Tool Access in the Cloud"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.15593
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15593
 next_step: skim
+priority: medium
+slack_ts: '1784690755.357269'
+source: cs.DC - Distributed Computing
+status: unread
+title: Scalable LLM Agent Tool Access in the Cloud
 ---
 # Scalable LLM Agent Tool Access in the Cloud
 > 原文: [https://arxiv.org/abs/2607.15593](https://arxiv.org/abs/2607.15593)

@@ -1,11 +1,12 @@
 ---
-title: "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.16074
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16074
 next_step: skim
+priority: medium
+slack_ts: '1784690753.812679'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models'
 ---
 # JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models
 > 原文: [https://arxiv.org/abs/2607.16074](https://arxiv.org/abs/2607.16074)

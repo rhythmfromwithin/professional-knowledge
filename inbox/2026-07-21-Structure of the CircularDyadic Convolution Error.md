@@ -1,11 +1,12 @@
 ---
-title: "Structure of the Circular-Dyadic Convolution Error"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.15293
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15293
 next_step: skim
+priority: high
+slack_ts: '1784690755.587989'
+source: cs.LG - Machine Learning
+status: unread
+title: Structure of the Circular-Dyadic Convolution Error
 ---
 # Structure of the Circular-Dyadic Convolution Error
 > 原文: [https://arxiv.org/abs/2607.15293](https://arxiv.org/abs/2607.15293)

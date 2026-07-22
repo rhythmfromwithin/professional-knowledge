@@ -1,11 +1,12 @@
 ---
-title: "Multiverse: Transactional Memory with Dynamic Multiversioning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2601.09735
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2601.09735
 next_step: skim
+priority: low
+slack_ts: '1784690754.334589'
+source: cs.DB - Databases
+status: unread
+title: 'Multiverse: Transactional Memory with Dynamic Multiversioning'
 ---
 # Multiverse: Transactional Memory with Dynamic Multiversioning
 > 原文: [https://arxiv.org/abs/2601.09735](https://arxiv.org/abs/2601.09735)

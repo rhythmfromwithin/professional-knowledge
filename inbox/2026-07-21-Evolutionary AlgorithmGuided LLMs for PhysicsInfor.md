@@ -1,11 +1,12 @@
 ---
-title: "Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.15560
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15560
 next_step: skim
+priority: low
+slack_ts: '1784690752.783119'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design
 ---
 # Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design
 > 原文: [https://arxiv.org/abs/2607.15560](https://arxiv.org/abs/2607.15560)

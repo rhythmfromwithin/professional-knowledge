@@ -1,11 +1,13 @@
 ---
-title: "Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.15422
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15422
 next_step: skim
+priority: medium
+slack_ts: '1784690755.198299'
+source: cs.RO - Robotics
+status: unread
+title: Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic
+  Actuators
 ---
 # Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators
 > 原文: [https://arxiv.org/abs/2607.15422](https://arxiv.org/abs/2607.15422)

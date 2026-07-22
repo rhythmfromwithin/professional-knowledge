@@ -1,11 +1,12 @@
 ---
-title: "On the Impact of Entropy-based Features"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.15379
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15379
 next_step: skim
+priority: low
+slack_ts: '1784690754.553869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: On the Impact of Entropy-based Features
 ---
 # On the Impact of Entropy-based Features
 > 原文: [https://arxiv.org/abs/2607.15379](https://arxiv.org/abs/2607.15379)
