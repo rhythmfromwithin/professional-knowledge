@@ -1,11 +1,12 @@
 ---
-title: "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/
 next_step: skim
+priority: high
+slack_ts: '1784777492.979689'
+source: AWS Blog
+status: unread
+title: Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova
 ---
 # Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova
 > 原文: [https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)

@@ -1,11 +1,13 @@
 ---
-title: "Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.16451
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16451
 next_step: skim
+priority: high
+slack_ts: '1784777491.875039'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level
+  Evidence of Answer Pre-Commitment in an Open-Weight LLM'
 ---
 # Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM
 > 原文: [https://arxiv.org/abs/2607.16451](https://arxiv.org/abs/2607.16451)

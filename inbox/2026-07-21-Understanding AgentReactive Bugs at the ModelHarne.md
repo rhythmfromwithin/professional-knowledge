@@ -1,11 +1,13 @@
 ---
-title: "Understanding Agent-Reactive Bugs at the Model-Harness Boundary: An Empirical Study of LLM Agent Issue Reports"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.15684
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15684
 next_step: skim
+priority: low
+slack_ts: '1784777489.994839'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Understanding Agent-Reactive Bugs at the Model-Harness Boundary: An Empirical
+  Study of LLM Agent Issue Reports'
 ---
 # Understanding Agent-Reactive Bugs at the Model-Harness Boundary: An Empirical Study of LLM Agent Issue Reports
 > 原文: [https://arxiv.org/abs/2607.15684](https://arxiv.org/abs/2607.15684)

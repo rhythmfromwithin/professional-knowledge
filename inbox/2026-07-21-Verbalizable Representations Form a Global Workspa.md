@@ -1,11 +1,12 @@
 ---
-title: "Verbalizable Representations Form a Global Workspace in Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.15495
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15495
 next_step: skim
+priority: high
+slack_ts: '1784777490.153639'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Verbalizable Representations Form a Global Workspace in Language Models
 ---
 # Verbalizable Representations Form a Global Workspace in Language Models
 > 原文: [https://arxiv.org/abs/2607.15495](https://arxiv.org/abs/2607.15495)

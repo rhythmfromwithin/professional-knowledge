@@ -1,11 +1,13 @@
 ---
-title: "Which Hyperparameters Matter? A Game-Theoretic Framework for Interpretable Hyperparameter Sensitivity Analysis"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.15884
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15884
 next_step: skim
+priority: medium
+slack_ts: '1784777490.387159'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Which Hyperparameters Matter? A Game-Theoretic Framework for Interpretable
+  Hyperparameter Sensitivity Analysis
 ---
 # Which Hyperparameters Matter? A Game-Theoretic Framework for Interpretable Hyperparameter Sensitivity Analysis
 > 原文: [https://arxiv.org/abs/2607.15884](https://arxiv.org/abs/2607.15884)

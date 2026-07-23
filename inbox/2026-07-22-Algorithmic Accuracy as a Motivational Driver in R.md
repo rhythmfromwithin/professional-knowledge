@@ -1,11 +1,14 @@
 ---
-title: "Algorithmic Accuracy as a Motivational Driver in Robot-Mediated Learning: A Comparative Study of Cross-Correlation and CNN-Based Sound Detection in an Interactive Quiz Game"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.16299
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16299
 next_step: skim
+priority: low
+slack_ts: '1784777490.865379'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Algorithmic Accuracy as a Motivational Driver in Robot-Mediated Learning:
+  A Comparative Study of Cross-Correlation and CNN-Based Sound Detection in an Interactive
+  Quiz Game'
 ---
 # Algorithmic Accuracy as a Motivational Driver in Robot-Mediated Learning: A Comparative Study of Cross-Correlation and CNN-Based Sound Detection in an Interactive Quiz Game
 > 原文: [https://arxiv.org/abs/2607.16299](https://arxiv.org/abs/2607.16299)

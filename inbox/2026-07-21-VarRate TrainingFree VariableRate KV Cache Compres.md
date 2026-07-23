@@ -1,11 +1,13 @@
 ---
-title: "VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.15498
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15498
 next_step: skim
+priority: high
+slack_ts: '1784777490.078669'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context
+  LLMs'
 ---
 # VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs
 > 原文: [https://arxiv.org/abs/2607.15498](https://arxiv.org/abs/2607.15498)

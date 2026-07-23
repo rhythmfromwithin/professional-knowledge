@@ -1,11 +1,12 @@
 ---
-title: "How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.16573
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16573
 next_step: skim
+priority: low
+slack_ts: '1784777494.129169'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'How to Build Marcus''s Algebraic Mind: From Thagard''s Brain--Mind Viewpoint'
 ---
 # How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint
 > 原文: [https://arxiv.org/abs/2607.16573](https://arxiv.org/abs/2607.16573)

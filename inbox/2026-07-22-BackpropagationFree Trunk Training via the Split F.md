@@ -1,11 +1,12 @@
 ---
-title: "Backpropagation-Free Trunk Training via the Split Forward Gradients"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.16612
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16612
 next_step: skim
+priority: medium
+slack_ts: '1784777491.234499'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Backpropagation-Free Trunk Training via the Split Forward Gradients
 ---
 # Backpropagation-Free Trunk Training via the Split Forward Gradients
 > 原文: [https://arxiv.org/abs/2607.16612](https://arxiv.org/abs/2607.16612)

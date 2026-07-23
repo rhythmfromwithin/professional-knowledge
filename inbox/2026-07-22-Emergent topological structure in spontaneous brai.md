@@ -1,11 +1,12 @@
 ---
-title: "Emergent topological structure in spontaneous brain-organoid activity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.16517
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16517
 next_step: skim
+priority: low
+slack_ts: '1784777492.708869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Emergent topological structure in spontaneous brain-organoid activity
 ---
 # Emergent topological structure in spontaneous brain-organoid activity
 > 原文: [https://arxiv.org/abs/2607.16517](https://arxiv.org/abs/2607.16517)

@@ -1,11 +1,13 @@
 ---
-title: "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.16196
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16196
 next_step: skim
+priority: high
+slack_ts: '1784777492.427799'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Design and Validation of a Lightweight 1D CNN for Affective Touch Classification
+  in Soft Plush Companions
 ---
 # Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions
 > 原文: [https://arxiv.org/abs/2607.16196](https://arxiv.org/abs/2607.16196)

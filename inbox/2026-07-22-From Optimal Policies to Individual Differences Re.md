@@ -1,11 +1,13 @@
 ---
-title: "From Optimal Policies to Individual Differences: Rethinking Reinforcement Learning for Biology"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.16542
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16542
 next_step: skim
+priority: low
+slack_ts: '1784777493.363219'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'From Optimal Policies to Individual Differences: Rethinking Reinforcement
+  Learning for Biology'
 ---
 # From Optimal Policies to Individual Differences: Rethinking Reinforcement Learning for Biology
 > 原文: [https://arxiv.org/abs/2607.16542](https://arxiv.org/abs/2607.16542)

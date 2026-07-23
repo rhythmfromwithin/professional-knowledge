@@ -1,11 +1,12 @@
 ---
-title: "AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.16372
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16372
 next_step: skim
+priority: low
+slack_ts: '1784777491.000959'
+source: cs.SE - Software Engineering
+status: unread
+title: 'AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language'
 ---
 # AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language
 > 原文: [https://arxiv.org/abs/2607.16372](https://arxiv.org/abs/2607.16372)

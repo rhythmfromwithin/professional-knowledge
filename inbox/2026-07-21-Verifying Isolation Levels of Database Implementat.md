@@ -1,11 +1,13 @@
 ---
-title: "Verifying Isolation Levels of Database Implementations for Free Using Separation Logic"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.15877
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.15877
 next_step: skim
+priority: low
+slack_ts: '1784777490.234499'
+source: cs.DB - Databases
+status: unread
+title: Verifying Isolation Levels of Database Implementations for Free Using Separation
+  Logic
 ---
 # Verifying Isolation Levels of Database Implementations for Free Using Separation Logic
 > 原文: [https://arxiv.org/abs/2607.15877](https://arxiv.org/abs/2607.15877)

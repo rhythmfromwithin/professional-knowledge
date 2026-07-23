@@ -1,11 +1,13 @@
 ---
-title: "Control Design for a Rideable Animatronic Two-Wheeled Robot with Quadruped Form"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.16302
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16302
 next_step: skim
+priority: medium
+slack_ts: '1784777492.190249'
+source: cs.RO - Robotics
+status: unread
+title: Control Design for a Rideable Animatronic Two-Wheeled Robot with Quadruped
+  Form
 ---
 # Control Design for a Rideable Animatronic Two-Wheeled Robot with Quadruped Form
 > 原文: [https://arxiv.org/abs/2607.16302](https://arxiv.org/abs/2607.16302)

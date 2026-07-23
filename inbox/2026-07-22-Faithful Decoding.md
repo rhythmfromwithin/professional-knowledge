@@ -1,11 +1,12 @@
 ---
-title: "Faithful Decoding"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.17073
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.17073
 next_step: skim
+priority: low
+slack_ts: '1784777493.054749'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Faithful Decoding
 ---
 # Faithful Decoding
 > 原文: [https://arxiv.org/abs/2607.17073](https://arxiv.org/abs/2607.17073)

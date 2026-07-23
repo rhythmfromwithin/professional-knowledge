@@ -1,11 +1,12 @@
 ---
-title: "AirMoE: Statistic-Augmented Over-the-Air MoE for Collaborative Intelligence"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.16562
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16562
 next_step: skim
+priority: medium
+slack_ts: '1784777490.787569'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'AirMoE: Statistic-Augmented Over-the-Air MoE for Collaborative Intelligence'
 ---
 # AirMoE: Statistic-Augmented Over-the-Air MoE for Collaborative Intelligence
 > 原文: [https://arxiv.org/abs/2607.16562](https://arxiv.org/abs/2607.16562)

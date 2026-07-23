@@ -1,11 +1,12 @@
 ---
-title: "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/
 next_step: skim
+priority: medium
+slack_ts: '1784777492.908169'
+source: Meta Engineering
+status: unread
+title: Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization
 ---
 # Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization
 > 原文: [https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/](https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/)

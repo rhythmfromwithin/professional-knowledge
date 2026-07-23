@@ -1,11 +1,12 @@
 ---
-title: "Hindsight: Similarity-Based Analytics for Mars Rover Drive Retrieval"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.16537
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16537
 next_step: skim
+priority: low
+slack_ts: '1784777493.947869'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Hindsight: Similarity-Based Analytics for Mars Rover Drive Retrieval'
 ---
 # Hindsight: Similarity-Based Analytics for Mars Rover Drive Retrieval
 > 原文: [https://arxiv.org/abs/2607.16537](https://arxiv.org/abs/2607.16537)

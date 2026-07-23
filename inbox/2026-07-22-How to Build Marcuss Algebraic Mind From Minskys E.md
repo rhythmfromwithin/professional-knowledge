@@ -1,11 +1,12 @@
 ---
-title: "How to Build Marcus's Algebraic Mind: From Minsky's Emotion-Machine Viewpoint"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.16623
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16623
 next_step: skim
+priority: low
+slack_ts: '1784777494.016929'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'How to Build Marcus''s Algebraic Mind: From Minsky''s Emotion-Machine Viewpoint'
 ---
 # How to Build Marcus's Algebraic Mind: From Minsky's Emotion-Machine Viewpoint
 > 原文: [https://arxiv.org/abs/2607.16623](https://arxiv.org/abs/2607.16623)

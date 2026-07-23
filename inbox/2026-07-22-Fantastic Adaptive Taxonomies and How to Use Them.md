@@ -1,11 +1,12 @@
 ---
-title: "Fantastic Adaptive Taxonomies and How to Use Them"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.16387
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16387
 next_step: skim
+priority: low
+slack_ts: '1784777493.148329'
+source: cs.SE - Software Engineering
+status: unread
+title: Fantastic Adaptive Taxonomies and How to Use Them
 ---
 # Fantastic Adaptive Taxonomies and How to Use Them
 > 原文: [https://arxiv.org/abs/2607.16387](https://arxiv.org/abs/2607.16387)

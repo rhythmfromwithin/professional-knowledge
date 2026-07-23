@@ -1,11 +1,12 @@
 ---
-title: "Fully-sensorized smart-eyewear platform for on-device Machine Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.16222
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16222
 next_step: skim
+priority: high
+slack_ts: '1784777493.505239'
+source: cs.LG - Machine Learning
+status: unread
+title: Fully-sensorized smart-eyewear platform for on-device Machine Learning
 ---
 # Fully-sensorized smart-eyewear platform for on-device Machine Learning
 > 原文: [https://arxiv.org/abs/2607.16222](https://arxiv.org/abs/2607.16222)

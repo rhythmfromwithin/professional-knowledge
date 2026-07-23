@@ -1,11 +1,12 @@
 ---
-title: "Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.16578
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16578
 next_step: skim
+priority: medium
+slack_ts: '1784777493.756709'
+source: cs.DC - Distributed Computing
+status: unread
+title: Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage
 ---
 # Hardware-Transparent I/O Governance in Disaggregated Heterogeneous Storage
 > 原文: [https://arxiv.org/abs/2607.16578](https://arxiv.org/abs/2607.16578)

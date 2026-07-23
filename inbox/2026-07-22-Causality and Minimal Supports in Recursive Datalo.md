@@ -1,11 +1,12 @@
 ---
-title: "Causality and Minimal Supports in Recursive Datalog"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.16443
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16443
 next_step: skim
+priority: low
+slack_ts: '1784777491.627949'
+source: cs.DB - Databases
+status: unread
+title: Causality and Minimal Supports in Recursive Datalog
 ---
 # Causality and Minimal Supports in Recursive Datalog
 > 原文: [https://arxiv.org/abs/2607.16443](https://arxiv.org/abs/2607.16443)

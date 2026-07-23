@@ -1,11 +1,12 @@
 ---
-title: "AEVAL: From Anecdotal to Deterministic Testing for Agentic Skill Workflows"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.16345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16345
 next_step: skim
+priority: low
+slack_ts: '1784777490.549499'
+source: cs.SE - Software Engineering
+status: unread
+title: 'AEVAL: From Anecdotal to Deterministic Testing for Agentic Skill Workflows'
 ---
 # AEVAL: From Anecdotal to Deterministic Testing for Agentic Skill Workflows
 > 原文: [https://arxiv.org/abs/2607.16345](https://arxiv.org/abs/2607.16345)

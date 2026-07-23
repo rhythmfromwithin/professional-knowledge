@@ -1,11 +1,13 @@
 ---
-title: "DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.16203
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16203
 next_step: skim
+priority: high
+slack_ts: '1784777492.630759'
+source: cs.LG - Machine Learning
+status: unread
+title: 'DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground
+  Truth'
 ---
 # DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth
 > 原文: [https://arxiv.org/abs/2607.16203](https://arxiv.org/abs/2607.16203)

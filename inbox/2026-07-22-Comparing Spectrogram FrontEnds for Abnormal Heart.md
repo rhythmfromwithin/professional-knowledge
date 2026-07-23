@@ -1,11 +1,13 @@
 ---
-title: "Comparing Spectrogram Front-Ends for Abnormal Heart-Sound Detection with a Convolutional Neural Network"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.16220
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16220
 next_step: skim
+priority: medium
+slack_ts: '1784777491.945589'
+source: cs.CY - Computers and Society
+status: unread
+title: Comparing Spectrogram Front-Ends for Abnormal Heart-Sound Detection with a
+  Convolutional Neural Network
 ---
 # Comparing Spectrogram Front-Ends for Abnormal Heart-Sound Detection with a Convolutional Neural Network
 > 原文: [https://arxiv.org/abs/2607.16220](https://arxiv.org/abs/2607.16220)

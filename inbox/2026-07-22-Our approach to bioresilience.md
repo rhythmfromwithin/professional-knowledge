@@ -1,11 +1,12 @@
 ---
-title: "Our approach to bioresilience"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/our-approach-to-bioresilience/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/our-approach-to-bioresilience/
 next_step: skim
+priority: high
+slack_ts: '1784777495.039329'
+source: DeepMind Blog
+status: unread
+title: Our approach to bioresilience
 ---
 # Our approach to bioresilience
 > 原文: [https://deepmind.google/blog/our-approach-to-bioresilience/](https://deepmind.google/blog/our-approach-to-bioresilience/)
