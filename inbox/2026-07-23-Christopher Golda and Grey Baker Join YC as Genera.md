@@ -1,11 +1,12 @@
 ---
-title: "Christopher Golda and Grey Baker Join YC as General Partners"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/
 next_step: skim
+priority: high
+slack_ts: '1784863629.005879'
+source: Y Combinator
+status: unread
+title: Christopher Golda and Grey Baker Join YC as General Partners
 ---
 # Christopher Golda and Grey Baker Join YC as General Partners
 > 原文: [https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/](https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/)

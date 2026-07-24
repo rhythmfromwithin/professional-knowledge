@@ -1,11 +1,12 @@
 ---
-title: "AgentTrails: Towards Trust and Reuse for Agentic Tasks"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.18816
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18816
 next_step: skim
+priority: low
+slack_ts: '1784863626.377549'
+source: cs.DB - Databases
+status: unread
+title: 'AgentTrails: Towards Trust and Reuse for Agentic Tasks'
 ---
 # AgentTrails: Towards Trust and Reuse for Agentic Tasks
 > 原文: [https://arxiv.org/abs/2607.18816](https://arxiv.org/abs/2607.18816)

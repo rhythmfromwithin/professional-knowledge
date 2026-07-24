@@ -1,11 +1,13 @@
 ---
-title: "Social Integration and Housing Behaviours of Immigrants: Evidence from Singapore's Public Housing Market"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.17633
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.17633
 next_step: skim
+priority: low
+slack_ts: '1784863623.856429'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Social Integration and Housing Behaviours of Immigrants: Evidence from Singapore''s
+  Public Housing Market'
 ---
 # Social Integration and Housing Behaviours of Immigrants: Evidence from Singapore's Public Housing Market
 > 原文: [https://arxiv.org/abs/2607.17633](https://arxiv.org/abs/2607.17633)

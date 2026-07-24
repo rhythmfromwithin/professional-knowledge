@@ -1,11 +1,12 @@
 ---
-title: "Wait-Free Locks Should Not Fear Later Arrivals"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.16571
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16571
 next_step: skim
+priority: medium
+slack_ts: '1784863624.851709'
+source: cs.DC - Distributed Computing
+status: unread
+title: Wait-Free Locks Should Not Fear Later Arrivals
 ---
 # Wait-Free Locks Should Not Fear Later Arrivals
 > 原文: [https://arxiv.org/abs/2607.16571](https://arxiv.org/abs/2607.16571)

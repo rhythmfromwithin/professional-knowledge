@@ -1,11 +1,13 @@
 ---
-title: "Lipschitz Continuity in Deep Learning: A Systematic Review of Theoretical Foundations, Estimation Methods, Regularization Approaches, and Certifiable Robustness"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.16329
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16329
 next_step: skim
+priority: medium
+slack_ts: '1784863620.540629'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Lipschitz Continuity in Deep Learning: A Systematic Review of Theoretical
+  Foundations, Estimation Methods, Regularization Approaches, and Certifiable Robustness'
 ---
 # Lipschitz Continuity in Deep Learning: A Systematic Review of Theoretical Foundations, Estimation Methods, Regularization Approaches, and Certifiable Robustness
 > 原文: [https://arxiv.org/abs/2607.16329](https://arxiv.org/abs/2607.16329)

@@ -1,11 +1,13 @@
 ---
-title: "Proof-of-Stake Dynamics: The Elusive Price Anchor and Endogenous Volatility Harvesting"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.16622
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16622
 next_step: skim
+priority: low
+slack_ts: '1784863622.482409'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Proof-of-Stake Dynamics: The Elusive Price Anchor and Endogenous Volatility
+  Harvesting'
 ---
 # Proof-of-Stake Dynamics: The Elusive Price Anchor and Endogenous Volatility Harvesting
 > 原文: [https://arxiv.org/abs/2607.16622](https://arxiv.org/abs/2607.16622)

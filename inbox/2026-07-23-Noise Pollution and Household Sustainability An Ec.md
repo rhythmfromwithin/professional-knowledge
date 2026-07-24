@@ -1,11 +1,12 @@
 ---
-title: "Noise Pollution and Household Sustainability: An Economic Approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.18676
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18676
 next_step: skim
+priority: low
+slack_ts: '1784863634.415609'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Noise Pollution and Household Sustainability: An Economic Approach'
 ---
 # Noise Pollution and Household Sustainability: An Economic Approach
 > 原文: [https://arxiv.org/abs/2607.18676](https://arxiv.org/abs/2607.18676)

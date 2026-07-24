@@ -1,11 +1,12 @@
 ---
-title: "Anthropomorphic Behaviors of AI"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.18247
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18247
 next_step: skim
+priority: low
+slack_ts: '1784863626.777989'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Anthropomorphic Behaviors of AI
 ---
 # Anthropomorphic Behaviors of AI
 > 原文: [https://arxiv.org/abs/2607.18247](https://arxiv.org/abs/2607.18247)

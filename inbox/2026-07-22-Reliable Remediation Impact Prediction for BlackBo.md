@@ -1,11 +1,12 @@
 ---
-title: "Reliable Remediation Impact Prediction for Black-Box Security Ratings"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.16357
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16357
 next_step: skim
+priority: low
+slack_ts: '1784863623.526679'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Reliable Remediation Impact Prediction for Black-Box Security Ratings
 ---
 # Reliable Remediation Impact Prediction for Black-Box Security Ratings
 > 原文: [https://arxiv.org/abs/2607.16357](https://arxiv.org/abs/2607.16357)

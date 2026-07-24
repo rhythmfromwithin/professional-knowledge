@@ -1,11 +1,13 @@
 ---
-title: "RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.16431
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16431
 next_step: skim
+priority: high
+slack_ts: '1784863622.657539'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale
+  LLM Retrieval-Augmented Generation'
 ---
 # RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2607.16431](https://arxiv.org/abs/2607.16431)

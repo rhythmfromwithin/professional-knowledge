@@ -1,11 +1,13 @@
 ---
-title: "MDAF: A Multi-Dimensional Annotation Framework for Automated Foreign Policy Analysis"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.16219
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16219
 next_step: skim
+priority: medium
+slack_ts: '1784863620.698059'
+source: cs.CY - Computers and Society
+status: unread
+title: 'MDAF: A Multi-Dimensional Annotation Framework for Automated Foreign Policy
+  Analysis'
 ---
 # MDAF: A Multi-Dimensional Annotation Framework for Automated Foreign Policy Analysis
 > 原文: [https://arxiv.org/abs/2607.16219](https://arxiv.org/abs/2607.16219)

@@ -1,11 +1,12 @@
 ---
-title: "Multi-level context Modeling for consistent expert selection in Mixture-of-Experts"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.16427
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16427
 next_step: skim
+priority: high
+slack_ts: '1784863621.376029'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Multi-level context Modeling for consistent expert selection in Mixture-of-Experts
 ---
 # Multi-level context Modeling for consistent expert selection in Mixture-of-Experts
 > 原文: [https://arxiv.org/abs/2607.16427](https://arxiv.org/abs/2607.16427)

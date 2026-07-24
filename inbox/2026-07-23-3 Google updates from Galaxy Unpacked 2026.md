@@ -1,11 +1,12 @@
 ---
-title: "3 Google updates from Galaxy Unpacked 2026"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
 next_step: skim
+priority: high
+slack_ts: '1784863625.214989'
+source: Google AI Blog
+status: unread
+title: 3 Google updates from Galaxy Unpacked 2026
 ---
 # 3 Google updates from Galaxy Unpacked 2026
 > 原文: [https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/)

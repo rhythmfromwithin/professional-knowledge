@@ -1,11 +1,12 @@
 ---
-title: "Binding Drift in Multi-Step Tool-Augmented Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.18316
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18316
 next_step: skim
+priority: low
+slack_ts: '1784863627.967179'
+source: cs.SE - Software Engineering
+status: unread
+title: Binding Drift in Multi-Step Tool-Augmented Agents
 ---
 # Binding Drift in Multi-Step Tool-Augmented Agents
 > 原文: [https://arxiv.org/abs/2607.18316](https://arxiv.org/abs/2607.18316)

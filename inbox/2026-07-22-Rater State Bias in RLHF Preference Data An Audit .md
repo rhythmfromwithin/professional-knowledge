@@ -1,11 +1,12 @@
 ---
-title: "Rater State Bias in RLHF Preference Data: An Audit Framework"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.16195
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16195
 next_step: skim
+priority: high
+slack_ts: '1784863623.011139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Rater State Bias in RLHF Preference Data: An Audit Framework'
 ---
 # Rater State Bias in RLHF Preference Data: An Audit Framework
 > 原文: [https://arxiv.org/abs/2607.16195](https://arxiv.org/abs/2607.16195)

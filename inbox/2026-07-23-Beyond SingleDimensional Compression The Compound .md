@@ -1,11 +1,13 @@
 ---
-title: "Beyond Single-Dimensional Compression: The Compound Sparsity Frontier of Large Language Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.18280
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18280
 next_step: skim
+priority: high
+slack_ts: '1784863627.791329'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Beyond Single-Dimensional Compression: The Compound Sparsity Frontier of Large
+  Language Models'
 ---
 # Beyond Single-Dimensional Compression: The Compound Sparsity Frontier of Large Language Models
 > 原文: [https://arxiv.org/abs/2607.18280](https://arxiv.org/abs/2607.18280)

@@ -1,11 +1,12 @@
 ---
-title: "Building AI infrastructure with the Effingham County community"
-source: "OpenAI Blog"
-link: https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
 next_step: skim
+priority: high
+slack_ts: '1784863628.135389'
+source: OpenAI Blog
+status: unread
+title: Building AI infrastructure with the Effingham County community
 ---
 # Building AI infrastructure with the Effingham County community
 > 原文: [https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)

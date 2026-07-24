@@ -1,11 +1,13 @@
 ---
-title: "Searching for Plans You Can Actually Build: A Realizability-Aware Full-Space Optimizer for MoE Training and Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.18631
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18631
 next_step: skim
+priority: medium
+slack_ts: '1784863636.517149'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Searching for Plans You Can Actually Build: A Realizability-Aware Full-Space
+  Optimizer for MoE Training and Serving'
 ---
 # Searching for Plans You Can Actually Build: A Realizability-Aware Full-Space Optimizer for MoE Training and Serving
 > 原文: [https://arxiv.org/abs/2607.18631](https://arxiv.org/abs/2607.18631)

@@ -1,11 +1,13 @@
 ---
-title: "Anthropomorphism in Children's Interactions with LLM Chatbots: A Systematic Review of Drivers and Outcomes"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.18250
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18250
 next_step: skim
+priority: low
+slack_ts: '1784863626.942889'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Anthropomorphism in Children''s Interactions with LLM Chatbots: A Systematic
+  Review of Drivers and Outcomes'
 ---
 # Anthropomorphism in Children's Interactions with LLM Chatbots: A Systematic Review of Drivers and Outcomes
 > 原文: [https://arxiv.org/abs/2607.18250](https://arxiv.org/abs/2607.18250)

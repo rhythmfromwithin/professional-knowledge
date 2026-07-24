@@ -1,11 +1,12 @@
 ---
-title: "CODENS: Transforming Code Changes into Living, Accessible, and Queryable Documentation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.18356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18356
 next_step: skim
+priority: low
+slack_ts: '1784863628.677839'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CODENS: Transforming Code Changes into Living, Accessible, and Queryable Documentation'
 ---
 # CODENS: Transforming Code Changes into Living, Accessible, and Queryable Documentation
 > 原文: [https://arxiv.org/abs/2607.18356](https://arxiv.org/abs/2607.18356)

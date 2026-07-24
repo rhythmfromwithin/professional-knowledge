@@ -1,11 +1,13 @@
 ---
-title: "A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.18358
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18358
 next_step: skim
+priority: high
+slack_ts: '1784863625.375329'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT)
+  for Dynamic Document Classification'
 ---
 # A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification
 > 原文: [https://arxiv.org/abs/2607.18358](https://arxiv.org/abs/2607.18358)

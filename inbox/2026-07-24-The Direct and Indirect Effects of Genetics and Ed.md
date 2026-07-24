@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2607.19562
+next_step: skim
+priority: low
+slack_ts: '1784863649.401039'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Direct and Indirect Effects of Genetics and Education
+---
+# The Direct and Indirect Effects of Genetics and Education
+> 原文: [https://arxiv.org/abs/2607.19562](https://arxiv.org/abs/2607.19562)
+
+arXiv:2607.19562v2 Announce Type: new
+Abstract: Genes associated with educational attainment causally improve labour market income, but the economic mechanism behind this relationship is not clear. Using quasi-random variation in genetic inheritance across siblings in the UK Biobank, I estimate the causal effect of the Education PolyGenic Index (Ed PGI) on education and income. A one standard deviation increase in the Ed PGI raises completed education by 0.5 years and later-life income by around 5 percent (replicating the main estimates in Carvalho 2025). I then decompose this total genetic income effect into an indirect channel operating through education years and a residual direct effect, using a causal mediation framework. Unlike structural model-based decompositions, this approach is design-based; one remaining source of uncertainty (the causal return to an extra year of education) is handled transparently through a sensitivity analysis. At correlational education returns of around 6 percent, 65 to 75 percent of the total genetic income effect operates through the years of education channel. Quasi-experimental estimates from the economics literature for Britain imply higher returns to education, suggesting that the mediated share is larger and that the majority of the Ed PGI's income effect operates through completed years of education.

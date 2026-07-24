@@ -1,11 +1,12 @@
 ---
-title: "The JEPA Predictor: A Transferable Operator for Occluded Feature Completion"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.16274
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16274
 next_step: skim
+priority: medium
+slack_ts: '1784863624.190859'
+source: cs.CV - Computer Vision
+status: unread
+title: 'The JEPA Predictor: A Transferable Operator for Occluded Feature Completion'
 ---
 # The JEPA Predictor: A Transferable Operator for Occluded Feature Completion
 > 原文: [https://arxiv.org/abs/2607.16274](https://arxiv.org/abs/2607.16274)

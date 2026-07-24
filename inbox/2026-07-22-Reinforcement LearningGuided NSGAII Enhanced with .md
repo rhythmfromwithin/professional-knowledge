@@ -1,11 +1,13 @@
 ---
-title: "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.16194
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16194
 next_step: skim
+priority: high
+slack_ts: '1784863623.357709'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient
+  for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization'
 ---
 # Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization
 > 原文: [https://arxiv.org/abs/2607.16194](https://arxiv.org/abs/2607.16194)

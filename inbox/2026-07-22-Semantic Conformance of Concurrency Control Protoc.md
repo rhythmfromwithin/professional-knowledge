@@ -1,11 +1,13 @@
 ---
-title: "Semantic Conformance of Concurrency Control Protocols under Mixed Isolation Levels"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.16696
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16696
 next_step: skim
+priority: low
+slack_ts: '1784863623.694479'
+source: cs.DB - Databases
+status: unread
+title: Semantic Conformance of Concurrency Control Protocols under Mixed Isolation
+  Levels
 ---
 # Semantic Conformance of Concurrency Control Protocols under Mixed Isolation Levels
 > 原文: [https://arxiv.org/abs/2607.16696](https://arxiv.org/abs/2607.16696)

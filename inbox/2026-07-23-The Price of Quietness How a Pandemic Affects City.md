@@ -1,11 +1,13 @@
 ---
-title: "The Price of Quietness: How a Pandemic Affects City Dwellers' Response to Road Traffic Noise"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.18677
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18677
 next_step: skim
+priority: low
+slack_ts: '1784863637.367929'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Price of Quietness: How a Pandemic Affects City Dwellers'' Response to
+  Road Traffic Noise'
 ---
 # The Price of Quietness: How a Pandemic Affects City Dwellers' Response to Road Traffic Noise
 > 原文: [https://arxiv.org/abs/2607.18677](https://arxiv.org/abs/2607.18677)

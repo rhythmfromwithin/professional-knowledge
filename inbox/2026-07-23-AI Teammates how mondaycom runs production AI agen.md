@@ -1,11 +1,12 @@
 ---
-title: "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1784863625.545929'
+source: AWS Blog
+status: unread
+title: 'AI Teammates: how monday.com runs production AI agents on Amazon Bedrock'
 ---
 # AI Teammates: how monday.com runs production AI agents on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/)

@@ -1,11 +1,13 @@
 ---
-title: "Deterrence Effects of Social Media Interventions on Health Misinformation Dissemination by Bots and Humans"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.18248
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18248
 next_step: skim
+priority: low
+slack_ts: '1784863630.330209'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Deterrence Effects of Social Media Interventions on Health Misinformation Dissemination
+  by Bots and Humans
 ---
 # Deterrence Effects of Social Media Interventions on Health Misinformation Dissemination by Bots and Humans
 > 原文: [https://arxiv.org/abs/2607.18248](https://arxiv.org/abs/2607.18248)

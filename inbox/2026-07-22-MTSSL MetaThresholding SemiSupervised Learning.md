@@ -1,11 +1,12 @@
 ---
-title: "MTSSL: Meta-Thresholding Semi-Supervised Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.16363
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16363
 next_step: skim
+priority: medium
+slack_ts: '1784863620.867109'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'MTSSL: Meta-Thresholding Semi-Supervised Learning'
 ---
 # MTSSL: Meta-Thresholding Semi-Supervised Learning
 > 原文: [https://arxiv.org/abs/2607.16363](https://arxiv.org/abs/2607.16363)

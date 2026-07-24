@@ -1,11 +1,13 @@
 ---
-title: "Quantum Cryptanalysis on IBM Quantum Hardware: Extending Even--Mansour Period Recovery from $N=4$ to $N=10$"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.18340
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18340
 next_step: skim
+priority: low
+slack_ts: '1784863635.394509'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Quantum Cryptanalysis on IBM Quantum Hardware: Extending Even--Mansour Period
+  Recovery from $N=4$ to $N=10$'
 ---
 # Quantum Cryptanalysis on IBM Quantum Hardware: Extending Even--Mansour Period Recovery from $N=4$ to $N=10$
 > 原文: [https://arxiv.org/abs/2607.18340](https://arxiv.org/abs/2607.18340)

@@ -1,11 +1,12 @@
 ---
-title: "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.16659
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16659
 next_step: skim
+priority: low
+slack_ts: '1784863624.354759'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings'
 ---
 # The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings
 > 原文: [https://arxiv.org/abs/2607.16659](https://arxiv.org/abs/2607.16659)

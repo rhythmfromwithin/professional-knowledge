@@ -1,7 +1,9 @@
 ---
-title: "Personalizing Airbnb search by learning from the guest journey"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss
+slack_ts: '1784863622.314429'
+source: Airbnb Engineering
+title: Personalizing Airbnb search by learning from the guest journey
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

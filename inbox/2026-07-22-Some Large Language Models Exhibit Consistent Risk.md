@@ -1,11 +1,12 @@
 ---
-title: "Some Large Language Models Exhibit Consistent Risk Attitudes"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.16197
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16197
 next_step: skim
+priority: high
+slack_ts: '1784863624.021699'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Some Large Language Models Exhibit Consistent Risk Attitudes
 ---
 # Some Large Language Models Exhibit Consistent Risk Attitudes
 > 原文: [https://arxiv.org/abs/2607.16197](https://arxiv.org/abs/2607.16197)

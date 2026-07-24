@@ -1,11 +1,13 @@
 ---
-title: "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.18241
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18241
 next_step: skim
+priority: high
+slack_ts: '1784863627.444539'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise
+  Data'
 ---
 # BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data
 > 原文: [https://arxiv.org/abs/2607.18241](https://arxiv.org/abs/2607.18241)

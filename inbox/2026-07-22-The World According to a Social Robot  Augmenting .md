@@ -1,11 +1,13 @@
 ---
-title: "The World According to a Social Robot -- Augmenting Human-Robot Dialogue With Vision Language Models"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.16318
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.16318
 next_step: skim
+priority: low
+slack_ts: '1784863624.526059'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: The World According to a Social Robot -- Augmenting Human-Robot Dialogue With
+  Vision Language Models
 ---
 # The World According to a Social Robot -- Augmenting Human-Robot Dialogue With Vision Language Models
 > 原文: [https://arxiv.org/abs/2607.16318](https://arxiv.org/abs/2607.16318)

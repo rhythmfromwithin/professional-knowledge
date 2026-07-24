@@ -1,11 +1,13 @@
 ---
-title: "From Pixel to Prognosis: Convolutional and GLCM Feature Fusion for Automated Four-Class Cataract Severity Classification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.18349
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18349
 next_step: skim
+priority: medium
+slack_ts: '1784863631.439969'
+source: cs.CV - Computer Vision
+status: unread
+title: 'From Pixel to Prognosis: Convolutional and GLCM Feature Fusion for Automated
+  Four-Class Cataract Severity Classification'
 ---
 # From Pixel to Prognosis: Convolutional and GLCM Feature Fusion for Automated Four-Class Cataract Severity Classification
 > 原文: [https://arxiv.org/abs/2607.18349](https://arxiv.org/abs/2607.18349)
