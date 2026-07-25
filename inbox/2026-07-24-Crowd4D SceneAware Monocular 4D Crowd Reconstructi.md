@@ -1,11 +1,12 @@
 ---
-title: "Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.19517
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19517
 next_step: skim
+priority: medium
+slack_ts: '1784949895.593229'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction'
 ---
 # Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction
 > 原文: [https://arxiv.org/abs/2607.19517](https://arxiv.org/abs/2607.19517)

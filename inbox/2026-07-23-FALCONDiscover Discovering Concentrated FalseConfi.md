@@ -1,11 +1,12 @@
 ---
-title: "FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.18278
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18278
 next_step: skim
+priority: high
+slack_ts: '1784949888.556569'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration'
 ---
 # FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration
 > 原文: [https://arxiv.org/abs/2607.18278](https://arxiv.org/abs/2607.18278)

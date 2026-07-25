@@ -1,11 +1,13 @@
 ---
-title: "Enabling Multilingual Privacy Policy Audits: Large-Scale Analysis of Spanish Mobile Apps"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.18424
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18424
 next_step: skim
+priority: medium
+slack_ts: '1784949888.205849'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Enabling Multilingual Privacy Policy Audits: Large-Scale Analysis of Spanish
+  Mobile Apps'
 ---
 # Enabling Multilingual Privacy Policy Audits: Large-Scale Analysis of Spanish Mobile Apps
 > 原文: [https://arxiv.org/abs/2607.18424](https://arxiv.org/abs/2607.18424)

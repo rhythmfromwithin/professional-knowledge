@@ -1,11 +1,12 @@
 ---
-title: "Ascend to Science: Exploration of AI Chips for Scientific Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.20120
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20120
 next_step: skim
+priority: medium
+slack_ts: '1784949893.892779'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Ascend to Science: Exploration of AI Chips for Scientific Computing'
 ---
 # Ascend to Science: Exploration of AI Chips for Scientific Computing
 > 原文: [https://arxiv.org/abs/2607.20120](https://arxiv.org/abs/2607.20120)

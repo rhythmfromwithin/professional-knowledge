@@ -1,11 +1,13 @@
 ---
-title: "Shared Vulnerabilities in Robustness-Optimized Defenses: One Breach Exposes the Family"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.18339
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18339
 next_step: skim
+priority: low
+slack_ts: '1784949892.290279'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Shared Vulnerabilities in Robustness-Optimized Defenses: One Breach Exposes
+  the Family'
 ---
 # Shared Vulnerabilities in Robustness-Optimized Defenses: One Breach Exposes the Family
 > 原文: [https://arxiv.org/abs/2607.18339](https://arxiv.org/abs/2607.18339)

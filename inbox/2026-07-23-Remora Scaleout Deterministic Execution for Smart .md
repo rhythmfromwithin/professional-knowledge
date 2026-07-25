@@ -1,11 +1,12 @@
 ---
-title: "Remora: Scale-out Deterministic Execution for Smart Contracts"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.02817
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.02817
 next_step: skim
+priority: low
+slack_ts: '1784949891.921059'
+source: cs.DB - Databases
+status: unread
+title: 'Remora: Scale-out Deterministic Execution for Smart Contracts'
 ---
 # Remora: Scale-out Deterministic Execution for Smart Contracts
 > 原文: [https://arxiv.org/abs/2607.02817](https://arxiv.org/abs/2607.02817)

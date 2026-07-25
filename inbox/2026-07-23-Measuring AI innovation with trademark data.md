@@ -1,11 +1,12 @@
 ---
-title: "Measuring AI innovation with trademark data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.18795
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18795
 next_step: skim
+priority: low
+slack_ts: '1784949890.443729'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Measuring AI innovation with trademark data
 ---
 # Measuring AI innovation with trademark data
 > 原文: [https://arxiv.org/abs/2607.18795](https://arxiv.org/abs/2607.18795)

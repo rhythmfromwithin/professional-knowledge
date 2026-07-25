@@ -1,11 +1,13 @@
 ---
-title: "Mixing-Free and Signal-Optimal Learning of Gaussian Graphical Models from Glauber Dynamics"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.18559
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18559
 next_step: skim
+priority: medium
+slack_ts: '1784949890.673429'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Mixing-Free and Signal-Optimal Learning of Gaussian Graphical Models from Glauber
+  Dynamics
 ---
 # Mixing-Free and Signal-Optimal Learning of Gaussian Graphical Models from Glauber Dynamics
 > 原文: [https://arxiv.org/abs/2607.18559](https://arxiv.org/abs/2607.18559)

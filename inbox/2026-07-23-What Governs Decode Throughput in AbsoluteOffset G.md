@@ -1,11 +1,13 @@
 ---
-title: "What Governs Decode Throughput in Absolute-Offset GPU LZ77? A Work-Granularity Mechanism and an Encode-Time Min-Match-Length Lever"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.18541
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18541
 next_step: skim
+priority: medium
+slack_ts: '1784949893.217889'
+source: cs.DC - Distributed Computing
+status: unread
+title: What Governs Decode Throughput in Absolute-Offset GPU LZ77? A Work-Granularity
+  Mechanism and an Encode-Time Min-Match-Length Lever
 ---
 # What Governs Decode Throughput in Absolute-Offset GPU LZ77? A Work-Granularity Mechanism and an Encode-Time Min-Match-Length Lever
 > 原文: [https://arxiv.org/abs/2607.18541](https://arxiv.org/abs/2607.18541)

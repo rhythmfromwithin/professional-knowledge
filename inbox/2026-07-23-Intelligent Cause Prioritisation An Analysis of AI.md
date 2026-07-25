@@ -1,11 +1,13 @@
 ---
-title: "Intelligent Cause Prioritisation? An Analysis of AI Policy Priorities and Governance in Africa"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.18459
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18459
 next_step: skim
+priority: medium
+slack_ts: '1784949889.716659'
+source: cs.CY - Computers and Society
+status: unread
+title: Intelligent Cause Prioritisation? An Analysis of AI Policy Priorities and Governance
+  in Africa
 ---
 # Intelligent Cause Prioritisation? An Analysis of AI Policy Priorities and Governance in Africa
 > 原文: [https://arxiv.org/abs/2607.18459](https://arxiv.org/abs/2607.18459)

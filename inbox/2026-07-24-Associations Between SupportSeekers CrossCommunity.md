@@ -1,11 +1,13 @@
 ---
-title: "Associations Between Support-Seekers' Cross-Community Interactions and Their Engagement with Received Comments in Online Health Communities"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.19655
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19655
 next_step: skim
+priority: low
+slack_ts: '1784949894.021109'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Associations Between Support-Seekers' Cross-Community Interactions and Their
+  Engagement with Received Comments in Online Health Communities
 ---
 # Associations Between Support-Seekers' Cross-Community Interactions and Their Engagement with Received Comments in Online Health Communities
 > 原文: [https://arxiv.org/abs/2607.19655](https://arxiv.org/abs/2607.19655)

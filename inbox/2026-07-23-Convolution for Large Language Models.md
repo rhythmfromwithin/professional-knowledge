@@ -1,11 +1,12 @@
 ---
-title: "Convolution for Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.18413
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18413
 next_step: skim
+priority: high
+slack_ts: '1784949887.573489'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Convolution for Large Language Models
 ---
 # Convolution for Large Language Models
 > 原文: [https://arxiv.org/abs/2607.18413](https://arxiv.org/abs/2607.18413)

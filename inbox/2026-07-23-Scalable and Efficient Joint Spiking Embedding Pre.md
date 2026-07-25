@@ -1,11 +1,13 @@
 ---
-title: "Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.18412
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18412
 next_step: skim
+priority: low
+slack_ts: '1784949892.042299'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Scalable and Efficient Joint Spiking Embedding Predictive Architecture for
+  Large-Scale Dynamic Graphs
 ---
 # Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs
 > 原文: [https://arxiv.org/abs/2607.18412](https://arxiv.org/abs/2607.18412)

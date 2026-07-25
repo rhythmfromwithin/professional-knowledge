@@ -1,11 +1,12 @@
 ---
-title: "FARO: Feasibility-Aware Robot Motion Optimization"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.18362
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18362
 next_step: skim
+priority: medium
+slack_ts: '1784949888.686979'
+source: cs.RO - Robotics
+status: unread
+title: 'FARO: Feasibility-Aware Robot Motion Optimization'
 ---
 # FARO: Feasibility-Aware Robot Motion Optimization
 > 原文: [https://arxiv.org/abs/2607.18362](https://arxiv.org/abs/2607.18362)

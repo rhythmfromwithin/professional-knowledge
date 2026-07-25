@@ -1,11 +1,12 @@
 ---
-title: "The triumphs and tragedies of fandom: Emotional arcs in NFL tweets"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.18461
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18461
 next_step: skim
+priority: medium
+slack_ts: '1784949892.872599'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The triumphs and tragedies of fandom: Emotional arcs in NFL tweets'
 ---
 # The triumphs and tragedies of fandom: Emotional arcs in NFL tweets
 > 原文: [https://arxiv.org/abs/2607.18461](https://arxiv.org/abs/2607.18461)

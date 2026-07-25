@@ -1,11 +1,12 @@
 ---
-title: "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.18252
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18252
 next_step: skim
+priority: low
+slack_ts: '1784949890.324749'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers'
 ---
 # MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers
 > 原文: [https://arxiv.org/abs/2607.18252](https://arxiv.org/abs/2607.18252)

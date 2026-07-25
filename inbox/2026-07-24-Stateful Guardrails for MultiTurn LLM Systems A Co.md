@@ -1,11 +1,13 @@
 ---
-title: "Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.19361
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19361
 next_step: skim
+priority: high
+slack_ts: '1784949899.636589'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation
+  Framework'
 ---
 # Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework
 > 原文: [https://arxiv.org/abs/2607.19361](https://arxiv.org/abs/2607.19361)

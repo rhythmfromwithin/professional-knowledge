@@ -1,11 +1,12 @@
 ---
-title: "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.18239
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18239
 next_step: skim
+priority: high
+slack_ts: '1784949892.619549'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI'
 ---
 # SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI
 > 原文: [https://arxiv.org/abs/2607.18239](https://arxiv.org/abs/2607.18239)

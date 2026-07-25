@@ -1,11 +1,12 @@
 ---
-title: "Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.18321
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18321
 next_step: skim
+priority: high
+slack_ts: '1784949887.970369'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain
 ---
 # Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain
 > 原文: [https://arxiv.org/abs/2607.18321](https://arxiv.org/abs/2607.18321)

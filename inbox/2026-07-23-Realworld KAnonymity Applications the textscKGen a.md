@@ -1,11 +1,13 @@
 ---
-title: "Real-world K-Anonymity Applications: the \textsc{KGen} approach and its evaluation in Fraudulent Transactions"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2204.01533
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2204.01533
 next_step: skim
+priority: low
+slack_ts: '1784949891.793509'
+source: cs.DB - Databases
+status: unread
+title: "Real-world K-Anonymity Applications: the \textsc{KGen} approach and its evaluation\
+  \ in Fraudulent Transactions"
 ---
 # Real-world K-Anonymity Applications: the \textsc{KGen} approach and its evaluation in Fraudulent Transactions
 > 原文: [https://arxiv.org/abs/2204.01533](https://arxiv.org/abs/2204.01533)

@@ -1,11 +1,5 @@
 ---
-title: "The Price of Hidden Curvature: An $\widetilde{\Omega} (d^{5/4} \sqrt{T})$ Lower Bound for Bandit Convex Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.18652
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1784949892.748599'
 ---
 # The Price of Hidden Curvature: An $\widetilde{\Omega} (d^{5/4} \sqrt{T})$ Lower Bound for Bandit Convex Optimization
 > 原文: [https://arxiv.org/abs/2607.18652](https://arxiv.org/abs/2607.18652)

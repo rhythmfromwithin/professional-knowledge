@@ -1,11 +1,12 @@
 ---
-title: "PRISM: Sensitivity-Aware PolynoMial PRuning for EffIcient Neural Network Encryption"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.18342
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18342
 next_step: skim
+priority: low
+slack_ts: '1784949890.937399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'PRISM: Sensitivity-Aware PolynoMial PRuning for EffIcient Neural Network Encryption'
 ---
 # PRISM: Sensitivity-Aware PolynoMial PRuning for EffIcient Neural Network Encryption
 > 原文: [https://arxiv.org/abs/2607.18342](https://arxiv.org/abs/2607.18342)

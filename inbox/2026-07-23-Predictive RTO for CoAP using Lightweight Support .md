@@ -1,11 +1,13 @@
 ---
-title: "Predictive RTO for CoAP using Lightweight Support Vector Regression in Internet of Things"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.18273
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18273
 next_step: skim
+priority: medium
+slack_ts: '1784949891.551189'
+source: cs.DC - Distributed Computing
+status: unread
+title: Predictive RTO for CoAP using Lightweight Support Vector Regression in Internet
+  of Things
 ---
 # Predictive RTO for CoAP using Lightweight Support Vector Regression in Internet of Things
 > 原文: [https://arxiv.org/abs/2607.18273](https://arxiv.org/abs/2607.18273)

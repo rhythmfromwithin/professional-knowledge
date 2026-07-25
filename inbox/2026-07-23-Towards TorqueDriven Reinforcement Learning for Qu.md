@@ -1,11 +1,12 @@
 ---
-title: "Towards Torque-Driven Reinforcement Learning for Quadruped Locomotion"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.18365
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18365
 next_step: skim
+priority: medium
+slack_ts: '1784949892.990559'
+source: cs.RO - Robotics
+status: unread
+title: Towards Torque-Driven Reinforcement Learning for Quadruped Locomotion
 ---
 # Towards Torque-Driven Reinforcement Learning for Quadruped Locomotion
 > 原文: [https://arxiv.org/abs/2607.18365](https://arxiv.org/abs/2607.18365)

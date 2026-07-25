@@ -1,11 +1,12 @@
 ---
-title: "Surprise Forcing: What to Remember, When to Skip in Long Video Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.18436
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18436
 next_step: skim
+priority: medium
+slack_ts: '1784949892.510159'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Surprise Forcing: What to Remember, When to Skip in Long Video Generation'
 ---
 # Surprise Forcing: What to Remember, When to Skip in Long Video Generation
 > 原文: [https://arxiv.org/abs/2607.18436](https://arxiv.org/abs/2607.18436)

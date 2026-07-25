@@ -1,11 +1,13 @@
 ---
-title: "A Bayesian Framework for Built-in Input Dimension Reduction for Gaussian Process Modeling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.19498
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19498
 next_step: skim
+priority: medium
+slack_ts: '1784949893.444839'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Bayesian Framework for Built-in Input Dimension Reduction for Gaussian Process
+  Modeling
 ---
 # A Bayesian Framework for Built-in Input Dimension Reduction for Gaussian Process Modeling
 > 原文: [https://arxiv.org/abs/2607.19498](https://arxiv.org/abs/2607.19498)

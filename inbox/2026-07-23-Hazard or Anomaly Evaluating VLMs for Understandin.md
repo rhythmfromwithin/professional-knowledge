@@ -1,11 +1,12 @@
 ---
-title: "Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.18325
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.18325
 next_step: skim
+priority: medium
+slack_ts: '1784949889.380999'
+source: cs.CV - Computer Vision
+status: unread
+title: Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies
 ---
 # Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies
 > 原文: [https://arxiv.org/abs/2607.18325](https://arxiv.org/abs/2607.18325)
