@@ -1,11 +1,12 @@
 ---
-title: "Evaluating AI Agents: A production blueprint with Strands and AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1785037103.387079'
+source: AWS Blog
+status: unread
+title: 'Evaluating AI Agents: A production blueprint with Strands and AgentCore'
 ---
 # Evaluating AI Agents: A production blueprint with Strands and AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/)

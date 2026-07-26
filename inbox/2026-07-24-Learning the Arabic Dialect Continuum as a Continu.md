@@ -1,11 +1,13 @@
 ---
-title: "Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.19751
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19751
 next_step: skim
+priority: low
+slack_ts: '1785037104.689419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Learning the Arabic Dialect Continuum as a Continuous Space: A Regression
+  Approach to Speaker Origin Prediction'
 ---
 # Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction
 > 原文: [https://arxiv.org/abs/2607.19751](https://arxiv.org/abs/2607.19751)

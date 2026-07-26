@@ -1,11 +1,13 @@
 ---
-title: "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.19349
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19349
 next_step: skim
+priority: high
+slack_ts: '1785037103.532409'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving
+  Workloads'
 ---
 # FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads
 > 原文: [https://arxiv.org/abs/2607.19349](https://arxiv.org/abs/2607.19349)

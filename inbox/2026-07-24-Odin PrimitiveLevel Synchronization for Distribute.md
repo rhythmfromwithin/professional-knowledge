@@ -1,11 +1,12 @@
 ---
-title: "Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.19893
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19893
 next_step: skim
+priority: medium
+slack_ts: '1785037105.081779'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering'
 ---
 # Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering
 > 原文: [https://arxiv.org/abs/2607.19893](https://arxiv.org/abs/2607.19893)

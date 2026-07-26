@@ -1,11 +1,12 @@
 ---
-title: "Bayesian Wind Tunnels for Model Selection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.19379
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19379
 next_step: skim
+priority: high
+slack_ts: '1785037101.812669'
+source: cs.LG - Machine Learning
+status: unread
+title: Bayesian Wind Tunnels for Model Selection
 ---
 # Bayesian Wind Tunnels for Model Selection
 > 原文: [https://arxiv.org/abs/2607.19379](https://arxiv.org/abs/2607.19379)

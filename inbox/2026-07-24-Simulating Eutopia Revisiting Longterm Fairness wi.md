@@ -1,11 +1,13 @@
 ---
-title: "Simulating Eutopia: Revisiting Long-term Fairness with Outcomes, Performativity, and Dynamics"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.19389
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19389
 next_step: skim
+priority: medium
+slack_ts: '1785037105.854049'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Simulating Eutopia: Revisiting Long-term Fairness with Outcomes, Performativity,
+  and Dynamics'
 ---
 # Simulating Eutopia: Revisiting Long-term Fairness with Outcomes, Performativity, and Dynamics
 > 原文: [https://arxiv.org/abs/2607.19389](https://arxiv.org/abs/2607.19389)

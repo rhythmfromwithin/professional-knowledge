@@ -1,11 +1,12 @@
 ---
-title: "Boltzmann-Expected Molecular Design with Decoupled Annealing Flows"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.19519
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19519
 next_step: skim
+priority: medium
+slack_ts: '1785037102.064529'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Boltzmann-Expected Molecular Design with Decoupled Annealing Flows
 ---
 # Boltzmann-Expected Molecular Design with Decoupled Annealing Flows
 > 原文: [https://arxiv.org/abs/2607.19519](https://arxiv.org/abs/2607.19519)

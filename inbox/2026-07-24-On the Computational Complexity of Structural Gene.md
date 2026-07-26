@@ -1,11 +1,12 @@
 ---
-title: "On the Computational Complexity of Structural Generalization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.19573
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19573
 next_step: skim
+priority: high
+slack_ts: '1785037105.160059'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: On the Computational Complexity of Structural Generalization
 ---
 # On the Computational Complexity of Structural Generalization
 > 原文: [https://arxiv.org/abs/2607.19573](https://arxiv.org/abs/2607.19573)

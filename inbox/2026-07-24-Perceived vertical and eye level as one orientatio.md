@@ -1,11 +1,13 @@
 ---
-title: "Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.19681
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19681
 next_step: skim
+priority: low
+slack_ts: '1785037105.399429'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Perceived vertical and eye level as one orientation order parameter: a closed-form
+  account of the Li-Matin rules for egocentric space'
 ---
 # Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space
 > 原文: [https://arxiv.org/abs/2607.19681](https://arxiv.org/abs/2607.19681)

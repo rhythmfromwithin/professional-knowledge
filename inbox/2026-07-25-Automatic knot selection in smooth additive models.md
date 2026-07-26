@@ -1,11 +1,12 @@
 ---
-title: "Automatic knot selection in smooth additive models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.21083
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21083
 next_step: skim
+priority: medium
+slack_ts: '1785037106.845409'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Automatic knot selection in smooth additive models
 ---
 # Automatic knot selection in smooth additive models
 > 原文: [https://arxiv.org/abs/2607.21083](https://arxiv.org/abs/2607.21083)

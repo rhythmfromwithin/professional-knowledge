@@ -1,11 +1,12 @@
 ---
-title: "RCC: Speculative Write Versioning with Redo Logs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.19697
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19697
 next_step: skim
+priority: low
+slack_ts: '1785037105.622069'
+source: cs.DB - Databases
+status: unread
+title: 'RCC: Speculative Write Versioning with Redo Logs'
 ---
 # RCC: Speculative Write Versioning with Redo Logs
 > 原文: [https://arxiv.org/abs/2607.19697](https://arxiv.org/abs/2607.19697)

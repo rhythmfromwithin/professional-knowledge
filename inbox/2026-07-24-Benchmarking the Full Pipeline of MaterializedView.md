@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.19679
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19679
 next_step: skim
+priority: low
+slack_ts: '1785037101.894559'
+source: cs.DB - Databases
+status: unread
+title: Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting
 ---
 # Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting
 > 原文: [https://arxiv.org/abs/2607.19679](https://arxiv.org/abs/2607.19679)

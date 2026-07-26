@@ -1,11 +1,13 @@
 ---
-title: "Emergent Autonomous Drifting for Collision Avoidance in Real-World Winter Driving Scenarios"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.19484
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19484
 next_step: skim
+priority: medium
+slack_ts: '1785037103.317589'
+source: cs.RO - Robotics
+status: unread
+title: Emergent Autonomous Drifting for Collision Avoidance in Real-World Winter Driving
+  Scenarios
 ---
 # Emergent Autonomous Drifting for Collision Avoidance in Real-World Winter Driving Scenarios
 > 原文: [https://arxiv.org/abs/2607.19484](https://arxiv.org/abs/2607.19484)

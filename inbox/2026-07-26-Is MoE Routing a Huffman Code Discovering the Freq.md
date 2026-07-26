@@ -1,0 +1,14 @@
+---
+title: "Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2607.20427
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought
+> 原文: [https://arxiv.org/abs/2607.20427](https://arxiv.org/abs/2607.20427)
+
+arXiv:2607.20427v1 Announce Type: new
+Abstract: Mixture-of-Experts architectures have revolutionized scaling, yet the underlying logic of their routing remains a black box. In this paper, we uncover a fundamental governing principle: MoE routing is not merely selection, but a manifestation of Huffman Coding. We introduce the Frequency-Diversity Law, revealing that state-of-the-art models, such as Phi-3.5-MoE and Gemma-4-27B-A4B, spontaneously act as information-theoretic engines. These models allocate sparse expert resources for common tokens while invoking high-diversity expert committees for rare, complex tasks found in chain-of-thought trajectories. However, we identify a critical redundancy trap in Qwen3.5-35B-A3B: when effective sparsity (k/E\_eff) is sufficiently low, load-balancing inadvertently imposes functional redundancy, masking the underlying Huffman efficiency signal. To bridge this gap, we propose Subset Difference Pruning, a surgical strategy to eliminate functional duplicates. We demonstrate that pruning does not degrade reasoning; instead, it unleashes the model's latent Huffman efficiency, forcing the logic to collapse into streamlined, high-density paths. Our findings suggest that the next generation of MoEs should move beyond forced load-balancing toward Minimum Description Length (MDL) optimality, assigning shorter expert-routing codes to high-frequency information and longer, more diverse codes to low-frequency information, thereby transforming routing from a heuristic into a principled compression engine.

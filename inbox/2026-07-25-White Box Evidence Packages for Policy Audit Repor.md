@@ -1,11 +1,12 @@
 ---
-title: "White Box Evidence Packages for Policy Audit Reports"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.21462
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21462
 next_step: skim
+priority: medium
+slack_ts: '1785037109.820699'
+source: cs.CY - Computers and Society
+status: unread
+title: White Box Evidence Packages for Policy Audit Reports
 ---
 # White Box Evidence Packages for Policy Audit Reports
 > 原文: [https://arxiv.org/abs/2607.21462](https://arxiv.org/abs/2607.21462)

@@ -1,11 +1,13 @@
 ---
-title: "Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.19699
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19699
 next_step: skim
+priority: medium
+slack_ts: '1785037103.147679'
+source: cs.CY - Computers and Society
+status: unread
+title: Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative
+  AI Use in University Computing Education
 ---
 # Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
 > 原文: [https://arxiv.org/abs/2607.19699](https://arxiv.org/abs/2607.19699)

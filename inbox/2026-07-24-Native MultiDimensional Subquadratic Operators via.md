@@ -1,11 +1,12 @@
 ---
-title: "Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.19378
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19378
 next_step: skim
+priority: high
+slack_ts: '1785037105.008219'
+source: cs.LG - Machine Learning
+status: unread
+title: Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions
 ---
 # Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions
 > 原文: [https://arxiv.org/abs/2607.19378](https://arxiv.org/abs/2607.19378)

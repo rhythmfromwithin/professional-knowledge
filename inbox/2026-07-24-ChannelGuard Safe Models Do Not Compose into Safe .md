@@ -1,11 +1,12 @@
 ---
-title: "ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.19430
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19430
 next_step: skim
+priority: low
+slack_ts: '1785037102.557249'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems'
 ---
 # ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems
 > 原文: [https://arxiv.org/abs/2607.19430](https://arxiv.org/abs/2607.19430)

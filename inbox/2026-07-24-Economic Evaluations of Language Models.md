@@ -1,11 +1,12 @@
 ---
-title: "Economic Evaluations of Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.19375
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19375
 next_step: skim
+priority: medium
+slack_ts: '1785037103.217019'
+source: cs.CY - Computers and Society
+status: unread
+title: Economic Evaluations of Language Models
 ---
 # Economic Evaluations of Language Models
 > 原文: [https://arxiv.org/abs/2607.19375](https://arxiv.org/abs/2607.19375)

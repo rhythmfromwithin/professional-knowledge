@@ -1,11 +1,13 @@
 ---
-title: "ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.19432
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19432
 next_step: skim
+priority: low
+slack_ts: '1785037102.472789'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step
+  Attacks in MCP-Based AI Agent Systems'
 ---
 # ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems
 > 原文: [https://arxiv.org/abs/2607.19432](https://arxiv.org/abs/2607.19432)

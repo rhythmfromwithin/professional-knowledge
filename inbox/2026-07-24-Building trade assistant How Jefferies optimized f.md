@@ -1,11 +1,13 @@
 ---
-title: "Building trade assistant: How Jefferies optimized front office trading operations with AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/
 next_step: skim
+priority: high
+slack_ts: '1785037102.305059'
+source: AWS Blog
+status: unread
+title: 'Building trade assistant: How Jefferies optimized front office trading operations
+  with AI'
 ---
 # Building trade assistant: How Jefferies optimized front office trading operations with AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/](https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/)

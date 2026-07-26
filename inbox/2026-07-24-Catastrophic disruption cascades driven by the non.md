@@ -1,11 +1,12 @@
 ---
-title: "Catastrophic disruption cascades driven by the nonlinearity of systemic risk"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.20068
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20068
 next_step: skim
+priority: low
+slack_ts: '1785037102.385629'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Catastrophic disruption cascades driven by the nonlinearity of systemic risk
 ---
 # Catastrophic disruption cascades driven by the nonlinearity of systemic risk
 > 原文: [https://arxiv.org/abs/2607.20068](https://arxiv.org/abs/2607.20068)

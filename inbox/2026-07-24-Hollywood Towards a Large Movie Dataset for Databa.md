@@ -1,11 +1,12 @@
 ---
-title: "Hollywood: Towards a Large Movie Dataset for Database Benchmarking"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.19666
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19666
 next_step: skim
+priority: low
+slack_ts: '1785037103.916259'
+source: cs.DB - Databases
+status: unread
+title: 'Hollywood: Towards a Large Movie Dataset for Database Benchmarking'
 ---
 # Hollywood: Towards a Large Movie Dataset for Database Benchmarking
 > 原文: [https://arxiv.org/abs/2607.19666](https://arxiv.org/abs/2607.19666)

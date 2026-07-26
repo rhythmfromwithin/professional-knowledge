@@ -1,11 +1,12 @@
 ---
-title: "CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.19380
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19380
 next_step: skim
+priority: high
+slack_ts: '1785037102.939019'
+source: cs.LG - Machine Learning
+status: unread
+title: 'CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction'
 ---
 # CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction
 > 原文: [https://arxiv.org/abs/2607.19380](https://arxiv.org/abs/2607.19380)

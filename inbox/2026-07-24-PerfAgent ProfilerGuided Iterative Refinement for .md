@@ -1,11 +1,13 @@
 ---
-title: "PerfAgent: Profiler-Guided Iterative Refinement for Repository-Level Code Optimization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.19653
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19653
 next_step: skim
+priority: low
+slack_ts: '1785037105.474929'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PerfAgent: Profiler-Guided Iterative Refinement for Repository-Level Code
+  Optimization'
 ---
 # PerfAgent: Profiler-Guided Iterative Refinement for Repository-Level Code Optimization
 > 原文: [https://arxiv.org/abs/2607.19653](https://arxiv.org/abs/2607.19653)

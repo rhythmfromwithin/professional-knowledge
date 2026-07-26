@@ -1,11 +1,13 @@
 ---
-title: "D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.19528
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19528
 next_step: skim
+priority: medium
+slack_ts: '1785037103.007419'
+source: cs.CV - Computer Vision
+status: unread
+title: 'D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with
+  Language Models'
 ---
 # D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models
 > 原文: [https://arxiv.org/abs/2607.19528](https://arxiv.org/abs/2607.19528)

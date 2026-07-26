@@ -1,11 +1,13 @@
 ---
-title: "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.19350
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19350
 next_step: skim
+priority: high
+slack_ts: '1785037104.066419'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and
+  Adversarial Resilience
 ---
 # Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience
 > 原文: [https://arxiv.org/abs/2607.19350](https://arxiv.org/abs/2607.19350)
