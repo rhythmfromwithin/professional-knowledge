@@ -1,11 +1,12 @@
 ---
-title: "Validating the Single Item Kawaii Measure"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.19352
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19352
 next_step: skim
+priority: low
+slack_ts: '1785124075.494739'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Validating the Single Item Kawaii Measure
 ---
 # Validating the Single Item Kawaii Measure
 > 原文: [https://arxiv.org/abs/2607.19352](https://arxiv.org/abs/2607.19352)

@@ -1,11 +1,13 @@
 ---
-title: "Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.20695
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20695
 next_step: skim
+priority: medium
+slack_ts: '1785124086.976219'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Language Models Embody and Amplify Human Cognitive Distortions: What Is to
+  Be Done?'
 ---
 # Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?
 > 原文: [https://arxiv.org/abs/2607.20695](https://arxiv.org/abs/2607.20695)

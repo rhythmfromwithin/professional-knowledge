@@ -1,11 +1,12 @@
 ---
-title: "HARP: The Human--AI Research Platform"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.20773
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20773
 next_step: skim
+priority: low
+slack_ts: '1785124083.650249'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'HARP: The Human--AI Research Platform'
 ---
 # HARP: The Human--AI Research Platform
 > 原文: [https://arxiv.org/abs/2607.20773](https://arxiv.org/abs/2607.20773)

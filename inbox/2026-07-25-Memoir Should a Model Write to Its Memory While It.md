@@ -1,11 +1,12 @@
 ---
-title: "Memoir: Should a Model Write to Its Memory While It Thinks?"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.20792
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20792
 next_step: skim
+priority: low
+slack_ts: '1785124088.089529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Memoir: Should a Model Write to Its Memory While It Thinks?'
 ---
 # Memoir: Should a Model Write to Its Memory While It Thinks?
 > 原文: [https://arxiv.org/abs/2607.20792](https://arxiv.org/abs/2607.20792)

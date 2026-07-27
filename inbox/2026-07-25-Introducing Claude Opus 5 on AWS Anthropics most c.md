@@ -1,11 +1,12 @@
 ---
-title: "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/
 next_step: skim
+priority: high
+slack_ts: '1785124084.510939'
+source: AWS Blog
+status: unread
+title: 'Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model'
 ---
 # Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)

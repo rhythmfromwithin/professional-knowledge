@@ -1,11 +1,13 @@
 ---
-title: "Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.20807
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20807
 next_step: skim
+priority: low
+slack_ts: '1785124081.651739'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Execution and Evaluation: A New Occupational Measure and Long-Run Employment
+  Gradients'
 ---
 # Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients
 > 原文: [https://arxiv.org/abs/2607.20807](https://arxiv.org/abs/2607.20807)

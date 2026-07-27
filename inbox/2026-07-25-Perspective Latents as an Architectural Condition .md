@@ -1,11 +1,13 @@
 ---
-title: "Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.20708
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20708
 next_step: skim
+priority: low
+slack_ts: '1785124089.091759'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Perspective Latents as an Architectural Condition for Causal Emergence in Active
+  Inference Agents
 ---
 # Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents
 > 原文: [https://arxiv.org/abs/2607.20708](https://arxiv.org/abs/2607.20708)

@@ -1,11 +1,13 @@
 ---
-title: "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.20425
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20425
 next_step: skim
+priority: high
+slack_ts: '1785124101.523949'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: What is Good? Extracting and Testing Implicit Theories of Literary Quality
+  from LLM Reasoning Traces
 ---
 # What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces
 > 原文: [https://arxiv.org/abs/2607.20425](https://arxiv.org/abs/2607.20425)

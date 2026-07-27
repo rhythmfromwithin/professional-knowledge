@@ -1,11 +1,12 @@
 ---
-title: "Accelerating fossil gas independence in Europe"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.21048
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21048
 next_step: skim
+priority: low
+slack_ts: '1785124077.383379'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Accelerating fossil gas independence in Europe
 ---
 # Accelerating fossil gas independence in Europe
 > 原文: [https://arxiv.org/abs/2607.21048](https://arxiv.org/abs/2607.21048)

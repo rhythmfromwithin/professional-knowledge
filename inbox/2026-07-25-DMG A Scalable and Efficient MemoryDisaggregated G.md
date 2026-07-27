@@ -1,11 +1,12 @@
 ---
-title: "DMG: A Scalable and Efficient Memory-Disaggregated Graph Processing System"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.20881
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20881
 next_step: skim
+priority: low
+slack_ts: '1785124080.827759'
+source: cs.DB - Databases
+status: unread
+title: 'DMG: A Scalable and Efficient Memory-Disaggregated Graph Processing System'
 ---
 # DMG: A Scalable and Efficient Memory-Disaggregated Graph Processing System
 > 原文: [https://arxiv.org/abs/2607.20881](https://arxiv.org/abs/2607.20881)

@@ -1,11 +1,12 @@
 ---
-title: "The Consensus Number of Untraceable Cryptocurrencies"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.20929
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20929
 next_step: skim
+priority: medium
+slack_ts: '1785124091.514159'
+source: cs.DC - Distributed Computing
+status: unread
+title: The Consensus Number of Untraceable Cryptocurrencies
 ---
 # The Consensus Number of Untraceable Cryptocurrencies
 > 原文: [https://arxiv.org/abs/2607.20929](https://arxiv.org/abs/2607.20929)

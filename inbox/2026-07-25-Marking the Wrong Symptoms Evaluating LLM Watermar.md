@@ -1,11 +1,12 @@
 ---
-title: "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.20462
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20462
 next_step: skim
+priority: high
+slack_ts: '1785124087.663329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts'
 ---
 # Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts
 > 原文: [https://arxiv.org/abs/2607.20462](https://arxiv.org/abs/2607.20462)

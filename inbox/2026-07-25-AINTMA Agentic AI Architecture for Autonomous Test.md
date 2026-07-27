@@ -1,11 +1,13 @@
 ---
-title: "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.20452
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20452
 next_step: skim
+priority: high
+slack_ts: '1785124076.950329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative
+  Intelligence, Secure Cloud Communication and Adaptive Quality Analytics'
 ---
 # AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics
 > 原文: [https://arxiv.org/abs/2607.20452](https://arxiv.org/abs/2607.20452)

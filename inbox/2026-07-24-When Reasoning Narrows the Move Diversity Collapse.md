@@ -1,11 +1,12 @@
 ---
-title: "When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.19523
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19523
 next_step: skim
+priority: high
+slack_ts: '1785124075.886929'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play'
 ---
 # When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play
 > 原文: [https://arxiv.org/abs/2607.19523](https://arxiv.org/abs/2607.19523)

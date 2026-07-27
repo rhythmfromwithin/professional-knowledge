@@ -1,11 +1,13 @@
 ---
-title: "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.20463
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20463
 next_step: skim
+priority: high
+slack_ts: '1785124079.949529'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures
+  and Large Language Models'
 ---
 # ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models
 > 原文: [https://arxiv.org/abs/2607.20463](https://arxiv.org/abs/2607.20463)

@@ -1,11 +1,13 @@
 ---
-title: "State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.20306
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20306
 next_step: skim
+priority: low
+slack_ts: '1785124074.418639'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian
+  Active Inference
 ---
 # State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference
 > 原文: [https://arxiv.org/abs/2607.20306](https://arxiv.org/abs/2607.20306)

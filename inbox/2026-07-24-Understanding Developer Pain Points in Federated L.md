@@ -1,11 +1,13 @@
 ---
-title: "Understanding Developer Pain Points in Federated Learning: Insights from Stack Overflow and GitHub"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.19621
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.19621
 next_step: skim
+priority: low
+slack_ts: '1785124074.990619'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Understanding Developer Pain Points in Federated Learning: Insights from Stack
+  Overflow and GitHub'
 ---
 # Understanding Developer Pain Points in Federated Learning: Insights from Stack Overflow and GitHub
 > 原文: [https://arxiv.org/abs/2607.19621](https://arxiv.org/abs/2607.19621)

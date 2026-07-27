@@ -1,11 +1,13 @@
 ---
-title: "A Framework for Reputation Aware Uninorm-driven Consensus Algorithms for Blockchain Networks"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.20700
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20700
 next_step: skim
+priority: medium
+slack_ts: '1785124076.520129'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Framework for Reputation Aware Uninorm-driven Consensus Algorithms for Blockchain
+  Networks
 ---
 # A Framework for Reputation Aware Uninorm-driven Consensus Algorithms for Blockchain Networks
 > 原文: [https://arxiv.org/abs/2607.20700](https://arxiv.org/abs/2607.20700)

@@ -1,11 +1,13 @@
 ---
-title: "SPECTRA: State-Space Exogenous Context and Temporal-Frequency Resolution Architecture for Probabilistic Energy Forecasting"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.20587
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20587
 next_step: skim
+priority: medium
+slack_ts: '1785124090.493199'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'SPECTRA: State-Space Exogenous Context and Temporal-Frequency Resolution Architecture
+  for Probabilistic Energy Forecasting'
 ---
 # SPECTRA: State-Space Exogenous Context and Temporal-Frequency Resolution Architecture for Probabilistic Energy Forecasting
 > 原文: [https://arxiv.org/abs/2607.20587](https://arxiv.org/abs/2607.20587)

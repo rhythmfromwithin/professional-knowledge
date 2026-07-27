@@ -1,11 +1,13 @@
 ---
-title: "Open Veins of Algorithmic Auditing: Why AI Assessment Lags Behind Its Deployment in the Global South"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.21317
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21317
 next_step: skim
+priority: medium
+slack_ts: '1785124088.655999'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Open Veins of Algorithmic Auditing: Why AI Assessment Lags Behind Its Deployment
+  in the Global South'
 ---
 # Open Veins of Algorithmic Auditing: Why AI Assessment Lags Behind Its Deployment in the Global South
 > 原文: [https://arxiv.org/abs/2607.21317](https://arxiv.org/abs/2607.21317)

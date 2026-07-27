@@ -1,11 +1,13 @@
 ---
-title: "Deepfake News Detection: A Multimodal Framework Integrating LipNet, DeepSpeech and ResNET for Enhanced Audio-Visual Analysis"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.20579
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20579
 next_step: skim
+priority: low
+slack_ts: '1785124081.259269'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Deepfake News Detection: A Multimodal Framework Integrating LipNet, DeepSpeech
+  and ResNET for Enhanced Audio-Visual Analysis'
 ---
 # Deepfake News Detection: A Multimodal Framework Integrating LipNet, DeepSpeech and ResNET for Enhanced Audio-Visual Analysis
 > 原文: [https://arxiv.org/abs/2607.20579](https://arxiv.org/abs/2607.20579)

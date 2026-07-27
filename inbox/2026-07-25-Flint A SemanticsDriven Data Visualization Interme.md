@@ -1,11 +1,12 @@
 ---
-title: "Flint: A Semantics-Driven Data Visualization Intermediate Language"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.20775
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20775
 next_step: skim
+priority: low
+slack_ts: '1785124082.091869'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Flint: A Semantics-Driven Data Visualization Intermediate Language'
 ---
 # Flint: A Semantics-Driven Data Visualization Intermediate Language
 > 原文: [https://arxiv.org/abs/2607.20775](https://arxiv.org/abs/2607.20775)

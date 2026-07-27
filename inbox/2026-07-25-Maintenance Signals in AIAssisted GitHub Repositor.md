@@ -1,11 +1,13 @@
 ---
-title: "Maintenance Signals in AI-Assisted GitHub Repositories: Evidence from GenAI Adopters"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.21079
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21079
 next_step: skim
+priority: low
+slack_ts: '1785124087.414289'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Maintenance Signals in AI-Assisted GitHub Repositories: Evidence from GenAI
+  Adopters'
 ---
 # Maintenance Signals in AI-Assisted GitHub Repositories: Evidence from GenAI Adopters
 > 原文: [https://arxiv.org/abs/2607.21079](https://arxiv.org/abs/2607.21079)

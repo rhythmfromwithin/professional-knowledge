@@ -1,11 +1,13 @@
 ---
-title: "A Logic-based Temporal Cohort Discovery Engine: Algorithms, Indices, and Experimental Results on the National Sleep Research Resource"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.21377
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21377
 next_step: skim
+priority: low
+slack_ts: '1785124076.706179'
+source: cs.DB - Databases
+status: unread
+title: 'A Logic-based Temporal Cohort Discovery Engine: Algorithms, Indices, and Experimental
+  Results on the National Sleep Research Resource'
 ---
 # A Logic-based Temporal Cohort Discovery Engine: Algorithms, Indices, and Experimental Results on the National Sleep Research Resource
 > 原文: [https://arxiv.org/abs/2607.21377](https://arxiv.org/abs/2607.21377)

@@ -1,11 +1,12 @@
 ---
-title: "Masked Topology Modeling for Self-Supervised Learning on Parametric CAD"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.20642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20642
 next_step: skim
+priority: medium
+slack_ts: '1785124087.909679'
+source: cs.CV - Computer Vision
+status: unread
+title: Masked Topology Modeling for Self-Supervised Learning on Parametric CAD
 ---
 # Masked Topology Modeling for Self-Supervised Learning on Parametric CAD
 > 原文: [https://arxiv.org/abs/2607.20642](https://arxiv.org/abs/2607.20642)

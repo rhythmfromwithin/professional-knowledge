@@ -1,11 +1,12 @@
 ---
-title: "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.20465
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20465
 next_step: skim
+priority: high
+slack_ts: '1785124081.011069'
+source: cs.LG - Machine Learning
+status: unread
+title: 'DataPrep-Bench: Benchmarking LLMs as Training Data Preparators'
 ---
 # DataPrep-Bench: Benchmarking LLMs as Training Data Preparators
 > 原文: [https://arxiv.org/abs/2607.20465](https://arxiv.org/abs/2607.20465)
