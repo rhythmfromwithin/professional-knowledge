@@ -1,11 +1,13 @@
 ---
-title: "Scalable Low-Cost Laboratory Automation: A Digital Twin-Integrated Robotic Platform for Autonomous Liquid Handling (RAINBOTTM)"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.20662
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20662
 next_step: skim
+priority: medium
+slack_ts: '1785208695.197169'
+source: cs.RO - Robotics
+status: unread
+title: 'Scalable Low-Cost Laboratory Automation: A Digital Twin-Integrated Robotic
+  Platform for Autonomous Liquid Handling (RAINBOTTM)'
 ---
 # Scalable Low-Cost Laboratory Automation: A Digital Twin-Integrated Robotic Platform for Autonomous Liquid Handling (RAINBOTTM)
 > 原文: [https://arxiv.org/abs/2607.20662](https://arxiv.org/abs/2607.20662)

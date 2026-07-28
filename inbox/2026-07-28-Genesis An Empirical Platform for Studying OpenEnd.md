@@ -1,0 +1,14 @@
+---
+title: "Genesis: An Empirical Platform for Studying Open-Ended Evolution Without Fitness Functions"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2607.21631
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Genesis: An Empirical Platform for Studying Open-Ended Evolution Without Fitness Functions
+> 原文: [https://arxiv.org/abs/2607.21631](https://arxiv.org/abs/2607.21631)
+
+arXiv:2607.21631v1 Announce Type: new
+Abstract: Biological evolution sustains complex dynamics without any fitness function, yet virtually all evolutionary algorithms depend on one. Genesis is an open-source platform designed to test, empirically, what an artificial system needs to sustain evolutionary dynamics after complete fitness removal. Evolution in Genesis is governed by physical constraints, relational dominance, and adaptive regulation - no scalar fitness, no designer-specified objectives. Across experiments totalling over one million evolutionary generations, Genesis has: (i) shown that constraint-driven selection can sustain evolutionary activity after complete fitness removal (7/12 runs; Wilson 95% CI [30.2%, 82.5%]; p<0.01, Cohen's d=1.47 vs. baselines); (ii) produced a sham-controlled negative result demonstrating that niche construction alone does not break the complexity plateau; and (iii) provided preliminary evidence that speciation-protected niche construction initiates structural diversification that unprotected secretion cannot. These findings establish empirical boundaries for fitness-free evolution and open a new direction: meta-evolution of physics, in which the laws governing an evolutionary system are themselves evolved.

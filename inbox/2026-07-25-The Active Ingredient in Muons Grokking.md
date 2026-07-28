@@ -1,11 +1,12 @@
 ---
-title: "The Active Ingredient in Muon's Grokking"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.20512
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20512
 next_step: skim
+priority: high
+slack_ts: '1785208696.049399'
+source: cs.LG - Machine Learning
+status: unread
+title: The Active Ingredient in Muon's Grokking
 ---
 # The Active Ingredient in Muon's Grokking
 > 原文: [https://arxiv.org/abs/2607.20512](https://arxiv.org/abs/2607.20512)

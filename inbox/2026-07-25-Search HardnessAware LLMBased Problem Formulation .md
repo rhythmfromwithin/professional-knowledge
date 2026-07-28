@@ -1,11 +1,13 @@
 ---
-title: "Search Hardness-Aware LLM-Based Problem Formulation for Expensive Simulation-Driven Design"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.21220
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21220
 next_step: skim
+priority: low
+slack_ts: '1785208695.394759'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Search Hardness-Aware LLM-Based Problem Formulation for Expensive Simulation-Driven
+  Design
 ---
 # Search Hardness-Aware LLM-Based Problem Formulation for Expensive Simulation-Driven Design
 > 原文: [https://arxiv.org/abs/2607.21220](https://arxiv.org/abs/2607.21220)

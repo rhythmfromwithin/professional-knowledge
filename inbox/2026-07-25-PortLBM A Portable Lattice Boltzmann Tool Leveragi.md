@@ -1,11 +1,13 @@
 ---
-title: "PortLBM: A Portable Lattice Boltzmann Tool Leveraging SYCL on AMD, NVIDIA, and Intel GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.20650
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20650
 next_step: skim
+priority: medium
+slack_ts: '1785208694.598749'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'PortLBM: A Portable Lattice Boltzmann Tool Leveraging SYCL on AMD, NVIDIA,
+  and Intel GPUs'
 ---
 # PortLBM: A Portable Lattice Boltzmann Tool Leveraging SYCL on AMD, NVIDIA, and Intel GPUs
 > 原文: [https://arxiv.org/abs/2607.20650](https://arxiv.org/abs/2607.20650)

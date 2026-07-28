@@ -1,11 +1,13 @@
 ---
-title: "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.20653
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20653
 next_step: skim
+priority: medium
+slack_ts: '1785208694.389969'
+source: cs.RO - Robotics
+status: unread
+title: 'PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable
+  Dynamics'
 ---
 # PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics
 > 原文: [https://arxiv.org/abs/2607.20653](https://arxiv.org/abs/2607.20653)

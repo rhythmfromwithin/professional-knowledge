@@ -1,11 +1,12 @@
 ---
-title: "Spectral theory for population density dynamics of spiking neurons with refractoriness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.20699
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20699
 next_step: skim
+priority: low
+slack_ts: '1785208695.859599'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Spectral theory for population density dynamics of spiking neurons with refractoriness
 ---
 # Spectral theory for population density dynamics of spiking neurons with refractoriness
 > 原文: [https://arxiv.org/abs/2607.20699](https://arxiv.org/abs/2607.20699)

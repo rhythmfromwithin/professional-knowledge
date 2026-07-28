@@ -1,11 +1,12 @@
 ---
-title: "Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.20427
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20427
 next_step: skim
+priority: high
+slack_ts: '1785208701.996389'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought
 ---
 # Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought
 > 原文: [https://arxiv.org/abs/2607.20427](https://arxiv.org/abs/2607.20427)

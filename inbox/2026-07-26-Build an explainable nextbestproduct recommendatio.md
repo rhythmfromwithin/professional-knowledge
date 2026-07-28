@@ -1,11 +1,13 @@
 ---
-title: "Build an explainable next-best-product recommendation system for banking on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1785208698.478379'
+source: AWS Blog
+status: unread
+title: Build an explainable next-best-product recommendation system for banking on
+  AWS
 ---
 # Build an explainable next-best-product recommendation system for banking on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/](https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/)

@@ -1,11 +1,13 @@
 ---
-title: "Transition-Related Potentials as Markers of Narrative Comprehension in Continuous EEG"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.20720
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20720
 next_step: skim
+priority: low
+slack_ts: '1785208696.633519'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Transition-Related Potentials as Markers of Narrative Comprehension in Continuous
+  EEG
 ---
 # Transition-Related Potentials as Markers of Narrative Comprehension in Continuous EEG
 > 原文: [https://arxiv.org/abs/2607.20720](https://arxiv.org/abs/2607.20720)

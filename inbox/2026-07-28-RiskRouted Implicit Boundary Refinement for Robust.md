@@ -1,0 +1,14 @@
+---
+title: "Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2607.21787
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation
+> 原文: [https://arxiv.org/abs/2607.21787](https://arxiv.org/abs/2607.21787)
+
+arXiv:2607.21787v1 Announce Type: new
+Abstract: Medical ultrasound (US) image segmentation faces significant challenges due to speckle noise, low-contrast boundaries, acoustic shadowing, and acquisition variation across operators and clinical centers. Although encoder-decoder and transformer-based networks have achieved strong performance, many methods recover boundary details through dense decoders or larger backbones, which may still produce over-smoothed contours or unstable predictions under external distribution shifts. In this article, we propose Risk-routed Implicit Boundary Refinement (RIBR), a compact segmentation framework that uses implicit neural representation as a risk-routed residual correction rather than an unconstrained full-mask predictor. RIBR combines boundary-refinement implicit residuals, risk-routed residual control, and geometry- and speckle-aware boundary regularization to refine uncertain contours while suppressing non-boundary oscillations. Evaluation on nine US datasets covering lymph nodes, breast lesions, thyroid nodules, and prostate shows that RIBR achieves the best overall macro-average and consistently reduces boundary error across grouped and organ-specific comparisons under a compact parameter budget. These findings suggest that controlled implicit residual learning is a practical strategy for resource-constrained and boundary-sensitive US segmentation. Source code is available at https://github.com/jinggqu/ribr.

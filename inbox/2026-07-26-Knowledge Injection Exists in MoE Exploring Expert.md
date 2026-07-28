@@ -1,11 +1,13 @@
 ---
-title: "Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs'Hallucinations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.20426
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20426
 next_step: skim
+priority: high
+slack_ts: '1785208702.665559'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding
+  in MoE for Mitigating LLMs'Hallucinations
 ---
 # Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs'Hallucinations
 > 原文: [https://arxiv.org/abs/2607.20426](https://arxiv.org/abs/2607.20426)

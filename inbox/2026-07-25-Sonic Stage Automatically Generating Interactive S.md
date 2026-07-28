@@ -1,11 +1,13 @@
 ---
-title: "Sonic Stage: Automatically Generating Interactive Spatial Soundscapes to Facilitate Dialogue Video Comprehension for Blind Viewers"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.20835
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20835
 next_step: skim
+priority: low
+slack_ts: '1785208695.654229'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Sonic Stage: Automatically Generating Interactive Spatial Soundscapes to Facilitate
+  Dialogue Video Comprehension for Blind Viewers'
 ---
 # Sonic Stage: Automatically Generating Interactive Spatial Soundscapes to Facilitate Dialogue Video Comprehension for Blind Viewers
 > 原文: [https://arxiv.org/abs/2607.20835](https://arxiv.org/abs/2607.20835)

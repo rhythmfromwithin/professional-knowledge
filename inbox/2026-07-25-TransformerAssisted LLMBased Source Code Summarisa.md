@@ -1,11 +1,13 @@
 ---
-title: "Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.20933
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20933
 next_step: skim
+priority: low
+slack_ts: '1785208696.253009'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure
+  Software Development'
 ---
 # Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development
 > 原文: [https://arxiv.org/abs/2607.20933](https://arxiv.org/abs/2607.20933)

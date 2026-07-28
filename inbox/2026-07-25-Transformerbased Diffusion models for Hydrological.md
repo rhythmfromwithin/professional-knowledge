@@ -1,11 +1,13 @@
 ---
-title: "Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.21200
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21200
 next_step: skim
+priority: medium
+slack_ts: '1785208696.439719'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Transformer-based Diffusion models for Hydrological Time Series Probabilistic
+  Imputation and Forecasting
 ---
 # Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting
 > 原文: [https://arxiv.org/abs/2607.21200](https://arxiv.org/abs/2607.21200)

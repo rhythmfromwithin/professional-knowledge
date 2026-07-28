@@ -1,0 +1,14 @@
+---
+title: "Cycles of Discourse, Speech Dysfluency, and Active Inference"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2607.22180
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Cycles of Discourse, Speech Dysfluency, and Active Inference
+> 原文: [https://arxiv.org/abs/2607.22180](https://arxiv.org/abs/2607.22180)
+
+arXiv:2607.22180v1 Announce Type: new
+Abstract: Speech is a complex motor and social act. We must not only produce and understand sequences of variable-length words formed of ordered syllables but also speak and listen in turn. This theoretical paper introduces a computational model of speech production and auditory segmentation based upon sequences of discrete phonemes. The purpose of this is to develop a vehicle to test (in silico) hypotheses about the mechanisms that govern loss of speech fluency, something that may happen transiently in people who stutter or progressively in various neurodegenerative conditions. The modelling here appeals to Partially Observable Markov Decision Processes that provide a useful generic formulation for specifying the internal model our brains might use to describe dynamic environments in which they can exert partial control and make partial observations. The core features of the specific model used here are: (1) a reciprocal mapping from words to sequences of varying numbers of phonemes (2) a common subset of states for both speech generation and speech perception. A further novel feature is a social component, in which one must infer who is speaking (self or other). We propose a series of hypotheses about the computational mechanisms that might underwrite speech breakdown. For example, we demonstrate that reducing the precision in the next word introduces pauses and start-of-word repetitions of the sort associated with stuttering. We examine the patterns of behaviour and belief-updating predicted by each of these hypotheses, with implications for both speaking and listening. Finally, we discuss plausible neural substrates for the underlying message passing that might be amenable to interrogation with functional imaging.

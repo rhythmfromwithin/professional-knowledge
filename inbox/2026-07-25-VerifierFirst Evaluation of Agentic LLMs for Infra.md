@@ -1,11 +1,12 @@
 ---
-title: "Verifier-First Evaluation of Agentic LLMs for Infrastructure-as-Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.20478
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20478
 next_step: skim
+priority: low
+slack_ts: '1785208696.818679'
+source: cs.SE - Software Engineering
+status: unread
+title: Verifier-First Evaluation of Agentic LLMs for Infrastructure-as-Code Generation
 ---
 # Verifier-First Evaluation of Agentic LLMs for Infrastructure-as-Code Generation
 > 原文: [https://arxiv.org/abs/2607.20478](https://arxiv.org/abs/2607.20478)

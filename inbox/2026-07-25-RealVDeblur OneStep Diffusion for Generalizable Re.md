@@ -1,11 +1,12 @@
 ---
-title: "RealVDeblur: One-Step Diffusion for Generalizable Real-World Video Deblurring"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.20628
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.20628
 next_step: skim
+priority: medium
+slack_ts: '1785208695.006209'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RealVDeblur: One-Step Diffusion for Generalizable Real-World Video Deblurring'
 ---
 # RealVDeblur: One-Step Diffusion for Generalizable Real-World Video Deblurring
 > 原文: [https://arxiv.org/abs/2607.20628](https://arxiv.org/abs/2607.20628)
