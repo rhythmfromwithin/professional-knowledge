@@ -1,11 +1,12 @@
 ---
-title: "Cycles of Discourse, Speech Dysfluency, and Active Inference"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.22180
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22180
 next_step: skim
+priority: low
+slack_ts: '1785295221.606949'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Cycles of Discourse, Speech Dysfluency, and Active Inference
 ---
 # Cycles of Discourse, Speech Dysfluency, and Active Inference
 > 原文: [https://arxiv.org/abs/2607.22180](https://arxiv.org/abs/2607.22180)

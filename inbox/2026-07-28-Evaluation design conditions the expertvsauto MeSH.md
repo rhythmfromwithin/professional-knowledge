@@ -1,11 +1,13 @@
 ---
-title: "Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison of bag-of-words and BiomedBERT on the Cohen benchmark"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.21685
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21685
 next_step: skim
+priority: high
+slack_ts: '1785295221.871069'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison
+  of bag-of-words and BiomedBERT on the Cohen benchmark'
 ---
 # Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison of bag-of-words and BiomedBERT on the Cohen benchmark
 > 原文: [https://arxiv.org/abs/2607.21685](https://arxiv.org/abs/2607.21685)

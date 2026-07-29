@@ -1,11 +1,13 @@
 ---
-title: "Analyzing Middle School Students' Dialogue and Behaviors during Collaborative AI Chatbot Development Using Ordered Network Analysis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.21603
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21603
 next_step: skim
+priority: low
+slack_ts: '1785295220.314259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Analyzing Middle School Students' Dialogue and Behaviors during Collaborative
+  AI Chatbot Development Using Ordered Network Analysis
 ---
 # Analyzing Middle School Students' Dialogue and Behaviors during Collaborative AI Chatbot Development Using Ordered Network Analysis
 > 原文: [https://arxiv.org/abs/2607.21603](https://arxiv.org/abs/2607.21603)

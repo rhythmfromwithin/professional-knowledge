@@ -1,11 +1,12 @@
 ---
-title: "Co-design of LLM-based preference agents: participation may drive overtrust"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.21757
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21757
 next_step: skim
+priority: medium
+slack_ts: '1785295221.195889'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Co-design of LLM-based preference agents: participation may drive overtrust'
 ---
 # Co-design of LLM-based preference agents: participation may drive overtrust
 > 原文: [https://arxiv.org/abs/2607.21757](https://arxiv.org/abs/2607.21757)

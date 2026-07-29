@@ -1,11 +1,13 @@
 ---
-title: "Be Consistent! Enhancing Robust Visual Reasoning in LVLMs with Consistency Constraints"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.21722
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21722
 next_step: skim
+priority: medium
+slack_ts: '1785295220.593929'
+source: cs.CV - Computer Vision
+status: unread
+title: Be Consistent! Enhancing Robust Visual Reasoning in LVLMs with Consistency
+  Constraints
 ---
 # Be Consistent! Enhancing Robust Visual Reasoning in LVLMs with Consistency Constraints
 > 原文: [https://arxiv.org/abs/2607.21722](https://arxiv.org/abs/2607.21722)

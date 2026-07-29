@@ -1,11 +1,13 @@
 ---
-title: "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.21623
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21623
 next_step: skim
+priority: high
+slack_ts: '1785295221.112949'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable
+  AI Monitoring with Conformal Guarantees'
 ---
 # Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees
 > 原文: [https://arxiv.org/abs/2607.21623](https://arxiv.org/abs/2607.21623)

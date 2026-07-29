@@ -1,11 +1,13 @@
 ---
-title: "Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments from Constraint-Driven Selection to Developmental Encoding"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.21630
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21630
 next_step: skim
+priority: low
+slack_ts: '1785295221.953529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments
+  from Constraint-Driven Selection to Developmental Encoding'
 ---
 # Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments from Constraint-Driven Selection to Developmental Encoding
 > 原文: [https://arxiv.org/abs/2607.21630](https://arxiv.org/abs/2607.21630)

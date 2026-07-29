@@ -1,11 +1,13 @@
 ---
-title: "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.21596
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21596
 next_step: skim
+priority: high
+slack_ts: '1785295222.219549'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable
+  Skills'
 ---
 # FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills
 > 原文: [https://arxiv.org/abs/2607.21596](https://arxiv.org/abs/2607.21596)

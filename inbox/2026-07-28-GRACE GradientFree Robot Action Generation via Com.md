@@ -1,11 +1,13 @@
 ---
-title: "GRACE: Gradient-Free Robot Action Generation via Combined Diffusion-MPPI Posterior Mean Estimation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.21661
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21661
 next_step: skim
+priority: medium
+slack_ts: '1785295222.383829'
+source: cs.RO - Robotics
+status: unread
+title: 'GRACE: Gradient-Free Robot Action Generation via Combined Diffusion-MPPI Posterior
+  Mean Estimation'
 ---
 # GRACE: Gradient-Free Robot Action Generation via Combined Diffusion-MPPI Posterior Mean Estimation
 > 原文: [https://arxiv.org/abs/2607.21661](https://arxiv.org/abs/2607.21661)

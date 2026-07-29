@@ -1,0 +1,14 @@
+---
+title: "CausalGate: Causal Importance Distillation for Transformer Module Pruning"
+source: "cs.LG - Machine Learning"
+link: https://arxiv.org/abs/2607.22720
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# CausalGate: Causal Importance Distillation for Transformer Module Pruning
+> 原文: [https://arxiv.org/abs/2607.22720](https://arxiv.org/abs/2607.22720)
+
+arXiv:2607.22720v1 Announce Type: new
+Abstract: Existing adaptive inference methods for Large Language Models rely on observational heuristics, such as hidden-state similarity or activation magnitudes, to drop redundant modules. However, these correlation-based metrics often fail to capture subtle, non-linear structural computations vital for semantic accuracy. We introduce CausalGate, an intervention-guided framework for compute-efficient transformer inference. During a calibration phase, CausalGate isolates individual Attention and MLP sub-layers, zeros out their respective outputs, and measures the exact semantic damage via the Kullback-Leibler divergence of the final logit distribution. To eliminate runtime routing overhead, this structural importance hierarchy is distilled into a global set of static, lightweight scalar gates using an Exponential Moving Average smoothing objective paired with a differentiable pairwise ranking loss. Evaluated on TinyLlama-1.1B, Qwen2.5-3B, and Llama-3.1-8B across language modeling and commonsense reasoning benchmarks, CausalGate consistently outperforms prominent dynamic routing and layer-skipping baselines, translating theoretical compute savings into concrete hardware latency reductions with zero operational overhead.

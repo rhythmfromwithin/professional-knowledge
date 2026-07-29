@@ -1,11 +1,13 @@
 ---
-title: "Genesis: An Empirical Platform for Studying Open-Ended Evolution Without Fitness Functions"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.21631
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21631
 next_step: skim
+priority: low
+slack_ts: '1785295223.179539'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Genesis: An Empirical Platform for Studying Open-Ended Evolution Without Fitness
+  Functions'
 ---
 # Genesis: An Empirical Platform for Studying Open-Ended Evolution Without Fitness Functions
 > 原文: [https://arxiv.org/abs/2607.21631](https://arxiv.org/abs/2607.21631)

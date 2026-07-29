@@ -1,11 +1,13 @@
 ---
-title: "A Consensus-Based Framework for Relative Preference Evaluation of Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.21632
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21632
 next_step: skim
+priority: high
+slack_ts: '1785295219.722669'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: A Consensus-Based Framework for Relative Preference Evaluation of Large Language
+  Models
 ---
 # A Consensus-Based Framework for Relative Preference Evaluation of Large Language Models
 > 原文: [https://arxiv.org/abs/2607.21632](https://arxiv.org/abs/2607.21632)

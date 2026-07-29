@@ -1,11 +1,12 @@
 ---
-title: "Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.21654
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21654
 next_step: skim
+priority: low
+slack_ts: '1785295221.277929'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation
 ---
 # Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation
 > 原文: [https://arxiv.org/abs/2607.21654](https://arxiv.org/abs/2607.21654)

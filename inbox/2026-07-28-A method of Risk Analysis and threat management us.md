@@ -1,11 +1,12 @@
 ---
-title: "A method of Risk Analysis and threat management using analytic hierarchy process"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.21691
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21691
 next_step: skim
+priority: low
+slack_ts: '1785295219.809209'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A method of Risk Analysis and threat management using analytic hierarchy process
 ---
 # A method of Risk Analysis and threat management using analytic hierarchy process
 > 原文: [https://arxiv.org/abs/2607.21691](https://arxiv.org/abs/2607.21691)
