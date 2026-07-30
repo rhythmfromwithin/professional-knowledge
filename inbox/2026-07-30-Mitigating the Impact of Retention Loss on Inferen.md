@@ -1,0 +1,14 @@
+---
+title: "Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2607.25058
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing
+> 原文: [https://arxiv.org/abs/2607.25058](https://arxiv.org/abs/2607.25058)
+
+arXiv:2607.25058v1 Announce Type: cross
+Abstract: We show with experiments and system-level simulations that it is possible to successfully mitigate the impact of retention loss on inference accuracy degradation by using both circuit-level compensation techniques and batch normalization recalibration at the algorithmic level. Experiments are performed on a single-poly floating-gate (FG) analog non-volatile memory array for analog in-memory computing fabricated in a standard 65 nm CMOS. We use a model of retention-loss statistics calibrated with experiments to evaluate the system-level impact on neural network models such as VGG-10/CIFAR-10 and WideResNet-28-10/CIFAR-100. We show that, after 60 days since programming, combined mitigation techniques enable to recover the baseline inference accuracy within 2-4%

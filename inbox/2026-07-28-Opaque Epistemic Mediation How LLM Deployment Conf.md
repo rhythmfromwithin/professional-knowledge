@@ -1,11 +1,13 @@
 ---
-title: "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.22513
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22513
 next_step: skim
+priority: medium
+slack_ts: '1785380030.079379'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation
+  of Pseudo-Science'
 ---
 # Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science
 > 原文: [https://arxiv.org/abs/2607.22513](https://arxiv.org/abs/2607.22513)

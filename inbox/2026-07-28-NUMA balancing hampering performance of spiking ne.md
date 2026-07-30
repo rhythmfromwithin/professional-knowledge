@@ -1,11 +1,12 @@
 ---
-title: "NUMA balancing hampering performance of spiking network simulations"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.22275
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22275
 next_step: skim
+priority: low
+slack_ts: '1785380029.613939'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: NUMA balancing hampering performance of spiking network simulations
 ---
 # NUMA balancing hampering performance of spiking network simulations
 > 原文: [https://arxiv.org/abs/2607.22275](https://arxiv.org/abs/2607.22275)

@@ -1,11 +1,13 @@
 ---
-title: "Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.22006
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22006
 next_step: skim
+priority: medium
+slack_ts: '1785380031.248559'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation
+  disclosure (BeDA)'
 ---
 # Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)
 > 原文: [https://arxiv.org/abs/2607.22006](https://arxiv.org/abs/2607.22006)

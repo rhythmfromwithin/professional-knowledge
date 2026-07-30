@@ -1,11 +1,12 @@
 ---
-title: "CausalGate: Causal Importance Distillation for Transformer Module Pruning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.22720
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22720
 next_step: skim
+priority: high
+slack_ts: '1785380033.223089'
+source: cs.LG - Machine Learning
+status: unread
+title: 'CausalGate: Causal Importance Distillation for Transformer Module Pruning'
 ---
 # CausalGate: Causal Importance Distillation for Transformer Module Pruning
 > 原文: [https://arxiv.org/abs/2607.22720](https://arxiv.org/abs/2607.22720)

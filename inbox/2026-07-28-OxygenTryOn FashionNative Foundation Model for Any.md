@@ -1,11 +1,12 @@
 ---
-title: "Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.21694
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21694
 next_step: skim
+priority: medium
+slack_ts: '1785380030.159669'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On'
 ---
 # Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On
 > 原文: [https://arxiv.org/abs/2607.21694](https://arxiv.org/abs/2607.21694)

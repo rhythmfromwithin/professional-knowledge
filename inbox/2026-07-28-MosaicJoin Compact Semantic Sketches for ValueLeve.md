@@ -1,11 +1,12 @@
 ---
-title: "MosaicJoin: Compact Semantic Sketches for Value-Level Join Discovery"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.21781
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21781
 next_step: skim
+priority: low
+slack_ts: '1785380029.538019'
+source: cs.DB - Databases
+status: unread
+title: 'MosaicJoin: Compact Semantic Sketches for Value-Level Join Discovery'
 ---
 # MosaicJoin: Compact Semantic Sketches for Value-Level Join Discovery
 > 原文: [https://arxiv.org/abs/2607.21781](https://arxiv.org/abs/2607.21781)

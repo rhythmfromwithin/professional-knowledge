@@ -1,11 +1,12 @@
 ---
-title: "Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.21756
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21756
 next_step: skim
+priority: low
+slack_ts: '1785380030.574159'
+source: cs.DB - Databases
+status: unread
+title: 'Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting'
 ---
 # Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting
 > 原文: [https://arxiv.org/abs/2607.21756](https://arxiv.org/abs/2607.21756)

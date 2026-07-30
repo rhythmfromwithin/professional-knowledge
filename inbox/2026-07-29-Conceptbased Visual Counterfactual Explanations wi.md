@@ -1,11 +1,12 @@
 ---
-title: "Concept-based Visual Counterfactual Explanations with Diffusion Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.22544
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22544
 next_step: skim
+priority: high
+slack_ts: '1785380033.475539'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Concept-based Visual Counterfactual Explanations with Diffusion Models
 ---
 # Concept-based Visual Counterfactual Explanations with Diffusion Models
 > 原文: [https://arxiv.org/abs/2607.22544](https://arxiv.org/abs/2607.22544)

@@ -1,11 +1,12 @@
 ---
-title: "Smart Contract Tells: Aircraft Maintenance Records Are Now Trustworthy"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.21989
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21989
 next_step: skim
+priority: medium
+slack_ts: '1785380030.994649'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Smart Contract Tells: Aircraft Maintenance Records Are Now Trustworthy'
 ---
 # Smart Contract Tells: Aircraft Maintenance Records Are Now Trustworthy
 > 原文: [https://arxiv.org/abs/2607.21989](https://arxiv.org/abs/2607.21989)

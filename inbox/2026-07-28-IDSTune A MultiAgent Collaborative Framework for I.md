@@ -1,11 +1,13 @@
 ---
-title: "IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.22031
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22031
 next_step: skim
+priority: low
+slack_ts: '1785380028.301059'
+source: cs.DB - Databases
+status: unread
+title: 'IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System
+  Tuning'
 ---
 # IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning
 > 原文: [https://arxiv.org/abs/2607.22031](https://arxiv.org/abs/2607.22031)

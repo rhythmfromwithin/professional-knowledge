@@ -1,11 +1,12 @@
 ---
-title: "Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.21641
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21641
 next_step: skim
+priority: low
+slack_ts: '1785380031.160749'
+source: cs.SE - Software Engineering
+status: unread
+title: Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code
 ---
 # Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code
 > 原文: [https://arxiv.org/abs/2607.21641](https://arxiv.org/abs/2607.21641)

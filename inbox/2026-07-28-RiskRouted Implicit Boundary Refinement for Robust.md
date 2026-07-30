@@ -1,11 +1,12 @@
 ---
-title: "Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.21787
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21787
 next_step: skim
+priority: medium
+slack_ts: '1785380030.744099'
+source: cs.CV - Computer Vision
+status: unread
+title: Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation
 ---
 # Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation
 > 原文: [https://arxiv.org/abs/2607.21787](https://arxiv.org/abs/2607.21787)

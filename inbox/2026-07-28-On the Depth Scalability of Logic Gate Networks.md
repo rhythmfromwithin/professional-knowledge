@@ -1,11 +1,12 @@
 ---
-title: "On the Depth Scalability of Logic Gate Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.21633
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21633
 next_step: skim
+priority: high
+slack_ts: '1785380029.951649'
+source: cs.LG - Machine Learning
+status: unread
+title: On the Depth Scalability of Logic Gate Networks
 ---
 # On the Depth Scalability of Logic Gate Networks
 > 原文: [https://arxiv.org/abs/2607.21633](https://arxiv.org/abs/2607.21633)

@@ -1,11 +1,13 @@
 ---
-title: "Agentic AI Orchestration of Heterogeneous Economic Models for Rapid, Multi-scenario Analysis of Energy Crises"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.23313
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23313
 next_step: skim
+priority: low
+slack_ts: '1785380032.250379'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Agentic AI Orchestration of Heterogeneous Economic Models for Rapid, Multi-scenario
+  Analysis of Energy Crises
 ---
 # Agentic AI Orchestration of Heterogeneous Economic Models for Rapid, Multi-scenario Analysis of Energy Crises
 > 原文: [https://arxiv.org/abs/2607.23313](https://arxiv.org/abs/2607.23313)

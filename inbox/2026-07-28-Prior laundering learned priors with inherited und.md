@@ -1,11 +1,12 @@
 ---
-title: "Prior laundering: learned priors with inherited, undetectable overconfidence"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.21721
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21721
 next_step: skim
+priority: medium
+slack_ts: '1785380030.414539'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Prior laundering: learned priors with inherited, undetectable overconfidence'
 ---
 # Prior laundering: learned priors with inherited, undetectable overconfidence
 > 原文: [https://arxiv.org/abs/2607.21721](https://arxiv.org/abs/2607.21721)

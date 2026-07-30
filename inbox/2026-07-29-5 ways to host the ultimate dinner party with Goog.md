@@ -1,11 +1,12 @@
 ---
-title: "5 ways to host the ultimate dinner party with Google Search"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/
 next_step: skim
+priority: high
+slack_ts: '1785380031.604019'
+source: Google AI Blog
+status: unread
+title: 5 ways to host the ultimate dinner party with Google Search
 ---
 # 5 ways to host the ultimate dinner party with Google Search
 > 原文: [https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/](https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/)

@@ -1,11 +1,12 @@
 ---
-title: "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.21655
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21655
 next_step: skim
+priority: medium
+slack_ts: '1785380030.495619'
+source: cs.RO - Robotics
+status: unread
+title: 'Progress Reward Modeling for Robotic Learning: A Comprehensive Survey'
 ---
 # Progress Reward Modeling for Robotic Learning: A Comprehensive Survey
 > 原文: [https://arxiv.org/abs/2607.21655](https://arxiv.org/abs/2607.21655)

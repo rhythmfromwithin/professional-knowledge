@@ -1,11 +1,12 @@
 ---
-title: "A Modular Cyber Range Platform for Smart Energy Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.22943
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22943
 next_step: skim
+priority: low
+slack_ts: '1785380031.726599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Modular Cyber Range Platform for Smart Energy Systems
 ---
 # A Modular Cyber Range Platform for Smart Energy Systems
 > 原文: [https://arxiv.org/abs/2607.22943](https://arxiv.org/abs/2607.22943)

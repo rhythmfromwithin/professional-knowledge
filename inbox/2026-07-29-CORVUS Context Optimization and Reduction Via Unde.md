@@ -1,11 +1,13 @@
 ---
-title: "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.22711
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22711
 next_step: skim
+priority: high
+slack_ts: '1785380033.140759'
+source: cs.LG - Machine Learning
+status: unread
+title: 'CORVUS: Context Optimization and Reduction Via Underlying Synchronization
+  for LLM Coding Agents'
 ---
 # CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents
 > 原文: [https://arxiv.org/abs/2607.22711](https://arxiv.org/abs/2607.22711)

@@ -1,11 +1,12 @@
 ---
-title: "Local Synaptic Rules Can Implement a SIGReg Gradient Without Backpropagation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.21622
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21622
 next_step: skim
+priority: low
+slack_ts: '1785380029.081299'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Local Synaptic Rules Can Implement a SIGReg Gradient Without Backpropagation
 ---
 # Local Synaptic Rules Can Implement a SIGReg Gradient Without Backpropagation
 > 原文: [https://arxiv.org/abs/2607.21622](https://arxiv.org/abs/2607.21622)

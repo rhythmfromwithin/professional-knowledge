@@ -1,11 +1,13 @@
 ---
-title: "A Replay-Constrained Simulation Framework for Personalization of Powered Knee--Ankle Prosthesis Controllers"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.22858
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22858
 next_step: skim
+priority: medium
+slack_ts: '1785380031.812579'
+source: cs.RO - Robotics
+status: unread
+title: A Replay-Constrained Simulation Framework for Personalization of Powered Knee--Ankle
+  Prosthesis Controllers
 ---
 # A Replay-Constrained Simulation Framework for Personalization of Powered Knee--Ankle Prosthesis Controllers
 > 原文: [https://arxiv.org/abs/2607.22858](https://arxiv.org/abs/2607.22858)

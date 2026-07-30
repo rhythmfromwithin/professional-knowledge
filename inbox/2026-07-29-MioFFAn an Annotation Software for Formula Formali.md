@@ -1,11 +1,13 @@
 ---
-title: "MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.22552
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22552
 next_step: skim
+priority: high
+slack_ts: '1785380035.319959'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MioFFAn: an Annotation Software for Formula Formalization with LLM Automation
+  Capabilities'
 ---
 # MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities
 > 原文: [https://arxiv.org/abs/2607.22552](https://arxiv.org/abs/2607.22552)

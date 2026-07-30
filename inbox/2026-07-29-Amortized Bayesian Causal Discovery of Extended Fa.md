@@ -1,11 +1,12 @@
 ---
-title: "Amortized Bayesian Causal Discovery of Extended Factor Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.22934
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22934
 next_step: skim
+priority: medium
+slack_ts: '1785380032.494459'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Amortized Bayesian Causal Discovery of Extended Factor Graphs
 ---
 # Amortized Bayesian Causal Discovery of Extended Factor Graphs
 > 原文: [https://arxiv.org/abs/2607.22934](https://arxiv.org/abs/2607.22934)

@@ -1,11 +1,12 @@
 ---
-title: "Natural Language Processing in Health Professions Education: A Scoping Review"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.21605
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21605
 next_step: skim
+priority: low
+slack_ts: '1785380029.694059'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Natural Language Processing in Health Professions Education: A Scoping Review'
 ---
 # Natural Language Processing in Health Professions Education: A Scoping Review
 > 原文: [https://arxiv.org/abs/2607.21605](https://arxiv.org/abs/2607.21605)

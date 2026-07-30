@@ -1,0 +1,23 @@
+---
+title: "Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2607.24765
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement
+> 原文: [https://arxiv.org/abs/2607.24765](https://arxiv.org/abs/2607.24765)
+
+arXiv:2607.24765v1 Announce Type: new
+Abstract: Large language models (LLMs) can give different answers to the same decision problem across runs, and reverse a decision when their own prior answer returns as context. We ask whether this instability can be measured and partially reduced without changing model weights.
+We test the Cognitive Kernel Model (CKM), a prompt-level state-enforcement layer. Before deciding, the model must separate its input into three epistemic roles: Fact (given or verifiable), Heuristic (inferred or assumed), and Emotion (evaluative or priority signal). CKM adds no capability; it forces the model to track what kind of information it uses before acting. Formally it maintains a structured state S\_t = {F\_t, H\_t, E\_t} updated by a transition function.
+We evaluate CKM on Korean-language decision scenarios (ambiguity, ethical conflict, resource allocation, error handling) across 26 LLMs from four vendors and 37,403 observations, via four core experiments, a 4-arm ablation, a 5-arm sham-restriction ablation, and a temperature probe. Findings:
+(1) CKM reduces repeated-output variability (random-effects Hedges' g=1.09, 95% CI [0.83, 1.35], 31 model pairs);
+(2) state persistence cuts the decision-flip rate by 82% in newer models (g=1.52);
+(3) the effect is not JSON formatting alone (value-only recomputation, g=2.24);
+(4) intrinsic randomness under fixed anchor states is negligible;
+(5) the advantage grows under sampling stochasticity (g=2.87 at temperature 0.7);
+(6) a sham ablation attributes about 45% of the gain to structural scaffolding and 55% to Fact/Heuristic/Emotion content, and CKM is the only arm that both raises consistency and reduces flipping.
+CKM does not improve reasoning correctness. The narrower result: behavioral consistency is measurable, varies across models, and is partially improvable by forcing models to separate facts, assumptions, and evaluative signals before deciding.

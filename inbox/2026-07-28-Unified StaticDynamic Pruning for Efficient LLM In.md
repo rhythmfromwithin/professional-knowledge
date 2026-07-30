@@ -1,11 +1,12 @@
 ---
-title: "Unified Static-Dynamic Pruning for Efficient LLM Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.21985
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21985
 next_step: skim
+priority: medium
+slack_ts: '1785380031.334889'
+source: cs.DC - Distributed Computing
+status: unread
+title: Unified Static-Dynamic Pruning for Efficient LLM Inference
 ---
 # Unified Static-Dynamic Pruning for Efficient LLM Inference
 > 原文: [https://arxiv.org/abs/2607.21985](https://arxiv.org/abs/2607.21985)

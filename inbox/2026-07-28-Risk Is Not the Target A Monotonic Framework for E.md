@@ -1,11 +1,13 @@
 ---
-title: "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.21597
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21597
 next_step: skim
+priority: high
+slack_ts: '1785380030.660399'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational
+  Risk Signals'
 ---
 # Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals
 > 原文: [https://arxiv.org/abs/2607.21597](https://arxiv.org/abs/2607.21597)

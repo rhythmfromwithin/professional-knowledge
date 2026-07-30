@@ -1,11 +1,12 @@
 ---
-title: "StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.21643
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.21643
 next_step: skim
+priority: low
+slack_ts: '1785380031.076879'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System'
 ---
 # StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System
 > 原文: [https://arxiv.org/abs/2607.21643](https://arxiv.org/abs/2607.21643)

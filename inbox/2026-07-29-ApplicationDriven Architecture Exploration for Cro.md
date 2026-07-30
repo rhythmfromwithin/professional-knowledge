@@ -1,11 +1,12 @@
 ---
-title: "Application-Driven Architecture Exploration for Cross-Layer Heterogeneous Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.23042
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23042
 next_step: skim
+priority: medium
+slack_ts: '1785380032.589479'
+source: cs.DC - Distributed Computing
+status: unread
+title: Application-Driven Architecture Exploration for Cross-Layer Heterogeneous Systems
 ---
 # Application-Driven Architecture Exploration for Cross-Layer Heterogeneous Systems
 > 原文: [https://arxiv.org/abs/2607.23042](https://arxiv.org/abs/2607.23042)

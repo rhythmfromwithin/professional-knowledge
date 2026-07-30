@@ -1,11 +1,12 @@
 ---
-title: "A genetic algorithm for student academic resource allocation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.23316
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23316
 next_step: skim
+priority: low
+slack_ts: '1785380031.908679'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A genetic algorithm for student academic resource allocation
 ---
 # A genetic algorithm for student academic resource allocation
 > 原文: [https://arxiv.org/abs/2607.23316](https://arxiv.org/abs/2607.23316)

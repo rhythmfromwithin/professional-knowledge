@@ -1,11 +1,12 @@
 ---
-title: "Measuring inequality and social stratification with Lorenz curvature"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.22110
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22110
 next_step: skim
+priority: low
+slack_ts: '1785380029.168009'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Measuring inequality and social stratification with Lorenz curvature
 ---
 # Measuring inequality and social stratification with Lorenz curvature
 > 原文: [https://arxiv.org/abs/2607.22110](https://arxiv.org/abs/2607.22110)
