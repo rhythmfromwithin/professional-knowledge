@@ -1,11 +1,12 @@
 ---
-title: "Scientific computing in the age of agentic AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/scientific-computing-agentic-ai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/scientific-computing-agentic-ai
 next_step: skim
+priority: high
+slack_ts: '1785468997.705869'
+source: OpenAI Blog
+status: unread
+title: Scientific computing in the age of agentic AI
 ---
 # Scientific computing in the age of agentic AI
 > 原文: [https://openai.com/index/scientific-computing-agentic-ai](https://openai.com/index/scientific-computing-agentic-ai)

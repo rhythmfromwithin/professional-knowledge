@@ -1,11 +1,12 @@
 ---
-title: "Pose-Aware Modeling to Mitigate Pose-Related Artifacts in Tactile Gloves"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.22964
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22964
 next_step: skim
+priority: medium
+slack_ts: '1785468996.223819'
+source: cs.RO - Robotics
+status: unread
+title: Pose-Aware Modeling to Mitigate Pose-Related Artifacts in Tactile Gloves
 ---
 # Pose-Aware Modeling to Mitigate Pose-Related Artifacts in Tactile Gloves
 > 原文: [https://arxiv.org/abs/2607.22964](https://arxiv.org/abs/2607.22964)

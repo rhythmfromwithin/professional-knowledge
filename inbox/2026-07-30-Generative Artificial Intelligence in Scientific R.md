@@ -1,11 +1,13 @@
 ---
-title: "Generative Artificial Intelligence in Scientific Research: Individual Benefits, Collective Risks, and a Framework for Responsible Research with AI"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.24879
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24879
 next_step: skim
+priority: low
+slack_ts: '1785469005.548669'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Generative Artificial Intelligence in Scientific Research: Individual Benefits,
+  Collective Risks, and a Framework for Responsible Research with AI'
 ---
 # Generative Artificial Intelligence in Scientific Research: Individual Benefits, Collective Risks, and a Framework for Responsible Research with AI
 > 原文: [https://arxiv.org/abs/2607.24879](https://arxiv.org/abs/2607.24879)

@@ -1,11 +1,13 @@
 ---
-title: "GeoTEAM: A Geospatial Tangible User Interface for Exploration and Visual Analysis of Migration Data"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.22825
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22825
 next_step: skim
+priority: low
+slack_ts: '1785468992.723099'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'GeoTEAM: A Geospatial Tangible User Interface for Exploration and Visual Analysis
+  of Migration Data'
 ---
 # GeoTEAM: A Geospatial Tangible User Interface for Exploration and Visual Analysis of Migration Data
 > 原文: [https://arxiv.org/abs/2607.22825](https://arxiv.org/abs/2607.22825)

@@ -1,11 +1,13 @@
 ---
-title: "Dynamic sampling of non-stationary spontaneous activity in dissociated neuronal networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.24269
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24269
 next_step: skim
+priority: low
+slack_ts: '1785468990.269909'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Dynamic sampling of non-stationary spontaneous activity in dissociated neuronal
+  networks
 ---
 # Dynamic sampling of non-stationary spontaneous activity in dissociated neuronal networks
 > 原文: [https://arxiv.org/abs/2607.24269](https://arxiv.org/abs/2607.24269)

@@ -1,11 +1,12 @@
 ---
-title: "Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.22997
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22997
 next_step: skim
+priority: medium
+slack_ts: '1785468997.380449'
+source: cs.RO - Robotics
+status: unread
+title: 'Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline'
 ---
 # Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline
 > 原文: [https://arxiv.org/abs/2607.22997](https://arxiv.org/abs/2607.22997)

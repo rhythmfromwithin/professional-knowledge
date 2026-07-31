@@ -1,11 +1,13 @@
 ---
-title: "Validation of a Real-Time Manual Wheelchair Simulator through Biomechanical and Perceptual Measures: A Comparison with Overground Propulsion"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.22851
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22851
 next_step: skim
+priority: low
+slack_ts: '1785468998.989629'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Validation of a Real-Time Manual Wheelchair Simulator through Biomechanical
+  and Perceptual Measures: A Comparison with Overground Propulsion'
 ---
 # Validation of a Real-Time Manual Wheelchair Simulator through Biomechanical and Perceptual Measures: A Comparison with Overground Propulsion
 > 原文: [https://arxiv.org/abs/2607.22851](https://arxiv.org/abs/2607.22851)

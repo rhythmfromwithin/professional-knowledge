@@ -1,11 +1,13 @@
 ---
-title: "Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.24860
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24860
 next_step: skim
+priority: medium
+slack_ts: '1785469003.551799'
+source: cs.RO - Robotics
+status: unread
+title: Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background
+  Flow
 ---
 # Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow
 > 原文: [https://arxiv.org/abs/2607.24860](https://arxiv.org/abs/2607.24860)

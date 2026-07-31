@@ -1,11 +1,12 @@
 ---
-title: "$g$MAGNUS: Fast SpGEMM on GPUs for Irregular Matrices via Hierarchical Multisplit"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.22866
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22866
 next_step: skim
+priority: medium
+slack_ts: '1785468999.317509'
+source: cs.DC - Distributed Computing
+status: unread
+title: '$g$MAGNUS: Fast SpGEMM on GPUs for Irregular Matrices via Hierarchical Multisplit'
 ---
 # $g$MAGNUS: Fast SpGEMM on GPUs for Irregular Matrices via Hierarchical Multisplit
 > 原文: [https://arxiv.org/abs/2607.22866](https://arxiv.org/abs/2607.22866)

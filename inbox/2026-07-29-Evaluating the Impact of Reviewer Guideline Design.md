@@ -1,11 +1,13 @@
 ---
-title: "Evaluating the Impact of Reviewer Guideline Design on LLM-Based Automated Peer Review"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.22553
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22553
 next_step: skim
+priority: high
+slack_ts: '1785468991.583689'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Evaluating the Impact of Reviewer Guideline Design on LLM-Based Automated Peer
+  Review
 ---
 # Evaluating the Impact of Reviewer Guideline Design on LLM-Based Automated Peer Review
 > 原文: [https://arxiv.org/abs/2607.22553](https://arxiv.org/abs/2607.22553)

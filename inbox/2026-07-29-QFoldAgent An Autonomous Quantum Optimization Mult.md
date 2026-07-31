@@ -1,11 +1,13 @@
 ---
-title: "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.22549
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22549
 next_step: skim
+priority: high
+slack_ts: '1785468996.565769'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein
+  Structure Prediction'
 ---
 # QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction
 > 原文: [https://arxiv.org/abs/2607.22549](https://arxiv.org/abs/2607.22549)

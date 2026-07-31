@@ -1,11 +1,12 @@
 ---
-title: "Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.25929
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25929
 next_step: skim
+priority: medium
+slack_ts: '1785469002.432709'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?
 ---
 # Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?
 > 原文: [https://arxiv.org/abs/2607.25929](https://arxiv.org/abs/2607.25929)

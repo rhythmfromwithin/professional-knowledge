@@ -1,11 +1,12 @@
 ---
-title: "Happy Birthday? Age Labels, Search Criteria, and Matching from Dating to Marriage"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.23325
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23325
 next_step: skim
+priority: low
+slack_ts: '1785468993.040489'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Happy Birthday? Age Labels, Search Criteria, and Matching from Dating to Marriage
 ---
 # Happy Birthday? Age Labels, Search Criteria, and Matching from Dating to Marriage
 > 原文: [https://arxiv.org/abs/2607.23325](https://arxiv.org/abs/2607.23325)

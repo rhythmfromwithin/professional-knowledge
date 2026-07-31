@@ -1,11 +1,13 @@
 ---
-title: "Masked Autoencoders Learn Perception-Relevant Representations from Resting State Neural Data"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.22615
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22615
 next_step: skim
+priority: low
+slack_ts: '1785468995.264669'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Masked Autoencoders Learn Perception-Relevant Representations from Resting
+  State Neural Data
 ---
 # Masked Autoencoders Learn Perception-Relevant Representations from Resting State Neural Data
 > 原文: [https://arxiv.org/abs/2607.22615](https://arxiv.org/abs/2607.22615)

@@ -1,11 +1,13 @@
 ---
-title: "ReCon: A Resource-Constrained Benchmark for LLM-Based Cybersecurity Compliance Across Ingestion and Retrieval Pipelines"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.22885
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22885
 next_step: skim
+priority: low
+slack_ts: '1785468997.220829'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ReCon: A Resource-Constrained Benchmark for LLM-Based Cybersecurity Compliance
+  Across Ingestion and Retrieval Pipelines'
 ---
 # ReCon: A Resource-Constrained Benchmark for LLM-Based Cybersecurity Compliance Across Ingestion and Retrieval Pipelines
 > 原文: [https://arxiv.org/abs/2607.22885](https://arxiv.org/abs/2607.22885)

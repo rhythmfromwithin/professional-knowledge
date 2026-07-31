@@ -1,11 +1,12 @@
 ---
-title: "Forgetting Is Not a Fix: Path Dependence in Sequential Engram Editing"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.24805
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24805
 next_step: skim
+priority: low
+slack_ts: '1785469004.492239'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Forgetting Is Not a Fix: Path Dependence in Sequential Engram Editing'
 ---
 # Forgetting Is Not a Fix: Path Dependence in Sequential Engram Editing
 > 原文: [https://arxiv.org/abs/2607.24805](https://arxiv.org/abs/2607.24805)

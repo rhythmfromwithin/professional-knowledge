@@ -1,11 +1,13 @@
 ---
-title: "Practical Post-Quantum Cryptography for Bandwidth Constrained or Non-Terrestrial Networks, and Power Constrained Devices"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.23007
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23007
 next_step: skim
+priority: low
+slack_ts: '1785468996.397769'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Practical Post-Quantum Cryptography for Bandwidth Constrained or Non-Terrestrial
+  Networks, and Power Constrained Devices
 ---
 # Practical Post-Quantum Cryptography for Bandwidth Constrained or Non-Terrestrial Networks, and Power Constrained Devices
 > 原文: [https://arxiv.org/abs/2607.23007](https://arxiv.org/abs/2607.23007)

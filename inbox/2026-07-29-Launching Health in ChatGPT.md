@@ -1,11 +1,12 @@
 ---
-title: "Launching Health in ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/index/health-in-chatgpt
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/health-in-chatgpt
 next_step: skim
+priority: high
+slack_ts: '1785468994.948959'
+source: OpenAI Blog
+status: unread
+title: Launching Health in ChatGPT
 ---
 # Launching Health in ChatGPT
 > 原文: [https://openai.com/index/health-in-chatgpt](https://openai.com/index/health-in-chatgpt)

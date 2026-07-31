@@ -1,11 +1,13 @@
 ---
-title: "The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.22807
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22807
 next_step: skim
+priority: low
+slack_ts: '1785468998.662439'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Best Programming Language for Tokenmaxxing: An Investigation of Coding
+  Agent Behavior Across Programming Languages'
 ---
 # The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages
 > 原文: [https://arxiv.org/abs/2607.22807](https://arxiv.org/abs/2607.22807)

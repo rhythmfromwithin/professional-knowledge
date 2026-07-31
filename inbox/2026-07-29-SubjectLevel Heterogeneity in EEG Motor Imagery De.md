@@ -1,11 +1,13 @@
 ---
-title: "Subject-Level Heterogeneity in EEG Motor Imagery Decoding: A Large-Scale Benchmark and Portfolio-Based Reduction of the Search Space"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.22778
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22778
 next_step: skim
+priority: low
+slack_ts: '1785468998.341209'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Subject-Level Heterogeneity in EEG Motor Imagery Decoding: A Large-Scale Benchmark
+  and Portfolio-Based Reduction of the Search Space'
 ---
 # Subject-Level Heterogeneity in EEG Motor Imagery Decoding: A Large-Scale Benchmark and Portfolio-Based Reduction of the Search Space
 > 原文: [https://arxiv.org/abs/2607.22778](https://arxiv.org/abs/2607.22778)

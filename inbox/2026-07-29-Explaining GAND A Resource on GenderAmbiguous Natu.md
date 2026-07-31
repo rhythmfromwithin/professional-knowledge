@@ -1,11 +1,13 @@
 ---
-title: "Explaining GAND: A Resource on Gender-Ambiguous Natural Data & Contrastive Attribution"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.22546
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22546
 next_step: skim
+priority: high
+slack_ts: '1785468991.742219'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Explaining GAND: A Resource on Gender-Ambiguous Natural Data & Contrastive
+  Attribution'
 ---
 # Explaining GAND: A Resource on Gender-Ambiguous Natural Data & Contrastive Attribution
 > 原文: [https://arxiv.org/abs/2607.22546](https://arxiv.org/abs/2607.22546)

@@ -1,11 +1,12 @@
 ---
-title: "Constraint-Bound Agnostic Bayesian Optimization: One Model for All Thresholds"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.23448
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23448
 next_step: skim
+priority: low
+slack_ts: '1785468989.427479'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Constraint-Bound Agnostic Bayesian Optimization: One Model for All Thresholds'
 ---
 # Constraint-Bound Agnostic Bayesian Optimization: One Model for All Thresholds
 > 原文: [https://arxiv.org/abs/2607.23448](https://arxiv.org/abs/2607.23448)

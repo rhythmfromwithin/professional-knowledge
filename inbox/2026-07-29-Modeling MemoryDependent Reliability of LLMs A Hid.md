@@ -1,11 +1,12 @@
 ---
-title: "Modeling Memory-Dependent Reliability of LLMs: A Hidden Markov Model"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.22951
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22951
 next_step: skim
+priority: medium
+slack_ts: '1785468995.590769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Modeling Memory-Dependent Reliability of LLMs: A Hidden Markov Model'
 ---
 # Modeling Memory-Dependent Reliability of LLMs: A Hidden Markov Model
 > 原文: [https://arxiv.org/abs/2607.22951](https://arxiv.org/abs/2607.22951)

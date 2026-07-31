@@ -1,11 +1,12 @@
 ---
-title: "Human-Humanoid Collaboration and Ergonomic Risk: An Anthropometric Perspective"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.24746
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24746
 next_step: skim
+priority: low
+slack_ts: '1785469006.435659'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Human-Humanoid Collaboration and Ergonomic Risk: An Anthropometric Perspective'
 ---
 # Human-Humanoid Collaboration and Ergonomic Risk: An Anthropometric Perspective
 > 原文: [https://arxiv.org/abs/2607.24746](https://arxiv.org/abs/2607.24746)

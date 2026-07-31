@@ -1,11 +1,13 @@
 ---
-title: "Representation Capacity-Matched QNN-SNN Twin Construction for Rate-Encoded SNNs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2409.08290
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2409.08290
 next_step: skim
+priority: low
+slack_ts: '1785469009.500699'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Representation Capacity-Matched QNN-SNN Twin Construction for Rate-Encoded
+  SNNs
 ---
 # Representation Capacity-Matched QNN-SNN Twin Construction for Rate-Encoded SNNs
 > 原文: [https://arxiv.org/abs/2409.08290](https://arxiv.org/abs/2409.08290)

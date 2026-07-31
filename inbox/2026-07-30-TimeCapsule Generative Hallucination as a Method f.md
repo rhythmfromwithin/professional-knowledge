@@ -1,11 +1,12 @@
 ---
-title: "TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.24750
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24750
 next_step: skim
+priority: high
+slack_ts: '1785469010.451339'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking'
 ---
 # TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking
 > 原文: [https://arxiv.org/abs/2607.24750](https://arxiv.org/abs/2607.24750)

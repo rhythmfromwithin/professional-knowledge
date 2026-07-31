@@ -1,11 +1,13 @@
 ---
-title: "The Fallacy of Sustainable Generative AI: Limitations in EU Environmental Regulation of Data Centres and Paths Forward"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.22604
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22604
 next_step: skim
+priority: medium
+slack_ts: '1785468998.828559'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Fallacy of Sustainable Generative AI: Limitations in EU Environmental
+  Regulation of Data Centres and Paths Forward'
 ---
 # The Fallacy of Sustainable Generative AI: Limitations in EU Environmental Regulation of Data Centres and Paths Forward
 > 原文: [https://arxiv.org/abs/2607.22604](https://arxiv.org/abs/2607.22604)

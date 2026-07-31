@@ -1,11 +1,12 @@
 ---
-title: "iFVS: Towards Instance-Optimized Filtered Vector Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.22922
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22922
 next_step: skim
+priority: low
+slack_ts: '1785468999.486209'
+source: cs.DB - Databases
+status: unread
+title: 'iFVS: Towards Instance-Optimized Filtered Vector Search'
 ---
 # iFVS: Towards Instance-Optimized Filtered Vector Search
 > 原文: [https://arxiv.org/abs/2607.22922](https://arxiv.org/abs/2607.22922)

@@ -1,11 +1,12 @@
 ---
-title: "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.22548
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22548
 next_step: skim
+priority: high
+slack_ts: '1785468997.865879'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series'
 ---
 # SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series
 > 原文: [https://arxiv.org/abs/2607.22548](https://arxiv.org/abs/2607.22548)

@@ -1,11 +1,13 @@
 ---
-title: "Socioeconomic Inference in LLM Medical Triage: Same Symptoms, Different ZIP Code"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.22605
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22605
 next_step: skim
+priority: medium
+slack_ts: '1785468998.186929'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Socioeconomic Inference in LLM Medical Triage: Same Symptoms, Different ZIP
+  Code'
 ---
 # Socioeconomic Inference in LLM Medical Triage: Same Symptoms, Different ZIP Code
 > 原文: [https://arxiv.org/abs/2607.22605](https://arxiv.org/abs/2607.22605)

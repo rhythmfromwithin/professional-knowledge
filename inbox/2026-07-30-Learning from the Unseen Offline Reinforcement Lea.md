@@ -1,11 +1,12 @@
 ---
-title: "Learning from the Unseen: Offline Reinforcement Learning with Hidden Actions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.25241
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25241
 next_step: skim
+priority: medium
+slack_ts: '1785469007.514029'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Learning from the Unseen: Offline Reinforcement Learning with Hidden Actions'
 ---
 # Learning from the Unseen: Offline Reinforcement Learning with Hidden Actions
 > 原文: [https://arxiv.org/abs/2607.25241](https://arxiv.org/abs/2607.25241)

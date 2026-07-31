@@ -1,11 +1,13 @@
 ---
-title: "Reflections and Recommendations on AI Adoption Practice from a Mixed-Ability Research Group"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.22886
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22886
 next_step: skim
+priority: low
+slack_ts: '1785468997.545259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Reflections and Recommendations on AI Adoption Practice from a Mixed-Ability
+  Research Group
 ---
 # Reflections and Recommendations on AI Adoption Practice from a Mixed-Ability Research Group
 > 原文: [https://arxiv.org/abs/2607.22886](https://arxiv.org/abs/2607.22886)

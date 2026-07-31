@@ -1,11 +1,13 @@
 ---
-title: "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.22545
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22545
 next_step: skim
+priority: high
+slack_ts: '1785468998.026669'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art
+  Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B'
 ---
 # Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B
 > 原文: [https://arxiv.org/abs/2607.22545](https://arxiv.org/abs/2607.22545)

@@ -1,11 +1,13 @@
 ---
-title: "Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.24841
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24841
 next_step: skim
+priority: high
+slack_ts: '1785469008.444979'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks
+  via Sparsity and Block Denoising'
 ---
 # Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising
 > 原文: [https://arxiv.org/abs/2607.24841](https://arxiv.org/abs/2607.24841)

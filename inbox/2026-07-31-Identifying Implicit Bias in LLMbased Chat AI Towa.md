@@ -1,0 +1,18 @@
+---
+title: "Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities"
+source: "cs.CY - Computers and Society"
+link: https://arxiv.org/abs/2607.26062
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities
+> 原文: [https://arxiv.org/abs/2607.26062](https://arxiv.org/abs/2607.26062)
+
+arXiv:2607.26062v1 Announce Type: new
+Abstract: Background: This work investigates the presence of implicit bias in Large Language Model (LLM)-based chat AI models directed toward people with intellectual disabilities (ID).
+Objective: The study aims to identify and measure representational differences related to people with ID and examine them to identify implicit biases inherent in AI chat generation technologies.
+Methods: Utilizing the GPT-4-Turbo model, we requested story-generation based on 10 prompt stems with and without descriptors for ID. This process was repeated using four other LLMs (OpenAI GPT-4o, Meta Llama-3-3-70B-Instruct, Anthropic Claude-3-5-Sonnet, and Mistral-Large-2411). The resulting 25,000 computer-generated stories were analyzed using a separate GPT-4-Turbo model instance to detect differences in how people are represented related to themes of bias described in previous literature.
+Results: Our findings reveal differences in how people are represented between story datasets with and without ID descriptors. These differences go beyond established characteristics of ID and imply the presence of mostly negative implicit biases. Identified differences related to considering people with ID as younger, with themes of paternalism and infantilization; depicting them as more inspirational and symbolic; as needing help more often, being dependent, and being saved; and having a negative perception of them and more hesitation to include them.
+Conclusions: These implicit biases are considered within the context of past discrimination towards people with ID and highlight the need for diligence against implicit bias towards people with ID in AI development. This research underscores the importance of assessing and mitigating implicit bias in decision-making technologies to prevent future societal harm.

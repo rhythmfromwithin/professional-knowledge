@@ -1,0 +1,14 @@
+---
+title: "Large Language Models for Software Engineering Diagrams: A Systematic Review of UML and ER modelling"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2607.26100
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Large Language Models for Software Engineering Diagrams: A Systematic Review of UML and ER modelling
+> 原文: [https://arxiv.org/abs/2607.26100](https://arxiv.org/abs/2607.26100)
+
+arXiv:2607.26100v1 Announce Type: new
+Abstract: Large language models (LLMs) are increasingly applied to diagram-based software and data modelling. Among various modelling notations, UML and entity-relationship (ER) diagrams are the most widely adopted for software modelling and data modelling, respectively. Recent literature has investigated various applications of LLMs in diagram modelling; however, their effectiveness and limitations have not been extensively discussed. This systematic literature review analyses 64 studies published between 2023 and 2025, examining diagram coverage, modelling tasks, technical approaches, evaluation practices, and limitations. Our findings reveal significant concentration patterns and gaps. UML-based software modelling strongly dominates, with class diagrams receiving the most attention whilst behavioural diagrams and data modelling remain underrepresented. Diagram construction from natural language is the primary focus, with limited work on transformation, quality assurance, and consistency checking. GPT-based models are heavily prevalent, raising concerns about reproducibility and vendor dependence. Evaluation practices are heterogeneous, employing diverse metrics and custom datasets with limited benchmark reuse and inconsistent reporting of robustness and statistical significance. Common limitations include semantic inaccuracies, hallucinated diagram elements, sensitivity to prompt formulation, and reproducibility constraints. This survey provides the first systematic synthesis of LLM-based diagram modelling research, highlighting needs for standardised benchmarks, stronger evaluation protocols, broader diagram coverage, and techniques for improving semantic reliability and multi-view consistency.

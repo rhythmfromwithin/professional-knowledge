@@ -1,11 +1,13 @@
 ---
-title: "Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with Their Effectiveness? (Replicability Study)"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.22880
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22880
 next_step: skim
+priority: low
+slack_ts: '1785468990.109859'
+source: cs.SE - Software Engineering
+status: unread
+title: Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with
+  Their Effectiveness? (Replicability Study)
 ---
 # Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with Their Effectiveness? (Replicability Study)
 > 原文: [https://arxiv.org/abs/2607.22880](https://arxiv.org/abs/2607.22880)

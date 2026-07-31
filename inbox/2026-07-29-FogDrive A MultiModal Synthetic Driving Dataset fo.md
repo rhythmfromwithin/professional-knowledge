@@ -1,11 +1,13 @@
 ---
-title: "FogDrive: A Multi-Modal Synthetic Driving Dataset for Perception under Graded Fog"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.22698
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22698
 next_step: skim
+priority: medium
+slack_ts: '1785468992.237119'
+source: cs.CV - Computer Vision
+status: unread
+title: 'FogDrive: A Multi-Modal Synthetic Driving Dataset for Perception under Graded
+  Fog'
 ---
 # FogDrive: A Multi-Modal Synthetic Driving Dataset for Perception under Graded Fog
 > 原文: [https://arxiv.org/abs/2607.22698](https://arxiv.org/abs/2607.22698)

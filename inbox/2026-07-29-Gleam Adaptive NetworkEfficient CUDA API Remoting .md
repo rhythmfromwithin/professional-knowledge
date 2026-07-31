@@ -1,11 +1,13 @@
 ---
-title: "Gleam: Adaptive Network-Efficient CUDA API Remoting for Cross-Device GPU Sharing over LANs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.23115
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.23115
 next_step: skim
+priority: medium
+slack_ts: '1785468992.883199'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Gleam: Adaptive Network-Efficient CUDA API Remoting for Cross-Device GPU Sharing
+  over LANs'
 ---
 # Gleam: Adaptive Network-Efficient CUDA API Remoting for Cross-Device GPU Sharing over LANs
 > 原文: [https://arxiv.org/abs/2607.23115](https://arxiv.org/abs/2607.23115)

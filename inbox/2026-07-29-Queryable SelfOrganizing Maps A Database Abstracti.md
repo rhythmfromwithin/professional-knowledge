@@ -1,11 +1,13 @@
 ---
-title: "Queryable Self-Organizing Maps: A Database Abstraction for Topology-Driven Data Exploration"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.22843
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22843
 next_step: skim
+priority: low
+slack_ts: '1785468996.736079'
+source: cs.DB - Databases
+status: unread
+title: 'Queryable Self-Organizing Maps: A Database Abstraction for Topology-Driven
+  Data Exploration'
 ---
 # Queryable Self-Organizing Maps: A Database Abstraction for Topology-Driven Data Exploration
 > 原文: [https://arxiv.org/abs/2607.22843](https://arxiv.org/abs/2607.22843)

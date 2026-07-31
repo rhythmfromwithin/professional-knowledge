@@ -1,0 +1,15 @@
+---
+title: "Two-sided RDMA Striking Back for Disaggregated Memory Databaases"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2607.26227
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Two-sided RDMA Striking Back for Disaggregated Memory Databaases
+> 原文: [https://arxiv.org/abs/2607.26227](https://arxiv.org/abs/2607.26227)
+
+arXiv:2607.26227v1 Announce Type: new
+Abstract: RDMA has enabled high-speed data access and low-latency communication in disaggregated memory databases. While various optimization techniques have been proposed to accelerate transactions with RDMA in this setting, two-sided RDMA has been largely underexplored in favor of one-sided RDMA due to its remote CPU involvement. However, the heavy use of one-sided RDMA introduces fundamental limitations. Its limited APIs cannot express complex system functions such as starvation prevention, priority-based scheduling, and preemption, which are all critical functions in concurrency control protocols. Moreover, indexing requires multiple network round-trips, causing network amplification.
+In this work, we revisit the long-standing debate between one-sided RDMA and two-sided RDMA in the context of disaggregated memory databases. We present Lotus, which addresses the conventional limitation of two-sided RDMA, i.e., CPU bottlenecks in memory servers, by leveraging the rich functionality of two-sided RDMA with two key optimization techniques: (1) lightweight caching and (2) efficient batching. Lotus demonstrates that limited CPU resources in memory servers, when intelligently utilized, can transform a perceived weakness into a significant advantage. Our experimental study shows that Lotus achieves up to 8.2$\times$ higher throughput and 42.9$\times$ lower p999 tail latency than state-of-the-art one-sided RDMA-based approaches in YCSB benchmark.

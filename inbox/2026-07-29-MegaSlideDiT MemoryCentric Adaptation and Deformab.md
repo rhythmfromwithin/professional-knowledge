@@ -1,11 +1,13 @@
 ---
-title: "MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for Efficient Video Diffusion"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.22696
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.22696
 next_step: skim
+priority: medium
+slack_ts: '1785468995.429359'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for
+  Efficient Video Diffusion'
 ---
 # MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for Efficient Video Diffusion
 > 原文: [https://arxiv.org/abs/2607.22696](https://arxiv.org/abs/2607.22696)
