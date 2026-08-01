@@ -1,11 +1,13 @@
 ---
-title: "Multi-Objective Compliance-Integrated Coevolution For Simulated And Real-World Deployment Of Multi-Robot Marine Autonomy"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.26279
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26279
 next_step: skim
+priority: medium
+slack_ts: '1785555381.703709'
+source: cs.RO - Robotics
+status: unread
+title: Multi-Objective Compliance-Integrated Coevolution For Simulated And Real-World
+  Deployment Of Multi-Robot Marine Autonomy
 ---
 # Multi-Objective Compliance-Integrated Coevolution For Simulated And Real-World Deployment Of Multi-Robot Marine Autonomy
 > 原文: [https://arxiv.org/abs/2607.26279](https://arxiv.org/abs/2607.26279)

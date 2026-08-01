@@ -1,11 +1,12 @@
 ---
-title: "QCOEM: Quantum Cloud Orchestration with Evolutionary Multi-Objective Optimization"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.25358
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25358
 next_step: skim
+priority: medium
+slack_ts: '1785555370.055549'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'QCOEM: Quantum Cloud Orchestration with Evolutionary Multi-Objective Optimization'
 ---
 # QCOEM: Quantum Cloud Orchestration with Evolutionary Multi-Objective Optimization
 > 原文: [https://arxiv.org/abs/2607.25358](https://arxiv.org/abs/2607.25358)

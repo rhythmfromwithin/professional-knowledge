@@ -1,11 +1,13 @@
 ---
-title: "FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.24875
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24875
 next_step: skim
+priority: high
+slack_ts: '1785555363.515659'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial
+  Forecasting'
 ---
 # FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting
 > 原文: [https://arxiv.org/abs/2607.24875](https://arxiv.org/abs/2607.24875)

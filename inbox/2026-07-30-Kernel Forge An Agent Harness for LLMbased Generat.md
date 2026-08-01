@@ -1,11 +1,13 @@
 ---
-title: "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.24762
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24762
 next_step: skim
+priority: high
+slack_ts: '1785555367.764119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of
+  CUDA Kernels'
 ---
 # Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels
 > 原文: [https://arxiv.org/abs/2607.24762](https://arxiv.org/abs/2607.24762)

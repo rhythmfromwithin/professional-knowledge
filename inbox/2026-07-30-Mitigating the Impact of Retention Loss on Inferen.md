@@ -1,11 +1,13 @@
 ---
-title: "Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.25058
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25058
 next_step: skim
+priority: low
+slack_ts: '1785555368.598569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly
+  Floating-Gate Analog In-Memory Computing
 ---
 # Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing
 > 原文: [https://arxiv.org/abs/2607.25058](https://arxiv.org/abs/2607.25058)

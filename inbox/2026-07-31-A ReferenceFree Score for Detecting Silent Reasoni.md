@@ -1,11 +1,13 @@
 ---
-title: "A Reference-Free Score for Detecting Silent Reasoning Failures in Large Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.26102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26102
 next_step: skim
+priority: low
+slack_ts: '1785555372.607389'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Reference-Free Score for Detecting Silent Reasoning Failures in Large Language
+  Models
 ---
 # A Reference-Free Score for Detecting Silent Reasoning Failures in Large Language Models
 > 原文: [https://arxiv.org/abs/2607.26102](https://arxiv.org/abs/2607.26102)

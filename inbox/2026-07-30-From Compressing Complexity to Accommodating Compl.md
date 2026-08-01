@@ -1,11 +1,13 @@
 ---
-title: "From Compressing Complexity to Accommodating Complexity: How AI Transforms Standardization and Individualization"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.25240
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25240
 next_step: skim
+priority: medium
+slack_ts: '1785555364.127479'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Compressing Complexity to Accommodating Complexity: How AI Transforms
+  Standardization and Individualization'
 ---
 # From Compressing Complexity to Accommodating Complexity: How AI Transforms Standardization and Individualization
 > 原文: [https://arxiv.org/abs/2607.25240](https://arxiv.org/abs/2607.25240)

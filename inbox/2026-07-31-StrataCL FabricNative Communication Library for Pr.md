@@ -1,11 +1,12 @@
 ---
-title: "StrataCL: Fabric-Native Communication Library for Production Supernodes"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.26444
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26444
 next_step: skim
+priority: medium
+slack_ts: '1785555383.616739'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'StrataCL: Fabric-Native Communication Library for Production Supernodes'
 ---
 # StrataCL: Fabric-Native Communication Library for Production Supernodes
 > 原文: [https://arxiv.org/abs/2607.26444](https://arxiv.org/abs/2607.26444)

@@ -1,11 +1,13 @@
 ---
-title: "Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.26087
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26087
 next_step: skim
+priority: low
+slack_ts: '1785555377.640949'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Framework Implementation Maturity in Blockchain-Based Third-Party Compliance
+  Assessment
 ---
 # Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment
 > 原文: [https://arxiv.org/abs/2607.26087](https://arxiv.org/abs/2607.26087)

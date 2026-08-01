@@ -1,11 +1,12 @@
 ---
-title: "Human Preference aligned Tabular Similarity"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.24880
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24880
 next_step: skim
+priority: high
+slack_ts: '1785555366.270659'
+source: cs.LG - Machine Learning
+status: unread
+title: Human Preference aligned Tabular Similarity
 ---
 # Human Preference aligned Tabular Similarity
 > 原文: [https://arxiv.org/abs/2607.24880](https://arxiv.org/abs/2607.24880)

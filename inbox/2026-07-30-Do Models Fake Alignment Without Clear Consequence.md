@@ -1,11 +1,12 @@
 ---
-title: "Do Models Fake Alignment Without Clear Consequences?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.24758
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24758
 next_step: skim
+priority: high
+slack_ts: '1785555362.583639'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Do Models Fake Alignment Without Clear Consequences?
 ---
 # Do Models Fake Alignment Without Clear Consequences?
 > 原文: [https://arxiv.org/abs/2607.24758](https://arxiv.org/abs/2607.24758)

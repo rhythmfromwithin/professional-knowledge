@@ -1,11 +1,12 @@
 ---
-title: "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/
 next_step: skim
+priority: high
+slack_ts: '1785555359.805239'
+source: AWS Blog
+status: unread
+title: Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity
 ---
 # Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity
 > 原文: [https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/](https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/)

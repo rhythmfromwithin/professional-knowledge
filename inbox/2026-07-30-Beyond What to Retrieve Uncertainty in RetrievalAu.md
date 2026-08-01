@@ -1,11 +1,5 @@
 ---
-title: "Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.24884
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1785555360.637589'
 ---
 # Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation
 > 原文: [https://arxiv.org/abs/2607.24884](https://arxiv.org/abs/2607.24884)

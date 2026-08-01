@@ -1,11 +1,12 @@
 ---
-title: "Archetypes or ability? Clustering for modelling student mathematical competence"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.26063
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26063
 next_step: skim
+priority: medium
+slack_ts: '1785555373.619929'
+source: cs.CY - Computers and Society
+status: unread
+title: Archetypes or ability? Clustering for modelling student mathematical competence
 ---
 # Archetypes or ability? Clustering for modelling student mathematical competence
 > 原文: [https://arxiv.org/abs/2607.26063](https://arxiv.org/abs/2607.26063)

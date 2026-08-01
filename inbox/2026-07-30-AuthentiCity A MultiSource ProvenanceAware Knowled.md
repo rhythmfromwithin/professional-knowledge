@@ -1,11 +1,13 @@
 ---
-title: "AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.25243
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25243
 next_step: skim
+priority: low
+slack_ts: '1785555359.565239'
+source: cs.DB - Databases
+status: unread
+title: 'AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark
+  for 3D City Models'
 ---
 # AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models
 > 原文: [https://arxiv.org/abs/2607.25243](https://arxiv.org/abs/2607.25243)

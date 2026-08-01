@@ -1,11 +1,13 @@
 ---
-title: "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.24759
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24759
 next_step: skim
+priority: high
+slack_ts: '1785555360.447399'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge
+  Work with LLM Agents'
 ---
 # Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents
 > 原文: [https://arxiv.org/abs/2607.24759](https://arxiv.org/abs/2607.24759)

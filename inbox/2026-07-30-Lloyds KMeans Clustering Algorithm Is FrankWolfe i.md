@@ -1,11 +1,12 @@
 ---
-title: "Lloyd's $K$-Means Clustering Algorithm Is Frank-Wolfe in Disguise"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.25190
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25190
 next_step: skim
+priority: medium
+slack_ts: '1785555367.948839'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Lloyd's $K$-Means Clustering Algorithm Is Frank-Wolfe in Disguise
 ---
 # Lloyd's $K$-Means Clustering Algorithm Is Frank-Wolfe in Disguise
 > 原文: [https://arxiv.org/abs/2607.25190](https://arxiv.org/abs/2607.25190)

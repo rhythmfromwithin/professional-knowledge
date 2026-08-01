@@ -1,11 +1,13 @@
 ---
-title: "DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View Geolocalization"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.24856
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24856
 next_step: skim
+priority: medium
+slack_ts: '1785555362.328789'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View
+  Geolocalization'
 ---
 # DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View Geolocalization
 > 原文: [https://arxiv.org/abs/2607.24856](https://arxiv.org/abs/2607.24856)

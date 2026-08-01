@@ -1,11 +1,12 @@
 ---
-title: "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.26034
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26034
 next_step: skim
+priority: low
+slack_ts: '1785555363.328539'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment
 ---
 # Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment
 > 原文: [https://arxiv.org/abs/2607.26034](https://arxiv.org/abs/2607.26034)

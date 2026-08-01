@@ -1,11 +1,12 @@
 ---
-title: "Amortising Trajectory Optimisation for Residual MPC via Implicit Contact Differentiation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.24959
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24959
 next_step: skim
+priority: medium
+slack_ts: '1785555359.194699'
+source: cs.RO - Robotics
+status: unread
+title: Amortising Trajectory Optimisation for Residual MPC via Implicit Contact Differentiation
 ---
 # Amortising Trajectory Optimisation for Residual MPC via Implicit Contact Differentiation
 > 原文: [https://arxiv.org/abs/2607.24959](https://arxiv.org/abs/2607.24959)

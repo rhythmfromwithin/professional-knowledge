@@ -1,11 +1,13 @@
 ---
-title: "Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment between Human and Computer Opponents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.24749
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24749
 next_step: skim
+priority: low
+slack_ts: '1785555364.614309'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment
+  between Human and Computer Opponents
 ---
 # Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment between Human and Computer Opponents
 > 原文: [https://arxiv.org/abs/2607.24749](https://arxiv.org/abs/2607.24749)

@@ -1,11 +1,12 @@
 ---
-title: "The Missing Layer: Specification Infrastructure for AI Oversight"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.24866
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24866
 next_step: skim
+priority: low
+slack_ts: '1785555371.677019'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'The Missing Layer: Specification Infrastructure for AI Oversight'
 ---
 # The Missing Layer: Specification Infrastructure for AI Oversight
 > 原文: [https://arxiv.org/abs/2607.24866](https://arxiv.org/abs/2607.24866)

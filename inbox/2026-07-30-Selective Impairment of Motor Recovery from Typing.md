@@ -1,11 +1,13 @@
 ---
-title: "Selective Impairment of Motor Recovery from Typing Errors in Parkinson's Disease: A Survival Analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.24796
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24796
 next_step: skim
+priority: low
+slack_ts: '1785555370.669309'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Selective Impairment of Motor Recovery from Typing Errors in Parkinson''s
+  Disease: A Survival Analysis'
 ---
 # Selective Impairment of Motor Recovery from Typing Errors in Parkinson's Disease: A Survival Analysis
 > 原文: [https://arxiv.org/abs/2607.24796](https://arxiv.org/abs/2607.24796)

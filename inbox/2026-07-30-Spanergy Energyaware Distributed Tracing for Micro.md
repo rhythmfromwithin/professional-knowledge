@@ -1,11 +1,12 @@
 ---
-title: "Spanergy: Energy-aware Distributed Tracing for Microservices"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.24902
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24902
 next_step: skim
+priority: medium
+slack_ts: '1785555371.061089'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Spanergy: Energy-aware Distributed Tracing for Microservices'
 ---
 # Spanergy: Energy-aware Distributed Tracing for Microservices
 > 原文: [https://arxiv.org/abs/2607.24902](https://arxiv.org/abs/2607.24902)

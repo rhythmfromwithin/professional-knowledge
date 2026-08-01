@@ -1,11 +1,13 @@
 ---
-title: "Gradient-Based Latent Decomposition Reveals Mechanisms of Feature Degradation in Weakly Supervised Mammography"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.24835
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24835
 next_step: skim
+priority: medium
+slack_ts: '1785555365.474229'
+source: cs.CV - Computer Vision
+status: unread
+title: Gradient-Based Latent Decomposition Reveals Mechanisms of Feature Degradation
+  in Weakly Supervised Mammography
 ---
 # Gradient-Based Latent Decomposition Reveals Mechanisms of Feature Degradation in Weakly Supervised Mammography
 > 原文: [https://arxiv.org/abs/2607.24835](https://arxiv.org/abs/2607.24835)

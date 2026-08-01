@@ -1,11 +1,13 @@
 ---
-title: "Steeringless Drifting: Differential-Torque Control of a Four-Wheel Independently Driven Vehicle"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.24863
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24863
 next_step: skim
+priority: medium
+slack_ts: '1785555371.310939'
+source: cs.RO - Robotics
+status: unread
+title: 'Steeringless Drifting: Differential-Torque Control of a Four-Wheel Independently
+  Driven Vehicle'
 ---
 # Steeringless Drifting: Differential-Torque Control of a Four-Wheel Independently Driven Vehicle
 > 原文: [https://arxiv.org/abs/2607.24863](https://arxiv.org/abs/2607.24863)

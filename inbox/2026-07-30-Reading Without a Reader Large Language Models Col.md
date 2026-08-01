@@ -1,11 +1,13 @@
 ---
-title: "Reading Without a Reader: Large Language Models Collapse Reading and Writing into a Single Entangled Code"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.24797
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24797
 next_step: skim
+priority: low
+slack_ts: '1785555370.494749'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Reading Without a Reader: Large Language Models Collapse Reading and Writing
+  into a Single Entangled Code'
 ---
 # Reading Without a Reader: Large Language Models Collapse Reading and Writing into a Single Entangled Code
 > 原文: [https://arxiv.org/abs/2607.24797](https://arxiv.org/abs/2607.24797)

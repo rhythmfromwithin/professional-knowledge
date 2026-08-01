@@ -1,11 +1,13 @@
 ---
-title: "Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.24765
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24765
 next_step: skim
+priority: high
+slack_ts: '1785555368.137459'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Measuring and Improving Behavioral Consistency in Large Language Models through
+  Fact-Heuristic-Emotion State Enforcement
 ---
 # Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement
 > 原文: [https://arxiv.org/abs/2607.24765](https://arxiv.org/abs/2607.24765)

@@ -1,11 +1,12 @@
 ---
-title: "Simulating Single Transferable Voting for the Colorado House of Representatives"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.25105
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25105
 next_step: skim
+priority: medium
+slack_ts: '1785555370.879199'
+source: cs.CY - Computers and Society
+status: unread
+title: Simulating Single Transferable Voting for the Colorado House of Representatives
 ---
 # Simulating Single Transferable Voting for the Colorado House of Representatives
 > 原文: [https://arxiv.org/abs/2607.25105](https://arxiv.org/abs/2607.25105)

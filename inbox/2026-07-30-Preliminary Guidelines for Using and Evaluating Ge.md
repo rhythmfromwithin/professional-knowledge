@@ -1,11 +1,13 @@
 ---
-title: "Preliminary Guidelines for Using and Evaluating GenAI Tools to Support Systematic Literature Reviews"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.24991
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24991
 next_step: skim
+priority: low
+slack_ts: '1785555369.815559'
+source: cs.SE - Software Engineering
+status: unread
+title: Preliminary Guidelines for Using and Evaluating GenAI Tools to Support Systematic
+  Literature Reviews
 ---
 # Preliminary Guidelines for Using and Evaluating GenAI Tools to Support Systematic Literature Reviews
 > 原文: [https://arxiv.org/abs/2607.24991](https://arxiv.org/abs/2607.24991)

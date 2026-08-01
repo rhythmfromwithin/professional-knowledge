@@ -1,11 +1,13 @@
 ---
-title: "Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.25150
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25150
 next_step: skim
+priority: low
+slack_ts: '1785555363.937849'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis
+  of Geomaterials with a Non-Associative Mohr-Coulomb Model
 ---
 # Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model
 > 原文: [https://arxiv.org/abs/2607.25150](https://arxiv.org/abs/2607.25150)

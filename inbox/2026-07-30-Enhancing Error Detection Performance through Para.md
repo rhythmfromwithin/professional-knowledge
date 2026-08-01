@@ -1,11 +1,13 @@
 ---
-title: "Enhancing Error Detection Performance through Parallel CRC Computation on Multi-Core Architectures"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.24849
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24849
 next_step: skim
+priority: medium
+slack_ts: '1785555362.772549'
+source: cs.DC - Distributed Computing
+status: unread
+title: Enhancing Error Detection Performance through Parallel CRC Computation on Multi-Core
+  Architectures
 ---
 # Enhancing Error Detection Performance through Parallel CRC Computation on Multi-Core Architectures
 > 原文: [https://arxiv.org/abs/2607.24849](https://arxiv.org/abs/2607.24849)

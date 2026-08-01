@@ -1,11 +1,13 @@
 ---
-title: "Passive wearable physiology tracks a state-level material-hardship gradient in resting heart rate"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.25301
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.25301
 next_step: skim
+priority: medium
+slack_ts: '1785555369.447149'
+source: cs.CY - Computers and Society
+status: unread
+title: Passive wearable physiology tracks a state-level material-hardship gradient
+  in resting heart rate
 ---
 # Passive wearable physiology tracks a state-level material-hardship gradient in resting heart rate
 > 原文: [https://arxiv.org/abs/2607.25301](https://arxiv.org/abs/2607.25301)
