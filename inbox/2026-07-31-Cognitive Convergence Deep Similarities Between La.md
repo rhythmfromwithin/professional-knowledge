@@ -1,11 +1,13 @@
 ---
-title: "Cognitive Convergence: Deep Similarities Between Large Language Models and Human Cognition"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.26179
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26179
 next_step: skim
+priority: low
+slack_ts: '1785641746.288769'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Cognitive Convergence: Deep Similarities Between Large Language Models and
+  Human Cognition'
 ---
 # Cognitive Convergence: Deep Similarities Between Large Language Models and Human Cognition
 > 原文: [https://arxiv.org/abs/2607.26179](https://arxiv.org/abs/2607.26179)

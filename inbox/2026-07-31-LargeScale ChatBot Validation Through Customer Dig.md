@@ -1,11 +1,12 @@
 ---
-title: "Large-Scale ChatBot Validation Through Customer Digital Twin Simulations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.26060
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26060
 next_step: skim
+priority: high
+slack_ts: '1785641748.491919'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Large-Scale ChatBot Validation Through Customer Digital Twin Simulations
 ---
 # Large-Scale ChatBot Validation Through Customer Digital Twin Simulations
 > 原文: [https://arxiv.org/abs/2607.26060](https://arxiv.org/abs/2607.26060)

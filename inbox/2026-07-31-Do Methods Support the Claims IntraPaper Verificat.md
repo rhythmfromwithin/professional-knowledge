@@ -1,11 +1,12 @@
 ---
-title: "Do Methods Support the Claims? Intra-Paper Verification for Peer Review"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.26066
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26066
 next_step: skim
+priority: high
+slack_ts: '1785641746.605239'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Do Methods Support the Claims? Intra-Paper Verification for Peer Review
 ---
 # Do Methods Support the Claims? Intra-Paper Verification for Peer Review
 > 原文: [https://arxiv.org/abs/2607.26066](https://arxiv.org/abs/2607.26066)

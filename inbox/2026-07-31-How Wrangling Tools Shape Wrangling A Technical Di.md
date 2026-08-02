@@ -1,11 +1,12 @@
 ---
-title: "How Wrangling Tools Shape Wrangling: A Technical Dimensions Analysis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.26198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26198
 next_step: skim
+priority: low
+slack_ts: '1785641747.718259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'How Wrangling Tools Shape Wrangling: A Technical Dimensions Analysis'
 ---
 # How Wrangling Tools Shape Wrangling: A Technical Dimensions Analysis
 > 原文: [https://arxiv.org/abs/2607.26198](https://arxiv.org/abs/2607.26198)

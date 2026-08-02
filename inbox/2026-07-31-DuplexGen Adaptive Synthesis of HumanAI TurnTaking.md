@@ -1,11 +1,12 @@
 ---
-title: "DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.26178
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26178
 next_step: skim
+priority: high
+slack_ts: '1785641746.703559'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues'
 ---
 # DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues
 > 原文: [https://arxiv.org/abs/2607.26178](https://arxiv.org/abs/2607.26178)

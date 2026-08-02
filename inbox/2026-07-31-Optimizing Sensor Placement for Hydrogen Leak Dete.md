@@ -1,11 +1,13 @@
 ---
-title: "Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure: A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.26078
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26078
 next_step: skim
+priority: low
+slack_ts: '1785641748.785949'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure:
+  A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate'
 ---
 # Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure: A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate
 > 原文: [https://arxiv.org/abs/2607.26078](https://arxiv.org/abs/2607.26078)

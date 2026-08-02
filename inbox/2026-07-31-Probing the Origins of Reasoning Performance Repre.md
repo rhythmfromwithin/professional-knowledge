@@ -1,11 +1,13 @@
 ---
-title: "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.26119
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26119
 next_step: skim
+priority: high
+slack_ts: '1785641749.010569'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Probing the Origins of Reasoning Performance: Representational Quality for
+  Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models'
 ---
 # Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models
 > 原文: [https://arxiv.org/abs/2607.26119](https://arxiv.org/abs/2607.26119)

@@ -1,11 +1,13 @@
 ---
-title: "Expected Survival-Time Bounds for Robust Optimization Over Time under Isotropic Gaussian Dynamics"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.27280
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27280
 next_step: skim
+priority: medium
+slack_ts: '1785641751.944369'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Expected Survival-Time Bounds for Robust Optimization Over Time under Isotropic
+  Gaussian Dynamics
 ---
 # Expected Survival-Time Bounds for Robust Optimization Over Time under Isotropic Gaussian Dynamics
 > 原文: [https://arxiv.org/abs/2607.27280](https://arxiv.org/abs/2607.27280)

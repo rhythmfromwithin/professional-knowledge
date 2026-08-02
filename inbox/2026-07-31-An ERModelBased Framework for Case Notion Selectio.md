@@ -1,11 +1,12 @@
 ---
-title: "An ER-Model-Based Framework for Case Notion Selection in Object-Centric Processes"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.26384
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26384
 next_step: skim
+priority: low
+slack_ts: '1785641745.839039'
+source: cs.DB - Databases
+status: unread
+title: An ER-Model-Based Framework for Case Notion Selection in Object-Centric Processes
 ---
 # An ER-Model-Based Framework for Case Notion Selection in Object-Centric Processes
 > 原文: [https://arxiv.org/abs/2607.26384](https://arxiv.org/abs/2607.26384)

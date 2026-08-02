@@ -1,11 +1,13 @@
 ---
-title: "Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.26062
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26062
 next_step: skim
+priority: medium
+slack_ts: '1785641747.968089'
+source: cs.CY - Computers and Society
+status: unread
+title: Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual
+  Disabilities
 ---
 # Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities
 > 原文: [https://arxiv.org/abs/2607.26062](https://arxiv.org/abs/2607.26062)

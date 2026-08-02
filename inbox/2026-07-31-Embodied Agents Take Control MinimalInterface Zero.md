@@ -1,11 +1,13 @@
 ---
-title: "Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.26148
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26148
 next_step: skim
+priority: medium
+slack_ts: '1785641746.779309'
+source: cs.RO - Robotics
+status: unread
+title: 'Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale
+  Policies in Vision-and-Language Navigation'
 ---
 # Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation
 > 原文: [https://arxiv.org/abs/2607.26148](https://arxiv.org/abs/2607.26148)

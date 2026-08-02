@@ -1,11 +1,12 @@
 ---
-title: "How avatarin built a 24/7 retail agent with GPT-Realtime"
-source: "OpenAI Blog"
-link: https://openai.com/index/avatarin
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/avatarin
 next_step: skim
+priority: high
+slack_ts: '1785641747.896469'
+source: OpenAI Blog
+status: unread
+title: How avatarin built a 24/7 retail agent with GPT-Realtime
 ---
 # How avatarin built a 24/7 retail agent with GPT-Realtime
 > 原文: [https://openai.com/index/avatarin](https://openai.com/index/avatarin)

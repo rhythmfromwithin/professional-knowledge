@@ -1,11 +1,12 @@
 ---
-title: "Knowledge-guided Disentanglement with Atomic Actions for Action Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.26097
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26097
 next_step: skim
+priority: medium
+slack_ts: '1785641748.348329'
+source: cs.CV - Computer Vision
+status: unread
+title: Knowledge-guided Disentanglement with Atomic Actions for Action Recognition
 ---
 # Knowledge-guided Disentanglement with Atomic Actions for Action Recognition
 > 原文: [https://arxiv.org/abs/2607.26097](https://arxiv.org/abs/2607.26097)

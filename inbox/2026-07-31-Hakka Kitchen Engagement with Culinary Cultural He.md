@@ -1,11 +1,13 @@
 ---
-title: "Hakka Kitchen: Engagement with Culinary Cultural Heritage Through Immersive Game Play"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.26183
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26183
 next_step: skim
+priority: low
+slack_ts: '1785641747.541369'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Hakka Kitchen: Engagement with Culinary Cultural Heritage Through Immersive
+  Game Play'
 ---
 # Hakka Kitchen: Engagement with Culinary Cultural Heritage Through Immersive Game Play
 > 原文: [https://arxiv.org/abs/2607.26183](https://arxiv.org/abs/2607.26183)

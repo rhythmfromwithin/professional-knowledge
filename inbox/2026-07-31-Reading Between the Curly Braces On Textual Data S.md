@@ -1,11 +1,12 @@
 ---
-title: "Reading Between the Curly Braces: On Textual Data Serialization Format Usability"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.26211
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26211
 next_step: skim
+priority: low
+slack_ts: '1785641749.085279'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Reading Between the Curly Braces: On Textual Data Serialization Format Usability'
 ---
 # Reading Between the Curly Braces: On Textual Data Serialization Format Usability
 > 原文: [https://arxiv.org/abs/2607.26211](https://arxiv.org/abs/2607.26211)

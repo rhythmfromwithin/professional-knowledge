@@ -1,11 +1,13 @@
 ---
-title: "More Data, Worse Decisions? Preference Reversals in Neural Networks under Gram Incompatibility"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.27255
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27255
 next_step: skim
+priority: medium
+slack_ts: '1785641752.936579'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: More Data, Worse Decisions? Preference Reversals in Neural Networks under Gram
+  Incompatibility
 ---
 # More Data, Worse Decisions? Preference Reversals in Neural Networks under Gram Incompatibility
 > 原文: [https://arxiv.org/abs/2607.27255](https://arxiv.org/abs/2607.27255)

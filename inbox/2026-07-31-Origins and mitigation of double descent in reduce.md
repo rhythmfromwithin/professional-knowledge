@@ -1,11 +1,12 @@
 ---
-title: "Origins and mitigation of double descent in reduced order modeling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.26414
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26414
 next_step: skim
+priority: medium
+slack_ts: '1785641748.859589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Origins and mitigation of double descent in reduced order modeling
 ---
 # Origins and mitigation of double descent in reduced order modeling
 > 原文: [https://arxiv.org/abs/2607.26414](https://arxiv.org/abs/2607.26414)

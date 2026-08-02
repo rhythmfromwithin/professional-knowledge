@@ -1,11 +1,13 @@
 ---
-title: "AI-assisted pre-review of open-source software submissions: an experience report from BOSC 2026"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.27228
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27228
 next_step: skim
+priority: high
+slack_ts: '1785641749.925179'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'AI-assisted pre-review of open-source software submissions: an experience
+  report from BOSC 2026'
 ---
 # AI-assisted pre-review of open-source software submissions: an experience report from BOSC 2026
 > 原文: [https://arxiv.org/abs/2607.27228](https://arxiv.org/abs/2607.27228)

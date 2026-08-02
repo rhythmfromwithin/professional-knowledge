@@ -1,11 +1,12 @@
 ---
-title: "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1785641748.119289'
+source: AWS Blog
+status: unread
+title: Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick
 ---
 # Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/)

@@ -1,11 +1,13 @@
 ---
-title: "Large Language Models for Software Engineering Diagrams: A Systematic Review of UML and ER modelling"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.26100
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26100
 next_step: skim
+priority: low
+slack_ts: '1785641748.422239'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Large Language Models for Software Engineering Diagrams: A Systematic Review
+  of UML and ER modelling'
 ---
 # Large Language Models for Software Engineering Diagrams: A Systematic Review of UML and ER modelling
 > 原文: [https://arxiv.org/abs/2607.26100](https://arxiv.org/abs/2607.26100)

@@ -1,11 +1,13 @@
 ---
-title: "Track-Leakage-Free Hold-Out Self-Validation for Photogrammetric Reconstruction: Protocol, Sensitivity, and Limits"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.24852
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.24852
 next_step: skim
+priority: medium
+slack_ts: '1785641745.018349'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Track-Leakage-Free Hold-Out Self-Validation for Photogrammetric Reconstruction:
+  Protocol, Sensitivity, and Limits'
 ---
 # Track-Leakage-Free Hold-Out Self-Validation for Photogrammetric Reconstruction: Protocol, Sensitivity, and Limits
 > 原文: [https://arxiv.org/abs/2607.24852](https://arxiv.org/abs/2607.24852)

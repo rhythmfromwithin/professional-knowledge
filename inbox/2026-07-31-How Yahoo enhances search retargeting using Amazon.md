@@ -1,11 +1,12 @@
 ---
-title: "How Yahoo enhances search retargeting using Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1785641747.796959'
+source: AWS Blog
+status: unread
+title: How Yahoo enhances search retargeting using Amazon Bedrock
 ---
 # How Yahoo enhances search retargeting using Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)

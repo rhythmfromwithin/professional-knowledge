@@ -1,11 +1,12 @@
 ---
-title: "Meta-Learned Reward Shaping for Reinforcement Learning from Human Feedback"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.26094
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26094
 next_step: skim
+priority: high
+slack_ts: '1785641748.562869'
+source: cs.LG - Machine Learning
+status: unread
+title: Meta-Learned Reward Shaping for Reinforcement Learning from Human Feedback
 ---
 # Meta-Learned Reward Shaping for Reinforcement Learning from Human Feedback
 > 原文: [https://arxiv.org/abs/2607.26094](https://arxiv.org/abs/2607.26094)

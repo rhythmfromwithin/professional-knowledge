@@ -1,11 +1,12 @@
 ---
-title: "Revisiting the Algebraic Foundation of Relational Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.26356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26356
 next_step: skim
+priority: low
+slack_ts: '1785641749.229379'
+source: cs.DB - Databases
+status: unread
+title: Revisiting the Algebraic Foundation of Relational Data
 ---
 # Revisiting the Algebraic Foundation of Relational Data
 > 原文: [https://arxiv.org/abs/2607.26356](https://arxiv.org/abs/2607.26356)

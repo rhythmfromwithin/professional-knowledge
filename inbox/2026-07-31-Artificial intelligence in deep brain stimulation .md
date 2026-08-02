@@ -1,11 +1,13 @@
 ---
-title: "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.26666
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26666
 next_step: skim
+priority: low
+slack_ts: '1785641745.908119'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Artificial intelligence in deep brain stimulation for movement disorders:
+  a systematic review and technology readiness assessment'
 ---
 # Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment
 > 原文: [https://arxiv.org/abs/2607.26666](https://arxiv.org/abs/2607.26666)

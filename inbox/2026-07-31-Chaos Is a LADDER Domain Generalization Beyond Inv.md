@@ -1,11 +1,12 @@
 ---
-title: "Chaos Is a LADDER: Domain Generalization Beyond Invariance via Reweighting"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.26458
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26458
 next_step: skim
+priority: medium
+slack_ts: '1785641746.145289'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Chaos Is a LADDER: Domain Generalization Beyond Invariance via Reweighting'
 ---
 # Chaos Is a LADDER: Domain Generalization Beyond Invariance via Reweighting
 > 原文: [https://arxiv.org/abs/2607.26458](https://arxiv.org/abs/2607.26458)
