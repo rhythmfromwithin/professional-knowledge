@@ -1,11 +1,12 @@
 ---
-title: "The Fabric Is the Cluster Driver: Cross-Layer eBPF Policies for GPU-CXL Fabrics"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.26335
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26335
 next_step: skim
+priority: medium
+slack_ts: '1785728287.132759'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Fabric Is the Cluster Driver: Cross-Layer eBPF Policies for GPU-CXL Fabrics'
 ---
 # The Fabric Is the Cluster Driver: Cross-Layer eBPF Policies for GPU-CXL Fabrics
 > 原文: [https://arxiv.org/abs/2607.26335](https://arxiv.org/abs/2607.26335)

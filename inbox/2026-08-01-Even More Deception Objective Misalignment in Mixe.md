@@ -1,11 +1,13 @@
 ---
-title: "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.26120
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26120
 next_step: skim
+priority: high
+slack_ts: '1785728290.359889'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent
+  Systems'
 ---
 # Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems
 > 原文: [https://arxiv.org/abs/2607.26120](https://arxiv.org/abs/2607.26120)

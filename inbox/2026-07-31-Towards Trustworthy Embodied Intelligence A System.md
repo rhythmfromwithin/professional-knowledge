@@ -1,11 +1,13 @@
 ---
-title: "Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.26121
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26121
 next_step: skim
+priority: medium
+slack_ts: '1785728287.380799'
+source: cs.RO - Robotics
+status: unread
+title: 'Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded
+  Trustworthiness Levels'
 ---
 # Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels
 > 原文: [https://arxiv.org/abs/2607.26121](https://arxiv.org/abs/2607.26121)

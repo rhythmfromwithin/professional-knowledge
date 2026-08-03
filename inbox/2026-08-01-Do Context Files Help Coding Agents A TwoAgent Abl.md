@@ -1,11 +1,12 @@
 ---
-title: "Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.27250
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27250
 next_step: skim
+priority: low
+slack_ts: '1785728289.883389'
+source: cs.SE - Software Engineering
+status: unread
+title: Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories
 ---
 # Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories
 > 原文: [https://arxiv.org/abs/2607.27250](https://arxiv.org/abs/2607.27250)

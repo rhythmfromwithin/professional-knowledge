@@ -1,11 +1,12 @@
 ---
-title: "AgenticER: the next frontier in Entity Resolution"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.27435
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27435
 next_step: skim
+priority: low
+slack_ts: '1785728288.433579'
+source: cs.DB - Databases
+status: unread
+title: 'AgenticER: the next frontier in Entity Resolution'
 ---
 # AgenticER: the next frontier in Entity Resolution
 > 原文: [https://arxiv.org/abs/2607.27435](https://arxiv.org/abs/2607.27435)

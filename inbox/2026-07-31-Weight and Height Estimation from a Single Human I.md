@@ -1,11 +1,12 @@
 ---
-title: "Weight and Height Estimation from a Single Human Image Captured in the Wild"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.26104
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26104
 next_step: skim
+priority: medium
+slack_ts: '1785728287.750799'
+source: cs.CV - Computer Vision
+status: unread
+title: Weight and Height Estimation from a Single Human Image Captured in the Wild
 ---
 # Weight and Height Estimation from a Single Human Image Captured in the Wild
 > 原文: [https://arxiv.org/abs/2607.26104](https://arxiv.org/abs/2607.26104)

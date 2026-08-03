@@ -1,11 +1,13 @@
 ---
-title: "Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.26061
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26061
 next_step: skim
+priority: high
+slack_ts: '1785728286.828989'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical
+  Profiling System for Football'
 ---
 # Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football
 > 原文: [https://arxiv.org/abs/2607.26061](https://arxiv.org/abs/2607.26061)

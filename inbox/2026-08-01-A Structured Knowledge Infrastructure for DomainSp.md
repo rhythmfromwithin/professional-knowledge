@@ -1,11 +1,12 @@
 ---
-title: "A Structured Knowledge Infrastructure for Domain-Specific Data Asset Discovery"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.27748
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27748
 next_step: skim
+priority: low
+slack_ts: '1785728288.106589'
+source: cs.DB - Databases
+status: unread
+title: A Structured Knowledge Infrastructure for Domain-Specific Data Asset Discovery
 ---
 # A Structured Knowledge Infrastructure for Domain-Specific Data Asset Discovery
 > 原文: [https://arxiv.org/abs/2607.27748](https://arxiv.org/abs/2607.27748)

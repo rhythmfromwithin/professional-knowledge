@@ -1,11 +1,12 @@
 ---
-title: "Evaluating the Vergence-Accommodation Conflict in Gaze-Based 3D Target Selection"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.27369
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27369
 next_step: skim
+priority: low
+slack_ts: '1785728290.257859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Evaluating the Vergence-Accommodation Conflict in Gaze-Based 3D Target Selection
 ---
 # Evaluating the Vergence-Accommodation Conflict in Gaze-Based 3D Target Selection
 > 原文: [https://arxiv.org/abs/2607.27369](https://arxiv.org/abs/2607.27369)

@@ -1,11 +1,13 @@
 ---
-title: "FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.27267
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27267
 next_step: skim
+priority: low
+slack_ts: '1785728290.668899'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission
+  Graphs'
 ---
 # FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs
 > 原文: [https://arxiv.org/abs/2607.27267](https://arxiv.org/abs/2607.27267)

@@ -1,11 +1,12 @@
 ---
-title: "The Attention-Directing Ability of Teams"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.26109
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26109
 next_step: skim
+priority: low
+slack_ts: '1785728287.043889'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Attention-Directing Ability of Teams
 ---
 # The Attention-Directing Ability of Teams
 > 原文: [https://arxiv.org/abs/2607.26109](https://arxiv.org/abs/2607.26109)

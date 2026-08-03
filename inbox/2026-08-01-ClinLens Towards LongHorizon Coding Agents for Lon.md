@@ -1,11 +1,13 @@
 ---
-title: "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.26155
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26155
 next_step: skim
+priority: high
+slack_ts: '1785728289.109869'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical
+  Data Science'
 ---
 # ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science
 > 原文: [https://arxiv.org/abs/2607.26155](https://arxiv.org/abs/2607.26155)

@@ -1,11 +1,12 @@
 ---
-title: "A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.28193
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28193
 next_step: skim
+priority: medium
+slack_ts: '1785728288.019309'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation
 ---
 # A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation
 > 原文: [https://arxiv.org/abs/2607.28193](https://arxiv.org/abs/2607.28193)

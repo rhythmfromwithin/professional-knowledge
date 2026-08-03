@@ -1,11 +1,12 @@
 ---
-title: "Is Solving Better Than Evaluating GenAI Solutions?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.27586
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27586
 next_step: skim
+priority: medium
+slack_ts: '1785728291.624229'
+source: cs.CY - Computers and Society
+status: unread
+title: Is Solving Better Than Evaluating GenAI Solutions?
 ---
 # Is Solving Better Than Evaluating GenAI Solutions?
 > 原文: [https://arxiv.org/abs/2607.27586](https://arxiv.org/abs/2607.27586)

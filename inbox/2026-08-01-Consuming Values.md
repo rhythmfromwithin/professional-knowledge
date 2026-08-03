@@ -1,11 +1,12 @@
 ---
-title: "Consuming Values"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.27569
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27569
 next_step: skim
+priority: low
+slack_ts: '1785728289.331729'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Consuming Values
 ---
 # Consuming Values
 > 原文: [https://arxiv.org/abs/2607.27569](https://arxiv.org/abs/2607.27569)

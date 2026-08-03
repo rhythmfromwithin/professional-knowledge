@@ -1,11 +1,13 @@
 ---
-title: "Digital Harf: A Clinically Integrated Multimodal AI System for Pervasive Arabic Speech and Language Therapy"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.27212
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27212
 next_step: skim
+priority: low
+slack_ts: '1785728289.787829'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Digital Harf: A Clinically Integrated Multimodal AI System for Pervasive Arabic
+  Speech and Language Therapy'
 ---
 # Digital Harf: A Clinically Integrated Multimodal AI System for Pervasive Arabic Speech and Language Therapy
 > 原文: [https://arxiv.org/abs/2607.27212](https://arxiv.org/abs/2607.27212)

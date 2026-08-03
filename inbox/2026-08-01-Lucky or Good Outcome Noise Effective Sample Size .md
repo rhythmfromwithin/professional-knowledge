@@ -1,11 +1,13 @@
 ---
-title: "Lucky or Good? Outcome Noise, Effective Sample Size, and the Attribution of Skill"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.27544
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27544
 next_step: skim
+priority: low
+slack_ts: '1785728291.969249'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Lucky or Good? Outcome Noise, Effective Sample Size, and the Attribution of
+  Skill
 ---
 # Lucky or Good? Outcome Noise, Effective Sample Size, and the Attribution of Skill
 > 原文: [https://arxiv.org/abs/2607.27544](https://arxiv.org/abs/2607.27544)

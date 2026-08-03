@@ -1,11 +1,13 @@
 ---
-title: "Validating ETCS Data with the B Mathematical Language: An Industrial Pipeline and a Blueprint for LLM Integration"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.26111
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26111
 next_step: skim
+priority: low
+slack_ts: '1785728287.582719'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Validating ETCS Data with the B Mathematical Language: An Industrial Pipeline
+  and a Blueprint for LLM Integration'
 ---
 # Validating ETCS Data with the B Mathematical Language: An Industrial Pipeline and a Blueprint for LLM Integration
 > 原文: [https://arxiv.org/abs/2607.26111](https://arxiv.org/abs/2607.26111)

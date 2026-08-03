@@ -1,11 +1,12 @@
 ---
-title: "Two-sided RDMA Striking Back for Disaggregated Memory Databaases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.26227
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26227
 next_step: skim
+priority: low
+slack_ts: '1785728287.495689'
+source: cs.DB - Databases
+status: unread
+title: Two-sided RDMA Striking Back for Disaggregated Memory Databaases
 ---
 # Two-sided RDMA Striking Back for Disaggregated Memory Databaases
 > 原文: [https://arxiv.org/abs/2607.26227](https://arxiv.org/abs/2607.26227)

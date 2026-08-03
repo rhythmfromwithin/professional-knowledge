@@ -1,11 +1,13 @@
 ---
-title: "RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM Moderation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.27373
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27373
 next_step: skim
+priority: low
+slack_ts: '1785728292.803199'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM
+  Moderation'
 ---
 # RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM Moderation
 > 原文: [https://arxiv.org/abs/2607.27373](https://arxiv.org/abs/2607.27373)

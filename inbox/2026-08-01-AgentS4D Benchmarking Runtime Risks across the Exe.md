@@ -1,11 +1,13 @@
 ---
-title: "AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.27294
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27294
 next_step: skim
+priority: low
+slack_ts: '1785728288.352499'
+source: cs.SE - Software Engineering
+status: unread
+title: 'AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based
+  Workspace Agents'
 ---
 # AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents
 > 原文: [https://arxiv.org/abs/2607.27294](https://arxiv.org/abs/2607.27294)

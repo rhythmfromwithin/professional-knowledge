@@ -1,11 +1,12 @@
 ---
-title: "Corrigible Assistance in One Round: Pragmatic-Pedagogic Best Response"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.27508
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27508
 next_step: skim
+priority: medium
+slack_ts: '1785728289.406929'
+source: cs.RO - Robotics
+status: unread
+title: 'Corrigible Assistance in One Round: Pragmatic-Pedagogic Best Response'
 ---
 # Corrigible Assistance in One Round: Pragmatic-Pedagogic Best Response
 > 原文: [https://arxiv.org/abs/2607.27508](https://arxiv.org/abs/2607.27508)

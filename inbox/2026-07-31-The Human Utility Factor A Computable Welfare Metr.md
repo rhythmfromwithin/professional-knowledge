@@ -1,11 +1,13 @@
 ---
-title: "The Human Utility Factor: A Computable Welfare Metric That Reframes AI Governance as a Constrained Optimisation Problem"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.26068
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26068
 next_step: skim
+priority: low
+slack_ts: '1785728287.224019'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Human Utility Factor: A Computable Welfare Metric That Reframes AI Governance
+  as a Constrained Optimisation Problem'
 ---
 # The Human Utility Factor: A Computable Welfare Metric That Reframes AI Governance as a Constrained Optimisation Problem
 > 原文: [https://arxiv.org/abs/2607.26068](https://arxiv.org/abs/2607.26068)

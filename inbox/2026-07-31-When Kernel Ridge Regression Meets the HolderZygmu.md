@@ -1,11 +1,13 @@
 ---
-title: "When Kernel Ridge Regression Meets the H\"older-Zygmund Class: Minimax Optimality and Failure of Properness"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.26065
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26065
 next_step: skim
+priority: medium
+slack_ts: '1785728287.838669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'When Kernel Ridge Regression Meets the H"older-Zygmund Class: Minimax Optimality
+  and Failure of Properness'
 ---
 # When Kernel Ridge Regression Meets the H\"older-Zygmund Class: Minimax Optimality and Failure of Properness
 > 原文: [https://arxiv.org/abs/2607.26065](https://arxiv.org/abs/2607.26065)

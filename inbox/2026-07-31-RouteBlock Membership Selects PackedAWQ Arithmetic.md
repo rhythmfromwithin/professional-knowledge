@@ -1,11 +1,13 @@
 ---
-title: "Route-Block Membership Selects Packed-AWQ Arithmetic: A Controlled Single-Fixture Mechanism Study"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.26316
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26316
 next_step: skim
+priority: medium
+slack_ts: '1785728286.733129'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Route-Block Membership Selects Packed-AWQ Arithmetic: A Controlled Single-Fixture
+  Mechanism Study'
 ---
 # Route-Block Membership Selects Packed-AWQ Arithmetic: A Controlled Single-Fixture Mechanism Study
 > 原文: [https://arxiv.org/abs/2607.26316](https://arxiv.org/abs/2607.26316)

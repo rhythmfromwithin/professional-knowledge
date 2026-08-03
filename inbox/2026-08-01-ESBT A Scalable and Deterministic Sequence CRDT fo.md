@@ -1,11 +1,13 @@
 ---
-title: "ESBT: A Scalable and Deterministic Sequence CRDT for Distributed Collaborative Editing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.28101
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28101
 next_step: skim
+priority: medium
+slack_ts: '1785728289.975309'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ESBT: A Scalable and Deterministic Sequence CRDT for Distributed Collaborative
+  Editing'
 ---
 # ESBT: A Scalable and Deterministic Sequence CRDT for Distributed Collaborative Editing
 > 原文: [https://arxiv.org/abs/2607.28101](https://arxiv.org/abs/2607.28101)

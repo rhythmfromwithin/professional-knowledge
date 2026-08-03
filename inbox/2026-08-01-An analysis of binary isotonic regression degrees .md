@@ -1,11 +1,13 @@
 ---
-title: "An analysis of binary isotonic regression: degrees of freedom and implications for calibration"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.27301
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27301
 next_step: skim
+priority: medium
+slack_ts: '1785728288.677599'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'An analysis of binary isotonic regression: degrees of freedom and implications
+  for calibration'
 ---
 # An analysis of binary isotonic regression: degrees of freedom and implications for calibration
 > 原文: [https://arxiv.org/abs/2607.27301](https://arxiv.org/abs/2607.27301)

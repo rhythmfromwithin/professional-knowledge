@@ -1,11 +1,13 @@
 ---
-title: "The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy Science"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.26064
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26064
 next_step: skim
+priority: medium
+slack_ts: '1785728286.949079'
+source: cs.CY - Computers and Society
+status: unread
+title: The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy
+  Science
 ---
 # The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy Science
 > 原文: [https://arxiv.org/abs/2607.26064](https://arxiv.org/abs/2607.26064)
