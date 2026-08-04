@@ -1,11 +1,13 @@
 ---
-title: "OVEarth-Bench: Evaluating Category Breadth and Query Diversity for Open-Vocabulary Earth Observation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.27278
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27278
 next_step: skim
+priority: medium
+slack_ts: '1785813703.962309'
+source: cs.CV - Computer Vision
+status: unread
+title: 'OVEarth-Bench: Evaluating Category Breadth and Query Diversity for Open-Vocabulary
+  Earth Observation'
 ---
 # OVEarth-Bench: Evaluating Category Breadth and Query Diversity for Open-Vocabulary Earth Observation
 > 原文: [https://arxiv.org/abs/2607.27278](https://arxiv.org/abs/2607.27278)

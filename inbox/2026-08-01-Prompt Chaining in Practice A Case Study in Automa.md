@@ -1,11 +1,12 @@
 ---
-title: "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.27210
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27210
 next_step: skim
+priority: high
+slack_ts: '1785813704.560229'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation'
 ---
 # Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation
 > 原文: [https://arxiv.org/abs/2607.27210](https://arxiv.org/abs/2607.27210)

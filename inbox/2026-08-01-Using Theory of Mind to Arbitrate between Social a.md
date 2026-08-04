@@ -1,11 +1,12 @@
 ---
-title: "Using Theory of Mind to Arbitrate between Social and Non-social Learning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.28601
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28601
 next_step: skim
+priority: low
+slack_ts: '1785813705.453799'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Using Theory of Mind to Arbitrate between Social and Non-social Learning
 ---
 # Using Theory of Mind to Arbitrate between Social and Non-social Learning
 > 原文: [https://arxiv.org/abs/2607.28601](https://arxiv.org/abs/2607.28601)

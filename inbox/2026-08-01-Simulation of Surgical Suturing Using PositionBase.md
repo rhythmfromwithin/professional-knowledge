@@ -1,11 +1,13 @@
 ---
-title: "Simulation of Surgical Suturing Using Position-Based Dynamics and the Material Point Method for Robot Reinforcement Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.27494
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27494
 next_step: skim
+priority: medium
+slack_ts: '1785813705.025619'
+source: cs.RO - Robotics
+status: unread
+title: Simulation of Surgical Suturing Using Position-Based Dynamics and the Material
+  Point Method for Robot Reinforcement Learning
 ---
 # Simulation of Surgical Suturing Using Position-Based Dynamics and the Material Point Method for Robot Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2607.27494](https://arxiv.org/abs/2607.27494)

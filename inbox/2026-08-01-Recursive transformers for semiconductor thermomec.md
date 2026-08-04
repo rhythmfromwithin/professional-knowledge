@@ -1,11 +1,12 @@
 ---
-title: "Recursive transformers for semiconductor thermo-mechanical reliability"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.27251
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27251
 next_step: skim
+priority: high
+slack_ts: '1785813704.678909'
+source: cs.LG - Machine Learning
+status: unread
+title: Recursive transformers for semiconductor thermo-mechanical reliability
 ---
 # Recursive transformers for semiconductor thermo-mechanical reliability
 > 原文: [https://arxiv.org/abs/2607.27251](https://arxiv.org/abs/2607.27251)

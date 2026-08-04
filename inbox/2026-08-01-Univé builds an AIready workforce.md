@@ -1,11 +1,12 @@
 ---
-title: "Univé builds an AI-ready workforce"
-source: "OpenAI Blog"
-link: https://openai.com/index/unive
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/unive
 next_step: skim
+priority: high
+slack_ts: '1785813705.367799'
+source: OpenAI Blog
+status: unread
+title: Univé builds an AI-ready workforce
 ---
 # Univé builds an AI-ready workforce
 > 原文: [https://openai.com/index/unive](https://openai.com/index/unive)

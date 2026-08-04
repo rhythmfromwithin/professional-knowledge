@@ -1,11 +1,12 @@
 ---
-title: "Nanoparticle Networks for Neuromorphic Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.27844
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27844
 next_step: skim
+priority: low
+slack_ts: '1785813703.868549'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Nanoparticle Networks for Neuromorphic Computing
 ---
 # Nanoparticle Networks for Neuromorphic Computing
 > 原文: [https://arxiv.org/abs/2607.27844](https://arxiv.org/abs/2607.27844)

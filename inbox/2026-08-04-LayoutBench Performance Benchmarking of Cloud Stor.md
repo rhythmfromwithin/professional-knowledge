@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2607.28880
+next_step: skim
+priority: medium
+slack_ts: '1785813714.648059'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LayoutBench: Performance Benchmarking of Cloud Storage Layouts for Multimedia
+  Data'
+---
+# LayoutBench: Performance Benchmarking of Cloud Storage Layouts for Multimedia Data
+> 原文: [https://arxiv.org/abs/2607.28880](https://arxiv.org/abs/2607.28880)
+
+arXiv:2607.28880v1 Announce Type: new
+Abstract: Modern multimedia machine learning workloads increasingly store large-scale datasets in cloud object storage services such as AWS S3. How these samples are physically organized in storage (i.e.,storage layout) directly affects how quickly and cheaply they can be retrieved. Yet the benchmarks used to guide storage decisions today focus on database engines and query processing, and none systematically evaluates how different storage layouts perform for multimedia data retrieval. We present LayoutBench, the first benchmark designed to fill this gap. It evaluates three representative layout strategies: storing each sample as an individual object (L1), sequentially packing samples into tar archives (L2), and organizing samples as columns in Parquet files (L3). We measure retrieval time, data transferred, and monetary cost using 11 queries of varying result-set sizes on ImageNet across six AWS EC2 instance configurations that span different network bandwidth and memory tiers. Our experiments reveal that L2 achieves lower latency than L1 and L3 through connection reuse, but loses this advantage as retrieval sizes become very large. L3 is the fastest for very large retrievals but transfers substantially more data across all query sizes due to row-group granularity, and requires significantly more memory. Across all layouts, data transfer cost dominates total expenditure, with L3 costing an order of magnitude more than L1 or L2.

@@ -1,11 +1,13 @@
 ---
-title: "Stimulus-Evoked Network Dynamics in Human Cortical Organoids: From a Graph-Computational Framework to Repeated-Stimulation Depression"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.28068
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28068
 next_step: skim
+priority: low
+slack_ts: '1785813705.110609'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Stimulus-Evoked Network Dynamics in Human Cortical Organoids: From a Graph-Computational
+  Framework to Repeated-Stimulation Depression'
 ---
 # Stimulus-Evoked Network Dynamics in Human Cortical Organoids: From a Graph-Computational Framework to Repeated-Stimulation Depression
 > 原文: [https://arxiv.org/abs/2607.28068](https://arxiv.org/abs/2607.28068)

@@ -1,0 +1,14 @@
+---
+title: "Seeing Differently: Modeling Interpretive Perspectives in Computational Creativity using a Four-World Framework"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2607.28644
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Seeing Differently: Modeling Interpretive Perspectives in Computational Creativity using a Four-World Framework
+> 原文: [https://arxiv.org/abs/2607.28644](https://arxiv.org/abs/2607.28644)
+
+arXiv:2607.28644v1 Announce Type: new
+Abstract: Creativity in computational systems is often evaluated as an objective property of artifacts, with existing Computational Creativity (CC) frameworks assessing creative merit at the level of outputs or systems rather than interpretive context. However, artistic meaning is inherently perspective-dependent and can vary across viewers and critical traditions. This paper proposes a computational approach to modeling interpretive perspectives rather than treating creativity as a single measurable construct. The study adopts a twelve-trait creativity framework, organized across four conceptual domains, and operationalizes it through three evaluative personas: formalist, social-historical, and iconographic. Using 1,069 artworks from the SemArt dataset, the analysis generates 38,484 persona-based evaluations to examine how perspectives shape creativity assessment. Results show systematic divergence across perspectives, with traits such as Social Reflexivity exhibiting strong viewpoint sensitivity. Linear probing of CLIP image embeddings reveals that perspectives correspond to distinct orientation vectors in representation space, suggesting that creativity evaluation depends on which visual features become salient under each persona condition. These findings support a relational view of creativity and indicate that incorporating multiple evaluative perspectives could enable co-creative systems to support interpretively diverse human collaborators.

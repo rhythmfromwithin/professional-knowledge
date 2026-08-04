@@ -1,11 +1,13 @@
 ---
-title: "When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.28041
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28041
 next_step: skim
+priority: medium
+slack_ts: '1785813705.742259'
+source: cs.CY - Computers and Society
+status: unread
+title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning and
+  the Risk of Capacity Dissolution
 ---
 # When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 > 原文: [https://arxiv.org/abs/2607.28041](https://arxiv.org/abs/2607.28041)

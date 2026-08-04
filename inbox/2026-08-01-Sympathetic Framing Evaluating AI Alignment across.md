@@ -1,11 +1,12 @@
 ---
-title: "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.27232
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27232
 next_step: skim
+priority: high
+slack_ts: '1785813705.191389'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups'
 ---
 # Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups
 > 原文: [https://arxiv.org/abs/2607.27232](https://arxiv.org/abs/2607.27232)

@@ -1,11 +1,12 @@
 ---
-title: "Open Security Benchmark: Towards Autonomous Enterprise Cyber Defense"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.27288
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27288
 next_step: skim
+priority: low
+slack_ts: '1785813704.054799'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Open Security Benchmark: Towards Autonomous Enterprise Cyber Defense'
 ---
 # Open Security Benchmark: Towards Autonomous Enterprise Cyber Defense
 > 原文: [https://arxiv.org/abs/2607.27288](https://arxiv.org/abs/2607.27288)

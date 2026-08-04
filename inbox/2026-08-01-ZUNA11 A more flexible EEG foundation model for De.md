@@ -1,11 +1,12 @@
 ---
-title: "ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.27308
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.27308
 next_step: skim
+priority: low
+slack_ts: '1785813705.899679'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution'
 ---
 # ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution
 > 原文: [https://arxiv.org/abs/2607.27308](https://arxiv.org/abs/2607.27308)
