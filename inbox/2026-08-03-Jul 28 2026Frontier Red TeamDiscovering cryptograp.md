@@ -1,11 +1,12 @@
 ---
-title: "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude"
-source: "Anthropic"
-link: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
 next_step: skim
+priority: high
+slack_ts: '1785899826.437879'
+source: Anthropic
+status: unread
+title: Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude
 ---
 # Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude
 > 原文: [https://www.anthropic.com/research/discovering-cryptographic-weaknesses](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)

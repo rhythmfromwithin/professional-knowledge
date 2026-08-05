@@ -1,0 +1,14 @@
+---
+title: "PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2608.00066
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation
+> 原文: [https://arxiv.org/abs/2608.00066](https://arxiv.org/abs/2608.00066)
+
+arXiv:2608.00066v1 Announce Type: new
+Abstract: Remote photoplethysmography (rPPG) enables non-contact heart-rate estimation from facial videos, but its weak physiological signal is easily corrupted by motion, illumination changes, occlusion, skin-appearance variation, and device noise. Existing rPPG methods typically rely on a single model to directly predict heart rate or recover pulse waveforms, while different strong estimators may produce conflicting yet individually plausible candidates for the same video. To resolve these conflicts, we propose PhysAgent, an inference-time multi-agent candidate-verification framework. Unlike direct prediction approaches, PhysAgent neither trains a new base rPPG model nor asks Multimodal Large Language Models (MLLMs) to output heart rate directly. In contrast, it treats outputs from multiple base estimators as physiological hypotheses to be verified and uses a lightweight 4B MLLM, Qwen3-VL-4B, to drive multi-agent reasoning over video conditions, signal reliability, and candidate disagreement. A deterministic physiological verifier checks the fusion proposal, and a reproducible numerical fusion process produces the final heart rate. Experimental results on multiple public rPPG benchmarks show that PhysAgent improves fusion stability and reliability across different datasets and source-domain settings, while avoiding the irreproducibility and physiological inconsistency of direct MLLM prediction or unconstrained ensemble fusion. The code will be released soon.

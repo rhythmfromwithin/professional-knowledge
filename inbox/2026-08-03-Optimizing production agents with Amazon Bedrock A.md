@@ -1,11 +1,12 @@
 ---
-title: "Optimizing production agents with Amazon Bedrock AgentCore Observability"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/
 next_step: skim
+priority: high
+slack_ts: '1785899826.696409'
+source: AWS Blog
+status: unread
+title: Optimizing production agents with Amazon Bedrock AgentCore Observability
 ---
 # Optimizing production agents with Amazon Bedrock AgentCore Observability
 > 原文: [https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)

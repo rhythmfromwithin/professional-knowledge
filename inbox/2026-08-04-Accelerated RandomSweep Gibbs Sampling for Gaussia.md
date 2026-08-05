@@ -1,11 +1,13 @@
 ---
-title: "Accelerated Random-Sweep Gibbs Sampling for Gaussian Graphical Models via Dual Normal Factor Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.28706
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28706
 next_step: skim
+priority: medium
+slack_ts: '1785899827.597929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Accelerated Random-Sweep Gibbs Sampling for Gaussian Graphical Models via Dual
+  Normal Factor Graphs
 ---
 # Accelerated Random-Sweep Gibbs Sampling for Gaussian Graphical Models via Dual Normal Factor Graphs
 > 原文: [https://arxiv.org/abs/2607.28706](https://arxiv.org/abs/2607.28706)

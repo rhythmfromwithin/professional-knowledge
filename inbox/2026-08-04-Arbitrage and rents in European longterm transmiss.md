@@ -1,11 +1,12 @@
 ---
-title: "Arbitrage and rents in European long-term transmission rights"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.28790
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28790
 next_step: skim
+priority: low
+slack_ts: '1785899828.038799'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Arbitrage and rents in European long-term transmission rights
 ---
 # Arbitrage and rents in European long-term transmission rights
 > 原文: [https://arxiv.org/abs/2607.28790](https://arxiv.org/abs/2607.28790)

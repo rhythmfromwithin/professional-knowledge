@@ -1,11 +1,12 @@
 ---
-title: "Announcing the Agentic Catalog Experience in Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1785899824.575179'
+source: AWS Blog
+status: unread
+title: Announcing the Agentic Catalog Experience in Amazon Quick
 ---
 # Announcing the Agentic Catalog Experience in Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)

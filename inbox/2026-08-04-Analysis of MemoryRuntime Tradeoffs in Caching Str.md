@@ -1,11 +1,13 @@
 ---
-title: "Analysis of Memory-Runtime Trade-offs in Caching Strategies for Genetic Programming Symbolic Regression"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.29116
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.29116
 next_step: skim
+priority: low
+slack_ts: '1785899827.850879'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Analysis of Memory-Runtime Trade-offs in Caching Strategies for Genetic Programming
+  Symbolic Regression
 ---
 # Analysis of Memory-Runtime Trade-offs in Caching Strategies for Genetic Programming Symbolic Regression
 > 原文: [https://arxiv.org/abs/2607.29116](https://arxiv.org/abs/2607.29116)

@@ -1,11 +1,12 @@
 ---
-title: "Advances, challenges, and opportunities for legged robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.28952
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28952
 next_step: skim
+priority: medium
+slack_ts: '1785899827.682709'
+source: cs.RO - Robotics
+status: unread
+title: Advances, challenges, and opportunities for legged robots
 ---
 # Advances, challenges, and opportunities for legged robots
 > 原文: [https://arxiv.org/abs/2607.28952](https://arxiv.org/abs/2607.28952)

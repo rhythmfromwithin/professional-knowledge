@@ -1,11 +1,12 @@
 ---
-title: "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/
 next_step: skim
+priority: high
+slack_ts: '1785899825.163859'
+source: AWS Blog
+status: unread
+title: Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS
 ---
 # Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)

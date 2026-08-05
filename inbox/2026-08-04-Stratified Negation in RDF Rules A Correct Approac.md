@@ -1,11 +1,12 @@
 ---
-title: "Stratified Negation in RDF Rules: A Correct Approach (Extended Version)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.28778
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28778
 next_step: skim
+priority: low
+slack_ts: '1785899831.551489'
+source: cs.DB - Databases
+status: unread
+title: 'Stratified Negation in RDF Rules: A Correct Approach (Extended Version)'
 ---
 # Stratified Negation in RDF Rules: A Correct Approach (Extended Version)
 > 原文: [https://arxiv.org/abs/2607.28778](https://arxiv.org/abs/2607.28778)

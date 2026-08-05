@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Etched: Building the Inference Machine"
-source: "Sequoia Capital"
-link: https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/
-priority: high
-status: unread
 interest: medium
+link: https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/
 next_step: skim
+priority: high
+slack_ts: '1785899823.532119'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Etched: Building the Inference Machine'
 ---
 # Partnering with Etched: Building the Inference Machine
 > 原文: [https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/)

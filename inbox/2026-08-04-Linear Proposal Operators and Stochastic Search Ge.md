@@ -1,11 +1,13 @@
 ---
-title: "Linear Proposal Operators and Stochastic Search Geometry in SOMA and Differential Evolution"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.29228
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.29228
 next_step: skim
+priority: low
+slack_ts: '1785899830.539289'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Linear Proposal Operators and Stochastic Search Geometry in SOMA and Differential
+  Evolution
 ---
 # Linear Proposal Operators and Stochastic Search Geometry in SOMA and Differential Evolution
 > 原文: [https://arxiv.org/abs/2607.29228](https://arxiv.org/abs/2607.29228)

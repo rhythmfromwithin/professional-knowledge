@@ -1,11 +1,12 @@
 ---
-title: "Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2607.28636
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28636
 next_step: skim
+priority: high
+slack_ts: '1785899828.549319'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges'
 ---
 # Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges
 > 原文: [https://arxiv.org/abs/2607.28636](https://arxiv.org/abs/2607.28636)
