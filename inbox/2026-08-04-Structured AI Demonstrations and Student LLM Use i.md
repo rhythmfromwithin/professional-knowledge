@@ -1,11 +1,13 @@
 ---
-title: "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.28710
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28710
 next_step: skim
+priority: medium
+slack_ts: '1785986407.689399'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Structured AI Demonstrations and Student LLM Use in Engineering Mechanics:
+  Study Design and Preliminary Results'
 ---
 # Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results
 > 原文: [https://arxiv.org/abs/2607.28710](https://arxiv.org/abs/2607.28710)

@@ -1,11 +1,13 @@
 ---
-title: "Noise-Robust Conditional Flow Matching: Generating Clean Samples from Noisy Datasets"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.00064
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00064
 next_step: skim
+priority: medium
+slack_ts: '1785986419.434009'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Noise-Robust Conditional Flow Matching: Generating Clean Samples from Noisy
+  Datasets'
 ---
 # Noise-Robust Conditional Flow Matching: Generating Clean Samples from Noisy Datasets
 > 原文: [https://arxiv.org/abs/2608.00064](https://arxiv.org/abs/2608.00064)

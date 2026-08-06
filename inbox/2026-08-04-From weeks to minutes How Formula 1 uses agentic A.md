@@ -1,11 +1,13 @@
 ---
-title: "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/
 next_step: skim
+priority: high
+slack_ts: '1785986399.280829'
+source: AWS Blog
+status: unread
+title: 'From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate
+  data operations'
 ---
 # From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations
 > 原文: [https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)

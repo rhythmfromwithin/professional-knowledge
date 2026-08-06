@@ -1,11 +1,12 @@
 ---
-title: "Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2607.28864
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28864
 next_step: skim
+priority: medium
+slack_ts: '1785986397.282459'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression
 ---
 # Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression
 > 原文: [https://arxiv.org/abs/2607.28864](https://arxiv.org/abs/2607.28864)

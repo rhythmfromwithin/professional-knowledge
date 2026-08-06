@@ -1,11 +1,13 @@
 ---
-title: "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.28631
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28631
 next_step: skim
+priority: high
+slack_ts: '1785986396.360059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research
+  Generation Systems Using Automated Multi-Model Review
 ---
 # Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review
 > 原文: [https://arxiv.org/abs/2607.28631](https://arxiv.org/abs/2607.28631)

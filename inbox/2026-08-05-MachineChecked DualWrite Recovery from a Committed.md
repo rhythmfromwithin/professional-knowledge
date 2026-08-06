@@ -1,11 +1,12 @@
 ---
-title: "Machine-Checked Dual-Write Recovery from a Committed Log"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.00501
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00501
 next_step: skim
+priority: low
+slack_ts: '1785986417.874849'
+source: cs.DB - Databases
+status: unread
+title: Machine-Checked Dual-Write Recovery from a Committed Log
 ---
 # Machine-Checked Dual-Write Recovery from a Committed Log
 > 原文: [https://arxiv.org/abs/2608.00501](https://arxiv.org/abs/2608.00501)

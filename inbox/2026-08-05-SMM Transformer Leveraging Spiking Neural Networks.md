@@ -1,11 +1,12 @@
 ---
-title: "SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.01622
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.01622
 next_step: skim
+priority: low
+slack_ts: '1785986421.490609'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks'
 ---
 # SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks
 > 原文: [https://arxiv.org/abs/2608.01622](https://arxiv.org/abs/2608.01622)

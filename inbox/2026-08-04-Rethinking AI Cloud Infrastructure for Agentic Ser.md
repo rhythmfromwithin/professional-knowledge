@@ -1,11 +1,13 @@
 ---
-title: "Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.29069
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.29069
 next_step: skim
+priority: medium
+slack_ts: '1785986406.734979'
+source: cs.DC - Distributed Computing
+status: unread
+title: Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries
+  Experimentation Framework
 ---
 # Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework
 > 原文: [https://arxiv.org/abs/2607.29069](https://arxiv.org/abs/2607.29069)

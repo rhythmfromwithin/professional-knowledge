@@ -1,11 +1,12 @@
 ---
-title: "Enforcing Access Control in Distributed Version Control Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.00132
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00132
 next_step: skim
+priority: low
+slack_ts: '1785986413.521869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Enforcing Access Control in Distributed Version Control Systems
 ---
 # Enforcing Access Control in Distributed Version Control Systems
 > 原文: [https://arxiv.org/abs/2608.00132](https://arxiv.org/abs/2608.00132)

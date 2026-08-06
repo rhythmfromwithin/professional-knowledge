@@ -1,11 +1,13 @@
 ---
-title: "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.28632
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28632
 next_step: skim
+priority: high
+slack_ts: '1785986402.344269'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'LLM Framework for Discovering Major Mathematical Conjectures: AI''s Quest
+  for the Next Riemann Hypothesis'
 ---
 # LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis
 > 原文: [https://arxiv.org/abs/2607.28632](https://arxiv.org/abs/2607.28632)

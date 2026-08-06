@@ -1,11 +1,13 @@
 ---
-title: "Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.28645
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28645
 next_step: skim
+priority: low
+slack_ts: '1785986402.526529'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile
+  App Generation'
 ---
 # Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation
 > 原文: [https://arxiv.org/abs/2607.28645](https://arxiv.org/abs/2607.28645)

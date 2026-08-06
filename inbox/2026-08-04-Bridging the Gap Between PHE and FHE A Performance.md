@@ -1,11 +1,13 @@
 ---
-title: "Bridging the Gap Between PHE and FHE: A Performance and Trade-off Analysis of The Somewhat Homomorphic BGN Cryptosystem"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.28700
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28700
 next_step: skim
+priority: low
+slack_ts: '1785986395.756309'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Bridging the Gap Between PHE and FHE: A Performance and Trade-off Analysis
+  of The Somewhat Homomorphic BGN Cryptosystem'
 ---
 # Bridging the Gap Between PHE and FHE: A Performance and Trade-off Analysis of The Somewhat Homomorphic BGN Cryptosystem
 > 原文: [https://arxiv.org/abs/2607.28700](https://arxiv.org/abs/2607.28700)

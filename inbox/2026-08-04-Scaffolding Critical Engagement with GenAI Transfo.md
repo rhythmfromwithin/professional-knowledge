@@ -1,11 +1,13 @@
 ---
-title: "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.28630
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28630
 next_step: skim
+priority: medium
+slack_ts: '1785986407.117439'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory
+  Students'' Collaborative Discourse in Prompt Engineering Tasks'
 ---
 # Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks
 > 原文: [https://arxiv.org/abs/2607.28630](https://arxiv.org/abs/2607.28630)

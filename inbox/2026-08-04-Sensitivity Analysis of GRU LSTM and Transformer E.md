@@ -1,11 +1,13 @@
 ---
-title: "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.28665
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28665
 next_step: skim
+priority: high
+slack_ts: '1785986407.492049'
+source: cs.LG - Machine Learning
+status: unread
+title: Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification
+  of Automated Driving Systems
 ---
 # Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems
 > 原文: [https://arxiv.org/abs/2607.28665](https://arxiv.org/abs/2607.28665)

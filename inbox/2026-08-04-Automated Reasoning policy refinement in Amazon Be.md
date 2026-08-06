@@ -1,11 +1,12 @@
 ---
-title: "Automated Reasoning policy refinement in Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1785986395.378499'
+source: AWS Blog
+status: unread
+title: Automated Reasoning policy refinement in Amazon Bedrock
 ---
 # Automated Reasoning policy refinement in Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)

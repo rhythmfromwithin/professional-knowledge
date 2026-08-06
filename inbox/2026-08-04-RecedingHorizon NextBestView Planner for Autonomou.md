@@ -1,11 +1,12 @@
 ---
-title: "Receding-Horizon Next-Best-View Planner for Autonomous Leaf Surface Reconstruction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2607.28995
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28995
 next_step: skim
+priority: medium
+slack_ts: '1785986406.490389'
+source: cs.RO - Robotics
+status: unread
+title: Receding-Horizon Next-Best-View Planner for Autonomous Leaf Surface Reconstruction
 ---
 # Receding-Horizon Next-Best-View Planner for Autonomous Leaf Surface Reconstruction
 > 原文: [https://arxiv.org/abs/2607.28995](https://arxiv.org/abs/2607.28995)

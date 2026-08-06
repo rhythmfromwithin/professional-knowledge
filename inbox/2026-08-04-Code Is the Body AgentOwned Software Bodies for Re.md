@@ -1,11 +1,13 @@
 ---
-title: "Code Is the Body: Agent-Owned Software Bodies for Recursive Evolution and Descent"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.28691
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28691
 next_step: skim
+priority: low
+slack_ts: '1785986396.913469'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Code Is the Body: Agent-Owned Software Bodies for Recursive Evolution and
+  Descent'
 ---
 # Code Is the Body: Agent-Owned Software Bodies for Recursive Evolution and Descent
 > 原文: [https://arxiv.org/abs/2607.28691](https://arxiv.org/abs/2607.28691)

@@ -1,11 +1,13 @@
 ---
-title: "Seeing Differently: Modeling Interpretive Perspectives in Computational Creativity using a Four-World Framework"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.28644
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28644
 next_step: skim
+priority: low
+slack_ts: '1785986407.303609'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Seeing Differently: Modeling Interpretive Perspectives in Computational Creativity
+  using a Four-World Framework'
 ---
 # Seeing Differently: Modeling Interpretive Perspectives in Computational Creativity using a Four-World Framework
 > 原文: [https://arxiv.org/abs/2607.28644](https://arxiv.org/abs/2607.28644)

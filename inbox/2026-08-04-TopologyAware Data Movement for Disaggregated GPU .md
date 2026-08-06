@@ -1,11 +1,12 @@
 ---
-title: "Topology-Aware Data Movement for Disaggregated GPU Inference"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.28633
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28633
 next_step: skim
+priority: high
+slack_ts: '1785986408.416099'
+source: cs.LG - Machine Learning
+status: unread
+title: Topology-Aware Data Movement for Disaggregated GPU Inference
 ---
 # Topology-Aware Data Movement for Disaggregated GPU Inference
 > 原文: [https://arxiv.org/abs/2607.28633](https://arxiv.org/abs/2607.28633)

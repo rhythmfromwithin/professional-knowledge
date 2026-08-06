@@ -1,11 +1,12 @@
 ---
-title: "But What Behavior?"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.28898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28898
 next_step: skim
+priority: low
+slack_ts: '1785986396.154229'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: But What Behavior?
 ---
 # But What Behavior?
 > 原文: [https://arxiv.org/abs/2607.28898](https://arxiv.org/abs/2607.28898)

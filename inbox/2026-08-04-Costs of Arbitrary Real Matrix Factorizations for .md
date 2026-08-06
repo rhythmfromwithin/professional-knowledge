@@ -1,11 +1,12 @@
 ---
-title: "Costs of Arbitrary Real Matrix Factorizations for Pure-DP Continual Counting"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2607.28703
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28703
 next_step: skim
+priority: low
+slack_ts: '1785986397.464719'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Costs of Arbitrary Real Matrix Factorizations for Pure-DP Continual Counting
 ---
 # Costs of Arbitrary Real Matrix Factorizations for Pure-DP Continual Counting
 > 原文: [https://arxiv.org/abs/2607.28703](https://arxiv.org/abs/2607.28703)

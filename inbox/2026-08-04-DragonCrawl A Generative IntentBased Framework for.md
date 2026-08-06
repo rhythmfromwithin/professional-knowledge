@@ -1,11 +1,13 @@
 ---
-title: "DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.28750
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28750
 next_step: skim
+priority: low
+slack_ts: '1785986398.370419'
+source: cs.SE - Software Engineering
+status: unread
+title: 'DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End
+  Testing'
 ---
 # DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing
 > 原文: [https://arxiv.org/abs/2607.28750](https://arxiv.org/abs/2607.28750)

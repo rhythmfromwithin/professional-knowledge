@@ -1,11 +1,12 @@
 ---
-title: "A Portable and Versatile Limited-Memory BFGS Implementation in PETSc/TAO"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.00196
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00196
 next_step: skim
+priority: medium
+slack_ts: '1785986409.424459'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Portable and Versatile Limited-Memory BFGS Implementation in PETSc/TAO
 ---
 # A Portable and Versatile Limited-Memory BFGS Implementation in PETSc/TAO
 > 原文: [https://arxiv.org/abs/2608.00196](https://arxiv.org/abs/2608.00196)

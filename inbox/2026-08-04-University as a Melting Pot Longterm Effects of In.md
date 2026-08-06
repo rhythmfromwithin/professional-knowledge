@@ -1,11 +1,12 @@
 ---
-title: "University as a Melting Pot: Long-term Effects of Internationalization"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.28842
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28842
 next_step: skim
+priority: low
+slack_ts: '1785986408.600189'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'University as a Melting Pot: Long-term Effects of Internationalization'
 ---
 # University as a Melting Pot: Long-term Effects of Internationalization
 > 原文: [https://arxiv.org/abs/2607.28842](https://arxiv.org/abs/2607.28842)

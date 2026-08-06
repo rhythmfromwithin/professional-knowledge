@@ -1,11 +1,13 @@
 ---
-title: "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2607.28629
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28629
 next_step: skim
+priority: high
+slack_ts: '1785986403.643899'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI
+  Agent Systems'
 ---
 # OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems
 > 原文: [https://arxiv.org/abs/2607.28629](https://arxiv.org/abs/2607.28629)

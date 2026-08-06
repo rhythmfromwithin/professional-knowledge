@@ -1,11 +1,13 @@
 ---
-title: "Metaphor-Induced Algorithmic Steering: Cross-Domain Procedural Transfer in LLM Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2607.28683
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28683
 next_step: skim
+priority: low
+slack_ts: '1785986402.896219'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Metaphor-Induced Algorithmic Steering: Cross-Domain Procedural Transfer in
+  LLM Code Generation'
 ---
 # Metaphor-Induced Algorithmic Steering: Cross-Domain Procedural Transfer in LLM Code Generation
 > 原文: [https://arxiv.org/abs/2607.28683](https://arxiv.org/abs/2607.28683)

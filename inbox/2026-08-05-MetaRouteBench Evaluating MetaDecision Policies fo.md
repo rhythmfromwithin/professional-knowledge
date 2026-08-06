@@ -1,11 +1,12 @@
 ---
-title: "MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.00107
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00107
 next_step: skim
+priority: high
+slack_ts: '1785986418.456349'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing'
 ---
 # MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing
 > 原文: [https://arxiv.org/abs/2608.00107](https://arxiv.org/abs/2608.00107)

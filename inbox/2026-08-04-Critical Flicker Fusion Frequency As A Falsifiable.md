@@ -1,11 +1,13 @@
 ---
-title: "Critical Flicker Fusion Frequency As A Falsifiable Boundary Between Plastic And Non-Plastic Neural Systems"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.29068
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.29068
 next_step: skim
+priority: low
+slack_ts: '1785986397.648999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Critical Flicker Fusion Frequency As A Falsifiable Boundary Between Plastic
+  And Non-Plastic Neural Systems
 ---
 # Critical Flicker Fusion Frequency As A Falsifiable Boundary Between Plastic And Non-Plastic Neural Systems
 > 原文: [https://arxiv.org/abs/2607.29068](https://arxiv.org/abs/2607.29068)

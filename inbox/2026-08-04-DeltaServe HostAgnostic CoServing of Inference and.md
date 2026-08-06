@@ -1,11 +1,12 @@
 ---
-title: "DeltaServe: Host-Agnostic Co-Serving of Inference and Fine-Tuning for LLMs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2607.28848
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28848
 next_step: skim
+priority: medium
+slack_ts: '1785986398.005339'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DeltaServe: Host-Agnostic Co-Serving of Inference and Fine-Tuning for LLMs'
 ---
 # DeltaServe: Host-Agnostic Co-Serving of Inference and Fine-Tuning for LLMs
 > 原文: [https://arxiv.org/abs/2607.28848](https://arxiv.org/abs/2607.28848)

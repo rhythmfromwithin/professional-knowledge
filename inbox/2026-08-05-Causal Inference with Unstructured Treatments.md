@@ -1,11 +1,12 @@
 ---
-title: "Causal Inference with Unstructured Treatments"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.00657
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00657
 next_step: skim
+priority: medium
+slack_ts: '1785986411.486529'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Causal Inference with Unstructured Treatments
 ---
 # Causal Inference with Unstructured Treatments
 > 原文: [https://arxiv.org/abs/2608.00657](https://arxiv.org/abs/2608.00657)

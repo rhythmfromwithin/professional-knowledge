@@ -1,11 +1,13 @@
 ---
-title: "NeuroSynth: A Biologically Inspired Continual Reinforcement Learning Architecture for Mitigating Catastrophic Forgetting"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2607.28663
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28663
 next_step: skim
+priority: low
+slack_ts: '1785986403.442359'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'NeuroSynth: A Biologically Inspired Continual Reinforcement Learning Architecture
+  for Mitigating Catastrophic Forgetting'
 ---
 # NeuroSynth: A Biologically Inspired Continual Reinforcement Learning Architecture for Mitigating Catastrophic Forgetting
 > 原文: [https://arxiv.org/abs/2607.28663](https://arxiv.org/abs/2607.28663)

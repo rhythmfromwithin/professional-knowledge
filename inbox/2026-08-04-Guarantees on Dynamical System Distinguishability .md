@@ -1,11 +1,12 @@
 ---
-title: "Guarantees on Dynamical System Distinguishability for LLM Token Generation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2607.28667
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28667
 next_step: skim
+priority: high
+slack_ts: '1785986400.405569'
+source: cs.LG - Machine Learning
+status: unread
+title: Guarantees on Dynamical System Distinguishability for LLM Token Generation
 ---
 # Guarantees on Dynamical System Distinguishability for LLM Token Generation
 > 原文: [https://arxiv.org/abs/2607.28667](https://arxiv.org/abs/2607.28667)

@@ -1,11 +1,13 @@
 ---
-title: "MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2607.29173
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.29173
 next_step: skim
+priority: low
+slack_ts: '1785986402.713769'
+source: cs.DB - Databases
+status: unread
+title: 'MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest
+  Neighbor Indexes'
 ---
 # MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes
 > 原文: [https://arxiv.org/abs/2607.29173](https://arxiv.org/abs/2607.29173)

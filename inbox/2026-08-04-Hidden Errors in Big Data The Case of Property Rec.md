@@ -1,11 +1,12 @@
 ---
-title: "Hidden Errors in Big Data: The Case of Property Records"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2607.28827
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28827
 next_step: skim
+priority: medium
+slack_ts: '1785986400.787049'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Hidden Errors in Big Data: The Case of Property Records'
 ---
 # Hidden Errors in Big Data: The Case of Property Records
 > 原文: [https://arxiv.org/abs/2607.28827](https://arxiv.org/abs/2607.28827)

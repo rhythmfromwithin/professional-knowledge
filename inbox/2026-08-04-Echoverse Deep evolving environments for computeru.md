@@ -1,11 +1,12 @@
 ---
-title: "Echoverse: Deep, evolving environments for computer-use agents"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/
 next_step: skim
+priority: high
+slack_ts: '1785986398.557619'
+source: Microsoft Research
+status: unread
+title: 'Echoverse: Deep, evolving environments for computer-use agents'
 ---
 # Echoverse: Deep, evolving environments for computer-use agents
 > 原文: [https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/)

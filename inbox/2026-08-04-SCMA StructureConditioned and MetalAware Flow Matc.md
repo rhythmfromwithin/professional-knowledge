@@ -1,11 +1,13 @@
 ---
-title: "SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2607.28759
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28759
 next_step: skim
+priority: medium
+slack_ts: '1785986406.930539'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact
+  Reduction'
 ---
 # SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction
 > 原文: [https://arxiv.org/abs/2607.28759](https://arxiv.org/abs/2607.28759)

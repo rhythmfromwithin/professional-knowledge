@@ -1,11 +1,13 @@
 ---
-title: "To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2607.28643
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28643
 next_step: skim
+priority: low
+slack_ts: '1785986408.238959'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in
+  Online Discussions'
 ---
 # To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
 > 原文: [https://arxiv.org/abs/2607.28643](https://arxiv.org/abs/2607.28643)
