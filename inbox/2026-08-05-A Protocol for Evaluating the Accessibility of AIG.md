@@ -1,11 +1,13 @@
 ---
-title: "A Protocol for Evaluating the Accessibility of AI-Generated Educational Materials: Prompt Configuration, WCAG-Derived Criteria, and Content Overload"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.00749
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00749
 next_step: skim
+priority: medium
+slack_ts: '1786072098.825299'
+source: cs.CY - Computers and Society
+status: unread
+title: 'A Protocol for Evaluating the Accessibility of AI-Generated Educational Materials:
+  Prompt Configuration, WCAG-Derived Criteria, and Content Overload'
 ---
 # A Protocol for Evaluating the Accessibility of AI-Generated Educational Materials: Prompt Configuration, WCAG-Derived Criteria, and Content Overload
 > 原文: [https://arxiv.org/abs/2608.00749](https://arxiv.org/abs/2608.00749)

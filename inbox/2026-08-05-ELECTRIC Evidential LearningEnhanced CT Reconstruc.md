@@ -1,11 +1,12 @@
 ---
-title: "ELECTRIC: Evidential Learning-Enhanced CT Reconstruction via Iterative Correction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.00060
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00060
 next_step: skim
+priority: medium
+slack_ts: '1786072100.971329'
+source: cs.CV - Computer Vision
+status: unread
+title: 'ELECTRIC: Evidential Learning-Enhanced CT Reconstruction via Iterative Correction'
 ---
 # ELECTRIC: Evidential Learning-Enhanced CT Reconstruction via Iterative Correction
 > 原文: [https://arxiv.org/abs/2608.00060](https://arxiv.org/abs/2608.00060)

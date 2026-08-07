@@ -1,11 +1,13 @@
 ---
-title: "MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.02613
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02613
 next_step: skim
+priority: high
+slack_ts: '1786072107.390939'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants
+  at Scale'
 ---
 # MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale
 > 原文: [https://arxiv.org/abs/2608.02613](https://arxiv.org/abs/2608.02613)

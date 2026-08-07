@@ -1,11 +1,13 @@
 ---
-title: "Data augmentation as a framework for modeling hippocampal contributions to generalization"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.01297
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.01297
 next_step: skim
+priority: low
+slack_ts: '1786072100.551809'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Data augmentation as a framework for modeling hippocampal contributions to
+  generalization
 ---
 # Data augmentation as a framework for modeling hippocampal contributions to generalization
 > 原文: [https://arxiv.org/abs/2608.01297](https://arxiv.org/abs/2608.01297)

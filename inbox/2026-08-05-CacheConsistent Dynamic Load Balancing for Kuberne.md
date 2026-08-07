@@ -1,11 +1,12 @@
 ---
-title: "Cache-Consistent Dynamic Load Balancing for Kubernetes Controllers"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.00454
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00454
 next_step: skim
+priority: medium
+slack_ts: '1786072099.756909'
+source: cs.DC - Distributed Computing
+status: unread
+title: Cache-Consistent Dynamic Load Balancing for Kubernetes Controllers
 ---
 # Cache-Consistent Dynamic Load Balancing for Kubernetes Controllers
 > 原文: [https://arxiv.org/abs/2608.00454](https://arxiv.org/abs/2608.00454)

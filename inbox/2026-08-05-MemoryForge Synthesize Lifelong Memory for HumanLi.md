@@ -1,11 +1,12 @@
 ---
-title: "MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.00007
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00007
 next_step: skim
+priority: high
+slack_ts: '1786072102.973589'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents'
 ---
 # MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents
 > 原文: [https://arxiv.org/abs/2608.00007](https://arxiv.org/abs/2608.00007)

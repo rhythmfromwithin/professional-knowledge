@@ -1,11 +1,13 @@
 ---
-title: "Modelling Android applications through static analysis and systematic exploratory testing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.00228
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00228
 next_step: skim
+priority: low
+slack_ts: '1786072103.203929'
+source: cs.SE - Software Engineering
+status: unread
+title: Modelling Android applications through static analysis and systematic exploratory
+  testing
 ---
 # Modelling Android applications through static analysis and systematic exploratory testing
 > 原文: [https://arxiv.org/abs/2608.00228](https://arxiv.org/abs/2608.00228)

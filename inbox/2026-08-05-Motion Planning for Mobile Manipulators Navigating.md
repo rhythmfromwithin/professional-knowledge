@@ -1,11 +1,13 @@
 ---
-title: "Motion Planning for Mobile Manipulators Navigating Doorways via Model Predictive Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.00206
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00206
 next_step: skim
+priority: medium
+slack_ts: '1786072103.369739'
+source: cs.RO - Robotics
+status: unread
+title: Motion Planning for Mobile Manipulators Navigating Doorways via Model Predictive
+  Control
 ---
 # Motion Planning for Mobile Manipulators Navigating Doorways via Model Predictive Control
 > 原文: [https://arxiv.org/abs/2608.00206](https://arxiv.org/abs/2608.00206)

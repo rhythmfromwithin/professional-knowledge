@@ -1,11 +1,13 @@
 ---
-title: "A reproducible and extensible framework for benchmarking competing risks survival models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.00271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00271
 next_step: skim
+priority: medium
+slack_ts: '1786072098.917589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A reproducible and extensible framework for benchmarking competing risks survival
+  models
 ---
 # A reproducible and extensible framework for benchmarking competing risks survival models
 > 原文: [https://arxiv.org/abs/2608.00271](https://arxiv.org/abs/2608.00271)

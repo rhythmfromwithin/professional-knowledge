@@ -1,11 +1,13 @@
 ---
-title: "CodeStylist: Supporting Early Undergraduate Programmers with Course-Aware Code Style Feedback"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.00839
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00839
 next_step: skim
+priority: medium
+slack_ts: '1786072100.001909'
+source: cs.CY - Computers and Society
+status: unread
+title: 'CodeStylist: Supporting Early Undergraduate Programmers with Course-Aware
+  Code Style Feedback'
 ---
 # CodeStylist: Supporting Early Undergraduate Programmers with Course-Aware Code Style Feedback
 > 原文: [https://arxiv.org/abs/2608.00839](https://arxiv.org/abs/2608.00839)

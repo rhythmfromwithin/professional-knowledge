@@ -1,11 +1,13 @@
 ---
-title: "metasignal: A Python Package for Comprehensive Metacognitive Analysis and Decision-Making"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.29093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.29093
 next_step: skim
+priority: low
+slack_ts: '1786072098.728229'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'metasignal: A Python Package for Comprehensive Metacognitive Analysis and
+  Decision-Making'
 ---
 # metasignal: A Python Package for Comprehensive Metacognitive Analysis and Decision-Making
 > 原文: [https://arxiv.org/abs/2607.29093](https://arxiv.org/abs/2607.29093)

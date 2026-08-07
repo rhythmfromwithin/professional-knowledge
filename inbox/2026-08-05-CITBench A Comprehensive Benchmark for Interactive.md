@@ -1,11 +1,13 @@
 ---
-title: "CITBench: A Comprehensive Benchmark for Interactive Tabular Data Processing with LLMs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.00018
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00018
 next_step: skim
+priority: low
+slack_ts: '1786072099.672439'
+source: cs.DB - Databases
+status: unread
+title: 'CITBench: A Comprehensive Benchmark for Interactive Tabular Data Processing
+  with LLMs'
 ---
 # CITBench: A Comprehensive Benchmark for Interactive Tabular Data Processing with LLMs
 > 原文: [https://arxiv.org/abs/2608.00018](https://arxiv.org/abs/2608.00018)

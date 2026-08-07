@@ -1,11 +1,12 @@
 ---
-title: "Automated web insight extraction with Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786072099.491699'
+source: AWS Blog
+status: unread
+title: Automated web insight extraction with Amazon Bedrock AgentCore
 ---
 # Automated web insight extraction with Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)

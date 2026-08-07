@@ -1,11 +1,12 @@
 ---
-title: "Google's AI & Economy ATLAS v1.0: Mapping Gemini Usage in the Economy"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.00038
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00038
 next_step: skim
+priority: low
+slack_ts: '1786072102.089879'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Google''s AI & Economy ATLAS v1.0: Mapping Gemini Usage in the Economy'
 ---
 # Google's AI & Economy ATLAS v1.0: Mapping Gemini Usage in the Economy
 > 原文: [https://arxiv.org/abs/2608.00038](https://arxiv.org/abs/2608.00038)

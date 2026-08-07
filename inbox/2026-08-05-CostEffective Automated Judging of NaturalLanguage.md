@@ -1,11 +1,12 @@
 ---
-title: "Cost-Effective Automated Judging of Natural-Language Mathematical Proofs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.00004
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00004
 next_step: skim
+priority: high
+slack_ts: '1786072100.378549'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Cost-Effective Automated Judging of Natural-Language Mathematical Proofs
 ---
 # Cost-Effective Automated Judging of Natural-Language Mathematical Proofs
 > 原文: [https://arxiv.org/abs/2608.00004](https://arxiv.org/abs/2608.00004)

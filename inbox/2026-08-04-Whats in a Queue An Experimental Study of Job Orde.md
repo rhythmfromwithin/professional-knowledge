@@ -1,11 +1,13 @@
 ---
-title: "What's in a Queue? An Experimental Study of Job Ordering, Autonomy and Queue Visibility"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.28820
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.28820
 next_step: skim
+priority: low
+slack_ts: '1786072098.631459'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: What's in a Queue? An Experimental Study of Job Ordering, Autonomy and Queue
+  Visibility
 ---
 # What's in a Queue? An Experimental Study of Job Ordering, Autonomy and Queue Visibility
 > 原文: [https://arxiv.org/abs/2607.28820](https://arxiv.org/abs/2607.28820)

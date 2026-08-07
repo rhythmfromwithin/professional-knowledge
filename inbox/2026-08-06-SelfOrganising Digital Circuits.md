@@ -1,11 +1,12 @@
 ---
-title: "Self-Organising Digital Circuits"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.02606
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02606
 next_step: skim
+priority: high
+slack_ts: '1786072108.408909'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Self-Organising Digital Circuits
 ---
 # Self-Organising Digital Circuits
 > 原文: [https://arxiv.org/abs/2608.02606](https://arxiv.org/abs/2608.02606)

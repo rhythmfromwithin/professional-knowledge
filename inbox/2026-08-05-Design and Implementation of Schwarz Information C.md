@@ -1,11 +1,13 @@
 ---
-title: "Design and Implementation of Schwarz Information Criterion-Aided Intelligent Decentralized Resource Allocation in Dynamic LoRa Networks"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.00409
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00409
 next_step: skim
+priority: medium
+slack_ts: '1786072100.721119'
+source: cs.DC - Distributed Computing
+status: unread
+title: Design and Implementation of Schwarz Information Criterion-Aided Intelligent
+  Decentralized Resource Allocation in Dynamic LoRa Networks
 ---
 # Design and Implementation of Schwarz Information Criterion-Aided Intelligent Decentralized Resource Allocation in Dynamic LoRa Networks
 > 原文: [https://arxiv.org/abs/2608.00409](https://arxiv.org/abs/2608.00409)

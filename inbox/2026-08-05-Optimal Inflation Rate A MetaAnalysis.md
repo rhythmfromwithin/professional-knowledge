@@ -1,11 +1,12 @@
 ---
-title: "Optimal Inflation Rate: A Meta-Analysis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.00567
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00567
 next_step: skim
+priority: low
+slack_ts: '1786072103.545479'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Optimal Inflation Rate: A Meta-Analysis'
 ---
 # Optimal Inflation Rate: A Meta-Analysis
 > 原文: [https://arxiv.org/abs/2608.00567](https://arxiv.org/abs/2608.00567)

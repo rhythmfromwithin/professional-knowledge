@@ -1,11 +1,13 @@
 ---
-title: "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.00006
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00006
 next_step: skim
+priority: high
+slack_ts: '1786072101.090789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation
+  in SMEs: A RAG-based Modeling and Analysis'
 ---
 # Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis
 > 原文: [https://arxiv.org/abs/2608.00006](https://arxiv.org/abs/2608.00006)

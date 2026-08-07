@@ -1,11 +1,12 @@
 ---
-title: "Introducing Web Search on Amazon Bedrock for foundation model grounding"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/
 next_step: skim
+priority: high
+slack_ts: '1786072102.449109'
+source: AWS Blog
+status: unread
+title: Introducing Web Search on Amazon Bedrock for foundation model grounding
 ---
 # Introducing Web Search on Amazon Bedrock for foundation model grounding
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)

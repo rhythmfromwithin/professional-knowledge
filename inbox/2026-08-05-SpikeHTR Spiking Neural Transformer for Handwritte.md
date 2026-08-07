@@ -1,11 +1,12 @@
 ---
-title: "Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.01646
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.01646
 next_step: skim
+priority: low
+slack_ts: '1786072104.400979'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition'
 ---
 # Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition
 > 原文: [https://arxiv.org/abs/2608.01646](https://arxiv.org/abs/2608.01646)

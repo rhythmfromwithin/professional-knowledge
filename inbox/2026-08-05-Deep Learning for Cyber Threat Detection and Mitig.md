@@ -1,11 +1,12 @@
 ---
-title: "Deep Learning for Cyber Threat Detection and Mitigation in Healthcare-IoT"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.00118
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00118
 next_step: skim
+priority: low
+slack_ts: '1786072100.636099'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Deep Learning for Cyber Threat Detection and Mitigation in Healthcare-IoT
 ---
 # Deep Learning for Cyber Threat Detection and Mitigation in Healthcare-IoT
 > 原文: [https://arxiv.org/abs/2608.00118](https://arxiv.org/abs/2608.00118)

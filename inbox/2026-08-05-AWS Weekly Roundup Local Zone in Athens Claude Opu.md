@@ -1,11 +1,13 @@
 ---
-title: "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/
 next_step: skim
+priority: high
+slack_ts: '1786072099.007959'
+source: AWS Blog
+status: unread
+title: 'AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable
+  execution for .NET, and more (July 27, 2026)'
 ---
 # AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)
 > 原文: [https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/)

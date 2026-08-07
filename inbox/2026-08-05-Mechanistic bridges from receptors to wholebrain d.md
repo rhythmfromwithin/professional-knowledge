@@ -1,11 +1,13 @@
 ---
-title: "Mechanistic bridges from receptors to whole-brain dynamics: mean-field reductions, validity domains, and computational trade-offs"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.00306
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00306
 next_step: skim
+priority: low
+slack_ts: '1786072102.885779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Mechanistic bridges from receptors to whole-brain dynamics: mean-field reductions,
+  validity domains, and computational trade-offs'
 ---
 # Mechanistic bridges from receptors to whole-brain dynamics: mean-field reductions, validity domains, and computational trade-offs
 > 原文: [https://arxiv.org/abs/2608.00306](https://arxiv.org/abs/2608.00306)

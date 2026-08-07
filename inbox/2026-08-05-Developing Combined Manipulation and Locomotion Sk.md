@@ -1,11 +1,13 @@
 ---
-title: "Developing Combined Manipulation and Locomotion Skills with Interaction Representation and Skill Composition"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.00208
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00208
 next_step: skim
+priority: medium
+slack_ts: '1786072100.802329'
+source: cs.RO - Robotics
+status: unread
+title: Developing Combined Manipulation and Locomotion Skills with Interaction Representation
+  and Skill Composition
 ---
 # Developing Combined Manipulation and Locomotion Skills with Interaction Representation and Skill Composition
 > 原文: [https://arxiv.org/abs/2608.00208](https://arxiv.org/abs/2608.00208)

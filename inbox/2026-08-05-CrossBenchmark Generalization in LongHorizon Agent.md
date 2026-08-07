@@ -1,11 +1,12 @@
 ---
-title: "Cross-Benchmark Generalization in Long-Horizon Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.00181
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00181
 next_step: skim
+priority: low
+slack_ts: '1786072100.466829'
+source: cs.SE - Software Engineering
+status: unread
+title: Cross-Benchmark Generalization in Long-Horizon Agents
 ---
 # Cross-Benchmark Generalization in Long-Horizon Agents
 > 原文: [https://arxiv.org/abs/2608.00181](https://arxiv.org/abs/2608.00181)

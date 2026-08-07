@@ -1,11 +1,12 @@
 ---
-title: "Global coal trade is resilient to maritime chokepoints"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.00328
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00328
 next_step: skim
+priority: low
+slack_ts: '1786072102.006379'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Global coal trade is resilient to maritime chokepoints
 ---
 # Global coal trade is resilient to maritime chokepoints
 > 原文: [https://arxiv.org/abs/2608.00328](https://arxiv.org/abs/2608.00328)

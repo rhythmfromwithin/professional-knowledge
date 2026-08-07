@@ -1,11 +1,13 @@
 ---
-title: "Optimising for Flourishing: Flourishing Metrics and Return on Flourishing as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.00151
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00151
 next_step: skim
+priority: medium
+slack_ts: '1786072103.633879'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Optimising for Flourishing: Flourishing Metrics and Return on Flourishing
+  as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems'
 ---
 # Optimising for Flourishing: Flourishing Metrics and Return on Flourishing as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems
 > 原文: [https://arxiv.org/abs/2608.00151](https://arxiv.org/abs/2608.00151)

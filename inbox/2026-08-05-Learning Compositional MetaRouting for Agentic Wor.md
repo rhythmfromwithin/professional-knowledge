@@ -1,11 +1,12 @@
 ---
-title: "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.00106
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00106
 next_step: skim
+priority: high
+slack_ts: '1786072102.795589'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark'
 ---
 # Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark
 > 原文: [https://arxiv.org/abs/2608.00106](https://arxiv.org/abs/2608.00106)
