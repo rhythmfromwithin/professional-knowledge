@@ -1,11 +1,13 @@
 ---
-title: "Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the Mecelle as Its Semantic Protocol"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.04011
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04011
 next_step: skim
+priority: medium
+slack_ts: '1786154717.353119'
+source: cs.CY - Computers and Society
+status: unread
+title: Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the
+  Mecelle as Its Semantic Protocol
 ---
 # Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the Mecelle as Its Semantic Protocol
 > 原文: [https://arxiv.org/abs/2608.04011](https://arxiv.org/abs/2608.04011)

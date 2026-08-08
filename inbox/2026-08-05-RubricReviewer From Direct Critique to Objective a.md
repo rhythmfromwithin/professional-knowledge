@@ -1,11 +1,13 @@
 ---
-title: "RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven Peer Review"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.00005
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00005
 next_step: skim
+priority: high
+slack_ts: '1786154680.770029'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven
+  Peer Review'
 ---
 # RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven Peer Review
 > 原文: [https://arxiv.org/abs/2608.00005](https://arxiv.org/abs/2608.00005)

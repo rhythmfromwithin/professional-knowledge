@@ -1,11 +1,13 @@
 ---
-title: "NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.03187
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.03187
 next_step: skim
+priority: low
+slack_ts: '1786154694.454579'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for
+  Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives'
 ---
 # NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives
 > 原文: [https://arxiv.org/abs/2608.03187](https://arxiv.org/abs/2608.03187)

@@ -1,11 +1,13 @@
 ---
-title: "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.03206
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.03206
 next_step: skim
+priority: medium
+slack_ts: '1786154687.598409'
+source: cs.CY - Computers and Society
+status: unread
+title: 'EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated
+  Learners'
 ---
 # EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
 > 原文: [https://arxiv.org/abs/2608.03206](https://arxiv.org/abs/2608.03206)

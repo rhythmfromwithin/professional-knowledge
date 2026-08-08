@@ -1,11 +1,13 @@
 ---
-title: "Micro-Segmentation Anomaly Detection in Zero-Trust Software-Defined Network Fabrics"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.02627
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02627
 next_step: skim
+priority: low
+slack_ts: '1786154693.695359'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Micro-Segmentation Anomaly Detection in Zero-Trust Software-Defined Network
+  Fabrics
 ---
 # Micro-Segmentation Anomaly Detection in Zero-Trust Software-Defined Network Fabrics
 > 原文: [https://arxiv.org/abs/2608.02627](https://arxiv.org/abs/2608.02627)

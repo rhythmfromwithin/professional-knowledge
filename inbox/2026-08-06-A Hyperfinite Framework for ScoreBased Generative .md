@@ -1,11 +1,12 @@
 ---
-title: "A Hyperfinite Framework for Score-Based Generative Modeling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.02799
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02799
 next_step: skim
+priority: medium
+slack_ts: '1786154683.315839'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Hyperfinite Framework for Score-Based Generative Modeling
 ---
 # A Hyperfinite Framework for Score-Based Generative Modeling
 > 原文: [https://arxiv.org/abs/2608.02799](https://arxiv.org/abs/2608.02799)

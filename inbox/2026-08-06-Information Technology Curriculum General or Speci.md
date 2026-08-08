@@ -1,11 +1,13 @@
 ---
-title: "Information Technology Curriculum: General or Specialized? An Australia's Census Study"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.02952
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02952
 next_step: skim
+priority: medium
+slack_ts: '1786154691.660689'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Information Technology Curriculum: General or Specialized? An Australia''s
+  Census Study'
 ---
 # Information Technology Curriculum: General or Specialized? An Australia's Census Study
 > 原文: [https://arxiv.org/abs/2608.02952](https://arxiv.org/abs/2608.02952)

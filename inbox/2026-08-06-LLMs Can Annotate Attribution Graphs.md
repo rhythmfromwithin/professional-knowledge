@@ -1,11 +1,12 @@
 ---
-title: "LLMs Can Annotate Attribution Graphs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.02632
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02632
 next_step: skim
+priority: high
+slack_ts: '1786154693.199459'
+source: cs.LG - Machine Learning
+status: unread
+title: LLMs Can Annotate Attribution Graphs
 ---
 # LLMs Can Annotate Attribution Graphs
 > 原文: [https://arxiv.org/abs/2608.02632](https://arxiv.org/abs/2608.02632)

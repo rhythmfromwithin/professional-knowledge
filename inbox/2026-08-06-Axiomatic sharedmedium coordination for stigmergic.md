@@ -1,11 +1,12 @@
 ---
-title: "Axiomatic shared-medium coordination for stigmergic systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.02619
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02619
 next_step: skim
+priority: medium
+slack_ts: '1786154685.080729'
+source: cs.DC - Distributed Computing
+status: unread
+title: Axiomatic shared-medium coordination for stigmergic systems
 ---
 # Axiomatic shared-medium coordination for stigmergic systems
 > 原文: [https://arxiv.org/abs/2608.02619](https://arxiv.org/abs/2608.02619)

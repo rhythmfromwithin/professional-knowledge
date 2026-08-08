@@ -1,11 +1,13 @@
 ---
-title: "Source Code Authorship Attribution Does Not Generalize from Competitions to Classrooms"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.00227
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00227
 next_step: skim
+priority: low
+slack_ts: '1786154681.546179'
+source: cs.SE - Software Engineering
+status: unread
+title: Source Code Authorship Attribution Does Not Generalize from Competitions to
+  Classrooms
 ---
 # Source Code Authorship Attribution Does Not Generalize from Competitions to Classrooms
 > 原文: [https://arxiv.org/abs/2608.00227](https://arxiv.org/abs/2608.00227)

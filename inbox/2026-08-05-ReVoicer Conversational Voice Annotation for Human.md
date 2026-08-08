@@ -1,11 +1,13 @@
 ---
-title: "ReVoicer: Conversational Voice Annotation for Human-Centered, LLM-Assisted Peer Review"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.00299
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00299
 next_step: skim
+priority: low
+slack_ts: '1786154679.734229'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'ReVoicer: Conversational Voice Annotation for Human-Centered, LLM-Assisted
+  Peer Review'
 ---
 # ReVoicer: Conversational Voice Annotation for Human-Centered, LLM-Assisted Peer Review
 > 原文: [https://arxiv.org/abs/2608.00299](https://arxiv.org/abs/2608.00299)

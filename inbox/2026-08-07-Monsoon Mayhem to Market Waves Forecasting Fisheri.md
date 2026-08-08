@@ -1,11 +1,12 @@
 ---
-title: "Monsoon Mayhem to Market Waves: Forecasting Fisheries Resilience in Sri Lanka"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.04023
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04023
 next_step: skim
+priority: low
+slack_ts: '1786154713.207119'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Monsoon Mayhem to Market Waves: Forecasting Fisheries Resilience in Sri Lanka'
 ---
 # Monsoon Mayhem to Market Waves: Forecasting Fisheries Resilience in Sri Lanka
 > 原文: [https://arxiv.org/abs/2608.04023](https://arxiv.org/abs/2608.04023)

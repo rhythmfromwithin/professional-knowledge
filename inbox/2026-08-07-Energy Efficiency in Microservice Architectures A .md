@@ -1,11 +1,12 @@
 ---
-title: "Energy Efficiency in Microservice Architectures: A Systematic Literature Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.04070
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04070
 next_step: skim
+priority: low
+slack_ts: '1786154707.255029'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Energy Efficiency in Microservice Architectures: A Systematic Literature Review'
 ---
 # Energy Efficiency in Microservice Architectures: A Systematic Literature Review
 > 原文: [https://arxiv.org/abs/2608.04070](https://arxiv.org/abs/2608.04070)

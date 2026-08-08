@@ -1,11 +1,12 @@
 ---
-title: "A Distributed Quantum Approximate Optimization Algorithm For Unit Commitment"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.04159
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04159
 next_step: skim
+priority: medium
+slack_ts: '1786154700.294309'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Distributed Quantum Approximate Optimization Algorithm For Unit Commitment
 ---
 # A Distributed Quantum Approximate Optimization Algorithm For Unit Commitment
 > 原文: [https://arxiv.org/abs/2608.04159](https://arxiv.org/abs/2608.04159)

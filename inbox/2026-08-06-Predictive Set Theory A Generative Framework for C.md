@@ -1,11 +1,13 @@
 ---
-title: "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.02704
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02704
 next_step: skim
+priority: low
+slack_ts: '1786154696.255689'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Predictive Set Theory: A Generative Framework for Cognitive Architecture with
+  Operationalized Core Mechanisms'
 ---
 # Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms
 > 原文: [https://arxiv.org/abs/2608.02704](https://arxiv.org/abs/2608.02704)

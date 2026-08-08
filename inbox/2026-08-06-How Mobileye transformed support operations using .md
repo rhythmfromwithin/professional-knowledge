@@ -1,11 +1,12 @@
 ---
-title: "How Mobileye transformed support operations using Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786154690.651749'
+source: AWS Blog
+status: unread
+title: How Mobileye transformed support operations using Amazon Bedrock AgentCore
 ---
 # How Mobileye transformed support operations using Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/)

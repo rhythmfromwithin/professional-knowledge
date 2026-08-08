@@ -1,11 +1,12 @@
 ---
-title: "ISEE: Interactive Semantic Enrichment for Database Fields"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.02604
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02604
 next_step: skim
+priority: high
+slack_ts: '1786154691.154169'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ISEE: Interactive Semantic Enrichment for Database Fields'
 ---
 # ISEE: Interactive Semantic Enrichment for Database Fields
 > 原文: [https://arxiv.org/abs/2608.02604](https://arxiv.org/abs/2608.02604)

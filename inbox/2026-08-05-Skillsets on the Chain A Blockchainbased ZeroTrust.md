@@ -1,11 +1,13 @@
 ---
-title: "Skillsets on the Chain: A Blockchain-based Zero-Trust Framework for Agentic AI Networking"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.00104
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00104
 next_step: skim
+priority: low
+slack_ts: '1786154681.287989'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Skillsets on the Chain: A Blockchain-based Zero-Trust Framework for Agentic
+  AI Networking'
 ---
 # Skillsets on the Chain: A Blockchain-based Zero-Trust Framework for Agentic AI Networking
 > 原文: [https://arxiv.org/abs/2608.00104](https://arxiv.org/abs/2608.00104)

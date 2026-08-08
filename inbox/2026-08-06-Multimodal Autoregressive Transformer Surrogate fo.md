@@ -1,11 +1,13 @@
 ---
-title: "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.02629
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02629
 next_step: skim
+priority: high
+slack_ts: '1786154694.207569'
+source: cs.LG - Machine Learning
+status: unread
+title: Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations
+  and Quantifying Uncertainty in Geological Carbon Storage
 ---
 # Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage
 > 原文: [https://arxiv.org/abs/2608.02629](https://arxiv.org/abs/2608.02629)

@@ -1,11 +1,13 @@
 ---
-title: "Intrinsic-Hybrid Latent Diffusion Models for Generative Modeling on Unknown Manifolds"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.04827
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04827
 next_step: skim
+priority: medium
+slack_ts: '1786154711.360809'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Intrinsic-Hybrid Latent Diffusion Models for Generative Modeling on Unknown
+  Manifolds
 ---
 # Intrinsic-Hybrid Latent Diffusion Models for Generative Modeling on Unknown Manifolds
 > 原文: [https://arxiv.org/abs/2608.04827](https://arxiv.org/abs/2608.04827)

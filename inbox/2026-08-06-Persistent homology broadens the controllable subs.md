@@ -1,11 +1,13 @@
 ---
-title: "Persistent homology broadens the controllable subspace in human structural connectomes"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.03181
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.03181
 next_step: skim
+priority: low
+slack_ts: '1786154695.765289'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Persistent homology broadens the controllable subspace in human structural
+  connectomes
 ---
 # Persistent homology broadens the controllable subspace in human structural connectomes
 > 原文: [https://arxiv.org/abs/2608.03181](https://arxiv.org/abs/2608.03181)

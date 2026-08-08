@@ -1,11 +1,13 @@
 ---
-title: "TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.00650
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00650
 next_step: skim
+priority: low
+slack_ts: '1786154681.792699'
+source: cs.DB - Databases
+status: unread
+title: 'TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at
+  Tencent'
 ---
 # TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent
 > 原文: [https://arxiv.org/abs/2608.00650](https://arxiv.org/abs/2608.00650)

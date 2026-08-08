@@ -1,11 +1,13 @@
 ---
-title: "AgentForge: An Immersive Role-Playing Platform for Learning Agentic Software Engineering"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.04148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04148
 next_step: skim
+priority: low
+slack_ts: '1786154702.226189'
+source: cs.SE - Software Engineering
+status: unread
+title: 'AgentForge: An Immersive Role-Playing Platform for Learning Agentic Software
+  Engineering'
 ---
 # AgentForge: An Immersive Role-Playing Platform for Learning Agentic Software Engineering
 > 原文: [https://arxiv.org/abs/2608.04148](https://arxiv.org/abs/2608.04148)

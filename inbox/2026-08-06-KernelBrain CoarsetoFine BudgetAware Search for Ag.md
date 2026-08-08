@@ -1,11 +1,12 @@
 ---
-title: "KernelBrain: Coarse-to-Fine, Budget-Aware Search for Agentic GPU Kernel Optimization"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.02611
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02611
 next_step: skim
+priority: medium
+slack_ts: '1786154692.951189'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'KernelBrain: Coarse-to-Fine, Budget-Aware Search for Agentic GPU Kernel Optimization'
 ---
 # KernelBrain: Coarse-to-Fine, Budget-Aware Search for Agentic GPU Kernel Optimization
 > 原文: [https://arxiv.org/abs/2608.02611](https://arxiv.org/abs/2608.02611)

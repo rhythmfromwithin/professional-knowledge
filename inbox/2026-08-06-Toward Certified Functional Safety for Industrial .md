@@ -1,11 +1,13 @@
 ---
-title: "Toward Certified Functional Safety for Industrial Humanoid Robots: The Fail-Passive Gap and a Feasibility Study"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.02809
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02809
 next_step: skim
+priority: medium
+slack_ts: '1786154699.378169'
+source: cs.RO - Robotics
+status: unread
+title: 'Toward Certified Functional Safety for Industrial Humanoid Robots: The Fail-Passive
+  Gap and a Feasibility Study'
 ---
 # Toward Certified Functional Safety for Industrial Humanoid Robots: The Fail-Passive Gap and a Feasibility Study
 > 原文: [https://arxiv.org/abs/2608.02809](https://arxiv.org/abs/2608.02809)

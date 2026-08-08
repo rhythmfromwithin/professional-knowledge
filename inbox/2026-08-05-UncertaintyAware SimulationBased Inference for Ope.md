@@ -1,11 +1,13 @@
 ---
-title: "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.00019
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00019
 next_step: skim
+priority: high
+slack_ts: '1786154682.822749'
+source: cs.LG - Machine Learning
+status: unread
+title: Uncertainty-Aware Simulation-Based Inference for Operations Research with Large
+  Language Models
 ---
 # Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models
 > 原文: [https://arxiv.org/abs/2608.00019](https://arxiv.org/abs/2608.00019)

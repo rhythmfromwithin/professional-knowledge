@@ -1,11 +1,12 @@
 ---
-title: "Separating Intelligence from Inference: A Standard for Edge-Native AI Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.02608
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02608
 next_step: skim
+priority: medium
+slack_ts: '1786154698.275769'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Separating Intelligence from Inference: A Standard for Edge-Native AI Computing'
 ---
 # Separating Intelligence from Inference: A Standard for Edge-Native AI Computing
 > 原文: [https://arxiv.org/abs/2608.02608](https://arxiv.org/abs/2608.02608)

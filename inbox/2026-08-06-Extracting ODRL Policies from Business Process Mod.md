@@ -1,11 +1,13 @@
 ---
-title: "Extracting ODRL Policies from Business Process Models: A Graph Traversal Approach to Compliance-by-Extraction"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.02607
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02607
 next_step: skim
+priority: low
+slack_ts: '1786154688.359759'
+source: cs.DB - Databases
+status: unread
+title: 'Extracting ODRL Policies from Business Process Models: A Graph Traversal Approach
+  to Compliance-by-Extraction'
 ---
 # Extracting ODRL Policies from Business Process Models: A Graph Traversal Approach to Compliance-by-Extraction
 > 原文: [https://arxiv.org/abs/2608.02607](https://arxiv.org/abs/2608.02607)

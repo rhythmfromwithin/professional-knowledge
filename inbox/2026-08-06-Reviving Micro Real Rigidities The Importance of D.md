@@ -1,11 +1,12 @@
 ---
-title: "Reviving Micro Real Rigidities: The Importance of Demand Shocks"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.02817
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02817
 next_step: skim
+priority: low
+slack_ts: '1786154697.361189'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Reviving Micro Real Rigidities: The Importance of Demand Shocks'
 ---
 # Reviving Micro Real Rigidities: The Importance of Demand Shocks
 > 原文: [https://arxiv.org/abs/2608.02817](https://arxiv.org/abs/2608.02817)

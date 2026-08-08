@@ -1,11 +1,13 @@
 ---
-title: "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.00675
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00675
 next_step: skim
+priority: medium
+slack_ts: '1786154680.516439'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own
+  Rollout Errors'
 ---
 # Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors
 > 原文: [https://arxiv.org/abs/2608.00675](https://arxiv.org/abs/2608.00675)

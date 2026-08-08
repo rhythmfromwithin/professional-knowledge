@@ -1,11 +1,13 @@
 ---
-title: "SDDMO-Bench: A Benchmark Suite for Streaming Data-Driven Dynamic Multi-Objective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.00474
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00474
 next_step: skim
+priority: low
+slack_ts: '1786154681.022259'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SDDMO-Bench: A Benchmark Suite for Streaming Data-Driven Dynamic Multi-Objective
+  Optimization'
 ---
 # SDDMO-Bench: A Benchmark Suite for Streaming Data-Driven Dynamic Multi-Objective Optimization
 > 原文: [https://arxiv.org/abs/2608.00474](https://arxiv.org/abs/2608.00474)

@@ -1,11 +1,12 @@
 ---
-title: "An Empirical Analysis of the Glob Ecosystem"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.02610
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02610
 next_step: skim
+priority: low
+slack_ts: '1786154684.565779'
+source: cs.SE - Software Engineering
+status: unread
+title: An Empirical Analysis of the Glob Ecosystem
 ---
 # An Empirical Analysis of the Glob Ecosystem
 > 原文: [https://arxiv.org/abs/2608.02610](https://arxiv.org/abs/2608.02610)

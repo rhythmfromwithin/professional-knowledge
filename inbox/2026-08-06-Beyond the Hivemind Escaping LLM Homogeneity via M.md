@@ -1,11 +1,13 @@
 ---
-title: "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.02618
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02618
 next_step: skim
+priority: high
+slack_ts: '1786154685.620049'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and
+  Sequential Temperature Scaling'
 ---
 # Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling
 > 原文: [https://arxiv.org/abs/2608.02618](https://arxiv.org/abs/2608.02618)

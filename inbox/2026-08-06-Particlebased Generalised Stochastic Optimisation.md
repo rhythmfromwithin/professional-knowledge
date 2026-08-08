@@ -1,11 +1,12 @@
 ---
-title: "Particle-based Generalised Stochastic Optimisation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.02844
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02844
 next_step: skim
+priority: medium
+slack_ts: '1786154695.204909'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Particle-based Generalised Stochastic Optimisation
 ---
 # Particle-based Generalised Stochastic Optimisation
 > 原文: [https://arxiv.org/abs/2608.02844](https://arxiv.org/abs/2608.02844)

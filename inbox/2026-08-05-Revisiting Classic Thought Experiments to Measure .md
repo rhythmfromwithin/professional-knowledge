@@ -1,11 +1,13 @@
 ---
-title: "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.00001
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00001
 next_step: skim
+priority: high
+slack_ts: '1786154680.235869'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Revisiting Classic Thought Experiments to Measure Consciousness for Artificial
+  Intelligence Safety
 ---
 # Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety
 > 原文: [https://arxiv.org/abs/2608.00001](https://arxiv.org/abs/2608.00001)

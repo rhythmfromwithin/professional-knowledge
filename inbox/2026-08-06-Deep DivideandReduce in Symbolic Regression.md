@@ -1,11 +1,12 @@
 ---
-title: "Deep Divide-and-Reduce in Symbolic Regression"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.02628
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02628
 next_step: skim
+priority: high
+slack_ts: '1786154686.845969'
+source: cs.LG - Machine Learning
+status: unread
+title: Deep Divide-and-Reduce in Symbolic Regression
 ---
 # Deep Divide-and-Reduce in Symbolic Regression
 > 原文: [https://arxiv.org/abs/2608.02628](https://arxiv.org/abs/2608.02628)

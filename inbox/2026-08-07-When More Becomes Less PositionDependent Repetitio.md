@@ -1,11 +1,13 @@
 ---
-title: "When More Becomes Less: Position-Dependent Repetition Effects in Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.04021
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04021
 next_step: skim
+priority: high
+slack_ts: '1786154718.258129'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'When More Becomes Less: Position-Dependent Repetition Effects in Language
+  Models'
 ---
 # When More Becomes Less: Position-Dependent Repetition Effects in Language Models
 > 原文: [https://arxiv.org/abs/2608.04021](https://arxiv.org/abs/2608.04021)

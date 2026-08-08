@@ -1,11 +1,14 @@
 ---
-title: "AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity: Insights from the All of Us Research Program"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.04016
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04016
 next_step: skim
+priority: medium
+slack_ts: '1786154701.452839'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI-driven Multimodal Representation Learning for Latent Mediation Structure
+  Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic
+  Multimorbidity: Insights from the All of Us Research Program'
 ---
 # AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity: Insights from the All of Us Research Program
 > 原文: [https://arxiv.org/abs/2608.04016](https://arxiv.org/abs/2608.04016)

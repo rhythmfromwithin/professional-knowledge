@@ -1,11 +1,13 @@
 ---
-title: "Oh Deer, How Should I Handle This? Seasonal Priors for Selective Wildlife Annotation and Classification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.02762
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02762
 next_step: skim
+priority: medium
+slack_ts: '1786154694.954249'
+source: cs.CV - Computer Vision
+status: unread
+title: Oh Deer, How Should I Handle This? Seasonal Priors for Selective Wildlife Annotation
+  and Classification
 ---
 # Oh Deer, How Should I Handle This? Seasonal Priors for Selective Wildlife Annotation and Classification
 > 原文: [https://arxiv.org/abs/2608.02762](https://arxiv.org/abs/2608.02762)

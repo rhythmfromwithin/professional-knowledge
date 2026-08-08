@@ -1,11 +1,13 @@
 ---
-title: "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.02711
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02711
 next_step: skim
+priority: medium
+slack_ts: '1786154690.901629'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation,
+  Understanding, and Editing'
 ---
 # Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing
 > 原文: [https://arxiv.org/abs/2608.02711](https://arxiv.org/abs/2608.02711)

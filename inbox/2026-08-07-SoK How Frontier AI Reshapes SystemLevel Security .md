@@ -1,11 +1,13 @@
 ---
-title: "SoK: How Frontier AI Reshapes System-Level Security Risk Dynamics in Critical Infrastructure"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.04033
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04033
 next_step: skim
+priority: low
+slack_ts: '1786154716.236269'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SoK: How Frontier AI Reshapes System-Level Security Risk Dynamics in Critical
+  Infrastructure'
 ---
 # SoK: How Frontier AI Reshapes System-Level Security Risk Dynamics in Critical Infrastructure
 > 原文: [https://arxiv.org/abs/2608.04033](https://arxiv.org/abs/2608.04033)

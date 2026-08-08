@@ -1,11 +1,12 @@
 ---
-title: "Textro: A Prototyping Toolkit for Solderless and Chipless Smart Textile Interfaces"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.00294
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00294
 next_step: skim
+priority: low
+slack_ts: '1786154682.042989'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Textro: A Prototyping Toolkit for Solderless and Chipless Smart Textile Interfaces'
 ---
 # Textro: A Prototyping Toolkit for Solderless and Chipless Smart Textile Interfaces
 > 原文: [https://arxiv.org/abs/2608.00294](https://arxiv.org/abs/2608.00294)

@@ -1,11 +1,12 @@
 ---
-title: "PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.00066
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00066
 next_step: skim
+priority: medium
+slack_ts: '1786154679.479939'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation'
 ---
 # PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation
 > 原文: [https://arxiv.org/abs/2608.00066](https://arxiv.org/abs/2608.00066)

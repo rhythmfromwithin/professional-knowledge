@@ -1,11 +1,12 @@
 ---
-title: "BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.02612
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02612
 next_step: skim
+priority: high
+slack_ts: '1786154685.338869'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems'
 ---
 # BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems
 > 原文: [https://arxiv.org/abs/2608.02612](https://arxiv.org/abs/2608.02612)

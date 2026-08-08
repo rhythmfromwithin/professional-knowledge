@@ -1,11 +1,12 @@
 ---
-title: "Recursive Gaussian Processes and the Bayesian Brain"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.00503
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.00503
 next_step: skim
+priority: low
+slack_ts: '1786154679.980729'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Recursive Gaussian Processes and the Bayesian Brain
 ---
 # Recursive Gaussian Processes and the Bayesian Brain
 > 原文: [https://arxiv.org/abs/2608.00503](https://arxiv.org/abs/2608.00503)

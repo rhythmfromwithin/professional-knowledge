@@ -1,11 +1,12 @@
 ---
-title: "Configure rate limits for AI traffic on AgentCore gateway"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/
 next_step: skim
+priority: high
+slack_ts: '1786154705.220529'
+source: AWS Blog
+status: unread
+title: Configure rate limits for AI traffic on AgentCore gateway
 ---
 # Configure rate limits for AI traffic on AgentCore gateway
 > 原文: [https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/](https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/)

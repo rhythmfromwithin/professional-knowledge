@@ -1,11 +1,13 @@
 ---
-title: "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/
 next_step: skim
+priority: medium
+slack_ts: '1786154708.364509'
+source: Meta Engineering
+status: unread
+title: 'From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s
+  Ads Ranking'
 ---
 # From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking
 > 原文: [https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/](https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/)

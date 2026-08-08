@@ -1,11 +1,13 @@
 ---
-title: "Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.02955
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02955
 next_step: skim
+priority: low
+slack_ts: '1786154685.860749'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog
+  Circuits'
 ---
 # Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
 > 原文: [https://arxiv.org/abs/2608.02955](https://arxiv.org/abs/2608.02955)

@@ -1,11 +1,13 @@
 ---
-title: "Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.02653
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02653
 next_step: skim
+priority: medium
+slack_ts: '1786154693.443349'
+source: cs.RO - Robotics
+status: unread
+title: 'Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill
+  Distillation'
 ---
 # Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation
 > 原文: [https://arxiv.org/abs/2608.02653](https://arxiv.org/abs/2608.02653)
