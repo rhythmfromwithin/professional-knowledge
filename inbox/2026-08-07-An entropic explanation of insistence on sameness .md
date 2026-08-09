@@ -1,11 +1,12 @@
 ---
-title: "An entropic explanation of insistence on sameness in autism"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.04616
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04616
 next_step: skim
+priority: low
+slack_ts: '1786241595.973399'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: An entropic explanation of insistence on sameness in autism
 ---
 # An entropic explanation of insistence on sameness in autism
 > 原文: [https://arxiv.org/abs/2608.04616](https://arxiv.org/abs/2608.04616)

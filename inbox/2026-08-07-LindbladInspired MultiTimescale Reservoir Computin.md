@@ -1,11 +1,13 @@
 ---
-title: "Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.04028
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04028
 next_step: skim
+priority: low
+slack_ts: '1786241602.944629'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation
+  and Dissipation
 ---
 # Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation
 > 原文: [https://arxiv.org/abs/2608.04028](https://arxiv.org/abs/2608.04028)

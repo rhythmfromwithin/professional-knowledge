@@ -1,11 +1,12 @@
 ---
-title: "Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.04274
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04274
 next_step: skim
+priority: low
+slack_ts: '1786241597.159979'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections'
 ---
 # Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections
 > 原文: [https://arxiv.org/abs/2608.04274](https://arxiv.org/abs/2608.04274)

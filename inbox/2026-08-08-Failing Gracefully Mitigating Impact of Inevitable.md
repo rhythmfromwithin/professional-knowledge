@@ -1,11 +1,12 @@
 ---
-title: "Failing Gracefully: Mitigating Impact of Inevitable Robot Failures"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.05313
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05313
 next_step: skim
+priority: medium
+slack_ts: '1786241611.694229'
+source: cs.RO - Robotics
+status: unread
+title: 'Failing Gracefully: Mitigating Impact of Inevitable Robot Failures'
 ---
 # Failing Gracefully: Mitigating Impact of Inevitable Robot Failures
 > 原文: [https://arxiv.org/abs/2608.05313](https://arxiv.org/abs/2608.05313)

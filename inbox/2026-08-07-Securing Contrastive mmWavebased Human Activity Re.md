@@ -1,11 +1,13 @@
 ---
-title: "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.04029
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04029
 next_step: skim
+priority: low
+slack_ts: '1786241605.581219'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Securing Contrastive mmWave-based Human Activity Recognition against Adversarial
+  Label Flipping
 ---
 # Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping
 > 原文: [https://arxiv.org/abs/2608.04029](https://arxiv.org/abs/2608.04029)

@@ -1,11 +1,13 @@
 ---
-title: "Automatic Statistical Test for Rationally Expressible Algorithms by Selective Inference, with Applications to Feature Selection"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.04667
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04667
 next_step: skim
+priority: medium
+slack_ts: '1786241596.219449'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Automatic Statistical Test for Rationally Expressible Algorithms by Selective
+  Inference, with Applications to Feature Selection
 ---
 # Automatic Statistical Test for Rationally Expressible Algorithms by Selective Inference, with Applications to Feature Selection
 > 原文: [https://arxiv.org/abs/2608.04667](https://arxiv.org/abs/2608.04667)

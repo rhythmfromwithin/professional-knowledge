@@ -1,11 +1,13 @@
 ---
-title: "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.05159
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05159
 next_step: skim
+priority: high
+slack_ts: '1786241608.640609'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Agentic Nesting: A New Methodology for Existing Enterprise Application Integration
+  and Services'
 ---
 # Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services
 > 原文: [https://arxiv.org/abs/2608.05159](https://arxiv.org/abs/2608.05159)

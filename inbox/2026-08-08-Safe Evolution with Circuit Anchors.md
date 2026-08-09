@@ -1,11 +1,12 @@
 ---
-title: "Safe Evolution with Circuit Anchors"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.05158
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05158
 next_step: skim
+priority: low
+slack_ts: '1786241617.678499'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Safe Evolution with Circuit Anchors
 ---
 # Safe Evolution with Circuit Anchors
 > 原文: [https://arxiv.org/abs/2608.05158](https://arxiv.org/abs/2608.05158)

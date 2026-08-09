@@ -1,11 +1,12 @@
 ---
-title: "A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.05570
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05570
 next_step: skim
+priority: low
+slack_ts: '1786241607.673639'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence
 ---
 # A Multi-Layer System for Ultra-High-Resolution Static 360-Degree Telepresence
 > 原文: [https://arxiv.org/abs/2608.05570](https://arxiv.org/abs/2608.05570)

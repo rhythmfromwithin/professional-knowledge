@@ -1,11 +1,12 @@
 ---
-title: "Rebuilding Startups: An Empirical Study on Remote Work and Skill Complementarity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.02666
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02666
 next_step: skim
+priority: low
+slack_ts: '1786241591.350489'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Rebuilding Startups: An Empirical Study on Remote Work and Skill Complementarity'
 ---
 # Rebuilding Startups: An Empirical Study on Remote Work and Skill Complementarity
 > 原文: [https://arxiv.org/abs/2608.02666](https://arxiv.org/abs/2608.02666)

@@ -1,11 +1,13 @@
 ---
-title: "Echoes in the Sky: Computational Thematic Analysis of Online Public Discourse on Bluesky Across Trump's Reelection"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.04120
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04120
 next_step: skim
+priority: low
+slack_ts: '1786241598.101479'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Echoes in the Sky: Computational Thematic Analysis of Online Public Discourse
+  on Bluesky Across Trump''s Reelection'
 ---
 # Echoes in the Sky: Computational Thematic Analysis of Online Public Discourse on Bluesky Across Trump's Reelection
 > 原文: [https://arxiv.org/abs/2608.04120](https://arxiv.org/abs/2608.04120)

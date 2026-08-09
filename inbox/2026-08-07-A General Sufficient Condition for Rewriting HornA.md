@@ -1,11 +1,13 @@
 ---
-title: "A General Sufficient Condition for Rewriting Horn-ALCHI Atomic Queries into GQL"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.04945
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04945
 next_step: skim
+priority: low
+slack_ts: '1786241594.088409'
+source: cs.DB - Databases
+status: unread
+title: A General Sufficient Condition for Rewriting Horn-ALCHI Atomic Queries into
+  GQL
 ---
 # A General Sufficient Condition for Rewriting Horn-ALCHI Atomic Queries into GQL
 > 原文: [https://arxiv.org/abs/2608.04945](https://arxiv.org/abs/2608.04945)

@@ -1,11 +1,13 @@
 ---
-title: "Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated Reasoning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.04457
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04457
 next_step: skim
+priority: low
+slack_ts: '1786241598.350029'
+source: cs.DB - Databases
+status: unread
+title: 'Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated
+  Reasoning'
 ---
 # Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated Reasoning
 > 原文: [https://arxiv.org/abs/2608.04457](https://arxiv.org/abs/2608.04457)

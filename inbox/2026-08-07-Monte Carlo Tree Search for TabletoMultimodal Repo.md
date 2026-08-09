@@ -1,11 +1,12 @@
 ---
-title: "Monte Carlo Tree Search for Table-to-Multimodal Report Generation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.04071
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04071
 next_step: skim
+priority: high
+slack_ts: '1786241603.685419'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Monte Carlo Tree Search for Table-to-Multimodal Report Generation
 ---
 # Monte Carlo Tree Search for Table-to-Multimodal Report Generation
 > 原文: [https://arxiv.org/abs/2608.04071](https://arxiv.org/abs/2608.04071)

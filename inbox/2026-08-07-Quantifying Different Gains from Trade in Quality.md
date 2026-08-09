@@ -1,11 +1,12 @@
 ---
-title: "Quantifying Different Gains from Trade in Quality"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.04409
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04409
 next_step: skim
+priority: low
+slack_ts: '1786241604.767109'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Quantifying Different Gains from Trade in Quality
 ---
 # Quantifying Different Gains from Trade in Quality
 > 原文: [https://arxiv.org/abs/2608.04409](https://arxiv.org/abs/2608.04409)

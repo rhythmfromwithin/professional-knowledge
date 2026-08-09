@@ -1,7 +1,9 @@
 ---
-title: "GenRec: Towards LLM-Native Recommendation at Netflix"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss
+slack_ts: '1786241600.814459'
+source: Netflix Tech Blog
+title: 'GenRec: Towards LLM-Native Recommendation at Netflix'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

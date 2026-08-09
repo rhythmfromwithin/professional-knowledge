@@ -1,11 +1,12 @@
 ---
-title: "Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.02636
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02636
 next_step: skim
+priority: low
+slack_ts: '1786241591.541109'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds'
 ---
 # Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds
 > 原文: [https://arxiv.org/abs/2608.02636](https://arxiv.org/abs/2608.02636)

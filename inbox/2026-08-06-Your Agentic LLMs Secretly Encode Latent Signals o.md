@@ -1,11 +1,13 @@
 ---
-title: "Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.02657
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02657
 next_step: skim
+priority: low
+slack_ts: '1786241593.648049'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection
+  Exposure
 ---
 # Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure
 > 原文: [https://arxiv.org/abs/2608.02657](https://arxiv.org/abs/2608.02657)

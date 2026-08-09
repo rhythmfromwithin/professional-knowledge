@@ -1,11 +1,12 @@
 ---
-title: "Emergence of Reputation-Based Cooperation in LLM Agents"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.04507
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04507
 next_step: skim
+priority: low
+slack_ts: '1786241598.597229'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Emergence of Reputation-Based Cooperation in LLM Agents
 ---
 # Emergence of Reputation-Based Cooperation in LLM Agents
 > 原文: [https://arxiv.org/abs/2608.04507](https://arxiv.org/abs/2608.04507)

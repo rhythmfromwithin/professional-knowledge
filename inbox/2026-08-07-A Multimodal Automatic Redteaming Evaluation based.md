@@ -1,11 +1,13 @@
 ---
-title: "A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.04034
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04034
 next_step: skim
+priority: low
+slack_ts: '1786241594.453049'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy
+  Decoupling and Combination
 ---
 # A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination
 > 原文: [https://arxiv.org/abs/2608.04034](https://arxiv.org/abs/2608.04034)

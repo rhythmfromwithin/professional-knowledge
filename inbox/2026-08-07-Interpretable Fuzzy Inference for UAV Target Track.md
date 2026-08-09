@@ -1,11 +1,12 @@
 ---
-title: "Interpretable Fuzzy Inference for UAV Target Tracking Using Bounding-Box Geometry"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.04121
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04121
 next_step: skim
+priority: medium
+slack_ts: '1786241602.091949'
+source: cs.RO - Robotics
+status: unread
+title: Interpretable Fuzzy Inference for UAV Target Tracking Using Bounding-Box Geometry
 ---
 # Interpretable Fuzzy Inference for UAV Target Tracking Using Bounding-Box Geometry
 > 原文: [https://arxiv.org/abs/2608.04121](https://arxiv.org/abs/2608.04121)

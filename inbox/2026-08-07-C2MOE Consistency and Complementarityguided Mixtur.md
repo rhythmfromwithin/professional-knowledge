@@ -1,11 +1,13 @@
 ---
-title: "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.04013
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04013
 next_step: skim
+priority: high
+slack_ts: '1786241596.711799'
+source: cs.LG - Machine Learning
+status: unread
+title: 'C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete
+  Multimodal Emotion Learning'
 ---
 # C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning
 > 原文: [https://arxiv.org/abs/2608.04013](https://arxiv.org/abs/2608.04013)

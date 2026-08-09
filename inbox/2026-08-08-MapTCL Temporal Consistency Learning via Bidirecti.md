@@ -1,11 +1,13 @@
 ---
-title: "MapTCL: Temporal Consistency Learning via Bidirectional Alignment for Vectorized HD Map Construction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.05209
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05209
 next_step: skim
+priority: medium
+slack_ts: '1786241615.739299'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MapTCL: Temporal Consistency Learning via Bidirectional Alignment for Vectorized
+  HD Map Construction'
 ---
 # MapTCL: Temporal Consistency Learning via Bidirectional Alignment for Vectorized HD Map Construction
 > 原文: [https://arxiv.org/abs/2608.05209](https://arxiv.org/abs/2608.05209)

@@ -1,11 +1,13 @@
 ---
-title: "TabletCraft: Bridging a 4,000-Year Cultural Gap with Bidirectional Akkadian NMT and Cuneiform Rendering"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.02609
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02609
 next_step: skim
+priority: high
+slack_ts: '1786241592.718559'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TabletCraft: Bridging a 4,000-Year Cultural Gap with Bidirectional Akkadian
+  NMT and Cuneiform Rendering'
 ---
 # TabletCraft: Bridging a 4,000-Year Cultural Gap with Bidirectional Akkadian NMT and Cuneiform Rendering
 > 原文: [https://arxiv.org/abs/2608.02609](https://arxiv.org/abs/2608.02609)

@@ -1,11 +1,13 @@
 ---
-title: "Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.04198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04198
 next_step: skim
+priority: low
+slack_ts: '1786241597.921079'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Does generative AI narrow education-based productivity gaps? Evidence from
+  a randomized experiment
 ---
 # Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
 > 原文: [https://arxiv.org/abs/2608.04198](https://arxiv.org/abs/2608.04198)

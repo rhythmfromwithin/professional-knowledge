@@ -1,11 +1,13 @@
 ---
-title: "LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.04106
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04106
 next_step: skim
+priority: medium
+slack_ts: '1786241603.192519'
+source: cs.CV - Computer Vision
+status: unread
+title: 'LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote
+  Sensing Dense Image Matching'
 ---
 # LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching
 > 原文: [https://arxiv.org/abs/2608.04106](https://arxiv.org/abs/2608.04106)

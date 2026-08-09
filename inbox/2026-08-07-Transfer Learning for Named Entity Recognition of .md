@@ -1,11 +1,13 @@
 ---
-title: "Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.04015
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04015
 next_step: skim
+priority: high
+slack_ts: '1786241606.763139'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Transfer Learning for Named Entity Recognition of Classical Latin through LLM
+  Prompting
 ---
 # Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting
 > 原文: [https://arxiv.org/abs/2608.04015](https://arxiv.org/abs/2608.04015)

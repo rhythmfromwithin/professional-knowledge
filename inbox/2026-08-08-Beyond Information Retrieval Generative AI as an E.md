@@ -1,11 +1,13 @@
 ---
-title: "Beyond Information Retrieval: Generative AI as an Epistemic Arbiter to Enhance Collaborative Problem-Solving"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.05171
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05171
 next_step: skim
+priority: medium
+slack_ts: '1786241609.765959'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Information Retrieval: Generative AI as an Epistemic Arbiter to Enhance
+  Collaborative Problem-Solving'
 ---
 # Beyond Information Retrieval: Generative AI as an Epistemic Arbiter to Enhance Collaborative Problem-Solving
 > 原文: [https://arxiv.org/abs/2608.05171](https://arxiv.org/abs/2608.05171)

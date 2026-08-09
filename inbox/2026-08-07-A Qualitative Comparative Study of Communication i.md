@@ -1,11 +1,12 @@
 ---
-title: "A Qualitative Comparative Study of Communication in Higher Distance Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.04017
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04017
 next_step: skim
+priority: medium
+slack_ts: '1786241594.686449'
+source: cs.CY - Computers and Society
+status: unread
+title: A Qualitative Comparative Study of Communication in Higher Distance Education
 ---
 # A Qualitative Comparative Study of Communication in Higher Distance Education
 > 原文: [https://arxiv.org/abs/2608.04017](https://arxiv.org/abs/2608.04017)

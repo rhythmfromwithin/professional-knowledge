@@ -1,11 +1,13 @@
 ---
-title: "The ethics of artificial intelligence in the life sciences: Universality, cultural diversity and an architecture of care"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.05436
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05436
 next_step: skim
+priority: low
+slack_ts: '1786241618.656019'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The ethics of artificial intelligence in the life sciences: Universality,
+  cultural diversity and an architecture of care'
 ---
 # The ethics of artificial intelligence in the life sciences: Universality, cultural diversity and an architecture of care
 > 原文: [https://arxiv.org/abs/2608.05436](https://arxiv.org/abs/2608.05436)

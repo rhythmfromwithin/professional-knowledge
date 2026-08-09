@@ -1,11 +1,13 @@
 ---
-title: "Raising Rivals' Costs on Hybrid Platforms: The Complementarity of Fees and Self-Preferencing"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.02800
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02800
 next_step: skim
+priority: low
+slack_ts: '1786241590.837189'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Raising Rivals'' Costs on Hybrid Platforms: The Complementarity of Fees and
+  Self-Preferencing'
 ---
 # Raising Rivals' Costs on Hybrid Platforms: The Complementarity of Fees and Self-Preferencing
 > 原文: [https://arxiv.org/abs/2608.02800](https://arxiv.org/abs/2608.02800)

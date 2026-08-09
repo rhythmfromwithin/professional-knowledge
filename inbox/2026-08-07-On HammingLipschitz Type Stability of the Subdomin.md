@@ -1,11 +1,13 @@
 ---
-title: "On Hamming-Lipschitz Type Stability of the Subdominant (Minmax) Ultrametric: Theory and Simple Proofs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.04014
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04014
 next_step: skim
+priority: high
+slack_ts: '1786241604.117989'
+source: cs.LG - Machine Learning
+status: unread
+title: 'On Hamming-Lipschitz Type Stability of the Subdominant (Minmax) Ultrametric:
+  Theory and Simple Proofs'
 ---
 # On Hamming-Lipschitz Type Stability of the Subdominant (Minmax) Ultrametric: Theory and Simple Proofs
 > 原文: [https://arxiv.org/abs/2608.04014](https://arxiv.org/abs/2608.04014)

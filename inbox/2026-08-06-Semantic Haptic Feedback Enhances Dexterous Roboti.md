@@ -1,11 +1,12 @@
 ---
-title: "Semantic Haptic Feedback Enhances Dexterous Robotic Teleoperation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.02780
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02780
 next_step: skim
+priority: medium
+slack_ts: '1786241591.973129'
+source: cs.RO - Robotics
+status: unread
+title: Semantic Haptic Feedback Enhances Dexterous Robotic Teleoperation
 ---
 # Semantic Haptic Feedback Enhances Dexterous Robotic Teleoperation
 > 原文: [https://arxiv.org/abs/2608.02780](https://arxiv.org/abs/2608.02780)

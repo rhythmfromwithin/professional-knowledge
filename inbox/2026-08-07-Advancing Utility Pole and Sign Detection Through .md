@@ -1,11 +1,12 @@
 ---
-title: "Advancing Utility Pole and Sign Detection Through Deep Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.04061
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04061
 next_step: skim
+priority: medium
+slack_ts: '1786241595.108119'
+source: cs.CV - Computer Vision
+status: unread
+title: Advancing Utility Pole and Sign Detection Through Deep Learning
 ---
 # Advancing Utility Pole and Sign Detection Through Deep Learning
 > 原文: [https://arxiv.org/abs/2608.04061](https://arxiv.org/abs/2608.04061)

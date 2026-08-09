@@ -1,11 +1,12 @@
 ---
-title: "CommBench: Can LLMs Write Correct and Efficient GPU Communication Code?"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.04450
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04450
 next_step: skim
+priority: medium
+slack_ts: '1786241596.971629'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'CommBench: Can LLMs Write Correct and Efficient GPU Communication Code?'
 ---
 # CommBench: Can LLMs Write Correct and Efficient GPU Communication Code?
 > 原文: [https://arxiv.org/abs/2608.04450](https://arxiv.org/abs/2608.04450)

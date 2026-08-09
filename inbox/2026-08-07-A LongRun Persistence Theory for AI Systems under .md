@@ -1,11 +1,13 @@
 ---
-title: "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.04012
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04012
 next_step: skim
+priority: high
+slack_ts: '1786241594.268169'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted
+  Artificial Age Score (AAS)
 ---
 # A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)
 > 原文: [https://arxiv.org/abs/2608.04012](https://arxiv.org/abs/2608.04012)

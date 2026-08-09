@@ -1,11 +1,12 @@
 ---
-title: "Secure AI Watermarking Framework for IP Protection in Multi-Tenant Cloud Platforms"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.02656
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02656
 next_step: skim
+priority: low
+slack_ts: '1786241591.792609'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Secure AI Watermarking Framework for IP Protection in Multi-Tenant Cloud Platforms
 ---
 # Secure AI Watermarking Framework for IP Protection in Multi-Tenant Cloud Platforms
 > 原文: [https://arxiv.org/abs/2608.02656](https://arxiv.org/abs/2608.02656)

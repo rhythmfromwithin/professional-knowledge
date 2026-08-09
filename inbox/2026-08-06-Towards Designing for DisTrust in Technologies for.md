@@ -1,11 +1,12 @@
 ---
-title: "Towards Designing for (Dis)Trust in Technologies for Aging"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.02784
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.02784
 next_step: skim
+priority: low
+slack_ts: '1786241593.394179'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Towards Designing for (Dis)Trust in Technologies for Aging
 ---
 # Towards Designing for (Dis)Trust in Technologies for Aging
 > 原文: [https://arxiv.org/abs/2608.02784](https://arxiv.org/abs/2608.02784)
