@@ -1,11 +1,12 @@
 ---
-title: "BEGIN AI TRANSACTION: Semantic Isolation for Durable AI Workflows"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.05412
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05412
 next_step: skim
+priority: low
+slack_ts: '1786328461.540339'
+source: cs.DB - Databases
+status: unread
+title: 'BEGIN AI TRANSACTION: Semantic Isolation for Durable AI Workflows'
 ---
 # BEGIN AI TRANSACTION: Semantic Isolation for Durable AI Workflows
 > 原文: [https://arxiv.org/abs/2608.05412](https://arxiv.org/abs/2608.05412)

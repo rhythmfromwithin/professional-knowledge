@@ -1,11 +1,12 @@
 ---
-title: "Quality Diversity for Reliable Data Driven Time-Use Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.05230
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05230
 next_step: skim
+priority: medium
+slack_ts: '1786328464.098889'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Quality Diversity for Reliable Data Driven Time-Use Optimization
 ---
 # Quality Diversity for Reliable Data Driven Time-Use Optimization
 > 原文: [https://arxiv.org/abs/2608.05230](https://arxiv.org/abs/2608.05230)

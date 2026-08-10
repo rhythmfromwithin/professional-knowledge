@@ -1,11 +1,13 @@
 ---
-title: "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
-source: "OpenAI Blog"
-link: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 next_step: skim
+priority: high
+slack_ts: '1786328463.149789'
+source: OpenAI Blog
+status: unread
+title: Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free
+  users
 ---
 # Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
 > 原文: [https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)

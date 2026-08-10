@@ -1,11 +1,12 @@
 ---
-title: "Time^2: A framework for the neural dynamics of visual perception"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.04218
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04218
 next_step: skim
+priority: low
+slack_ts: '1786328460.564119'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Time^2: A framework for the neural dynamics of visual perception'
 ---
 # Time^2: A framework for the neural dynamics of visual perception
 > 原文: [https://arxiv.org/abs/2608.04218](https://arxiv.org/abs/2608.04218)

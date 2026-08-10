@@ -1,11 +1,12 @@
 ---
-title: "Estimating time spent on work tasks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.05172
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05172
 next_step: skim
+priority: medium
+slack_ts: '1786328462.090649'
+source: cs.CY - Computers and Society
+status: unread
+title: Estimating time spent on work tasks
 ---
 # Estimating time spent on work tasks
 > 原文: [https://arxiv.org/abs/2608.05172](https://arxiv.org/abs/2608.05172)

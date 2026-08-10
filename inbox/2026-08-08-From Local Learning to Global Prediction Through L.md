@@ -1,11 +1,12 @@
 ---
-title: "From Local Learning to Global Prediction Through Layered Surprise Cascades"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.05481
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05481
 next_step: skim
+priority: low
+slack_ts: '1786328462.414159'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: From Local Learning to Global Prediction Through Layered Surprise Cascades
 ---
 # From Local Learning to Global Prediction Through Layered Surprise Cascades
 > 原文: [https://arxiv.org/abs/2608.05481](https://arxiv.org/abs/2608.05481)

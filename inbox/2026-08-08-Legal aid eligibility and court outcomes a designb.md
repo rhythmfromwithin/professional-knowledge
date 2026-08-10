@@ -1,11 +1,13 @@
 ---
-title: "Legal aid eligibility and court outcomes: a design-based double-machine-learning approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.05211
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05211
 next_step: skim
+priority: low
+slack_ts: '1786328463.575359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Legal aid eligibility and court outcomes: a design-based double-machine-learning
+  approach'
 ---
 # Legal aid eligibility and court outcomes: a design-based double-machine-learning approach
 > 原文: [https://arxiv.org/abs/2608.05211](https://arxiv.org/abs/2608.05211)

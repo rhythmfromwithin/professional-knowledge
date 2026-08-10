@@ -1,11 +1,13 @@
 ---
-title: "A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.05244
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05244
 next_step: skim
+priority: medium
+slack_ts: '1786328461.151809'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Unified Causal Inference Framework for the Desirability of Outcome Ranking
+  Paradigm in Benefit-Risk Evaluation
 ---
 # A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation
 > 原文: [https://arxiv.org/abs/2608.05244](https://arxiv.org/abs/2608.05244)

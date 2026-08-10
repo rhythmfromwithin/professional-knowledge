@@ -1,11 +1,12 @@
 ---
-title: "Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.05152
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05152
 next_step: skim
+priority: high
+slack_ts: '1786328463.738719'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models
 ---
 # Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models
 > 原文: [https://arxiv.org/abs/2608.05152](https://arxiv.org/abs/2608.05152)

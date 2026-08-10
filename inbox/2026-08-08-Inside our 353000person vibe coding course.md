@@ -1,11 +1,12 @@
 ---
-title: "Inside our 353,000-person vibe coding course"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
 next_step: skim
+priority: high
+slack_ts: '1786328463.351829'
+source: Google AI Blog
+status: unread
+title: Inside our 353,000-person vibe coding course
 ---
 # Inside our 353,000-person vibe coding course
 > 原文: [https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/)

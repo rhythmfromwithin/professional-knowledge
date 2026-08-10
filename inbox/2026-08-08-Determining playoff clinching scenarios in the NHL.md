@@ -1,11 +1,12 @@
 ---
-title: "Determining playoff clinching scenarios in the NHL using constraint programming"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/
 next_step: skim
+priority: high
+slack_ts: '1786328461.919889'
+source: AWS Blog
+status: unread
+title: Determining playoff clinching scenarios in the NHL using constraint programming
 ---
 # Determining playoff clinching scenarios in the NHL using constraint programming
 > 原文: [https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/](https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/)

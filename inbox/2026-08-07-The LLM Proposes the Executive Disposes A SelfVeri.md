@@ -1,11 +1,13 @@
 ---
-title: "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.04066
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04066
 next_step: skim
+priority: high
+slack_ts: '1786328460.419469'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument
+  that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents'
 ---
 # The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents
 > 原文: [https://arxiv.org/abs/2608.04066](https://arxiv.org/abs/2608.04066)

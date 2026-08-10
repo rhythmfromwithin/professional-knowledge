@@ -1,11 +1,13 @@
 ---
-title: "Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.04037
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04037
 next_step: skim
+priority: high
+slack_ts: '1786328460.073779'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive
+  Experiences
 ---
 # Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences
 > 原文: [https://arxiv.org/abs/2608.04037](https://arxiv.org/abs/2608.04037)

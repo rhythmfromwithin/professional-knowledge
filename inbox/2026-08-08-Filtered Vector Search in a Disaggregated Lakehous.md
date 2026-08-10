@@ -1,11 +1,13 @@
 ---
-title: "Filtered Vector Search in a Disaggregated Lakehouse: Composing Table-Format Pruning with Per-File ANN"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.05441
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05441
 next_step: skim
+priority: low
+slack_ts: '1786328462.342389'
+source: cs.DB - Databases
+status: unread
+title: 'Filtered Vector Search in a Disaggregated Lakehouse: Composing Table-Format
+  Pruning with Per-File ANN'
 ---
 # Filtered Vector Search in a Disaggregated Lakehouse: Composing Table-Format Pruning with Per-File ANN
 > 原文: [https://arxiv.org/abs/2608.05441](https://arxiv.org/abs/2608.05441)

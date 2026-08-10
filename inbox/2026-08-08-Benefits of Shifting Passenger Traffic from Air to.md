@@ -1,11 +1,13 @@
 ---
-title: "Benefits of Shifting Passenger Traffic from Air to Rail: A Case Study of California High-Speed Rail"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.05636
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05636
 next_step: skim
+priority: low
+slack_ts: '1786328461.612649'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Benefits of Shifting Passenger Traffic from Air to Rail: A Case Study of California
+  High-Speed Rail'
 ---
 # Benefits of Shifting Passenger Traffic from Air to Rail: A Case Study of California High-Speed Rail
 > 原文: [https://arxiv.org/abs/2608.05636](https://arxiv.org/abs/2608.05636)

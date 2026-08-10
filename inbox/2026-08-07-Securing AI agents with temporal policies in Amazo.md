@@ -1,11 +1,12 @@
 ---
-title: "Securing AI agents with temporal policies in Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786328460.158279'
+source: AWS Blog
+status: unread
+title: Securing AI agents with temporal policies in Amazon Bedrock AgentCore
 ---
 # Securing AI agents with temporal policies in Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/)

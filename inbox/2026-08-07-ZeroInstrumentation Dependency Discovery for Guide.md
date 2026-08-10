@@ -1,11 +1,13 @@
 ---
-title: "Zero-Instrumentation Dependency Discovery for Guided Microservice Migration Using eBPF"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.04413
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.04413
 next_step: skim
+priority: medium
+slack_ts: '1786328460.875219'
+source: cs.DC - Distributed Computing
+status: unread
+title: Zero-Instrumentation Dependency Discovery for Guided Microservice Migration
+  Using eBPF
 ---
 # Zero-Instrumentation Dependency Discovery for Guided Microservice Migration Using eBPF
 > 原文: [https://arxiv.org/abs/2608.04413](https://arxiv.org/abs/2608.04413)

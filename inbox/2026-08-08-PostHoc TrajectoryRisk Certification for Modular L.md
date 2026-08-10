@@ -1,11 +1,12 @@
 ---
-title: "Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.05199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05199
 next_step: skim
+priority: low
+slack_ts: '1786328464.023639'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents
 ---
 # Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents
 > 原文: [https://arxiv.org/abs/2608.05199](https://arxiv.org/abs/2608.05199)

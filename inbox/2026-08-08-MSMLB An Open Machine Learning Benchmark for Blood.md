@@ -1,11 +1,12 @@
 ---
-title: "MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.05196
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05196
 next_step: skim
+priority: high
+slack_ts: '1786328463.656999'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification'
 ---
 # MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification
 > 原文: [https://arxiv.org/abs/2608.05196](https://arxiv.org/abs/2608.05196)

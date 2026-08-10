@@ -1,11 +1,12 @@
 ---
-title: "PPDL: LLM-Based Flows as Probabilistic Programs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.05234
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05234
 next_step: skim
+priority: high
+slack_ts: '1786328463.954139'
+source: cs.LG - Machine Learning
+status: unread
+title: 'PPDL: LLM-Based Flows as Probabilistic Programs'
 ---
 # PPDL: LLM-Based Flows as Probabilistic Programs
 > 原文: [https://arxiv.org/abs/2608.05234](https://arxiv.org/abs/2608.05234)

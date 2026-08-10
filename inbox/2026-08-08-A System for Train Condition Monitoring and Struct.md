@@ -1,11 +1,13 @@
 ---
-title: "A System for Train Condition Monitoring and Structural Health Assessment of Rail Vehicles"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.05221
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05221
 next_step: skim
+priority: medium
+slack_ts: '1786328461.060459'
+source: cs.RO - Robotics
+status: unread
+title: A System for Train Condition Monitoring and Structural Health Assessment of
+  Rail Vehicles
 ---
 # A System for Train Condition Monitoring and Structural Health Assessment of Rail Vehicles
 > 原文: [https://arxiv.org/abs/2608.05221](https://arxiv.org/abs/2608.05221)
