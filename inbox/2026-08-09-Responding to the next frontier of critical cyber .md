@@ -1,11 +1,12 @@
 ---
-title: "Responding to the next frontier of critical cyber capabilities"
-source: "OpenAI Blog"
-link: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
 next_step: skim
+priority: high
+slack_ts: '1786414349.475159'
+source: OpenAI Blog
+status: unread
+title: Responding to the next frontier of critical cyber capabilities
 ---
 # Responding to the next frontier of critical cyber capabilities
 > 原文: [https://openai.com/index/responding-next-frontier-critical-cyber-capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)

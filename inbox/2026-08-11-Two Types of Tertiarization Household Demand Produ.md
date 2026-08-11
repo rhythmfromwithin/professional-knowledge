@@ -1,0 +1,14 @@
+---
+title: "Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2608.06584
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services
+> 原文: [https://arxiv.org/abs/2608.06584](https://arxiv.org/abs/2608.06584)
+
+arXiv:2608.06584v1 Announce Type: new
+Abstract: I measure whether the rise of services is ultimately supported by household consumption or by non-household demand through production networks, investment, exports, and government. Using harmonized input-output tables for 76 economies over 1995-2022, I attribute service value added to its ultimate domestic final-demand category and measure the household orientation of each service economy in both levels and growth. The conventional service share does not reveal the type: it is negatively correlated with household orientation, and only about four in ten tertiarization episodes are majority-household. Among the 65 economies whose service share rose over 1995-2018, 77 percent became less household-oriented; the share is 75 percent under a two-percentage-point material-change threshold. Yet household-supported production becomes more service-intensive with income because households' aggregate position falls faster. A one-type benchmark has no purchaser margin; a two-type extension gives the condition for this reversal. An exact Leontief accounting and Shapley decomposition allocate a median 73 percent of service-share growth to production-system channels, which are the largest contribution in 80 percent of economies with materially rising shares. The decline in household orientation is instead allocated mainly to aggregate final-demand structure. The service share records how much service activity exists, not which economic transformation produced it.

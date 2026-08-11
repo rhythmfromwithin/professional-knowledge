@@ -1,11 +1,12 @@
 ---
-title: "Towards a Risk Assessment of Malicious Skill Files in Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.05223
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05223
 next_step: skim
+priority: low
+slack_ts: '1786414343.365499'
+source: cs.SE - Software Engineering
+status: unread
+title: Towards a Risk Assessment of Malicious Skill Files in Coding Agents
 ---
 # Towards a Risk Assessment of Malicious Skill Files in Coding Agents
 > 原文: [https://arxiv.org/abs/2608.05223](https://arxiv.org/abs/2608.05223)

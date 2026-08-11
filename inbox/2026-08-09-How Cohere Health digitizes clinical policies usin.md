@@ -1,11 +1,12 @@
 ---
-title: "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786414347.527659'
+source: AWS Blog
+status: unread
+title: How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore
 ---
 # How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)

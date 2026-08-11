@@ -1,11 +1,12 @@
 ---
-title: "How HSP GRUPPE builds AI capabilities for tax advisory"
-source: "OpenAI Blog"
-link: https://openai.com/index/hsp-gruppe
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/hsp-gruppe
 next_step: skim
+priority: high
+slack_ts: '1786414347.724889'
+source: OpenAI Blog
+status: unread
+title: How HSP GRUPPE builds AI capabilities for tax advisory
 ---
 # How HSP GRUPPE builds AI capabilities for tax advisory
 > 原文: [https://openai.com/index/hsp-gruppe](https://openai.com/index/hsp-gruppe)

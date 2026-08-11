@@ -1,0 +1,15 @@
+---
+title: "TransSLR: A Lightweight Transformer for Sign Language Recognition"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2608.06407
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# TransSLR: A Lightweight Transformer for Sign Language Recognition
+> 原文: [https://arxiv.org/abs/2608.06407](https://arxiv.org/abs/2608.06407)
+
+arXiv:2608.06407v1 Announce Type: new
+Abstract: Automated Sign Language Recognition for under-represented languages remains a largely unsolved problem. Central African Sign Language (CASL) exemplifies this gap: the only available bench-mark, CASL-W60, has a best reported accuracy of 69.93%, and we show that the common heuristic of fine-tuning high-resource models fails to close it. This failure stems from two compounding factors: the limited scale of available CASL data and the significant lexical and visual domain gap between CASL and large-scale corpora such as WLASL, which renders pre-trained representations largely uninformative.
+To address this, we propose TransSLR, a lightweight Temporal Transformer Encoder trained from scratch on 64-frame normalized pose sequences, with average pooling and a classification head. By operating on geometric keypoint representations rather than raw RGB, TransSLR achieves signer-independent generalization without relying on visual appearance. On the CASL-W60 benchmark, TransSLR establishes a new state-of-the-art accuracy of 80.39%, surpassing the prior best by +10.46%. Beyond accuracy, our encoder-only design significantly reduces computational overhead, making deployment feasible in resource-constrained environments. We conduct extensive experiments on the CASL-W60 benchmark, comparing against RGB-based and multimodal baselines, and demonstrate that TransSLR achieves state-of-the-art performance.

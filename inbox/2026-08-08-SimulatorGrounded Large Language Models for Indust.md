@@ -1,11 +1,14 @@
 ---
-title: "Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.05151
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05151
 next_step: skim
+priority: high
+slack_ts: '1786414341.894989'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Simulator-Grounded Large Language Models for Industrial Causal Reasoning:
+  Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment
+  Decision Support'
 ---
 # Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support
 > 原文: [https://arxiv.org/abs/2608.05151](https://arxiv.org/abs/2608.05151)

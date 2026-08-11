@@ -1,11 +1,12 @@
 ---
-title: "Temporal and Conceptual Modeling: Foundations and Research Evolution"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.05342
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05342
 next_step: skim
+priority: low
+slack_ts: '1786414342.800819'
+source: cs.DB - Databases
+status: unread
+title: 'Temporal and Conceptual Modeling: Foundations and Research Evolution'
 ---
 # Temporal and Conceptual Modeling: Foundations and Research Evolution
 > 原文: [https://arxiv.org/abs/2608.05342](https://arxiv.org/abs/2608.05342)

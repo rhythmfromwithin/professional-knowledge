@@ -1,11 +1,13 @@
 ---
-title: "A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.06096
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06096
 next_step: skim
+priority: low
+slack_ts: '1786414344.134909'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective
+  Optimization
 ---
 # A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization
 > 原文: [https://arxiv.org/abs/2608.06096](https://arxiv.org/abs/2608.06096)

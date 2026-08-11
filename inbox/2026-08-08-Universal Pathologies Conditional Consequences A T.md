@@ -1,11 +1,13 @@
 ---
-title: "Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis of RAG for Multi-Hop Traceability"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.05153
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05153
 next_step: skim
+priority: high
+slack_ts: '1786414343.559909'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis
+  of RAG for Multi-Hop Traceability'
 ---
 # Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis of RAG for Multi-Hop Traceability
 > 原文: [https://arxiv.org/abs/2608.05153](https://arxiv.org/abs/2608.05153)

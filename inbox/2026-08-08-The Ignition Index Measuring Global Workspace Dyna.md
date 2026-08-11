@@ -1,11 +1,12 @@
 ---
-title: "The Ignition Index: Measuring Global Workspace Dynamics in Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.05160
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.05160
 next_step: skim
+priority: high
+slack_ts: '1786414342.977869'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Ignition Index: Measuring Global Workspace Dynamics in Language Models'
 ---
 # The Ignition Index: Measuring Global Workspace Dynamics in Language Models
 > 原文: [https://arxiv.org/abs/2608.05160](https://arxiv.org/abs/2608.05160)
