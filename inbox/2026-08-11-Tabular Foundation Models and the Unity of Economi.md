@@ -1,11 +1,12 @@
 ---
-title: "Tabular Foundation Models and the Unity of Economic Behaviour"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.06842
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06842
 next_step: skim
+priority: low
+slack_ts: '1786501792.956449'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Tabular Foundation Models and the Unity of Economic Behaviour
 ---
 # Tabular Foundation Models and the Unity of Economic Behaviour
 > 原文: [https://arxiv.org/abs/2608.06842](https://arxiv.org/abs/2608.06842)

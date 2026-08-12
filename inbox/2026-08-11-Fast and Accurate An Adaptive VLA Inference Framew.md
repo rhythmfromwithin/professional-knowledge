@@ -1,11 +1,13 @@
 ---
-title: "Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.06434
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06434
 next_step: skim
+priority: medium
+slack_ts: '1786501784.463559'
+source: cs.RO - Robotics
+status: unread
+title: 'Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware
+  Model Selection'
 ---
 # Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection
 > 原文: [https://arxiv.org/abs/2608.06434](https://arxiv.org/abs/2608.06434)

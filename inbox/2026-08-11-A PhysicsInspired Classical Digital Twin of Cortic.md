@@ -1,11 +1,14 @@
 ---
-title: "A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.10439
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.10439
 next_step: skim
+priority: low
+slack_ts: '1786501780.092169'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified
+  Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface
+  EEG'
 ---
 # A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG
 > 原文: [https://arxiv.org/abs/2607.10439](https://arxiv.org/abs/2607.10439)

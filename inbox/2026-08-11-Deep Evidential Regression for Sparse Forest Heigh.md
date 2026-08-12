@@ -1,11 +1,13 @@
 ---
-title: "Deep Evidential Regression for Sparse Forest Height Estimation from Multimodal Satellite Imagery"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.06406
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06406
 next_step: skim
+priority: medium
+slack_ts: '1786501782.785739'
+source: cs.CV - Computer Vision
+status: unread
+title: Deep Evidential Regression for Sparse Forest Height Estimation from Multimodal
+  Satellite Imagery
 ---
 # Deep Evidential Regression for Sparse Forest Height Estimation from Multimodal Satellite Imagery
 > 原文: [https://arxiv.org/abs/2608.06406](https://arxiv.org/abs/2608.06406)

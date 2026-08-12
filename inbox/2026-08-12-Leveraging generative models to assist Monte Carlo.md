@@ -1,0 +1,14 @@
+---
+title: "Leveraging generative models to assist Monte Carlo sampling"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2608.07648
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Leveraging generative models to assist Monte Carlo sampling
+> 原文: [https://arxiv.org/abs/2608.07648](https://arxiv.org/abs/2608.07648)
+
+arXiv:2608.07648v1 Announce Type: new
+Abstract: Sampling high-dimensional probability distributions is a central task in scientific computing, with applications ranging from Bayesian inference to statistical physics and molecular simulation. Despite decades of methodological developments, two major challenges remain: scaling to high dimensions and efficiently exploring multimodal distributions characterized by metastable states. Classical approaches such as Markov chain Monte Carlo, tempering methods, or enhanced sampling based on collective variables have achieved major successes, but they also face intrinsic limitations. This tutorial review explores a new paradigm that has recently emerged at the interface of machine learning and computational statistical physics: the use of generative models as tools for sampling. In this context, models such as normalizing flows and diffusion models are not used in their traditional data-driven setting, but rather as flexible probabilistic models that can assist the sampling of distributions known only up to a normalization constant. This manuscript reviews the early development of this rapidly evolving field and discusses several methodological directions, including exact samplers based on generative models and strategies to train such models in the absence of data. While an exhaustive survey of the literature is not attempted, we present a selection of key ideas and methods, along with a discussion of their strengths and limitations. The review is intended to be an accessible tutorial for both physics and machine learning audiences, and it aims to provide a starting point for researchers interested in exploring this exciting area of research.

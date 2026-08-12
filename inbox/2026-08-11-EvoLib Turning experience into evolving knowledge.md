@@ -1,11 +1,12 @@
 ---
-title: "EvoLib: Turning experience into evolving knowledge"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/
 next_step: skim
+priority: high
+slack_ts: '1786501783.850009'
+source: Microsoft Research
+status: unread
+title: 'EvoLib: Turning experience into evolving knowledge'
 ---
 # EvoLib: Turning experience into evolving knowledge
 > 原文: [https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/)

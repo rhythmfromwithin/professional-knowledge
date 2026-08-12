@@ -1,11 +1,13 @@
 ---
-title: "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.06394
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06394
 next_step: skim
+priority: high
+slack_ts: '1786501793.579139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Towards Multi-Label Graph Foundation Models: from Single-Vector Representation
+  Learning to Multi-Semantic Basis Learning'
 ---
 # Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning
 > 原文: [https://arxiv.org/abs/2608.06394](https://arxiv.org/abs/2608.06394)

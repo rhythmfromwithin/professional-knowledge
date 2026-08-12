@@ -1,11 +1,13 @@
 ---
-title: "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.06400
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06400
 next_step: skim
+priority: high
+slack_ts: '1786501781.299299'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts
+  Reward Models via Contribution Contrast'
 ---
 # Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast
 > 原文: [https://arxiv.org/abs/2608.06400](https://arxiv.org/abs/2608.06400)

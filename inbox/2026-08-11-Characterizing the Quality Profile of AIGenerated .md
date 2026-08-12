@@ -1,11 +1,12 @@
 ---
-title: "Characterizing the Quality Profile of AI-Generated C++ in Production"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.06640
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06640
 next_step: skim
+priority: low
+slack_ts: '1786501781.720829'
+source: cs.SE - Software Engineering
+status: unread
+title: Characterizing the Quality Profile of AI-Generated C++ in Production
 ---
 # Characterizing the Quality Profile of AI-Generated C++ in Production
 > 原文: [https://arxiv.org/abs/2608.06640](https://arxiv.org/abs/2608.06640)

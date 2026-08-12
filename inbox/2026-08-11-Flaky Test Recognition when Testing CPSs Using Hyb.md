@@ -1,11 +1,12 @@
 ---
-title: "Flaky Test Recognition when Testing CPSs Using Hybrid Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.06535
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06535
 next_step: skim
+priority: low
+slack_ts: '1786501784.843069'
+source: cs.SE - Software Engineering
+status: unread
+title: Flaky Test Recognition when Testing CPSs Using Hybrid Models
 ---
 # Flaky Test Recognition when Testing CPSs Using Hybrid Models
 > 原文: [https://arxiv.org/abs/2608.06535](https://arxiv.org/abs/2608.06535)

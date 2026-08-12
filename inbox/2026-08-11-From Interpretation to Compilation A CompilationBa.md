@@ -1,11 +1,13 @@
 ---
-title: "From Interpretation to Compilation: A Compilation-Based Execution Engine for Semantic Operator Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.06677
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06677
 next_step: skim
+priority: low
+slack_ts: '1786501785.039039'
+source: cs.DB - Databases
+status: unread
+title: 'From Interpretation to Compilation: A Compilation-Based Execution Engine for
+  Semantic Operator Systems'
 ---
 # From Interpretation to Compilation: A Compilation-Based Execution Engine for Semantic Operator Systems
 > 原文: [https://arxiv.org/abs/2608.06677](https://arxiv.org/abs/2608.06677)

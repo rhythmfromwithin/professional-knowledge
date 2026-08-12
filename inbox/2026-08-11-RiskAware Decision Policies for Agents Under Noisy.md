@@ -1,11 +1,12 @@
 ---
-title: "Risk-Aware Decision Policies for Agents Under Noisy Perception"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.06420
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06420
 next_step: skim
+priority: high
+slack_ts: '1786501791.537689'
+source: cs.LG - Machine Learning
+status: unread
+title: Risk-Aware Decision Policies for Agents Under Noisy Perception
 ---
 # Risk-Aware Decision Policies for Agents Under Noisy Perception
 > 原文: [https://arxiv.org/abs/2608.06420](https://arxiv.org/abs/2608.06420)

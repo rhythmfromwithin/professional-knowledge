@@ -1,11 +1,12 @@
 ---
-title: "NTDH: Complex Reasoning for Comprehensive Affective Analysis"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.06425
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06425
 next_step: skim
+priority: high
+slack_ts: '1786501789.629719'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'NTDH: Complex Reasoning for Comprehensive Affective Analysis'
 ---
 # NTDH: Complex Reasoning for Comprehensive Affective Analysis
 > 原文: [https://arxiv.org/abs/2608.06425](https://arxiv.org/abs/2608.06425)

@@ -1,11 +1,12 @@
 ---
-title: "Accelerating Accurate Assignment Authoring Using Solution-Generated Autograders"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.06572
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06572
 next_step: skim
+priority: medium
+slack_ts: '1786501780.277299'
+source: cs.CY - Computers and Society
+status: unread
+title: Accelerating Accurate Assignment Authoring Using Solution-Generated Autograders
 ---
 # Accelerating Accurate Assignment Authoring Using Solution-Generated Autograders
 > 原文: [https://arxiv.org/abs/2608.06572](https://arxiv.org/abs/2608.06572)

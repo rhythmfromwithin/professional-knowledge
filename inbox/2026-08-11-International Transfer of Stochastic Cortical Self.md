@@ -1,11 +1,12 @@
 ---
-title: "International Transfer of Stochastic Cortical Self-Reconstruction"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.07092
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07092
 next_step: skim
+priority: low
+slack_ts: '1786501787.258309'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: International Transfer of Stochastic Cortical Self-Reconstruction
 ---
 # International Transfer of Stochastic Cortical Self-Reconstruction
 > 原文: [https://arxiv.org/abs/2608.07092](https://arxiv.org/abs/2608.07092)

@@ -1,11 +1,12 @@
 ---
-title: "MARS: A Monte Carlo Tree Search-based Adaptive and Responsive Scheduler"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.06629
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06629
 next_step: skim
+priority: medium
+slack_ts: '1786501788.541609'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'MARS: A Monte Carlo Tree Search-based Adaptive and Responsive Scheduler'
 ---
 # MARS: A Monte Carlo Tree Search-based Adaptive and Responsive Scheduler
 > 原文: [https://arxiv.org/abs/2608.06629](https://arxiv.org/abs/2608.06629)

@@ -1,11 +1,12 @@
 ---
-title: "How TReNDS automates root-cause analysis with Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1786501776.811249'
+source: AWS Blog
+status: unread
+title: How TReNDS automates root-cause analysis with Amazon Bedrock
 ---
 # How TReNDS automates root-cause analysis with Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)

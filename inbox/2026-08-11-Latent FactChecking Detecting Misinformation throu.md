@@ -1,11 +1,12 @@
 ---
-title: "Latent Fact-Checking: Detecting Misinformation through Activation Engineering"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.06417
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06417
 next_step: skim
+priority: high
+slack_ts: '1786501787.890369'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Latent Fact-Checking: Detecting Misinformation through Activation Engineering'
 ---
 # Latent Fact-Checking: Detecting Misinformation through Activation Engineering
 > 原文: [https://arxiv.org/abs/2608.06417](https://arxiv.org/abs/2608.06417)

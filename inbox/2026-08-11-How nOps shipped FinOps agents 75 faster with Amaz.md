@@ -1,11 +1,12 @@
 ---
-title: "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786501786.665489'
+source: AWS Blog
+status: unread
+title: How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore
 ---
 # How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/)

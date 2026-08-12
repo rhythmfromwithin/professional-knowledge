@@ -1,11 +1,13 @@
 ---
-title: "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.07393
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07393
 next_step: skim
+priority: low
+slack_ts: '1786501784.648359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling
+  Brain Dynamic Functional Connectivity'
 ---
 # FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity
 > 原文: [https://arxiv.org/abs/2608.07393](https://arxiv.org/abs/2608.07393)

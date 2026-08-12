@@ -1,11 +1,12 @@
 ---
-title: "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.06398
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06398
 next_step: skim
+priority: high
+slack_ts: '1786501783.406329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs'
 ---
 # EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs
 > 原文: [https://arxiv.org/abs/2608.06398](https://arxiv.org/abs/2608.06398)
