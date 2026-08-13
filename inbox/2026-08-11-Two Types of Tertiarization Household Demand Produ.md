@@ -1,11 +1,13 @@
 ---
-title: "Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.06584
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06584
 next_step: skim
+priority: low
+slack_ts: '1786588250.358529'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Two Types of Tertiarization: Household Demand, Production Networks, and the
+  Rise of Services'
 ---
 # Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services
 > 原文: [https://arxiv.org/abs/2608.06584](https://arxiv.org/abs/2608.06584)

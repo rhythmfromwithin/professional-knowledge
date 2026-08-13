@@ -1,11 +1,12 @@
 ---
-title: "DocAtlas: Long-Document Understanding as Mutable-State Interaction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.07527
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07527
 next_step: skim
+priority: high
+slack_ts: '1786588257.532989'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DocAtlas: Long-Document Understanding as Mutable-State Interaction'
 ---
 # DocAtlas: Long-Document Understanding as Mutable-State Interaction
 > 原文: [https://arxiv.org/abs/2608.07527](https://arxiv.org/abs/2608.07527)

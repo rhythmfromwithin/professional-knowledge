@@ -1,11 +1,12 @@
 ---
-title: "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/
 next_step: skim
+priority: high
+slack_ts: '1786588248.630109'
+source: AWS Blog
+status: unread
+title: Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows
 ---
 # Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows
 > 原文: [https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/](https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/)

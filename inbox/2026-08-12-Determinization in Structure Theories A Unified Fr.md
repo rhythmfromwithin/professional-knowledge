@@ -1,11 +1,13 @@
 ---
-title: "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.07476
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07476
 next_step: skim
+priority: high
+slack_ts: '1786588257.016999'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Determinization in Structure Theories: A Unified Framework via Closure, Comparability,
+  and Joint Admissibility'
 ---
 # Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility
 > 原文: [https://arxiv.org/abs/2608.07476](https://arxiv.org/abs/2608.07476)

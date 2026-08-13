@@ -1,11 +1,12 @@
 ---
-title: "Preventive Care Recommendations by Large Language Models"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.06379
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06379
 next_step: skim
+priority: low
+slack_ts: '1786588247.578759'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Preventive Care Recommendations by Large Language Models
 ---
 # Preventive Care Recommendations by Large Language Models
 > 原文: [https://arxiv.org/abs/2608.06379](https://arxiv.org/abs/2608.06379)

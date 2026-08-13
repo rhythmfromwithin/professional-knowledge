@@ -1,11 +1,13 @@
 ---
-title: "Optimized Certainty Equivalent Risk Minimization Using Samples: Algorithms, Convergence Rates, and Applications"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.07113
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07113
 next_step: skim
+priority: medium
+slack_ts: '1786588246.824879'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Optimized Certainty Equivalent Risk Minimization Using Samples: Algorithms,
+  Convergence Rates, and Applications'
 ---
 # Optimized Certainty Equivalent Risk Minimization Using Samples: Algorithms, Convergence Rates, and Applications
 > 原文: [https://arxiv.org/abs/2608.07113](https://arxiv.org/abs/2608.07113)

@@ -1,11 +1,13 @@
 ---
-title: "From Human-Centered Design to Human-AI Collaboration: Why the Future of HCI Still Starts With People"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.07482
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07482
 next_step: skim
+priority: low
+slack_ts: '1786588259.282339'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Human-Centered Design to Human-AI Collaboration: Why the Future of HCI
+  Still Starts With People'
 ---
 # From Human-Centered Design to Human-AI Collaboration: Why the Future of HCI Still Starts With People
 > 原文: [https://arxiv.org/abs/2608.07482](https://arxiv.org/abs/2608.07482)

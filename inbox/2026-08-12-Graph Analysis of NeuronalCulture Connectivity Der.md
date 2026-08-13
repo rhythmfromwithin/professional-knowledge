@@ -1,11 +1,13 @@
 ---
-title: "Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computing Model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.09773
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09773
 next_step: skim
+priority: low
+slack_ts: '1786588260.763119'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computing
+  Model
 ---
 # Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computing Model
 > 原文: [https://arxiv.org/abs/2608.09773](https://arxiv.org/abs/2608.09773)

@@ -1,7 +1,9 @@
 ---
-title: "Modeling Device Capabilities for Analytics"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss
+slack_ts: '1786588246.054479'
+source: Netflix Tech Blog
+title: Modeling Device Capabilities for Analytics
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

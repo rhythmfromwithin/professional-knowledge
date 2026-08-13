@@ -1,11 +1,12 @@
 ---
-title: "TransSLR: A Lightweight Transformer for Sign Language Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.06407
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06407
 next_step: skim
+priority: medium
+slack_ts: '1786588250.109589'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TransSLR: A Lightweight Transformer for Sign Language Recognition'
 ---
 # TransSLR: A Lightweight Transformer for Sign Language Recognition
 > 原文: [https://arxiv.org/abs/2608.06407](https://arxiv.org/abs/2608.06407)

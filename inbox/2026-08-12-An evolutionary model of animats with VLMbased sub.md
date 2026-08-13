@@ -1,11 +1,12 @@
 ---
-title: "An evolutionary model of animats with VLM-based subjective evaluation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.07537
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07537
 next_step: skim
+priority: low
+slack_ts: '1786588254.338999'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: An evolutionary model of animats with VLM-based subjective evaluation
 ---
 # An evolutionary model of animats with VLM-based subjective evaluation
 > 原文: [https://arxiv.org/abs/2608.07537](https://arxiv.org/abs/2608.07537)

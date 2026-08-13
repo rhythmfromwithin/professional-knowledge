@@ -1,11 +1,12 @@
 ---
-title: "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.07474
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07474
 next_step: skim
+priority: high
+slack_ts: '1786588259.039969'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains
 ---
 # Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains
 > 原文: [https://arxiv.org/abs/2608.07474](https://arxiv.org/abs/2608.07474)

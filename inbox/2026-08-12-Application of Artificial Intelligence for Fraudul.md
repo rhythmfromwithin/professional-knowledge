@@ -1,11 +1,12 @@
 ---
-title: "Application of Artificial Intelligence for Fraudulent Banking Operations Recognition"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.07471
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07471
 next_step: skim
+priority: high
+slack_ts: '1786588254.576199'
+source: cs.LG - Machine Learning
+status: unread
+title: Application of Artificial Intelligence for Fraudulent Banking Operations Recognition
 ---
 # Application of Artificial Intelligence for Fraudulent Banking Operations Recognition
 > 原文: [https://arxiv.org/abs/2608.07471](https://arxiv.org/abs/2608.07471)

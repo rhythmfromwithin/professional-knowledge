@@ -1,11 +1,13 @@
 ---
-title: "Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.07535
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07535
 next_step: skim
+priority: high
+slack_ts: '1786588258.546319'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of
+  Emerging Threats and Safeguards'
 ---
 # Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards
 > 原文: [https://arxiv.org/abs/2608.07535](https://arxiv.org/abs/2608.07535)

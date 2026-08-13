@@ -1,11 +1,12 @@
 ---
-title: "Workplace dependence in urban economies"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.07588
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07588
 next_step: skim
+priority: low
+slack_ts: '1786588269.286709'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Workplace dependence in urban economies
 ---
 # Workplace dependence in urban economies
 > 原文: [https://arxiv.org/abs/2608.07588](https://arxiv.org/abs/2608.07588)

@@ -1,11 +1,13 @@
 ---
-title: "Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.07251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07251
 next_step: skim
+priority: low
+slack_ts: '1786588248.108279'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Reading Copom''s Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment,
+  Forward Guidance, and Uncertainty'
 ---
 # Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty
 > 原文: [https://arxiv.org/abs/2608.07251](https://arxiv.org/abs/2608.07251)

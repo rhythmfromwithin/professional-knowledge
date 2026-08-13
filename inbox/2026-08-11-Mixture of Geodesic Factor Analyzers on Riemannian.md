@@ -1,11 +1,12 @@
 ---
-title: "Mixture of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.06971
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06971
 next_step: skim
+priority: medium
+slack_ts: '1786588245.550709'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Mixture of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces
 ---
 # Mixture of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces
 > 原文: [https://arxiv.org/abs/2608.06971](https://arxiv.org/abs/2608.06971)

@@ -1,11 +1,13 @@
 ---
-title: "Understanding the Energy Impact of Software Refactoring: A Workload-Aware Study of Controlled Examples and Real-World Commits"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.06620
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06620
 next_step: skim
+priority: low
+slack_ts: '1786588250.594989'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Understanding the Energy Impact of Software Refactoring: A Workload-Aware
+  Study of Controlled Examples and Real-World Commits'
 ---
 # Understanding the Energy Impact of Software Refactoring: A Workload-Aware Study of Controlled Examples and Real-World Commits
 > 原文: [https://arxiv.org/abs/2608.06620](https://arxiv.org/abs/2608.06620)

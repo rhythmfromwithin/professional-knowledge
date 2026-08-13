@@ -1,11 +1,13 @@
 ---
-title: "Designing for Ethical AI: HCI Feature Considerations to Improve Fairness and User Experience in AutoML use for Human Resources"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.07477
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07477
 next_step: skim
+priority: low
+slack_ts: '1786588256.773359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Designing for Ethical AI: HCI Feature Considerations to Improve Fairness and
+  User Experience in AutoML use for Human Resources'
 ---
 # Designing for Ethical AI: HCI Feature Considerations to Improve Fairness and User Experience in AutoML use for Human Resources
 > 原文: [https://arxiv.org/abs/2608.07477](https://arxiv.org/abs/2608.07477)

@@ -1,11 +1,13 @@
 ---
-title: "eIRWR: Enhanced Iterative Random Walk with Restart for Scalable Root Cause Analysis in Microservices"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.08073
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.08073
 next_step: skim
+priority: medium
+slack_ts: '1786588270.171679'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'eIRWR: Enhanced Iterative Random Walk with Restart for Scalable Root Cause
+  Analysis in Microservices'
 ---
 # eIRWR: Enhanced Iterative Random Walk with Restart for Scalable Root Cause Analysis in Microservices
 > 原文: [https://arxiv.org/abs/2608.08073](https://arxiv.org/abs/2608.08073)

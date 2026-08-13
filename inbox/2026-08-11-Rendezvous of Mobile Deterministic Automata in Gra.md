@@ -1,11 +1,12 @@
 ---
-title: "Rendezvous of Mobile Deterministic Automata in Graphs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.06482
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06482
 next_step: skim
+priority: medium
+slack_ts: '1786588248.352119'
+source: cs.DC - Distributed Computing
+status: unread
+title: Rendezvous of Mobile Deterministic Automata in Graphs
 ---
 # Rendezvous of Mobile Deterministic Automata in Graphs
 > 原文: [https://arxiv.org/abs/2608.06482](https://arxiv.org/abs/2608.06482)

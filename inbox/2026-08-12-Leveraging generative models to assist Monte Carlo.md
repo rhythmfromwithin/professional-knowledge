@@ -1,11 +1,12 @@
 ---
-title: "Leveraging generative models to assist Monte Carlo sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.07648
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07648
 next_step: skim
+priority: medium
+slack_ts: '1786588263.086869'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Leveraging generative models to assist Monte Carlo sampling
 ---
 # Leveraging generative models to assist Monte Carlo sampling
 > 原文: [https://arxiv.org/abs/2608.07648](https://arxiv.org/abs/2608.07648)

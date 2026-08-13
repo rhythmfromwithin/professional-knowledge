@@ -1,11 +1,13 @@
 ---
-title: "WorldMark: A Plug-and-Play World Knowledge Interface for Cross-Host Language Model Watermarking"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.06416
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06416
 next_step: skim
+priority: low
+slack_ts: '1786588252.898239'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'WorldMark: A Plug-and-Play World Knowledge Interface for Cross-Host Language
+  Model Watermarking'
 ---
 # WorldMark: A Plug-and-Play World Knowledge Interface for Cross-Host Language Model Watermarking
 > 原文: [https://arxiv.org/abs/2608.06416](https://arxiv.org/abs/2608.06416)

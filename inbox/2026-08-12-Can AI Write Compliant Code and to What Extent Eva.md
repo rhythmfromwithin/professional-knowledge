@@ -1,11 +1,13 @@
 ---
-title: "Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.07776
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07776
 next_step: skim
+priority: low
+slack_ts: '1786588255.308739'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance
+  of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases
 ---
 # Can AI Write Compliant Code, and to What Extent? Evaluating SOC 2 Compliance of Claude Fable 5, Claude Opus 4.8, and Claude Opus 5 Across Four Use Cases
 > 原文: [https://arxiv.org/abs/2608.07776](https://arxiv.org/abs/2608.07776)

@@ -1,11 +1,13 @@
 ---
-title: "Organizational and Socio-Technical Challenges in UAV Incidents: Evidence from a Practitioner Focus Group"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.06472
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06472
 next_step: skim
+priority: medium
+slack_ts: '1786588247.068259'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Organizational and Socio-Technical Challenges in UAV Incidents: Evidence from
+  a Practitioner Focus Group'
 ---
 # Organizational and Socio-Technical Challenges in UAV Incidents: Evidence from a Practitioner Focus Group
 > 原文: [https://arxiv.org/abs/2608.06472](https://arxiv.org/abs/2608.06472)

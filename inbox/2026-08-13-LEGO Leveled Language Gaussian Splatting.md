@@ -1,0 +1,14 @@
+---
+title: "LEGO: Leveled Language Gaussian Splatting"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2608.10057
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# LEGO: Leveled Language Gaussian Splatting
+> 原文: [https://arxiv.org/abs/2608.10057](https://arxiv.org/abs/2608.10057)
+
+arXiv:2608.10057v1 Announce Type: new
+Abstract: We introduce LEGO for advanced open-vocabulary scene understanding. Beyond basic concept recognition, its core innovation lies in capturing the intrinsic semantic hierarchies within the scene, such as the "flowerpot -> bouquet -> bud -> petal" lineage. While foundation models like SAM can identify multi-granular structures in 2D, their partitions are strictly perspective-bound and lack cross-view consensus. LEGO self-adaptively re-grades volatile multi-view SAM granularities into a unified, 3D-consistent hierarchy. This provides precise supervision for the structurally coherent, multi-level segmentation of 3D scenes. By grounding these segments with CLIP embeddings, LEGO recovers open-vocabulary semantic logic across hierarchical levels. Furthermore, by incorporating spatial relationships, we elevate these segments into level-wise language scene graphs, effectively empowering Large Language Models to perform complex, context-aware spatial reasoning and precise visual grounding. Experimental results demonstrate that LEGO establishes new state-of-the-art performance across both promptable and open-vocabulary 3D segmentation benchmarks, exhibiting advanced hierarchical scene decomposition and context-aware spatial reasoning.

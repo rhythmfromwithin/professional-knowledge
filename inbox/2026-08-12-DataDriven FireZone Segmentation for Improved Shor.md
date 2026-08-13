@@ -1,11 +1,12 @@
 ---
-title: "Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.07472
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07472
 next_step: skim
+priority: high
+slack_ts: '1786588256.284639'
+source: cs.LG - Machine Learning
+status: unread
+title: Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction
 ---
 # Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction
 > 原文: [https://arxiv.org/abs/2608.07472](https://arxiv.org/abs/2608.07472)

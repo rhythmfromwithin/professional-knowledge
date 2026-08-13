@@ -1,11 +1,13 @@
 ---
-title: "ElastiCo: Elastic Configuration and Interference-Aware Orchestration for GPU Clusters"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.07971
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07971
 next_step: skim
+priority: medium
+slack_ts: '1786588258.024769'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ElastiCo: Elastic Configuration and Interference-Aware Orchestration for GPU
+  Clusters'
 ---
 # ElastiCo: Elastic Configuration and Interference-Aware Orchestration for GPU Clusters
 > 原文: [https://arxiv.org/abs/2608.07971](https://arxiv.org/abs/2608.07971)

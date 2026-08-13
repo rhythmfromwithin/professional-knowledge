@@ -1,11 +1,13 @@
 ---
-title: "The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2601.19597
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2601.19597
 next_step: skim
+priority: medium
+slack_ts: '1786588249.597739'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'The Geometric Mechanics of Contrastive Representation Learning: Alignment
+  Potentials, Entropic Dispersion, and Cross-modal Divergence'
 ---
 # The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-modal Divergence
 > 原文: [https://arxiv.org/abs/2601.19597](https://arxiv.org/abs/2601.19597)

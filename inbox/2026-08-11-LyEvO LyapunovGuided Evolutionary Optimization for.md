@@ -1,11 +1,13 @@
 ---
-title: "LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.06481
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06481
 next_step: skim
+priority: medium
+slack_ts: '1786588245.059899'
+source: cs.RO - Robotics
+status: unread
+title: 'LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real
+  Policy Learning'
 ---
 # LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning
 > 原文: [https://arxiv.org/abs/2608.06481](https://arxiv.org/abs/2608.06481)

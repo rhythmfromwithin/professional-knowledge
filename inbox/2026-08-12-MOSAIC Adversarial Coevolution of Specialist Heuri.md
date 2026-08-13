@@ -1,11 +1,13 @@
 ---
-title: "MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.07544
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07544
 next_step: skim
+priority: low
+slack_ts: '1786588263.337659'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances
+  for LLM-based Automated Heuristic Design'
 ---
 # MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design
 > 原文: [https://arxiv.org/abs/2608.07544](https://arxiv.org/abs/2608.07544)

@@ -1,11 +1,12 @@
 ---
-title: "Towards an Argumentative Foundation for Evaluative AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.07473
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07473
 next_step: skim
+priority: high
+slack_ts: '1786588268.262739'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Towards an Argumentative Foundation for Evaluative AI
 ---
 # Towards an Argumentative Foundation for Evaluative AI
 > 原文: [https://arxiv.org/abs/2608.07473](https://arxiv.org/abs/2608.07473)

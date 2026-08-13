@@ -1,11 +1,12 @@
 ---
-title: "MIRA: Evidence-Verified Repair Memory for Text-to-SQL Correction"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.06950
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06950
 next_step: skim
+priority: low
+slack_ts: '1786588245.305229'
+source: cs.DB - Databases
+status: unread
+title: 'MIRA: Evidence-Verified Repair Memory for Text-to-SQL Correction'
 ---
 # MIRA: Evidence-Verified Repair Memory for Text-to-SQL Correction
 > 原文: [https://arxiv.org/abs/2608.06950](https://arxiv.org/abs/2608.06950)

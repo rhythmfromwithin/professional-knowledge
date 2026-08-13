@@ -1,11 +1,12 @@
 ---
-title: "Sharding Prevents LLM Oversight Failures and Adversarial Exploitation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.06422
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06422
 next_step: skim
+priority: high
+slack_ts: '1786588249.359149'
+source: cs.LG - Machine Learning
+status: unread
+title: Sharding Prevents LLM Oversight Failures and Adversarial Exploitation
 ---
 # Sharding Prevents LLM Oversight Failures and Adversarial Exploitation
 > 原文: [https://arxiv.org/abs/2608.06422](https://arxiv.org/abs/2608.06422)

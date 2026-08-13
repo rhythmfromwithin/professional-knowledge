@@ -1,11 +1,13 @@
 ---
-title: "Separating Decision-Rule Misalignment from Readout-Coverage Limitations in Speech Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.06409
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06409
 next_step: skim
+priority: high
+slack_ts: '1786588249.115529'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Separating Decision-Rule Misalignment from Readout-Coverage Limitations in
+  Speech Language Models
 ---
 # Separating Decision-Rule Misalignment from Readout-Coverage Limitations in Speech Language Models
 > 原文: [https://arxiv.org/abs/2608.06409](https://arxiv.org/abs/2608.06409)

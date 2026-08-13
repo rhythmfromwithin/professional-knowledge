@@ -1,11 +1,13 @@
 ---
-title: "Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.06378
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.06378
 next_step: skim
+priority: low
+slack_ts: '1786588246.299649'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for
+  Intelligent Transportation Systems
 ---
 # Multimodal Drivers' Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems
 > 原文: [https://arxiv.org/abs/2608.06378](https://arxiv.org/abs/2608.06378)

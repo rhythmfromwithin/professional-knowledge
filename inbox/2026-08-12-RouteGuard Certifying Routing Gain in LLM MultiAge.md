@@ -1,11 +1,13 @@
 ---
-title: "RouteGuard: Certifying Routing Gain in LLM Multi-Agent Systems When Complementarity Is Not Enough"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.07583
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07583
 next_step: skim
+priority: medium
+slack_ts: '1786588266.230479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'RouteGuard: Certifying Routing Gain in LLM Multi-Agent Systems When Complementarity
+  Is Not Enough'
 ---
 # RouteGuard: Certifying Routing Gain in LLM Multi-Agent Systems When Complementarity Is Not Enough
 > 原文: [https://arxiv.org/abs/2608.07583](https://arxiv.org/abs/2608.07583)

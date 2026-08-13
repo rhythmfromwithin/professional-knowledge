@@ -1,11 +1,12 @@
 ---
-title: "Position: We Need Large Language Models Optimized For Our Well-Being"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.07505
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07505
 next_step: skim
+priority: medium
+slack_ts: '1786588265.122669'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Position: We Need Large Language Models Optimized For Our Well-Being'
 ---
 # Position: We Need Large Language Models Optimized For Our Well-Being
 > 原文: [https://arxiv.org/abs/2608.07505](https://arxiv.org/abs/2608.07505)
