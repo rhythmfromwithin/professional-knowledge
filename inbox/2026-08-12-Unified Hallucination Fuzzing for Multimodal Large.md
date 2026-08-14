@@ -1,11 +1,12 @@
 ---
-title: "Unified Hallucination Fuzzing for Multimodal Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.07525
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07525
 next_step: skim
+priority: high
+slack_ts: '1786674568.364029'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Unified Hallucination Fuzzing for Multimodal Large Language Models
 ---
 # Unified Hallucination Fuzzing for Multimodal Large Language Models
 > 原文: [https://arxiv.org/abs/2608.07525](https://arxiv.org/abs/2608.07525)

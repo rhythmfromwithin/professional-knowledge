@@ -1,11 +1,13 @@
 ---
-title: "Hand-Written PTX Tensor-Core GEMM Kernels: A Multi-Precision Study on NVIDIA L4"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.10103
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10103
 next_step: skim
+priority: medium
+slack_ts: '1786674572.925489'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Hand-Written PTX Tensor-Core GEMM Kernels: A Multi-Precision Study on NVIDIA
+  L4'
 ---
 # Hand-Written PTX Tensor-Core GEMM Kernels: A Multi-Precision Study on NVIDIA L4
 > 原文: [https://arxiv.org/abs/2608.10103](https://arxiv.org/abs/2608.10103)

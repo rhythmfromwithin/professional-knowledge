@@ -1,11 +1,13 @@
 ---
-title: "Deciding When to Switch: E-Processes for Adaptive Minimax Training for Generative Adversarial Nets"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.10096
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10096
 next_step: skim
+priority: medium
+slack_ts: '1786674571.335959'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Deciding When to Switch: E-Processes for Adaptive Minimax Training for Generative
+  Adversarial Nets'
 ---
 # Deciding When to Switch: E-Processes for Adaptive Minimax Training for Generative Adversarial Nets
 > 原文: [https://arxiv.org/abs/2608.10096](https://arxiv.org/abs/2608.10096)

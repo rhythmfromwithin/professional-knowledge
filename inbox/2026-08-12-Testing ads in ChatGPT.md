@@ -1,11 +1,12 @@
 ---
-title: "Testing ads in ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/index/testing-ads-in-chatgpt
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/testing-ads-in-chatgpt
 next_step: skim
+priority: high
+slack_ts: '1786674568.044099'
+source: OpenAI Blog
+status: unread
+title: Testing ads in ChatGPT
 ---
 # Testing ads in ChatGPT
 > 原文: [https://openai.com/index/testing-ads-in-chatgpt](https://openai.com/index/testing-ads-in-chatgpt)

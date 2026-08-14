@@ -1,11 +1,13 @@
 ---
-title: "Conflict or Strategy? Asymmetric Role Framing of La France insoumise and Rassemblement National in French News Headlines, 2022-2025"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.09936
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09936
 next_step: skim
+priority: high
+slack_ts: '1786674570.897789'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Conflict or Strategy? Asymmetric Role Framing of La France insoumise and Rassemblement
+  National in French News Headlines, 2022-2025
 ---
 # Conflict or Strategy? Asymmetric Role Framing of La France insoumise and Rassemblement National in French News Headlines, 2022-2025
 > 原文: [https://arxiv.org/abs/2608.09936](https://arxiv.org/abs/2608.09936)

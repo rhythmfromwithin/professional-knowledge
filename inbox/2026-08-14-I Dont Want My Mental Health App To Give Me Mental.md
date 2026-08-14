@@ -1,0 +1,14 @@
+---
+title: ""I Don't Want My Mental Health App To Give Me Mental Health Barriers": Unpacking The Need For Digital Mental Health Tracking Services With And For The Blind Community"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2608.11391
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# "I Don't Want My Mental Health App To Give Me Mental Health Barriers": Unpacking The Need For Digital Mental Health Tracking Services With And For The Blind Community
+> 原文: [https://arxiv.org/abs/2608.11391](https://arxiv.org/abs/2608.11391)
+
+arXiv:2608.11391v1 Announce Type: new
+Abstract: Digital mental health (DMH) tracking services promise continuous, personalized support for well-being, but their design often assumes sighted users. For the blind community, this assumption produces a distinct pattern of exclusion: services whose accessibility cannot be evaluated without first paying for them, community features that exclude the users they purport to support, and interfaces that leave users digitally literate but functionally blocked. We report on an explanatory sequential mixed-methods study of blind users' experiences with DMH tracking services in the United States. In the first phase, 93 legally blind adults completed a survey about their usage patterns, adoption decisions, and data-agency preferences; in the second, 10 survey respondents participated in semi-structured interviews. We analyzed closed-ended responses using descriptive statistics and the Kruskal-Wallis test, and open-ended and interview data using inductive thematic analysis, interpreting findings through Norman and Skinner's eHealth Literacy framework. Participants identified mindfulness, sleep, and goal-tracking services as their most-used categories, but also described recurring exclusion from the community-support features that other users value most. We argue that the framework's "computer literacy" dimension is insufficient on its own: many of our participants possessed the literacy but were blocked from applying it by design choices that predate the user. We contribute design recommendations for transparent pre-purchase accessibility evaluation, accessibility-native rather than retrofitted interfaces, and user-controlled data agency -- recommendations intended not to accommodate blind users but to design DMH tracking services with them from the start.

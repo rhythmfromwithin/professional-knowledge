@@ -1,11 +1,12 @@
 ---
-title: "Closed-Loop LLM Co-Pilots for Digital Agriculture"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.09949
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09949
 next_step: skim
+priority: high
+slack_ts: '1786674570.628089'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Closed-Loop LLM Co-Pilots for Digital Agriculture
 ---
 # Closed-Loop LLM Co-Pilots for Digital Agriculture
 > 原文: [https://arxiv.org/abs/2608.09949](https://arxiv.org/abs/2608.09949)

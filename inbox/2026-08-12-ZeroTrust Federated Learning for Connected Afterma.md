@@ -1,11 +1,12 @@
 ---
-title: "Zero-Trust Federated Learning for Connected Aftermarket Devices"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.07591
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07591
 next_step: skim
+priority: low
+slack_ts: '1786674569.088579'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Zero-Trust Federated Learning for Connected Aftermarket Devices
 ---
 # Zero-Trust Federated Learning for Connected Aftermarket Devices
 > 原文: [https://arxiv.org/abs/2608.07591](https://arxiv.org/abs/2608.07591)

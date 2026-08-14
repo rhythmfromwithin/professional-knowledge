@@ -1,11 +1,12 @@
 ---
-title: "AI Query Compilation for Unified and Optimized Execution"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.10139
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10139
 next_step: skim
+priority: low
+slack_ts: '1786674569.656649'
+source: cs.DB - Databases
+status: unread
+title: AI Query Compilation for Unified and Optimized Execution
 ---
 # AI Query Compilation for Unified and Optimized Execution
 > 原文: [https://arxiv.org/abs/2608.10139](https://arxiv.org/abs/2608.10139)

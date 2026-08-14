@@ -1,11 +1,12 @@
 ---
-title: "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/
 next_step: skim
+priority: high
+slack_ts: '1786674573.084069'
+source: AWS Blog
+status: unread
+title: How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS
 ---
 # How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/](https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/)

@@ -1,11 +1,13 @@
 ---
-title: "A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply Chain Optimization under Cost Uncertainty"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.10245
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10245
 next_step: skim
+priority: low
+slack_ts: '1786674569.380749'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply
+  Chain Optimization under Cost Uncertainty
 ---
 # A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply Chain Optimization under Cost Uncertainty
 > 原文: [https://arxiv.org/abs/2608.10245](https://arxiv.org/abs/2608.10245)

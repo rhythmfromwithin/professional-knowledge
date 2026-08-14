@@ -1,11 +1,13 @@
 ---
-title: "Verication-driven closed-loop multi-agent large language modelframework for code-compliant structural design"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.07978
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07978
 next_step: skim
+priority: low
+slack_ts: '1786674568.505769'
+source: cs.SE - Software Engineering
+status: unread
+title: Verication-driven closed-loop multi-agent large language modelframework for
+  code-compliant structural design
 ---
 # Verication-driven closed-loop multi-agent large language modelframework for code-compliant structural design
 > 原文: [https://arxiv.org/abs/2608.07978](https://arxiv.org/abs/2608.07978)

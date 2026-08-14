@@ -1,11 +1,12 @@
 ---
-title: "Inferential Capability Does Not Determine Legal Scope"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.10601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10601
 next_step: skim
+priority: medium
+slack_ts: '1786674573.944179'
+source: cs.CY - Computers and Society
+status: unread
+title: Inferential Capability Does Not Determine Legal Scope
 ---
 # Inferential Capability Does Not Determine Legal Scope
 > 原文: [https://arxiv.org/abs/2608.10601](https://arxiv.org/abs/2608.10601)

@@ -1,11 +1,12 @@
 ---
-title: "Scout: Scalable Document Extraction via Data Similarity"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.08261
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.08261
 next_step: skim
+priority: low
+slack_ts: '1786674567.625739'
+source: cs.DB - Databases
+status: unread
+title: 'Scout: Scalable Document Extraction via Data Similarity'
 ---
 # Scout: Scalable Document Extraction via Data Similarity
 > 原文: [https://arxiv.org/abs/2608.08261](https://arxiv.org/abs/2608.08261)

@@ -1,11 +1,13 @@
 ---
-title: "EweAcT: Ewe behaviour aligned to accelerometer data for activity monitoring in extensive grazing systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.09943
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09943
 next_step: skim
+priority: low
+slack_ts: '1786674571.778429'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'EweAcT: Ewe behaviour aligned to accelerometer data for activity monitoring
+  in extensive grazing systems'
 ---
 # EweAcT: Ewe behaviour aligned to accelerometer data for activity monitoring in extensive grazing systems
 > 原文: [https://arxiv.org/abs/2608.09943](https://arxiv.org/abs/2608.09943)

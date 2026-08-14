@@ -1,11 +1,12 @@
 ---
-title: "Improved cross-validated distances for multivariate pattern analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.10394
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10394
 next_step: skim
+priority: low
+slack_ts: '1786674573.803869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Improved cross-validated distances for multivariate pattern analysis
 ---
 # Improved cross-validated distances for multivariate pattern analysis
 > 原文: [https://arxiv.org/abs/2608.10394](https://arxiv.org/abs/2608.10394)

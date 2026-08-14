@@ -1,11 +1,13 @@
 ---
-title: "Yield Curve Prediction with Machine Learning: Forecasting Approaches and the Role of Macroeconomic Predictors"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.07536
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07536
 next_step: skim
+priority: low
+slack_ts: '1786674568.941089'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Yield Curve Prediction with Machine Learning: Forecasting Approaches and the
+  Role of Macroeconomic Predictors'
 ---
 # Yield Curve Prediction with Machine Learning: Forecasting Approaches and the Role of Macroeconomic Predictors
 > 原文: [https://arxiv.org/abs/2608.07536](https://arxiv.org/abs/2608.07536)

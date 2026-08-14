@@ -1,11 +1,13 @@
 ---
-title: "WuYuEval: A Multi-Level Benchmark for Large Language Models in Solid Waste Management"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.07529
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07529
 next_step: skim
+priority: high
+slack_ts: '1786674568.792229'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'WuYuEval: A Multi-Level Benchmark for Large Language Models in Solid Waste
+  Management'
 ---
 # WuYuEval: A Multi-Level Benchmark for Large Language Models in Solid Waste Management
 > 原文: [https://arxiv.org/abs/2608.07529](https://arxiv.org/abs/2608.07529)

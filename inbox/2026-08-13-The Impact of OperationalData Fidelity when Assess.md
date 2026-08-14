@@ -1,11 +1,13 @@
 ---
-title: "The Impact of Operational-Data Fidelity when Assessing Safety-Critical Autonomous-Vehicle Software"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.10025
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10025
 next_step: skim
+priority: medium
+slack_ts: '1786674576.810519'
+source: cs.RO - Robotics
+status: unread
+title: The Impact of Operational-Data Fidelity when Assessing Safety-Critical Autonomous-Vehicle
+  Software
 ---
 # The Impact of Operational-Data Fidelity when Assessing Safety-Critical Autonomous-Vehicle Software
 > 原文: [https://arxiv.org/abs/2608.10025](https://arxiv.org/abs/2608.10025)

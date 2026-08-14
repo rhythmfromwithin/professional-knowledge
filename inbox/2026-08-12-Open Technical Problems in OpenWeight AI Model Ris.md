@@ -1,11 +1,12 @@
 ---
-title: "Open Technical Problems in Open-Weight AI Model Risk Management"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.07514
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07514
 next_step: skim
+priority: medium
+slack_ts: '1786674566.141909'
+source: cs.CY - Computers and Society
+status: unread
+title: Open Technical Problems in Open-Weight AI Model Risk Management
 ---
 # Open Technical Problems in Open-Weight AI Model Risk Management
 > 原文: [https://arxiv.org/abs/2608.07514](https://arxiv.org/abs/2608.07514)

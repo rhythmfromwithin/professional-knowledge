@@ -1,11 +1,5 @@
 ---
-title: "A Note on the Identification Step in "A Semistructural Methodology for Policy Counterfactuals""
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.10596
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1786674569.513949'
 ---
 # A Note on the Identification Step in "A Semistructural Methodology for Policy Counterfactuals"
 > 原文: [https://arxiv.org/abs/2608.10596](https://arxiv.org/abs/2608.10596)

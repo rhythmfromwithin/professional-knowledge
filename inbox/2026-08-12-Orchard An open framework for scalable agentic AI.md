@@ -1,11 +1,12 @@
 ---
-title: "Orchard: An open framework for scalable agentic AI"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/
 next_step: skim
+priority: high
+slack_ts: '1786674566.301159'
+source: Microsoft Research
+status: unread
+title: 'Orchard: An open framework for scalable agentic AI'
 ---
 # Orchard: An open framework for scalable agentic AI
 > 原文: [https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/)

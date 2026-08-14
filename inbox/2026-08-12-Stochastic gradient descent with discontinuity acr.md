@@ -1,11 +1,12 @@
 ---
-title: "Stochastic gradient descent with discontinuity across a manifold"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.07618
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07618
 next_step: skim
+priority: medium
+slack_ts: '1786674567.899659'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Stochastic gradient descent with discontinuity across a manifold
 ---
 # Stochastic gradient descent with discontinuity across a manifold
 > 原文: [https://arxiv.org/abs/2608.07618](https://arxiv.org/abs/2608.07618)

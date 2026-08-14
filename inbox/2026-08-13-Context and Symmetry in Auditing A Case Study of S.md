@@ -1,11 +1,13 @@
 ---
-title: "Context and Symmetry in Auditing: A Case Study of Skeleton Inference in Motion Capture"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.10194
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10194
 next_step: skim
+priority: medium
+slack_ts: '1786674571.058069'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Context and Symmetry in Auditing: A Case Study of Skeleton Inference in Motion
+  Capture'
 ---
 # Context and Symmetry in Auditing: A Case Study of Skeleton Inference in Motion Capture
 > 原文: [https://arxiv.org/abs/2608.10194](https://arxiv.org/abs/2608.10194)

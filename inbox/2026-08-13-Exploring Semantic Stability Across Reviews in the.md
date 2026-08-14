@@ -1,11 +1,12 @@
 ---
-title: "Exploring Semantic Stability Across Reviews in the Linux Kernel"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.10101
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10101
 next_step: skim
+priority: low
+slack_ts: '1786674571.930689'
+source: cs.SE - Software Engineering
+status: unread
+title: Exploring Semantic Stability Across Reviews in the Linux Kernel
 ---
 # Exploring Semantic Stability Across Reviews in the Linux Kernel
 > 原文: [https://arxiv.org/abs/2608.10101](https://arxiv.org/abs/2608.10101)

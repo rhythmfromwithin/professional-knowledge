@@ -1,11 +1,13 @@
 ---
-title: "PragyaDoc: A Universal Document Intelligence Framework for Multilingual Medical Document Understanding in Low-Resource Settings"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.07478
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07478
 next_step: skim
+priority: medium
+slack_ts: '1786674566.898179'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PragyaDoc: A Universal Document Intelligence Framework for Multilingual Medical
+  Document Understanding in Low-Resource Settings'
 ---
 # PragyaDoc: A Universal Document Intelligence Framework for Multilingual Medical Document Understanding in Low-Resource Settings
 > 原文: [https://arxiv.org/abs/2608.07478](https://arxiv.org/abs/2608.07478)

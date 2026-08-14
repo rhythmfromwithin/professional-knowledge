@@ -1,11 +1,13 @@
 ---
-title: "How to Dogfood Your AI Chat Agent: A Three-Layer Evaluation Framework with Goal-Directed NPC Simulation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.09939
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09939
 next_step: skim
+priority: low
+slack_ts: '1786674573.671359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'How to Dogfood Your AI Chat Agent: A Three-Layer Evaluation Framework with
+  Goal-Directed NPC Simulation'
 ---
 # How to Dogfood Your AI Chat Agent: A Three-Layer Evaluation Framework with Goal-Directed NPC Simulation
 > 原文: [https://arxiv.org/abs/2608.09939](https://arxiv.org/abs/2608.09939)

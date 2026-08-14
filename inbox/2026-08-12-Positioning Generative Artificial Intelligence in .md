@@ -1,11 +1,13 @@
 ---
-title: "Positioning Generative Artificial Intelligence in STEM Assessment: When to Require, Scaffold, or Restrict Its Use"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.07475
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07475
 next_step: skim
+priority: medium
+slack_ts: '1786674566.752259'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Positioning Generative Artificial Intelligence in STEM Assessment: When to
+  Require, Scaffold, or Restrict Its Use'
 ---
 # Positioning Generative Artificial Intelligence in STEM Assessment: When to Require, Scaffold, or Restrict Its Use
 > 原文: [https://arxiv.org/abs/2608.07475](https://arxiv.org/abs/2608.07475)

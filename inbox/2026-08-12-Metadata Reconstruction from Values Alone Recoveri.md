@@ -1,11 +1,13 @@
 ---
-title: "Metadata Reconstruction from Values Alone: Recovering Column Semantics in Undocumented Warehouses"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.07946
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07946
 next_step: skim
+priority: low
+slack_ts: '1786674565.793729'
+source: cs.DB - Databases
+status: unread
+title: 'Metadata Reconstruction from Values Alone: Recovering Column Semantics in
+  Undocumented Warehouses'
 ---
 # Metadata Reconstruction from Values Alone: Recovering Column Semantics in Undocumented Warehouses
 > 原文: [https://arxiv.org/abs/2608.07946](https://arxiv.org/abs/2608.07946)

@@ -1,11 +1,13 @@
 ---
-title: "Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.09937
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09937
 next_step: skim
+priority: high
+slack_ts: '1786674570.503359'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural
+  Settings using Cultural Consensus Theory'
 ---
 # Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory
 > 原文: [https://arxiv.org/abs/2608.09937](https://arxiv.org/abs/2608.09937)

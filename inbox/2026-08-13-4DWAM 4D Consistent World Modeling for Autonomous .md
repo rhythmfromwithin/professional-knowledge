@@ -1,11 +1,12 @@
 ---
-title: "4D-WAM: 4D Consistent World Modeling for Autonomous Driving"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.10107
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10107
 next_step: skim
+priority: medium
+slack_ts: '1786674569.234729'
+source: cs.CV - Computer Vision
+status: unread
+title: '4D-WAM: 4D Consistent World Modeling for Autonomous Driving'
 ---
 # 4D-WAM: 4D Consistent World Modeling for Autonomous Driving
 > 原文: [https://arxiv.org/abs/2608.10107](https://arxiv.org/abs/2608.10107)

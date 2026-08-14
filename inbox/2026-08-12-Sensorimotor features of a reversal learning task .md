@@ -1,11 +1,13 @@
 ---
-title: "Sensorimotor features of a reversal learning task bias decision behavior without disrupting individual difference structure"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.08206
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.08206
 next_step: skim
+priority: low
+slack_ts: '1786674567.761509'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Sensorimotor features of a reversal learning task bias decision behavior without
+  disrupting individual difference structure
 ---
 # Sensorimotor features of a reversal learning task bias decision behavior without disrupting individual difference structure
 > 原文: [https://arxiv.org/abs/2608.08206](https://arxiv.org/abs/2608.08206)

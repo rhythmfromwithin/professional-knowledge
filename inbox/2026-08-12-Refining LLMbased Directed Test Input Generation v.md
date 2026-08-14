@@ -1,11 +1,12 @@
 ---
-title: "Refining LLM-based Directed Test Input Generation via Runtime Value Feedback"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.07926
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.07926
 next_step: skim
+priority: low
+slack_ts: '1786674567.195909'
+source: cs.SE - Software Engineering
+status: unread
+title: Refining LLM-based Directed Test Input Generation via Runtime Value Feedback
 ---
 # Refining LLM-based Directed Test Input Generation via Runtime Value Feedback
 > 原文: [https://arxiv.org/abs/2608.07926](https://arxiv.org/abs/2608.07926)
