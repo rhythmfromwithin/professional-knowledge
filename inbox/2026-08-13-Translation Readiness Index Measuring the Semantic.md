@@ -1,11 +1,13 @@
 ---
-title: "Translation Readiness Index: Measuring the Semantic Proximity of Research to Patented Science"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.31102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.31102
 next_step: skim
+priority: low
+slack_ts: '1786757978.370129'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Translation Readiness Index: Measuring the Semantic Proximity of Research
+  to Patented Science'
 ---
 # Translation Readiness Index: Measuring the Semantic Proximity of Research to Patented Science
 > 原文: [https://arxiv.org/abs/2606.31102](https://arxiv.org/abs/2606.31102)

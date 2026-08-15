@@ -1,11 +1,13 @@
 ---
-title: "Reduced Gibbs free energy supply hinders brain information processing during mental fatigue"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.10211
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10211
 next_step: skim
+priority: low
+slack_ts: '1786757977.833589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Reduced Gibbs free energy supply hinders brain information processing during
+  mental fatigue
 ---
 # Reduced Gibbs free energy supply hinders brain information processing during mental fatigue
 > 原文: [https://arxiv.org/abs/2608.10211](https://arxiv.org/abs/2608.10211)

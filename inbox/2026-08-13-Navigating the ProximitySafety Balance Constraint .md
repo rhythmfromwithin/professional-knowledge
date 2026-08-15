@@ -1,11 +1,13 @@
 ---
-title: "Navigating the Proximity-Safety Balance: Constraint Decomposition for Human Following in Pedestrian Crowds"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.10056
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10056
 next_step: skim
+priority: medium
+slack_ts: '1786757977.115139'
+source: cs.RO - Robotics
+status: unread
+title: 'Navigating the Proximity-Safety Balance: Constraint Decomposition for Human
+  Following in Pedestrian Crowds'
 ---
 # Navigating the Proximity-Safety Balance: Constraint Decomposition for Human Following in Pedestrian Crowds
 > 原文: [https://arxiv.org/abs/2608.10056](https://arxiv.org/abs/2608.10056)

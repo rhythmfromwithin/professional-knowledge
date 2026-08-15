@@ -1,11 +1,12 @@
 ---
-title: "Spectral Embeddings of Degree-$\alpha$ Laplacians in Random Dot Product Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.10845
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10845
 next_step: skim
+priority: medium
+slack_ts: '1786757978.056749'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: "Spectral Embeddings of Degree-$\alpha$ Laplacians in Random Dot Product Graphs"
 ---
 # Spectral Embeddings of Degree-$\alpha$ Laplacians in Random Dot Product Graphs
 > 原文: [https://arxiv.org/abs/2608.10845](https://arxiv.org/abs/2608.10845)

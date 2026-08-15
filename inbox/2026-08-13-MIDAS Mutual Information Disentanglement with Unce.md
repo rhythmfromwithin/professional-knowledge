@@ -1,11 +1,13 @@
 ---
-title: "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.09986
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09986
 next_step: skim
+priority: high
+slack_ts: '1786757976.676099'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for
+  Incomplete Multimodal Sentiment Analysis'
 ---
 # MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis
 > 原文: [https://arxiv.org/abs/2608.09986](https://arxiv.org/abs/2608.09986)

@@ -1,11 +1,12 @@
 ---
-title: "Signpost Watermarking: Joint Optimization for Visual Watermark Coexistence"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.10091
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10091
 next_step: skim
+priority: medium
+slack_ts: '1786757977.980339'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Signpost Watermarking: Joint Optimization for Visual Watermark Coexistence'
 ---
 # Signpost Watermarking: Joint Optimization for Visual Watermark Coexistence
 > 原文: [https://arxiv.org/abs/2608.10091](https://arxiv.org/abs/2608.10091)

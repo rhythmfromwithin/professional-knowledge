@@ -1,11 +1,12 @@
 ---
-title: "Iterative Erasure Count Is Not an Affine-Invariant Concept Dimension"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.10566
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10566
 next_step: skim
+priority: medium
+slack_ts: '1786757976.422879'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Iterative Erasure Count Is Not an Affine-Invariant Concept Dimension
 ---
 # Iterative Erasure Count Is Not an Affine-Invariant Concept Dimension
 > 原文: [https://arxiv.org/abs/2608.10566](https://arxiv.org/abs/2608.10566)

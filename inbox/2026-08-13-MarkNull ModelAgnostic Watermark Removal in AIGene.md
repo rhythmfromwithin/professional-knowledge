@@ -1,11 +1,13 @@
 ---
-title: "MarkNull: Model-Agnostic Watermark Removal in AI-Generated Images via On-Manifold Latent Manipulation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.10166
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10166
 next_step: skim
+priority: low
+slack_ts: '1786757976.764779'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MarkNull: Model-Agnostic Watermark Removal in AI-Generated Images via On-Manifold
+  Latent Manipulation'
 ---
 # MarkNull: Model-Agnostic Watermark Removal in AI-Generated Images via On-Manifold Latent Manipulation
 > 原文: [https://arxiv.org/abs/2608.10166](https://arxiv.org/abs/2608.10166)

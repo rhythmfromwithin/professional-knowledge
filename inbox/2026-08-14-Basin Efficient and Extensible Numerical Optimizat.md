@@ -1,11 +1,12 @@
 ---
-title: "Basin: Efficient and Extensible Numerical Optimization in Rust"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.11279
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11279
 next_step: skim
+priority: high
+slack_ts: '1786757979.837389'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Basin: Efficient and Extensible Numerical Optimization in Rust'
 ---
 # Basin: Efficient and Extensible Numerical Optimization in Rust
 > 原文: [https://arxiv.org/abs/2608.11279](https://arxiv.org/abs/2608.11279)

@@ -1,11 +1,12 @@
 ---
-title: "Consciousness as Intrinsic Structure: Towards a Chemistry of Experience"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.11398
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11398
 next_step: skim
+priority: low
+slack_ts: '1786757980.517279'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Consciousness as Intrinsic Structure: Towards a Chemistry of Experience'
 ---
 # Consciousness as Intrinsic Structure: Towards a Chemistry of Experience
 > 原文: [https://arxiv.org/abs/2608.11398](https://arxiv.org/abs/2608.11398)

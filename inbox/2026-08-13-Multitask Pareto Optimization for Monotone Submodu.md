@@ -1,11 +1,13 @@
 ---
-title: "Multitask Pareto Optimization for Monotone Submodular Problems with Dynamic Constraints"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.10425
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10425
 next_step: skim
+priority: low
+slack_ts: '1786757976.945999'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Multitask Pareto Optimization for Monotone Submodular Problems with Dynamic
+  Constraints
 ---
 # Multitask Pareto Optimization for Monotone Submodular Problems with Dynamic Constraints
 > 原文: [https://arxiv.org/abs/2608.10425](https://arxiv.org/abs/2608.10425)

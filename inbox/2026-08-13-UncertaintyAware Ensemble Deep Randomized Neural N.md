@@ -1,11 +1,12 @@
 ---
-title: "Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.10007
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10007
 next_step: skim
+priority: high
+slack_ts: '1786757978.450059'
+source: cs.LG - Machine Learning
+status: unread
+title: Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification
 ---
 # Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification
 > 原文: [https://arxiv.org/abs/2608.10007](https://arxiv.org/abs/2608.10007)

@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking Cyberattack Detection in Electric Vehicle Charging Infrastructure with Benign User Updates"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.11286
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11286
 next_step: skim
+priority: low
+slack_ts: '1786757979.912949'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Benchmarking Cyberattack Detection in Electric Vehicle Charging Infrastructure
+  with Benign User Updates
 ---
 # Benchmarking Cyberattack Detection in Electric Vehicle Charging Infrastructure with Benign User Updates
 > 原文: [https://arxiv.org/abs/2608.11286](https://arxiv.org/abs/2608.11286)

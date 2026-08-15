@@ -1,11 +1,12 @@
 ---
-title: "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/
 next_step: skim
+priority: high
+slack_ts: '1786757977.340459'
+source: AWS Blog
+status: unread
+title: 'Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS'
 ---
 # Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/](https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/)

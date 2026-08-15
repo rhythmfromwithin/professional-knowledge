@@ -1,11 +1,12 @@
 ---
-title: "LLM Agents Factory: Retrieval of Domain-Specific LLM Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.09934
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09934
 next_step: skim
+priority: high
+slack_ts: '1786757976.599149'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'LLM Agents Factory: Retrieval of Domain-Specific LLM Agents'
 ---
 # LLM Agents Factory: Retrieval of Domain-Specific LLM Agents
 > 原文: [https://arxiv.org/abs/2608.09934](https://arxiv.org/abs/2608.09934)

@@ -1,11 +1,12 @@
 ---
-title: "Descriptive Dispatch of Computational Work"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.11524
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11524
 next_step: skim
+priority: medium
+slack_ts: '1786757980.588179'
+source: cs.DC - Distributed Computing
+status: unread
+title: Descriptive Dispatch of Computational Work
 ---
 # Descriptive Dispatch of Computational Work
 > 原文: [https://arxiv.org/abs/2608.11524](https://arxiv.org/abs/2608.11524)

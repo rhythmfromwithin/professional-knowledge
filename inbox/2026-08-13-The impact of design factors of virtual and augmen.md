@@ -1,11 +1,13 @@
 ---
-title: "The impact of design factors of virtual and augmented reality on tertiary students user experience in Metaverse"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.09940
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09940
 next_step: skim
+priority: low
+slack_ts: '1786757978.132319'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: The impact of design factors of virtual and augmented reality on tertiary students
+  user experience in Metaverse
 ---
 # The impact of design factors of virtual and augmented reality on tertiary students user experience in Metaverse
 > 原文: [https://arxiv.org/abs/2608.09940](https://arxiv.org/abs/2608.09940)

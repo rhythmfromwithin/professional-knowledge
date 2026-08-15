@@ -1,11 +1,12 @@
 ---
-title: "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/
 next_step: skim
+priority: high
+slack_ts: '1786757979.681969'
+source: AWS Blog
+status: unread
+title: Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool
 ---
 # Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool
 > 原文: [https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/](https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/)

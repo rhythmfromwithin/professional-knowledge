@@ -1,11 +1,13 @@
 ---
-title: "Beyond Local Power: Functional Connectivity Analysis for Subject-Independent Learning Style Recognition"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.12000
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12000
 next_step: skim
+priority: low
+slack_ts: '1786757979.984189'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Beyond Local Power: Functional Connectivity Analysis for Subject-Independent
+  Learning Style Recognition'
 ---
 # Beyond Local Power: Functional Connectivity Analysis for Subject-Independent Learning Style Recognition
 > 原文: [https://arxiv.org/abs/2608.12000](https://arxiv.org/abs/2608.12000)

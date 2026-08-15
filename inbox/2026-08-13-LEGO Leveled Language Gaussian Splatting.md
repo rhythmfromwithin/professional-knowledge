@@ -1,11 +1,12 @@
 ---
-title: "LEGO: Leveled Language Gaussian Splatting"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.10057
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10057
 next_step: skim
+priority: medium
+slack_ts: '1786757976.505979'
+source: cs.CV - Computer Vision
+status: unread
+title: 'LEGO: Leveled Language Gaussian Splatting'
 ---
 # LEGO: Leveled Language Gaussian Splatting
 > 原文: [https://arxiv.org/abs/2608.10057](https://arxiv.org/abs/2608.10057)

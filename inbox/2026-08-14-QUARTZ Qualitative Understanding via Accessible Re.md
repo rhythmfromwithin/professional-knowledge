@@ -1,11 +1,12 @@
 ---
-title: "QUARTZ: Qualitative Understanding via Accessible Representation and Visualization"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.11364
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11364
 next_step: skim
+priority: low
+slack_ts: '1786757982.437949'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'QUARTZ: Qualitative Understanding via Accessible Representation and Visualization'
 ---
 # QUARTZ: Qualitative Understanding via Accessible Representation and Visualization
 > 原文: [https://arxiv.org/abs/2608.11364](https://arxiv.org/abs/2608.11364)

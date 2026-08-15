@@ -1,11 +1,12 @@
 ---
-title: "Time to Move on: Querying without Nulls and Bags"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.10863
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10863
 next_step: skim
+priority: low
+slack_ts: '1786757978.285149'
+source: cs.DB - Databases
+status: unread
+title: 'Time to Move on: Querying without Nulls and Bags'
 ---
 # Time to Move on: Querying without Nulls and Bags
 > 原文: [https://arxiv.org/abs/2608.10863](https://arxiv.org/abs/2608.10863)

@@ -1,11 +1,13 @@
 ---
-title: "CLEAR: Class-wise Expert Aggregation with Structured Sampling for Long-Tailed Classification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.11287
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11287
 next_step: skim
+priority: medium
+slack_ts: '1786757980.216839'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CLEAR: Class-wise Expert Aggregation with Structured Sampling for Long-Tailed
+  Classification'
 ---
 # CLEAR: Class-wise Expert Aggregation with Structured Sampling for Long-Tailed Classification
 > 原文: [https://arxiv.org/abs/2608.11287](https://arxiv.org/abs/2608.11287)

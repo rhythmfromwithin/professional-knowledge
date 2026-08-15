@@ -1,11 +1,12 @@
 ---
-title: "Accelerating M&A due diligence with Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786757979.030819'
+source: AWS Blog
+status: unread
+title: Accelerating M&A due diligence with Amazon Bedrock AgentCore
 ---
 # Accelerating M&A due diligence with Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)

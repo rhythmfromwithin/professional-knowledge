@@ -1,11 +1,12 @@
 ---
-title: "Adaptive Hybrid Particle Swarm Optimization with Gradient Descent"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.11258
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11258
 next_step: skim
+priority: low
+slack_ts: '1786757979.215259'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Adaptive Hybrid Particle Swarm Optimization with Gradient Descent
 ---
 # Adaptive Hybrid Particle Swarm Optimization with Gradient Descent
 > 原文: [https://arxiv.org/abs/2608.11258](https://arxiv.org/abs/2608.11258)

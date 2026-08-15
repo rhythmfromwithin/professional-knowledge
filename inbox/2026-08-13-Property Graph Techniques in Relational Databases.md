@@ -1,11 +1,12 @@
 ---
-title: "Property Graph Techniques in Relational Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.11001
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11001
 next_step: skim
+priority: low
+slack_ts: '1786757977.573779'
+source: cs.DB - Databases
+status: unread
+title: Property Graph Techniques in Relational Databases
 ---
 # Property Graph Techniques in Relational Databases
 > 原文: [https://arxiv.org/abs/2608.11001](https://arxiv.org/abs/2608.11001)

@@ -1,11 +1,13 @@
 ---
-title: "One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.10178
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10178
 next_step: skim
+priority: low
+slack_ts: '1786757977.189289'
+source: cs.SE - Software Engineering
+status: unread
+title: 'One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and
+  Models'
 ---
 # One Recipe, Many Harnesses: What Self-Evolution Encodes Across Languages and Models
 > 原文: [https://arxiv.org/abs/2608.10178](https://arxiv.org/abs/2608.10178)

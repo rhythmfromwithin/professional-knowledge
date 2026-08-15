@@ -1,11 +1,12 @@
 ---
-title: "Amazon DynamoDB now supports real-time vector search at any scale"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
 next_step: skim
+priority: high
+slack_ts: '1786757979.367709'
+source: AWS Blog
+status: unread
+title: Amazon DynamoDB now supports real-time vector search at any scale
 ---
 # Amazon DynamoDB now supports real-time vector search at any scale
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/](https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/)

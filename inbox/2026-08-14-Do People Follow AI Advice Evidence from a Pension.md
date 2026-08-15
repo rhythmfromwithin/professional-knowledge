@@ -1,11 +1,12 @@
 ---
-title: "Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.11371
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11371
 next_step: skim
+priority: low
+slack_ts: '1786757980.762509'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment
 ---
 # Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment
 > 原文: [https://arxiv.org/abs/2608.11371](https://arxiv.org/abs/2608.11371)

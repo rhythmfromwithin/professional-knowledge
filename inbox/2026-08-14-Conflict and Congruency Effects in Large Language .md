@@ -1,11 +1,13 @@
 ---
-title: "Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context Competition in a Verbal Conflict Task"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.11510
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11510
 next_step: skim
+priority: low
+slack_ts: '1786757980.439539'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context
+  Competition in a Verbal Conflict Task'
 ---
 # Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context Competition in a Verbal Conflict Task
 > 原文: [https://arxiv.org/abs/2608.11510](https://arxiv.org/abs/2608.11510)

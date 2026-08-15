@@ -1,11 +1,12 @@
 ---
-title: "GraphAlignCoder: Aligning Program and Proof Graphs for Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.11394
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11394
 next_step: skim
+priority: low
+slack_ts: '1786757981.445539'
+source: cs.SE - Software Engineering
+status: unread
+title: 'GraphAlignCoder: Aligning Program and Proof Graphs for Code Generation'
 ---
 # GraphAlignCoder: Aligning Program and Proof Graphs for Code Generation
 > 原文: [https://arxiv.org/abs/2608.11394](https://arxiv.org/abs/2608.11394)

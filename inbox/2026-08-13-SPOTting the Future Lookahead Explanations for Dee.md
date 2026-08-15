@@ -1,11 +1,12 @@
 ---
-title: "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.09967
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.09967
 next_step: skim
+priority: high
+slack_ts: '1786757977.905669'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning'
 ---
 # SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2608.09967](https://arxiv.org/abs/2608.09967)

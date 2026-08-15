@@ -1,11 +1,13 @@
 ---
-title: "Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.10279
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10279
 next_step: skim
+priority: low
+slack_ts: '1786757978.668409'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails
+  for Streaming LLM Output'
 ---
 # Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output
 > 原文: [https://arxiv.org/abs/2608.10279](https://arxiv.org/abs/2608.10279)

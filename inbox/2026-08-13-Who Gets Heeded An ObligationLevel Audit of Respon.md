@@ -1,11 +1,12 @@
 ---
-title: "Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.10329
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.10329
 next_step: skim
+priority: medium
+slack_ts: '1786757978.595639'
+source: cs.CY - Computers and Society
+status: unread
+title: Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking
 ---
 # Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking
 > 原文: [https://arxiv.org/abs/2608.10329](https://arxiv.org/abs/2608.10329)
