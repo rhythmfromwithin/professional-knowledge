@@ -1,11 +1,12 @@
 ---
-title: "The builder’s guide to GPT‑5.6"
-source: "OpenAI Blog"
-link: https://openai.com/index/builders-guide-to-gpt-5-6
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/builders-guide-to-gpt-5-6
 next_step: skim
+priority: high
+slack_ts: '1786844803.967589'
+source: OpenAI Blog
+status: unread
+title: The builder’s guide to GPT‑5.6
 ---
 # The builder’s guide to GPT‑5.6
 > 原文: [https://openai.com/index/builders-guide-to-gpt-5-6](https://openai.com/index/builders-guide-to-gpt-5-6)

@@ -1,11 +1,12 @@
 ---
-title: "TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.11236
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11236
 next_step: skim
+priority: high
+slack_ts: '1786844803.818699'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation'
 ---
 # TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation
 > 原文: [https://arxiv.org/abs/2608.11236](https://arxiv.org/abs/2608.11236)

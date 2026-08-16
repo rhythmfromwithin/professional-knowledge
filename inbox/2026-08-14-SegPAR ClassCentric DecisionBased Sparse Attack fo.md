@@ -1,11 +1,12 @@
 ---
-title: "SegPAR: Class-Centric Decision-Based Sparse Attack for Semantic Segmentation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.11285
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11285
 next_step: skim
+priority: medium
+slack_ts: '1786844803.601869'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SegPAR: Class-Centric Decision-Based Sparse Attack for Semantic Segmentation'
 ---
 # SegPAR: Class-Centric Decision-Based Sparse Attack for Semantic Segmentation
 > 原文: [https://arxiv.org/abs/2608.11285](https://arxiv.org/abs/2608.11285)

@@ -1,11 +1,12 @@
 ---
-title: "How Organizations Use AI: Evidence from ChatGPT"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.12236
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12236
 next_step: skim
+priority: low
+slack_ts: '1786844801.817059'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'How Organizations Use AI: Evidence from ChatGPT'
 ---
 # How Organizations Use AI: Evidence from ChatGPT
 > 原文: [https://arxiv.org/abs/2608.12236](https://arxiv.org/abs/2608.12236)

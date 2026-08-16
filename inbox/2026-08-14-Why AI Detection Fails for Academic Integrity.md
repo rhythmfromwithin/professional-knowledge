@@ -1,11 +1,12 @@
 ---
-title: "Why AI Detection Fails for Academic Integrity"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.11256
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11256
 next_step: skim
+priority: high
+slack_ts: '1786844804.365179'
+source: cs.LG - Machine Learning
+status: unread
+title: Why AI Detection Fails for Academic Integrity
 ---
 # Why AI Detection Fails for Academic Integrity
 > 原文: [https://arxiv.org/abs/2608.11256](https://arxiv.org/abs/2608.11256)

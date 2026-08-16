@@ -1,11 +1,12 @@
 ---
-title: "GeoUniPR: A Geometry-Consistent Unified Framework for Cross-Modal Place Recognition"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.11263
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11263
 next_step: skim
+priority: medium
+slack_ts: '1786844801.595679'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GeoUniPR: A Geometry-Consistent Unified Framework for Cross-Modal Place Recognition'
 ---
 # GeoUniPR: A Geometry-Consistent Unified Framework for Cross-Modal Place Recognition
 > 原文: [https://arxiv.org/abs/2608.11263](https://arxiv.org/abs/2608.11263)

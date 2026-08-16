@@ -1,11 +1,13 @@
 ---
-title: "Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.11544
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11544
 next_step: skim
+priority: medium
+slack_ts: '1786844801.136549'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein
+  Gradient Flows
 ---
 # Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows
 > 原文: [https://arxiv.org/abs/2608.11544](https://arxiv.org/abs/2608.11544)

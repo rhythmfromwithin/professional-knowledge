@@ -1,11 +1,12 @@
 ---
-title: "MergirafSemi: A Language-Agnostic Semistructured Merge Tool"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.11345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11345
 next_step: skim
+priority: low
+slack_ts: '1786844802.497169'
+source: cs.SE - Software Engineering
+status: unread
+title: 'MergirafSemi: A Language-Agnostic Semistructured Merge Tool'
 ---
 # MergirafSemi: A Language-Agnostic Semistructured Merge Tool
 > 原文: [https://arxiv.org/abs/2608.11345](https://arxiv.org/abs/2608.11345)

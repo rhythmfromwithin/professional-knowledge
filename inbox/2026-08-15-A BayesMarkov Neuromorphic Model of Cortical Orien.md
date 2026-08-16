@@ -1,11 +1,13 @@
 ---
-title: "A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational Re-implementation and Quantitative Simulation Study"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.12388
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12388
 next_step: skim
+priority: low
+slack_ts: '1786844804.435419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational
+  Re-implementation and Quantitative Simulation Study'
 ---
 # A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational Re-implementation and Quantitative Simulation Study
 > 原文: [https://arxiv.org/abs/2608.12388](https://arxiv.org/abs/2608.12388)

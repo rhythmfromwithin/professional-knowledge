@@ -1,11 +1,12 @@
 ---
-title: "User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.11840
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11840
 next_step: skim
+priority: medium
+slack_ts: '1786844804.135939'
+source: cs.DC - Distributed Computing
+status: unread
+title: User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling
 ---
 # User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling
 > 原文: [https://arxiv.org/abs/2608.11840](https://arxiv.org/abs/2608.11840)

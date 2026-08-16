@@ -1,11 +1,12 @@
 ---
-title: "Socioduality: A Relational Process Framework for Human-AI Interaction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.11322
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11322
 next_step: skim
+priority: low
+slack_ts: '1786844803.674869'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Socioduality: A Relational Process Framework for Human-AI Interaction'
 ---
 # Socioduality: A Relational Process Framework for Human-AI Interaction
 > 原文: [https://arxiv.org/abs/2608.11322](https://arxiv.org/abs/2608.11322)

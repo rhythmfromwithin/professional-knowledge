@@ -1,11 +1,13 @@
 ---
-title: "Top-down Traffic Scenario Generation via Joint Initial-Goal Diffusion and Trajectory Infilling"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.11407
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11407
 next_step: skim
+priority: medium
+slack_ts: '1786844804.055879'
+source: cs.RO - Robotics
+status: unread
+title: Top-down Traffic Scenario Generation via Joint Initial-Goal Diffusion and Trajectory
+  Infilling
 ---
 # Top-down Traffic Scenario Generation via Joint Initial-Goal Diffusion and Trajectory Infilling
 > 原文: [https://arxiv.org/abs/2608.11407](https://arxiv.org/abs/2608.11407)

@@ -1,11 +1,13 @@
 ---
-title: "Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.11506
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11506
 next_step: skim
+priority: low
+slack_ts: '1786844803.084789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial
+  Observability
 ---
 # Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability
 > 原文: [https://arxiv.org/abs/2608.11506](https://arxiv.org/abs/2608.11506)

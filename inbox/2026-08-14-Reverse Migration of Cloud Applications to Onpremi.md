@@ -1,11 +1,12 @@
 ---
-title: "Reverse Migration of Cloud Applications to On-premises"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.11640
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11640
 next_step: skim
+priority: low
+slack_ts: '1786844803.527309'
+source: cs.DB - Databases
+status: unread
+title: Reverse Migration of Cloud Applications to On-premises
 ---
 # Reverse Migration of Cloud Applications to On-premises
 > 原文: [https://arxiv.org/abs/2608.11640](https://arxiv.org/abs/2608.11640)

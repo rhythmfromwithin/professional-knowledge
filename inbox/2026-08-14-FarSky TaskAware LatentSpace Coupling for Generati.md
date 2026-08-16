@@ -1,11 +1,12 @@
 ---
-title: "FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.11254
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11254
 next_step: skim
+priority: high
+slack_ts: '1786844801.057689'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting'
 ---
 # FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting
 > 原文: [https://arxiv.org/abs/2608.11254](https://arxiv.org/abs/2608.11254)

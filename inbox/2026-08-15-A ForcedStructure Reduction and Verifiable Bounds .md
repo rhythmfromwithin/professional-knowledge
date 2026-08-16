@@ -1,11 +1,12 @@
 ---
-title: "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.11211
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11211
 next_step: skim
+priority: high
+slack_ts: '1786844804.574469'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph
 ---
 # A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph
 > 原文: [https://arxiv.org/abs/2608.11211](https://arxiv.org/abs/2608.11211)

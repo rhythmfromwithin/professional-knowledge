@@ -1,11 +1,5 @@
 ---
-title: ""I Don't Want My Mental Health App To Give Me Mental Health Barriers": Unpacking The Need For Digital Mental Health Tracking Services With And For The Blind Community"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.11391
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1786844802.053379'
 ---
 # "I Don't Want My Mental Health App To Give Me Mental Health Barriers": Unpacking The Need For Digital Mental Health Tracking Services With And For The Blind Community
 > 原文: [https://arxiv.org/abs/2608.11391](https://arxiv.org/abs/2608.11391)

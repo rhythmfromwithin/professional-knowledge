@@ -1,11 +1,12 @@
 ---
-title: "Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.11865
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11865
 next_step: skim
+priority: low
+slack_ts: '1786844802.424249'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage'
 ---
 # Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage
 > 原文: [https://arxiv.org/abs/2608.11865](https://arxiv.org/abs/2608.11865)

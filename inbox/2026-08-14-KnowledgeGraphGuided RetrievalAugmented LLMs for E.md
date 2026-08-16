@@ -1,11 +1,13 @@
 ---
-title: "Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.11277
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11277
 next_step: skim
+priority: low
+slack_ts: '1786844802.350499'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause
+  Analysis in Automotive HiL Validation
 ---
 # Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation
 > 原文: [https://arxiv.org/abs/2608.11277](https://arxiv.org/abs/2608.11277)

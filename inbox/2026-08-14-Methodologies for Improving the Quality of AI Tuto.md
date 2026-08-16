@@ -1,11 +1,12 @@
 ---
-title: "Methodologies for Improving the Quality of AI Tutoring in K-12 Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.11259
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11259
 next_step: skim
+priority: medium
+slack_ts: '1786844802.565789'
+source: cs.CY - Computers and Society
+status: unread
+title: Methodologies for Improving the Quality of AI Tutoring in K-12 Education
 ---
 # Methodologies for Improving the Quality of AI Tutoring in K-12 Education
 > 原文: [https://arxiv.org/abs/2608.11259](https://arxiv.org/abs/2608.11259)

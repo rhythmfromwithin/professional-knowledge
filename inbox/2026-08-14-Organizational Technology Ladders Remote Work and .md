@@ -1,11 +1,12 @@
 ---
-title: "Organizational Technology Ladders: Remote Work and Generative AI Adoption"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.11626
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11626
 next_step: skim
+priority: low
+slack_ts: '1786844803.009749'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Organizational Technology Ladders: Remote Work and Generative AI Adoption'
 ---
 # Organizational Technology Ladders: Remote Work and Generative AI Adoption
 > 原文: [https://arxiv.org/abs/2608.11626](https://arxiv.org/abs/2608.11626)

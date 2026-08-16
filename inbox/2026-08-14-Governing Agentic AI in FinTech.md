@@ -1,11 +1,12 @@
 ---
-title: "Governing Agentic AI in FinTech"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.11344
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11344
 next_step: skim
+priority: medium
+slack_ts: '1786844801.668659'
+source: cs.CY - Computers and Society
+status: unread
+title: Governing Agentic AI in FinTech
 ---
 # Governing Agentic AI in FinTech
 > 原文: [https://arxiv.org/abs/2608.11344](https://arxiv.org/abs/2608.11344)

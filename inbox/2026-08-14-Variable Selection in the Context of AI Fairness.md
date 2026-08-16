@@ -1,11 +1,12 @@
 ---
-title: "Variable Selection in the Context of AI Fairness"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.11251
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11251
 next_step: skim
+priority: medium
+slack_ts: '1786844804.211109'
+source: cs.CY - Computers and Society
+status: unread
+title: Variable Selection in the Context of AI Fairness
 ---
 # Variable Selection in the Context of AI Fairness
 > 原文: [https://arxiv.org/abs/2608.11251](https://arxiv.org/abs/2608.11251)

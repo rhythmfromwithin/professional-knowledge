@@ -1,11 +1,13 @@
 ---
-title: "Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.11239
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11239
 next_step: skim
+priority: low
+slack_ts: '1786844803.369429'
+source: cs.DB - Databases
+status: unread
+title: Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory
+  Utilization
 ---
 # Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization
 > 原文: [https://arxiv.org/abs/2608.11239](https://arxiv.org/abs/2608.11239)

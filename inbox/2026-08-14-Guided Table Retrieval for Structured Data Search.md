@@ -1,11 +1,12 @@
 ---
-title: "Guided Table Retrieval for Structured Data Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.11644
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11644
 next_step: skim
+priority: low
+slack_ts: '1786844801.742919'
+source: cs.DB - Databases
+status: unread
+title: Guided Table Retrieval for Structured Data Search
 ---
 # Guided Table Retrieval for Structured Data Search
 > 原文: [https://arxiv.org/abs/2608.11644](https://arxiv.org/abs/2608.11644)
