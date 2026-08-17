@@ -1,11 +1,12 @@
 ---
-title: "From Observation to Intervention: Memory in Brains and Large Language Models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.12377
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12377
 next_step: skim
+priority: low
+slack_ts: '1786931061.534089'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'From Observation to Intervention: Memory in Brains and Large Language Models'
 ---
 # From Observation to Intervention: Memory in Brains and Large Language Models
 > 原文: [https://arxiv.org/abs/2608.12377](https://arxiv.org/abs/2608.12377)

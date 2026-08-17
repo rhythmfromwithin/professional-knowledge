@@ -1,11 +1,13 @@
 ---
-title: "Does It Render Everywhere? A Study of Cross-Environment Compatibility in MLLM-Generated Webpages"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.12518
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12518
 next_step: skim
+priority: low
+slack_ts: '1786931058.844769'
+source: cs.SE - Software Engineering
+status: unread
+title: Does It Render Everywhere? A Study of Cross-Environment Compatibility in MLLM-Generated
+  Webpages
 ---
 # Does It Render Everywhere? A Study of Cross-Environment Compatibility in MLLM-Generated Webpages
 > 原文: [https://arxiv.org/abs/2608.12518](https://arxiv.org/abs/2608.12518)

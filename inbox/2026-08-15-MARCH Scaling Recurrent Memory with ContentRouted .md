@@ -1,11 +1,12 @@
 ---
-title: "MARCH: Scaling Recurrent Memory with Content-Routed State Anchors"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.12435
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12435
 next_step: skim
+priority: high
+slack_ts: '1786931065.760709'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MARCH: Scaling Recurrent Memory with Content-Routed State Anchors'
 ---
 # MARCH: Scaling Recurrent Memory with Content-Routed State Anchors
 > 原文: [https://arxiv.org/abs/2608.12435](https://arxiv.org/abs/2608.12435)

@@ -1,11 +1,13 @@
 ---
-title: "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.11210
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11210
 next_step: skim
+priority: high
+slack_ts: '1786931058.617669'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Distribird: Literature-Informed Prior Distribution Design for Bayesian Model
+  Calibration'
 ---
 # Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration
 > 原文: [https://arxiv.org/abs/2608.11210](https://arxiv.org/abs/2608.11210)

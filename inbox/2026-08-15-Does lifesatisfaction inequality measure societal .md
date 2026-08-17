@@ -1,11 +1,13 @@
 ---
-title: "Does life-satisfaction inequality measure societal inequality? A focal-value-rounding critique"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.12667
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12667
 next_step: skim
+priority: low
+slack_ts: '1786931059.070909'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Does life-satisfaction inequality measure societal inequality? A focal-value-rounding
+  critique
 ---
 # Does life-satisfaction inequality measure societal inequality? A focal-value-rounding critique
 > 原文: [https://arxiv.org/abs/2608.12667](https://arxiv.org/abs/2608.12667)

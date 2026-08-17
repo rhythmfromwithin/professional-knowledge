@@ -1,11 +1,12 @@
 ---
-title: "Efficient Randomized LL/SC that Preserves History Independence"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.12946
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12946
 next_step: skim
+priority: medium
+slack_ts: '1786931059.943089'
+source: cs.DC - Distributed Computing
+status: unread
+title: Efficient Randomized LL/SC that Preserves History Independence
 ---
 # Efficient Randomized LL/SC that Preserves History Independence
 > 原文: [https://arxiv.org/abs/2608.12946](https://arxiv.org/abs/2608.12946)

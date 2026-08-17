@@ -1,11 +1,12 @@
 ---
-title: "Humans are Missing from AI Coding Agent Research"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.12355
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12355
 next_step: skim
+priority: low
+slack_ts: '1786931063.618559'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Humans are Missing from AI Coding Agent Research
 ---
 # Humans are Missing from AI Coding Agent Research
 > 原文: [https://arxiv.org/abs/2608.12355](https://arxiv.org/abs/2608.12355)

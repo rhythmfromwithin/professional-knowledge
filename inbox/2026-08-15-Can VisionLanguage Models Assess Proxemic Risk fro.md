@@ -1,11 +1,12 @@
 ---
-title: "Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.12515
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12515
 next_step: skim
+priority: medium
+slack_ts: '1786931057.475759'
+source: cs.CV - Computer Vision
+status: unread
+title: Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?
 ---
 # Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?
 > 原文: [https://arxiv.org/abs/2608.12515](https://arxiv.org/abs/2608.12515)

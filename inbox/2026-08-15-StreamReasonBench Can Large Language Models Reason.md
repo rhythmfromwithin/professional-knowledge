@@ -1,11 +1,13 @@
 ---
-title: "StreamReason-Bench: Can Large Language Models Reason about Event-Time Stream-Processing Semantics?"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.12348
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12348
 next_step: skim
+priority: low
+slack_ts: '1786931070.496529'
+source: cs.DB - Databases
+status: unread
+title: 'StreamReason-Bench: Can Large Language Models Reason about Event-Time Stream-Processing
+  Semantics?'
 ---
 # StreamReason-Bench: Can Large Language Models Reason about Event-Time Stream-Processing Semantics?
 > 原文: [https://arxiv.org/abs/2608.12348](https://arxiv.org/abs/2608.12348)

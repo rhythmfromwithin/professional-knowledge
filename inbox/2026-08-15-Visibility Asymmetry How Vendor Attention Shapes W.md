@@ -1,11 +1,13 @@
 ---
-title: "Visibility Asymmetry: How Vendor Attention Shapes Which EdTech Breakdowns Become Product-Visible"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.12353
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12353
 next_step: skim
+priority: low
+slack_ts: '1786931072.188229'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Visibility Asymmetry: How Vendor Attention Shapes Which EdTech Breakdowns
+  Become Product-Visible'
 ---
 # Visibility Asymmetry: How Vendor Attention Shapes Which EdTech Breakdowns Become Product-Visible
 > 原文: [https://arxiv.org/abs/2608.12353](https://arxiv.org/abs/2608.12353)

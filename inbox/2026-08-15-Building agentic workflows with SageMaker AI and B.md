@@ -1,11 +1,12 @@
 ---
-title: "Building agentic workflows with SageMaker AI and Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1786931056.994379'
+source: AWS Blog
+status: unread
+title: Building agentic workflows with SageMaker AI and Bedrock AgentCore
 ---
 # Building agentic workflows with SageMaker AI and Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/)

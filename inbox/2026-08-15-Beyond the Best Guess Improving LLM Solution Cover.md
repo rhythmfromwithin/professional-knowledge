@@ -1,11 +1,12 @@
 ---
-title: "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.12679
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12679
 next_step: skim
+priority: low
+slack_ts: '1786931056.265149'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies'
 ---
 # Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies
 > 原文: [https://arxiv.org/abs/2608.12679](https://arxiv.org/abs/2608.12679)

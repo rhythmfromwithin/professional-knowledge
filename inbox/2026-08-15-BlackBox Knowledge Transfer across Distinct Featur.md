@@ -1,11 +1,12 @@
 ---
-title: "Black-Box Knowledge Transfer across Distinct Feature Sets"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.12403
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12403
 next_step: skim
+priority: medium
+slack_ts: '1786931056.502559'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Black-Box Knowledge Transfer across Distinct Feature Sets
 ---
 # Black-Box Knowledge Transfer across Distinct Feature Sets
 > 原文: [https://arxiv.org/abs/2608.12403](https://arxiv.org/abs/2608.12403)

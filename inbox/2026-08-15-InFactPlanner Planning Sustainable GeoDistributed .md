@@ -1,11 +1,12 @@
 ---
-title: "InFactPlanner: Planning Sustainable Geo-Distributed LLM Data Centers"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.12915
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12915
 next_step: skim
+priority: medium
+slack_ts: '1786931063.899589'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'InFactPlanner: Planning Sustainable Geo-Distributed LLM Data Centers'
 ---
 # InFactPlanner: Planning Sustainable Geo-Distributed LLM Data Centers
 > 原文: [https://arxiv.org/abs/2608.12915](https://arxiv.org/abs/2608.12915)

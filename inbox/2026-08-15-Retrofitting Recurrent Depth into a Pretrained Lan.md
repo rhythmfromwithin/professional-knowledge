@@ -1,11 +1,13 @@
 ---
-title: "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.11233
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11233
 next_step: skim
+priority: high
+slack_ts: '1786931069.239389'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Retrofitting Recurrent Depth into a Pretrained Language Model: Installation,
+  Extrapolation, Transfer, and Retention at Two Parameter Budgets'
 ---
 # Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets
 > 原文: [https://arxiv.org/abs/2608.11233](https://arxiv.org/abs/2608.11233)

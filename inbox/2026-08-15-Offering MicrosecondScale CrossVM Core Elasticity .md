@@ -1,11 +1,13 @@
 ---
-title: "Offering Microsecond-Scale Cross-VM Core Elasticity on Colocated Lightweight Virtual Machines"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.12633
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12633
 next_step: skim
+priority: medium
+slack_ts: '1786931067.344829'
+source: cs.DC - Distributed Computing
+status: unread
+title: Offering Microsecond-Scale Cross-VM Core Elasticity on Colocated Lightweight
+  Virtual Machines
 ---
 # Offering Microsecond-Scale Cross-VM Core Elasticity on Colocated Lightweight Virtual Machines
 > 原文: [https://arxiv.org/abs/2608.12633](https://arxiv.org/abs/2608.12633)

@@ -1,11 +1,13 @@
 ---
-title: "Online Inference for Quantile Temporal Difference Learning in Distributional Reinforcement Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.12973
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12973
 next_step: skim
+priority: medium
+slack_ts: '1786931067.645239'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Online Inference for Quantile Temporal Difference Learning in Distributional
+  Reinforcement Learning
 ---
 # Online Inference for Quantile Temporal Difference Learning in Distributional Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2608.12973](https://arxiv.org/abs/2608.12973)

@@ -1,11 +1,12 @@
 ---
-title: "SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.12429
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12429
 next_step: skim
+priority: low
+slack_ts: '1786931070.741259'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents'
 ---
 # SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents
 > 原文: [https://arxiv.org/abs/2608.12429](https://arxiv.org/abs/2608.12429)

@@ -1,11 +1,13 @@
 ---
-title: "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.12419
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12419
 next_step: skim
+priority: high
+slack_ts: '1786931065.530209'
+source: cs.LG - Machine Learning
+status: unread
+title: 'LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient
+  Large Language Model Pretraining'
 ---
 # LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining
 > 原文: [https://arxiv.org/abs/2608.12419](https://arxiv.org/abs/2608.12419)

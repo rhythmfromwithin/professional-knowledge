@@ -1,11 +1,12 @@
 ---
-title: "FluctlightDB: A Memory Model of Data for AI Agents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.12365
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12365
 next_step: skim
+priority: low
+slack_ts: '1786931061.018109'
+source: cs.DB - Databases
+status: unread
+title: 'FluctlightDB: A Memory Model of Data for AI Agents'
 ---
 # FluctlightDB: A Memory Model of Data for AI Agents
 > 原文: [https://arxiv.org/abs/2608.12365](https://arxiv.org/abs/2608.12365)

@@ -1,11 +1,13 @@
 ---
-title: "RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.12416
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12416
 next_step: skim
+priority: medium
+slack_ts: '1786931069.542649'
+source: cs.RO - Robotics
+status: unread
+title: 'RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized
+  Manipulation Skills'
 ---
 # RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills
 > 原文: [https://arxiv.org/abs/2608.12416](https://arxiv.org/abs/2608.12416)

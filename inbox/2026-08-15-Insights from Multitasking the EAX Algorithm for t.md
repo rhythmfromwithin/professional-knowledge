@@ -1,11 +1,13 @@
 ---
-title: "Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.12772
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12772
 next_step: skim
+priority: low
+slack_ts: '1786931064.129459'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson
+  Problem
 ---
 # Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem
 > 原文: [https://arxiv.org/abs/2608.12772](https://arxiv.org/abs/2608.12772)

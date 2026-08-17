@@ -1,11 +1,12 @@
 ---
-title: "From Caveman to Expert Analyst: Energy Consumption of Variable LLM Tasks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.12350
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12350
 next_step: skim
+priority: medium
+slack_ts: '1786931061.248659'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Caveman to Expert Analyst: Energy Consumption of Variable LLM Tasks'
 ---
 # From Caveman to Expert Analyst: Energy Consumption of Variable LLM Tasks
 > 原文: [https://arxiv.org/abs/2608.12350](https://arxiv.org/abs/2608.12350)

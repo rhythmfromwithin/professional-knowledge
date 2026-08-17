@@ -1,11 +1,12 @@
 ---
-title: "Position: Reasoning is a Learnable Rule-Based Process"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.12325
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12325
 next_step: skim
+priority: high
+slack_ts: '1786931080.380989'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Position: Reasoning is a Learnable Rule-Based Process'
 ---
 # Position: Reasoning is a Learnable Rule-Based Process
 > 原文: [https://arxiv.org/abs/2608.12325](https://arxiv.org/abs/2608.12325)

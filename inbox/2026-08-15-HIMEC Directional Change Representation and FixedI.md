@@ -1,11 +1,13 @@
 ---
-title: "HIMEC: Directional Change Representation and Fixed-Interface Decoding for Remote Sensing Image Change Captioning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.12502
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12502
 next_step: skim
+priority: medium
+slack_ts: '1786931062.868039'
+source: cs.CV - Computer Vision
+status: unread
+title: 'HIMEC: Directional Change Representation and Fixed-Interface Decoding for
+  Remote Sensing Image Change Captioning'
 ---
 # HIMEC: Directional Change Representation and Fixed-Interface Decoding for Remote Sensing Image Change Captioning
 > 原文: [https://arxiv.org/abs/2608.12502](https://arxiv.org/abs/2608.12502)

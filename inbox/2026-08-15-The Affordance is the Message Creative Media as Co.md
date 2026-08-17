@@ -1,11 +1,12 @@
 ---
-title: "The Affordance is the Message: Creative Media as Complex Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.12349
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12349
 next_step: skim
+priority: low
+slack_ts: '1786931071.207309'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Affordance is the Message: Creative Media as Complex Systems'
 ---
 # The Affordance is the Message: Creative Media as Complex Systems
 > 原文: [https://arxiv.org/abs/2608.12349](https://arxiv.org/abs/2608.12349)

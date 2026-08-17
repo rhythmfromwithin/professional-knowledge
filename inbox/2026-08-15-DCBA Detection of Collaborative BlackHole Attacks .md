@@ -1,11 +1,13 @@
 ---
-title: "DCBA: Detection of Collaborative Black-Hole Attacks in Connected Dominated Set using Baiting Process"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.12347
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12347
 next_step: skim
+priority: low
+slack_ts: '1786931058.382059'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'DCBA: Detection of Collaborative Black-Hole Attacks in Connected Dominated
+  Set using Baiting Process'
 ---
 # DCBA: Detection of Collaborative Black-Hole Attacks in Connected Dominated Set using Baiting Process
 > 原文: [https://arxiv.org/abs/2608.12347](https://arxiv.org/abs/2608.12347)

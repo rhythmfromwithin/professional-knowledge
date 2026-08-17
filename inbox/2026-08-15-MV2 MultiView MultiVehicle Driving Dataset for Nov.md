@@ -1,11 +1,12 @@
 ---
-title: "MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.12442
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12442
 next_step: skim
+priority: medium
+slack_ts: '1786931065.993219'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis'
 ---
 # MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis
 > 原文: [https://arxiv.org/abs/2608.12442](https://arxiv.org/abs/2608.12442)

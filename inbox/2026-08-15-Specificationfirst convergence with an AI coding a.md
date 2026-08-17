@@ -1,11 +1,14 @@
 ---
-title: "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.12440
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12440
 next_step: skim
+priority: low
+slack_ts: '1786931070.249069'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Specification-first convergence with an AI coding agent: a case study of dismantling
+  a core architectural invariant across 189 files in a 717k-line codebase with no
+  test oracle and no human code review'
 ---
 # Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review
 > 原文: [https://arxiv.org/abs/2608.12440](https://arxiv.org/abs/2608.12440)

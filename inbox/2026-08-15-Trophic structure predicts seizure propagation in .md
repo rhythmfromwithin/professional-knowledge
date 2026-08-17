@@ -1,11 +1,12 @@
 ---
-title: "Trophic structure predicts seizure propagation in brain network models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.12382
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12382
 next_step: skim
+priority: low
+slack_ts: '1786931071.959699'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Trophic structure predicts seizure propagation in brain network models
 ---
 # Trophic structure predicts seizure propagation in brain network models
 > 原文: [https://arxiv.org/abs/2608.12382](https://arxiv.org/abs/2608.12382)

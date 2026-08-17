@@ -1,11 +1,13 @@
 ---
-title: "EU-ETS under attack? The impact of carbon price suppression on the decarbonization of the power sector"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.12363
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12363
 next_step: skim
+priority: low
+slack_ts: '1786931059.704639'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: EU-ETS under attack? The impact of carbon price suppression on the decarbonization
+  of the power sector
 ---
 # EU-ETS under attack? The impact of carbon price suppression on the decarbonization of the power sector
 > 原文: [https://arxiv.org/abs/2608.12363](https://arxiv.org/abs/2608.12363)

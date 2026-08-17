@@ -1,11 +1,12 @@
 ---
-title: "The AI Accountability Ecosystem in the Era of Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.12320
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12320
 next_step: skim
+priority: medium
+slack_ts: '1786931070.978099'
+source: cs.CY - Computers and Society
+status: unread
+title: The AI Accountability Ecosystem in the Era of Language Models
 ---
 # The AI Accountability Ecosystem in the Era of Language Models
 > 原文: [https://arxiv.org/abs/2608.12320](https://arxiv.org/abs/2608.12320)

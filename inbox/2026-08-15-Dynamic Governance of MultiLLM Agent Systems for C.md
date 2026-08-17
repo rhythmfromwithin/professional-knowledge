@@ -1,11 +1,13 @@
 ---
-title: "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.11207
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.11207
 next_step: skim
+priority: high
+slack_ts: '1786931059.346189'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational
+  Outcomes
 ---
 # Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes
 > 原文: [https://arxiv.org/abs/2608.11207](https://arxiv.org/abs/2608.11207)

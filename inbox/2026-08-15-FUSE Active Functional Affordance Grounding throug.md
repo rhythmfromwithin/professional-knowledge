@@ -1,11 +1,13 @@
 ---
-title: "FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.12683
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12683
 next_step: skim
+priority: medium
+slack_ts: '1786931060.477249'
+source: cs.RO - Robotics
+status: unread
+title: 'FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric
+  Evidence Acquisition'
 ---
 # FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition
 > 原文: [https://arxiv.org/abs/2608.12683](https://arxiv.org/abs/2608.12683)

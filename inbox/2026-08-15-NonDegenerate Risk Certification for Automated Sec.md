@@ -1,11 +1,5 @@
 ---
-title: "Non-Degenerate Risk Certification for Automated Security Decisions: A Decision-Contract Theory with ATT\&CK-Aligned Triage as a Worked Instance"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.12444
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1786931067.052879'
 ---
 # Non-Degenerate Risk Certification for Automated Security Decisions: A Decision-Contract Theory with ATT\&CK-Aligned Triage as a Worked Instance
 > 原文: [https://arxiv.org/abs/2608.12444](https://arxiv.org/abs/2608.12444)
