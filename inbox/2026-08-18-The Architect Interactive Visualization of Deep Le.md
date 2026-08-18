@@ -1,0 +1,16 @@
+---
+title: "The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2608.13572
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel
+> 原文: [https://arxiv.org/abs/2608.13572](https://arxiv.org/abs/2608.13572)
+
+arXiv:2608.13572v1 Announce Type: new
+Abstract: We present The Architect, a system that turns Microsoft Excel into an interactive view of deep learning mathematics. A user describes a neural network in a compact table. The system then generates a workbook that shows the full forward pass and, when requested, the backward pass and parameter updates. Computed values appear as live spreadsheet formulas, while user-controlled values such as inputs, weights, labels, and hyperparameters remain editable. Excel reactively updates the dependent computations through its recalculation engine.
+Most deep learning tools hide the numerical details behind library calls. Many visualization tools show architecture diagrams or training summaries, but they do not expose the full arithmetic of the model. The Architect focuses on that missing middle layer. It makes matrices, activations, losses, gradients, and updates visible as inspectable spreadsheet regions, with editable controls for values users naturally manipulate. The system also produces aligned PyTorch snippets, which helps users connect formulas to implementation.
+This report describes the motivation, design, implementation, and use cases of The Architect. We show how the system supports introductory arithmetic tracing, learning-rate exploration, diagnosis of dying ReLU, and inspection of vanishing gradients. The main idea is simple: spreadsheets already support formulas, direct editing, reactive recomputation, and tabular layout. These properties make them a useful medium for understanding how small educational and diagnostic neural networks compute.

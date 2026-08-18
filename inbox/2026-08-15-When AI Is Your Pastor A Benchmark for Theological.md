@@ -1,11 +1,13 @@
 ---
-title: "When AI Is Your Pastor: A Benchmark for Theological Triage and Pastoral Guidance in Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.12324
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12324
 next_step: skim
+priority: medium
+slack_ts: '1787017178.541179'
+source: cs.CY - Computers and Society
+status: unread
+title: 'When AI Is Your Pastor: A Benchmark for Theological Triage and Pastoral Guidance
+  in Large Language Models'
 ---
 # When AI Is Your Pastor: A Benchmark for Theological Triage and Pastoral Guidance in Large Language Models
 > 原文: [https://arxiv.org/abs/2608.12324](https://arxiv.org/abs/2608.12324)

@@ -1,11 +1,13 @@
 ---
-title: "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/
 next_step: skim
+priority: medium
+slack_ts: '1787017184.327939'
+source: Meta Engineering
+status: unread
+title: 'GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation
+  Model'
 ---
 # GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model
 > 原文: [https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/](https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/)

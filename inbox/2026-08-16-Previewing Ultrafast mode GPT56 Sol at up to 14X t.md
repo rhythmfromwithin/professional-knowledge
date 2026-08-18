@@ -1,11 +1,12 @@
 ---
-title: "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
-source: "OpenAI Blog"
-link: https://openai.com/index/previewing-ultrafast
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/previewing-ultrafast
 next_step: skim
+priority: high
+slack_ts: '1787017182.048989'
+source: OpenAI Blog
+status: unread
+title: 'Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed'
 ---
 # Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
 > 原文: [https://openai.com/index/previewing-ultrafast](https://openai.com/index/previewing-ultrafast)

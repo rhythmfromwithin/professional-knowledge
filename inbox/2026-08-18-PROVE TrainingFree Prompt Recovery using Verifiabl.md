@@ -1,0 +1,14 @@
+---
+title: "PROVE: Training-Free Prompt Recovery using Verifiable Evidence"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2608.13671
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# PROVE: Training-Free Prompt Recovery using Verifiable Evidence
+> 原文: [https://arxiv.org/abs/2608.13671](https://arxiv.org/abs/2608.13671)
+
+arXiv:2608.13671v1 Announce Type: new
+Abstract: Modern text-to-image models can generate highly realistic images from natural-language prompts, while recent advances in prompt inversion have made it increasingly feasible to recover those prompts from generated outputs, raising new concerns for copyright protection and content ownership. As prompt marketplaces emerge, recovered prompts can enable both the unauthorized reproduction and redistribution of copyrighted creative works, and the exposure of the prompts that encode an artist's creative recipe in AI-generated content. Existing prompt inversion methods rely on gradient-based optimization, autoregressive captioning, or reinforcement learning. However, optimization-based methods often produce unreadable prompts, captioning methods hallucinate unverified details, and RL-based approaches frequently overfit to specific generators while introducing evaluation circularity. We introduce PROVE (Prompt Recovery with Verified Evidence), a training-free, black-box prompt inversion attack that reconstructs prompts by composing verifiable scene descriptions rather than optimizing token sequences, targeting both original copyrighted works and AI-generated content. The resulting prompts are fully auditable, with every recovered claim grounded in explicit image evidence, and are formalized through a precision-constrained recall maximization objective. Across MS-COCO, Flickr30K, and Lexica, using state-of-the-art text-to-image generators, PROVE consistently outperforms optimization, captioning, and RL-based baselines on image similarity (DINO, LPIPS) and text-image alignment (CLIP), without any training, generator access, or fine-tuning, demonstrating a stronger and more practical prompt inversion attack.

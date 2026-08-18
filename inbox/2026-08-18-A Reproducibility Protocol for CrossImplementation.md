@@ -1,0 +1,14 @@
+---
+title: "A Reproducibility Protocol for Cross-Implementation Evaluation of Post-Quantum ACVP Test Vectors"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2608.13784
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# A Reproducibility Protocol for Cross-Implementation Evaluation of Post-Quantum ACVP Test Vectors
+> 原文: [https://arxiv.org/abs/2608.13784](https://arxiv.org/abs/2608.13784)
+
+arXiv:2608.13784v1 Announce Type: new
+Abstract: Independent implementations of a cryptographic standard should reproduce the same known-answer results, yet agreement is meaningful only when the corpus, revisions, public interfaces, exclusions, and evidence are precisely stated. This study defines a product-neutral reproducibility protocol for three public implementations of NIST ML-KEM against a pinned public Automated Cryptographic Validation Protocol corpus. Protocol v2 freezes provider-specific capabilities, applies one validation-error taxonomy symmetrically, preserves every selected case, and separates bytes, validation verdicts, unsupported operations, and adapter errors. The source-built experiment evaluated @noble/post-quantum 0.7.0, liboqs 0.16.0, and Go 1.26.4. Across three repetitions, the required Cartesian product comprised 2,160 base records: all 1,650 declared executable evaluations matched the NIST oracle, and all 510 unsupported records matched Go's predeclared capability boundary. Pairwise agreement was complete on every executable overlap: 720 of 720 noble-liboqs records and 210 of 210 records for each Go pairing. A separate keyGen-ek-projection diagnostic matched all 150 Go encapsulation-key projections without counting them as full key generation. Three frozen controls independently exercised byte comparison, verdict comparison, and malformed-response error separation; each produced its exact predeclared outcome. No base failure, adapter error, or status instability occurred. The evidence establishes bounded author-run repeatability and exposes a practical standards gap: public ML-KEM packages provide materially different deterministic and validation-test surfaces. Independent external reproduction remains unobserved. The results do not establish certification, exhaustive correctness, side-channel resistance, secure integration, or production assurance.

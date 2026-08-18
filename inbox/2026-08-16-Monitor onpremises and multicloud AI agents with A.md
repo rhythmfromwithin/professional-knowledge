@@ -1,11 +1,12 @@
 ---
-title: "Monitor on-premises and multi-cloud AI agents with AgentCore Observability"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/
 next_step: skim
+priority: high
+slack_ts: '1787017181.431989'
+source: AWS Blog
+status: unread
+title: Monitor on-premises and multi-cloud AI agents with AgentCore Observability
 ---
 # Monitor on-premises and multi-cloud AI agents with AgentCore Observability
 > 原文: [https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/](https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/)

@@ -1,11 +1,13 @@
 ---
-title: "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.12346
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12346
 next_step: skim
+priority: high
+slack_ts: '1787017181.916689'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Position: The Alignment Community is Unintentionally Building a Censor''s
+  Toolkit'
 ---
 # Position: The Alignment Community is Unintentionally Building a Censor's Toolkit
 > 原文: [https://arxiv.org/abs/2608.12346](https://arxiv.org/abs/2608.12346)

@@ -1,11 +1,13 @@
 ---
-title: "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/
 next_step: skim
+priority: high
+slack_ts: '1787017179.664009'
+source: AWS Blog
+status: unread
+title: Custom reward functions for multi-turn reinforcement learning with Amazon Nova
+  Forge
 ---
 # Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge
 > 原文: [https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)

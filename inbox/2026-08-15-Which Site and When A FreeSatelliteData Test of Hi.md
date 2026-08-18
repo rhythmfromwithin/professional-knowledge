@@ -1,11 +1,13 @@
 ---
-title: "Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.12422
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12422
 next_step: skim
+priority: high
+slack_ts: '1787017178.670549'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake
+  Bursts, Landslides, and Ice Floods'
 ---
 # Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods
 > 原文: [https://arxiv.org/abs/2608.12422](https://arxiv.org/abs/2608.12422)

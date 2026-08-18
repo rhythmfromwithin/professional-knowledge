@@ -1,11 +1,12 @@
 ---
-title: "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.12345
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.12345
 next_step: skim
+priority: high
+slack_ts: '1787017179.796969'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists
 ---
 # Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists
 > 原文: [https://arxiv.org/abs/2608.12345](https://arxiv.org/abs/2608.12345)
