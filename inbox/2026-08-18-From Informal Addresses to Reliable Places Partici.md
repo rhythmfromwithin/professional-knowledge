@@ -1,11 +1,13 @@
 ---
-title: "From Informal Addresses to Reliable Places: Participatory Data Governance of Civic Addressing in Puerto Rico"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2605.02924
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.02924
 next_step: skim
+priority: low
+slack_ts: '1787103716.951949'
+source: cs.DB - Databases
+status: unread
+title: 'From Informal Addresses to Reliable Places: Participatory Data Governance
+  of Civic Addressing in Puerto Rico'
 ---
 # From Informal Addresses to Reliable Places: Participatory Data Governance of Civic Addressing in Puerto Rico
 > 原文: [https://arxiv.org/abs/2605.02924](https://arxiv.org/abs/2605.02924)

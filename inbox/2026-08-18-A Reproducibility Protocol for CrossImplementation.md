@@ -1,11 +1,13 @@
 ---
-title: "A Reproducibility Protocol for Cross-Implementation Evaluation of Post-Quantum ACVP Test Vectors"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.13784
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13784
 next_step: skim
+priority: low
+slack_ts: '1787103711.025729'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Reproducibility Protocol for Cross-Implementation Evaluation of Post-Quantum
+  ACVP Test Vectors
 ---
 # A Reproducibility Protocol for Cross-Implementation Evaluation of Post-Quantum ACVP Test Vectors
 > 原文: [https://arxiv.org/abs/2608.13784](https://arxiv.org/abs/2608.13784)

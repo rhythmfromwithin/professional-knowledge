@@ -1,11 +1,12 @@
 ---
-title: "Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.13629
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13629
 next_step: skim
+priority: medium
+slack_ts: '1787103719.903819'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets
 ---
 # Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets
 > 原文: [https://arxiv.org/abs/2608.13629](https://arxiv.org/abs/2608.13629)

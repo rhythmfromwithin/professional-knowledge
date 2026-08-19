@@ -1,11 +1,12 @@
 ---
-title: "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.13564
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13564
 next_step: skim
+priority: high
+slack_ts: '1787103718.756859'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation
 ---
 # Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation
 > 原文: [https://arxiv.org/abs/2608.13564](https://arxiv.org/abs/2608.13564)

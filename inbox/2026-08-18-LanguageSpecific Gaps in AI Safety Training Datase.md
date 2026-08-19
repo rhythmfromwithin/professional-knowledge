@@ -1,11 +1,12 @@
 ---
-title: "Language-Specific Gaps in AI Safety Training Datasets"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.13695
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13695
 next_step: skim
+priority: medium
+slack_ts: '1787103719.705559'
+source: cs.CY - Computers and Society
+status: unread
+title: Language-Specific Gaps in AI Safety Training Datasets
 ---
 # Language-Specific Gaps in AI Safety Training Datasets
 > 原文: [https://arxiv.org/abs/2608.13695](https://arxiv.org/abs/2608.13695)

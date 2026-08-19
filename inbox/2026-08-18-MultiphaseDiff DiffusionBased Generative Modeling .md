@@ -1,11 +1,13 @@
 ---
-title: "Multiphase-Diff: Diffusion-Based Generative Modeling for High-Contrast Multiphase Physical Systems with Sharp Interfaces"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.13669
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13669
 next_step: skim
+priority: medium
+slack_ts: '1787103720.820019'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Multiphase-Diff: Diffusion-Based Generative Modeling for High-Contrast Multiphase
+  Physical Systems with Sharp Interfaces'
 ---
 # Multiphase-Diff: Diffusion-Based Generative Modeling for High-Contrast Multiphase Physical Systems with Sharp Interfaces
 > 原文: [https://arxiv.org/abs/2608.13669](https://arxiv.org/abs/2608.13669)

@@ -1,11 +1,12 @@
 ---
-title: "Modular Cognitive Architecture Emerges in Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.13567
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13567
 next_step: skim
+priority: high
+slack_ts: '1787103720.656109'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Modular Cognitive Architecture Emerges in Large Language Models
 ---
 # Modular Cognitive Architecture Emerges in Large Language Models
 > 原文: [https://arxiv.org/abs/2608.13567](https://arxiv.org/abs/2608.13567)

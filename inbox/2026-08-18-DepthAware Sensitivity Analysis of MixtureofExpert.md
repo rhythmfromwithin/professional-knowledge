@@ -1,11 +1,13 @@
 ---
-title: "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.13565
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13565
 next_step: skim
+priority: high
+slack_ts: '1787103715.302979'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based
+  Expert Masking
 ---
 # Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking
 > 原文: [https://arxiv.org/abs/2608.13565](https://arxiv.org/abs/2608.13565)

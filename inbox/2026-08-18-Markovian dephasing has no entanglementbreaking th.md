@@ -1,11 +1,13 @@
 ---
-title: "Markovian dephasing has no entanglement-breaking threshold, and a fixed tolerance will report one anyway"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2604.08587
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.08587
 next_step: skim
+priority: low
+slack_ts: '1787103720.271469'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Markovian dephasing has no entanglement-breaking threshold, and a fixed tolerance
+  will report one anyway
 ---
 # Markovian dephasing has no entanglement-breaking threshold, and a fixed tolerance will report one anyway
 > 原文: [https://arxiv.org/abs/2604.08587](https://arxiv.org/abs/2604.08587)

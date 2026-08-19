@@ -1,11 +1,13 @@
 ---
-title: "Asymmetric Discourse Homogenization and Shared Language Technology: Evidence from Reddit"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.13674
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13674
 next_step: skim
+priority: medium
+slack_ts: '1787103712.304169'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Asymmetric Discourse Homogenization and Shared Language Technology: Evidence
+  from Reddit'
 ---
 # Asymmetric Discourse Homogenization and Shared Language Technology: Evidence from Reddit
 > 原文: [https://arxiv.org/abs/2608.13674](https://arxiv.org/abs/2608.13674)

@@ -1,11 +1,12 @@
 ---
-title: "Adjacency-Based Spectral Proxy Control of Mobile Communication Agents"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.13616
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13616
 next_step: skim
+priority: medium
+slack_ts: '1787103711.985139'
+source: cs.RO - Robotics
+status: unread
+title: Adjacency-Based Spectral Proxy Control of Mobile Communication Agents
 ---
 # Adjacency-Based Spectral Proxy Control of Mobile Communication Agents
 > 原文: [https://arxiv.org/abs/2608.13616](https://arxiv.org/abs/2608.13616)

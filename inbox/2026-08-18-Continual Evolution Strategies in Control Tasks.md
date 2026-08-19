@@ -1,11 +1,12 @@
 ---
-title: "Continual Evolution Strategies in Control Tasks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.13600
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13600
 next_step: skim
+priority: low
+slack_ts: '1787103714.393489'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Continual Evolution Strategies in Control Tasks
 ---
 # Continual Evolution Strategies in Control Tasks
 > 原文: [https://arxiv.org/abs/2608.13600](https://arxiv.org/abs/2608.13600)

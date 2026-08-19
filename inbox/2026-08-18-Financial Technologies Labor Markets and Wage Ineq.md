@@ -1,11 +1,13 @@
 ---
-title: "Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.13871
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13871
 next_step: skim
+priority: low
+slack_ts: '1787103716.608909'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Financial Technologies, Labor Markets, and Wage Inequality: Evidence from
+  Instant Payment Systems'
 ---
 # Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems
 > 原文: [https://arxiv.org/abs/2608.13871](https://arxiv.org/abs/2608.13871)

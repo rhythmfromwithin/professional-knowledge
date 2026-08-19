@@ -1,11 +1,13 @@
 ---
-title: "Does ISO-Grounded NFR Specification Improve LLM Code Generation? A Comparison of Rich and Structured Interventions against a Natural-Language Baseline"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.13742
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13742
 next_step: skim
+priority: low
+slack_ts: '1787103715.645809'
+source: cs.SE - Software Engineering
+status: unread
+title: Does ISO-Grounded NFR Specification Improve LLM Code Generation? A Comparison
+  of Rich and Structured Interventions against a Natural-Language Baseline
 ---
 # Does ISO-Grounded NFR Specification Improve LLM Code Generation? A Comparison of Rich and Structured Interventions against a Natural-Language Baseline
 > 原文: [https://arxiv.org/abs/2608.13742](https://arxiv.org/abs/2608.13742)

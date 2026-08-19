@@ -1,11 +1,12 @@
 ---
-title: "Emergent Models: Intelligence from Tiny Substrates"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.14019
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14019
 next_step: skim
+priority: low
+slack_ts: '1787103716.238059'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Emergent Models: Intelligence from Tiny Substrates'
 ---
 # Emergent Models: Intelligence from Tiny Substrates
 > 原文: [https://arxiv.org/abs/2608.14019](https://arxiv.org/abs/2608.14019)

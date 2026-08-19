@@ -1,11 +1,12 @@
 ---
-title: "BCIJelly: An integrated ecosystem for brain-computer interface research"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.13576
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13576
 next_step: skim
+priority: low
+slack_ts: '1787103713.098629'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'BCIJelly: An integrated ecosystem for brain-computer interface research'
 ---
 # BCIJelly: An integrated ecosystem for brain-computer interface research
 > 原文: [https://arxiv.org/abs/2608.13576](https://arxiv.org/abs/2608.13576)

@@ -1,11 +1,13 @@
 ---
-title: "Deep Vision in Smart Manufacturing: MODERN Framework for Intelligent Quality Monitoring and Diagnosis"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.13937
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13937
 next_step: skim
+priority: medium
+slack_ts: '1787103715.114279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Deep Vision in Smart Manufacturing: MODERN Framework for Intelligent Quality
+  Monitoring and Diagnosis'
 ---
 # Deep Vision in Smart Manufacturing: MODERN Framework for Intelligent Quality Monitoring and Diagnosis
 > 原文: [https://arxiv.org/abs/2608.13937](https://arxiv.org/abs/2608.13937)

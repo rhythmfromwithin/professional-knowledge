@@ -1,11 +1,13 @@
 ---
-title: "Balancing Workload Performance and Slurm Stress: Four Nextflow Deployment Strategies"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.13824
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13824
 next_step: skim
+priority: medium
+slack_ts: '1787103713.262539'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Balancing Workload Performance and Slurm Stress: Four Nextflow Deployment
+  Strategies'
 ---
 # Balancing Workload Performance and Slurm Stress: Four Nextflow Deployment Strategies
 > 原文: [https://arxiv.org/abs/2608.13824](https://arxiv.org/abs/2608.13824)

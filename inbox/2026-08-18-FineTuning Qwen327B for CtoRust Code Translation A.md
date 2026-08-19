@@ -1,11 +1,13 @@
 ---
-title: "Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.13681
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13681
 next_step: skim
+priority: low
+slack_ts: '1787103716.788559'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum
+  of Pretraining, Debugging-Aware SFT, and Task-Specific SFT'
 ---
 # Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT
 > 原文: [https://arxiv.org/abs/2608.13681](https://arxiv.org/abs/2608.13681)

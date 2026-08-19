@@ -1,11 +1,12 @@
 ---
-title: "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.13562
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13562
 next_step: skim
+priority: high
+slack_ts: '1787103719.548459'
+source: cs.LG - Machine Learning
+status: unread
+title: 'L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics'
 ---
 # L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics
 > 原文: [https://arxiv.org/abs/2608.13562](https://arxiv.org/abs/2608.13562)

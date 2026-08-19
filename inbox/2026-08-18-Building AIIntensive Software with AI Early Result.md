@@ -1,11 +1,13 @@
 ---
-title: "Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.13730
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13730
 next_step: skim
+priority: low
+slack_ts: '1787103713.649179'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Building AI-Intensive Software with AI: Early Results and a Cautionary Tale
+  on Measuring Development Cost'
 ---
 # Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost
 > 原文: [https://arxiv.org/abs/2608.13730](https://arxiv.org/abs/2608.13730)

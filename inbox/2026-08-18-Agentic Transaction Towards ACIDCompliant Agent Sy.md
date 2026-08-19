@@ -1,11 +1,12 @@
 ---
-title: "Agentic Transaction: Towards ACID-Compliant Agent Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.13900
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13900
 next_step: skim
+priority: low
+slack_ts: '1787103712.149499'
+source: cs.DB - Databases
+status: unread
+title: 'Agentic Transaction: Towards ACID-Compliant Agent Systems'
 ---
 # Agentic Transaction: Towards ACID-Compliant Agent Systems
 > 原文: [https://arxiv.org/abs/2608.13900](https://arxiv.org/abs/2608.13900)

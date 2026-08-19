@@ -1,11 +1,12 @@
 ---
-title: "Cyera and Oasis: Stronger Together"
-source: "Sequoia Capital"
-link: https://www.sequoiacap.com/article/cyera-and-oasis-stronger-together
-priority: high
-status: unread
 interest: medium
+link: https://www.sequoiacap.com/article/cyera-and-oasis-stronger-together
 next_step: skim
+priority: high
+slack_ts: '1787103714.926929'
+source: Sequoia Capital
+status: unread
+title: 'Cyera and Oasis: Stronger Together'
 ---
 # Cyera and Oasis: Stronger Together
 > 原文: [https://www.sequoiacap.com/article/cyera-and-oasis-stronger-together](https://www.sequoiacap.com/article/cyera-and-oasis-stronger-together)

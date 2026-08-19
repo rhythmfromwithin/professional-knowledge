@@ -1,11 +1,13 @@
 ---
-title: "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.13566
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13566
 next_step: skim
+priority: high
+slack_ts: '1787103716.039269'
+source: cs.LG - Machine Learning
+status: unread
+title: Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability
+  -- Diverse Evaluation Is Required
 ---
 # Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required
 > 原文: [https://arxiv.org/abs/2608.13566](https://arxiv.org/abs/2608.13566)

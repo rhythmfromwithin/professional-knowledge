@@ -1,11 +1,12 @@
 ---
-title: "A Two-Validator Web Interface for Structured Geometry Figure Annotation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.13569
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13569
 next_step: skim
+priority: low
+slack_ts: '1787103711.194839'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Two-Validator Web Interface for Structured Geometry Figure Annotation
 ---
 # A Two-Validator Web Interface for Structured Geometry Figure Annotation
 > 原文: [https://arxiv.org/abs/2608.13569](https://arxiv.org/abs/2608.13569)

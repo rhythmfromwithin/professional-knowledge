@@ -1,11 +1,12 @@
 ---
-title: "Adaptive Snapshots Require Visible Reads"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.13705
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13705
 next_step: skim
+priority: medium
+slack_ts: '1787103711.829059'
+source: cs.DC - Distributed Computing
+status: unread
+title: Adaptive Snapshots Require Visible Reads
 ---
 # Adaptive Snapshots Require Visible Reads
 > 原文: [https://arxiv.org/abs/2608.13705](https://arxiv.org/abs/2608.13705)

@@ -1,11 +1,13 @@
 ---
-title: "Over the Memory Wall, Into the Instruction Wall: The New Bottleneck in GPU Data Processing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.13696
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13696
 next_step: skim
+priority: low
+slack_ts: '1787103721.692809'
+source: cs.DB - Databases
+status: unread
+title: 'Over the Memory Wall, Into the Instruction Wall: The New Bottleneck in GPU
+  Data Processing'
 ---
 # Over the Memory Wall, Into the Instruction Wall: The New Bottleneck in GPU Data Processing
 > 原文: [https://arxiv.org/abs/2608.13696](https://arxiv.org/abs/2608.13696)

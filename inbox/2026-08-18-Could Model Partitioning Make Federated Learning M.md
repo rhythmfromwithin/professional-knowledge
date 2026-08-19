@@ -1,11 +1,12 @@
 ---
-title: "Could Model Partitioning Make Federated Learning More Sustainable?"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.14242
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14242
 next_step: skim
+priority: medium
+slack_ts: '1787103714.563819'
+source: cs.DC - Distributed Computing
+status: unread
+title: Could Model Partitioning Make Federated Learning More Sustainable?
 ---
 # Could Model Partitioning Make Federated Learning More Sustainable?
 > 原文: [https://arxiv.org/abs/2608.14242](https://arxiv.org/abs/2608.14242)

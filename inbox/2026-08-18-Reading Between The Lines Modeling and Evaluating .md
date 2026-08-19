@@ -1,11 +1,13 @@
 ---
-title: "Reading Between The Lines: Modeling and Evaluating Behavioral Realism in Legal Simulation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.13712
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13712
 next_step: skim
+priority: medium
+slack_ts: '1787103722.766769'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Reading Between The Lines: Modeling and Evaluating Behavioral Realism in Legal
+  Simulation'
 ---
 # Reading Between The Lines: Modeling and Evaluating Behavioral Realism in Legal Simulation
 > 原文: [https://arxiv.org/abs/2608.13712](https://arxiv.org/abs/2608.13712)

@@ -1,11 +1,13 @@
 ---
-title: "Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.13723
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13723
 next_step: skim
+priority: medium
+slack_ts: '1787103718.026569'
+source: cs.RO - Robotics
+status: unread
+title: 'Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge
+  for Object-Goal Navigation'
 ---
 # Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation
 > 原文: [https://arxiv.org/abs/2608.13723](https://arxiv.org/abs/2608.13723)
