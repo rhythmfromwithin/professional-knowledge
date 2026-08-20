@@ -1,11 +1,13 @@
 ---
-title: "A Deep Learning Model for Spatially Clustered Data via Differentiable Cluster Assignment"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.14968
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14968
 next_step: skim
+priority: medium
+slack_ts: '1787190025.288709'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Deep Learning Model for Spatially Clustered Data via Differentiable Cluster
+  Assignment
 ---
 # A Deep Learning Model for Spatially Clustered Data via Differentiable Cluster Assignment
 > 原文: [https://arxiv.org/abs/2608.14968](https://arxiv.org/abs/2608.14968)

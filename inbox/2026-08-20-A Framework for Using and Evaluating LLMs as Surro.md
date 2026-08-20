@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2608.16893
+next_step: skim
+priority: medium
+slack_ts: '1787190037.495139'
+source: cs.CY - Computers and Society
+status: unread
+title: 'A Framework for Using and Evaluating LLMs as Surrogate Experts in Security
+  Surveys: Reliability, Bias, and Implications'
+---
+# A Framework for Using and Evaluating LLMs as Surrogate Experts in Security Surveys: Reliability, Bias, and Implications
+> 原文: [https://arxiv.org/abs/2608.16893](https://arxiv.org/abs/2608.16893)
+
+arXiv:2608.16893v1 Announce Type: new
+Abstract: Expert surveys are widely used in security research to study practitioner workows and decision-making, yet recruiting domain experts - especially in Security Operations Centres (SOCs), where analysts face high workload, burnout and confidentiality constraints - is difficult and often results in small samples. Large language models (LLMs) oer an appealing alternative by generating synthetic responses at scale, but little guidance exists on when such surrogate participants are reliable. We present a methodological framework for evaluating LLMs as substitutes or supplements to expert survey respondents. Using responses from SOC professionals, we compare persona-based and aggregate LLM-generated answers across multiple models and prompting settings. We measure stability, inter-model agreement and alignment with human responses. Our results show that although LLMs produce internally consistent answers, they systematically diverge from experts, exhibiting reduced variance, central tendency bias and homogenised opinions. This work contributes methodological evidence and practical guidance to the security research community on the appropriate use and limitations of LLM-generated survey responses. We conclude that LLMs are useful for piloting and hypothesis generation but not for replacing expert elicitation, and we discuss implications for researchers using LLM-augmented surveys.

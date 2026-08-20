@@ -1,11 +1,13 @@
 ---
-title: "ARISE: An adaptive residual-informed stability ensemble for feature selection in small-sample biomedical omics"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.14866
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14866
 next_step: skim
+priority: medium
+slack_ts: '1787190025.752279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ARISE: An adaptive residual-informed stability ensemble for feature selection
+  in small-sample biomedical omics'
 ---
 # ARISE: An adaptive residual-informed stability ensemble for feature selection in small-sample biomedical omics
 > 原文: [https://arxiv.org/abs/2608.14866](https://arxiv.org/abs/2608.14866)

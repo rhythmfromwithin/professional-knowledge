@@ -1,0 +1,14 @@
+---
+title: "Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2608.17807
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing
+> 原文: [https://arxiv.org/abs/2608.17807](https://arxiv.org/abs/2608.17807)
+
+arXiv:2608.17807v1 Announce Type: cross
+Abstract: We present an optical random access memory (ORAM) based on warm cesium (Cs) atomic vapor and demonstrate its operation as the physical substrate of a reservoir computer. Information is stored in the hyperfine population distribution of a Cs ensemble via optical pumping and retrieved through differential probe absorption. Spatial multiplexing via acousto-optic deflection provides eight addressable memory rails able to store up to 3.8 bits of information per rail. Employing this platform as a temporally multiplexed reservoir, we achieve a kernel rank ($\mathrm{KR}= 8.8 \pm 0.4$), and a minimum bit error rate of $0.02 \pm 0.01$ on the Exclusive-or (XOR) benchmark. We find the limited memory lifetime constrains the achievable temporal depth, encouraging further research into fast addressable memories. This constitutes the first demonstration of a free-space, optically writable atomic RAM as a substrate in an optical reservoir computing system.

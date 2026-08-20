@@ -1,11 +1,12 @@
 ---
-title: "AI Agents and the Future of VIS"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.14815
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14815
 next_step: skim
+priority: low
+slack_ts: '1787190025.447589'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: AI Agents and the Future of VIS
 ---
 # AI Agents and the Future of VIS
 > 原文: [https://arxiv.org/abs/2608.14815](https://arxiv.org/abs/2608.14815)

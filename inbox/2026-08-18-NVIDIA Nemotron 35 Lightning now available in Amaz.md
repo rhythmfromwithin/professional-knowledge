@@ -1,11 +1,12 @@
 ---
-title: "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/
 next_step: skim
+priority: high
+slack_ts: '1787190021.341149'
+source: AWS Blog
+status: unread
+title: NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart
 ---
 # NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart
 > 原文: [https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/)

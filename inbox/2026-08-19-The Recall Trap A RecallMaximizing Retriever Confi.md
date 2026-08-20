@@ -1,11 +1,13 @@
 ---
-title: "The Recall Trap: A Recall-Maximizing Retriever Configuration Reduces Issue Resolution in Fixed-Budget Code Context"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.14838
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14838
 next_step: skim
+priority: low
+slack_ts: '1787190036.402749'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Recall Trap: A Recall-Maximizing Retriever Configuration Reduces Issue
+  Resolution in Fixed-Budget Code Context'
 ---
 # The Recall Trap: A Recall-Maximizing Retriever Configuration Reduces Issue Resolution in Fixed-Budget Code Context
 > 原文: [https://arxiv.org/abs/2608.14838](https://arxiv.org/abs/2608.14838)

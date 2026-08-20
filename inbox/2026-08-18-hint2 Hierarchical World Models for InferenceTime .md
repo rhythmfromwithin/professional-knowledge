@@ -1,11 +1,12 @@
 ---
-title: "hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.13678
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13678
 next_step: skim
+priority: medium
+slack_ts: '1787190025.127469'
+source: cs.RO - Robotics
+status: unread
+title: 'hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance'
 ---
 # hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance
 > 原文: [https://arxiv.org/abs/2608.13678](https://arxiv.org/abs/2608.13678)

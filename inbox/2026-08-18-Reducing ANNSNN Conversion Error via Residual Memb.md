@@ -1,11 +1,12 @@
 ---
-title: "Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.13952
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13952
 next_step: skim
+priority: low
+slack_ts: '1787190023.411579'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment
 ---
 # Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment
 > 原文: [https://arxiv.org/abs/2608.13952](https://arxiv.org/abs/2608.13952)

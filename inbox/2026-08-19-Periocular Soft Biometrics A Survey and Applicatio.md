@@ -1,11 +1,13 @@
 ---
-title: "Periocular Soft Biometrics: A Survey and Applications to Multimedia Forensics and Disinformation Detection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.14701
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14701
 next_step: skim
+priority: medium
+slack_ts: '1787190034.410749'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Periocular Soft Biometrics: A Survey and Applications to Multimedia Forensics
+  and Disinformation Detection'
 ---
 # Periocular Soft Biometrics: A Survey and Applications to Multimedia Forensics and Disinformation Detection
 > 原文: [https://arxiv.org/abs/2608.14701](https://arxiv.org/abs/2608.14701)

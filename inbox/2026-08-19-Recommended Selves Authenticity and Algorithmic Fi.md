@@ -1,11 +1,12 @@
 ---
-title: "Recommended Selves: Authenticity and Algorithmic Filtering"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.14602
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14602
 next_step: skim
+priority: medium
+slack_ts: '1787190035.420599'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Recommended Selves: Authenticity and Algorithmic Filtering'
 ---
 # Recommended Selves: Authenticity and Algorithmic Filtering
 > 原文: [https://arxiv.org/abs/2608.14602](https://arxiv.org/abs/2608.14602)

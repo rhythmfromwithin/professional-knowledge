@@ -1,11 +1,13 @@
 ---
-title: "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.13568
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13568
 next_step: skim
+priority: high
+slack_ts: '1787190028.830489'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology
+  and Preliminary Study
 ---
 # Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study
 > 原文: [https://arxiv.org/abs/2608.13568](https://arxiv.org/abs/2608.13568)

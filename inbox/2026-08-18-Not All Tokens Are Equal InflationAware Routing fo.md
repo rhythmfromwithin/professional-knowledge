@@ -1,11 +1,12 @@
 ---
-title: "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.13571
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13571
 next_step: skim
+priority: high
+slack_ts: '1787190021.709119'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems'
 ---
 # Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems
 > 原文: [https://arxiv.org/abs/2608.13571](https://arxiv.org/abs/2608.13571)

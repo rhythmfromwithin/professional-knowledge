@@ -1,11 +1,12 @@
 ---
-title: "Structured Payment in Pawnshop Borrowing: Mandates vs. Choice"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.13775
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13775
 next_step: skim
+priority: low
+slack_ts: '1787190024.015959'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Structured Payment in Pawnshop Borrowing: Mandates vs. Choice'
 ---
 # Structured Payment in Pawnshop Borrowing: Mandates vs. Choice
 > 原文: [https://arxiv.org/abs/2608.13775](https://arxiv.org/abs/2608.13775)

@@ -1,11 +1,12 @@
 ---
-title: "Generating Synthetic Behavioral Populations from XR Motion"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.14867
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14867
 next_step: skim
+priority: low
+slack_ts: '1787190030.273779'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Generating Synthetic Behavioral Populations from XR Motion
 ---
 # Generating Synthetic Behavioral Populations from XR Motion
 > 原文: [https://arxiv.org/abs/2608.14867](https://arxiv.org/abs/2608.14867)

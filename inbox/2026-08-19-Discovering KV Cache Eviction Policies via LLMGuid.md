@@ -1,11 +1,12 @@
 ---
-title: "Discovering KV Cache Eviction Policies via LLM-Guided Program Evolution"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.14555
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14555
 next_step: skim
+priority: medium
+slack_ts: '1787190028.676779'
+source: cs.DC - Distributed Computing
+status: unread
+title: Discovering KV Cache Eviction Policies via LLM-Guided Program Evolution
 ---
 # Discovering KV Cache Eviction Policies via LLM-Guided Program Evolution
 > 原文: [https://arxiv.org/abs/2608.14555](https://arxiv.org/abs/2608.14555)

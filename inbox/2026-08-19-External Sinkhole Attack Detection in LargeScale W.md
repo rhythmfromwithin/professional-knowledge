@@ -1,11 +1,13 @@
 ---
-title: "External Sinkhole Attack Detection in Large-Scale WSNs Using Metaheuristic Feature Selection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.15274
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15274
 next_step: skim
+priority: low
+slack_ts: '1787190029.162899'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: External Sinkhole Attack Detection in Large-Scale WSNs Using Metaheuristic
+  Feature Selection
 ---
 # External Sinkhole Attack Detection in Large-Scale WSNs Using Metaheuristic Feature Selection
 > 原文: [https://arxiv.org/abs/2608.15274](https://arxiv.org/abs/2608.15274)

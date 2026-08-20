@@ -1,11 +1,12 @@
 ---
-title: "Weird Machines in Transport Layer Security"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.13685
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13685
 next_step: skim
+priority: low
+slack_ts: '1787190024.770769'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Weird Machines in Transport Layer Security
 ---
 # Weird Machines in Transport Layer Security
 > 原文: [https://arxiv.org/abs/2608.13685](https://arxiv.org/abs/2608.13685)

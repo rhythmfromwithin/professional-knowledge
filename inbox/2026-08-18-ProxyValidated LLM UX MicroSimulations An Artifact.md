@@ -1,11 +1,13 @@
 ---
-title: "Proxy-Validated LLM UX Micro-Simulations: An Artifact-First Protocol for Early-Stage Decision Support"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.13563
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13563
 next_step: skim
+priority: low
+slack_ts: '1787190023.034949'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Proxy-Validated LLM UX Micro-Simulations: An Artifact-First Protocol for Early-Stage
+  Decision Support'
 ---
 # Proxy-Validated LLM UX Micro-Simulations: An Artifact-First Protocol for Early-Stage Decision Support
 > 原文: [https://arxiv.org/abs/2608.13563](https://arxiv.org/abs/2608.13563)

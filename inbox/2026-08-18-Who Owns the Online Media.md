@@ -1,11 +1,12 @@
 ---
-title: "Who Owns the Online Media?"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.14141
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14141
 next_step: skim
+priority: low
+slack_ts: '1787190024.964729'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who Owns the Online Media?
 ---
 # Who Owns the Online Media?
 > 原文: [https://arxiv.org/abs/2608.14141](https://arxiv.org/abs/2608.14141)

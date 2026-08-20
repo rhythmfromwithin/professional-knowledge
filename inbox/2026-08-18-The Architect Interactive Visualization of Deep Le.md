@@ -1,11 +1,13 @@
 ---
-title: "The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.13572
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13572
 next_step: skim
+priority: low
+slack_ts: '1787190024.205979'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Architect: Interactive Visualization of Deep Learning Mathematics Directly
+  in Microsoft Excel'
 ---
 # The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel
 > 原文: [https://arxiv.org/abs/2608.13572](https://arxiv.org/abs/2608.13572)

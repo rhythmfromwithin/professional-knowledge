@@ -1,11 +1,12 @@
 ---
-title: "Not Discrete Enough: On the Inherent Insecurity of dTPMs for Measured Boot"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.14736
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14736
 next_step: skim
+priority: low
+slack_ts: '1787190033.340769'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Not Discrete Enough: On the Inherent Insecurity of dTPMs for Measured Boot'
 ---
 # Not Discrete Enough: On the Inherent Insecurity of dTPMs for Measured Boot
 > 原文: [https://arxiv.org/abs/2608.14736](https://arxiv.org/abs/2608.14736)

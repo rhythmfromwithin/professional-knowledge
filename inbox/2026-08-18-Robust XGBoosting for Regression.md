@@ -1,11 +1,12 @@
 ---
-title: "Robust XGBoosting for Regression"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.13590
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13590
 next_step: skim
+priority: high
+slack_ts: '1787190023.625009'
+source: cs.LG - Machine Learning
+status: unread
+title: Robust XGBoosting for Regression
 ---
 # Robust XGBoosting for Regression
 > 原文: [https://arxiv.org/abs/2608.13590](https://arxiv.org/abs/2608.13590)

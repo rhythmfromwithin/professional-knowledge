@@ -1,11 +1,13 @@
 ---
-title: "Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.14822
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14822
 next_step: skim
+priority: medium
+slack_ts: '1787190031.155549'
+source: cs.RO - Robotics
+status: unread
+title: 'Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action
+  Models'
 ---
 # Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2608.14822](https://arxiv.org/abs/2608.14822)

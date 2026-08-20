@@ -1,11 +1,12 @@
 ---
-title: "Deep Analog: Open-Set Film Emulation with Reference-Conditioned 3D LUTs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.14702
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14702
 next_step: skim
+priority: medium
+slack_ts: '1787190028.316279'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Deep Analog: Open-Set Film Emulation with Reference-Conditioned 3D LUTs'
 ---
 # Deep Analog: Open-Set Film Emulation with Reference-Conditioned 3D LUTs
 > 原文: [https://arxiv.org/abs/2608.14702](https://arxiv.org/abs/2608.14702)

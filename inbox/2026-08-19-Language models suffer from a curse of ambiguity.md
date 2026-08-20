@@ -1,11 +1,12 @@
 ---
-title: "Language models suffer from a curse of ambiguity"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.15448
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15448
 next_step: skim
+priority: low
+slack_ts: '1787190032.129329'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Language models suffer from a curse of ambiguity
 ---
 # Language models suffer from a curse of ambiguity
 > 原文: [https://arxiv.org/abs/2608.15448](https://arxiv.org/abs/2608.15448)

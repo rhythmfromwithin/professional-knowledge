@@ -1,11 +1,13 @@
 ---
-title: "Chameleon: An Adaptive AI-Driven Honeypot Architecture Using Threat-Calibrated Particle Swarm Optimization and Semantic Deception Rapidly-Exploring Random Trees"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.15407
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15407
 next_step: skim
+priority: low
+slack_ts: '1787190027.430049'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Chameleon: An Adaptive AI-Driven Honeypot Architecture Using Threat-Calibrated
+  Particle Swarm Optimization and Semantic Deception Rapidly-Exploring Random Trees'
 ---
 # Chameleon: An Adaptive AI-Driven Honeypot Architecture Using Threat-Calibrated Particle Swarm Optimization and Semantic Deception Rapidly-Exploring Random Trees
 > 原文: [https://arxiv.org/abs/2608.15407](https://arxiv.org/abs/2608.15407)

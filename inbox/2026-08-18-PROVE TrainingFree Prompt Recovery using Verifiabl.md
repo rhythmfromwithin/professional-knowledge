@@ -1,11 +1,12 @@
 ---
-title: "PROVE: Training-Free Prompt Recovery using Verifiable Evidence"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.13671
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.13671
 next_step: skim
+priority: medium
+slack_ts: '1787190022.255739'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PROVE: Training-Free Prompt Recovery using Verifiable Evidence'
 ---
 # PROVE: Training-Free Prompt Recovery using Verifiable Evidence
 > 原文: [https://arxiv.org/abs/2608.13671](https://arxiv.org/abs/2608.13671)

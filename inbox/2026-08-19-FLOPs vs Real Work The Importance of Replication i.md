@@ -1,11 +1,12 @@
 ---
-title: "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.14550
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14550
 next_step: skim
+priority: high
+slack_ts: '1787190029.349109'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment'
 ---
 # FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment
 > 原文: [https://arxiv.org/abs/2608.14550](https://arxiv.org/abs/2608.14550)
