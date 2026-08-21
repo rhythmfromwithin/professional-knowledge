@@ -1,11 +1,12 @@
 ---
-title: "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.14552
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14552
 next_step: skim
+priority: high
+slack_ts: '1787276733.886649'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Large Language Models Show Metacognitive Sensitivity in Medical Reasoning
 ---
 # Large Language Models Show Metacognitive Sensitivity in Medical Reasoning
 > 原文: [https://arxiv.org/abs/2608.14552](https://arxiv.org/abs/2608.14552)

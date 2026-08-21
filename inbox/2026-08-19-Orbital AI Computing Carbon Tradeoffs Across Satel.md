@@ -1,11 +1,12 @@
 ---
-title: "Orbital AI Computing: Carbon Tradeoffs Across Satellite Scale"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.14557
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14557
 next_step: skim
+priority: medium
+slack_ts: '1787276734.292039'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Orbital AI Computing: Carbon Tradeoffs Across Satellite Scale'
 ---
 # Orbital AI Computing: Carbon Tradeoffs Across Satellite Scale
 > 原文: [https://arxiv.org/abs/2608.14557](https://arxiv.org/abs/2608.14557)

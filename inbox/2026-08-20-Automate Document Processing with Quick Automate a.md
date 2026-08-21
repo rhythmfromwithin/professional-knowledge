@@ -1,11 +1,12 @@
 ---
-title: "Automate Document Processing with Quick Automate and the IDP Accelerator"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/
 next_step: skim
+priority: high
+slack_ts: '1787276737.338149'
+source: AWS Blog
+status: unread
+title: Automate Document Processing with Quick Automate and the IDP Accelerator
 ---
 # Automate Document Processing with Quick Automate and the IDP Accelerator
 > 原文: [https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/](https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/)

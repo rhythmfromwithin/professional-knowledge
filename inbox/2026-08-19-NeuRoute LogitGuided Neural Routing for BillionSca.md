@@ -1,11 +1,13 @@
 ---
-title: "NeuRoute: Logit-Guided Neural Routing for Billion-Scale Vector Search with Sub-Hour Index Construction"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.15438
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15438
 next_step: skim
+priority: low
+slack_ts: '1787276734.134179'
+source: cs.DB - Databases
+status: unread
+title: 'NeuRoute: Logit-Guided Neural Routing for Billion-Scale Vector Search with
+  Sub-Hour Index Construction'
 ---
 # NeuRoute: Logit-Guided Neural Routing for Billion-Scale Vector Search with Sub-Hour Index Construction
 > 原文: [https://arxiv.org/abs/2608.15438](https://arxiv.org/abs/2608.15438)

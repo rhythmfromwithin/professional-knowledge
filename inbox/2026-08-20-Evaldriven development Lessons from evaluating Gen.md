@@ -1,7 +1,9 @@
 ---
-title: "Eval-driven development: Lessons from evaluating GenAI at scale"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss
+slack_ts: '1787276738.431749'
+source: Airbnb Engineering
+title: 'Eval-driven development: Lessons from evaluating GenAI at scale'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

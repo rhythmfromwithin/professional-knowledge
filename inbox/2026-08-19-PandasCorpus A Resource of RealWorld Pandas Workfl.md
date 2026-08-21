@@ -1,11 +1,12 @@
 ---
-title: "PandasCorpus: A Resource of Real-World Pandas Workflows and Usage Patterns"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.14742
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14742
 next_step: skim
+priority: low
+slack_ts: '1787276734.443529'
+source: cs.SE - Software Engineering
+status: unread
+title: 'PandasCorpus: A Resource of Real-World Pandas Workflows and Usage Patterns'
 ---
 # PandasCorpus: A Resource of Real-World Pandas Workflows and Usage Patterns
 > 原文: [https://arxiv.org/abs/2608.14742](https://arxiv.org/abs/2608.14742)

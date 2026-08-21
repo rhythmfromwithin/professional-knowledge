@@ -1,11 +1,13 @@
 ---
-title: "AerialYield-B2D: A Greenhouse Blueberry Dataset with Five-Stage Ripeness Masks and Fruit Counts"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.16973
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16973
 next_step: skim
+priority: medium
+slack_ts: '1787276736.836789'
+source: cs.CV - Computer Vision
+status: unread
+title: 'AerialYield-B2D: A Greenhouse Blueberry Dataset with Five-Stage Ripeness Masks
+  and Fruit Counts'
 ---
 # AerialYield-B2D: A Greenhouse Blueberry Dataset with Five-Stage Ripeness Masks and Fruit Counts
 > 原文: [https://arxiv.org/abs/2608.16973](https://arxiv.org/abs/2608.16973)

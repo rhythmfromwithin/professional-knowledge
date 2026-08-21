@@ -1,11 +1,13 @@
 ---
-title: "The Yeoman's Portfolio: Measuring Historical Risk Preferences Using Crop Choice"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.15876
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15876
 next_step: skim
+priority: low
+slack_ts: '1787276735.781349'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Yeoman''s Portfolio: Measuring Historical Risk Preferences Using Crop
+  Choice'
 ---
 # The Yeoman's Portfolio: Measuring Historical Risk Preferences Using Crop Choice
 > 原文: [https://arxiv.org/abs/2608.15876](https://arxiv.org/abs/2608.15876)

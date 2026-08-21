@@ -1,11 +1,13 @@
 ---
-title: "Computational Prosopography across a Millennium: Mathematically Oriented Lineages Traced from the Fields Medalists"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.17915
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17915
 next_step: skim
+priority: low
+slack_ts: '1787276737.962879'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Computational Prosopography across a Millennium: Mathematically Oriented Lineages
+  Traced from the Fields Medalists'
 ---
 # Computational Prosopography across a Millennium: Mathematically Oriented Lineages Traced from the Fields Medalists
 > 原文: [https://arxiv.org/abs/2608.17915](https://arxiv.org/abs/2608.17915)

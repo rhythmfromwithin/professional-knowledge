@@ -1,11 +1,12 @@
 ---
-title: "Sufficient Dimesion Reduction via Generalized Stein's Lemma"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.15121
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15121
 next_step: skim
+priority: medium
+slack_ts: '1787276735.434099'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Sufficient Dimesion Reduction via Generalized Stein's Lemma
 ---
 # Sufficient Dimesion Reduction via Generalized Stein's Lemma
 > 原文: [https://arxiv.org/abs/2608.15121](https://arxiv.org/abs/2608.15121)

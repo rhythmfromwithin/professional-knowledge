@@ -1,11 +1,13 @@
 ---
-title: "Phase- and amplitude-dependent control of synchronization in excitatory-inhibitory networks via pulsed stimulation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.15081
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15081
 next_step: skim
+priority: low
+slack_ts: '1787276734.730869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Phase- and amplitude-dependent control of synchronization in excitatory-inhibitory
+  networks via pulsed stimulation
 ---
 # Phase- and amplitude-dependent control of synchronization in excitatory-inhibitory networks via pulsed stimulation
 > 原文: [https://arxiv.org/abs/2608.15081](https://arxiv.org/abs/2608.15081)

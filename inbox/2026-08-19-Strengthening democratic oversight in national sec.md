@@ -1,11 +1,12 @@
 ---
-title: "Strengthening democratic oversight in national security"
-source: "OpenAI Blog"
-link: https://openai.com/index/strengthening-democratic-oversight-in-national-security
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/strengthening-democratic-oversight-in-national-security
 next_step: skim
+priority: high
+slack_ts: '1787276735.364749'
+source: OpenAI Blog
+status: unread
+title: Strengthening democratic oversight in national security
 ---
 # Strengthening democratic oversight in national security
 > 原文: [https://openai.com/index/strengthening-democratic-oversight-in-national-security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)

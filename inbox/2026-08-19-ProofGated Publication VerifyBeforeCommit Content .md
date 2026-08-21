@@ -1,11 +1,13 @@
 ---
-title: "Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.14643
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14643
 next_step: skim
+priority: low
+slack_ts: '1787276734.904039'
+source: cs.DB - Databases
+status: unread
+title: 'Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless
+  Data-Mesh Lakehouses'
 ---
 # Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses
 > 原文: [https://arxiv.org/abs/2608.14643](https://arxiv.org/abs/2608.14643)

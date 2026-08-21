@@ -1,11 +1,12 @@
 ---
-title: "Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.14648
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14648
 next_step: skim
+priority: low
+slack_ts: '1787276735.287589'
+source: cs.DB - Databases
+status: unread
+title: 'Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings'
 ---
 # Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings
 > 原文: [https://arxiv.org/abs/2608.14648](https://arxiv.org/abs/2608.14648)

@@ -1,11 +1,13 @@
 ---
-title: "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.14558
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14558
 next_step: skim
+priority: high
+slack_ts: '1787276735.671639'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in
+  Abstract Perceptual Reasoning'
 ---
 # The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning
 > 原文: [https://arxiv.org/abs/2608.14558](https://arxiv.org/abs/2608.14558)

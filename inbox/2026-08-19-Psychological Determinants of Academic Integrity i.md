@@ -1,11 +1,13 @@
 ---
-title: "Psychological Determinants of Academic Integrity in the Use of Generative AI in Higher Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.14605
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14605
 next_step: skim
+priority: medium
+slack_ts: '1787276734.978189'
+source: cs.CY - Computers and Society
+status: unread
+title: Psychological Determinants of Academic Integrity in the Use of Generative AI
+  in Higher Education
 ---
 # Psychological Determinants of Academic Integrity in the Use of Generative AI in Higher Education
 > 原文: [https://arxiv.org/abs/2608.14605](https://arxiv.org/abs/2608.14605)

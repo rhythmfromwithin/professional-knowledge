@@ -1,11 +1,12 @@
 ---
-title: "Domain and publish date filters for Web Search on AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1787276738.359839'
+source: AWS Blog
+status: unread
+title: Domain and publish date filters for Web Search on AgentCore
 ---
 # Domain and publish date filters for Web Search on AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/](https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/)

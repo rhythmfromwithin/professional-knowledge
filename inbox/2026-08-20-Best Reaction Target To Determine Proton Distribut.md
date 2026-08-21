@@ -1,11 +1,12 @@
 ---
-title: "Best Reaction Target To Determine Proton Distribution Radii of Atomic Nuclei"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.14957
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14957
 next_step: skim
+priority: low
+slack_ts: '1787276737.418049'
+source: cs.DB - Databases
+status: unread
+title: Best Reaction Target To Determine Proton Distribution Radii of Atomic Nuclei
 ---
 # Best Reaction Target To Determine Proton Distribution Radii of Atomic Nuclei
 > 原文: [https://arxiv.org/abs/2608.14957](https://arxiv.org/abs/2608.14957)

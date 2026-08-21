@@ -1,11 +1,13 @@
 ---
-title: "Synaptic delays modulate population phase and amplitude responses in oscillatory excitatory-inhibitory networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.15077
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.15077
 next_step: skim
+priority: low
+slack_ts: '1787276735.504939'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Synaptic delays modulate population phase and amplitude responses in oscillatory
+  excitatory-inhibitory networks
 ---
 # Synaptic delays modulate population phase and amplitude responses in oscillatory excitatory-inhibitory networks
 > 原文: [https://arxiv.org/abs/2608.15077](https://arxiv.org/abs/2608.15077)

@@ -1,11 +1,13 @@
 ---
-title: "Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.14700
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14700
 next_step: skim
+priority: medium
+slack_ts: '1787276736.042609'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait
+  Synthesis'
 ---
 # Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis
 > 原文: [https://arxiv.org/abs/2608.14700](https://arxiv.org/abs/2608.14700)

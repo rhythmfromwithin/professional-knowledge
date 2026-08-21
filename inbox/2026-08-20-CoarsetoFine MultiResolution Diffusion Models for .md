@@ -1,11 +1,13 @@
 ---
-title: "Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.14570
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14570
 next_step: skim
+priority: high
+slack_ts: '1787276737.858049'
+source: cs.LG - Machine Learning
+status: unread
+title: Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation
+  in Urban Systems
 ---
 # Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems
 > 原文: [https://arxiv.org/abs/2608.14570](https://arxiv.org/abs/2608.14570)

@@ -1,11 +1,12 @@
 ---
-title: "MISTac: A Vision-Based Tactile Sensor for Minimally Invasive Surgery"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.14772
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14772
 next_step: skim
+priority: medium
+slack_ts: '1787276733.965369'
+source: cs.RO - Robotics
+status: unread
+title: 'MISTac: A Vision-Based Tactile Sensor for Minimally Invasive Surgery'
 ---
 # MISTac: A Vision-Based Tactile Sensor for Minimally Invasive Surgery
 > 原文: [https://arxiv.org/abs/2608.14772](https://arxiv.org/abs/2608.14772)

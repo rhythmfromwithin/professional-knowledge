@@ -1,11 +1,12 @@
 ---
-title: "Partnering with CodeAI to prepare the first AI generation"
-source: "OpenAI Blog"
-link: https://openai.com/index/partnering-with-codeai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/partnering-with-codeai
 next_step: skim
+priority: high
+slack_ts: '1787276734.514159'
+source: OpenAI Blog
+status: unread
+title: Partnering with CodeAI to prepare the first AI generation
 ---
 # Partnering with CodeAI to prepare the first AI generation
 > 原文: [https://openai.com/index/partnering-with-codeai](https://openai.com/index/partnering-with-codeai)

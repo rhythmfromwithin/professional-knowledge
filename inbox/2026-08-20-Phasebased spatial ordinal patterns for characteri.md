@@ -1,11 +1,12 @@
 ---
-title: "Phase-based spatial ordinal patterns for characterizing oscillatory dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.17196
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17196
 next_step: skim
+priority: low
+slack_ts: '1787276739.915919'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Phase-based spatial ordinal patterns for characterizing oscillatory dynamics
 ---
 # Phase-based spatial ordinal patterns for characterizing oscillatory dynamics
 > 原文: [https://arxiv.org/abs/2608.17196](https://arxiv.org/abs/2608.17196)

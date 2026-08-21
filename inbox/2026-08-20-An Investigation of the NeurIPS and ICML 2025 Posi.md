@@ -1,11 +1,12 @@
 ---
-title: "An Investigation of the NeurIPS and ICML 2025 Position Tracks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.16894
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16894
 next_step: skim
+priority: medium
+slack_ts: '1787276736.937029'
+source: cs.CY - Computers and Society
+status: unread
+title: An Investigation of the NeurIPS and ICML 2025 Position Tracks
 ---
 # An Investigation of the NeurIPS and ICML 2025 Position Tracks
 > 原文: [https://arxiv.org/abs/2608.16894](https://arxiv.org/abs/2608.16894)

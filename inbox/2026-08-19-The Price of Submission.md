@@ -1,11 +1,12 @@
 ---
-title: "The Price of Submission"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.14760
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14760
 next_step: skim
+priority: low
+slack_ts: '1787276735.574829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Price of Submission
 ---
 # The Price of Submission
 > 原文: [https://arxiv.org/abs/2608.14760](https://arxiv.org/abs/2608.14760)

@@ -1,11 +1,12 @@
 ---
-title: "Expressivity In Multimodal Contrastive Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.17203
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17203
 next_step: skim
+priority: medium
+slack_ts: '1787276738.509649'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Expressivity In Multimodal Contrastive Learning
 ---
 # Expressivity In Multimodal Contrastive Learning
 > 原文: [https://arxiv.org/abs/2608.17203](https://arxiv.org/abs/2608.17203)

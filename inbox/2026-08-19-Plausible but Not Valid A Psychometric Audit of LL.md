@@ -1,11 +1,13 @@
 ---
-title: "Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.14606
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14606
 next_step: skim
+priority: medium
+slack_ts: '1787276734.829769'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey
+  Respondents'
 ---
 # Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents
 > 原文: [https://arxiv.org/abs/2608.14606](https://arxiv.org/abs/2608.14606)

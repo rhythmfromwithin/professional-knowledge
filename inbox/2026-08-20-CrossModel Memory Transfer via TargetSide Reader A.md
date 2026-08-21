@@ -1,11 +1,12 @@
 ---
-title: "Cross-Model Memory Transfer via Target-Side Reader Adaptation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.17050
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17050
 next_step: skim
+priority: high
+slack_ts: '1787276738.132889'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Cross-Model Memory Transfer via Target-Side Reader Adaptation
 ---
 # Cross-Model Memory Transfer via Target-Side Reader Adaptation
 > 原文: [https://arxiv.org/abs/2608.17050](https://arxiv.org/abs/2608.17050)

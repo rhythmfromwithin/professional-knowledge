@@ -1,11 +1,12 @@
 ---
-title: "A Multi-Surface Consistency Audit of Software Citation Metadata"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.17159
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17159
 next_step: skim
+priority: low
+slack_ts: '1787276736.232129'
+source: cs.SE - Software Engineering
+status: unread
+title: A Multi-Surface Consistency Audit of Software Citation Metadata
 ---
 # A Multi-Surface Consistency Audit of Software Citation Metadata
 > 原文: [https://arxiv.org/abs/2608.17159](https://arxiv.org/abs/2608.17159)

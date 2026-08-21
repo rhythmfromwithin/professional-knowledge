@@ -1,11 +1,13 @@
 ---
-title: "Center-Manifold Reduction of Learning at Bifurcations: Interference and Rich Learning in Recurrent Neural Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2605.12763
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2605.12763
 next_step: skim
+priority: low
+slack_ts: '1787276737.709359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Center-Manifold Reduction of Learning at Bifurcations: Interference and Rich
+  Learning in Recurrent Neural Networks'
 ---
 # Center-Manifold Reduction of Learning at Bifurcations: Interference and Rich Learning in Recurrent Neural Networks
 > 原文: [https://arxiv.org/abs/2605.12763](https://arxiv.org/abs/2605.12763)
