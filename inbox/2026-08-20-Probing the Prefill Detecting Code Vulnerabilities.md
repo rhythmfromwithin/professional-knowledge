@@ -1,11 +1,12 @@
 ---
-title: "Probing the Prefill: Detecting Code Vulnerabilities via Latent Activations"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.16970
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16970
 next_step: skim
+priority: low
+slack_ts: '1787362733.124869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Probing the Prefill: Detecting Code Vulnerabilities via Latent Activations'
 ---
 # Probing the Prefill: Detecting Code Vulnerabilities via Latent Activations
 > 原文: [https://arxiv.org/abs/2608.16970](https://arxiv.org/abs/2608.16970)

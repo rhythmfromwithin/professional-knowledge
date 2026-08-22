@@ -1,11 +1,13 @@
 ---
-title: "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.16891
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16891
 next_step: skim
+priority: high
+slack_ts: '1787362734.199719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance
+  and Fail-Closed Execution'
 ---
 # Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution
 > 原文: [https://arxiv.org/abs/2608.16891](https://arxiv.org/abs/2608.16891)

@@ -1,11 +1,12 @@
 ---
-title: "Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.14563
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14563
 next_step: skim
+priority: high
+slack_ts: '1787362727.865439'
+source: cs.LG - Machine Learning
+status: unread
+title: Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)
 ---
 # Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)
 > 原文: [https://arxiv.org/abs/2608.14563](https://arxiv.org/abs/2608.14563)

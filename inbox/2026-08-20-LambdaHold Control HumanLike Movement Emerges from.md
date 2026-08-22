@@ -1,11 +1,13 @@
 ---
-title: "Lambda-Hold Control: Human-Like Movement Emerges from a Minimal Task Reward in Predictive Musculoskeletal Simulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.17030
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17030
 next_step: skim
+priority: medium
+slack_ts: '1787362730.677169'
+source: cs.RO - Robotics
+status: unread
+title: 'Lambda-Hold Control: Human-Like Movement Emerges from a Minimal Task Reward
+  in Predictive Musculoskeletal Simulation'
 ---
 # Lambda-Hold Control: Human-Like Movement Emerges from a Minimal Task Reward in Predictive Musculoskeletal Simulation
 > 原文: [https://arxiv.org/abs/2608.17030](https://arxiv.org/abs/2608.17030)

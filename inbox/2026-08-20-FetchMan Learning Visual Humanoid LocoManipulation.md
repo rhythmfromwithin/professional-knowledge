@@ -1,11 +1,13 @@
 ---
-title: "FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.17027
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17027
 next_step: skim
+priority: medium
+slack_ts: '1787362727.457299'
+source: cs.RO - Robotics
+status: unread
+title: 'FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated
+  Experiences'
 ---
 # FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences
 > 原文: [https://arxiv.org/abs/2608.17027](https://arxiv.org/abs/2608.17027)

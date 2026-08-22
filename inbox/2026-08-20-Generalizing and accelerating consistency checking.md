@@ -1,11 +1,13 @@
 ---
-title: "Generalizing and accelerating consistency checking for non-transactional distributed storage systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.17388
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17388
 next_step: skim
+priority: medium
+slack_ts: '1787362728.456199'
+source: cs.DC - Distributed Computing
+status: unread
+title: Generalizing and accelerating consistency checking for non-transactional distributed
+  storage systems
 ---
 # Generalizing and accelerating consistency checking for non-transactional distributed storage systems
 > 原文: [https://arxiv.org/abs/2608.17388](https://arxiv.org/abs/2608.17388)

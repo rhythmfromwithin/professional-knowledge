@@ -1,11 +1,13 @@
 ---
-title: "Accelerating Visual On-Policy Distillation with Batched Speculative Jacobi Rollouts"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.18183
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18183
 next_step: skim
+priority: high
+slack_ts: '1787362736.604569'
+source: cs.LG - Machine Learning
+status: unread
+title: Accelerating Visual On-Policy Distillation with Batched Speculative Jacobi
+  Rollouts
 ---
 # Accelerating Visual On-Policy Distillation with Batched Speculative Jacobi Rollouts
 > 原文: [https://arxiv.org/abs/2608.18183](https://arxiv.org/abs/2608.18183)

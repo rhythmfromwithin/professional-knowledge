@@ -1,11 +1,12 @@
 ---
-title: "AdaRare: Telemetry-Guided Joint Profile Control for Greybox Fuzzing"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.18187
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18187
 next_step: skim
+priority: low
+slack_ts: '1787362736.961979'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'AdaRare: Telemetry-Guided Joint Profile Control for Greybox Fuzzing'
 ---
 # AdaRare: Telemetry-Guided Joint Profile Control for Greybox Fuzzing
 > 原文: [https://arxiv.org/abs/2608.18187](https://arxiv.org/abs/2608.18187)

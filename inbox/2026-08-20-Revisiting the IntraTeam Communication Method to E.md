@@ -1,11 +1,13 @@
 ---
-title: "Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning in Beauty Contests and 11-20 Games"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.18069
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18069
 next_step: skim
+priority: low
+slack_ts: '1787362734.011599'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning
+  in Beauty Contests and 11-20 Games
 ---
 # Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning in Beauty Contests and 11-20 Games
 > 原文: [https://arxiv.org/abs/2608.18069](https://arxiv.org/abs/2608.18069)

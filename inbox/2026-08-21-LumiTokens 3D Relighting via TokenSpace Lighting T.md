@@ -1,11 +1,12 @@
 ---
-title: "LumiTokens: 3D Relighting via Token-Space Lighting Transformation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.18215
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18215
 next_step: skim
+priority: medium
+slack_ts: '1787362743.490069'
+source: cs.CV - Computer Vision
+status: unread
+title: 'LumiTokens: 3D Relighting via Token-Space Lighting Transformation'
 ---
 # LumiTokens: 3D Relighting via Token-Space Lighting Transformation
 > 原文: [https://arxiv.org/abs/2608.18215](https://arxiv.org/abs/2608.18215)

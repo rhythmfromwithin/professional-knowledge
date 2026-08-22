@@ -1,11 +1,13 @@
 ---
-title: "Orphan risks at the frontier of artificial intelligence: What diverging safety and compliance frameworks reveal about how AI companies choose the risks they prioritize"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.16895
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16895
 next_step: skim
+priority: medium
+slack_ts: '1787362732.237129'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Orphan risks at the frontier of artificial intelligence: What diverging safety
+  and compliance frameworks reveal about how AI companies choose the risks they prioritize'
 ---
 # Orphan risks at the frontier of artificial intelligence: What diverging safety and compliance frameworks reveal about how AI companies choose the risks they prioritize
 > 原文: [https://arxiv.org/abs/2608.16895](https://arxiv.org/abs/2608.16895)

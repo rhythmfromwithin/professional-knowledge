@@ -1,11 +1,13 @@
 ---
-title: "Biological-Hybrid Intelligence: A Conceptual Framework for Distributed Biological--Artificial Computation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.18748
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18748
 next_step: skim
+priority: low
+slack_ts: '1787362737.832519'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Biological-Hybrid Intelligence: A Conceptual Framework for Distributed Biological--Artificial
+  Computation'
 ---
 # Biological-Hybrid Intelligence: A Conceptual Framework for Distributed Biological--Artificial Computation
 > 原文: [https://arxiv.org/abs/2608.18748](https://arxiv.org/abs/2608.18748)

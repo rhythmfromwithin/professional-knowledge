@@ -1,11 +1,13 @@
 ---
-title: "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/
 next_step: skim
+priority: medium
+slack_ts: '1787362729.103989'
+source: Meta Engineering
+status: unread
+title: How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability
+  Guarantees
 ---
 # How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees
 > 原文: [https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/](https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/)

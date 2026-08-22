@@ -1,11 +1,13 @@
 ---
-title: "A Simple Construction of Locally Checkable Problems Filling the LOCAL Complexity Gaps in Graphs with Arbitrary Large Degrees"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.18684
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18684
 next_step: skim
+priority: medium
+slack_ts: '1787362735.898969'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Simple Construction of Locally Checkable Problems Filling the LOCAL Complexity
+  Gaps in Graphs with Arbitrary Large Degrees
 ---
 # A Simple Construction of Locally Checkable Problems Filling the LOCAL Complexity Gaps in Graphs with Arbitrary Large Degrees
 > 原文: [https://arxiv.org/abs/2608.18684](https://arxiv.org/abs/2608.18684)

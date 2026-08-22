@@ -1,11 +1,13 @@
 ---
-title: "Reproducibility is Not Enough: Artifact Verifiability in Decentralized-Build Package Ecosystems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.18180
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18180
 next_step: skim
+priority: low
+slack_ts: '1787362745.491969'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Reproducibility is Not Enough: Artifact Verifiability in Decentralized-Build
+  Package Ecosystems'
 ---
 # Reproducibility is Not Enough: Artifact Verifiability in Decentralized-Build Package Ecosystems
 > 原文: [https://arxiv.org/abs/2608.18180](https://arxiv.org/abs/2608.18180)

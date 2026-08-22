@@ -1,11 +1,13 @@
 ---
-title: "Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.14556
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.14556
 next_step: skim
+priority: high
+slack_ts: '1787362730.834659'
+source: cs.LG - Machine Learning
+status: unread
+title: Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame
+  Equivarianc
 ---
 # Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc
 > 原文: [https://arxiv.org/abs/2608.14556](https://arxiv.org/abs/2608.14556)

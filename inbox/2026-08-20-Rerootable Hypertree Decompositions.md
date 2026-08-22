@@ -1,11 +1,12 @@
 ---
-title: "Rerootable Hypertree Decompositions"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.17853
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17853
 next_step: skim
+priority: low
+slack_ts: '1787362733.826229'
+source: cs.DB - Databases
+status: unread
+title: Rerootable Hypertree Decompositions
 ---
 # Rerootable Hypertree Decompositions
 > 原文: [https://arxiv.org/abs/2608.17853](https://arxiv.org/abs/2608.17853)

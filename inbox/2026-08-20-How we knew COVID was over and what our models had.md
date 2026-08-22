@@ -1,7 +1,9 @@
 ---
-title: "How we knew COVID was over (and what our models had to unlearn)"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss
+slack_ts: '1787362729.458129'
+source: Airbnb Engineering
+title: How we knew COVID was over (and what our models had to unlearn)
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

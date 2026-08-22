@@ -1,11 +1,12 @@
 ---
-title: "When Do Microservices Save Energy? Evidence from Environmental Simulation Workflows"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.18376
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18376
 next_step: skim
+priority: medium
+slack_ts: '1787362747.535899'
+source: cs.DC - Distributed Computing
+status: unread
+title: When Do Microservices Save Energy? Evidence from Environmental Simulation Workflows
 ---
 # When Do Microservices Save Energy? Evidence from Environmental Simulation Workflows
 > 原文: [https://arxiv.org/abs/2608.18376](https://arxiv.org/abs/2608.18376)

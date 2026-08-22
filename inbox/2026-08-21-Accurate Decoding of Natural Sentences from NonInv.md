@@ -1,11 +1,12 @@
 ---
-title: "Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.18114
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18114
 next_step: skim
+priority: low
+slack_ts: '1787362736.805889'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings
 ---
 # Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings
 > 原文: [https://arxiv.org/abs/2608.18114](https://arxiv.org/abs/2608.18114)

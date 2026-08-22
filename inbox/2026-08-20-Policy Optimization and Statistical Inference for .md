@@ -1,11 +1,13 @@
 ---
-title: "Policy Optimization and Statistical Inference for Online Contextual Matrix Games"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.17173
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17173
 next_step: skim
+priority: medium
+slack_ts: '1787362732.952649'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Policy Optimization and Statistical Inference for Online Contextual Matrix
+  Games
 ---
 # Policy Optimization and Statistical Inference for Online Contextual Matrix Games
 > 原文: [https://arxiv.org/abs/2608.17173](https://arxiv.org/abs/2608.17173)

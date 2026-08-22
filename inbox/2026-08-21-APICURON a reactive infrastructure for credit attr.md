@@ -1,11 +1,13 @@
 ---
-title: "APICURON: a reactive infrastructure for credit attribution across distributed research data ecosystems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.18958
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18958
 next_step: skim
+priority: low
+slack_ts: '1787362736.081779'
+source: cs.DB - Databases
+status: unread
+title: 'APICURON: a reactive infrastructure for credit attribution across distributed
+  research data ecosystems'
 ---
 # APICURON: a reactive infrastructure for credit attribution across distributed research data ecosystems
 > 原文: [https://arxiv.org/abs/2608.18958](https://arxiv.org/abs/2608.18958)

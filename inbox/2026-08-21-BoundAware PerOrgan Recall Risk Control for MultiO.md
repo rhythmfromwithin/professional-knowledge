@@ -1,11 +1,13 @@
 ---
-title: "Bound-Aware Per-Organ Recall Risk Control for Multi-Organ CT Segmentation under Clinical Domain Shift"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.18193
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18193
 next_step: skim
+priority: medium
+slack_ts: '1787362738.003659'
+source: cs.CV - Computer Vision
+status: unread
+title: Bound-Aware Per-Organ Recall Risk Control for Multi-Organ CT Segmentation under
+  Clinical Domain Shift
 ---
 # Bound-Aware Per-Organ Recall Risk Control for Multi-Organ CT Segmentation under Clinical Domain Shift
 > 原文: [https://arxiv.org/abs/2608.18193](https://arxiv.org/abs/2608.18193)

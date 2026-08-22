@@ -1,11 +1,13 @@
 ---
-title: "Why This and Not That? A Collaborative Reflection Approach for Understanding Thought Coverage in Decision Making Support Dialog"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.17054
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17054
 next_step: skim
+priority: low
+slack_ts: '1787362735.517419'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Why This and Not That? A Collaborative Reflection Approach for Understanding
+  Thought Coverage in Decision Making Support Dialog
 ---
 # Why This and Not That? A Collaborative Reflection Approach for Understanding Thought Coverage in Decision Making Support Dialog
 > 原文: [https://arxiv.org/abs/2608.17054](https://arxiv.org/abs/2608.17054)

@@ -1,11 +1,5 @@
 ---
-title: ""It just kind of shows that I went somewhere": An Exploratory Study of Fitness Data Sharing"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.17014
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1787362730.328269'
 ---
 # "It just kind of shows that I went somewhere": An Exploratory Study of Fitness Data Sharing
 > 原文: [https://arxiv.org/abs/2608.17014](https://arxiv.org/abs/2608.17014)

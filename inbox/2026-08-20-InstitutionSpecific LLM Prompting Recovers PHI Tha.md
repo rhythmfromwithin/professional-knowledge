@@ -1,11 +1,13 @@
 ---
-title: "Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.17051
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17051
 next_step: skim
+priority: high
+slack_ts: '1787362729.809179'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Institution-Specific LLM Prompting Recovers PHI That De-identification Systems
+  and Their Gold Standards Both Miss
 ---
 # Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss
 > 原文: [https://arxiv.org/abs/2608.17051](https://arxiv.org/abs/2608.17051)

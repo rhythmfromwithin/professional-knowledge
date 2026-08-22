@@ -1,11 +1,13 @@
 ---
-title: "Multi-Observer Vehicle Localization Case Study with Roadside Radar and Connected Vehicle Sensing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.16966
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16966
 next_step: skim
+priority: medium
+slack_ts: '1787362731.354129'
+source: cs.CV - Computer Vision
+status: unread
+title: Multi-Observer Vehicle Localization Case Study with Roadside Radar and Connected
+  Vehicle Sensing
 ---
 # Multi-Observer Vehicle Localization Case Study with Roadside Radar and Connected Vehicle Sensing
 > 原文: [https://arxiv.org/abs/2608.16966](https://arxiv.org/abs/2608.16966)

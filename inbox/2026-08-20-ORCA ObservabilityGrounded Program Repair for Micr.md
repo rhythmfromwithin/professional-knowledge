@@ -1,11 +1,12 @@
 ---
-title: "ORCA: Observability-Grounded Program Repair for Microservice Incidents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.17018
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17018
 next_step: skim
+priority: low
+slack_ts: '1787362731.522499'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ORCA: Observability-Grounded Program Repair for Microservice Incidents'
 ---
 # ORCA: Observability-Grounded Program Repair for Microservice Incidents
 > 原文: [https://arxiv.org/abs/2608.17018](https://arxiv.org/abs/2608.17018)

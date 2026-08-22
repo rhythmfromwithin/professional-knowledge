@@ -1,11 +1,12 @@
 ---
-title: "Stranded credentials: how a skill-signaling market absorbed generative AI"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.17111
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17111
 next_step: skim
+priority: low
+slack_ts: '1787362734.546359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Stranded credentials: how a skill-signaling market absorbed generative AI'
 ---
 # Stranded credentials: how a skill-signaling market absorbed generative AI
 > 原文: [https://arxiv.org/abs/2608.17111](https://arxiv.org/abs/2608.17111)

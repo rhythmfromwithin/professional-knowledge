@@ -1,11 +1,12 @@
 ---
-title: "LadderTeam: Dual-Agent Laddering Elicitation Framework"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.17029
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17029
 next_step: skim
+priority: low
+slack_ts: '1787362730.501129'
+source: cs.SE - Software Engineering
+status: unread
+title: 'LadderTeam: Dual-Agent Laddering Elicitation Framework'
 ---
 # LadderTeam: Dual-Agent Laddering Elicitation Framework
 > 原文: [https://arxiv.org/abs/2608.17029](https://arxiv.org/abs/2608.17029)

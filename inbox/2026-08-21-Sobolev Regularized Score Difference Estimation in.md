@@ -1,11 +1,12 @@
 ---
-title: "Sobolev Regularized Score Difference Estimation in Diffusion Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.18237
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18237
 next_step: skim
+priority: medium
+slack_ts: '1787362746.526159'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Sobolev Regularized Score Difference Estimation in Diffusion Models
 ---
 # Sobolev Regularized Score Difference Estimation in Diffusion Models
 > 原文: [https://arxiv.org/abs/2608.18237](https://arxiv.org/abs/2608.18237)

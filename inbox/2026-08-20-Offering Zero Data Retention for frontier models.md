@@ -1,11 +1,12 @@
 ---
-title: "Offering Zero Data Retention for frontier models"
-source: "OpenAI Blog"
-link: https://openai.com/index/offering-zero-data-retention-for-frontier-models
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/offering-zero-data-retention-for-frontier-models
 next_step: skim
+priority: high
+slack_ts: '1787362731.720579'
+source: OpenAI Blog
+status: unread
+title: Offering Zero Data Retention for frontier models
 ---
 # Offering Zero Data Retention for frontier models
 > 原文: [https://openai.com/index/offering-zero-data-retention-for-frontier-models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)

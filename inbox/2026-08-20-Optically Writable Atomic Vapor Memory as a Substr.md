@@ -1,11 +1,13 @@
 ---
-title: "Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.17807
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17807
 next_step: skim
+priority: low
+slack_ts: '1787362731.924939'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir
+  Computing
 ---
 # Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing
 > 原文: [https://arxiv.org/abs/2608.17807](https://arxiv.org/abs/2608.17807)

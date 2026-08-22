@@ -1,11 +1,12 @@
 ---
-title: "What Cognitive Accessibility Reveals About Data Visualization"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.17039
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.17039
 next_step: skim
+priority: low
+slack_ts: '1787362735.300139'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: What Cognitive Accessibility Reveals About Data Visualization
 ---
 # What Cognitive Accessibility Reveals About Data Visualization
 > 原文: [https://arxiv.org/abs/2608.17039](https://arxiv.org/abs/2608.17039)

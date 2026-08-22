@@ -1,7 +1,10 @@
 ---
-title: "Flexible Authentication: Reimagining authentication for millions of users at Airbnb"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss
+slack_ts: '1787362727.686839'
+source: Airbnb Engineering
+title: 'Flexible Authentication: Reimagining authentication for millions of users
+  at Airbnb'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

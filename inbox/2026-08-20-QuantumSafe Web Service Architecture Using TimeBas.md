@@ -1,11 +1,12 @@
 ---
-title: "Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.16961
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16961
 next_step: skim
+priority: low
+slack_ts: '1787362733.491289'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords
 ---
 # Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords
 > 原文: [https://arxiv.org/abs/2608.16961](https://arxiv.org/abs/2608.16961)

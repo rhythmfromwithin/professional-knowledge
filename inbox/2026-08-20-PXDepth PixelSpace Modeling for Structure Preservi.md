@@ -1,11 +1,12 @@
 ---
-title: "PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.16984
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.16984
 next_step: skim
+priority: medium
+slack_ts: '1787362732.423799'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation'
 ---
 # PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation
 > 原文: [https://arxiv.org/abs/2608.16984](https://arxiv.org/abs/2608.16984)
