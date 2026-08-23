@@ -1,11 +1,13 @@
 ---
-title: "Entity tracking emerges in sub-billion parameter language models and exceeds human performance in naturalistic narratives"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.18083
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18083
 next_step: skim
+priority: high
+slack_ts: '1787449706.772979'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Entity tracking emerges in sub-billion parameter language models and exceeds
+  human performance in naturalistic narratives
 ---
 # Entity tracking emerges in sub-billion parameter language models and exceeds human performance in naturalistic narratives
 > 原文: [https://arxiv.org/abs/2608.18083](https://arxiv.org/abs/2608.18083)

@@ -1,11 +1,12 @@
 ---
-title: "Inference and Uncertainty Quantification for Streaming $r$-PCA"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.18374
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18374
 next_step: skim
+priority: medium
+slack_ts: '1787449710.979279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Inference and Uncertainty Quantification for Streaming $r$-PCA
 ---
 # Inference and Uncertainty Quantification for Streaming $r$-PCA
 > 原文: [https://arxiv.org/abs/2608.18374](https://arxiv.org/abs/2608.18374)

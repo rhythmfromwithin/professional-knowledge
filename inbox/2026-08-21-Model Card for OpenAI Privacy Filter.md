@@ -1,11 +1,12 @@
 ---
-title: "Model Card for OpenAI Privacy Filter"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.18274
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18274
 next_step: skim
+priority: low
+slack_ts: '1787449713.615909'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Model Card for OpenAI Privacy Filter
 ---
 # Model Card for OpenAI Privacy Filter
 > 原文: [https://arxiv.org/abs/2608.18274](https://arxiv.org/abs/2608.18274)

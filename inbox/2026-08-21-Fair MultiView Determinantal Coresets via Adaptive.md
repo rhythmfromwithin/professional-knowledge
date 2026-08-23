@@ -1,11 +1,12 @@
 ---
-title: "Fair Multi-View Determinantal Coresets via Adaptive NEPv"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.18181
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18181
 next_step: skim
+priority: medium
+slack_ts: '1787449707.658139'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Fair Multi-View Determinantal Coresets via Adaptive NEPv
 ---
 # Fair Multi-View Determinantal Coresets via Adaptive NEPv
 > 原文: [https://arxiv.org/abs/2608.18181](https://arxiv.org/abs/2608.18181)

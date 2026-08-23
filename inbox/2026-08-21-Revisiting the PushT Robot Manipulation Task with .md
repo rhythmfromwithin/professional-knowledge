@@ -1,11 +1,5 @@
 ---
-title: "Revisiting the "Push-T" Robot Manipulation Task with Agentic Robotics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.18227
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1787449716.869489'
 ---
 # Revisiting the "Push-T" Robot Manipulation Task with Agentic Robotics
 > 原文: [https://arxiv.org/abs/2608.18227](https://arxiv.org/abs/2608.18227)

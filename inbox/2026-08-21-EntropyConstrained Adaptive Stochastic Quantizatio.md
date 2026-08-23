@@ -1,11 +1,12 @@
 ---
-title: "Entropy-Constrained Adaptive Stochastic Quantization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.18147
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18147
 next_step: skim
+priority: high
+slack_ts: '1787449707.069179'
+source: cs.LG - Machine Learning
+status: unread
+title: Entropy-Constrained Adaptive Stochastic Quantization
 ---
 # Entropy-Constrained Adaptive Stochastic Quantization
 > 原文: [https://arxiv.org/abs/2608.18147](https://arxiv.org/abs/2608.18147)

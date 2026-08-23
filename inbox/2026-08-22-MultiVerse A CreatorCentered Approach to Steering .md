@@ -1,11 +1,12 @@
 ---
-title: "MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.19350
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19350
 next_step: skim
+priority: low
+slack_ts: '1787449734.006299'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics'
 ---
 # MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics
 > 原文: [https://arxiv.org/abs/2608.19350](https://arxiv.org/abs/2608.19350)

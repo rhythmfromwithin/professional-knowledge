@@ -1,11 +1,12 @@
 ---
-title: "XNET: Intelligent Dynamic Sampling for High-Speed Network Security Monitoring"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.18349
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18349
 next_step: skim
+priority: low
+slack_ts: '1787449721.276969'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'XNET: Intelligent Dynamic Sampling for High-Speed Network Security Monitoring'
 ---
 # XNET: Intelligent Dynamic Sampling for High-Speed Network Security Monitoring
 > 原文: [https://arxiv.org/abs/2608.18349](https://arxiv.org/abs/2608.18349)

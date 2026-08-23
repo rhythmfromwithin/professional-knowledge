@@ -1,11 +1,13 @@
 ---
-title: "LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.18082
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18082
 next_step: skim
+priority: high
+slack_ts: '1787449713.090509'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context
+  Novel Summarization'
 ---
 # LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization
 > 原文: [https://arxiv.org/abs/2608.18082](https://arxiv.org/abs/2608.18082)

@@ -1,11 +1,12 @@
 ---
-title: "Automatic bioinformatic software named entity recognition from literature"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.19201
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19201
 next_step: skim
+priority: high
+slack_ts: '1787449725.076429'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Automatic bioinformatic software named entity recognition from literature
 ---
 # Automatic bioinformatic software named entity recognition from literature
 > 原文: [https://arxiv.org/abs/2608.19201](https://arxiv.org/abs/2608.19201)

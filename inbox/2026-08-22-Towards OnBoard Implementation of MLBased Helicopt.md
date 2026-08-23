@@ -1,11 +1,12 @@
 ---
-title: "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.19210
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19210
 next_step: skim
+priority: high
+slack_ts: '1787449738.933119'
+source: cs.LG - Machine Learning
+status: unread
+title: Towards On-Board Implementation of ML-Based Helicopter Weight Estimator
 ---
 # Towards On-Board Implementation of ML-Based Helicopter Weight Estimator
 > 原文: [https://arxiv.org/abs/2608.19210](https://arxiv.org/abs/2608.19210)

@@ -1,11 +1,13 @@
 ---
-title: "Active Spiking Perception: The Membrane Potential as a Belief State for Anytime 3D Point Cloud Recognition"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.19232
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19232
 next_step: skim
+priority: low
+slack_ts: '1787449723.136569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Active Spiking Perception: The Membrane Potential as a Belief State for Anytime
+  3D Point Cloud Recognition'
 ---
 # Active Spiking Perception: The Membrane Potential as a Belief State for Anytime 3D Point Cloud Recognition
 > 原文: [https://arxiv.org/abs/2608.19232](https://arxiv.org/abs/2608.19232)

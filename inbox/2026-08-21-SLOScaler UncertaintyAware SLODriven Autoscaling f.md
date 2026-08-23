@@ -1,11 +1,12 @@
 ---
-title: "SLO-Scaler: Uncertainty-Aware SLO-Driven Autoscaling for Microservices"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.18390
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18390
 next_step: skim
+priority: medium
+slack_ts: '1787449717.477519'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SLO-Scaler: Uncertainty-Aware SLO-Driven Autoscaling for Microservices'
 ---
 # SLO-Scaler: Uncertainty-Aware SLO-Driven Autoscaling for Microservices
 > 原文: [https://arxiv.org/abs/2608.18390](https://arxiv.org/abs/2608.18390)

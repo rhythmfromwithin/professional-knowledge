@@ -1,11 +1,12 @@
 ---
-title: "Scientific Visualization as a Collaborative Data Infrastructure"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.19413
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19413
 next_step: skim
+priority: low
+slack_ts: '1787449736.854439'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Scientific Visualization as a Collaborative Data Infrastructure
 ---
 # Scientific Visualization as a Collaborative Data Infrastructure
 > 原文: [https://arxiv.org/abs/2608.19413](https://arxiv.org/abs/2608.19413)

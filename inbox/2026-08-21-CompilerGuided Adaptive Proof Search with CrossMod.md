@@ -1,11 +1,13 @@
 ---
-title: "Compiler-Guided Adaptive Proof Search with Cross-Model Synergy on Context-Dependent Theorem Proving"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.18084
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18084
 next_step: skim
+priority: high
+slack_ts: '1787449705.888289'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Compiler-Guided Adaptive Proof Search with Cross-Model Synergy on Context-Dependent
+  Theorem Proving
 ---
 # Compiler-Guided Adaptive Proof Search with Cross-Model Synergy on Context-Dependent Theorem Proving
 > 原文: [https://arxiv.org/abs/2608.18084](https://arxiv.org/abs/2608.18084)

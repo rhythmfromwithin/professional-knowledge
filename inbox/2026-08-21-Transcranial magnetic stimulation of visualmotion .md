@@ -1,11 +1,13 @@
 ---
-title: "Transcranial magnetic stimulation of visual-motion area V5/MT modulates sensory thalamus responses during visual speech recognition"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.19034
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19034
 next_step: skim
+priority: low
+slack_ts: '1787449719.099609'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Transcranial magnetic stimulation of visual-motion area V5/MT modulates sensory
+  thalamus responses during visual speech recognition
 ---
 # Transcranial magnetic stimulation of visual-motion area V5/MT modulates sensory thalamus responses during visual speech recognition
 > 原文: [https://arxiv.org/abs/2608.19034](https://arxiv.org/abs/2608.19034)

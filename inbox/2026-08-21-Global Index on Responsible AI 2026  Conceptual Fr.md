@@ -1,11 +1,12 @@
 ---
-title: "Global Index on Responsible AI 2026 : Conceptual Framework and Methodology"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.18122
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18122
 next_step: skim
+priority: medium
+slack_ts: '1787449709.213629'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Global Index on Responsible AI 2026 : Conceptual Framework and Methodology'
 ---
 # Global Index on Responsible AI 2026 : Conceptual Framework and Methodology
 > 原文: [https://arxiv.org/abs/2608.18122](https://arxiv.org/abs/2608.18122)

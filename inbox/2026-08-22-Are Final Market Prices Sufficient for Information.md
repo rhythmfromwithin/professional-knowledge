@@ -1,11 +1,13 @@
 ---
-title: "Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2509.14645
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2509.14645
 next_step: skim
+priority: low
+slack_ts: '1787449723.951959'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Are Final Market Prices Sufficient for Information Aggregation? Evidence from
+  Last-Minute Dynamics in Parimutuel Betting
 ---
 # Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting
 > 原文: [https://arxiv.org/abs/2509.14645](https://arxiv.org/abs/2509.14645)

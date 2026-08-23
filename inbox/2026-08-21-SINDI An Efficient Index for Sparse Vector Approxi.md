@@ -1,11 +1,13 @@
 ---
-title: "SINDI: An Efficient Index for Sparse Vector Approximate Maximum Inner Product Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2509.08395
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2509.08395
 next_step: skim
+priority: low
+slack_ts: '1787449717.171389'
+source: cs.DB - Databases
+status: unread
+title: 'SINDI: An Efficient Index for Sparse Vector Approximate Maximum Inner Product
+  Search'
 ---
 # SINDI: An Efficient Index for Sparse Vector Approximate Maximum Inner Product Search
 > 原文: [https://arxiv.org/abs/2509.08395](https://arxiv.org/abs/2509.08395)

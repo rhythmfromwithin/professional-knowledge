@@ -1,11 +1,13 @@
 ---
-title: "Shifting Social Dispositions, Stable Prosocial Traits: A Global Age-Period-Cohort Analysis of Human Personality"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.18119
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18119
 next_step: skim
+priority: low
+slack_ts: '1787449718.304919'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Shifting Social Dispositions, Stable Prosocial Traits: A Global Age-Period-Cohort
+  Analysis of Human Personality'
 ---
 # Shifting Social Dispositions, Stable Prosocial Traits: A Global Age-Period-Cohort Analysis of Human Personality
 > 原文: [https://arxiv.org/abs/2608.18119](https://arxiv.org/abs/2608.18119)

@@ -1,11 +1,12 @@
 ---
-title: "Multimodal Rapport Estimation in Real-World HRI"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.18401
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18401
 next_step: skim
+priority: low
+slack_ts: '1787449714.161389'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Multimodal Rapport Estimation in Real-World HRI
 ---
 # Multimodal Rapport Estimation in Real-World HRI
 > 原文: [https://arxiv.org/abs/2608.18401](https://arxiv.org/abs/2608.18401)

@@ -1,11 +1,13 @@
 ---
-title: "Scheduling and Routing with Degradation-Triggered Job Arrivals: An Application to Forest Firefighting with an Unmanned Aerial Vehicle Fleet"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.18140
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18140
 next_step: skim
+priority: medium
+slack_ts: '1787449717.765059'
+source: cs.RO - Robotics
+status: unread
+title: 'Scheduling and Routing with Degradation-Triggered Job Arrivals: An Application
+  to Forest Firefighting with an Unmanned Aerial Vehicle Fleet'
 ---
 # Scheduling and Routing with Degradation-Triggered Job Arrivals: An Application to Forest Firefighting with an Unmanned Aerial Vehicle Fleet
 > 原文: [https://arxiv.org/abs/2608.18140](https://arxiv.org/abs/2608.18140)

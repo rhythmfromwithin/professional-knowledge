@@ -1,11 +1,12 @@
 ---
-title: "The Evaluation Context Protocol (ECP): A Portable Contract for AI Agent Evaluation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.19263
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19263
 next_step: skim
+priority: low
+slack_ts: '1787449737.923079'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Evaluation Context Protocol (ECP): A Portable Contract for AI Agent Evaluation'
 ---
 # The Evaluation Context Protocol (ECP): A Portable Contract for AI Agent Evaluation
 > 原文: [https://arxiv.org/abs/2608.19263](https://arxiv.org/abs/2608.19263)

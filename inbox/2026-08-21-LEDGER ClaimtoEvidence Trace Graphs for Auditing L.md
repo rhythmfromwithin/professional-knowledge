@@ -1,11 +1,12 @@
 ---
-title: "LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.18398
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18398
 next_step: skim
+priority: low
+slack_ts: '1787449712.491959'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents'
 ---
 # LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents
 > 原文: [https://arxiv.org/abs/2608.18398](https://arxiv.org/abs/2608.18398)

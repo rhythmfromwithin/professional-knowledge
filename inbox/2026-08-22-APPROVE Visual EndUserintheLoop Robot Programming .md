@@ -1,11 +1,12 @@
 ---
-title: "APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.19281
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19281
 next_step: skim
+priority: medium
+slack_ts: '1787449722.665809'
+source: cs.RO - Robotics
+status: unread
+title: 'APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs'
 ---
 # APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs
 > 原文: [https://arxiv.org/abs/2608.19281](https://arxiv.org/abs/2608.19281)

@@ -1,11 +1,13 @@
 ---
-title: "Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.18465
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18465
 next_step: skim
+priority: low
+slack_ts: '1787449716.645369'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance
+  Manual'
 ---
 # Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual
 > 原文: [https://arxiv.org/abs/2608.18465](https://arxiv.org/abs/2608.18465)

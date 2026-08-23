@@ -1,11 +1,13 @@
 ---
-title: "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.18117
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18117
 next_step: skim
+priority: low
+slack_ts: '1787449715.290939'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Position: AI Leaderboards Are Underserving the Global South: A Case Study
+  from India'
 ---
 # Position: AI Leaderboards Are Underserving the Global South: A Case Study from India
 > 原文: [https://arxiv.org/abs/2608.18117](https://arxiv.org/abs/2608.18117)

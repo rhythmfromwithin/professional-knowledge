@@ -1,11 +1,12 @@
 ---
-title: "Aray: Deterministic-First Synthesis of Benign Artifacts for YARA Validation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.19387
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19387
 next_step: skim
+priority: low
+slack_ts: '1787449723.658659'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Aray: Deterministic-First Synthesis of Benign Artifacts for YARA Validation'
 ---
 # Aray: Deterministic-First Synthesis of Benign Artifacts for YARA Validation
 > 原文: [https://arxiv.org/abs/2608.19387](https://arxiv.org/abs/2608.19387)

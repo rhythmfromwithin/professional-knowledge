@@ -1,11 +1,12 @@
 ---
-title: "Human-Centric Intelligence in the Era of Foundation Models: A Survey"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.18184
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18184
 next_step: skim
+priority: medium
+slack_ts: '1787449710.452669'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Human-Centric Intelligence in the Era of Foundation Models: A Survey'
 ---
 # Human-Centric Intelligence in the Era of Foundation Models: A Survey
 > 原文: [https://arxiv.org/abs/2608.18184](https://arxiv.org/abs/2608.18184)

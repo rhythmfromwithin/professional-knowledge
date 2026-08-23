@@ -1,11 +1,13 @@
 ---
-title: "Self-prompting and cross-model consensus enable reproducible data extraction from scientific literature with large language models"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.19025
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19025
 next_step: skim
+priority: low
+slack_ts: '1787449718.005939'
+source: cs.DB - Databases
+status: unread
+title: Self-prompting and cross-model consensus enable reproducible data extraction
+  from scientific literature with large language models
 ---
 # Self-prompting and cross-model consensus enable reproducible data extraction from scientific literature with large language models
 > 原文: [https://arxiv.org/abs/2608.19025](https://arxiv.org/abs/2608.19025)

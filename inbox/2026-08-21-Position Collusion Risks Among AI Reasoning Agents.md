@@ -1,11 +1,13 @@
 ---
-title: "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.18078
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18078
 next_step: skim
+priority: high
+slack_ts: '1787449715.520119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Position: Collusion Risks Among AI Reasoning Agents Justify Certification
+  Requirements for Making Market Decisions'
 ---
 # Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions
 > 原文: [https://arxiv.org/abs/2608.18078](https://arxiv.org/abs/2608.18078)

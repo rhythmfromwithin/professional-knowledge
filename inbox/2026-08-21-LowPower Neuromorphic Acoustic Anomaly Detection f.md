@@ -1,11 +1,13 @@
 ---
-title: "Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.18341
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18341
 next_step: skim
+priority: low
+slack_ts: '1787449713.388199'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine
+  Monitoring
 ---
 # Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring
 > 原文: [https://arxiv.org/abs/2608.18341](https://arxiv.org/abs/2608.18341)

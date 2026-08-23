@@ -1,11 +1,13 @@
 ---
-title: "When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.19557
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19557
 next_step: skim
+priority: medium
+slack_ts: '1787449739.822179'
+source: cs.DC - Distributed Computing
+status: unread
+title: When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at
+  the Autonomous-Vehicle Edge
 ---
 # When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge
 > 原文: [https://arxiv.org/abs/2608.19557](https://arxiv.org/abs/2608.19557)

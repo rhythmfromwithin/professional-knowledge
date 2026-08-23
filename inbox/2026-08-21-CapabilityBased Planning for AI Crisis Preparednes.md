@@ -1,11 +1,12 @@
 ---
-title: "Capability-Based Planning for AI Crisis Preparedness"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.18357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18357
 next_step: skim
+priority: medium
+slack_ts: '1787449705.420779'
+source: cs.CY - Computers and Society
+status: unread
+title: Capability-Based Planning for AI Crisis Preparedness
 ---
 # Capability-Based Planning for AI Crisis Preparedness
 > 原文: [https://arxiv.org/abs/2608.18357](https://arxiv.org/abs/2608.18357)

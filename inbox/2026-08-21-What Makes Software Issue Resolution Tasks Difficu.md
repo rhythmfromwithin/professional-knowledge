@@ -1,11 +1,12 @@
 ---
-title: "What Makes Software Issue Resolution Tasks Difficult for Agents?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.18280
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18280
 next_step: skim
+priority: low
+slack_ts: '1787449720.882119'
+source: cs.SE - Software Engineering
+status: unread
+title: What Makes Software Issue Resolution Tasks Difficult for Agents?
 ---
 # What Makes Software Issue Resolution Tasks Difficult for Agents?
 > 原文: [https://arxiv.org/abs/2608.18280](https://arxiv.org/abs/2608.18280)

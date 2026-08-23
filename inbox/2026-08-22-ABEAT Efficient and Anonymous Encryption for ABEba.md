@@ -1,11 +1,12 @@
 ---
-title: "ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.19302
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19302
 next_step: skim
+priority: low
+slack_ts: '1787449722.415479'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication'
 ---
 # ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication
 > 原文: [https://arxiv.org/abs/2608.19302](https://arxiv.org/abs/2608.19302)

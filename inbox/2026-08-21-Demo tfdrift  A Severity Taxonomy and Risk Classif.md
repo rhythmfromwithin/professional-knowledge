@@ -1,11 +1,13 @@
 ---
-title: "Demo: tfdrift - A Severity Taxonomy and Risk Classification Framework for Infrastructure Drift Detection"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.18173
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18173
 next_step: skim
+priority: low
+slack_ts: '1787449706.475839'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Demo: tfdrift - A Severity Taxonomy and Risk Classification Framework for
+  Infrastructure Drift Detection'
 ---
 # Demo: tfdrift - A Severity Taxonomy and Risk Classification Framework for Infrastructure Drift Detection
 > 原文: [https://arxiv.org/abs/2608.18173](https://arxiv.org/abs/2608.18173)

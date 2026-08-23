@@ -1,11 +1,13 @@
 ---
-title: "Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.19375
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19375
 next_step: skim
+priority: medium
+slack_ts: '1787449733.044529'
+source: cs.RO - Robotics
+status: unread
+title: 'Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot
+  Control'
 ---
 # Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control
 > 原文: [https://arxiv.org/abs/2608.19375](https://arxiv.org/abs/2608.19375)

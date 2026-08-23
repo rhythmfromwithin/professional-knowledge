@@ -1,11 +1,13 @@
 ---
-title: "Towards Reversible Forgetting: Managing Obsolete Knowledge in Continual Enterprise AI Agents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.18177
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18177
 next_step: skim
+priority: high
+slack_ts: '1787449718.863189'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Towards Reversible Forgetting: Managing Obsolete Knowledge in Continual Enterprise
+  AI Agents'
 ---
 # Towards Reversible Forgetting: Managing Obsolete Knowledge in Continual Enterprise AI Agents
 > 原文: [https://arxiv.org/abs/2608.18177](https://arxiv.org/abs/2608.18177)
