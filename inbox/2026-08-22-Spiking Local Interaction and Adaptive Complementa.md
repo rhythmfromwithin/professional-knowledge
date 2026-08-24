@@ -1,11 +1,12 @@
 ---
-title: "Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.19238
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19238
 next_step: skim
+priority: low
+slack_ts: '1787535990.512229'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer
 ---
 # Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer
 > 原文: [https://arxiv.org/abs/2608.19238](https://arxiv.org/abs/2608.19238)

@@ -1,11 +1,13 @@
 ---
-title: "Multi-Tier Mentorship with AI-Assisted Development: Authentic Engineering for K-12 and Undergraduates"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.19379
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19379
 next_step: skim
+priority: medium
+slack_ts: '1787535988.662359'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Multi-Tier Mentorship with AI-Assisted Development: Authentic Engineering
+  for K-12 and Undergraduates'
 ---
 # Multi-Tier Mentorship with AI-Assisted Development: Authentic Engineering for K-12 and Undergraduates
 > 原文: [https://arxiv.org/abs/2608.19379](https://arxiv.org/abs/2608.19379)

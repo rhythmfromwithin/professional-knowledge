@@ -1,11 +1,12 @@
 ---
-title: "Optimality and Trade-offs in Fast BFT SMR (Extended Version)"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.19629
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19629
 next_step: skim
+priority: medium
+slack_ts: '1787535989.038649'
+source: cs.DC - Distributed Computing
+status: unread
+title: Optimality and Trade-offs in Fast BFT SMR (Extended Version)
 ---
 # Optimality and Trade-offs in Fast BFT SMR (Extended Version)
 > 原文: [https://arxiv.org/abs/2608.19629](https://arxiv.org/abs/2608.19629)

@@ -1,11 +1,14 @@
 ---
-title: "Incident-Data Robustness Analysis of the OWASP Top 10 for LLM Applications (2026): How a Community-Expert Ranking Holds Up Against a Large-Scale LLM Incident Corpus"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.19266
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19266
 next_step: skim
+priority: low
+slack_ts: '1787535987.349339'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Incident-Data Robustness Analysis of the OWASP Top 10 for LLM Applications
+  (2026): How a Community-Expert Ranking Holds Up Against a Large-Scale LLM Incident
+  Corpus'
 ---
 # Incident-Data Robustness Analysis of the OWASP Top 10 for LLM Applications (2026): How a Community-Expert Ranking Holds Up Against a Large-Scale LLM Incident Corpus
 > 原文: [https://arxiv.org/abs/2608.19266](https://arxiv.org/abs/2608.19266)

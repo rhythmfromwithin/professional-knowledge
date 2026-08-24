@@ -1,11 +1,12 @@
 ---
-title: "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/
 next_step: skim
+priority: high
+slack_ts: '1787535997.386949'
+source: AWS Blog
+status: unread
+title: Govern AI agent tool access with Amazon Bedrock AgentCore Gateway
 ---
 # Govern AI agent tool access with Amazon Bedrock AgentCore Gateway
 > 原文: [https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/)

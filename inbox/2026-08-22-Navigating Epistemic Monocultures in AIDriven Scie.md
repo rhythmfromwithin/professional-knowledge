@@ -1,11 +1,12 @@
 ---
-title: "Navigating Epistemic Monocultures in AI-Driven Science: A Simulation Study"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.19390
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19390
 next_step: skim
+priority: medium
+slack_ts: '1787535988.852229'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Navigating Epistemic Monocultures in AI-Driven Science: A Simulation Study'
 ---
 # Navigating Epistemic Monocultures in AI-Driven Science: A Simulation Study
 > 原文: [https://arxiv.org/abs/2608.19390](https://arxiv.org/abs/2608.19390)

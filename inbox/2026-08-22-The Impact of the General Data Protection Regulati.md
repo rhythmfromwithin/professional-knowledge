@@ -1,11 +1,13 @@
 ---
-title: "The Impact of the General Data Protection Regulation (GDPR) on Online Usage Behavior"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2411.11589
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2411.11589
 next_step: skim
+priority: low
+slack_ts: '1787535991.049289'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Impact of the General Data Protection Regulation (GDPR) on Online Usage
+  Behavior
 ---
 # The Impact of the General Data Protection Regulation (GDPR) on Online Usage Behavior
 > 原文: [https://arxiv.org/abs/2411.11589](https://arxiv.org/abs/2411.11589)

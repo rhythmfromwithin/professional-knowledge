@@ -1,11 +1,13 @@
 ---
-title: "BASC : Behavior-Aligned Quantization and Pruning for Low-Bit Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.19239
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19239
 next_step: skim
+priority: low
+slack_ts: '1787535983.718289'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'BASC : Behavior-Aligned Quantization and Pruning for Low-Bit Spiking Neural
+  Networks'
 ---
 # BASC : Behavior-Aligned Quantization and Pruning for Low-Bit Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2608.19239](https://arxiv.org/abs/2608.19239)

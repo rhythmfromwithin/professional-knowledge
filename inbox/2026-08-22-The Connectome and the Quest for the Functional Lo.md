@@ -1,11 +1,13 @@
 ---
-title: "The Connectome and the Quest for the Functional Logic of the Drosophila Early Olfactory System"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.19290
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19290
 next_step: skim
+priority: low
+slack_ts: '1787535990.853909'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Connectome and the Quest for the Functional Logic of the Drosophila Early
+  Olfactory System
 ---
 # The Connectome and the Quest for the Functional Logic of the Drosophila Early Olfactory System
 > 原文: [https://arxiv.org/abs/2608.19290](https://arxiv.org/abs/2608.19290)

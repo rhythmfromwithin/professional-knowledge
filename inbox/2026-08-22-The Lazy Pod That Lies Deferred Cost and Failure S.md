@@ -1,11 +1,13 @@
 ---
-title: "The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.19412
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19412
 next_step: skim
+priority: medium
+slack_ts: '1787535991.238769'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container
+  Image Pulling for Model Serving on Kubernetes'
 ---
 # The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes
 > 原文: [https://arxiv.org/abs/2608.19412](https://arxiv.org/abs/2608.19412)

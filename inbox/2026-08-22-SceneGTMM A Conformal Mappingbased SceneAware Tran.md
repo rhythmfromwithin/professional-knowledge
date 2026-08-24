@@ -1,11 +1,13 @@
 ---
-title: "SceneGTMM: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer Dual-Graph Interaction Framework for Map Matching"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.19298
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19298
 next_step: skim
+priority: medium
+slack_ts: '1787535990.338169'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SceneGTMM: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer
+  Dual-Graph Interaction Framework for Map Matching'
 ---
 # SceneGTMM: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer Dual-Graph Interaction Framework for Map Matching
 > 原文: [https://arxiv.org/abs/2608.19298](https://arxiv.org/abs/2608.19298)

@@ -1,11 +1,13 @@
 ---
-title: "The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.19372
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19372
 next_step: skim
+priority: medium
+slack_ts: '1787535991.426159'
+source: cs.RO - Robotics
+status: unread
+title: 'The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation
+  Closer to Human Dexterity'
 ---
 # The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity
 > 原文: [https://arxiv.org/abs/2608.19372](https://arxiv.org/abs/2608.19372)

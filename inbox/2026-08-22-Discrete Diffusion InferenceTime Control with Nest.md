@@ -1,11 +1,12 @@
 ---
-title: "Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.20123
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20123
 next_step: skim
+priority: medium
+slack_ts: '1787535985.088279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo
 ---
 # Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo
 > 原文: [https://arxiv.org/abs/2608.20123](https://arxiv.org/abs/2608.20123)

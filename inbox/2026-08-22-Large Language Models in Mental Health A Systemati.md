@@ -1,11 +1,13 @@
 ---
-title: "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.18080
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18080
 next_step: skim
+priority: high
+slack_ts: '1787535988.090389'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Large Language Models in Mental Health: A Systematic Review of Applications,
+  Innovations, and Ethical Challenges'
 ---
 # Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges
 > 原文: [https://arxiv.org/abs/2608.18080](https://arxiv.org/abs/2608.18080)

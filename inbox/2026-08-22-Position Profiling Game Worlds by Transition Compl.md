@@ -1,11 +1,12 @@
 ---
-title: "Position: Profiling Game Worlds by Transition Complexity"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.18079
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.18079
 next_step: skim
+priority: high
+slack_ts: '1787535989.780869'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Position: Profiling Game Worlds by Transition Complexity'
 ---
 # Position: Profiling Game Worlds by Transition Complexity
 > 原文: [https://arxiv.org/abs/2608.18079](https://arxiv.org/abs/2608.18079)

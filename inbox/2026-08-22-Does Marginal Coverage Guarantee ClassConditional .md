@@ -1,11 +1,13 @@
 ---
-title: "Does Marginal Coverage Guarantee Class-Conditional Safety for Zero-Shot VLMs Under Shift?"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.19376
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19376
 next_step: skim
+priority: medium
+slack_ts: '1787535985.261169'
+source: cs.CV - Computer Vision
+status: unread
+title: Does Marginal Coverage Guarantee Class-Conditional Safety for Zero-Shot VLMs
+  Under Shift?
 ---
 # Does Marginal Coverage Guarantee Class-Conditional Safety for Zero-Shot VLMs Under Shift?
 > 原文: [https://arxiv.org/abs/2608.19376](https://arxiv.org/abs/2608.19376)

@@ -1,11 +1,13 @@
 ---
-title: "Cyber-Physical Systems for Accessibility and Ability Augmentation: Bridging Diverse Communities"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.19422
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19422
 next_step: skim
+priority: low
+slack_ts: '1787535984.721389'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Cyber-Physical Systems for Accessibility and Ability Augmentation: Bridging
+  Diverse Communities'
 ---
 # Cyber-Physical Systems for Accessibility and Ability Augmentation: Bridging Diverse Communities
 > 原文: [https://arxiv.org/abs/2608.19422](https://arxiv.org/abs/2608.19422)

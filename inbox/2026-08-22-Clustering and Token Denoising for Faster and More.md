@@ -1,11 +1,12 @@
 ---
-title: "Clustering and Token Denoising for Faster and More Robust VLMs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.19285
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19285
 next_step: skim
+priority: medium
+slack_ts: '1787535984.532609'
+source: cs.CV - Computer Vision
+status: unread
+title: Clustering and Token Denoising for Faster and More Robust VLMs
 ---
 # Clustering and Token Denoising for Faster and More Robust VLMs
 > 原文: [https://arxiv.org/abs/2608.19285](https://arxiv.org/abs/2608.19285)

@@ -1,11 +1,13 @@
 ---
-title: "Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.19347
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.19347
 next_step: skim
+priority: low
+slack_ts: '1787535986.916989'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Hype Meets Reality: Large Language Models as Mutators in Search-based Automated
+  Program Repair of Simulink-Stateflow Models'
 ---
 # Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models
 > 原文: [https://arxiv.org/abs/2608.19347](https://arxiv.org/abs/2608.19347)

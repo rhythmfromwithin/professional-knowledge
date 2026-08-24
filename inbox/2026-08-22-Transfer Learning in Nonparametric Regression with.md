@@ -1,11 +1,12 @@
 ---
-title: "Transfer Learning in Nonparametric Regression with Deep ReLU Networks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.20255
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20255
 next_step: skim
+priority: medium
+slack_ts: '1787535991.596929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Transfer Learning in Nonparametric Regression with Deep ReLU Networks
 ---
 # Transfer Learning in Nonparametric Regression with Deep ReLU Networks
 > 原文: [https://arxiv.org/abs/2608.20255](https://arxiv.org/abs/2608.20255)

@@ -1,11 +1,13 @@
 ---
-title: "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.20280
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20280
 next_step: skim
+priority: low
+slack_ts: '1787535992.129919'
+source: cs.DB - Databases
+status: unread
+title: Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads,
+  Capacities, and Encoders
 ---
 # Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders
 > 原文: [https://arxiv.org/abs/2608.20280](https://arxiv.org/abs/2608.20280)
