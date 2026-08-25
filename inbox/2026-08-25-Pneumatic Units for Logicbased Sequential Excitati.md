@@ -1,0 +1,14 @@
+---
+title: "Pneumatic Units for Logic-based Sequential Excitation (PULSE) in Wearable Haptic Devices"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2608.20626
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Pneumatic Units for Logic-based Sequential Excitation (PULSE) in Wearable Haptic Devices
+> 原文: [https://arxiv.org/abs/2608.20626](https://arxiv.org/abs/2608.20626)
+
+arXiv:2608.20626v1 Announce Type: new
+Abstract: Soft, wearable robotic devices can deliver haptic feedback to support a wide range of tasks, such as extended reality, training various skills, and rehabilitation. Pneumatic actuation can deliver complex haptic feedback, is lightweight and compliant, and can be incorporated into textiles, making it promising for wearable applications. These soft pneumatic devices, however, typically require a valve and input for each pneumatic actuator, making it challenging to develop fully portable devices for at-home use. In this work we present a pneumatic unit for logic-based sequential excitation (PULSE). The PULSE is a flat, textile-based pneumatic actuator with embedded fluidic logic. By combining these actuators into a fluidic ring oscillator, we decreased the typical amount of required pneumatic inputs for a haptic forearm sleeve by 60%, with the ability to scale. We built the ring oscillator by optimizing design variables to reach desired periods of oscillation. We demonstrated a set of tactile stroking cues with periods ranging from 1.16 to 1.56 s and forces ranging from 1.07 to 2.04 N. We assessed the sleeve's ability to render differentiable, pleasant, and continuous haptic cues in a user study. The forearm sleeve containing PULSEs successfully delivered four directional cues and guided users to target wrist angles with fast reaction times, low overshoot amounts, and a 93.3% average accuracy of correct initial directions.

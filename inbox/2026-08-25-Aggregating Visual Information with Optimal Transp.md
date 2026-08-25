@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2608.20473
+next_step: skim
+priority: medium
+slack_ts: '1787622058.642659'
+source: cs.CV - Computer Vision
+status: unread
+title: Aggregating Visual Information with Optimal Transport for VideoLM Token Compression
+---
+# Aggregating Visual Information with Optimal Transport for VideoLM Token Compression
+> 原文: [https://arxiv.org/abs/2608.20473](https://arxiv.org/abs/2608.20473)
+
+arXiv:2608.20473v1 Announce Type: new
+Abstract: Video language models process videos as dense visual-token sequences with substantial representational redundancy. Compressing these sequences is therefore essential for reducing the visual-token burden on language-model decoding. The central challenge is to preserve visual information dispersed across frames under such compression. To this end, we introduce Aggregating Visual Information with Optimal Transport (AVIOT), which casts video token compression as transporting a dense empirical measure of frame observations onto a compact target measure. The resulting source-to-target coupling induces a distribution over source observations for each target support, directly specifying how the compressed video representation is constructed. We further adapt this construction along task and spatial axes. Question conditioning modulates the transport cost between source frames and target supports, while influencing how many supports are allocated to each temporal segment, thereby directing representation capacity toward question-relevant content. At multiple spatial granularities, AVIOT computes region-specific temporal transport plans and adaptively fuses the representations they yield, allowing different regions within the same compact representation to draw from different moments. Evaluations across varying compression ratios show that AVIOT matches or outperforms the uncompressed baseline on multiple video-understanding benchmarks while retaining strong performance at higher compression ratios.

@@ -1,11 +1,12 @@
 ---
-title: "Agentic Data Operations Platform (ADOP): Data engineering into hours"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/
 next_step: skim
+priority: high
+slack_ts: '1787622054.251399'
+source: AWS Blog
+status: unread
+title: 'Agentic Data Operations Platform (ADOP): Data engineering into hours'
 ---
 # Agentic Data Operations Platform (ADOP): Data engineering into hours
 > 原文: [https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)

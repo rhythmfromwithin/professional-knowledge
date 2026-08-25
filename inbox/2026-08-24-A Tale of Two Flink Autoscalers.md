@@ -1,7 +1,9 @@
 ---
-title: "A Tale of Two Flink Autoscalers"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss
+slack_ts: '1787622053.942339'
+source: Netflix Tech Blog
+title: A Tale of Two Flink Autoscalers
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

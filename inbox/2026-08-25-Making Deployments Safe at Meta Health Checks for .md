@@ -1,0 +1,14 @@
+---
+title: "Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2608.20513
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety
+> 原文: [https://arxiv.org/abs/2608.20513](https://arxiv.org/abs/2608.20513)
+
+arXiv:2608.20513v1 Announce Type: new
+Abstract: Continuous deployment to large scale production systems creates a tension between release velocity and reliability. Every change is a potential reliability incident, yet every delay is a missed opportunity. This paper describes the deployment time health check infrastructure that Meta uses to mediate this tension across thousands of heterogeneous services. We summarize the architecture of this prevention based distributed system's service called Service Health Checker, explain how check authors compose templated metric queries, thresholds, and workflow predicates; and discuss how the system is integrated with tiered and phased rollouts so that regressions trigger automatic rollback. We then describe the operational problems that emerged at scale, such as noise, alert fatigue, drift, and uncovered regressions, and the program of measurement, tooling, and improved defaults we deployed to address them. We close with lessons learned from years of operating deployment health checks at Meta, and the directions we are exploring next, including AI assisted health check tuning. Index Terms: deployment safety, continuous deployment, monitoring, software reliability, release engineering, software reliability engineering, AIOps, anomaly detection

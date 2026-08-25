@@ -1,0 +1,14 @@
+---
+title: "Structural Estimation of Marketing Mix Model Parameters from Geo-Experiments"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2608.21128
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Structural Estimation of Marketing Mix Model Parameters from Geo-Experiments
+> 原文: [https://arxiv.org/abs/2608.21128](https://arxiv.org/abs/2608.21128)
+
+arXiv:2608.21128v1 Announce Type: cross
+Abstract: Marketing Mix Models (MMMs) are widely used for marketing measurement and budget allocation, but face fundamental identification challenges: due to endogenous marketing spend decisions, MMM estimation on observational time-series data cannot recover the true causal effects of marketing. On the other hand, geo-experiments provide causal identification through randomization, but it is not clear how to use them efficiently to calibrate marketing mix models. We propose a novel structural estimation approach that recovers the complete set of MMM parameters - adstock decay ($\alpha$), saturation ($\lambda$), and effectiveness ($\beta$) - directly from geo-experimental time-series. By differencing outcomes between treatment and control regions, our method eliminates observed and unobserved confounding factors while preserving the temporal variation that identifies each parameter. We demonstrate on synthetic data that this approach recovers the true ROAS and the response curve over the range of spending covered by the experiments, together with credible estimates of the underlying parameters. Our framework enables efficient pooling across multiple experiments and provides a principled foundation for MMM calibration that fully utilizes the information experiments contain.

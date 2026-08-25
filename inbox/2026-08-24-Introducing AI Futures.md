@@ -1,11 +1,12 @@
 ---
-title: "Introducing AI Futures"
-source: "OpenAI Blog"
-link: https://openai.com/index/introducing-ai-futures
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/introducing-ai-futures
 next_step: skim
+priority: high
+slack_ts: '1787622056.341319'
+source: OpenAI Blog
+status: unread
+title: Introducing AI Futures
 ---
 # Introducing AI Futures
 > 原文: [https://openai.com/index/introducing-ai-futures](https://openai.com/index/introducing-ai-futures)
