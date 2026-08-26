@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking LLM Serving Systems for Agentic AI Workloads with XPerf"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.20370
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20370
 next_step: skim
+priority: medium
+slack_ts: '1787708778.802439'
+source: cs.DC - Distributed Computing
+status: unread
+title: Benchmarking LLM Serving Systems for Agentic AI Workloads with XPerf
 ---
 # Benchmarking LLM Serving Systems for Agentic AI Workloads with XPerf
 > 原文: [https://arxiv.org/abs/2608.20370](https://arxiv.org/abs/2608.20370)

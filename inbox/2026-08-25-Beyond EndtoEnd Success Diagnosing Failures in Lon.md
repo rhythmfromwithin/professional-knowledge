@@ -1,11 +1,13 @@
 ---
-title: "Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.20563
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20563
 next_step: skim
+priority: low
+slack_ts: '1787708779.043299'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM
+  Agents'
 ---
 # Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents
 > 原文: [https://arxiv.org/abs/2608.20563](https://arxiv.org/abs/2608.20563)

@@ -1,11 +1,12 @@
 ---
-title: "RISE: Adaptive Imagination for World Action Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.20430
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20430
 next_step: skim
+priority: medium
+slack_ts: '1787708797.547909'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RISE: Adaptive Imagination for World Action Models'
 ---
 # RISE: Adaptive Imagination for World Action Models
 > 原文: [https://arxiv.org/abs/2608.20430](https://arxiv.org/abs/2608.20430)

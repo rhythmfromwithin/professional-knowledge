@@ -1,11 +1,13 @@
 ---
-title: "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.20423
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20423
 next_step: skim
+priority: high
+slack_ts: '1787708789.457719'
+source: cs.LG - Machine Learning
+status: unread
+title: 'From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement
+  Learning Approach Using Physiological and Environmental Sensing'
 ---
 # From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing
 > 原文: [https://arxiv.org/abs/2608.20423](https://arxiv.org/abs/2608.20423)

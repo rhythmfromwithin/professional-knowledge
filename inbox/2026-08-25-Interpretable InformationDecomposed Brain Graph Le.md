@@ -1,11 +1,13 @@
 ---
-title: "Interpretable Information-Decomposed Brain Graph Learning for fMRI-based Disease Diagnosis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.20380
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20380
 next_step: skim
+priority: low
+slack_ts: '1787708792.041459'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Interpretable Information-Decomposed Brain Graph Learning for fMRI-based Disease
+  Diagnosis
 ---
 # Interpretable Information-Decomposed Brain Graph Learning for fMRI-based Disease Diagnosis
 > 原文: [https://arxiv.org/abs/2608.20380](https://arxiv.org/abs/2608.20380)

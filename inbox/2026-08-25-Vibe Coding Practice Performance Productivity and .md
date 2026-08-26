@@ -1,11 +1,13 @@
 ---
-title: "Vibe Coding: Practice, Performance, Productivity, and Risk -A State-of-the-Art Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.20446
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20446
 next_step: skim
+priority: low
+slack_ts: '1787708800.510239'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Vibe Coding: Practice, Performance, Productivity, and Risk -A State-of-the-Art
+  Review'
 ---
 # Vibe Coding: Practice, Performance, Productivity, and Risk -A State-of-the-Art Review
 > 原文: [https://arxiv.org/abs/2608.20446](https://arxiv.org/abs/2608.20446)

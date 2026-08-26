@@ -1,11 +1,13 @@
 ---
-title: "aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.20554
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20554
 next_step: skim
+priority: low
+slack_ts: '1787708801.071619'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in
+  LLM Safety, Security, and Privacy'
 ---
 # aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy
 > 原文: [https://arxiv.org/abs/2608.20554](https://arxiv.org/abs/2608.20554)

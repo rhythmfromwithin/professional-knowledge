@@ -1,11 +1,12 @@
 ---
-title: "Conscious Access as Continuous-to-Discrete Translation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.20723
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20723
 next_step: skim
+priority: low
+slack_ts: '1787708781.416129'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Conscious Access as Continuous-to-Discrete Translation
 ---
 # Conscious Access as Continuous-to-Discrete Translation
 > 原文: [https://arxiv.org/abs/2608.20723](https://arxiv.org/abs/2608.20723)

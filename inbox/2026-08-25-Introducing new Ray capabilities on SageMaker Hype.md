@@ -1,11 +1,12 @@
 ---
-title: "Introducing new Ray capabilities on SageMaker HyperPod"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/
 next_step: skim
+priority: high
+slack_ts: '1787708793.040889'
+source: AWS Blog
+status: unread
+title: Introducing new Ray capabilities on SageMaker HyperPod
 ---
 # Introducing new Ray capabilities on SageMaker HyperPod
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)

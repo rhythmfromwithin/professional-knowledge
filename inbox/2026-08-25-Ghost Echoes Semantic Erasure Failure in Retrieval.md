@@ -1,11 +1,12 @@
 ---
-title: "Ghost Echoes: Semantic Erasure Failure in Retrieval-Backed Applications"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.20352
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20352
 next_step: skim
+priority: low
+slack_ts: '1787708790.533209'
+source: cs.DB - Databases
+status: unread
+title: 'Ghost Echoes: Semantic Erasure Failure in Retrieval-Backed Applications'
 ---
 # Ghost Echoes: Semantic Erasure Failure in Retrieval-Backed Applications
 > 原文: [https://arxiv.org/abs/2608.20352](https://arxiv.org/abs/2608.20352)

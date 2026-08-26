@@ -1,0 +1,14 @@
+---
+title: "Topology of a Smile: Persistent Homology in Dental Imaging"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2608.21422
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Topology of a Smile: Persistent Homology in Dental Imaging
+> 原文: [https://arxiv.org/abs/2608.21422](https://arxiv.org/abs/2608.21422)
+
+arXiv:2608.21422v1 Announce Type: new
+Abstract: CBCT (Cone Beam Computed Tomography) scans provide detailed three-dimensional images, widely used in dentistry for diagnostic and treatment planning tasks. While invaluable, analyzing and documenting these scans is labor-intensive, prompting efforts to automate key steps like the classification and segmentation of anatomical structures to identify tooth types and associated pathologies. In this article, we propose an approach to automation that leverages persistent homology, a framework from topological data analysis that studies the shape of data by identifying features like connected components, holes, and voids across multiple scales. Persistent homology, together with a support vector machine, allows us to classify teeth in a CBCT scan and to perform diagnostics. Our method advances the state of the art, reaching average accuracy scores of 97.67% for tooth-labeling and 96.77% for diagnostic tasks, outperforming a CNN trained on the same data with accuracy of 70.27% and 86.67%, respectively.

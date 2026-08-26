@@ -1,11 +1,13 @@
 ---
-title: "Building and Evaluating a Synthetic Bengali Speech Resource for Telecom Customer Care"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.20346
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20346
 next_step: skim
+priority: high
+slack_ts: '1787708780.114349'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Building and Evaluating a Synthetic Bengali Speech Resource for Telecom Customer
+  Care
 ---
 # Building and Evaluating a Synthetic Bengali Speech Resource for Telecom Customer Care
 > 原文: [https://arxiv.org/abs/2608.20346](https://arxiv.org/abs/2608.20346)

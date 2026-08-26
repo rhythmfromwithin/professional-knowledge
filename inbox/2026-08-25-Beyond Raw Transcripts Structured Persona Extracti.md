@@ -1,11 +1,13 @@
 ---
-title: "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.20344
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20344
 next_step: skim
+priority: high
+slack_ts: '1787708779.332899'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital
+  Twins'
 ---
 # Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins
 > 原文: [https://arxiv.org/abs/2608.20344](https://arxiv.org/abs/2608.20344)

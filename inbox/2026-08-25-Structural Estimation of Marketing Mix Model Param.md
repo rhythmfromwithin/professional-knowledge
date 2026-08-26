@@ -1,11 +1,12 @@
 ---
-title: "Structural Estimation of Marketing Mix Model Parameters from Geo-Experiments"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.21128
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21128
 next_step: skim
+priority: low
+slack_ts: '1787708799.287189'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Structural Estimation of Marketing Mix Model Parameters from Geo-Experiments
 ---
 # Structural Estimation of Marketing Mix Model Parameters from Geo-Experiments
 > 原文: [https://arxiv.org/abs/2608.21128](https://arxiv.org/abs/2608.21128)

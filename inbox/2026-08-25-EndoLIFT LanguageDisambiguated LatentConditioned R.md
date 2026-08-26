@@ -1,11 +1,13 @@
 ---
-title: "EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional Endoscopic Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.20478
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20478
 next_step: skim
+priority: medium
+slack_ts: '1787708782.938229'
+source: cs.RO - Robotics
+status: unread
+title: 'EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional
+  Endoscopic Control'
 ---
 # EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional Endoscopic Control
 > 原文: [https://arxiv.org/abs/2608.20478](https://arxiv.org/abs/2608.20478)

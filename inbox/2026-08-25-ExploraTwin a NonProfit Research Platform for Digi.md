@@ -1,11 +1,12 @@
 ---
-title: "ExploraTwin, a Non-Profit Research Platform for Digital Twin Simulations"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.20539
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20539
 next_step: skim
+priority: medium
+slack_ts: '1787708788.462089'
+source: cs.CY - Computers and Society
+status: unread
+title: ExploraTwin, a Non-Profit Research Platform for Digital Twin Simulations
 ---
 # ExploraTwin, a Non-Profit Research Platform for Digital Twin Simulations
 > 原文: [https://arxiv.org/abs/2608.20539](https://arxiv.org/abs/2608.20539)

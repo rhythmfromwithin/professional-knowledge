@@ -1,11 +1,12 @@
 ---
-title: "Uncertainty propagation in auto-regressive random neural network models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.20483
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20483
 next_step: skim
+priority: low
+slack_ts: '1787708800.265859'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Uncertainty propagation in auto-regressive random neural network models
 ---
 # Uncertainty propagation in auto-regressive random neural network models
 > 原文: [https://arxiv.org/abs/2608.20483](https://arxiv.org/abs/2608.20483)

@@ -1,11 +1,13 @@
 ---
-title: "From Urban Mobility to Epidemic Dynamics: A Mixture-of-Experts Framework with Preference Alignment for Policy Scenario Simulation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.20512
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20512
 next_step: skim
+priority: medium
+slack_ts: '1787708789.693369'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Urban Mobility to Epidemic Dynamics: A Mixture-of-Experts Framework with
+  Preference Alignment for Policy Scenario Simulation'
 ---
 # From Urban Mobility to Epidemic Dynamics: A Mixture-of-Experts Framework with Preference Alignment for Policy Scenario Simulation
 > 原文: [https://arxiv.org/abs/2608.20512](https://arxiv.org/abs/2608.20512)

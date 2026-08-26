@@ -1,11 +1,13 @@
 ---
-title: "Columnar-Embedder: A Biologically Inspired Cortical Architecture for Binary Sparse Distributed Graph Representations"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.20408
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20408
 next_step: skim
+priority: low
+slack_ts: '1787708780.890399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Columnar-Embedder: A Biologically Inspired Cortical Architecture for Binary
+  Sparse Distributed Graph Representations'
 ---
 # Columnar-Embedder: A Biologically Inspired Cortical Architecture for Binary Sparse Distributed Graph Representations
 > 原文: [https://arxiv.org/abs/2608.20408](https://arxiv.org/abs/2608.20408)

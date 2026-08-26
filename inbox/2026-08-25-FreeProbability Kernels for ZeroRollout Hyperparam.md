@@ -1,11 +1,13 @@
 ---
-title: "Free-Probability Kernels for Zero-Rollout Hyperparameter Selection in Reservoir Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.20998
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20998
 next_step: skim
+priority: low
+slack_ts: '1787708788.956539'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Free-Probability Kernels for Zero-Rollout Hyperparameter Selection in Reservoir
+  Computing
 ---
 # Free-Probability Kernels for Zero-Rollout Hyperparameter Selection in Reservoir Computing
 > 原文: [https://arxiv.org/abs/2608.20998](https://arxiv.org/abs/2608.20998)

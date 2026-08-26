@@ -1,11 +1,12 @@
 ---
-title: "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.20341
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20341
 next_step: skim
+priority: high
+slack_ts: '1787708798.303309'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SDAD: Spec-Driven Agentic Development for the AI-Native SDLC'
 ---
 # SDAD: Spec-Driven Agentic Development for the AI-Native SDLC
 > 原文: [https://arxiv.org/abs/2608.20341](https://arxiv.org/abs/2608.20341)

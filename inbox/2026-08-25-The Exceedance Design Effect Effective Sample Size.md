@@ -1,11 +1,12 @@
 ---
-title: "The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.21262
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21262
 next_step: skim
+priority: medium
+slack_ts: '1787708799.783489'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering'
 ---
 # The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering
 > 原文: [https://arxiv.org/abs/2608.21262](https://arxiv.org/abs/2608.21262)

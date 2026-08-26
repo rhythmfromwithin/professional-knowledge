@@ -1,11 +1,13 @@
 ---
-title: "Pneumatic Units for Logic-based Sequential Excitation (PULSE) in Wearable Haptic Devices"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.20626
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20626
 next_step: skim
+priority: low
+slack_ts: '1787708796.513649'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Pneumatic Units for Logic-based Sequential Excitation (PULSE) in Wearable Haptic
+  Devices
 ---
 # Pneumatic Units for Logic-based Sequential Excitation (PULSE) in Wearable Haptic Devices
 > 原文: [https://arxiv.org/abs/2608.20626](https://arxiv.org/abs/2608.20626)

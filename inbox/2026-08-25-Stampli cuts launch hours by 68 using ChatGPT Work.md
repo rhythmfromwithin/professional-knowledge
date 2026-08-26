@@ -1,11 +1,12 @@
 ---
-title: "Stampli cuts launch hours by 68% using ChatGPT Work"
-source: "OpenAI Blog"
-link: https://openai.com/index/stampli
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/stampli
 next_step: skim
+priority: high
+slack_ts: '1787708799.045529'
+source: OpenAI Blog
+status: unread
+title: Stampli cuts launch hours by 68% using ChatGPT Work
 ---
 # Stampli cuts launch hours by 68% using ChatGPT Work
 > 原文: [https://openai.com/index/stampli](https://openai.com/index/stampli)

@@ -1,11 +1,13 @@
 ---
-title: "Enabling Memory-efficient Im2win Convolution with Multi-precision Support on GPU CUDA and Tensor Cores"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.20725
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20725
 next_step: skim
+priority: medium
+slack_ts: '1787708782.677919'
+source: cs.DC - Distributed Computing
+status: unread
+title: Enabling Memory-efficient Im2win Convolution with Multi-precision Support on
+  GPU CUDA and Tensor Cores
 ---
 # Enabling Memory-efficient Im2win Convolution with Multi-precision Support on GPU CUDA and Tensor Cores
 > 原文: [https://arxiv.org/abs/2608.20725](https://arxiv.org/abs/2608.20725)

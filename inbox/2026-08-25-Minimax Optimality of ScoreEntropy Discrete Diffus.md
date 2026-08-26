@@ -1,11 +1,12 @@
 ---
-title: "Minimax Optimality of Score-Entropy Discrete Diffusion"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.20635
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20635
 next_step: skim
+priority: medium
+slack_ts: '1787708795.046069'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Minimax Optimality of Score-Entropy Discrete Diffusion
 ---
 # Minimax Optimality of Score-Entropy Discrete Diffusion
 > 原文: [https://arxiv.org/abs/2608.20635](https://arxiv.org/abs/2608.20635)

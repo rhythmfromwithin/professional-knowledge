@@ -1,11 +1,13 @@
 ---
-title: "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.20406
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20406
 next_step: skim
+priority: high
+slack_ts: '1787708794.054839'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting:
+  Comparative Evaluation and an Ontario COVID-19 Case Study'
 ---
 # Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study
 > 原文: [https://arxiv.org/abs/2608.20406](https://arxiv.org/abs/2608.20406)

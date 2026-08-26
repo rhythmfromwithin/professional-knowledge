@@ -1,11 +1,13 @@
 ---
-title: "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.20343
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20343
 next_step: skim
+priority: high
+slack_ts: '1787708778.548279'
+source: cs.LG - Machine Learning
+status: unread
+title: Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques
+  with Explainable Artificial Intelligence (XAI)-Driven Analysis
 ---
 # Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis
 > 原文: [https://arxiv.org/abs/2608.20343](https://arxiv.org/abs/2608.20343)

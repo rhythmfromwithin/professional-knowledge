@@ -1,11 +1,13 @@
 ---
-title: "Disentangling Structure and Semantics: How Schema Representation Affects LLM-Based SQL Generation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.20356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20356
 next_step: skim
+priority: low
+slack_ts: '1787708781.928619'
+source: cs.DB - Databases
+status: unread
+title: 'Disentangling Structure and Semantics: How Schema Representation Affects LLM-Based
+  SQL Generation'
 ---
 # Disentangling Structure and Semantics: How Schema Representation Affects LLM-Based SQL Generation
 > 原文: [https://arxiv.org/abs/2608.20356](https://arxiv.org/abs/2608.20356)

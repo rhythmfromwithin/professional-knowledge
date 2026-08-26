@@ -1,11 +1,13 @@
 ---
-title: "Six misconceptions about large language models: A minimal model and diagnostic taxonomy"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.20421
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20421
 next_step: skim
+priority: medium
+slack_ts: '1787708798.798329'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Six misconceptions about large language models: A minimal model and diagnostic
+  taxonomy'
 ---
 # Six misconceptions about large language models: A minimal model and diagnostic taxonomy
 > 原文: [https://arxiv.org/abs/2608.20421](https://arxiv.org/abs/2608.20421)

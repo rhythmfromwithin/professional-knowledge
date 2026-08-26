@@ -1,11 +1,13 @@
 ---
-title: "Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.20546
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20546
 next_step: skim
+priority: medium
+slack_ts: '1787708793.541779'
+source: cs.RO - Robotics
+status: unread
+title: 'Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for
+  Scaling Dexterous Manipulation Learning'
 ---
 # Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning
 > 原文: [https://arxiv.org/abs/2608.20546](https://arxiv.org/abs/2608.20546)

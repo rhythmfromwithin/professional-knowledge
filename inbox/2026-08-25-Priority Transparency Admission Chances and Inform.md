@@ -1,11 +1,13 @@
 ---
-title: "Priority Transparency, Admission Chances, and Information Acquisition in School Choice"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.20698
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20698
 next_step: skim
+priority: low
+slack_ts: '1787708797.003829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Priority Transparency, Admission Chances, and Information Acquisition in School
+  Choice
 ---
 # Priority Transparency, Admission Chances, and Information Acquisition in School Choice
 > 原文: [https://arxiv.org/abs/2608.20698](https://arxiv.org/abs/2608.20698)

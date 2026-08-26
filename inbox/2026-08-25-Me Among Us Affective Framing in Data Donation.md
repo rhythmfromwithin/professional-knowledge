@@ -1,11 +1,12 @@
 ---
-title: "Me Among Us: Affective Framing in Data Donation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.20523
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20523
 next_step: skim
+priority: low
+slack_ts: '1787708794.548799'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Me Among Us: Affective Framing in Data Donation'
 ---
 # Me Among Us: Affective Framing in Data Donation
 > 原文: [https://arxiv.org/abs/2608.20523](https://arxiv.org/abs/2608.20523)

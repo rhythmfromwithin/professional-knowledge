@@ -1,11 +1,12 @@
 ---
-title: "Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.20513
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20513
 next_step: skim
+priority: low
+slack_ts: '1787708794.294459'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety'
 ---
 # Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety
 > 原文: [https://arxiv.org/abs/2608.20513](https://arxiv.org/abs/2608.20513)

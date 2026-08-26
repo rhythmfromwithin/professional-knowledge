@@ -1,11 +1,13 @@
 ---
-title: "Scalpel3: A High-Performance Data Carving Architecture for Recovery of Fragmented Files"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.20363
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20363
 next_step: skim
+priority: medium
+slack_ts: '1787708798.547089'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Scalpel3: A High-Performance Data Carving Architecture for Recovery of Fragmented
+  Files'
 ---
 # Scalpel3: A High-Performance Data Carving Architecture for Recovery of Fragmented Files
 > 原文: [https://arxiv.org/abs/2608.20363](https://arxiv.org/abs/2608.20363)

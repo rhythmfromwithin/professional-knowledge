@@ -1,11 +1,12 @@
 ---
-title: "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.20378
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20378
 next_step: skim
+priority: high
+slack_ts: '1787708800.023389'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification'
 ---
 # Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification
 > 原文: [https://arxiv.org/abs/2608.20378](https://arxiv.org/abs/2608.20378)

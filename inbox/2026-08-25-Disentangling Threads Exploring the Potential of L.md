@@ -1,11 +1,13 @@
 ---
-title: "Disentangling Threads: Exploring the Potential of LLM-Supported Discussion Forum Analysis for Community Insight"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.20591
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20591
 next_step: skim
+priority: low
+slack_ts: '1787708782.174169'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Disentangling Threads: Exploring the Potential of LLM-Supported Discussion
+  Forum Analysis for Community Insight'
 ---
 # Disentangling Threads: Exploring the Potential of LLM-Supported Discussion Forum Analysis for Community Insight
 > 原文: [https://arxiv.org/abs/2608.20591](https://arxiv.org/abs/2608.20591)

@@ -1,11 +1,12 @@
 ---
-title: "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.20342
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20342
 next_step: skim
+priority: high
+slack_ts: '1787708796.755309'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure'
 ---
 # PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure
 > 原文: [https://arxiv.org/abs/2608.20342](https://arxiv.org/abs/2608.20342)

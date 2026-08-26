@@ -1,11 +1,12 @@
 ---
-title: "bikiDATA: A Python Library to Query and Explore Large-Scale RDF Datasets"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.20358
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20358
 next_step: skim
+priority: low
+slack_ts: '1787708801.314779'
+source: cs.DB - Databases
+status: unread
+title: 'bikiDATA: A Python Library to Query and Explore Large-Scale RDF Datasets'
 ---
 # bikiDATA: A Python Library to Query and Explore Large-Scale RDF Datasets
 > 原文: [https://arxiv.org/abs/2608.20358](https://arxiv.org/abs/2608.20358)

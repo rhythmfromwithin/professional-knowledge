@@ -1,11 +1,12 @@
 ---
-title: "Testing and Evaluation of Agentic AI Systems In Military Command and Control"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.20597
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20597
 next_step: skim
+priority: low
+slack_ts: '1787708799.528119'
+source: cs.SE - Software Engineering
+status: unread
+title: Testing and Evaluation of Agentic AI Systems In Military Command and Control
 ---
 # Testing and Evaluation of Agentic AI Systems In Military Command and Control
 > 原文: [https://arxiv.org/abs/2608.20597](https://arxiv.org/abs/2608.20597)

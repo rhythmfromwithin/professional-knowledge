@@ -1,11 +1,13 @@
 ---
-title: "NeuroStrata: An Electroencephalographic Connectivity-Aware Deep Representation Learning Framework for Dynamic Brain Network Analysis of Mental Stress"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.20354
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.20354
 next_step: skim
+priority: low
+slack_ts: '1787708795.538909'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'NeuroStrata: An Electroencephalographic Connectivity-Aware Deep Representation
+  Learning Framework for Dynamic Brain Network Analysis of Mental Stress'
 ---
 # NeuroStrata: An Electroencephalographic Connectivity-Aware Deep Representation Learning Framework for Dynamic Brain Network Analysis of Mental Stress
 > 原文: [https://arxiv.org/abs/2608.20354](https://arxiv.org/abs/2608.20354)
