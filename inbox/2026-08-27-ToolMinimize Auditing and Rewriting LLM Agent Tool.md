@@ -1,0 +1,14 @@
+---
+title: "ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2608.24957
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure
+> 原文: [https://arxiv.org/abs/2608.24957](https://arxiv.org/abs/2608.24957)
+
+arXiv:2608.24957v1 Announce Type: new
+Abstract: LLM agents routinely include privacy-sensitive data (PSD) in tool call arguments beyond what the invoked tools require, crossing trust boundaries to third-party services on every invocation. A controlled measurement on three production LLMs (GPT-4o, Claude 3.5 Sonnet, Llama-3.3-70B) shows that 81--88\% of tool calls include unnecessary PSD under default prompts; explicit privacy instructions still leave 36--76\% over-sharing. Existing defenses gate calls (allow/block) or label flows (information-flow control) but cannot \emph{rewrite} argument values, and PII detection tools miss implicit PSD like ``Memorial Sloan Kettering'' (a hospital name that implies a diagnosis). We present \system{}, a middleware that intercepts tool calls and rewrites their arguments to the minimum data necessary for tool functionality, combining schema-aware necessity analysis with four operations: removal, generalization, substitution, and truncation. Live validation on 307 tool calls across the three LLMs above reduces privacy cost by 81.2--92.0\% at 100\% argument-level task validity (TOST equivalence $p{<}0.001$ at $\Delta{=}1.0$); on 25 unannotated Model Context Protocol (MCP) schemas, by 79.0\% with no \texttt{minimum\\_necessary} metadata. An optional LLM content-necessity layer strips task-irrelevant PSD from otherwise-necessary free-text fields, raising live-LLM reduction to 85.1--95.6\% and author-schema reduction from 71.1\% to 90.9\%. Median latency is 1.77\,ms.

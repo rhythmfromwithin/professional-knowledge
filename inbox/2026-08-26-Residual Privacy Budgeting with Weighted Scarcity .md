@@ -1,11 +1,13 @@
 ---
-title: "Residual Privacy Budgeting with Weighted Scarcity Allocation for Online Query Answering"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.22185
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.22185
 next_step: skim
+priority: low
+slack_ts: '1787820609.394149'
+source: cs.DB - Databases
+status: unread
+title: Residual Privacy Budgeting with Weighted Scarcity Allocation for Online Query
+  Answering
 ---
 # Residual Privacy Budgeting with Weighted Scarcity Allocation for Online Query Answering
 > 原文: [https://arxiv.org/abs/2608.22185](https://arxiv.org/abs/2608.22185)

@@ -1,11 +1,13 @@
 ---
-title: "Wazobia Eval: A Benchmark for Nigerian Pidgin Emotion Understanding, Sarcasm Detection, and Cultural Reasoning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.21369
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21369
 next_step: skim
+priority: high
+slack_ts: '1787820613.096479'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Wazobia Eval: A Benchmark for Nigerian Pidgin Emotion Understanding, Sarcasm
+  Detection, and Cultural Reasoning'
 ---
 # Wazobia Eval: A Benchmark for Nigerian Pidgin Emotion Understanding, Sarcasm Detection, and Cultural Reasoning
 > 原文: [https://arxiv.org/abs/2608.21369](https://arxiv.org/abs/2608.21369)

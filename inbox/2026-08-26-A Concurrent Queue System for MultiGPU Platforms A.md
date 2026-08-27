@@ -1,11 +1,13 @@
 ---
-title: "A Concurrent Queue System for Multi-GPU Platforms: Application to Bellman-Ford SSSP"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.21826
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21826
 next_step: skim
+priority: medium
+slack_ts: '1787820593.297629'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'A Concurrent Queue System for Multi-GPU Platforms: Application to Bellman-Ford
+  SSSP'
 ---
 # A Concurrent Queue System for Multi-GPU Platforms: Application to Bellman-Ford SSSP
 > 原文: [https://arxiv.org/abs/2608.21826](https://arxiv.org/abs/2608.21826)

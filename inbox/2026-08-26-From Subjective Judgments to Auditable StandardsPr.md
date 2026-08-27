@@ -1,11 +1,13 @@
 ---
-title: "From Subjective Judgments to Auditable Standards:Protocol-Guided AI Auditing of Website Redundancy"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.21476
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21476
 next_step: skim
+priority: low
+slack_ts: '1787820601.103189'
+source: cs.SE - Software Engineering
+status: unread
+title: From Subjective Judgments to Auditable Standards:Protocol-Guided AI Auditing
+  of Website Redundancy
 ---
 # From Subjective Judgments to Auditable Standards:Protocol-Guided AI Auditing of Website Redundancy
 > 原文: [https://arxiv.org/abs/2608.21476](https://arxiv.org/abs/2608.21476)

@@ -1,11 +1,12 @@
 ---
-title: "Agentic observability with Amazon OpenSearch Service MCP Apps"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/
 next_step: skim
+priority: high
+slack_ts: '1787820595.101219'
+source: AWS Blog
+status: unread
+title: Agentic observability with Amazon OpenSearch Service MCP Apps
 ---
 # Agentic observability with Amazon OpenSearch Service MCP Apps
 > 原文: [https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/](https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/)

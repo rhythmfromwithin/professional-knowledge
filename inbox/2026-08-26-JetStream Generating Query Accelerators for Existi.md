@@ -1,11 +1,12 @@
 ---
-title: "JetStream: Generating Query Accelerators for Existing Database Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.22476
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.22476
 next_step: skim
+priority: low
+slack_ts: '1787820605.219899'
+source: cs.DB - Databases
+status: unread
+title: 'JetStream: Generating Query Accelerators for Existing Database Systems'
 ---
 # JetStream: Generating Query Accelerators for Existing Database Systems
 > 原文: [https://arxiv.org/abs/2608.22476](https://arxiv.org/abs/2608.22476)

@@ -1,11 +1,13 @@
 ---
-title: "Determinants of Starting Salaries for Filipino Graduates: An Explainable Machine Learning Approach"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.21383
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21383
 next_step: skim
+priority: medium
+slack_ts: '1787820598.089799'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Determinants of Starting Salaries for Filipino Graduates: An Explainable Machine
+  Learning Approach'
 ---
 # Determinants of Starting Salaries for Filipino Graduates: An Explainable Machine Learning Approach
 > 原文: [https://arxiv.org/abs/2608.21383](https://arxiv.org/abs/2608.21383)

@@ -1,11 +1,12 @@
 ---
-title: "Contextual Visual Distinctiveness in Online Product Search"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.21691
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21691
 next_step: skim
+priority: low
+slack_ts: '1787820597.560069'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Contextual Visual Distinctiveness in Online Product Search
 ---
 # Contextual Visual Distinctiveness in Online Product Search
 > 原文: [https://arxiv.org/abs/2608.21691](https://arxiv.org/abs/2608.21691)

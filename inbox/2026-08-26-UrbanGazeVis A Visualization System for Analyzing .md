@@ -1,11 +1,13 @@
 ---
-title: "UrbanGazeVis: A Visualization System for Analyzing Eye-Tracking Data on Urban Safety Perception"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.21686
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21686
 next_step: skim
+priority: low
+slack_ts: '1787820612.784859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'UrbanGazeVis: A Visualization System for Analyzing Eye-Tracking Data on Urban
+  Safety Perception'
 ---
 # UrbanGazeVis: A Visualization System for Analyzing Eye-Tracking Data on Urban Safety Perception
 > 原文: [https://arxiv.org/abs/2608.21686](https://arxiv.org/abs/2608.21686)

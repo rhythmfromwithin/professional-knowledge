@@ -1,11 +1,13 @@
 ---
-title: "Multimodal-Language-Model-Driven Interaction and Companionship for Service Robots in Elderly-Care Facilities"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.21387
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21387
 next_step: skim
+priority: medium
+slack_ts: '1787820606.980309'
+source: cs.RO - Robotics
+status: unread
+title: Multimodal-Language-Model-Driven Interaction and Companionship for Service
+  Robots in Elderly-Care Facilities
 ---
 # Multimodal-Language-Model-Driven Interaction and Companionship for Service Robots in Elderly-Care Facilities
 > 原文: [https://arxiv.org/abs/2608.21387](https://arxiv.org/abs/2608.21387)

@@ -1,11 +1,12 @@
 ---
-title: "SLICE: Specification-Level Isolation of Contract Enforcement"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.21483
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21483
 next_step: skim
+priority: low
+slack_ts: '1787820610.243399'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SLICE: Specification-Level Isolation of Contract Enforcement'
 ---
 # SLICE: Specification-Level Isolation of Contract Enforcement
 > 原文: [https://arxiv.org/abs/2608.21483](https://arxiv.org/abs/2608.21483)

@@ -1,11 +1,12 @@
 ---
-title: "Female Nomination and Party Vote Share in US Gubernatorial Elections"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.23051
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.23051
 next_step: skim
+priority: low
+slack_ts: '1787820600.230489'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Female Nomination and Party Vote Share in US Gubernatorial Elections
 ---
 # Female Nomination and Party Vote Share in US Gubernatorial Elections
 > 原文: [https://arxiv.org/abs/2608.23051](https://arxiv.org/abs/2608.23051)

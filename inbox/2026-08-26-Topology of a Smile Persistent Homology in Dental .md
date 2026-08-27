@@ -1,11 +1,12 @@
 ---
-title: "Topology of a Smile: Persistent Homology in Dental Imaging"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.21422
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21422
 next_step: skim
+priority: medium
+slack_ts: '1787820612.470089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Topology of a Smile: Persistent Homology in Dental Imaging'
 ---
 # Topology of a Smile: Persistent Homology in Dental Imaging
 > 原文: [https://arxiv.org/abs/2608.21422](https://arxiv.org/abs/2608.21422)

@@ -1,11 +1,12 @@
 ---
-title: "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.21363
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21363
 next_step: skim
+priority: high
+slack_ts: '1787820594.174199'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance'
 ---
 # AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance
 > 原文: [https://arxiv.org/abs/2608.21363](https://arxiv.org/abs/2608.21363)

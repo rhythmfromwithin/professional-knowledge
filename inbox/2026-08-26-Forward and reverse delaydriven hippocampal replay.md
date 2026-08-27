@@ -1,11 +1,12 @@
 ---
-title: "Forward and reverse delay-driven hippocampal replay without symmetric plasticity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.21814
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21814
 next_step: skim
+priority: low
+slack_ts: '1787820600.572999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Forward and reverse delay-driven hippocampal replay without symmetric plasticity
 ---
 # Forward and reverse delay-driven hippocampal replay without symmetric plasticity
 > 原文: [https://arxiv.org/abs/2608.21814](https://arxiv.org/abs/2608.21814)

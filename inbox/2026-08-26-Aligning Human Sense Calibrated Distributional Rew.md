@@ -1,11 +1,13 @@
 ---
-title: "Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.21425
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21425
 next_step: skim
+priority: medium
+slack_ts: '1787820595.434849'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Aligning Human Sense: Calibrated Distributional Reward Learning for Video
+  Generation'
 ---
 # Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation
 > 原文: [https://arxiv.org/abs/2608.21425](https://arxiv.org/abs/2608.21425)

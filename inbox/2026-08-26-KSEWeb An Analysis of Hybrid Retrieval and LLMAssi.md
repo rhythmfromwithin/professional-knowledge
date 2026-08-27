@@ -1,11 +1,13 @@
 ---
-title: "KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.21365
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21365
 next_step: skim
+priority: high
+slack_ts: '1787820605.466999'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion
+  for Low-Resource Khmer Semantic Search'
 ---
 # KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search
 > 原文: [https://arxiv.org/abs/2608.21365](https://arxiv.org/abs/2608.21365)

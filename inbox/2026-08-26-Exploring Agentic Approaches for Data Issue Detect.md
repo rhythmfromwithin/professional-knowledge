@@ -1,11 +1,13 @@
 ---
-title: "Exploring Agentic Approaches for Data Issue Detection and Repair in AI-Assisted Visualization"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.21602
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21602
 next_step: skim
+priority: low
+slack_ts: '1787820599.620149'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Exploring Agentic Approaches for Data Issue Detection and Repair in AI-Assisted
+  Visualization
 ---
 # Exploring Agentic Approaches for Data Issue Detection and Repair in AI-Assisted Visualization
 > 原文: [https://arxiv.org/abs/2608.21602](https://arxiv.org/abs/2608.21602)

@@ -1,11 +1,13 @@
 ---
-title: "Model of Models: When Does Emitting a Specialist Beat Attending, Adapting, or Tuning?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.21386
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21386
 next_step: skim
+priority: high
+slack_ts: '1787820606.689039'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Model of Models: When Does Emitting a Specialist Beat Attending, Adapting,
+  or Tuning?'
 ---
 # Model of Models: When Does Emitting a Specialist Beat Attending, Adapting, or Tuning?
 > 原文: [https://arxiv.org/abs/2608.21386](https://arxiv.org/abs/2608.21386)

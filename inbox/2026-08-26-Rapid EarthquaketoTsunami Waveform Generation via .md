@@ -1,11 +1,13 @@
 ---
-title: "Rapid Earthquake-to-Tsunami Waveform Generation via Large-Scale Multi-GPU FFT Convolution Applied to the Cascadia Subduction Zone"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.21763
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21763
 next_step: skim
+priority: medium
+slack_ts: '1787820609.090969'
+source: cs.DC - Distributed Computing
+status: unread
+title: Rapid Earthquake-to-Tsunami Waveform Generation via Large-Scale Multi-GPU FFT
+  Convolution Applied to the Cascadia Subduction Zone
 ---
 # Rapid Earthquake-to-Tsunami Waveform Generation via Large-Scale Multi-GPU FFT Convolution Applied to the Cascadia Subduction Zone
 > 原文: [https://arxiv.org/abs/2608.21763](https://arxiv.org/abs/2608.21763)

@@ -1,11 +1,12 @@
 ---
-title: "Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.21364
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21364
 next_step: skim
+priority: high
+slack_ts: '1787820599.009269'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation
 ---
 # Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation
 > 原文: [https://arxiv.org/abs/2608.21364](https://arxiv.org/abs/2608.21364)

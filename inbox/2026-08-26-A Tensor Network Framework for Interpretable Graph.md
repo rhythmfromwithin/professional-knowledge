@@ -1,11 +1,12 @@
 ---
-title: "A Tensor Network Framework for Interpretable Graph Analysis of Brain Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.21368
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21368
 next_step: skim
+priority: low
+slack_ts: '1787820593.863999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Tensor Network Framework for Interpretable Graph Analysis of Brain Networks
 ---
 # A Tensor Network Framework for Interpretable Graph Analysis of Brain Networks
 > 原文: [https://arxiv.org/abs/2608.21368](https://arxiv.org/abs/2608.21368)

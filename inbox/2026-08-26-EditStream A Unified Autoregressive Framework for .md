@@ -1,11 +1,13 @@
 ---
-title: "EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.21424
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21424
 next_step: skim
+priority: medium
+slack_ts: '1787820599.310299'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EditStream: A Unified Autoregressive Framework for Interactive Video Generation
+  and Editing'
 ---
 # EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing
 > 原文: [https://arxiv.org/abs/2608.21424](https://arxiv.org/abs/2608.21424)

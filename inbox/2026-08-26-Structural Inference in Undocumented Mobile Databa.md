@@ -1,11 +1,13 @@
 ---
-title: "Structural Inference in Undocumented Mobile Databases: A Reproducible Benchmark for Evaluating Agentic Reasoning in Digital Forensics"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.21470
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21470
 next_step: skim
+priority: low
+slack_ts: '1787820611.780839'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Structural Inference in Undocumented Mobile Databases: A Reproducible Benchmark
+  for Evaluating Agentic Reasoning in Digital Forensics'
 ---
 # Structural Inference in Undocumented Mobile Databases: A Reproducible Benchmark for Evaluating Agentic Reasoning in Digital Forensics
 > 原文: [https://arxiv.org/abs/2608.21470](https://arxiv.org/abs/2608.21470)

@@ -1,11 +1,12 @@
 ---
-title: "Spectral partitioning for $k$-block averaging kernels of finite Markov chains"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.21466
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21466
 next_step: skim
+priority: medium
+slack_ts: '1787820611.160769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Spectral partitioning for $k$-block averaging kernels of finite Markov chains
 ---
 # Spectral partitioning for $k$-block averaging kernels of finite Markov chains
 > 原文: [https://arxiv.org/abs/2608.21466](https://arxiv.org/abs/2608.21466)

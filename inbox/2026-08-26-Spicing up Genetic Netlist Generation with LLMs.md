@@ -1,11 +1,12 @@
 ---
-title: "Spicing up Genetic Netlist Generation with LLMs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.23317
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.23317
 next_step: skim
+priority: low
+slack_ts: '1787820611.474789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Spicing up Genetic Netlist Generation with LLMs
 ---
 # Spicing up Genetic Netlist Generation with LLMs
 > 原文: [https://arxiv.org/abs/2608.23317](https://arxiv.org/abs/2608.23317)

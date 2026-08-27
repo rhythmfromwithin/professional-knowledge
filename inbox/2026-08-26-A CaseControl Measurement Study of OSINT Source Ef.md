@@ -1,11 +1,13 @@
 ---
-title: "A Case-Control Measurement Study of OSINT Source Effectiveness for Critical Infrastructure Defense"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.21471
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21471
 next_step: skim
+priority: low
+slack_ts: '1787820592.990469'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Case-Control Measurement Study of OSINT Source Effectiveness for Critical
+  Infrastructure Defense
 ---
 # A Case-Control Measurement Study of OSINT Source Effectiveness for Critical Infrastructure Defense
 > 原文: [https://arxiv.org/abs/2608.21471](https://arxiv.org/abs/2608.21471)

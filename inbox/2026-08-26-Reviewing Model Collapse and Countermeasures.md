@@ -1,11 +1,12 @@
 ---
-title: "Reviewing Model Collapse and Countermeasures"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.21366
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21366
 next_step: skim
+priority: high
+slack_ts: '1787820609.635459'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Reviewing Model Collapse and Countermeasures
 ---
 # Reviewing Model Collapse and Countermeasures
 > 原文: [https://arxiv.org/abs/2608.21366](https://arxiv.org/abs/2608.21366)

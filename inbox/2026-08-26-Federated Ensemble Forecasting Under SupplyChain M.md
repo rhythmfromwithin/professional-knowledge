@@ -1,11 +1,12 @@
 ---
-title: "Federated Ensemble Forecasting Under Supply-Chain Market Volatility"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.21399
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.21399
 next_step: skim
+priority: high
+slack_ts: '1787820599.926919'
+source: cs.LG - Machine Learning
+status: unread
+title: Federated Ensemble Forecasting Under Supply-Chain Market Volatility
 ---
 # Federated Ensemble Forecasting Under Supply-Chain Market Volatility
 > 原文: [https://arxiv.org/abs/2608.21399](https://arxiv.org/abs/2608.21399)

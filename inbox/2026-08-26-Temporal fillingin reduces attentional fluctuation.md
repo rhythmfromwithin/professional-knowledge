@@ -1,11 +1,12 @@
 ---
-title: "Temporal filling-in reduces attentional fluctuations in sustained visual attention"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.22722
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.22722
 next_step: skim
+priority: low
+slack_ts: '1787820612.148739'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Temporal filling-in reduces attentional fluctuations in sustained visual attention
 ---
 # Temporal filling-in reduces attentional fluctuations in sustained visual attention
 > 原文: [https://arxiv.org/abs/2608.22722](https://arxiv.org/abs/2608.22722)
