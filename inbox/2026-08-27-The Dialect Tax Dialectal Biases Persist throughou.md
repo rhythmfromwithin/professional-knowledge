@@ -1,11 +1,13 @@
 ---
-title: "The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.24952
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24952
 next_step: skim
+priority: high
+slack_ts: '1787914970.026769'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling
+  Pipeline'
 ---
 # The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline
 > 原文: [https://arxiv.org/abs/2608.24952](https://arxiv.org/abs/2608.24952)

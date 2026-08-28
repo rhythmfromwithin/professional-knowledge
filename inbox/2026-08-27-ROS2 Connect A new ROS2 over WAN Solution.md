@@ -1,11 +1,12 @@
 ---
-title: "ROS2 Connect: A new ROS2 over WAN Solution"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.25102
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25102
 next_step: skim
+priority: medium
+slack_ts: '1787914968.409109'
+source: cs.RO - Robotics
+status: unread
+title: 'ROS2 Connect: A new ROS2 over WAN Solution'
 ---
 # ROS2 Connect: A new ROS2 over WAN Solution
 > 原文: [https://arxiv.org/abs/2608.25102](https://arxiv.org/abs/2608.25102)

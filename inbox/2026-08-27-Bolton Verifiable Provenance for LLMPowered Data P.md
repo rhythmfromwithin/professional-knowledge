@@ -1,11 +1,12 @@
 ---
-title: "Bolt-on, Verifiable Provenance for LLM-Powered Data Processing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.25210
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25210
 next_step: skim
+priority: low
+slack_ts: '1787914961.517989'
+source: cs.DB - Databases
+status: unread
+title: Bolt-on, Verifiable Provenance for LLM-Powered Data Processing
 ---
 # Bolt-on, Verifiable Provenance for LLM-Powered Data Processing
 > 原文: [https://arxiv.org/abs/2608.25210](https://arxiv.org/abs/2608.25210)

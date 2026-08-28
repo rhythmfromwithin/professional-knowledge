@@ -1,11 +1,12 @@
 ---
-title: "The Dynamic Trade-Off of Dual-Class Shares"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.25972
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25972
 next_step: skim
+priority: low
+slack_ts: '1787914970.195109'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Dynamic Trade-Off of Dual-Class Shares
 ---
 # The Dynamic Trade-Off of Dual-Class Shares
 > 原文: [https://arxiv.org/abs/2608.25972](https://arxiv.org/abs/2608.25972)

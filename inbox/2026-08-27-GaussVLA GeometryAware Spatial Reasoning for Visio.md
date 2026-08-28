@@ -1,11 +1,12 @@
 ---
-title: "GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.24959
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24959
 next_step: skim
+priority: medium
+slack_ts: '1787914963.989029'
+source: cs.RO - Robotics
+status: unread
+title: 'GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model'
 ---
 # GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model
 > 原文: [https://arxiv.org/abs/2608.24959](https://arxiv.org/abs/2608.24959)

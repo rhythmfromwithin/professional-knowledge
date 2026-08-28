@@ -1,11 +1,12 @@
 ---
-title: "Minimax Alternating Regret for the Experts Problem and Online Convex Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.25182
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25182
 next_step: skim
+priority: medium
+slack_ts: '1787914966.866529'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Minimax Alternating Regret for the Experts Problem and Online Convex Optimization
 ---
 # Minimax Alternating Regret for the Experts Problem and Online Convex Optimization
 > 原文: [https://arxiv.org/abs/2608.25182](https://arxiv.org/abs/2608.25182)

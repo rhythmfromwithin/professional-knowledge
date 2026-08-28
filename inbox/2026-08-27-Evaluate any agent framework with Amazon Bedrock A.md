@@ -1,11 +1,12 @@
 ---
-title: "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/
 next_step: skim
+priority: high
+slack_ts: '1787914963.052239'
+source: AWS Blog
+status: unread
+title: Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations
 ---
 # Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations
 > 原文: [https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/)

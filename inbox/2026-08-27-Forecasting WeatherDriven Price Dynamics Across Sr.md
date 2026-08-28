@@ -1,11 +1,12 @@
 ---
-title: "Forecasting Weather-Driven Price Dynamics Across Sri Lankan Tea Market Catalogues"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.24894
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24894
 next_step: skim
+priority: low
+slack_ts: '1787914963.618169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Forecasting Weather-Driven Price Dynamics Across Sri Lankan Tea Market Catalogues
 ---
 # Forecasting Weather-Driven Price Dynamics Across Sri Lankan Tea Market Catalogues
 > 原文: [https://arxiv.org/abs/2608.24894](https://arxiv.org/abs/2608.24894)

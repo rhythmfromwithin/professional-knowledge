@@ -1,11 +1,13 @@
 ---
-title: "Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.25466
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25466
 next_step: skim
+priority: low
+slack_ts: '1787914964.805939'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species
+  Gene Function Prediction'
 ---
 # Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction
 > 原文: [https://arxiv.org/abs/2608.25466](https://arxiv.org/abs/2608.25466)

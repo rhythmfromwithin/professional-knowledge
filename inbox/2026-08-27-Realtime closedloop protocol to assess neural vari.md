@@ -1,11 +1,12 @@
 ---
-title: "Real-time closed-loop protocol to assess neural variability in temporal coding"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.24895
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24895
 next_step: skim
+priority: low
+slack_ts: '1787914968.769569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Real-time closed-loop protocol to assess neural variability in temporal coding
 ---
 # Real-time closed-loop protocol to assess neural variability in temporal coding
 > 原文: [https://arxiv.org/abs/2608.24895](https://arxiv.org/abs/2608.24895)

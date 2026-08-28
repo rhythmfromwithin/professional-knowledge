@@ -1,11 +1,13 @@
 ---
-title: "Detection != Reliable Control: Decodable Empathy Directions Yield at Most Partial Shifts in Automated Empathy Scores"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.24901
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24901
 next_step: skim
+priority: high
+slack_ts: '1787914962.558719'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Detection != Reliable Control: Decodable Empathy Directions Yield at Most
+  Partial Shifts in Automated Empathy Scores'
 ---
 # Detection != Reliable Control: Decodable Empathy Directions Yield at Most Partial Shifts in Automated Empathy Scores
 > 原文: [https://arxiv.org/abs/2608.24901](https://arxiv.org/abs/2608.24901)

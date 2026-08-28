@@ -1,11 +1,12 @@
 ---
-title: "Improved Analysis for Hessian-free High-resolution Monte Carlo Sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.25052
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25052
 next_step: skim
+priority: medium
+slack_ts: '1787914965.544399'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Improved Analysis for Hessian-free High-resolution Monte Carlo Sampling
 ---
 # Improved Analysis for Hessian-free High-resolution Monte Carlo Sampling
 > 原文: [https://arxiv.org/abs/2608.25052](https://arxiv.org/abs/2608.25052)

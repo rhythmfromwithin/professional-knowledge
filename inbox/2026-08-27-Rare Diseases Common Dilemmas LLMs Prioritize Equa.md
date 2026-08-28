@@ -1,11 +1,13 @@
 ---
-title: "Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.25236
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25236
 next_step: skim
+priority: medium
+slack_ts: '1787914968.571939'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution
+  over Patient Benefit in Decision-Making'
 ---
 # Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making
 > 原文: [https://arxiv.org/abs/2608.25236](https://arxiv.org/abs/2608.25236)

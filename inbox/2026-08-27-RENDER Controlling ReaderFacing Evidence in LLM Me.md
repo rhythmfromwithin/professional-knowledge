@@ -1,11 +1,12 @@
 ---
-title: "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.23568
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.23568
 next_step: skim
+priority: high
+slack_ts: '1787914968.232699'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation'
 ---
 # RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation
 > 原文: [https://arxiv.org/abs/2608.23568](https://arxiv.org/abs/2608.23568)

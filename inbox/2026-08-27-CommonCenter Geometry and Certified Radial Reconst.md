@@ -1,11 +1,13 @@
 ---
-title: "Common-Center Geometry and Certified Radial Reconstruction for Energy-Form Full Conformal Regions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.24964
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24964
 next_step: skim
+priority: medium
+slack_ts: '1787914962.194199'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Common-Center Geometry and Certified Radial Reconstruction for Energy-Form
+  Full Conformal Regions
 ---
 # Common-Center Geometry and Certified Radial Reconstruction for Energy-Form Full Conformal Regions
 > 原文: [https://arxiv.org/abs/2608.24964](https://arxiv.org/abs/2608.24964)

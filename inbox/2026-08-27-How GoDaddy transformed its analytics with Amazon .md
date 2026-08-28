@@ -1,11 +1,12 @@
 ---
-title: "How GoDaddy transformed its analytics with Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1787914964.998219'
+source: AWS Blog
+status: unread
+title: How GoDaddy transformed its analytics with Amazon Quick
 ---
 # How GoDaddy transformed its analytics with Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/)

@@ -1,11 +1,12 @@
 ---
-title: "Evaluating and Preventing Security Smells in AI-Generated Ansible Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.24962
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24962
 next_step: skim
+priority: low
+slack_ts: '1787914963.230209'
+source: cs.SE - Software Engineering
+status: unread
+title: Evaluating and Preventing Security Smells in AI-Generated Ansible Code
 ---
 # Evaluating and Preventing Security Smells in AI-Generated Ansible Code
 > 原文: [https://arxiv.org/abs/2608.24962](https://arxiv.org/abs/2608.24962)

@@ -1,11 +1,12 @@
 ---
-title: "Normative boundaries of AI in scientific work: Evidence from PhD researchers"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.25678
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25678
 next_step: skim
+priority: low
+slack_ts: '1787914967.522889'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Normative boundaries of AI in scientific work: Evidence from PhD researchers'
 ---
 # Normative boundaries of AI in scientific work: Evidence from PhD researchers
 > 原文: [https://arxiv.org/abs/2608.25678](https://arxiv.org/abs/2608.25678)

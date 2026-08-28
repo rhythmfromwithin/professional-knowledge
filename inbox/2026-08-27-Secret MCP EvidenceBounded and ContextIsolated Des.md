@@ -1,11 +1,13 @@
 ---
-title: "Secret MCP: Evidence-Bounded and Context-Isolated Design Specification Generation from Web Screenshots"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.24944
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24944
 next_step: skim
+priority: low
+slack_ts: '1787914969.148749'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Secret MCP: Evidence-Bounded and Context-Isolated Design Specification Generation
+  from Web Screenshots'
 ---
 # Secret MCP: Evidence-Bounded and Context-Isolated Design Specification Generation from Web Screenshots
 > 原文: [https://arxiv.org/abs/2608.24944](https://arxiv.org/abs/2608.24944)

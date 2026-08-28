@@ -1,11 +1,13 @@
 ---
-title: "MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.24898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24898
 next_step: skim
+priority: low
+slack_ts: '1787914966.378169'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader
+  Agents
 ---
 # MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents
 > 原文: [https://arxiv.org/abs/2608.24898](https://arxiv.org/abs/2608.24898)

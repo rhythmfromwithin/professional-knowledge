@@ -1,11 +1,13 @@
 ---
-title: "ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.24957
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24957
 next_step: skim
+priority: low
+slack_ts: '1787914970.527839'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy
+  Exposure'
 ---
 # ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure
 > 原文: [https://arxiv.org/abs/2608.24957](https://arxiv.org/abs/2608.24957)

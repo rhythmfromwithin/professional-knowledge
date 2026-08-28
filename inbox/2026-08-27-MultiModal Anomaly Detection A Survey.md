@@ -1,11 +1,12 @@
 ---
-title: "Multi-Modal Anomaly Detection: A Survey"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.24937
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24937
 next_step: skim
+priority: high
+slack_ts: '1787914967.063219'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Multi-Modal Anomaly Detection: A Survey'
 ---
 # Multi-Modal Anomaly Detection: A Survey
 > 原文: [https://arxiv.org/abs/2608.24937](https://arxiv.org/abs/2608.24937)

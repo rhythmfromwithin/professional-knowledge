@@ -1,11 +1,12 @@
 ---
-title: "psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.25683
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25683
 next_step: skim
+priority: medium
+slack_ts: '1787914970.682559'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing'
 ---
 # psRL: Efficient Training for Agentic AI via Training-Time Prefix Sharing
 > 原文: [https://arxiv.org/abs/2608.25683](https://arxiv.org/abs/2608.25683)

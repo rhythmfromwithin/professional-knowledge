@@ -1,11 +1,13 @@
 ---
-title: "Agentic World Analysis (AWA) - an alternative way to explore systems and support decision making"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.24896
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.24896
 next_step: skim
+priority: low
+slack_ts: '1787914960.808989'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Agentic World Analysis (AWA) - an alternative way to explore systems and support
+  decision making
 ---
 # Agentic World Analysis (AWA) - an alternative way to explore systems and support decision making
 > 原文: [https://arxiv.org/abs/2608.24896](https://arxiv.org/abs/2608.24896)

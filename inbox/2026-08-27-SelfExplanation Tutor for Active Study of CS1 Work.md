@@ -1,11 +1,12 @@
 ---
-title: "Self-Explanation Tutor for Active Study of CS1 Worked Examples"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.25180
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25180
 next_step: skim
+priority: medium
+slack_ts: '1787914969.318279'
+source: cs.CY - Computers and Society
+status: unread
+title: Self-Explanation Tutor for Active Study of CS1 Worked Examples
 ---
 # Self-Explanation Tutor for Active Study of CS1 Worked Examples
 > 原文: [https://arxiv.org/abs/2608.25180](https://arxiv.org/abs/2608.25180)

@@ -1,11 +1,12 @@
 ---
-title: "Analyzing and Reducing Search Quality Differences in Vector Similarity Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.25185
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25185
 next_step: skim
+priority: low
+slack_ts: '1787914960.981789'
+source: cs.DB - Databases
+status: unread
+title: Analyzing and Reducing Search Quality Differences in Vector Similarity Search
 ---
 # Analyzing and Reducing Search Quality Differences in Vector Similarity Search
 > 原文: [https://arxiv.org/abs/2608.25185](https://arxiv.org/abs/2608.25185)

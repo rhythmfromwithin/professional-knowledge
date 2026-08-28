@@ -1,11 +1,13 @@
 ---
-title: "The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.25063
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.25063
 next_step: skim
+priority: medium
+slack_ts: '1787914969.832079'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative
+  Staff'
 ---
 # The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff
 > 原文: [https://arxiv.org/abs/2608.25063](https://arxiv.org/abs/2608.25063)
