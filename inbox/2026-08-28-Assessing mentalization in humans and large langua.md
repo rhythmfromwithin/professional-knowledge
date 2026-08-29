@@ -1,11 +1,12 @@
 ---
-title: "Assessing mentalization in humans and large language models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.26291
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26291
 next_step: skim
+priority: low
+slack_ts: '1787986064.078969'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Assessing mentalization in humans and large language models
 ---
 # Assessing mentalization in humans and large language models
 > 原文: [https://arxiv.org/abs/2608.26291](https://arxiv.org/abs/2608.26291)

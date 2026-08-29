@@ -1,11 +1,13 @@
 ---
-title: "Mitigating Fabrication in Multi-Stage LLM Pipelines for Hiring: An Empirical Evaluation of Prompt Guardrails and Human-in-the-Loop Checkpoints"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.26171
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26171
 next_step: skim
+priority: medium
+slack_ts: '1787986073.448619'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Mitigating Fabrication in Multi-Stage LLM Pipelines for Hiring: An Empirical
+  Evaluation of Prompt Guardrails and Human-in-the-Loop Checkpoints'
 ---
 # Mitigating Fabrication in Multi-Stage LLM Pipelines for Hiring: An Empirical Evaluation of Prompt Guardrails and Human-in-the-Loop Checkpoints
 > 原文: [https://arxiv.org/abs/2608.26171](https://arxiv.org/abs/2608.26171)

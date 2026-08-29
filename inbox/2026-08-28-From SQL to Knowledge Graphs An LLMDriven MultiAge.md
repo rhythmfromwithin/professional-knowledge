@@ -1,11 +1,13 @@
 ---
-title: "From SQL to Knowledge Graphs: An LLM-Driven Multi-Agent Approach with Data Schema Improvement"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.26117
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26117
 next_step: skim
+priority: low
+slack_ts: '1787986069.551469'
+source: cs.DB - Databases
+status: unread
+title: 'From SQL to Knowledge Graphs: An LLM-Driven Multi-Agent Approach with Data
+  Schema Improvement'
 ---
 # From SQL to Knowledge Graphs: An LLM-Driven Multi-Agent Approach with Data Schema Improvement
 > 原文: [https://arxiv.org/abs/2608.26117](https://arxiv.org/abs/2608.26117)

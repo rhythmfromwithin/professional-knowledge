@@ -1,11 +1,12 @@
 ---
-title: "TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.26112
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26112
 next_step: skim
+priority: high
+slack_ts: '1787986077.508089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding'
 ---
 # TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding
 > 原文: [https://arxiv.org/abs/2608.26112](https://arxiv.org/abs/2608.26112)

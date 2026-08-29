@@ -1,11 +1,12 @@
 ---
-title: "FRESCO: Complete and Scalable Temporal Safety for CHERI Application Processors"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.26353
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26353
 next_step: skim
+priority: low
+slack_ts: '1787986068.880929'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'FRESCO: Complete and Scalable Temporal Safety for CHERI Application Processors'
 ---
 # FRESCO: Complete and Scalable Temporal Safety for CHERI Application Processors
 > 原文: [https://arxiv.org/abs/2608.26353](https://arxiv.org/abs/2608.26353)

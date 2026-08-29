@@ -1,11 +1,13 @@
 ---
-title: "A Unified Descriptive-Complexity Framework for Model Selection under Correlated Designs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.26618
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26618
 next_step: skim
+priority: medium
+slack_ts: '1787986062.852119'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Unified Descriptive-Complexity Framework for Model Selection under Correlated
+  Designs
 ---
 # A Unified Descriptive-Complexity Framework for Model Selection under Correlated Designs
 > 原文: [https://arxiv.org/abs/2608.26618](https://arxiv.org/abs/2608.26618)

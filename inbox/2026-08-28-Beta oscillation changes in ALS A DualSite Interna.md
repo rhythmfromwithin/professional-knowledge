@@ -1,11 +1,12 @@
 ---
-title: "Beta oscillation changes in ALS: A Dual-Site International Replication Study"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.27003
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27003
 next_step: skim
+priority: low
+slack_ts: '1787986064.789039'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Beta oscillation changes in ALS: A Dual-Site International Replication Study'
 ---
 # Beta oscillation changes in ALS: A Dual-Site International Replication Study
 > 原文: [https://arxiv.org/abs/2608.27003](https://arxiv.org/abs/2608.27003)

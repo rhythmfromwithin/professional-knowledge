@@ -1,11 +1,12 @@
 ---
-title: "ClassVision: AI-Powered Classroom Attendance System"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.26173
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26173
 next_step: skim
+priority: medium
+slack_ts: '1787986066.434559'
+source: cs.CY - Computers and Society
+status: unread
+title: 'ClassVision: AI-Powered Classroom Attendance System'
 ---
 # ClassVision: AI-Powered Classroom Attendance System
 > 原文: [https://arxiv.org/abs/2608.26173](https://arxiv.org/abs/2608.26173)

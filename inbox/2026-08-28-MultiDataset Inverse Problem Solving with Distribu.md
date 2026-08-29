@@ -1,11 +1,12 @@
 ---
-title: "Multi-Dataset Inverse Problem Solving with Distributed Generative AI"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.26283
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26283
 next_step: skim
+priority: medium
+slack_ts: '1787986073.885909'
+source: cs.DC - Distributed Computing
+status: unread
+title: Multi-Dataset Inverse Problem Solving with Distributed Generative AI
 ---
 # Multi-Dataset Inverse Problem Solving with Distributed Generative AI
 > 原文: [https://arxiv.org/abs/2608.26283](https://arxiv.org/abs/2608.26283)

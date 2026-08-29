@@ -1,11 +1,12 @@
 ---
-title: "Exploring the Role of LLMs in HPC Programming: A Survey"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.26110
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26110
 next_step: skim
+priority: medium
+slack_ts: '1787986068.663399'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Exploring the Role of LLMs in HPC Programming: A Survey'
 ---
 # Exploring the Role of LLMs in HPC Programming: A Survey
 > 原文: [https://arxiv.org/abs/2608.26110](https://arxiv.org/abs/2608.26110)

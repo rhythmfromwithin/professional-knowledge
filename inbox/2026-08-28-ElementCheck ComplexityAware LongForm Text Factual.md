@@ -1,11 +1,13 @@
 ---
-title: "ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.26118
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26118
 next_step: skim
+priority: high
+slack_ts: '1787986068.233799'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence
+  Elements'
 ---
 # ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements
 > 原文: [https://arxiv.org/abs/2608.26118](https://arxiv.org/abs/2608.26118)

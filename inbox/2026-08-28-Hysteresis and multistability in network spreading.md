@@ -1,11 +1,12 @@
 ---
-title: "Hysteresis and multistability in network spreading with neuronal activity feedback"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.26528
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26528
 next_step: skim
+priority: low
+slack_ts: '1787986071.110329'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Hysteresis and multistability in network spreading with neuronal activity feedback
 ---
 # Hysteresis and multistability in network spreading with neuronal activity feedback
 > 原文: [https://arxiv.org/abs/2608.26528](https://arxiv.org/abs/2608.26528)

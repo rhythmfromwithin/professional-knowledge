@@ -1,11 +1,12 @@
 ---
-title: "NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.26222
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26222
 next_step: skim
+priority: high
+slack_ts: '1787986074.113539'
+source: cs.LG - Machine Learning
+status: unread
+title: 'NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation'
 ---
 # NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation
 > 原文: [https://arxiv.org/abs/2608.26222](https://arxiv.org/abs/2608.26222)

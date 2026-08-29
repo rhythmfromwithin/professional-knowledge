@@ -1,11 +1,13 @@
 ---
-title: "An Anonymized Urn-Based Experimental Dataset on Decision-Making under Risk and Ambiguity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.26358
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26358
 next_step: skim
+priority: low
+slack_ts: '1787986063.850879'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: An Anonymized Urn-Based Experimental Dataset on Decision-Making under Risk
+  and Ambiguity
 ---
 # An Anonymized Urn-Based Experimental Dataset on Decision-Making under Risk and Ambiguity
 > 原文: [https://arxiv.org/abs/2608.26358](https://arxiv.org/abs/2608.26358)

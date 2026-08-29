@@ -1,11 +1,13 @@
 ---
-title: "DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.26119
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26119
 next_step: skim
+priority: high
+slack_ts: '1787986067.549259'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in
+  LLMs'
 ---
 # DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs
 > 原文: [https://arxiv.org/abs/2608.26119](https://arxiv.org/abs/2608.26119)

@@ -1,11 +1,13 @@
 ---
-title: "Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.26314
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26314
 next_step: skim
+priority: medium
+slack_ts: '1787986068.014689'
+source: cs.RO - Robotics
+status: unread
+title: 'Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity,
+  and Computation'
 ---
 # Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation
 > 原文: [https://arxiv.org/abs/2608.26314](https://arxiv.org/abs/2608.26314)

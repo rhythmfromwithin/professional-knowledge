@@ -1,11 +1,13 @@
 ---
-title: "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.26109
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26109
 next_step: skim
+priority: high
+slack_ts: '1787986076.503799'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality
+  Predictions: a Feasibility Study on the eICU Demo Dataset'
 ---
 # Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset
 > 原文: [https://arxiv.org/abs/2608.26109](https://arxiv.org/abs/2608.26109)

@@ -1,11 +1,12 @@
 ---
-title: "Agentic AI Containment Architecture for Security Hardening"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.26108
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26108
 next_step: skim
+priority: low
+slack_ts: '1787986063.631479'
+source: cs.SE - Software Engineering
+status: unread
+title: Agentic AI Containment Architecture for Security Hardening
 ---
 # Agentic AI Containment Architecture for Security Hardening
 > 原文: [https://arxiv.org/abs/2608.26108](https://arxiv.org/abs/2608.26108)

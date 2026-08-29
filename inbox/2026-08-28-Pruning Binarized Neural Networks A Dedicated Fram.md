@@ -1,11 +1,13 @@
 ---
-title: "Pruning Binarized Neural Networks: A Dedicated Framework and Globally Weighted Algorithms"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.26233
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26233
 next_step: skim
+priority: high
+slack_ts: '1787986075.452309'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Pruning Binarized Neural Networks: A Dedicated Framework and Globally Weighted
+  Algorithms'
 ---
 # Pruning Binarized Neural Networks: A Dedicated Framework and Globally Weighted Algorithms
 > 原文: [https://arxiv.org/abs/2608.26233](https://arxiv.org/abs/2608.26233)

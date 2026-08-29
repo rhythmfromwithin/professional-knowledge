@@ -1,11 +1,13 @@
 ---
-title: "How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.26237
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26237
 next_step: skim
+priority: low
+slack_ts: '1787986070.432249'
+source: cs.CR - Cryptography and Security
+status: unread
+title: How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic
+  Offensive Security Evaluation
 ---
 # How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation
 > 原文: [https://arxiv.org/abs/2608.26237](https://arxiv.org/abs/2608.26237)

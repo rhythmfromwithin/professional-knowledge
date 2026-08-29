@@ -1,11 +1,13 @@
 ---
-title: "Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation of Co-Manipulative Continuum Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.26273
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26273
 next_step: skim
+priority: medium
+slack_ts: '1787986066.887149'
+source: cs.RO - Robotics
+status: unread
+title: Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation
+  of Co-Manipulative Continuum Robots
 ---
 # Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation of Co-Manipulative Continuum Robots
 > 原文: [https://arxiv.org/abs/2608.26273](https://arxiv.org/abs/2608.26273)

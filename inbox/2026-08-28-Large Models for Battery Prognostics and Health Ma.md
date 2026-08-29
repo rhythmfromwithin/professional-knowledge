@@ -1,11 +1,13 @@
 ---
-title: "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.26111
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26111
 next_step: skim
+priority: high
+slack_ts: '1787986072.617529'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Large Models for Battery Prognostics and Health Management: A Review and Future
+  Roadmap'
 ---
 # Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap
 > 原文: [https://arxiv.org/abs/2608.26111](https://arxiv.org/abs/2608.26111)

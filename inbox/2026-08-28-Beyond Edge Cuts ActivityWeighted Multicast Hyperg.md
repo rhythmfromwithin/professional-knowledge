@@ -1,11 +1,13 @@
 ---
-title: "Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.26223
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26223
 next_step: skim
+priority: low
+slack_ts: '1787986065.115849'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking
+  Neural Networks on Mesh NoCs'
 ---
 # Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs
 > 原文: [https://arxiv.org/abs/2608.26223](https://arxiv.org/abs/2608.26223)

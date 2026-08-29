@@ -1,11 +1,12 @@
 ---
-title: "Improving LLM Interpretability with User-Centric Chain-of-Thought Reasoning"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.26166
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26166
 next_step: skim
+priority: low
+slack_ts: '1787986071.334769'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Improving LLM Interpretability with User-Centric Chain-of-Thought Reasoning
 ---
 # Improving LLM Interpretability with User-Centric Chain-of-Thought Reasoning
 > 原文: [https://arxiv.org/abs/2608.26166](https://arxiv.org/abs/2608.26166)

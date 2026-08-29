@@ -1,11 +1,12 @@
 ---
-title: "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/
 next_step: skim
+priority: high
+slack_ts: '1787986067.333269'
+source: AWS Blog
+status: unread
+title: Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics
 ---
 # Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics
 > 原文: [https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/](https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/)

@@ -1,11 +1,13 @@
 ---
-title: "DRL: A Deterministic Relational Middleware Layer for Transaction-Safe Enterprise NL2SQL Under Schema-Graph Scaling"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.26172
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26172
 next_step: skim
+priority: low
+slack_ts: '1787986067.100509'
+source: cs.DB - Databases
+status: unread
+title: 'DRL: A Deterministic Relational Middleware Layer for Transaction-Safe Enterprise
+  NL2SQL Under Schema-Graph Scaling'
 ---
 # DRL: A Deterministic Relational Middleware Layer for Transaction-Safe Enterprise NL2SQL Under Schema-Graph Scaling
 > 原文: [https://arxiv.org/abs/2608.26172](https://arxiv.org/abs/2608.26172)

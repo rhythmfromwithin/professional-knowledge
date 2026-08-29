@@ -1,11 +1,12 @@
 ---
-title: "Build agentic creative workflows with Amazon Quick and fal"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/
 next_step: skim
+priority: high
+slack_ts: '1787986065.534459'
+source: AWS Blog
+status: unread
+title: Build agentic creative workflows with Amazon Quick and fal
 ---
 # Build agentic creative workflows with Amazon Quick and fal
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/)

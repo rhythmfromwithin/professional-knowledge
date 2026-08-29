@@ -1,11 +1,13 @@
 ---
-title: "Calibration-Free Cuffless Blood Pressure Estimation Using Multimodal ECG-PPG Fusion on a Google Pixel Watch"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.26325
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26325
 next_step: skim
+priority: low
+slack_ts: '1787986065.978859'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Calibration-Free Cuffless Blood Pressure Estimation Using Multimodal ECG-PPG
+  Fusion on a Google Pixel Watch
 ---
 # Calibration-Free Cuffless Blood Pressure Estimation Using Multimodal ECG-PPG Fusion on a Google Pixel Watch
 > 原文: [https://arxiv.org/abs/2608.26325](https://arxiv.org/abs/2608.26325)

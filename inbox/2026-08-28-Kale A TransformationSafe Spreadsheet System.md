@@ -1,11 +1,12 @@
 ---
-title: "Kale: A Transformation-Safe Spreadsheet System"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.26345
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26345
 next_step: skim
+priority: low
+slack_ts: '1787986072.401749'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Kale: A Transformation-Safe Spreadsheet System'
 ---
 # Kale: A Transformation-Safe Spreadsheet System
 > 原文: [https://arxiv.org/abs/2608.26345](https://arxiv.org/abs/2608.26345)

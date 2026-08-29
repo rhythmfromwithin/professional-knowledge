@@ -1,11 +1,12 @@
 ---
-title: "ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.27150
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27150
 next_step: skim
+priority: low
+slack_ts: '1787986063.074199'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification
 ---
 # ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification
 > 原文: [https://arxiv.org/abs/2608.27150](https://arxiv.org/abs/2608.27150)

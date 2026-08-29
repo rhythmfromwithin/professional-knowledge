@@ -1,11 +1,12 @@
 ---
-title: "Incremental Recommendation via Causal Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.26804
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26804
 next_step: skim
+priority: medium
+slack_ts: '1787986071.554599'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Incremental Recommendation via Causal Models
 ---
 # Incremental Recommendation via Causal Models
 > 原文: [https://arxiv.org/abs/2608.26804](https://arxiv.org/abs/2608.26804)

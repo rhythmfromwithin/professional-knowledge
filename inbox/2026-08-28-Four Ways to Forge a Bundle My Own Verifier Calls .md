@@ -1,11 +1,13 @@
 ---
-title: "Four Ways to Forge a Bundle My Own Verifier Calls Clean: Refusal-Site Mutation Testing of an Evidence-Bundle Verifier"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.26183
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26183
 next_step: skim
+priority: low
+slack_ts: '1787986069.326819'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Four Ways to Forge a Bundle My Own Verifier Calls Clean: Refusal-Site Mutation
+  Testing of an Evidence-Bundle Verifier'
 ---
 # Four Ways to Forge a Bundle My Own Verifier Calls Clean: Refusal-Site Mutation Testing of an Evidence-Bundle Verifier
 > 原文: [https://arxiv.org/abs/2608.26183](https://arxiv.org/abs/2608.26183)
