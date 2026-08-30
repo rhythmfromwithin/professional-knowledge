@@ -1,11 +1,13 @@
 ---
-title: "VPP: Virtual Pipeline Parallelism for Efficient Chunked Prefill in Long-Context LLM Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.26523
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26523
 next_step: skim
+priority: medium
+slack_ts: '1788066033.888479'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'VPP: Virtual Pipeline Parallelism for Efficient Chunked Prefill in Long-Context
+  LLM Inference'
 ---
 # VPP: Virtual Pipeline Parallelism for Efficient Chunked Prefill in Long-Context LLM Inference
 > 原文: [https://arxiv.org/abs/2608.26523](https://arxiv.org/abs/2608.26523)

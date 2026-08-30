@@ -1,11 +1,12 @@
 ---
-title: "Revision-Aware Success Prediction from Multi-Attempt Programming Trajectories"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.26169
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26169
 next_step: skim
+priority: medium
+slack_ts: '1788066032.426599'
+source: cs.CY - Computers and Society
+status: unread
+title: Revision-Aware Success Prediction from Multi-Attempt Programming Trajectories
 ---
 # Revision-Aware Success Prediction from Multi-Attempt Programming Trajectories
 > 原文: [https://arxiv.org/abs/2608.26169](https://arxiv.org/abs/2608.26169)

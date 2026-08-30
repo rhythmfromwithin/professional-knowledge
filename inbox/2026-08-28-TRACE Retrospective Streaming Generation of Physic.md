@@ -1,11 +1,13 @@
 ---
-title: "TRACE: Retrospective Streaming Generation of Physical Fields under Sparse Structured Sensing"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.26219
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26219
 next_step: skim
+priority: medium
+slack_ts: '1788066033.395929'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'TRACE: Retrospective Streaming Generation of Physical Fields under Sparse
+  Structured Sensing'
 ---
 # TRACE: Retrospective Streaming Generation of Physical Fields under Sparse Structured Sensing
 > 原文: [https://arxiv.org/abs/2608.26219](https://arxiv.org/abs/2608.26219)

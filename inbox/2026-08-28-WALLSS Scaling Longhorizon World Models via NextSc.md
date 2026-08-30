@@ -1,11 +1,12 @@
 ---
-title: "WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.26239
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26239
 next_step: skim
+priority: medium
+slack_ts: '1788066034.147149'
+source: cs.RO - Robotics
+status: unread
+title: 'WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression'
 ---
 # WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression
 > 原文: [https://arxiv.org/abs/2608.26239](https://arxiv.org/abs/2608.26239)

@@ -1,11 +1,12 @@
 ---
-title: "The Italian Municipality Equitable and Sustainable Well-being Index (MESWI)"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.26426
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26426
 next_step: skim
+priority: low
+slack_ts: '1788066033.649329'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Italian Municipality Equitable and Sustainable Well-being Index (MESWI)
 ---
 # The Italian Municipality Equitable and Sustainable Well-being Index (MESWI)
 > 原文: [https://arxiv.org/abs/2608.26426](https://arxiv.org/abs/2608.26426)

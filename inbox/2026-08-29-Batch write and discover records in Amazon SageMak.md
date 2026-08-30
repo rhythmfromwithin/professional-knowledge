@@ -1,11 +1,12 @@
 ---
-title: "Batch write and discover records in Amazon SageMaker Feature Store"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/
 next_step: skim
+priority: high
+slack_ts: '1788066036.102339'
+source: AWS Blog
+status: unread
+title: Batch write and discover records in Amazon SageMaker Feature Store
 ---
 # Batch write and discover records in Amazon SageMaker Feature Store
 > 原文: [https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/](https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/)

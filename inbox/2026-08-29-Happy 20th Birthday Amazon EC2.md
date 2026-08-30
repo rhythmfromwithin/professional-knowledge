@@ -1,11 +1,12 @@
 ---
-title: "Happy 20th Birthday, Amazon EC2"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
 next_step: skim
+priority: high
+slack_ts: '1788066038.214539'
+source: AWS Blog
+status: unread
+title: Happy 20th Birthday, Amazon EC2
 ---
 # Happy 20th Birthday, Amazon EC2
 > 原文: [https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/](https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/)

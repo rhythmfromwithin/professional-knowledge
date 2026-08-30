@@ -1,11 +1,13 @@
 ---
-title: "Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.26317
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26317
 next_step: skim
+priority: medium
+slack_ts: '1788066040.968379'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Modality Maturity Index: A benchmark for assessing multimodal capabilities
+  of omni models'
 ---
 # Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models
 > 原文: [https://arxiv.org/abs/2608.26317](https://arxiv.org/abs/2608.26317)

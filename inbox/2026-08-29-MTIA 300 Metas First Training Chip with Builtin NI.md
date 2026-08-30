@@ -1,11 +1,13 @@
 ---
-title: "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/
 next_step: skim
+priority: medium
+slack_ts: '1788066040.186989'
+source: Meta Engineering
+status: unread
+title: 'MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading
+  Engines'
 ---
 # MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines
 > 原文: [https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/](https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/)

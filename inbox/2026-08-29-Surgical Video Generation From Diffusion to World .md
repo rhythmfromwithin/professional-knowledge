@@ -1,11 +1,12 @@
 ---
-title: "Surgical Video Generation From Diffusion to World Models: A Survey"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.26214
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.26214
 next_step: skim
+priority: medium
+slack_ts: '1788066043.043229'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Surgical Video Generation From Diffusion to World Models: A Survey'
 ---
 # Surgical Video Generation From Diffusion to World Models: A Survey
 > 原文: [https://arxiv.org/abs/2608.26214](https://arxiv.org/abs/2608.26214)

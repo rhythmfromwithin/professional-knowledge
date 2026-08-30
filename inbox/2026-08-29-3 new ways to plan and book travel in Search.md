@@ -1,11 +1,12 @@
 ---
-title: "3 new ways to plan and book travel in Search"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/
 next_step: skim
+priority: high
+slack_ts: '1788066034.405279'
+source: Google AI Blog
+status: unread
+title: 3 new ways to plan and book travel in Search
 ---
 # 3 new ways to plan and book travel in Search
 > 原文: [https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)

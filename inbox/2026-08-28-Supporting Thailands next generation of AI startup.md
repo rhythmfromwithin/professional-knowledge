@@ -1,11 +1,12 @@
 ---
-title: "Supporting Thailand’s next generation of AI startups"
-source: "OpenAI Blog"
-link: https://openai.com/index/supporting-next-generation-ai-startups-thailand
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/supporting-next-generation-ai-startups-thailand
 next_step: skim
+priority: high
+slack_ts: '1788066032.890399'
+source: OpenAI Blog
+status: unread
+title: Supporting Thailand’s next generation of AI startups
 ---
 # Supporting Thailand’s next generation of AI startups
 > 原文: [https://openai.com/index/supporting-next-generation-ai-startups-thailand](https://openai.com/index/supporting-next-generation-ai-startups-thailand)
