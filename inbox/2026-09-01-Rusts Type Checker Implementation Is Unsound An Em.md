@@ -1,0 +1,14 @@
+---
+title: "Rust's Type Checker Implementation Is Unsound: An Empirical Study on Soundness Bugs in rustc"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2608.28713
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Rust's Type Checker Implementation Is Unsound: An Empirical Study on Soundness Bugs in rustc
+> 原文: [https://arxiv.org/abs/2608.28713](https://arxiv.org/abs/2608.28713)
+
+arXiv:2608.28713v1 Announce Type: new
+Abstract: Rust is claimed to be a type-sound language capable of preventing various undesirable behaviors, including memory bugs. However, rustc, the official Rust compiler, is not immune to defects; it contains soundness bugs, where the compiler accepts programs that should be rejected during type checking. In this work, we present an empirical study of 30 issues that report potential soundness bugs in rustc, collected from the GitHub issue tracker between January 1, 2022 and September 1, 2025. We analyze each issue in depth, focusing on its affected feature, symptom (how the feature is mishandled), consequence (the resulting undesirable behavior), triggering features, community consensus regarding whether it is a bug, and lifecycle, including introduction, discovery, and fix. Furthermore, we investigate existing artifacts, including implementations such as AddressSanitizer, Miri, Chalk, and a-mir-formality, alongside documentation such as the Rust Reference, the FLS, and Rust RFCs to assess their potential as oracles for testing the type soundness of rustc. Our key findings indicate that: (1) Certain soundness bugs, typically triggered by implied bounds or trait objects, compromise memory safety. (2) Sound type checking is challenged by edge cases involving associated types and the interaction between lifetimes and traits. (3) Most bugs persist from the initial introduction of the relevant features and require significant time to be discovered. (4) While AddressSanitizer and Miri can detect soundness bugs that lead to memory bugs, a-mir-formality and Chalk are currently immature despite their potential to identify other bug categories. (5) Existing documentation frequently fails to provide precise explanations of the language semantics.

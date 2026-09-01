@@ -1,11 +1,12 @@
 ---
-title: "Non-standard memory models with indexed retrieval"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.27479
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27479
 next_step: skim
+priority: low
+slack_ts: '1788237856.218809'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Non-standard memory models with indexed retrieval
 ---
 # Non-standard memory models with indexed retrieval
 > 原文: [https://arxiv.org/abs/2608.27479](https://arxiv.org/abs/2608.27479)

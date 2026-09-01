@@ -1,0 +1,15 @@
+---
+title: "Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for Langevin-Regularized SVGD"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2608.28827
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for Langevin-Regularized SVGD
+> 原文: [https://arxiv.org/abs/2608.28827](https://arxiv.org/abs/2608.28827)
+
+arXiv:2608.28827v1 Announce Type: new
+Abstract: We establish quantitative convergence to the target and uniform-in-time propagation of chaos for Langevin-regularized Stein variational gradient descent. The Stein interaction need not be small relative to the confining Langevin drift and does not generally yield a contractive particle coupling. At the mean-field level, the Stein and Langevin components dissipate the same relative entropy in the kernel-induced Stein and $2$-Wasserstein geometries, producing the squared kernel Stein discrepancy and relative Fisher information. Under a log-Sobolev inequality for the target, this yields exponential last-iterate convergence. We also derive a finite-particle entropy identity relative to the product target, giving exponential-in-time convergence of the empirical measure up to polynomial sampling errors.
+For propagation of chaos, we develop two complementary finite-time approaches. A synchronous coupling, combined with exponential moment estimates for the nonlinear mean-field diffusion, yields explicit single-exponential bounds in Wasserstein distance and kernel Stein discrepancy (KSD). Moving-product entropy gives joint-law relative entropy control relative to the evolving mean-field product law and, through entropy superadditivity and concentration, fixed-marginal relative entropy and total variation bounds and empirical KSD estimates. Under an additional $T\_2$ inequality for the initial law, it also yields Wasserstein bounds. Combining these finite-time estimates with target convergence at a logarithmic cutoff time gives polynomial uniform-in-time propagation of chaos rates in expectation for empirical KSD and $W\_2^2$, and for fixed-marginal total variation and $W\_2^2$. All bounds control the last iterate in physical time. We also compare the two finite-time mechanisms and identify regimes in which each gives the sharper polynomial exponent.

@@ -1,11 +1,13 @@
 ---
-title: "The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.27465
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27465
 next_step: skim
+priority: medium
+slack_ts: '1788237860.129379'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Effect of Emotional Context on Large Language Models'' Endorsement of
+  Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models'
 ---
 # The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models
 > 原文: [https://arxiv.org/abs/2608.27465](https://arxiv.org/abs/2608.27465)

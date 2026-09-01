@@ -1,11 +1,13 @@
 ---
-title: "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.27507
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27507
 next_step: skim
+priority: high
+slack_ts: '1788237855.603979'
+source: cs.LG - Machine Learning
+status: unread
+title: Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy
+  Optimization
 ---
 # Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization
 > 原文: [https://arxiv.org/abs/2608.27507](https://arxiv.org/abs/2608.27507)

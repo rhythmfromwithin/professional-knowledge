@@ -1,11 +1,12 @@
 ---
-title: "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.27529
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27529
 next_step: skim
+priority: medium
+slack_ts: '1788237858.983899'
+source: cs.CV - Computer Vision
+status: unread
+title: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction
 ---
 # Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction
 > 原文: [https://arxiv.org/abs/2608.27529](https://arxiv.org/abs/2608.27529)

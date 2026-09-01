@@ -1,11 +1,12 @@
 ---
-title: "Multiscale Community-Based Fingerprinting of Signed Functional Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.27483
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27483
 next_step: skim
+priority: low
+slack_ts: '1788237856.015929'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Multiscale Community-Based Fingerprinting of Signed Functional Networks
 ---
 # Multiscale Community-Based Fingerprinting of Signed Functional Networks
 > 原文: [https://arxiv.org/abs/2608.27483](https://arxiv.org/abs/2608.27483)

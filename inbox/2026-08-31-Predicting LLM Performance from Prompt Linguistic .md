@@ -1,11 +1,13 @@
 ---
-title: "Predicting LLM Performance from Prompt Linguistic Features: An Empirical Study in Requirements Engineering"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.27621
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27621
 next_step: skim
+priority: low
+slack_ts: '1788237857.567569'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Predicting LLM Performance from Prompt Linguistic Features: An Empirical Study
+  in Requirements Engineering'
 ---
 # Predicting LLM Performance from Prompt Linguistic Features: An Empirical Study in Requirements Engineering
 > 原文: [https://arxiv.org/abs/2608.27621](https://arxiv.org/abs/2608.27621)

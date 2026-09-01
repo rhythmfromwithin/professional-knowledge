@@ -1,11 +1,13 @@
 ---
-title: "It Takes Three to Converse: Empirical Observations on How the Developer, the Convener and the Participant Shaped 119 Polis Conversations"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.28368
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28368
 next_step: skim
+priority: medium
+slack_ts: '1788237854.839759'
+source: cs.CY - Computers and Society
+status: unread
+title: 'It Takes Three to Converse: Empirical Observations on How the Developer, the
+  Convener and the Participant Shaped 119 Polis Conversations'
 ---
 # It Takes Three to Converse: Empirical Observations on How the Developer, the Convener and the Participant Shaped 119 Polis Conversations
 > 原文: [https://arxiv.org/abs/2608.28368](https://arxiv.org/abs/2608.28368)

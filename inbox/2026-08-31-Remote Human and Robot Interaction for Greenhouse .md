@@ -1,11 +1,12 @@
 ---
-title: "Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.27545
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27545
 next_step: skim
+priority: medium
+slack_ts: '1788237858.786399'
+source: cs.RO - Robotics
+status: unread
+title: Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality
 ---
 # Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality
 > 原文: [https://arxiv.org/abs/2608.27545](https://arxiv.org/abs/2608.27545)

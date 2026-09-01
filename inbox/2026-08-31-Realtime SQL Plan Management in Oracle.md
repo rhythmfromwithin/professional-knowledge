@@ -1,11 +1,12 @@
 ---
-title: "Real-time SQL Plan Management in Oracle"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.27758
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27758
 next_step: skim
+priority: low
+slack_ts: '1788237858.602379'
+source: cs.DB - Databases
+status: unread
+title: Real-time SQL Plan Management in Oracle
 ---
 # Real-time SQL Plan Management in Oracle
 > 原文: [https://arxiv.org/abs/2608.27758](https://arxiv.org/abs/2608.27758)

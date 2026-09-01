@@ -1,11 +1,12 @@
 ---
-title: "Optimal Transport for Network Comparison: A Review with Machine Learning Applications"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.27500
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27500
 next_step: skim
+priority: medium
+slack_ts: '1788237856.588889'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Optimal Transport for Network Comparison: A Review with Machine Learning Applications'
 ---
 # Optimal Transport for Network Comparison: A Review with Machine Learning Applications
 > 原文: [https://arxiv.org/abs/2608.27500](https://arxiv.org/abs/2608.27500)

@@ -1,11 +1,13 @@
 ---
-title: "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/
 next_step: skim
+priority: high
+slack_ts: '1788237859.589209'
+source: AWS Blog
+status: unread
+title: 'Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference
+  Components'
 ---
 # Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components
 > 原文: [https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/](https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/)

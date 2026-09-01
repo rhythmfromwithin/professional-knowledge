@@ -1,11 +1,12 @@
 ---
-title: "TerraceMoE: A Cost Model for Hierarchical MoE All-to-All Communication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.27874
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27874
 next_step: skim
+priority: medium
+slack_ts: '1788237859.950529'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TerraceMoE: A Cost Model for Hierarchical MoE All-to-All Communication'
 ---
 # TerraceMoE: A Cost Model for Hierarchical MoE All-to-All Communication
 > 原文: [https://arxiv.org/abs/2608.27874](https://arxiv.org/abs/2608.27874)

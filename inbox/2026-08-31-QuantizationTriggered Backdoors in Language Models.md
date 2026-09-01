@@ -1,11 +1,13 @@
 ---
-title: "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.27512
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27512
 next_step: skim
+priority: high
+slack_ts: '1788237858.054289'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability
+  and the Validation--Deployment Gap'
 ---
 # Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap
 > 原文: [https://arxiv.org/abs/2608.27512](https://arxiv.org/abs/2608.27512)

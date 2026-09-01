@@ -1,11 +1,13 @@
 ---
-title: "The Race for Elite Destinations: Education Competition and Low Fertility in Korea"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.27980
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27980
 next_step: skim
+priority: low
+slack_ts: '1788237860.316459'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Race for Elite Destinations: Education Competition and Low Fertility in
+  Korea'
 ---
 # The Race for Elite Destinations: Education Competition and Low Fertility in Korea
 > 原文: [https://arxiv.org/abs/2608.27980](https://arxiv.org/abs/2608.27980)

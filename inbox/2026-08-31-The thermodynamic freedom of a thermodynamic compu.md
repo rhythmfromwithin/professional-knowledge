@@ -1,11 +1,12 @@
 ---
-title: "The thermodynamic freedom of a thermodynamic computer"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.27938
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27938
 next_step: skim
+priority: low
+slack_ts: '1788237860.513379'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: The thermodynamic freedom of a thermodynamic computer
 ---
 # The thermodynamic freedom of a thermodynamic computer
 > 原文: [https://arxiv.org/abs/2608.27938](https://arxiv.org/abs/2608.27938)

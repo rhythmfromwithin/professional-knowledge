@@ -1,11 +1,12 @@
 ---
-title: "Towards a mathematical theory of superposition"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.27540
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27540
 next_step: skim
+priority: medium
+slack_ts: '1788237860.873589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Towards a mathematical theory of superposition
 ---
 # Towards a mathematical theory of superposition
 > 原文: [https://arxiv.org/abs/2608.27540](https://arxiv.org/abs/2608.27540)

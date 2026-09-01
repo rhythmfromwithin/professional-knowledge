@@ -1,11 +1,12 @@
 ---
-title: "Rating the Raters: Rasch Measurement Theory for LLM Evaluation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.27463
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27463
 next_step: skim
+priority: high
+slack_ts: '1788237858.425249'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Rating the Raters: Rasch Measurement Theory for LLM Evaluation'
 ---
 # Rating the Raters: Rasch Measurement Theory for LLM Evaluation
 > 原文: [https://arxiv.org/abs/2608.27463](https://arxiv.org/abs/2608.27463)

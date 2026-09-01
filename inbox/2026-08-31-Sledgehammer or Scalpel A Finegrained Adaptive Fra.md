@@ -1,11 +1,13 @@
 ---
-title: "Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.27462
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27462
 next_step: skim
+priority: high
+slack_ts: '1788237859.406139'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate
+  Speech
 ---
 # Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech
 > 原文: [https://arxiv.org/abs/2608.27462](https://arxiv.org/abs/2608.27462)

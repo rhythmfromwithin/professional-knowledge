@@ -1,11 +1,13 @@
 ---
-title: "Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2608.27975
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27975
 next_step: skim
+priority: medium
+slack_ts: '1788237855.031299'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable
+  Cache Eviction'
 ---
 # Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction
 > 原文: [https://arxiv.org/abs/2608.27975](https://arxiv.org/abs/2608.27975)
