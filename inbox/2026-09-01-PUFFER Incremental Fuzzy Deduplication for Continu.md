@@ -1,11 +1,12 @@
 ---
-title: "PUFFER: Incremental Fuzzy Deduplication for Continuously Evolving Corpora"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.28622
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28622
 next_step: skim
+priority: low
+slack_ts: '1788321938.712709'
+source: cs.DB - Databases
+status: unread
+title: 'PUFFER: Incremental Fuzzy Deduplication for Continuously Evolving Corpora'
 ---
 # PUFFER: Incremental Fuzzy Deduplication for Continuously Evolving Corpora
 > 原文: [https://arxiv.org/abs/2608.28622](https://arxiv.org/abs/2608.28622)

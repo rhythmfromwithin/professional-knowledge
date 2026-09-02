@@ -1,11 +1,13 @@
 ---
-title: "STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.28708
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28708
 next_step: skim
+priority: low
+slack_ts: '1788321939.694519'
+source: cs.SE - Software Engineering
+status: unread
+title: 'STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital
+  Pathology AI in Routine Workflow'
 ---
 # STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow
 > 原文: [https://arxiv.org/abs/2608.28708](https://arxiv.org/abs/2608.28708)

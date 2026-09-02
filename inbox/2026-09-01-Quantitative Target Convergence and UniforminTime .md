@@ -1,11 +1,13 @@
 ---
-title: "Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for Langevin-Regularized SVGD"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.28827
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28827
 next_step: skim
+priority: medium
+slack_ts: '1788321939.371069'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for
+  Langevin-Regularized SVGD
 ---
 # Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for Langevin-Regularized SVGD
 > 原文: [https://arxiv.org/abs/2608.28827](https://arxiv.org/abs/2608.28827)

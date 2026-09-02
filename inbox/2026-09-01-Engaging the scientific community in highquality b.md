@@ -1,11 +1,14 @@
 ---
-title: "Engaging the scientific community in high-quality biocuration: a report on the International Society for Biocuration workshop, 'Maximizing community curation for the benefit of all'"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2608.28835
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28835
 next_step: skim
+priority: low
+slack_ts: '1788321936.594289'
+source: cs.DB - Databases
+status: unread
+title: 'Engaging the scientific community in high-quality biocuration: a report on
+  the International Society for Biocuration workshop, ''Maximizing community curation
+  for the benefit of all'''
 ---
 # Engaging the scientific community in high-quality biocuration: a report on the International Society for Biocuration workshop, 'Maximizing community curation for the benefit of all'
 > 原文: [https://arxiv.org/abs/2608.28835](https://arxiv.org/abs/2608.28835)

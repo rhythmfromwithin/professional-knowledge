@@ -1,11 +1,12 @@
 ---
-title: "The Price of Intelligence: A Quality-Adjusted Price Index for AI Services"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.29843
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.29843
 next_step: skim
+priority: low
+slack_ts: '1788321940.159139'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Price of Intelligence: A Quality-Adjusted Price Index for AI Services'
 ---
 # The Price of Intelligence: A Quality-Adjusted Price Index for AI Services
 > 原文: [https://arxiv.org/abs/2608.29843](https://arxiv.org/abs/2608.29843)

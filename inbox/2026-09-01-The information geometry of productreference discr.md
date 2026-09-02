@@ -1,11 +1,13 @@
 ---
-title: "The information geometry of product-reference discrete diffusion: Interaction growth complexity and optimal scheduling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.28949
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28949
 next_step: skim
+priority: medium
+slack_ts: '1788321940.242469'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'The information geometry of product-reference discrete diffusion: Interaction
+  growth complexity and optimal scheduling'
 ---
 # The information geometry of product-reference discrete diffusion: Interaction growth complexity and optimal scheduling
 > 原文: [https://arxiv.org/abs/2608.28949](https://arxiv.org/abs/2608.28949)

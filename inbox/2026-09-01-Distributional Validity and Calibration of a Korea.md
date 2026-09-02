@@ -1,11 +1,14 @@
 ---
-title: "Distributional Validity and Calibration of a Korean Synthetic Persona Panel for Digital and AI Service Use: A Secondary-Data Validation Against the Korea Media Panel Survey"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.28615
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28615
 next_step: skim
+priority: medium
+slack_ts: '1788321936.407779'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Distributional Validity and Calibration of a Korean Synthetic Persona Panel
+  for Digital and AI Service Use: A Secondary-Data Validation Against the Korea Media
+  Panel Survey'
 ---
 # Distributional Validity and Calibration of a Korean Synthetic Persona Panel for Digital and AI Service Use: A Secondary-Data Validation Against the Korea Media Panel Survey
 > 原文: [https://arxiv.org/abs/2608.28615](https://arxiv.org/abs/2608.28615)

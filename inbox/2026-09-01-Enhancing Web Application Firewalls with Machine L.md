@@ -1,11 +1,13 @@
 ---
-title: "Enhancing Web Application Firewalls with Machine Learning for SQL Injection Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.28889
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28889
 next_step: skim
+priority: low
+slack_ts: '1788321936.768129'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Enhancing Web Application Firewalls with Machine Learning for SQL Injection
+  Detection
 ---
 # Enhancing Web Application Firewalls with Machine Learning for SQL Injection Detection
 > 原文: [https://arxiv.org/abs/2608.28889](https://arxiv.org/abs/2608.28889)

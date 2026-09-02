@@ -1,11 +1,13 @@
 ---
-title: "NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.28608
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28608
 next_step: skim
+priority: high
+slack_ts: '1788321938.301999'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient
+  Indian Medical Texts
 ---
 # NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts
 > 原文: [https://arxiv.org/abs/2608.28608](https://arxiv.org/abs/2608.28608)

@@ -1,11 +1,12 @@
 ---
-title: "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2608.28771
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28771
 next_step: skim
+priority: high
+slack_ts: '1788321936.500249'
+source: cs.LG - Machine Learning
+status: unread
+title: 'ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning'
 ---
 # ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning
 > 原文: [https://arxiv.org/abs/2608.28771](https://arxiv.org/abs/2608.28771)

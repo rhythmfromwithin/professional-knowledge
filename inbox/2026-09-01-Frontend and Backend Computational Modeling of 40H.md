@@ -1,11 +1,13 @@
 ---
-title: "Front-end and Back-end Computational Modeling of 40-Hz Auditory Steady-State Response Abnormalities in Schizophrenia"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.29104
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.29104
 next_step: skim
+priority: low
+slack_ts: '1788321936.928369'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Front-end and Back-end Computational Modeling of 40-Hz Auditory Steady-State
+  Response Abnormalities in Schizophrenia
 ---
 # Front-end and Back-end Computational Modeling of 40-Hz Auditory Steady-State Response Abnormalities in Schizophrenia
 > 原文: [https://arxiv.org/abs/2608.29104](https://arxiv.org/abs/2608.29104)

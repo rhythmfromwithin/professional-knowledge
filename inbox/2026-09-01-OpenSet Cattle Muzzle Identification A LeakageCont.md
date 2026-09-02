@@ -1,11 +1,13 @@
 ---
-title: "Open-Set Cattle Muzzle Identification: A Leakage-Controlled Benchmark and Evaluation Protocol"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.28663
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28663
 next_step: skim
+priority: medium
+slack_ts: '1788321938.563669'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Open-Set Cattle Muzzle Identification: A Leakage-Controlled Benchmark and
+  Evaluation Protocol'
 ---
 # Open-Set Cattle Muzzle Identification: A Leakage-Controlled Benchmark and Evaluation Protocol
 > 原文: [https://arxiv.org/abs/2608.28663](https://arxiv.org/abs/2608.28663)

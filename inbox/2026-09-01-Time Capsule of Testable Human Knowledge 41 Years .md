@@ -1,11 +1,13 @@
 ---
-title: "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.27459
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27459
 next_step: skim
+priority: high
+slack_ts: '1788321940.328409'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single
+  Free Local Model'
 ---
 # Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model
 > 原文: [https://arxiv.org/abs/2608.27459](https://arxiv.org/abs/2608.27459)

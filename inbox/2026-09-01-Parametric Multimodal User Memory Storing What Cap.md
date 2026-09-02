@@ -1,11 +1,12 @@
 ---
-title: "Parametric Multimodal User Memory: Storing What Captions Cannot Carry"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2608.28609
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28609
 next_step: skim
+priority: high
+slack_ts: '1788321938.789449'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Parametric Multimodal User Memory: Storing What Captions Cannot Carry'
 ---
 # Parametric Multimodal User Memory: Storing What Captions Cannot Carry
 > 原文: [https://arxiv.org/abs/2608.28609](https://arxiv.org/abs/2608.28609)

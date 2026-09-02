@@ -1,11 +1,13 @@
 ---
-title: "RedLight-VLA: Models for traffic-rule grounding and behavioral emphasis in driving policies"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.28656
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28656
 next_step: skim
+priority: medium
+slack_ts: '1788321939.541339'
+source: cs.RO - Robotics
+status: unread
+title: 'RedLight-VLA: Models for traffic-rule grounding and behavioral emphasis in
+  driving policies'
 ---
 # RedLight-VLA: Models for traffic-rule grounding and behavioral emphasis in driving policies
 > 原文: [https://arxiv.org/abs/2608.28656](https://arxiv.org/abs/2608.28656)

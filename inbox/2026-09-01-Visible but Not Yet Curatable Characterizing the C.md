@@ -1,11 +1,13 @@
 ---
-title: "Visible but Not Yet Curatable: Characterizing the Curatability of Compact and Derived Open LLM Artifacts"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2608.28819
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28819
 next_step: skim
+priority: low
+slack_ts: '1788321940.507399'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Visible but Not Yet Curatable: Characterizing the Curatability of Compact
+  and Derived Open LLM Artifacts'
 ---
 # Visible but Not Yet Curatable: Characterizing the Curatability of Compact and Derived Open LLM Artifacts
 > 原文: [https://arxiv.org/abs/2608.28819](https://arxiv.org/abs/2608.28819)

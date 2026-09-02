@@ -1,11 +1,13 @@
 ---
-title: "Understanding Temporal Semantic Stability in Open-Vocabulary UAV Perception through Metric 3D Fusion"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.28665
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28665
 next_step: skim
+priority: medium
+slack_ts: '1788321940.415389'
+source: cs.CV - Computer Vision
+status: unread
+title: Understanding Temporal Semantic Stability in Open-Vocabulary UAV Perception
+  through Metric 3D Fusion
 ---
 # Understanding Temporal Semantic Stability in Open-Vocabulary UAV Perception through Metric 3D Fusion
 > 原文: [https://arxiv.org/abs/2608.28665](https://arxiv.org/abs/2608.28665)

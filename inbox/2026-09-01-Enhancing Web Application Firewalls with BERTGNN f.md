@@ -1,11 +1,12 @@
 ---
-title: "Enhancing Web Application Firewalls with BERT-GNN for SQL Injection Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2608.28882
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28882
 next_step: skim
+priority: low
+slack_ts: '1788321936.670119'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Enhancing Web Application Firewalls with BERT-GNN for SQL Injection Detection
 ---
 # Enhancing Web Application Firewalls with BERT-GNN for SQL Injection Detection
 > 原文: [https://arxiv.org/abs/2608.28882](https://arxiv.org/abs/2608.28882)

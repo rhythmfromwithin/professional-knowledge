@@ -1,11 +1,12 @@
 ---
-title: "Structurally Informed Connectivity Disruptions in Cocaine Use Disorder"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2608.28892
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28892
 next_step: skim
+priority: low
+slack_ts: '1788321939.859369'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Structurally Informed Connectivity Disruptions in Cocaine Use Disorder
 ---
 # Structurally Informed Connectivity Disruptions in Cocaine Use Disorder
 > 原文: [https://arxiv.org/abs/2608.28892](https://arxiv.org/abs/2608.28892)

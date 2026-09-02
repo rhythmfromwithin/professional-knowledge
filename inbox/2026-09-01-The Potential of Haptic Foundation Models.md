@@ -1,11 +1,12 @@
 ---
-title: "The Potential of Haptic Foundation Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2608.28664
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28664
 next_step: skim
+priority: medium
+slack_ts: '1788321940.082739'
+source: cs.RO - Robotics
+status: unread
+title: The Potential of Haptic Foundation Models
 ---
 # The Potential of Haptic Foundation Models
 > 原文: [https://arxiv.org/abs/2608.28664](https://arxiv.org/abs/2608.28664)

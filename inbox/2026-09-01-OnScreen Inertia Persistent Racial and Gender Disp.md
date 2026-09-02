@@ -1,11 +1,13 @@
 ---
-title: "On-Screen Inertia: Persistent Racial and Gender Disparities in Hollywood Film (1900-2024)"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2608.28613
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28613
 next_step: skim
+priority: medium
+slack_ts: '1788321938.486589'
+source: cs.CY - Computers and Society
+status: unread
+title: 'On-Screen Inertia: Persistent Racial and Gender Disparities in Hollywood Film
+  (1900-2024)'
 ---
 # On-Screen Inertia: Persistent Racial and Gender Disparities in Hollywood Film (1900-2024)
 > 原文: [https://arxiv.org/abs/2608.28613](https://arxiv.org/abs/2608.28613)

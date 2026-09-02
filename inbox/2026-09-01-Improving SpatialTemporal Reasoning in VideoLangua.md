@@ -1,11 +1,13 @@
 ---
-title: "Improving Spatial-Temporal Reasoning in Video-Language Models with Structured Video Prompting"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2608.28666
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28666
 next_step: skim
+priority: medium
+slack_ts: '1788321937.732059'
+source: cs.CV - Computer Vision
+status: unread
+title: Improving Spatial-Temporal Reasoning in Video-Language Models with Structured
+  Video Prompting
 ---
 # Improving Spatial-Temporal Reasoning in Video-Language Models with Structured Video Prompting
 > 原文: [https://arxiv.org/abs/2608.28666](https://arxiv.org/abs/2608.28666)

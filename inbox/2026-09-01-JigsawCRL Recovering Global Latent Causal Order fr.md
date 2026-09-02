@@ -1,11 +1,13 @@
 ---
-title: "Jigsaw-CRL: Recovering Global Latent Causal Order from Fragmented Multi-Client Interventions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2608.28991
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28991
 next_step: skim
+priority: medium
+slack_ts: '1788321937.938499'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Jigsaw-CRL: Recovering Global Latent Causal Order from Fragmented Multi-Client
+  Interventions'
 ---
 # Jigsaw-CRL: Recovering Global Latent Causal Order from Fragmented Multi-Client Interventions
 > 原文: [https://arxiv.org/abs/2608.28991](https://arxiv.org/abs/2608.28991)

@@ -1,11 +1,13 @@
 ---
-title: "Tariff Threats, Macroeconomic Expectations, and Policy Communication Strategies: Experiments Based on a Multi-Agent System"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2608.30522
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.30522
 next_step: skim
+priority: low
+slack_ts: '1788321939.939309'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Tariff Threats, Macroeconomic Expectations, and Policy Communication Strategies:
+  Experiments Based on a Multi-Agent System'
 ---
 # Tariff Threats, Macroeconomic Expectations, and Policy Communication Strategies: Experiments Based on a Multi-Agent System
 > 原文: [https://arxiv.org/abs/2608.30522](https://arxiv.org/abs/2608.30522)

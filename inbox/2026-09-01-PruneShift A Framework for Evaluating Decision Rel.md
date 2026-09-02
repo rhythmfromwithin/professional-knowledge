@@ -1,11 +1,13 @@
 ---
-title: "PruneShift: A Framework for Evaluating Decision Reliability in Structured Pruning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2608.29765
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.29765
 next_step: skim
+priority: low
+slack_ts: '1788321939.297419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'PruneShift: A Framework for Evaluating Decision Reliability in Structured
+  Pruning'
 ---
 # PruneShift: A Framework for Evaluating Decision Reliability in Structured Pruning
 > 原文: [https://arxiv.org/abs/2608.29765](https://arxiv.org/abs/2608.29765)

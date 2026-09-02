@@ -1,11 +1,13 @@
 ---
-title: "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2608.27464
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.27464
 next_step: skim
+priority: high
+slack_ts: '1788321938.386549'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered
+  XAI'
 ---
 # Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI
 > 原文: [https://arxiv.org/abs/2608.27464](https://arxiv.org/abs/2608.27464)

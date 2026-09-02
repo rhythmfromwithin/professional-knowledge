@@ -1,11 +1,13 @@
 ---
-title: "Rust's Type Checker Implementation Is Unsound: An Empirical Study on Soundness Bugs in rustc"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2608.28713
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2608.28713
 next_step: skim
+priority: low
+slack_ts: '1788321939.618849'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Rust''s Type Checker Implementation Is Unsound: An Empirical Study on Soundness
+  Bugs in rustc'
 ---
 # Rust's Type Checker Implementation Is Unsound: An Empirical Study on Soundness Bugs in rustc
 > 原文: [https://arxiv.org/abs/2608.28713](https://arxiv.org/abs/2608.28713)
