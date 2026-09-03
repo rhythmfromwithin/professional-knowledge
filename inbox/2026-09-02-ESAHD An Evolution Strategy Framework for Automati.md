@@ -1,11 +1,12 @@
 ---
-title: "ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.00023
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00023
 next_step: skim
+priority: low
+slack_ts: '1788408227.873079'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design'
 ---
 # ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design
 > 原文: [https://arxiv.org/abs/2609.00023](https://arxiv.org/abs/2609.00023)

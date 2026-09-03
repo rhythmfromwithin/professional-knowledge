@@ -1,11 +1,13 @@
 ---
-title: "Provably Efficient Federated Reinforcement Learning with Linear Function Approximation and Logarithmic Communication Cost"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.00193
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00193
 next_step: skim
+priority: medium
+slack_ts: '1788408233.794569'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Provably Efficient Federated Reinforcement Learning with Linear Function Approximation
+  and Logarithmic Communication Cost
 ---
 # Provably Efficient Federated Reinforcement Learning with Linear Function Approximation and Logarithmic Communication Cost
 > 原文: [https://arxiv.org/abs/2609.00193](https://arxiv.org/abs/2609.00193)

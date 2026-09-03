@@ -1,11 +1,13 @@
 ---
-title: "A distributed-delay Wilson-Cowan model of sleep-related rhythms in the corticothalamic system"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.00520
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00520
 next_step: skim
+priority: low
+slack_ts: '1788408223.702459'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A distributed-delay Wilson-Cowan model of sleep-related rhythms in the corticothalamic
+  system
 ---
 # A distributed-delay Wilson-Cowan model of sleep-related rhythms in the corticothalamic system
 > 原文: [https://arxiv.org/abs/2609.00520](https://arxiv.org/abs/2609.00520)

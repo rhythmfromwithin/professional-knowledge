@@ -1,11 +1,13 @@
 ---
-title: "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.00002
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00002
 next_step: skim
+priority: high
+slack_ts: '1788408230.602799'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual
+  World Models'
 ---
 # HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models
 > 原文: [https://arxiv.org/abs/2609.00002](https://arxiv.org/abs/2609.00002)

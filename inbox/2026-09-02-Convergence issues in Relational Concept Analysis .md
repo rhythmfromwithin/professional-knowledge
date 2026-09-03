@@ -1,11 +1,12 @@
 ---
-title: "Convergence issues in Relational Concept Analysis based on AOC-posets"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.00054
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00054
 next_step: skim
+priority: high
+slack_ts: '1788408227.203059'
+source: cs.LG - Machine Learning
+status: unread
+title: Convergence issues in Relational Concept Analysis based on AOC-posets
 ---
 # Convergence issues in Relational Concept Analysis based on AOC-posets
 > 原文: [https://arxiv.org/abs/2609.00054](https://arxiv.org/abs/2609.00054)

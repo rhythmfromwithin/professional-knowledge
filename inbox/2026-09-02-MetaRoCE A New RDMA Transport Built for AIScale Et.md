@@ -1,11 +1,12 @@
 ---
-title: "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/
 next_step: skim
+priority: medium
+slack_ts: '1788408232.198899'
+source: Meta Engineering
+status: unread
+title: 'MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet'
 ---
 # MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet
 > 原文: [https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/](https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/)

@@ -1,11 +1,13 @@
 ---
-title: "Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.00014
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00014
 next_step: skim
+priority: high
+slack_ts: '1788408225.135009'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Behaviorally Grounded User Profiles from the Wild for Personalized Alignment
+  and Multi-Perspective Reasoning
 ---
 # Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning
 > 原文: [https://arxiv.org/abs/2609.00014](https://arxiv.org/abs/2609.00014)

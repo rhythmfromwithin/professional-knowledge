@@ -1,11 +1,12 @@
 ---
-title: "Blameocracy: Causal Rhetoric in Politics"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2504.06550
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2504.06550
 next_step: skim
+priority: low
+slack_ts: '1788408225.478549'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Blameocracy: Causal Rhetoric in Politics'
 ---
 # Blameocracy: Causal Rhetoric in Politics
 > 原文: [https://arxiv.org/abs/2504.06550](https://arxiv.org/abs/2504.06550)

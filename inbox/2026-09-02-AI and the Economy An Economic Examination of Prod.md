@@ -1,11 +1,13 @@
 ---
-title: "AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.01263
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01263
 next_step: skim
+priority: low
+slack_ts: '1788408223.890799'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'AI and the Economy: An Economic Examination of Production, Distribution, Firms,
+  Labor, and Welfare'
 ---
 # AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare
 > 原文: [https://arxiv.org/abs/2609.01263](https://arxiv.org/abs/2609.01263)

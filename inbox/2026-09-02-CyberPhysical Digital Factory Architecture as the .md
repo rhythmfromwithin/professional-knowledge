@@ -1,11 +1,12 @@
 ---
-title: "Cyber-Physical Digital Factory Architecture as the Enabler of Disembodied Work"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.00195
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00195
 next_step: skim
+priority: low
+slack_ts: '1788408227.361819'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Cyber-Physical Digital Factory Architecture as the Enabler of Disembodied Work
 ---
 # Cyber-Physical Digital Factory Architecture as the Enabler of Disembodied Work
 > 原文: [https://arxiv.org/abs/2609.00195](https://arxiv.org/abs/2609.00195)

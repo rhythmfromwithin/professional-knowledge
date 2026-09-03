@@ -1,11 +1,12 @@
 ---
-title: "Introducing agentic video understanding with Gemini"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/introducing-agentic-video-in-gemini/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/introducing-agentic-video-in-gemini/
 next_step: skim
+priority: high
+slack_ts: '1788408231.493209'
+source: DeepMind Blog
+status: unread
+title: Introducing agentic video understanding with Gemini
 ---
 # Introducing agentic video understanding with Gemini
 > 原文: [https://deepmind.google/blog/introducing-agentic-video-in-gemini/](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)

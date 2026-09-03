@@ -1,7 +1,9 @@
 ---
-title: "MAPS: Netflix’s Multimodal Asset Personalization at Scale"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss
+slack_ts: '1788408231.864199'
+source: Netflix Tech Blog
+title: 'MAPS: Netflix’s Multimodal Asset Personalization at Scale'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

@@ -1,0 +1,14 @@
+---
+title: "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2609.01658
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation
+> 原文: [https://arxiv.org/abs/2609.01658](https://arxiv.org/abs/2609.01658)
+
+arXiv:2609.01658v1 Announce Type: new
+Abstract: Retrieval-Augmented Generation enhances Large Language Models by grounding responses in external knowledge, but multi-hop reasoning remains vulnerable to error propagation, where early retrieval failures confound subsequent steps. Standard outcome-based optimization only rewards the final answer, leaving intermediate retrieval and reasoning errors undetected. While existing process-based methods introduce step-level signals, they still score each step against the final answer, rewarding spurious successes where flawed retrieval coincidentally produces the correct answer. Step-level supervision in RAG requires evaluating both logical validity and evidential grounding at each step. We introduce PRO-STEP: we train a generative PRM that evaluates both dimensions, employ PRM-guided value tree search to construct preference pairs contrasting valid steps against flawed ones, and optimize the policy via step-level Direct Preference Optimization. Experiments on single and multi-hop QA datasets demonstrate that PRO-STEP achieves the best average EM and F1 across five benchmarks. Code, models, and training data are publicly available at https://github.com/keemminnke/PRO-Step.

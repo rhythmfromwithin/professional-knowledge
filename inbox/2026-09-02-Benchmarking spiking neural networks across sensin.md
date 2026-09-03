@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking spiking neural networks across sensing modalities on edge devices"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.00026
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00026
 next_step: skim
+priority: low
+slack_ts: '1788408225.311499'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Benchmarking spiking neural networks across sensing modalities on edge devices
 ---
 # Benchmarking spiking neural networks across sensing modalities on edge devices
 > 原文: [https://arxiv.org/abs/2609.00026](https://arxiv.org/abs/2609.00026)

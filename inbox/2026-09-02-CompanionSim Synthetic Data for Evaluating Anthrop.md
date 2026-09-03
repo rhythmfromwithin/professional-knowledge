@@ -1,11 +1,12 @@
 ---
-title: "CompanionSim: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.00250
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00250
 next_step: skim
+priority: medium
+slack_ts: '1788408226.874249'
+source: cs.CY - Computers and Society
+status: unread
+title: 'CompanionSim: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships'
 ---
 # CompanionSim: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships
 > 原文: [https://arxiv.org/abs/2609.00250](https://arxiv.org/abs/2609.00250)

@@ -1,11 +1,13 @@
 ---
-title: "Research on Optimized Fuzzy PID Temperature Control Strategy Based on Improved Particle Swarm Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.00001
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00001
 next_step: skim
+priority: low
+slack_ts: '1788408234.534999'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Research on Optimized Fuzzy PID Temperature Control Strategy Based on Improved
+  Particle Swarm Optimization
 ---
 # Research on Optimized Fuzzy PID Temperature Control Strategy Based on Improved Particle Swarm Optimization
 > 原文: [https://arxiv.org/abs/2609.00001](https://arxiv.org/abs/2609.00001)

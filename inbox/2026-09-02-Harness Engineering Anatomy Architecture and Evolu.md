@@ -1,11 +1,13 @@
 ---
-title: "Harness Engineering: Anatomy, Architecture, and Evolution of Coding Agents -- A Source-Code Study of Eleven Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.00006
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00006
 next_step: skim
+priority: low
+slack_ts: '1788408229.433389'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Harness Engineering: Anatomy, Architecture, and Evolution of Coding Agents
+  -- A Source-Code Study of Eleven Systems'
 ---
 # Harness Engineering: Anatomy, Architecture, and Evolution of Coding Agents -- A Source-Code Study of Eleven Systems
 > 原文: [https://arxiv.org/abs/2609.00006](https://arxiv.org/abs/2609.00006)

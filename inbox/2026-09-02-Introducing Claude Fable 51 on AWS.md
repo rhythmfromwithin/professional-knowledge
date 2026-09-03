@@ -1,11 +1,12 @@
 ---
-title: "Introducing Claude Fable 5.1 on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1788408231.149019'
+source: AWS Blog
+status: unread
+title: Introducing Claude Fable 5.1 on AWS
 ---
 # Introducing Claude Fable 5.1 on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/)

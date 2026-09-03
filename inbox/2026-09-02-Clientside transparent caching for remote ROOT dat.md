@@ -1,11 +1,12 @@
 ---
-title: "Client-side transparent caching for remote ROOT data analysis"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.00400
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00400
 next_step: skim
+priority: medium
+slack_ts: '1788408226.361529'
+source: cs.DC - Distributed Computing
+status: unread
+title: Client-side transparent caching for remote ROOT data analysis
 ---
 # Client-side transparent caching for remote ROOT data analysis
 > 原文: [https://arxiv.org/abs/2609.00400](https://arxiv.org/abs/2609.00400)

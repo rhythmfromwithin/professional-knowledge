@@ -1,11 +1,12 @@
 ---
-title: "Local Media and the Shaping of Social Norms: Evidence from the Ebola outbreak"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2210.15946
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2210.15946
 next_step: skim
+priority: low
+slack_ts: '1788408231.679979'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Local Media and the Shaping of Social Norms: Evidence from the Ebola outbreak'
 ---
 # Local Media and the Shaping of Social Norms: Evidence from the Ebola outbreak
 > 原文: [https://arxiv.org/abs/2210.15946](https://arxiv.org/abs/2210.15946)

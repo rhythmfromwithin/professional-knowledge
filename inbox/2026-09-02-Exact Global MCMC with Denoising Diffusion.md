@@ -1,11 +1,12 @@
 ---
-title: "Exact Global MCMC with Denoising Diffusion"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.00279
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00279
 next_step: skim
+priority: medium
+slack_ts: '1788408228.041479'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Exact Global MCMC with Denoising Diffusion
 ---
 # Exact Global MCMC with Denoising Diffusion
 > 原文: [https://arxiv.org/abs/2609.00279](https://arxiv.org/abs/2609.00279)

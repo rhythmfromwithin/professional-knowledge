@@ -1,11 +1,12 @@
 ---
-title: "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.00052
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00052
 next_step: skim
+priority: low
+slack_ts: '1788408224.079459'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes'
 ---
 # AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes
 > 原文: [https://arxiv.org/abs/2609.00052](https://arxiv.org/abs/2609.00052)

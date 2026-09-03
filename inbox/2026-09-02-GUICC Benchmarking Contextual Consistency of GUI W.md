@@ -1,11 +1,12 @@
 ---
-title: "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.00048
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00048
 next_step: skim
+priority: high
+slack_ts: '1788408228.735089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments'
 ---
 # GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments
 > 原文: [https://arxiv.org/abs/2609.00048](https://arxiv.org/abs/2609.00048)

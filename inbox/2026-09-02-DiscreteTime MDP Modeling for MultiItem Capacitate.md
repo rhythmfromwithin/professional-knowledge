@@ -1,11 +1,13 @@
 ---
-title: "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.00004
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00004
 next_step: skim
+priority: high
+slack_ts: '1788408227.708769'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic
+  Demand Timing
 ---
 # Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing
 > 原文: [https://arxiv.org/abs/2609.00004](https://arxiv.org/abs/2609.00004)

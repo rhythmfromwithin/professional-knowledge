@@ -1,11 +1,13 @@
 ---
-title: "A convolutional framework for detecting event-driven dynamics in energy price series"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.00402
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00402
 next_step: skim
+priority: medium
+slack_ts: '1788408223.517449'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A convolutional framework for detecting event-driven dynamics in energy price
+  series
 ---
 # A convolutional framework for detecting event-driven dynamics in energy price series
 > 原文: [https://arxiv.org/abs/2609.00402](https://arxiv.org/abs/2609.00402)

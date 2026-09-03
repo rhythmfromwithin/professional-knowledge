@@ -1,11 +1,12 @@
 ---
-title: "Intelligent Edge Computing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.00181
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00181
 next_step: skim
+priority: low
+slack_ts: '1788408230.943769'
+source: cs.DB - Databases
+status: unread
+title: Intelligent Edge Computing
 ---
 # Intelligent Edge Computing
 > 原文: [https://arxiv.org/abs/2609.00181](https://arxiv.org/abs/2609.00181)

@@ -1,11 +1,12 @@
 ---
-title: "Operation-Type-Aware Client Routing for Leader-Based Consensus Datastores"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.00392
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00392
 next_step: skim
+priority: medium
+slack_ts: '1788408232.778759'
+source: cs.DC - Distributed Computing
+status: unread
+title: Operation-Type-Aware Client Routing for Leader-Based Consensus Datastores
 ---
 # Operation-Type-Aware Client Routing for Leader-Based Consensus Datastores
 > 原文: [https://arxiv.org/abs/2609.00392](https://arxiv.org/abs/2609.00392)

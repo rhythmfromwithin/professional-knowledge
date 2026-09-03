@@ -1,11 +1,13 @@
 ---
-title: "Collaboratively Eliciting Gestures for Geospatial Data Exploration on an MSE with Tangibles and Styluses"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.00007
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00007
 next_step: skim
+priority: low
+slack_ts: '1788408226.704769'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Collaboratively Eliciting Gestures for Geospatial Data Exploration on an MSE
+  with Tangibles and Styluses
 ---
 # Collaboratively Eliciting Gestures for Geospatial Data Exploration on an MSE with Tangibles and Styluses
 > 原文: [https://arxiv.org/abs/2609.00007](https://arxiv.org/abs/2609.00007)

@@ -1,11 +1,13 @@
 ---
-title: "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.00003
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00003
 next_step: skim
+priority: high
+slack_ts: '1788408230.776209'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'I-CARE: Analysis of interference-related phenomena in a controllable, diverse
+  and representative unlearning setting for text-to-image models'
 ---
 # I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models
 > 原文: [https://arxiv.org/abs/2609.00003](https://arxiv.org/abs/2609.00003)

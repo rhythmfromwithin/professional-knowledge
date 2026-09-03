@@ -1,11 +1,13 @@
 ---
-title: "Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.00171
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00171
 next_step: skim
+priority: low
+slack_ts: '1788408228.214639'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Explainable Artificial Intelligence for Industrial Cybersecurity: A Review
+  of Methods, Operational Integration, and Research Challenges'
 ---
 # Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges
 > 原文: [https://arxiv.org/abs/2609.00171](https://arxiv.org/abs/2609.00171)

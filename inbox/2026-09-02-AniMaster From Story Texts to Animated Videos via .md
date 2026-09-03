@@ -1,11 +1,13 @@
 ---
-title: "AniMaster: From Story Texts to Animated Videos via Cinematic Script Generation and Interactive Authoring"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.00346
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00346
 next_step: skim
+priority: low
+slack_ts: '1788408224.450289'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'AniMaster: From Story Texts to Animated Videos via Cinematic Script Generation
+  and Interactive Authoring'
 ---
 # AniMaster: From Story Texts to Animated Videos via Cinematic Script Generation and Interactive Authoring
 > 原文: [https://arxiv.org/abs/2609.00346](https://arxiv.org/abs/2609.00346)
