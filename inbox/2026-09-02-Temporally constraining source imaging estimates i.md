@@ -1,11 +1,13 @@
 ---
-title: "Temporally constraining source imaging estimates in an underdetermined neural system with eigenmodes of cortical geometry"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.00809
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00809
 next_step: skim
+priority: low
+slack_ts: '1788494850.464169'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Temporally constraining source imaging estimates in an underdetermined neural
+  system with eigenmodes of cortical geometry
 ---
 # Temporally constraining source imaging estimates in an underdetermined neural system with eigenmodes of cortical geometry
 > 原文: [https://arxiv.org/abs/2609.00809](https://arxiv.org/abs/2609.00809)

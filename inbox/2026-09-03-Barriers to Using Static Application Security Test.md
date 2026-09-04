@@ -1,11 +1,13 @@
 ---
-title: "Barriers to Using Static Application Security Testing (SAST) Tools: A Literature Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.01669
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01669
 next_step: skim
+priority: low
+slack_ts: '1788494852.382179'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Barriers to Using Static Application Security Testing (SAST) Tools: A Literature
+  Review'
 ---
 # Barriers to Using Static Application Security Testing (SAST) Tools: A Literature Review
 > 原文: [https://arxiv.org/abs/2609.01669](https://arxiv.org/abs/2609.01669)

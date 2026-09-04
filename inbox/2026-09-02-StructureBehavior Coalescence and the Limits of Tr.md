@@ -1,11 +1,12 @@
 ---
-title: "Structure-Behavior Coalescence and the Limits of Traditional Systems Theory"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.00042
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00042
 next_step: skim
+priority: low
+slack_ts: '1788494850.388879'
+source: cs.SE - Software Engineering
+status: unread
+title: Structure-Behavior Coalescence and the Limits of Traditional Systems Theory
 ---
 # Structure-Behavior Coalescence and the Limits of Traditional Systems Theory
 > 原文: [https://arxiv.org/abs/2609.00042](https://arxiv.org/abs/2609.00042)

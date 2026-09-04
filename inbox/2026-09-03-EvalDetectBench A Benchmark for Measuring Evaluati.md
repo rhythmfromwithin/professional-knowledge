@@ -1,11 +1,13 @@
 ---
-title: "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.01611
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01611
 next_step: skim
+priority: high
+slack_ts: '1788494853.814849'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier
+  Language Models'
 ---
 # EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models
 > 原文: [https://arxiv.org/abs/2609.01611](https://arxiv.org/abs/2609.01611)

@@ -1,11 +1,13 @@
 ---
-title: "Exploring Breathing-Music Coupling: Using the Breathing Mirror for Somatic Reflection in Piano Performance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.01974
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01974
 next_step: skim
+priority: low
+slack_ts: '1788494853.954019'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Exploring Breathing-Music Coupling: Using the Breathing Mirror for Somatic
+  Reflection in Piano Performance'
 ---
 # Exploring Breathing-Music Coupling: Using the Breathing Mirror for Somatic Reflection in Piano Performance
 > 原文: [https://arxiv.org/abs/2609.01974](https://arxiv.org/abs/2609.01974)

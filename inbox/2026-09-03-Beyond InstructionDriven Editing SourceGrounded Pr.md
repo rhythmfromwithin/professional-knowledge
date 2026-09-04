@@ -1,11 +1,13 @@
 ---
-title: "Beyond Instruction-Driven Editing: Source-Grounded Problem Discovery with User-Governed Repair for Scientific Posters"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.01813
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01813
 next_step: skim
+priority: low
+slack_ts: '1788494852.592349'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Beyond Instruction-Driven Editing: Source-Grounded Problem Discovery with
+  User-Governed Repair for Scientific Posters'
 ---
 # Beyond Instruction-Driven Editing: Source-Grounded Problem Discovery with User-Governed Repair for Scientific Posters
 > 原文: [https://arxiv.org/abs/2609.01813](https://arxiv.org/abs/2609.01813)

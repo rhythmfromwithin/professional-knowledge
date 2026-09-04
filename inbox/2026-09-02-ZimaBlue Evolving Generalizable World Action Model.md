@@ -1,11 +1,13 @@
 ---
-title: "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.00188
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00188
 next_step: skim
+priority: medium
+slack_ts: '1788494851.062189'
+source: cs.CV - Computer Vision
+status: unread
+title: 'ZimaBlue: Evolving Generalizable World Action Models through Scalable Video
+  Pre-training'
 ---
 # ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training
 > 原文: [https://arxiv.org/abs/2609.00188](https://arxiv.org/abs/2609.00188)

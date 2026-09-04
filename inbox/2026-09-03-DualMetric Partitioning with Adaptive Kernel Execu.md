@@ -1,11 +1,12 @@
 ---
-title: "Dual-Metric Partitioning with Adaptive Kernel Execution for Efficient GCN Acceleration"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.01983
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01983
 next_step: skim
+priority: low
+slack_ts: '1788494853.647029'
+source: cs.DB - Databases
+status: unread
+title: Dual-Metric Partitioning with Adaptive Kernel Execution for Efficient GCN Acceleration
 ---
 # Dual-Metric Partitioning with Adaptive Kernel Execution for Efficient GCN Acceleration
 > 原文: [https://arxiv.org/abs/2609.01983](https://arxiv.org/abs/2609.01983)

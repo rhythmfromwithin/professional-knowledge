@@ -1,11 +1,13 @@
 ---
-title: "SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial Speech Recognition"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.01737
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01737
 next_step: skim
+priority: high
+slack_ts: '1788494856.748599'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali
+  Financial Speech Recognition'
 ---
 # SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial Speech Recognition
 > 原文: [https://arxiv.org/abs/2609.01737](https://arxiv.org/abs/2609.01737)

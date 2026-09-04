@@ -1,11 +1,13 @@
 ---
-title: "FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.01683
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01683
 next_step: skim
+priority: medium
+slack_ts: '1788494854.133219'
+source: cs.CV - Computer Vision
+status: unread
+title: 'FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on
+  Microcontrollers'
 ---
 # FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers
 > 原文: [https://arxiv.org/abs/2609.01683](https://arxiv.org/abs/2609.01683)

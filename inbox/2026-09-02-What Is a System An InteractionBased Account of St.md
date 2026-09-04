@@ -1,11 +1,13 @@
 ---
-title: "What Is a System? An Interaction-Based Account of Structure-Behavior Coalescence in General Systems Theory"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.00043
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00043
 next_step: skim
+priority: low
+slack_ts: '1788494850.972899'
+source: cs.SE - Software Engineering
+status: unread
+title: What Is a System? An Interaction-Based Account of Structure-Behavior Coalescence
+  in General Systems Theory
 ---
 # What Is a System? An Interaction-Based Account of Structure-Behavior Coalescence in General Systems Theory
 > 原文: [https://arxiv.org/abs/2609.00043](https://arxiv.org/abs/2609.00043)

@@ -1,0 +1,14 @@
+---
+title: "Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2609.03028
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions
+> 原文: [https://arxiv.org/abs/2609.03028](https://arxiv.org/abs/2609.03028)
+
+arXiv:2609.03028v1 Announce Type: new
+Abstract: Coding agents often implement changes before users have fully articulated their requirements, echoing a pattern from requirements engineering: stakeholders cannot express a constraint until part of the system exists to react to. This volatility is associated with schedule and budget overruns in traditional projects, but only at release-cycle granularity. Existing work on coding agents narrows this gap only partway: curated benchmarks fix requirements before implementation by design, and observational studies report pushback frequency without linking arrivals to the code invalidation they cause. We address this using 3,553 eligible SWE-chat sessions, coding post-implementation requirement arrivals along three dimensions and, where repository state can be replayed, linking each arrival to a proxy: deletion or replacement of prior agent-authored lines. A requirement's arrival is followed by roughly twice as much invalidation as matched non-requirement edits, robust to user-turn and net-deletion checks, though not demonstrated as causal. This burden shows no detectable decline over a session and no detected association with operation type once multiplicity is accounted for; several intervals remain wide. A controlled experiment shows delayed disclosure relocates implementation post-reveal, while advance warning produces no detected effect on overwriting. These results establish late requirement emergence as a measurable source of code invalidation.

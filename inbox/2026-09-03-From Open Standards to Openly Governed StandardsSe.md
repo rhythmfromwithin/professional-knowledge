@@ -1,11 +1,13 @@
 ---
-title: "From Open Standards to Openly Governed: Standards-Setting Organizations as Stewards of Openness amid Platformization and Digital Sovereignty"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.01773
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01773
 next_step: skim
+priority: medium
+slack_ts: '1788494854.306829'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Open Standards to Openly Governed: Standards-Setting Organizations as
+  Stewards of Openness amid Platformization and Digital Sovereignty'
 ---
 # From Open Standards to Openly Governed: Standards-Setting Organizations as Stewards of Openness amid Platformization and Digital Sovereignty
 > 原文: [https://arxiv.org/abs/2609.01773](https://arxiv.org/abs/2609.01773)

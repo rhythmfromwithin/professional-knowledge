@@ -1,11 +1,13 @@
 ---
-title: "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/
 next_step: skim
+priority: high
+slack_ts: '1788494851.413259'
+source: AWS Blog
+status: unread
+title: Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region
+  inference
 ---
 # Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference
 > 原文: [https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/)

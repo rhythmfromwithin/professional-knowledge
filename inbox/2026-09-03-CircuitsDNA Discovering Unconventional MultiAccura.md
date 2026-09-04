@@ -1,11 +1,13 @@
 ---
-title: "CircuitsDNA: Discovering Unconventional Multi-Accuracy Arithmetic Circuits via Evolutionary Synthesis"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.01735
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01735
 next_step: skim
+priority: low
+slack_ts: '1788494853.005419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'CircuitsDNA: Discovering Unconventional Multi-Accuracy Arithmetic Circuits
+  via Evolutionary Synthesis'
 ---
 # CircuitsDNA: Discovering Unconventional Multi-Accuracy Arithmetic Circuits via Evolutionary Synthesis
 > 原文: [https://arxiv.org/abs/2609.01735](https://arxiv.org/abs/2609.01735)

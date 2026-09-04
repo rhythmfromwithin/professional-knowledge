@@ -1,0 +1,14 @@
+---
+title: "Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2609.03352
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming
+> 原文: [https://arxiv.org/abs/2609.03352](https://arxiv.org/abs/2609.03352)
+
+arXiv:2609.03352v1 Announce Type: new
+Abstract: Constant optimization refines the numerical coefficients of candidate expressions in tree-based genetic programming for symbolic regression. But its per-generation cost has led modern GPU-accelerated frameworks to omit it or restrict it to lightweight forms. We present a GPU-resident, batched Levenberg--Marquardt solver that optimizes constants across a structurally heterogeneous population of expression trees using a fixed number of population-wide CUDA launches per iteration. Reverse-mode automatic differentiation assembles the per-tree Jacobian in one backward sweep, making the dominant per-iteration cost independent of the number of constants per tree, and a double-precision delivery guard guarantees that returned constants are never worse than their initial values. On early-generation populations, the solver sustains up to $5.1{\times}10^{5}$ trees per second on an NVIDIA A100; at a GPU-saturated benchmark configuration it delivers roughly $9.9{\times}$ the throughput of Operon running on a 64-core EPYC 7763, while matching fp64-reference quality. Integrated in-process into EvoGP, the solver enables end-to-end search to recover governing equations on $10$ of $18$ constructed problems versus 0 for stock EvoGP. Our code is at https://github.com/TensorConv/CuSR.

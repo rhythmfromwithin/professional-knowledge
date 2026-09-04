@@ -1,11 +1,13 @@
 ---
-title: "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1788494850.793979'
+source: AWS Blog
+status: unread
+title: 'Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon
+  Bedrock'
 ---
 # Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/)

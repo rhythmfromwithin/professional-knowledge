@@ -1,11 +1,12 @@
 ---
-title: "Competitive Market Behavior of LLMs"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.02580
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02580
 next_step: skim
+priority: low
+slack_ts: '1788494853.154249'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Competitive Market Behavior of LLMs
 ---
 # Competitive Market Behavior of LLMs
 > 原文: [https://arxiv.org/abs/2609.02580](https://arxiv.org/abs/2609.02580)

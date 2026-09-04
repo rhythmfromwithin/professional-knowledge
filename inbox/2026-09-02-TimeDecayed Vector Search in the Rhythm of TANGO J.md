@@ -1,11 +1,13 @@
 ---
-title: "Time-Decayed Vector Search in the Rhythm of TANGO: Jointly Modeling Semantic Similarity and Temporal Freshness"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.00548
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00548
 next_step: skim
+priority: low
+slack_ts: '1788494850.708429'
+source: cs.DB - Databases
+status: unread
+title: 'Time-Decayed Vector Search in the Rhythm of TANGO: Jointly Modeling Semantic
+  Similarity and Temporal Freshness'
 ---
 # Time-Decayed Vector Search in the Rhythm of TANGO: Jointly Modeling Semantic Similarity and Temporal Freshness
 > 原文: [https://arxiv.org/abs/2609.00548](https://arxiv.org/abs/2609.00548)

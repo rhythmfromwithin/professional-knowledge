@@ -1,11 +1,12 @@
 ---
-title: "trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.00038
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00038
 next_step: skim
+priority: high
+slack_ts: '1788494851.136859'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories'
 ---
 # trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories
 > 原文: [https://arxiv.org/abs/2609.00038](https://arxiv.org/abs/2609.00038)

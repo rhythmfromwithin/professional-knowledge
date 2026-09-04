@@ -1,11 +1,12 @@
 ---
-title: "The Veto Variable: Human Override as a Goal-Independent Cost Term"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.00109
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00109
 next_step: skim
+priority: medium
+slack_ts: '1788494850.627949'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Veto Variable: Human Override as a Goal-Independent Cost Term'
 ---
 # The Veto Variable: Human Override as a Goal-Independent Cost Term
 > 原文: [https://arxiv.org/abs/2609.00109](https://arxiv.org/abs/2609.00109)

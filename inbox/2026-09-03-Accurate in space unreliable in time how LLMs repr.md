@@ -1,11 +1,13 @@
 ---
-title: "Accurate in space, unreliable in time: how LLMs represent national cultural change"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.01902
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01902
 next_step: skim
+priority: medium
+slack_ts: '1788494851.484929'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Accurate in space, unreliable in time: how LLMs represent national cultural
+  change'
 ---
 # Accurate in space, unreliable in time: how LLMs represent national cultural change
 > 原文: [https://arxiv.org/abs/2609.01902](https://arxiv.org/abs/2609.01902)

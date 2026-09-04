@@ -1,11 +1,13 @@
 ---
-title: "Sources of Truth: A Multi-Platform, Multilingual Audit of Citations in AI Mental Health Information Queries"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.00319
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00319
 next_step: skim
+priority: medium
+slack_ts: '1788494850.302979'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Sources of Truth: A Multi-Platform, Multilingual Audit of Citations in AI
+  Mental Health Information Queries'
 ---
 # Sources of Truth: A Multi-Platform, Multilingual Audit of Citations in AI Mental Health Information Queries
 > 原文: [https://arxiv.org/abs/2609.00319](https://arxiv.org/abs/2609.00319)

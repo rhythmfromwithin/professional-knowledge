@@ -1,11 +1,13 @@
 ---
-title: "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.00111
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00111
 next_step: skim
+priority: medium
+slack_ts: '1788494849.750849'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model
+  for Autonomous Driving'
 ---
 # Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
 > 原文: [https://arxiv.org/abs/2609.00111](https://arxiv.org/abs/2609.00111)

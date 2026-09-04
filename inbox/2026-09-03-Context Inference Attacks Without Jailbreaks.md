@@ -1,11 +1,12 @@
 ---
-title: "Context Inference Attacks Without Jailbreaks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.01663
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01663
 next_step: skim
+priority: low
+slack_ts: '1788494853.381069'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Context Inference Attacks Without Jailbreaks
 ---
 # Context Inference Attacks Without Jailbreaks
 > 原文: [https://arxiv.org/abs/2609.01663](https://arxiv.org/abs/2609.01663)

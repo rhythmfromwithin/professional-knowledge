@@ -1,11 +1,12 @@
 ---
-title: "How an AWS team detects dashboard content failures at scale using Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1788494854.877359'
+source: AWS Blog
+status: unread
+title: How an AWS team detects dashboard content failures at scale using Amazon Bedrock
 ---
 # How an AWS team detects dashboard content failures at scale using Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/)

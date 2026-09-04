@@ -1,11 +1,12 @@
 ---
-title: "HyperMC: Multi-Fidelity Hyperparameter Tuning for Stochastic Gradient MCMC"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.02138
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02138
 next_step: skim
+priority: medium
+slack_ts: '1788494855.142199'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'HyperMC: Multi-Fidelity Hyperparameter Tuning for Stochastic Gradient MCMC'
 ---
 # HyperMC: Multi-Fidelity Hyperparameter Tuning for Stochastic Gradient MCMC
 > 原文: [https://arxiv.org/abs/2609.02138](https://arxiv.org/abs/2609.02138)

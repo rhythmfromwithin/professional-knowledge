@@ -1,11 +1,12 @@
 ---
-title: "Designing Versatile Samples for Learned Trajectory Scoring"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.01799
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01799
 next_step: skim
+priority: medium
+slack_ts: '1788494853.458179'
+source: cs.RO - Robotics
+status: unread
+title: Designing Versatile Samples for Learned Trajectory Scoring
 ---
 # Designing Versatile Samples for Learned Trajectory Scoring
 > 原文: [https://arxiv.org/abs/2609.01799](https://arxiv.org/abs/2609.01799)

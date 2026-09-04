@@ -1,11 +1,12 @@
 ---
-title: "REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.00049
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.00049
 next_step: skim
+priority: high
+slack_ts: '1788494849.858429'
+source: cs.LG - Machine Learning
+status: unread
+title: 'REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent'
 ---
 # REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent
 > 原文: [https://arxiv.org/abs/2609.00049](https://arxiv.org/abs/2609.00049)

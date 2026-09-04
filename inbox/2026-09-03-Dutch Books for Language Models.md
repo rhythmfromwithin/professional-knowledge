@@ -1,11 +1,12 @@
 ---
-title: "Dutch Books for Language Models"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.02797
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02797
 next_step: skim
+priority: low
+slack_ts: '1788494853.734509'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Dutch Books for Language Models
 ---
 # Dutch Books for Language Models
 > 原文: [https://arxiv.org/abs/2609.02797](https://arxiv.org/abs/2609.02797)

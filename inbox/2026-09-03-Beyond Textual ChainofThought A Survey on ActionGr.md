@@ -1,11 +1,13 @@
 ---
-title: "Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in Autonomous Driving"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.01659
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01659
 next_step: skim
+priority: medium
+slack_ts: '1788494852.672179'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in
+  Autonomous Driving'
 ---
 # Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in Autonomous Driving
 > 原文: [https://arxiv.org/abs/2609.01659](https://arxiv.org/abs/2609.01659)
