@@ -1,11 +1,13 @@
 ---
-title: "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.04195
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04195
 next_step: skim
+priority: low
+slack_ts: '1788581041.394649'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Axonal delay dispersion decides whether a neuron detects an event or a sequence,
+  and predicts cortical column diameter
 ---
 # Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter
 > 原文: [https://arxiv.org/abs/2609.04195](https://arxiv.org/abs/2609.04195)

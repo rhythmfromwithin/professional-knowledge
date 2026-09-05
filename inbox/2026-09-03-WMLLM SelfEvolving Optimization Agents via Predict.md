@@ -1,11 +1,12 @@
 ---
-title: "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.01608
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01608
 next_step: skim
+priority: high
+slack_ts: '1788581039.066669'
+source: cs.LG - Machine Learning
+status: unread
+title: 'WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling'
 ---
 # WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling
 > 原文: [https://arxiv.org/abs/2609.01608](https://arxiv.org/abs/2609.01608)

@@ -1,11 +1,13 @@
 ---
-title: "Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.01662
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01662
 next_step: skim
+priority: medium
+slack_ts: '1788581035.230449'
+source: cs.RO - Robotics
+status: unread
+title: 'Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View
+  Fusion for Typed Action Admission in Human-Robot Collaboration'
 ---
 # Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration
 > 原文: [https://arxiv.org/abs/2609.01662](https://arxiv.org/abs/2609.01662)

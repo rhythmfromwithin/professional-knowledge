@@ -1,11 +1,13 @@
 ---
-title: "IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity Verification Systems [Extended Technical Report]"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.03052
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03052
 next_step: skim
+priority: medium
+slack_ts: '1788581045.097899'
+source: cs.CV - Computer Vision
+status: unread
+title: 'IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity
+  Verification Systems [Extended Technical Report]'
 ---
 # IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity Verification Systems [Extended Technical Report]
 > 原文: [https://arxiv.org/abs/2609.03052](https://arxiv.org/abs/2609.03052)

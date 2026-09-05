@@ -1,11 +1,12 @@
 ---
-title: "Zeta-Lite: A Concurrent, Branchable In-Browser SQL Database for Agentic Memory"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.01818
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01818
 next_step: skim
+priority: low
+slack_ts: '1788581039.378309'
+source: cs.DB - Databases
+status: unread
+title: 'Zeta-Lite: A Concurrent, Branchable In-Browser SQL Database for Agentic Memory'
 ---
 # Zeta-Lite: A Concurrent, Branchable In-Browser SQL Database for Agentic Memory
 > 原文: [https://arxiv.org/abs/2609.01818](https://arxiv.org/abs/2609.01818)

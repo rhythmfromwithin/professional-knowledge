@@ -1,11 +1,12 @@
 ---
-title: "Pooling and Drift in Delayed Bandits"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.01761
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01761
 next_step: skim
+priority: medium
+slack_ts: '1788581036.432099'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Pooling and Drift in Delayed Bandits
 ---
 # Pooling and Drift in Delayed Bandits
 > 原文: [https://arxiv.org/abs/2609.01761](https://arxiv.org/abs/2609.01761)

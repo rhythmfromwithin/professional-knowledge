@@ -1,11 +1,12 @@
 ---
-title: "Privacy Washing: Detecting Internal Contradictions in Privacy Policies"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.02055
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02055
 next_step: skim
+priority: medium
+slack_ts: '1788581036.814739'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Privacy Washing: Detecting Internal Contradictions in Privacy Policies'
 ---
 # Privacy Washing: Detecting Internal Contradictions in Privacy Policies
 > 原文: [https://arxiv.org/abs/2609.02055](https://arxiv.org/abs/2609.02055)

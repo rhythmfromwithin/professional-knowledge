@@ -1,11 +1,13 @@
 ---
-title: "Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.01615
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01615
 next_step: skim
+priority: high
+slack_ts: '1788581037.404089'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative
+  Result'
 ---
 # Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result
 > 原文: [https://arxiv.org/abs/2609.01615](https://arxiv.org/abs/2609.01615)

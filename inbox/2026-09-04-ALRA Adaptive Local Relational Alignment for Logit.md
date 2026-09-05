@@ -1,11 +1,13 @@
 ---
-title: "ALRA: Adaptive Local Relational Alignment for Logit-Based Pre-training Distillation of Autoregressive Language Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.03355
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03355
 next_step: skim
+priority: medium
+slack_ts: '1788581040.161589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ALRA: Adaptive Local Relational Alignment for Logit-Based Pre-training Distillation
+  of Autoregressive Language Models'
 ---
 # ALRA: Adaptive Local Relational Alignment for Logit-Based Pre-training Distillation of Autoregressive Language Models
 > 原文: [https://arxiv.org/abs/2609.03355](https://arxiv.org/abs/2609.03355)

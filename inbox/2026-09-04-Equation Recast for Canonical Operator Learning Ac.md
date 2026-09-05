@@ -1,11 +1,12 @@
 ---
-title: "Equation Recast for Canonical Operator Learning Across Parametric PDEs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.02982
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02982
 next_step: skim
+priority: high
+slack_ts: '1788581043.282779'
+source: cs.LG - Machine Learning
+status: unread
+title: Equation Recast for Canonical Operator Learning Across Parametric PDEs
 ---
 # Equation Recast for Canonical Operator Learning Across Parametric PDEs
 > 原文: [https://arxiv.org/abs/2609.02982](https://arxiv.org/abs/2609.02982)

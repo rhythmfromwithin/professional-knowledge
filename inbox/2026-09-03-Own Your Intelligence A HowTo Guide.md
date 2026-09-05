@@ -1,11 +1,12 @@
 ---
-title: "Own Your Intelligence: A How-To Guide"
-source: "Sequoia Capital"
-link: https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide
-priority: high
-status: unread
 interest: medium
+link: https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide
 next_step: skim
+priority: high
+slack_ts: '1788581035.379199'
+source: Sequoia Capital
+status: unread
+title: 'Own Your Intelligence: A How-To Guide'
 ---
 # Own Your Intelligence: A How-To Guide
 > 原文: [https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide](https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide)

@@ -1,11 +1,13 @@
 ---
-title: "Ranked by the Matcher: A Reproducibility Audit of Knowledge Graph Extraction from Threat Reports"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.01671
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01671
 next_step: skim
+priority: low
+slack_ts: '1788581037.709599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Ranked by the Matcher: A Reproducibility Audit of Knowledge Graph Extraction
+  from Threat Reports'
 ---
 # Ranked by the Matcher: A Reproducibility Audit of Knowledge Graph Extraction from Threat Reports
 > 原文: [https://arxiv.org/abs/2609.01671](https://arxiv.org/abs/2609.01671)

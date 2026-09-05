@@ -1,11 +1,13 @@
 ---
-title: "Does SRL Pave the Road to Explainable Reasoning? Lessons Learned from an Implementer's Perspective"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.03441
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03441
 next_step: skim
+priority: low
+slack_ts: '1788581042.944649'
+source: cs.DB - Databases
+status: unread
+title: Does SRL Pave the Road to Explainable Reasoning? Lessons Learned from an Implementer's
+  Perspective
 ---
 # Does SRL Pave the Road to Explainable Reasoning? Lessons Learned from an Implementer's Perspective
 > 原文: [https://arxiv.org/abs/2609.03441](https://arxiv.org/abs/2609.03441)

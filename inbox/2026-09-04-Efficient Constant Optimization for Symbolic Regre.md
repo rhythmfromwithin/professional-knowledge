@@ -1,11 +1,13 @@
 ---
-title: "Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.03352
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03352
 next_step: skim
+priority: low
+slack_ts: '1788581043.117759'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated
+  Tree-Based Genetic Programming
 ---
 # Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming
 > 原文: [https://arxiv.org/abs/2609.03352](https://arxiv.org/abs/2609.03352)

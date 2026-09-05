@@ -1,11 +1,13 @@
 ---
-title: "Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.02243
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02243
 next_step: skim
+priority: low
+slack_ts: '1788581035.080009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating
+  Neural Dynamics, Biomechanics, and Tactile Sensing'
 ---
 # Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing
 > 原文: [https://arxiv.org/abs/2609.02243](https://arxiv.org/abs/2609.02243)

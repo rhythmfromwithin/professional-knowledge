@@ -1,11 +1,13 @@
 ---
-title: "Exemplar: Classical Priors Complement Frozen Features for Few-Shot Microscopy Segmentation at Native Resolution"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.03080
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03080
 next_step: skim
+priority: medium
+slack_ts: '1788581043.425159'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Exemplar: Classical Priors Complement Frozen Features for Few-Shot Microscopy
+  Segmentation at Native Resolution'
 ---
 # Exemplar: Classical Priors Complement Frozen Features for Few-Shot Microscopy Segmentation at Native Resolution
 > 原文: [https://arxiv.org/abs/2609.03080](https://arxiv.org/abs/2609.03080)

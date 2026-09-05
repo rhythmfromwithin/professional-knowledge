@@ -1,11 +1,13 @@
 ---
-title: "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.01741
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01741
 next_step: skim
+priority: high
+slack_ts: '1788581039.211119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted
+  Legal Logic
 ---
 # When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic
 > 原文: [https://arxiv.org/abs/2609.01741](https://arxiv.org/abs/2609.01741)

@@ -1,11 +1,13 @@
 ---
-title: "Posterior Tempering Explains Variance Inflation in Linear and Generalized Linear Thompson Sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.01999
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01999
 next_step: skim
+priority: medium
+slack_ts: '1788581036.637569'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Posterior Tempering Explains Variance Inflation in Linear and Generalized Linear
+  Thompson Sampling
 ---
 # Posterior Tempering Explains Variance Inflation in Linear and Generalized Linear Thompson Sampling
 > 原文: [https://arxiv.org/abs/2609.01999](https://arxiv.org/abs/2609.01999)

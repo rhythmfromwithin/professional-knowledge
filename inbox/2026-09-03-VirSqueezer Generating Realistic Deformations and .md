@@ -1,11 +1,13 @@
 ---
-title: "VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR from Fine-Grained Squeezing Controls"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.01698
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01698
 next_step: skim
+priority: low
+slack_ts: '1788581038.909669'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR
+  from Fine-Grained Squeezing Controls'
 ---
 # VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR from Fine-Grained Squeezing Controls
 > 原文: [https://arxiv.org/abs/2609.01698](https://arxiv.org/abs/2609.01698)

@@ -1,11 +1,13 @@
 ---
-title: "Private Computation Space: Experience with Trusted Multi-Cluster Federated Learning for Agriculture"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.01667
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01667
 next_step: skim
+priority: low
+slack_ts: '1788581036.964759'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Private Computation Space: Experience with Trusted Multi-Cluster Federated
+  Learning for Agriculture'
 ---
 # Private Computation Space: Experience with Trusted Multi-Cluster Federated Learning for Agriculture
 > 原文: [https://arxiv.org/abs/2609.01667](https://arxiv.org/abs/2609.01667)

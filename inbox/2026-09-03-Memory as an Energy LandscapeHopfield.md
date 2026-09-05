@@ -1,5 +1,6 @@
 ---
-title: "Memory as an Energy Landscape---Hopfield"
+slack_ts: '1788581034.430189'
+---Hopfield"
 source: "cs.NE - Neural and Evolutionary Computing"
 link: https://arxiv.org/abs/2609.02195
 priority: low

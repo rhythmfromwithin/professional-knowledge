@@ -1,11 +1,13 @@
 ---
-title: "A Closed-Form Formula for Consistent Lipschitz Regression on Metric Spaces with Sparse Neural Network Realizations"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.03129
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03129
 next_step: skim
+priority: medium
+slack_ts: '1788581039.561979'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Closed-Form Formula for Consistent Lipschitz Regression on Metric Spaces
+  with Sparse Neural Network Realizations
 ---
 # A Closed-Form Formula for Consistent Lipschitz Regression on Metric Spaces with Sparse Neural Network Realizations
 > 原文: [https://arxiv.org/abs/2609.03129](https://arxiv.org/abs/2609.03129)

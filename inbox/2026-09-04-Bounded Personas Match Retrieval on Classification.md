@@ -1,11 +1,13 @@
 ---
-title: "Bounded Personas Match Retrieval on Classification but Not Regression for a Frozen Agent"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.02890
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02890
 next_step: skim
+priority: high
+slack_ts: '1788581041.541159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Bounded Personas Match Retrieval on Classification but Not Regression for a
+  Frozen Agent
 ---
 # Bounded Personas Match Retrieval on Classification but Not Regression for a Frozen Agent
 > 原文: [https://arxiv.org/abs/2609.02890](https://arxiv.org/abs/2609.02890)

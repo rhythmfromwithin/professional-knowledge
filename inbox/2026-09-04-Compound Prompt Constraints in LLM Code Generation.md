@@ -1,11 +1,13 @@
 ---
-title: "Compound Prompt Constraints in LLM Code Generation: A Factorial Study of Format, Persona, and Urgency"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.03156
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03156
 next_step: skim
+priority: low
+slack_ts: '1788581042.176079'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Compound Prompt Constraints in LLM Code Generation: A Factorial Study of Format,
+  Persona, and Urgency'
 ---
 # Compound Prompt Constraints in LLM Code Generation: A Factorial Study of Format, Persona, and Urgency
 > 原文: [https://arxiv.org/abs/2609.03156](https://arxiv.org/abs/2609.03156)

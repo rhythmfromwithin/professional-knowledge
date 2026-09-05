@@ -1,11 +1,13 @@
 ---
-title: "RosettaBitcoin: An Artifact-Backed Experience Report on Verification Infrastructure for Agent-Assisted Consensus Validators"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.01702
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01702
 next_step: skim
+priority: low
+slack_ts: '1788581037.987039'
+source: cs.SE - Software Engineering
+status: unread
+title: 'RosettaBitcoin: An Artifact-Backed Experience Report on Verification Infrastructure
+  for Agent-Assisted Consensus Validators'
 ---
 # RosettaBitcoin: An Artifact-Backed Experience Report on Verification Infrastructure for Agent-Assisted Consensus Validators
 > 原文: [https://arxiv.org/abs/2609.01702](https://arxiv.org/abs/2609.01702)

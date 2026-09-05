@@ -1,11 +1,12 @@
 ---
-title: "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.01658
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01658
 next_step: skim
+priority: high
+slack_ts: '1788581035.527929'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation'
 ---
 # PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2609.01658](https://arxiv.org/abs/2609.01658)

@@ -1,11 +1,13 @@
 ---
-title: "TriSAR: Task Coordination and Collision Avoidance for Aerial Robot Teams in Disaster Response"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.01731
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01731
 next_step: skim
+priority: medium
+slack_ts: '1788581038.614929'
+source: cs.RO - Robotics
+status: unread
+title: 'TriSAR: Task Coordination and Collision Avoidance for Aerial Robot Teams in
+  Disaster Response'
 ---
 # TriSAR: Task Coordination and Collision Avoidance for Aerial Robot Teams in Disaster Response
 > 原文: [https://arxiv.org/abs/2609.01731](https://arxiv.org/abs/2609.01731)

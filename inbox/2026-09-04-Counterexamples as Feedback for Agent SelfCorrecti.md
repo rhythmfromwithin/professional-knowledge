@@ -1,11 +1,12 @@
 ---
-title: "Counterexamples as Feedback for Agent Self-Correction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.02892
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02892
 next_step: skim
+priority: high
+slack_ts: '1788581042.482149'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Counterexamples as Feedback for Agent Self-Correction
 ---
 # Counterexamples as Feedback for Agent Self-Correction
 > 原文: [https://arxiv.org/abs/2609.02892](https://arxiv.org/abs/2609.02892)

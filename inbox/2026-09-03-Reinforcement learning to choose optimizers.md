@@ -1,11 +1,12 @@
 ---
-title: "Reinforcement learning to choose optimizers"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.01811
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01811
 next_step: skim
+priority: low
+slack_ts: '1788581037.851119'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Reinforcement learning to choose optimizers
 ---
 # Reinforcement learning to choose optimizers
 > 原文: [https://arxiv.org/abs/2609.01811](https://arxiv.org/abs/2609.01811)

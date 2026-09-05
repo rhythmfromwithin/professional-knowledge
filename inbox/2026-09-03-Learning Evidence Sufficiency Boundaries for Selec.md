@@ -1,11 +1,13 @@
 ---
-title: "Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.01687
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01687
 next_step: skim
+priority: high
+slack_ts: '1788581034.093909'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded
+  Multi-Hop QA
 ---
 # Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA
 > 原文: [https://arxiv.org/abs/2609.01687](https://arxiv.org/abs/2609.01687)

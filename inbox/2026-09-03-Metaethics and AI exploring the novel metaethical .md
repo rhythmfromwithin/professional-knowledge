@@ -1,11 +1,13 @@
 ---
-title: "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.01685
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.01685
 next_step: skim
+priority: high
+slack_ts: '1788581034.746029'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Meta-ethics and AI: exploring the novel meta-ethical questions in the era
+  of AI'
 ---
 # Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI
 > 原文: [https://arxiv.org/abs/2609.01685](https://arxiv.org/abs/2609.01685)
