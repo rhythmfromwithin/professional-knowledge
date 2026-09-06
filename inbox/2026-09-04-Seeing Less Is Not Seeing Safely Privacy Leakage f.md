@@ -1,11 +1,13 @@
 ---
-title: "Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.03055
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03055
 next_step: skim
+priority: medium
+slack_ts: '1788667878.270249'
+source: cs.RO - Robotics
+status: unread
+title: 'Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception
+  Exports'
 ---
 # Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports
 > 原文: [https://arxiv.org/abs/2609.03055](https://arxiv.org/abs/2609.03055)

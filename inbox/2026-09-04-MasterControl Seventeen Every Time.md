@@ -1,11 +1,12 @@
 ---
-title: "MasterControl Seventeen Every Time"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.03209
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03209
 next_step: skim
+priority: high
+slack_ts: '1788667874.790409'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: MasterControl Seventeen Every Time
 ---
 # MasterControl Seventeen Every Time
 > 原文: [https://arxiv.org/abs/2609.03209](https://arxiv.org/abs/2609.03209)

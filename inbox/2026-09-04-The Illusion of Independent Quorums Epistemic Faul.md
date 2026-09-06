@@ -1,11 +1,13 @@
 ---
-title: "The Illusion of Independent Quorums: Epistemic Fault Domains and Correlated Cognitive Failures in Agentic Quorums"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.02925
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02925
 next_step: skim
+priority: medium
+slack_ts: '1788667879.711419'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Illusion of Independent Quorums: Epistemic Fault Domains and Correlated
+  Cognitive Failures in Agentic Quorums'
 ---
 # The Illusion of Independent Quorums: Epistemic Fault Domains and Correlated Cognitive Failures in Agentic Quorums
 > 原文: [https://arxiv.org/abs/2609.02925](https://arxiv.org/abs/2609.02925)

@@ -1,0 +1,14 @@
+---
+interest: medium
+link: https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide
+next_step: skim
+priority: high
+slack_ts: '1788667892.598329'
+source: Sequoia Capital
+status: unread
+title: 'Own Your Intelligence: A How-To Guide'
+---
+# Own Your Intelligence: A How-To Guide
+> 原文: [https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide](https://www.sequoiacap.com/article/own-your-intelligence-a-how-to-guide)
+
+The race for the AI application layer is not only about UI, workflows, or GTM... it is a fight for the intelligence layer itself.

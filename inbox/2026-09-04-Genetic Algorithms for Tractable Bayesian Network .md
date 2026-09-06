@@ -1,11 +1,13 @@
 ---
-title: "Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge Pruning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.03724
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03724
 next_step: skim
+priority: low
+slack_ts: '1788667871.086509'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge
+  Pruning
 ---
 # Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge Pruning
 > 原文: [https://arxiv.org/abs/2609.03724](https://arxiv.org/abs/2609.03724)

@@ -1,11 +1,12 @@
 ---
-title: "Occupancy-based Quantile Risk Control"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.03104
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03104
 next_step: skim
+priority: medium
+slack_ts: '1788667875.554429'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Occupancy-based Quantile Risk Control
 ---
 # Occupancy-based Quantile Risk Control
 > 原文: [https://arxiv.org/abs/2609.03104](https://arxiv.org/abs/2609.03104)

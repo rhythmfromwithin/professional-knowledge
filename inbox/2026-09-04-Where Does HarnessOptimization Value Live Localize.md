@@ -1,11 +1,13 @@
 ---
-title: "Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.02889
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02889
 next_step: skim
+priority: high
+slack_ts: '1788667880.466459'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting
+  Trap in Self-Evolving LLM Agents
 ---
 # Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents
 > 原文: [https://arxiv.org/abs/2609.02889](https://arxiv.org/abs/2609.02889)

@@ -1,11 +1,12 @@
 ---
-title: "From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.02984
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02984
 next_step: skim
+priority: high
+slack_ts: '1788667870.446239'
+source: cs.LG - Machine Learning
+status: unread
+title: 'From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning'
 ---
 # From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning
 > 原文: [https://arxiv.org/abs/2609.02984](https://arxiv.org/abs/2609.02984)

@@ -1,11 +1,12 @@
 ---
-title: "Position: Unlabeled IS NOT Equal to No Human Supervision in Visual Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.03077
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03077
 next_step: skim
+priority: medium
+slack_ts: '1788667876.554149'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Position: Unlabeled IS NOT Equal to No Human Supervision in Visual Learning'
 ---
 # Position: Unlabeled IS NOT Equal to No Human Supervision in Visual Learning
 > 原文: [https://arxiv.org/abs/2609.03077](https://arxiv.org/abs/2609.03077)

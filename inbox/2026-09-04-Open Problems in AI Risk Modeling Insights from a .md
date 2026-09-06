@@ -1,11 +1,13 @@
 ---
-title: "Open Problems in AI Risk Modeling: Insights from a Workshop on the Technical Foundations of AI Risk Modeling"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.03178
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03178
 next_step: skim
+priority: medium
+slack_ts: '1788667875.751189'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Open Problems in AI Risk Modeling: Insights from a Workshop on the Technical
+  Foundations of AI Risk Modeling'
 ---
 # Open Problems in AI Risk Modeling: Insights from a Workshop on the Technical Foundations of AI Risk Modeling
 > 原文: [https://arxiv.org/abs/2609.03178](https://arxiv.org/abs/2609.03178)

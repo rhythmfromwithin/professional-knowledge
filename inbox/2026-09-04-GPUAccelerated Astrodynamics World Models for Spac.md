@@ -1,11 +1,13 @@
 ---
-title: "GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.03067
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03067
 next_step: skim
+priority: medium
+slack_ts: '1788667870.889189'
+source: cs.RO - Robotics
+status: unread
+title: GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity
+  Operations
 ---
 # GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations
 > 原文: [https://arxiv.org/abs/2609.03067](https://arxiv.org/abs/2609.03067)

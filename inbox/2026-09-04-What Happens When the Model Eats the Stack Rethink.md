@@ -1,11 +1,13 @@
 ---
-title: "What Happens When the Model Eats the Stack? Rethinking the Research Agenda for Data Agents to Withstand the Bitter Lesson"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.03141
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03141
 next_step: skim
+priority: low
+slack_ts: '1788667880.268969'
+source: cs.DB - Databases
+status: unread
+title: What Happens When the Model Eats the Stack? Rethinking the Research Agenda
+  for Data Agents to Withstand the Bitter Lesson
 ---
 # What Happens When the Model Eats the Stack? Rethinking the Research Agenda for Data Agents to Withstand the Bitter Lesson
 > 原文: [https://arxiv.org/abs/2609.03141](https://arxiv.org/abs/2609.03141)

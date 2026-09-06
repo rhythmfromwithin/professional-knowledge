@@ -1,11 +1,12 @@
 ---
-title: "How firms export: product assignment, export platforms, and hybrid firms"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2606.18684
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.18684
 next_step: skim
+priority: low
+slack_ts: '1788667872.035539'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'How firms export: product assignment, export platforms, and hybrid firms'
 ---
 # How firms export: product assignment, export platforms, and hybrid firms
 > 原文: [https://arxiv.org/abs/2606.18684](https://arxiv.org/abs/2606.18684)

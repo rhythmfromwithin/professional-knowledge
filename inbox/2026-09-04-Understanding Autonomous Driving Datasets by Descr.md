@@ -1,11 +1,13 @@
 ---
-title: "Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.03677
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03677
 next_step: skim
+priority: low
+slack_ts: '1788667880.073209'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Understanding Autonomous Driving Datasets by Describing Differences between
+  Image Subsets in Natural Language
 ---
 # Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language
 > 原文: [https://arxiv.org/abs/2609.03677](https://arxiv.org/abs/2609.03677)

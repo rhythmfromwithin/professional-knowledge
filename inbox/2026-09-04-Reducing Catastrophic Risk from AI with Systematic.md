@@ -1,11 +1,13 @@
 ---
-title: "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.03189
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03189
 next_step: skim
+priority: medium
+slack_ts: '1788667877.724749'
+source: cs.CY - Computers and Society
+status: unread
+title: Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation
+  of Rogue AI Progression
 ---
 # Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression
 > 原文: [https://arxiv.org/abs/2609.03189](https://arxiv.org/abs/2609.03189)

@@ -1,11 +1,13 @@
 ---
-title: "Skywing: A Platform for Decentralized Mathematical Computing in Unreliable Environments"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.03145
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03145
 next_step: skim
+priority: medium
+slack_ts: '1788667878.620729'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Skywing: A Platform for Decentralized Mathematical Computing in Unreliable
+  Environments'
 ---
 # Skywing: A Platform for Decentralized Mathematical Computing in Unreliable Environments
 > 原文: [https://arxiv.org/abs/2609.03145](https://arxiv.org/abs/2609.03145)

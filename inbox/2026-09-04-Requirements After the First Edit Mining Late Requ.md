@@ -1,11 +1,13 @@
 ---
-title: "Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.03028
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03028
 next_step: skim
+priority: low
+slack_ts: '1788667877.889249'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Requirements After the First Edit: Mining Late Requirement Emergence and Rework
+  in Real-World Coding-Agent Sessions'
 ---
 # Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions
 > 原文: [https://arxiv.org/abs/2609.03028](https://arxiv.org/abs/2609.03028)

@@ -1,11 +1,12 @@
 ---
-title: "High-Order Triadic Functional Connectivity in the Brain and Beyond"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.03987
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03987
 next_step: skim
+priority: low
+slack_ts: '1788667871.613149'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: High-Order Triadic Functional Connectivity in the Brain and Beyond
 ---
 # High-Order Triadic Functional Connectivity in the Brain and Beyond
 > 原文: [https://arxiv.org/abs/2609.03987](https://arxiv.org/abs/2609.03987)

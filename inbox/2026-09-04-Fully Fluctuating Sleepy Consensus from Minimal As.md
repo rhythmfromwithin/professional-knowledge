@@ -1,11 +1,12 @@
 ---
-title: "Fully Fluctuating Sleepy Consensus from Minimal Assumptions"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.03063
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03063
 next_step: skim
+priority: medium
+slack_ts: '1788667870.665769'
+source: cs.DC - Distributed Computing
+status: unread
+title: Fully Fluctuating Sleepy Consensus from Minimal Assumptions
 ---
 # Fully Fluctuating Sleepy Consensus from Minimal Assumptions
 > 原文: [https://arxiv.org/abs/2609.03063](https://arxiv.org/abs/2609.03063)

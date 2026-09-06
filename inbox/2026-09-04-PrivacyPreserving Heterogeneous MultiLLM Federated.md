@@ -1,11 +1,13 @@
 ---
-title: "Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.02947
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02947
 next_step: skim
+priority: low
+slack_ts: '1788667876.975429'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive
+  Diagnosis
 ---
 # Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis
 > 原文: [https://arxiv.org/abs/2609.02947](https://arxiv.org/abs/2609.02947)

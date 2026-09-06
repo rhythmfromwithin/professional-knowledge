@@ -1,11 +1,13 @@
 ---
-title: "PrivateHub: Contrastive Diffusion Model for Private Sensor-Intensive Environment Data Generation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.02958
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02958
 next_step: skim
+priority: low
+slack_ts: '1788667877.190829'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'PrivateHub: Contrastive Diffusion Model for Private Sensor-Intensive Environment
+  Data Generation'
 ---
 # PrivateHub: Contrastive Diffusion Model for Private Sensor-Intensive Environment Data Generation
 > 原文: [https://arxiv.org/abs/2609.02958](https://arxiv.org/abs/2609.02958)

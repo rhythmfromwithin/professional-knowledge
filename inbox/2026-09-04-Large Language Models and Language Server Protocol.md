@@ -1,11 +1,12 @@
 ---
-title: "Large Language Models and Language Server Protocol: a match made in context"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.03086
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03086
 next_step: skim
+priority: low
+slack_ts: '1788667873.181299'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Large Language Models and Language Server Protocol: a match made in context'
 ---
 # Large Language Models and Language Server Protocol: a match made in context
 > 原文: [https://arxiv.org/abs/2609.03086](https://arxiv.org/abs/2609.03086)

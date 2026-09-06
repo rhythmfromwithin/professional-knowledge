@@ -1,11 +1,12 @@
 ---
-title: "Speculative Macro Commit for Faster Tool-Using Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.03236
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03236
 next_step: skim
+priority: high
+slack_ts: '1788667878.799339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Speculative Macro Commit for Faster Tool-Using Agents
 ---
 # Speculative Macro Commit for Faster Tool-Using Agents
 > 原文: [https://arxiv.org/abs/2609.03236](https://arxiv.org/abs/2609.03236)

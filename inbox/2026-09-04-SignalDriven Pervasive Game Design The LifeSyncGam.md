@@ -1,11 +1,13 @@
 ---
-title: "Signal-Driven Pervasive Game Design: The LifeSync-Games Framework as a Player Experience Integration Layer"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.03169
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03169
 next_step: skim
+priority: low
+slack_ts: '1788667878.450779'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Signal-Driven Pervasive Game Design: The LifeSync-Games Framework as a Player
+  Experience Integration Layer'
 ---
 # Signal-Driven Pervasive Game Design: The LifeSync-Games Framework as a Player Experience Integration Layer
 > 原文: [https://arxiv.org/abs/2609.03169](https://arxiv.org/abs/2609.03169)

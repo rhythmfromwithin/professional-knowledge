@@ -1,11 +1,12 @@
 ---
-title: "Practical Threshold-based Tree Edit Distance Lower-Bounds"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.03078
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03078
 next_step: skim
+priority: low
+slack_ts: '1788667876.773849'
+source: cs.DB - Databases
+status: unread
+title: Practical Threshold-based Tree Edit Distance Lower-Bounds
 ---
 # Practical Threshold-based Tree Edit Distance Lower-Bounds
 > 原文: [https://arxiv.org/abs/2609.03078](https://arxiv.org/abs/2609.03078)

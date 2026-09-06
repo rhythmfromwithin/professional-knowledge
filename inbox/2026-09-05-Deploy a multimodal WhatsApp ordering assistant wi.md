@@ -1,11 +1,12 @@
 ---
-title: "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1788667882.901689'
+source: AWS Blog
+status: unread
+title: Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore
 ---
 # Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)

@@ -1,11 +1,12 @@
 ---
-title: "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.02959
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02959
 next_step: skim
+priority: high
+slack_ts: '1788667879.482969'
+source: cs.LG - Machine Learning
+status: unread
+title: 'The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors'
 ---
 # The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors
 > 原文: [https://arxiv.org/abs/2609.02959](https://arxiv.org/abs/2609.02959)

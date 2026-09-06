@@ -1,11 +1,13 @@
 ---
-title: "Point&Spawn: Mid-Air Reference-Free Object Instantiation Using Gaze and Hand Gestures in Extended Reality"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.03661
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.03661
 next_step: skim
+priority: low
+slack_ts: '1788667876.368649'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Point&Spawn: Mid-Air Reference-Free Object Instantiation Using Gaze and Hand
+  Gestures in Extended Reality'
 ---
 # Point&Spawn: Mid-Air Reference-Free Object Instantiation Using Gaze and Hand Gestures in Extended Reality
 > 原文: [https://arxiv.org/abs/2609.03661](https://arxiv.org/abs/2609.03661)

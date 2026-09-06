@@ -1,11 +1,13 @@
 ---
-title: "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.02981
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.02981
 next_step: skim
+priority: high
+slack_ts: '1788667878.999659'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Structure and Implementation of New Practical English Textbooks Driven by Artificial
+  Intelligence
 ---
 # Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence
 > 原文: [https://arxiv.org/abs/2609.02981](https://arxiv.org/abs/2609.02981)
