@@ -1,0 +1,14 @@
+---
+title: "Beyond Prompt-to-App: Accountable Translation in Teacher-Facing Agentic Authoring"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2609.04679
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Beyond Prompt-to-App: Accountable Translation in Teacher-Facing Agentic Authoring
+> 原文: [https://arxiv.org/abs/2609.04679](https://arxiv.org/abs/2609.04679)
+
+arXiv:2609.04679v1 Announce Type: new
+Abstract: Natural-language app builders let domain experts create software, but their pipelines transform professional intent across compilation, generation, checking, and approval. We report a bounded trace study of a teacher-facing agentic authoring system. Evidence comprises six eligible build attempts across three accounts; a separate corpus of 37 workshop units from 23 display names contextualizes commitments without person-level linkage. Compiled specifications added governance requirements, while downstream representations sometimes normalized case-specific learning relations. Two drafts met a stored package/security threshold despite analyzer reservations and unresolved correspondence to their briefs; four attempts in one account produced no usable payload, and repair messages did not translate internal terms into domain-legible revisions. We develop accountable translation as an analytic framework for making consequential changes attributable, inspectable, scoped in validation, and contestable. It extends HCI accounts of traceability and end-user debugging by locating professional authority and repair rights across heterogeneous technical and organizational handoffs.

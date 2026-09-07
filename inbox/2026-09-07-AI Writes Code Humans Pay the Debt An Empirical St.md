@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2609.04208
+next_step: skim
+priority: low
+slack_ts: '1788754232.213519'
+source: cs.SE - Software Engineering
+status: unread
+title: AI Writes Code, Humans Pay the Debt. An Empirical Study on the Sustainability
+  and Evolution of Agent-Generated Code
+---
+# AI Writes Code, Humans Pay the Debt. An Empirical Study on the Sustainability and Evolution of Agent-Generated Code
+> 原文: [https://arxiv.org/abs/2609.04208](https://arxiv.org/abs/2609.04208)
+
+arXiv:2609.04208v1 Announce Type: new
+Abstract: Context. The increasing adoption of Generative AI coding agents in software engineering is transforming how developers implement and maintain code. While these systems provide short-term productivity benefits, their long-term impact on software quality and technical debt remains unclear. Aim. We aim to investigate how agent-generated code affects software quality, focusing on issue localization accuracy, the introduction of technical debt, and its evolution over time. Method. We will conduct a large-scale mining software repositories study using the SQuaD dataset, employing a candidate set of 628k issue tickets. We will generate agent-based implementations for these issues, and compare them with the actual commits done by developers using static analysis metrics and tools. We will analyze differences at the commit level and across releases, and we will consider multiple LLM-based Agents selected through a systematic benchmarking strategy. Expected Results. We expect to provide empirical evidence on the trade-offs introduced by agent-based development, including differences in localization accuracy, variations in technical debt introduction, and potential divergence in long-term evolution. We expect the results to highlight variability across LLMs, to enrich our understanding of software evolution with Agents, and to inform more responsible adoption of Agents in software development.

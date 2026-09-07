@@ -1,11 +1,12 @@
 ---
-title: "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/
 next_step: skim
+priority: high
+slack_ts: '1788754226.531169'
+source: AWS Blog
+status: unread
+title: Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod
 ---
 # Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/)

@@ -1,11 +1,12 @@
 ---
-title: "Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
-source: "OpenAI Blog"
-link: https://openai.com/index/playco-game-prototyping-with-astra
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/playco-game-prototyping-with-astra
 next_step: skim
+priority: high
+slack_ts: '1788754230.595329'
+source: OpenAI Blog
+status: unread
+title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
 ---
 # Playco cut manual fixes 50% prototyping games with GPT-6 Astra
 > 原文: [https://openai.com/index/playco-game-prototyping-with-astra](https://openai.com/index/playco-game-prototyping-with-astra)

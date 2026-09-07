@@ -1,11 +1,12 @@
 ---
-title: "Designing lifecycle policies for AgentCore memory"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/
 next_step: skim
+priority: high
+slack_ts: '1788754227.501939'
+source: AWS Blog
+status: unread
+title: Designing lifecycle policies for AgentCore memory
 ---
 # Designing lifecycle policies for AgentCore memory
 > 原文: [https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/)

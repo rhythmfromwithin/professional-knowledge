@@ -1,11 +1,13 @@
 ---
-title: "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
 next_step: skim
+priority: high
+slack_ts: '1788754225.619069'
+source: AWS Blog
+status: unread
+title: Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now
+  generally available
 ---
 # Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/](https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/)

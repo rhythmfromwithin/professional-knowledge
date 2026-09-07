@@ -1,0 +1,14 @@
+---
+title: "Breaking the Alphabet: Rethinking File Ordering in Code Review"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2609.04207
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Breaking the Alphabet: Rethinking File Ordering in Code Review
+> 原文: [https://arxiv.org/abs/2609.04207](https://arxiv.org/abs/2609.04207)
+
+arXiv:2609.04207v1 Announce Type: new
+Abstract: Effective code review is central to maintaining software quality, yet there is limited research about how the ordering of changed files in Pull Requests (PRs) influences review effectiveness. Most popular code review tools default to alphabetical ordering, favoring predictability over contextual relevance. While prior studies examined how file position shapes reviewer attention, it remains unclear how such ordering influences cognitive load and perceived review thoroughness. This study presents the first large-scale survey of 1,355 professional developers across 182 widely used open-source projects to investigate how file ordering impacts review behavior, comprehension, and perceived effectiveness. Our mixed-methods analysis reveals that only 10.2% of reviewers consider alphabetical ordering optimal, underscoring a cognitive misalignment in their interpretation of code changes. Although some developers appreciate its predictability, more than half (57.6%) report that it increases context switching, disrupts logical reasoning, and contributes to review fatigue, and 63.9% expressed concern that the default ordering may cause them to miss bugs. We further identify key challenges in multi-file reviews and elicit developers' expectations for improved tooling, including dependency-aware grouping and customizable file ordering (requested by 66% of reviewers). These findings highlight the need for reviewer-centric interface designs that better align tool behavior with human cognition.

@@ -1,0 +1,14 @@
+---
+title: "Towards Efficient Evaluation of Evolutionary Transfer Optimization: Case Studies on Task-Parameterized Applications"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2609.05040
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Towards Efficient Evaluation of Evolutionary Transfer Optimization: Case Studies on Task-Parameterized Applications
+> 原文: [https://arxiv.org/abs/2609.05040](https://arxiv.org/abs/2609.05040)
+
+arXiv:2609.05040v1 Announce Type: cross
+Abstract: As evolutionary transfer optimization (ETO) scales to larger collections of related tasks, problem evaluation can become a major source of runtime growth. This work studies problem-side evaluation scaling in task-parameterized applications and reformulates application-specific serial computations into forms suitable for parallel execution. We organize evaluation scaling into two levels: the number of evaluated tasks and the workload within each task. In multi-task optimization, matrix-recursive kinematic-arm evaluation is reformulated using an accumulation-matrix representation of cumulative link directions. In sequential transfer optimization, pointwise B-spline trajectory evaluation is reformulated using a blending-matrix representation for trajectory and collision computations. Both reformulations maintain close numerical agreement with their reference evaluations and substantially reduce runtime, yielding $256.72\times$ and $93.91\times$ end-to-end speedups, respectively. These results demonstrate problem-side reformulation as a practical route toward scalable ETO. Both application implementations and experimental scripts are released as open source to support reproducibility and reuse.

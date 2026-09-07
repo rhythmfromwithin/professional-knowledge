@@ -1,0 +1,14 @@
+---
+title: "When Does an Interpretation Count as Established? The Formation, Evaluation, and Responsibility of Interpretation in Generative AI"
+source: "cs.CY - Computers and Society"
+link: https://arxiv.org/abs/2609.04766
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# When Does an Interpretation Count as Established? The Formation, Evaluation, and Responsibility of Interpretation in Generative AI
+> 原文: [https://arxiv.org/abs/2609.04766](https://arxiv.org/abs/2609.04766)
+
+arXiv:2609.04766v1 Announce Type: new
+Abstract: Generative AI research has increasingly evaluated factuality, citation, coverage, and report structure. Yet passing such local checks does not by itself show that a humanistic interpretation has been established. This paper asks how an interpretation comes to be recognized within sociotechnical processes. It introduces three connected concepts. Interpretive appearance names the gap between the finished form of an output and the publicly traceable process through which materials, counterevidence, and revisions constrained the judgment. The evaluation contract names the bounded materials, tasks, criteria, permitted inferences, and failure conditions within which a local judgment is valid. Standing substitution names the unwarranted conversion of a genuine local pass into a stronger claim that an interpretation, result, or research capability has been established, without commensurate new evidence or bridging arguments. The paper then examines responsibility for judgment: a text may acquire recognition while no public structure remains for stating reasons, answering objections, revising, downgrading, or withdrawing the conclusion. Humanistic scholarship provides a revealing test because new materials and conceptual distinctions can alter both the question and the criteria of evaluation. The paper therefore develops delayed closure as a practice of keeping recognized interpretations revisable and proposes five public requirements concerning materials and versions, evidential roles, failure, contract revision, and responsibility. The argument is conceptual and normative: it does not claim to offer a benchmark or to determine whether models possess understanding. It instead explains why local evaluation, finished textual form, and public recognition must not be treated as sufficient evidence that an interpretation has been formed.
