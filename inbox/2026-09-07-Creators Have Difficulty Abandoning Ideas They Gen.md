@@ -1,11 +1,12 @@
 ---
-title: "Creators Have Difficulty Abandoning Ideas They Generated"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.05115
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.05115
 next_step: skim
+priority: low
+slack_ts: '1788840719.164279'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Creators Have Difficulty Abandoning Ideas They Generated
 ---
 # Creators Have Difficulty Abandoning Ideas They Generated
 > 原文: [https://arxiv.org/abs/2609.05115](https://arxiv.org/abs/2609.05115)

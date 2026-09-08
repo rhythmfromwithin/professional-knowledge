@@ -1,11 +1,13 @@
 ---
-title: "EyeMakeYou: Identity-, Task-, and Subjective-State-Conditioned Diffusion for High-Frequency Gaze Synthesis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.04501
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04501
 next_step: skim
+priority: low
+slack_ts: '1788840721.317359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'EyeMakeYou: Identity-, Task-, and Subjective-State-Conditioned Diffusion for
+  High-Frequency Gaze Synthesis'
 ---
 # EyeMakeYou: Identity-, Task-, and Subjective-State-Conditioned Diffusion for High-Frequency Gaze Synthesis
 > 原文: [https://arxiv.org/abs/2609.04501](https://arxiv.org/abs/2609.04501)

@@ -1,11 +1,13 @@
 ---
-title: "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.04298
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04298
 next_step: skim
+priority: high
+slack_ts: '1788840724.556289'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset
+  for Large-Scale Agentic Evaluation'
 ---
 # Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation
 > 原文: [https://arxiv.org/abs/2609.04298](https://arxiv.org/abs/2609.04298)

@@ -1,11 +1,12 @@
 ---
-title: "Performance Study of Serverless Workloads in Confidential Virtual Machines"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.04478
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04478
 next_step: skim
+priority: medium
+slack_ts: '1788840729.429919'
+source: cs.DC - Distributed Computing
+status: unread
+title: Performance Study of Serverless Workloads in Confidential Virtual Machines
 ---
 # Performance Study of Serverless Workloads in Confidential Virtual Machines
 > 原文: [https://arxiv.org/abs/2609.04478](https://arxiv.org/abs/2609.04478)

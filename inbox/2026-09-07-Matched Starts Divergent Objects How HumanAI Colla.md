@@ -1,11 +1,13 @@
 ---
-title: "Matched Starts, Divergent Objects: How Human-AI Collaboration Forms What It Explains"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.04542
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04542
 next_step: skim
+priority: low
+slack_ts: '1788840727.121259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Matched Starts, Divergent Objects: How Human-AI Collaboration Forms What It
+  Explains'
 ---
 # Matched Starts, Divergent Objects: How Human-AI Collaboration Forms What It Explains
 > 原文: [https://arxiv.org/abs/2609.04542](https://arxiv.org/abs/2609.04542)

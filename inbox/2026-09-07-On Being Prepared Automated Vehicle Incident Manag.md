@@ -1,11 +1,12 @@
 ---
-title: "On Being Prepared: Automated Vehicle Incident Management Exercise Practices"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.04777
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04777
 next_step: skim
+priority: medium
+slack_ts: '1788840728.550109'
+source: cs.CY - Computers and Society
+status: unread
+title: 'On Being Prepared: Automated Vehicle Incident Management Exercise Practices'
 ---
 # On Being Prepared: Automated Vehicle Incident Management Exercise Practices
 > 原文: [https://arxiv.org/abs/2609.04777](https://arxiv.org/abs/2609.04777)

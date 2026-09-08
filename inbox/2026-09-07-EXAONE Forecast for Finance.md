@@ -1,11 +1,12 @@
 ---
-title: "EXAONE Forecast for Finance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.04239
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04239
 next_step: skim
+priority: high
+slack_ts: '1788840720.684569'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: EXAONE Forecast for Finance
 ---
 # EXAONE Forecast for Finance
 > 原文: [https://arxiv.org/abs/2609.04239](https://arxiv.org/abs/2609.04239)

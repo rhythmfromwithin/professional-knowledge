@@ -1,11 +1,13 @@
 ---
-title: "Towards Efficient Evaluation of Evolutionary Transfer Optimization: Case Studies on Task-Parameterized Applications"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.05040
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.05040
 next_step: skim
+priority: low
+slack_ts: '1788840733.500869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Towards Efficient Evaluation of Evolutionary Transfer Optimization: Case Studies
+  on Task-Parameterized Applications'
 ---
 # Towards Efficient Evaluation of Evolutionary Transfer Optimization: Case Studies on Task-Parameterized Applications
 > 原文: [https://arxiv.org/abs/2609.05040](https://arxiv.org/abs/2609.05040)

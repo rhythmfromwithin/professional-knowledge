@@ -1,11 +1,13 @@
 ---
-title: "Corporate-Family Resolution Is Not a String-Matching Problem: A Public Benchmark Stratified by Name Visibility"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.04269
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04269
 next_step: skim
+priority: low
+slack_ts: '1788840718.879689'
+source: cs.DB - Databases
+status: unread
+title: 'Corporate-Family Resolution Is Not a String-Matching Problem: A Public Benchmark
+  Stratified by Name Visibility'
 ---
 # Corporate-Family Resolution Is Not a String-Matching Problem: A Public Benchmark Stratified by Name Visibility
 > 原文: [https://arxiv.org/abs/2609.04269](https://arxiv.org/abs/2609.04269)

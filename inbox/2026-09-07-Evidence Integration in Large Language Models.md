@@ -1,11 +1,12 @@
 ---
-title: "Evidence Integration in Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.04290
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04290
 next_step: skim
+priority: high
+slack_ts: '1788840721.017579'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Evidence Integration in Large Language Models
 ---
 # Evidence Integration in Large Language Models
 > 原文: [https://arxiv.org/abs/2609.04290](https://arxiv.org/abs/2609.04290)

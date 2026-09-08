@@ -1,11 +1,13 @@
 ---
-title: "Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the Decoys"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.04382
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04382
 next_step: skim
+priority: low
+slack_ts: '1788840729.733209'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the
+  Decoys
 ---
 # Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the Decoys
 > 原文: [https://arxiv.org/abs/2609.04382](https://arxiv.org/abs/2609.04382)

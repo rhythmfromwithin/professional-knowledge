@@ -1,11 +1,13 @@
 ---
-title: "FailureSpot: Label-Efficient Timestamp-Level Failure Detection for Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.04277
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04277
 next_step: skim
+priority: medium
+slack_ts: '1788840721.915349'
+source: cs.RO - Robotics
+status: unread
+title: 'FailureSpot: Label-Efficient Timestamp-Level Failure Detection for Vision-Language-Action
+  Models'
 ---
 # FailureSpot: Label-Efficient Timestamp-Level Failure Detection for Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2609.04277](https://arxiv.org/abs/2609.04277)

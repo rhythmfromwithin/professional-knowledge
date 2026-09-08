@@ -1,11 +1,12 @@
 ---
-title: "Reducing the Cross-Model Tax: Query Optimization over Multi-Model Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.05014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.05014
 next_step: skim
+priority: low
+slack_ts: '1788840731.241429'
+source: cs.DB - Databases
+status: unread
+title: 'Reducing the Cross-Model Tax: Query Optimization over Multi-Model Data'
 ---
 # Reducing the Cross-Model Tax: Query Optimization over Multi-Model Data
 > 原文: [https://arxiv.org/abs/2609.05014](https://arxiv.org/abs/2609.05014)

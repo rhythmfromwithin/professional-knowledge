@@ -1,11 +1,12 @@
 ---
-title: "ProToMEx: Rapid, Interpretable Explanations via Structured Representations"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.04265
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04265
 next_step: skim
+priority: high
+slack_ts: '1788840730.091629'
+source: cs.LG - Machine Learning
+status: unread
+title: 'ProToMEx: Rapid, Interpretable Explanations via Structured Representations'
 ---
 # ProToMEx: Rapid, Interpretable Explanations via Structured Representations
 > 原文: [https://arxiv.org/abs/2609.04265](https://arxiv.org/abs/2609.04265)

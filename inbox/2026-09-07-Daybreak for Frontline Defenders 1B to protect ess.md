@@ -1,11 +1,12 @@
 ---
-title: "Daybreak for Frontline Defenders: $1B to protect essential services"
-source: "OpenAI Blog"
-link: https://openai.com/index/daybreak-for-frontline-defenders
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/daybreak-for-frontline-defenders
 next_step: skim
+priority: high
+slack_ts: '1788840719.768739'
+source: OpenAI Blog
+status: unread
+title: 'Daybreak for Frontline Defenders: $1B to protect essential services'
 ---
 # Daybreak for Frontline Defenders: $1B to protect essential services
 > 原文: [https://openai.com/index/daybreak-for-frontline-defenders](https://openai.com/index/daybreak-for-frontline-defenders)

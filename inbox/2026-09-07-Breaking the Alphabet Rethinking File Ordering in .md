@@ -1,11 +1,12 @@
 ---
-title: "Breaking the Alphabet: Rethinking File Ordering in Code Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.04207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04207
 next_step: skim
+priority: low
+slack_ts: '1788840716.847919'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Breaking the Alphabet: Rethinking File Ordering in Code Review'
 ---
 # Breaking the Alphabet: Rethinking File Ordering in Code Review
 > 原文: [https://arxiv.org/abs/2609.04207](https://arxiv.org/abs/2609.04207)

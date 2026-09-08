@@ -1,11 +1,12 @@
 ---
-title: "What Makes a Redundant Representation Remember? Lineage Isolation, Not Masking"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.05304
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.05304
 next_step: skim
+priority: low
+slack_ts: '1788840734.098979'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: What Makes a Redundant Representation Remember? Lineage Isolation, Not Masking
 ---
 # What Makes a Redundant Representation Remember? Lineage Isolation, Not Masking
 > 原文: [https://arxiv.org/abs/2609.05304](https://arxiv.org/abs/2609.05304)

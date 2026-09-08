@@ -1,11 +1,13 @@
 ---
-title: "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.04286
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04286
 next_step: skim
+priority: high
+slack_ts: '1788840723.659719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'From Matching Models to Recruiting Agents: A Systematized Narrative Review
+  of AI Recruitment Systems, Evaluation, and Governance'
 ---
 # From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance
 > 原文: [https://arxiv.org/abs/2609.04286](https://arxiv.org/abs/2609.04286)

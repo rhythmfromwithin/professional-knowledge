@@ -1,11 +1,13 @@
 ---
-title: "Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.04388
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04388
 next_step: skim
+priority: low
+slack_ts: '1788840717.987439'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Candidate Comparability Before Promotion: Conditional Validation in Adaptive
+  Network Intrusion Detection'
 ---
 # Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection
 > 原文: [https://arxiv.org/abs/2609.04388](https://arxiv.org/abs/2609.04388)

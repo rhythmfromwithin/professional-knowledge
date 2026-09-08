@@ -1,11 +1,12 @@
 ---
-title: "Spectral-Target Physical Latent Structuring for JEPA-Style World Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.04264
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04264
 next_step: skim
+priority: high
+slack_ts: '1788840732.516069'
+source: cs.LG - Machine Learning
+status: unread
+title: Spectral-Target Physical Latent Structuring for JEPA-Style World Models
 ---
 # Spectral-Target Physical Latent Structuring for JEPA-Style World Models
 > 原文: [https://arxiv.org/abs/2609.04264](https://arxiv.org/abs/2609.04264)

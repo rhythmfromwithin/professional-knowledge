@@ -1,11 +1,13 @@
 ---
-title: "When Does an Interpretation Count as Established? The Formation, Evaluation, and Responsibility of Interpretation in Generative AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.04766
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04766
 next_step: skim
+priority: medium
+slack_ts: '1788840734.467509'
+source: cs.CY - Computers and Society
+status: unread
+title: When Does an Interpretation Count as Established? The Formation, Evaluation,
+  and Responsibility of Interpretation in Generative AI
 ---
 # When Does an Interpretation Count as Established? The Formation, Evaluation, and Responsibility of Interpretation in Generative AI
 > 原文: [https://arxiv.org/abs/2609.04766](https://arxiv.org/abs/2609.04766)

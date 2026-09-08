@@ -1,11 +1,12 @@
 ---
-title: "Memory as transformation: LETHE, a self-referential gan-inspired architecture"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.04289
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04289
 next_step: skim
+priority: high
+slack_ts: '1788840727.416459'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Memory as transformation: LETHE, a self-referential gan-inspired architecture'
 ---
 # Memory as transformation: LETHE, a self-referential gan-inspired architecture
 > 原文: [https://arxiv.org/abs/2609.04289](https://arxiv.org/abs/2609.04289)

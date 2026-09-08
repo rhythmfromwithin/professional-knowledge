@@ -1,11 +1,12 @@
 ---
-title: "Beyond Prompt-to-App: Accountable Translation in Teacher-Facing Agentic Authoring"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.04679
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04679
 next_step: skim
+priority: low
+slack_ts: '1788840716.551129'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Beyond Prompt-to-App: Accountable Translation in Teacher-Facing Agentic Authoring'
 ---
 # Beyond Prompt-to-App: Accountable Translation in Teacher-Facing Agentic Authoring
 > 原文: [https://arxiv.org/abs/2609.04679](https://arxiv.org/abs/2609.04679)

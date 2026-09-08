@@ -1,11 +1,13 @@
 ---
-title: "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/
 next_step: skim
+priority: high
+slack_ts: '1788840723.964299'
+source: Microsoft Research
+status: unread
+title: 'GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with
+  efficient pathology foundation models'
 ---
 # GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models
 > 原文: [https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/)

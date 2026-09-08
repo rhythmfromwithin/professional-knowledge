@@ -1,11 +1,13 @@
 ---
-title: "FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models via Sparse Autoencoders"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.04276
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04276
 next_step: skim
+priority: medium
+slack_ts: '1788840721.615859'
+source: cs.CV - Computer Vision
+status: unread
+title: 'FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models
+  via Sparse Autoencoders'
 ---
 # FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models via Sparse Autoencoders
 > 原文: [https://arxiv.org/abs/2609.04276](https://arxiv.org/abs/2609.04276)

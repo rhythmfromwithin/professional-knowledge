@@ -1,11 +1,13 @@
 ---
-title: "VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.04355
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04355
 next_step: skim
+priority: medium
+slack_ts: '1788840733.812689'
+source: cs.RO - Robotics
+status: unread
+title: 'VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online
+  RL of Vision-Language-Action Models'
 ---
 # VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2609.04355](https://arxiv.org/abs/2609.04355)

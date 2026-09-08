@@ -1,11 +1,12 @@
 ---
-title: "Large Language Models with At Most One Spike per Neuron"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.05151
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.05151
 next_step: skim
+priority: low
+slack_ts: '1788840726.580569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Large Language Models with At Most One Spike per Neuron
 ---
 # Large Language Models with At Most One Spike per Neuron
 > 原文: [https://arxiv.org/abs/2609.05151](https://arxiv.org/abs/2609.05151)

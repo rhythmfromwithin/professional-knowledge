@@ -1,11 +1,13 @@
 ---
-title: "Scalable Edge-assisted Fusion and Path Prediction for Connected Autonomous Vehicles"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.04364
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04364
 next_step: skim
+priority: medium
+slack_ts: '1788840731.928089'
+source: cs.RO - Robotics
+status: unread
+title: Scalable Edge-assisted Fusion and Path Prediction for Connected Autonomous
+  Vehicles
 ---
 # Scalable Edge-assisted Fusion and Path Prediction for Connected Autonomous Vehicles
 > 原文: [https://arxiv.org/abs/2609.04364](https://arxiv.org/abs/2609.04364)

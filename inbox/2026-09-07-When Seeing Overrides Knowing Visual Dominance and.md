@@ -1,11 +1,13 @@
 ---
-title: "When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method for Personalized Safety in VLMs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.04281
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04281
 next_step: skim
+priority: medium
+slack_ts: '1788840734.780829'
+source: cs.CV - Computer Vision
+status: unread
+title: 'When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method
+  for Personalized Safety in VLMs'
 ---
 # When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method for Personalized Safety in VLMs
 > 原文: [https://arxiv.org/abs/2609.04281](https://arxiv.org/abs/2609.04281)

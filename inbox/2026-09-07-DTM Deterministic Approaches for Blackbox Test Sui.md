@@ -1,11 +1,13 @@
 ---
-title: "DTM: Deterministic Approaches for Black-box Test Suite Minimization with Tree-based Similarity"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.04205
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.04205
 next_step: skim
+priority: low
+slack_ts: '1788840719.456859'
+source: cs.SE - Software Engineering
+status: unread
+title: 'DTM: Deterministic Approaches for Black-box Test Suite Minimization with Tree-based
+  Similarity'
 ---
 # DTM: Deterministic Approaches for Black-box Test Suite Minimization with Tree-based Similarity
 > 原文: [https://arxiv.org/abs/2609.04205](https://arxiv.org/abs/2609.04205)
