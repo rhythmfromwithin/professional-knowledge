@@ -1,11 +1,12 @@
 ---
-title: "An Alien Mind"
-source: "OpenAI Blog"
-link: https://openai.com/index/an-alien-mind
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/an-alien-mind
 next_step: skim
+priority: high
+slack_ts: '1788927497.856199'
+source: OpenAI Blog
+status: unread
+title: An Alien Mind
 ---
 # An Alien Mind
 > 原文: [https://openai.com/index/an-alien-mind](https://openai.com/index/an-alien-mind)

@@ -1,11 +1,12 @@
 ---
-title: "Broadening access to Skala creates a faster path to predictive DFT"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/
 next_step: skim
+priority: high
+slack_ts: '1788927498.706879'
+source: Microsoft Research
+status: unread
+title: Broadening access to Skala creates a faster path to predictive DFT
 ---
 # Broadening access to Skala creates a faster path to predictive DFT
 > 原文: [https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/)

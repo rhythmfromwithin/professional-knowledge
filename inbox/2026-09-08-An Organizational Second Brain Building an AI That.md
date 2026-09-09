@@ -1,11 +1,12 @@
 ---
-title: "An Organizational Second Brain: Building an AI That Learns From Experts"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/
 next_step: skim
+priority: medium
+slack_ts: '1788927498.053929'
+source: Meta Engineering
+status: unread
+title: 'An Organizational Second Brain: Building an AI That Learns From Experts'
 ---
 # An Organizational Second Brain: Building an AI That Learns From Experts
 > 原文: [https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/](https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/)
