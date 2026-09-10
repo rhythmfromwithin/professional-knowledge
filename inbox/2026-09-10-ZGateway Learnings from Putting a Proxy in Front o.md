@@ -1,12 +1,11 @@
 ---
-interest: medium
+title: "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB"
+source: "Meta Engineering"
 link: https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/
-next_step: skim
 priority: medium
-slack_ts: '1789013726.167349'
-source: Meta Engineering
 status: unread
-title: 'ZGateway: Learnings from Putting a Proxy in Front of ZippyDB'
+interest: medium
+next_step: skim
 ---
 # ZGateway: Learnings from Putting a Proxy in Front of ZippyDB
 > 原文: [https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/](https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/)

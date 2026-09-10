@@ -1,6 +1,6 @@
 ---
 link: https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss
-slack_ts: '1789013724.923759'
+slack_ts: '1789013742.800819'
 source: Airbnb Engineering
 title: 'Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize'
 ----53c7c27702d5---4

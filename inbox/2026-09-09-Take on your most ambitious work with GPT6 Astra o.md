@@ -1,11 +1,12 @@
 ---
-title: "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1789013725.164899'
+source: AWS Blog
+status: unread
+title: Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock
 ---
 # Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/)
