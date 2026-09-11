@@ -1,11 +1,12 @@
 ---
-title: "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.09264
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09264
 next_step: skim
+priority: high
+slack_ts: '1789100104.009999'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean'
 ---
 # StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean
 > 原文: [https://arxiv.org/abs/2609.09264](https://arxiv.org/abs/2609.09264)

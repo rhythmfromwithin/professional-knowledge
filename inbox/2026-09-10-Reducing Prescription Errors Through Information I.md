@@ -1,11 +1,13 @@
 ---
-title: "Reducing Prescription Errors Through Information Intervention: A Field Experiment in Healthcare Operations"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.09673
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09673
 next_step: skim
+priority: low
+slack_ts: '1789100103.075329'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Reducing Prescription Errors Through Information Intervention: A Field Experiment
+  in Healthcare Operations'
 ---
 # Reducing Prescription Errors Through Information Intervention: A Field Experiment in Healthcare Operations
 > 原文: [https://arxiv.org/abs/2609.09673](https://arxiv.org/abs/2609.09673)

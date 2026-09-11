@@ -1,11 +1,12 @@
 ---
-title: "When Does Low-Bit Quantization Preserve the Decisions of Vector Search?"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.09854
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09854
 next_step: skim
+priority: low
+slack_ts: '1789100104.981669'
+source: cs.DB - Databases
+status: unread
+title: When Does Low-Bit Quantization Preserve the Decisions of Vector Search?
 ---
 # When Does Low-Bit Quantization Preserve the Decisions of Vector Search?
 > 原文: [https://arxiv.org/abs/2609.09854](https://arxiv.org/abs/2609.09854)

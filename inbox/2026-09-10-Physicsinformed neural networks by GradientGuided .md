@@ -1,11 +1,13 @@
 ---
-title: "Physics-informed neural networks by Gradient-Guided Gaussian Adaptive Sampling (3GAS-PINNs)"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.09162
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09162
 next_step: skim
+priority: high
+slack_ts: '1789100102.172699'
+source: cs.LG - Machine Learning
+status: unread
+title: Physics-informed neural networks by Gradient-Guided Gaussian Adaptive Sampling
+  (3GAS-PINNs)
 ---
 # Physics-informed neural networks by Gradient-Guided Gaussian Adaptive Sampling (3GAS-PINNs)
 > 原文: [https://arxiv.org/abs/2609.09162](https://arxiv.org/abs/2609.09162)

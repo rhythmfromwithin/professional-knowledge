@@ -1,11 +1,12 @@
 ---
-title: "XAI-Refine: An Automated Explanation-Knowledge Loop for Brain-Age Prediction"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.09388
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09388
 next_step: skim
+priority: low
+slack_ts: '1789100105.345589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'XAI-Refine: An Automated Explanation-Knowledge Loop for Brain-Age Prediction'
 ---
 # XAI-Refine: An Automated Explanation-Knowledge Loop for Brain-Age Prediction
 > 原文: [https://arxiv.org/abs/2609.09388](https://arxiv.org/abs/2609.09388)

@@ -1,11 +1,13 @@
 ---
-title: "Scalable Oversight for AI in Mental Health: Lessons from 350,000 AI Coaching Conversations between Therapy Sessions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.09533
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09533
 next_step: skim
+priority: medium
+slack_ts: '1789100103.453729'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Scalable Oversight for AI in Mental Health: Lessons from 350,000 AI Coaching
+  Conversations between Therapy Sessions'
 ---
 # Scalable Oversight for AI in Mental Health: Lessons from 350,000 AI Coaching Conversations between Therapy Sessions
 > 原文: [https://arxiv.org/abs/2609.09533](https://arxiv.org/abs/2609.09533)

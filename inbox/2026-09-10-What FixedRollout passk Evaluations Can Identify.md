@@ -1,11 +1,12 @@
 ---
-title: "What Fixed-Rollout pass@k Evaluations Can Identify"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.09245
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09245
 next_step: skim
+priority: medium
+slack_ts: '1789100104.781449'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: What Fixed-Rollout pass@k Evaluations Can Identify
 ---
 # What Fixed-Rollout pass@k Evaluations Can Identify
 > 原文: [https://arxiv.org/abs/2609.09245](https://arxiv.org/abs/2609.09245)

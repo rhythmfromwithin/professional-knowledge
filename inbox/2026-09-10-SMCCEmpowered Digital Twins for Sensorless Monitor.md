@@ -1,11 +1,13 @@
 ---
-title: "SMCC-Empowered Digital Twins for Sensorless Monitoring in Large-Scale AI-Driven IoT Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.09161
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09161
 next_step: skim
+priority: medium
+slack_ts: '1789100103.282609'
+source: cs.DC - Distributed Computing
+status: unread
+title: SMCC-Empowered Digital Twins for Sensorless Monitoring in Large-Scale AI-Driven
+  IoT Systems
 ---
 # SMCC-Empowered Digital Twins for Sensorless Monitoring in Large-Scale AI-Driven IoT Systems
 > 原文: [https://arxiv.org/abs/2609.09161](https://arxiv.org/abs/2609.09161)

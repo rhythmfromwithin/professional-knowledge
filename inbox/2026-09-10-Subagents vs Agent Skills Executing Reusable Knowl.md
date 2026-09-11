@@ -1,11 +1,13 @@
 ---
-title: "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.09233
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09233
 next_step: skim
+priority: high
+slack_ts: '1789100104.349729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic
+  Tasks'
 ---
 # Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks
 > 原文: [https://arxiv.org/abs/2609.09233](https://arxiv.org/abs/2609.09233)

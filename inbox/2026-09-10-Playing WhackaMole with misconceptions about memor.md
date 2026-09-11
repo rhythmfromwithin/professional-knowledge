@@ -1,11 +1,13 @@
 ---
-title: "Playing Whack-a-Mole with misconceptions about memorization, extraction, and copyright"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.09320
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09320
 next_step: skim
+priority: medium
+slack_ts: '1789100102.354089'
+source: cs.CY - Computers and Society
+status: unread
+title: Playing Whack-a-Mole with misconceptions about memorization, extraction, and
+  copyright
 ---
 # Playing Whack-a-Mole with misconceptions about memorization, extraction, and copyright
 > 原文: [https://arxiv.org/abs/2609.09320](https://arxiv.org/abs/2609.09320)

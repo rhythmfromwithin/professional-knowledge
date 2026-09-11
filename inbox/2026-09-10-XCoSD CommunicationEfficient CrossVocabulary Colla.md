@@ -1,11 +1,13 @@
 ---
-title: "X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.09166
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.09166
 next_step: skim
+priority: high
+slack_ts: '1789100105.541309'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative
+  Decoding'
 ---
 # X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding
 > 原文: [https://arxiv.org/abs/2609.09166](https://arxiv.org/abs/2609.09166)
