@@ -1,11 +1,13 @@
 ---
-title: "The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.10947
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10947
 next_step: skim
+priority: low
+slack_ts: '1789186434.098559'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Platonic brain bridge hypothesis: human brain networks as an architectural
+  prior for omni models'
 ---
 # The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models
 > 原文: [https://arxiv.org/abs/2609.10947](https://arxiv.org/abs/2609.10947)

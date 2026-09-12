@@ -1,11 +1,12 @@
 ---
-title: "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/
 next_step: skim
+priority: high
+slack_ts: '1789186433.632239'
+source: AWS Blog
+status: unread
+title: Reduce inference cold starts on Amazon SageMaker HyperPod with model caching
 ---
 # Reduce inference cold starts on Amazon SageMaker HyperPod with model caching
 > 原文: [https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/](https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/)

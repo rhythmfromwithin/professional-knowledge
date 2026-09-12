@@ -1,11 +1,12 @@
 ---
-title: "You've Got a BUD in Me: Authenticated Reads from Per-Block Write Logs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.11251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11251
 next_step: skim
+priority: low
+slack_ts: '1789186434.705479'
+source: cs.DB - Databases
+status: unread
+title: 'You''ve Got a BUD in Me: Authenticated Reads from Per-Block Write Logs'
 ---
 # You've Got a BUD in Me: Authenticated Reads from Per-Block Write Logs
 > 原文: [https://arxiv.org/abs/2609.11251](https://arxiv.org/abs/2609.11251)

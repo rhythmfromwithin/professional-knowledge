@@ -1,11 +1,13 @@
 ---
-title: "OmniTable: A Unified Wide-Table System for Petabyte-Scale LLM Data Curation and Exploration"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.11148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11148
 next_step: skim
+priority: low
+slack_ts: '1789186432.883089'
+source: cs.DB - Databases
+status: unread
+title: 'OmniTable: A Unified Wide-Table System for Petabyte-Scale LLM Data Curation
+  and Exploration'
 ---
 # OmniTable: A Unified Wide-Table System for Petabyte-Scale LLM Data Curation and Exploration
 > 原文: [https://arxiv.org/abs/2609.11148](https://arxiv.org/abs/2609.11148)

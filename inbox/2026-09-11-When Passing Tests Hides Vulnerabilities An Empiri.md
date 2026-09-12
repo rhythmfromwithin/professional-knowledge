@@ -1,11 +1,13 @@
 ---
-title: "When Passing Tests Hides Vulnerabilities: An Empirical Study of Silent Failures in Agentic Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.10548
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10548
 next_step: skim
+priority: low
+slack_ts: '1789186434.633379'
+source: cs.SE - Software Engineering
+status: unread
+title: 'When Passing Tests Hides Vulnerabilities: An Empirical Study of Silent Failures
+  in Agentic Systems'
 ---
 # When Passing Tests Hides Vulnerabilities: An Empirical Study of Silent Failures in Agentic Systems
 > 原文: [https://arxiv.org/abs/2609.10548](https://arxiv.org/abs/2609.10548)

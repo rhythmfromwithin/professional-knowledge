@@ -1,11 +1,12 @@
 ---
-title: "Recreating a 70-year love story frame by frame"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/
 next_step: skim
+priority: high
+slack_ts: '1789186433.502699'
+source: Google AI Blog
+status: unread
+title: Recreating a 70-year love story frame by frame
 ---
 # Recreating a 70-year love story frame by frame
 > 原文: [https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/)

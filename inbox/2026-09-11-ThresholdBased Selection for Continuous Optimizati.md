@@ -1,11 +1,12 @@
 ---
-title: "Threshold-Based Selection for Continuous Optimization: A Leaf-Abscission Instantiation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.10588
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10588
 next_step: skim
+priority: low
+slack_ts: '1789186434.293129'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Threshold-Based Selection for Continuous Optimization: A Leaf-Abscission Instantiation'
 ---
 # Threshold-Based Selection for Continuous Optimization: A Leaf-Abscission Instantiation
 > 原文: [https://arxiv.org/abs/2609.10588](https://arxiv.org/abs/2609.10588)

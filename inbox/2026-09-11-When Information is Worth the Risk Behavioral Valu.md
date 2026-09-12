@@ -1,11 +1,13 @@
 ---
-title: "When Information is Worth the Risk: Behavioral Valuation for Hazardous Robotic Exploration"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.10726
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10726
 next_step: skim
+priority: medium
+slack_ts: '1789186434.561569'
+source: cs.RO - Robotics
+status: unread
+title: 'When Information is Worth the Risk: Behavioral Valuation for Hazardous Robotic
+  Exploration'
 ---
 # When Information is Worth the Risk: Behavioral Valuation for Hazardous Robotic Exploration
 > 原文: [https://arxiv.org/abs/2609.10726](https://arxiv.org/abs/2609.10726)

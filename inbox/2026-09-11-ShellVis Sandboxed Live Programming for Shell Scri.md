@@ -1,11 +1,12 @@
 ---
-title: "ShellVis: Sandboxed Live Programming for Shell Scripts"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.11000
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11000
 next_step: skim
+priority: low
+slack_ts: '1789186433.969619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'ShellVis: Sandboxed Live Programming for Shell Scripts'
 ---
 # ShellVis: Sandboxed Live Programming for Shell Scripts
 > 原文: [https://arxiv.org/abs/2609.11000](https://arxiv.org/abs/2609.11000)

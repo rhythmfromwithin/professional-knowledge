@@ -1,11 +1,13 @@
 ---
-title: "VikingRAG: Accurate and Token-efficient Retrieval-augmented Generation over Structured Documents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.11390
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11390
 next_step: skim
+priority: low
+slack_ts: '1789186434.424439'
+source: cs.DB - Databases
+status: unread
+title: 'VikingRAG: Accurate and Token-efficient Retrieval-augmented Generation over
+  Structured Documents'
 ---
 # VikingRAG: Accurate and Token-efficient Retrieval-augmented Generation over Structured Documents
 > 原文: [https://arxiv.org/abs/2609.11390](https://arxiv.org/abs/2609.11390)

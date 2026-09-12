@@ -1,11 +1,13 @@
 ---
-title: "M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.10559
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10559
 next_step: skim
+priority: high
+slack_ts: '1789186432.382919'
+source: cs.LG - Machine Learning
+status: unread
+title: 'M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel
+  Trajectory Prediction'
 ---
 # M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction
 > 原文: [https://arxiv.org/abs/2609.10559](https://arxiv.org/abs/2609.10559)

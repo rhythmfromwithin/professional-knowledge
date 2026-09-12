@@ -1,11 +1,12 @@
 ---
-title: "Risk-Averse Decision Making with Multi-Level Reliability Guarantees"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.11524
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11524
 next_step: skim
+priority: medium
+slack_ts: '1789186433.769079'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Risk-Averse Decision Making with Multi-Level Reliability Guarantees
 ---
 # Risk-Averse Decision Making with Multi-Level Reliability Guarantees
 > 原文: [https://arxiv.org/abs/2609.11524](https://arxiv.org/abs/2609.11524)

@@ -1,11 +1,12 @@
 ---
-title: "Optimizing AI Inference Across the Deployment Stack"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.10550
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10550
 next_step: skim
+priority: low
+slack_ts: '1789186432.982729'
+source: cs.SE - Software Engineering
+status: unread
+title: Optimizing AI Inference Across the Deployment Stack
 ---
 # Optimizing AI Inference Across the Deployment Stack
 > 原文: [https://arxiv.org/abs/2609.10550](https://arxiv.org/abs/2609.10550)

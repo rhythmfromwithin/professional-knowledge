@@ -1,11 +1,13 @@
 ---
-title: "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.10715
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10715
 next_step: skim
+priority: high
+slack_ts: '1789186432.748429'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models
+  through Next Concept Prediction'
 ---
 # NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction
 > 原文: [https://arxiv.org/abs/2609.10715](https://arxiv.org/abs/2609.10715)

@@ -1,11 +1,12 @@
 ---
-title: "The evolving boundary of green technology"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2503.21310
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2503.21310
 next_step: skim
+priority: low
+slack_ts: '1789186434.163719'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The evolving boundary of green technology
 ---
 # The evolving boundary of green technology
 > 原文: [https://arxiv.org/abs/2503.21310](https://arxiv.org/abs/2503.21310)

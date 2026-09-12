@@ -1,11 +1,13 @@
 ---
-title: "ReqEvolve: User-Oriented Software Self-Evolution through Automatic Requirement Interpretation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.10590
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10590
 next_step: skim
+priority: low
+slack_ts: '1789186433.700669'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ReqEvolve: User-Oriented Software Self-Evolution through Automatic Requirement
+  Interpretation'
 ---
 # ReqEvolve: User-Oriented Software Self-Evolution through Automatic Requirement Interpretation
 > 原文: [https://arxiv.org/abs/2609.10590](https://arxiv.org/abs/2609.10590)

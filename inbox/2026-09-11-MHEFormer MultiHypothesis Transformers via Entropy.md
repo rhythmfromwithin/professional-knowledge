@@ -1,11 +1,13 @@
 ---
-title: "MHE-Former: Multi-Hypothesis Transformers via Entropy Maximization for 3D Mesh Recovery"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.10743
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10743
 next_step: skim
+priority: medium
+slack_ts: '1789186432.518009'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MHE-Former: Multi-Hypothesis Transformers via Entropy Maximization for 3D
+  Mesh Recovery'
 ---
 # MHE-Former: Multi-Hypothesis Transformers via Entropy Maximization for 3D Mesh Recovery
 > 原文: [https://arxiv.org/abs/2609.10743](https://arxiv.org/abs/2609.10743)

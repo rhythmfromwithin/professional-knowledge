@@ -1,11 +1,13 @@
 ---
-title: "Lie-Algebraic Bell Recurrences for Arbitrary-Order Twist Jets and Parallel-Mechanism Closure"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.10748
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10748
 next_step: skim
+priority: medium
+slack_ts: '1789186432.304389'
+source: cs.RO - Robotics
+status: unread
+title: Lie-Algebraic Bell Recurrences for Arbitrary-Order Twist Jets and Parallel-Mechanism
+  Closure
 ---
 # Lie-Algebraic Bell Recurrences for Arbitrary-Order Twist Jets and Parallel-Mechanism Closure
 > 原文: [https://arxiv.org/abs/2609.10748](https://arxiv.org/abs/2609.10748)

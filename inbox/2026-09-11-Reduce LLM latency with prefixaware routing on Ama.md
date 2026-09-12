@@ -1,11 +1,12 @@
 ---
-title: "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/
 next_step: skim
+priority: high
+slack_ts: '1789186433.567049'
+source: AWS Blog
+status: unread
+title: Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference
 ---
 # Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference
 > 原文: [https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)

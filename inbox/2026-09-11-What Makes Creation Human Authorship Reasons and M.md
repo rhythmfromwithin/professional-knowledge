@@ -1,11 +1,13 @@
 ---
-title: "What Makes Creation Human? Authorship, Reasons, and Meaningful Human Control in Generative AI"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.10738
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10738
 next_step: skim
+priority: low
+slack_ts: '1789186434.497489'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: What Makes Creation Human? Authorship, Reasons, and Meaningful Human Control
+  in Generative AI
 ---
 # What Makes Creation Human? Authorship, Reasons, and Meaningful Human Control in Generative AI
 > 原文: [https://arxiv.org/abs/2609.10738](https://arxiv.org/abs/2609.10738)
