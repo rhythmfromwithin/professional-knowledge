@@ -1,11 +1,13 @@
 ---
-title: "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.10584
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.10584
 next_step: skim
+priority: high
+slack_ts: '1789273577.092059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound
+  Advancement'
 ---
 # Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement
 > 原文: [https://arxiv.org/abs/2609.10584](https://arxiv.org/abs/2609.10584)

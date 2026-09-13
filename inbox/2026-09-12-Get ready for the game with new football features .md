@@ -1,11 +1,12 @@
 ---
-title: "Get ready for the game with new football features in Search"
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/search/football-features-google-search/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/search/football-features-google-search/
 next_step: skim
+priority: high
+slack_ts: '1789273572.340139'
+source: Google AI Blog
+status: unread
+title: Get ready for the game with new football features in Search
 ---
 # Get ready for the game with new football features in Search
 > 原文: [https://blog.google/products-and-platforms/products/search/football-features-google-search/](https://blog.google/products-and-platforms/products/search/football-features-google-search/)

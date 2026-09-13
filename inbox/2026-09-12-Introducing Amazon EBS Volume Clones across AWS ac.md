@@ -1,11 +1,12 @@
 ---
-title: "Introducing Amazon EBS Volume Clones across AWS accounts"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
 next_step: skim
+priority: high
+slack_ts: '1789273573.771509'
+source: AWS Blog
+status: unread
+title: Introducing Amazon EBS Volume Clones across AWS accounts
 ---
 # Introducing Amazon EBS Volume Clones across AWS accounts
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/)

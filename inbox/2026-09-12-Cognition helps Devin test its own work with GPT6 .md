@@ -1,11 +1,12 @@
 ---
-title: "Cognition helps Devin test its own work with GPT‑6 Astra"
-source: "OpenAI Blog"
-link: https://openai.com/index/cognition-devin-testing-with-astra
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/cognition-devin-testing-with-astra
 next_step: skim
+priority: high
+slack_ts: '1789273571.150909'
+source: OpenAI Blog
+status: unread
+title: Cognition helps Devin test its own work with GPT‑6 Astra
 ---
 # Cognition helps Devin test its own work with GPT‑6 Astra
 > 原文: [https://openai.com/index/cognition-devin-testing-with-astra](https://openai.com/index/cognition-devin-testing-with-astra)

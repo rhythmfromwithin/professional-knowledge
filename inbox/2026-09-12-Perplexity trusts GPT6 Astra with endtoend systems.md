@@ -1,11 +1,12 @@
 ---
-title: "Perplexity trusts GPT-6 Astra with end-to-end systems"
-source: "OpenAI Blog"
-link: https://openai.com/index/perplexity-improving-accuracy-with-astra
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/perplexity-improving-accuracy-with-astra
 next_step: skim
+priority: high
+slack_ts: '1789273576.524979'
+source: OpenAI Blog
+status: unread
+title: Perplexity trusts GPT-6 Astra with end-to-end systems
 ---
 # Perplexity trusts GPT-6 Astra with end-to-end systems
 > 原文: [https://openai.com/index/perplexity-improving-accuracy-with-astra](https://openai.com/index/perplexity-improving-accuracy-with-astra)

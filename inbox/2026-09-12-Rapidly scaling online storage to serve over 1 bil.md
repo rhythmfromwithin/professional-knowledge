@@ -1,11 +1,12 @@
 ---
-title: "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
-source: "OpenAI Blog"
-link: https://openai.com/index/scaling-storage-one-billion-users-part-one
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/scaling-storage-one-billion-users-part-one
 next_step: skim
+priority: high
+slack_ts: '1789273577.905869'
+source: OpenAI Blog
+status: unread
+title: Rapidly scaling online storage to serve over 1 billion ChatGPT users
 ---
 # Rapidly scaling online storage to serve over 1 billion ChatGPT users
 > 原文: [https://openai.com/index/scaling-storage-one-billion-users-part-one](https://openai.com/index/scaling-storage-one-billion-users-part-one)
