@@ -1,11 +1,12 @@
 ---
-title: "The Computational Primitives of Adaptation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.11989
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11989
 next_step: skim
+priority: low
+slack_ts: '1789446771.009649'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: The Computational Primitives of Adaptation
 ---
 # The Computational Primitives of Adaptation
 > 原文: [https://arxiv.org/abs/2609.11989](https://arxiv.org/abs/2609.11989)

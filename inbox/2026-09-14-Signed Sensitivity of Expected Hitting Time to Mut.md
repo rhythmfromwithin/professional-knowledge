@@ -1,11 +1,13 @@
 ---
-title: "Signed Sensitivity of Expected Hitting Time to Mutation Rate in the (1+1) EA: Per-State Sign Theorems and Verifiable Certificates for Non-Lumpable Families"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.12510
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.12510
 next_step: skim
+priority: low
+slack_ts: '1789446770.711089'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Signed Sensitivity of Expected Hitting Time to Mutation Rate in the (1+1)
+  EA: Per-State Sign Theorems and Verifiable Certificates for Non-Lumpable Families'
 ---
 # Signed Sensitivity of Expected Hitting Time to Mutation Rate in the (1+1) EA: Per-State Sign Theorems and Verifiable Certificates for Non-Lumpable Families
 > 原文: [https://arxiv.org/abs/2609.12510](https://arxiv.org/abs/2609.12510)

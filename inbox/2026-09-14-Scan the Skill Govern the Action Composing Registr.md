@@ -1,11 +1,13 @@
 ---
-title: "Scan the Skill, Govern the Action: Composing Registry Verdicts with Runtime Consequence Control"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.12001
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.12001
 next_step: skim
+priority: low
+slack_ts: '1789446770.210819'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Scan the Skill, Govern the Action: Composing Registry Verdicts with Runtime
+  Consequence Control'
 ---
 # Scan the Skill, Govern the Action: Composing Registry Verdicts with Runtime Consequence Control
 > 原文: [https://arxiv.org/abs/2609.12001](https://arxiv.org/abs/2609.12001)

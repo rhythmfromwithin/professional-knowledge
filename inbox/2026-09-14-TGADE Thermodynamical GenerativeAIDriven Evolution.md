@@ -1,11 +1,12 @@
 ---
-title: "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.12286
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.12286
 next_step: skim
+priority: low
+slack_ts: '1789446770.939969'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts'
 ---
 # T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts
 > 原文: [https://arxiv.org/abs/2609.12286](https://arxiv.org/abs/2609.12286)

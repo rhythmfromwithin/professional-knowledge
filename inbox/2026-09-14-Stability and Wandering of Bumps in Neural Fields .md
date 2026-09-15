@@ -1,11 +1,12 @@
 ---
-title: "Stability and Wandering of Bumps in Neural Fields with Interneuron Subtypes"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.13074
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13074
 next_step: skim
+priority: low
+slack_ts: '1789446770.864789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Stability and Wandering of Bumps in Neural Fields with Interneuron Subtypes
 ---
 # Stability and Wandering of Bumps in Neural Fields with Interneuron Subtypes
 > 原文: [https://arxiv.org/abs/2609.13074](https://arxiv.org/abs/2609.13074)

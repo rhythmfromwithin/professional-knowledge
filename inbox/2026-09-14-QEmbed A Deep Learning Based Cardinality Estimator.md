@@ -1,11 +1,12 @@
 ---
-title: "QEmbed: A Deep Learning Based Cardinality Estimator for Efficient Query Processing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.12535
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.12535
 next_step: skim
+priority: low
+slack_ts: '1789446769.908809'
+source: cs.DB - Databases
+status: unread
+title: 'QEmbed: A Deep Learning Based Cardinality Estimator for Efficient Query Processing'
 ---
 # QEmbed: A Deep Learning Based Cardinality Estimator for Efficient Query Processing
 > 原文: [https://arxiv.org/abs/2609.12535](https://arxiv.org/abs/2609.12535)

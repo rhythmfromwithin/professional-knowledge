@@ -1,11 +1,12 @@
 ---
-title: "The Favorite-Longshot Bias in Prediction Markets: Evidence from Polymarket"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.12878
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.12878
 next_step: skim
+priority: low
+slack_ts: '1789446771.086209'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Favorite-Longshot Bias in Prediction Markets: Evidence from Polymarket'
 ---
 # The Favorite-Longshot Bias in Prediction Markets: Evidence from Polymarket
 > 原文: [https://arxiv.org/abs/2609.12878](https://arxiv.org/abs/2609.12878)

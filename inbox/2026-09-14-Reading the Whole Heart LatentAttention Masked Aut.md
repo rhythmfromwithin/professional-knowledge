@@ -1,11 +1,13 @@
 ---
-title: "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.12035
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.12035
 next_step: skim
+priority: high
+slack_ts: '1789446770.132729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal
+  Cardiac Representation Learning'
 ---
 # Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning
 > 原文: [https://arxiv.org/abs/2609.12035](https://arxiv.org/abs/2609.12035)

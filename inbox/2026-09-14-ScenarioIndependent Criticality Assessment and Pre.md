@@ -1,11 +1,13 @@
 ---
-title: "Scenario-Independent Criticality Assessment and Prediction for Vulnerable Road Users in Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.11947
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.11947
 next_step: skim
+priority: medium
+slack_ts: '1789446770.293909'
+source: cs.RO - Robotics
+status: unread
+title: Scenario-Independent Criticality Assessment and Prediction for Vulnerable Road
+  Users in Autonomous Driving
 ---
 # Scenario-Independent Criticality Assessment and Prediction for Vulnerable Road Users in Autonomous Driving
 > 原文: [https://arxiv.org/abs/2609.11947](https://arxiv.org/abs/2609.11947)

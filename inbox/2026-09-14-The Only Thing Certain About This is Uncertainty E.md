@@ -1,11 +1,5 @@
 ---
-title: ""The Only Thing Certain About This is Uncertainty": Exploring Informal Care Coordination Practices Among Older Adults with Mild Cognitive Impairment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.12070
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1789446771.175449'
 ---
 # "The Only Thing Certain About This is Uncertainty": Exploring Informal Care Coordination Practices Among Older Adults with Mild Cognitive Impairment
 > 原文: [https://arxiv.org/abs/2609.12070](https://arxiv.org/abs/2609.12070)
