@@ -1,11 +1,12 @@
 ---
-title: "SkillSeam: Six Principles for Auditing Agent Skill Collections"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.13321
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13321
 next_step: skim
+priority: low
+slack_ts: '1789532922.774399'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SkillSeam: Six Principles for Auditing Agent Skill Collections'
 ---
 # SkillSeam: Six Principles for Auditing Agent Skill Collections
 > 原文: [https://arxiv.org/abs/2609.13321](https://arxiv.org/abs/2609.13321)

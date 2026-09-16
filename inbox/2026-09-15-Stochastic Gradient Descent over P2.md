@@ -1,11 +1,12 @@
 ---
-title: "Stochastic Gradient Descent over P2"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.13343
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13343
 next_step: skim
+priority: medium
+slack_ts: '1789532922.989399'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Stochastic Gradient Descent over P2
 ---
 # Stochastic Gradient Descent over P2
 > 原文: [https://arxiv.org/abs/2609.13343](https://arxiv.org/abs/2609.13343)

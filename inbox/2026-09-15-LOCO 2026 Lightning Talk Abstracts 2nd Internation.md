@@ -1,11 +1,13 @@
 ---
-title: "LOCO 2026 Lightning Talk Abstracts: 2nd International Workshop on Low Carbon Computing"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.13355
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13355
 next_step: skim
+priority: medium
+slack_ts: '1789532916.682709'
+source: cs.CY - Computers and Society
+status: unread
+title: 'LOCO 2026 Lightning Talk Abstracts: 2nd International Workshop on Low Carbon
+  Computing'
 ---
 # LOCO 2026 Lightning Talk Abstracts: 2nd International Workshop on Low Carbon Computing
 > 原文: [https://arxiv.org/abs/2609.13355](https://arxiv.org/abs/2609.13355)

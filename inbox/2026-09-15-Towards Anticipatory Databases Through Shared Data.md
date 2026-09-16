@@ -1,11 +1,12 @@
 ---
-title: "Towards Anticipatory Databases Through Shared Data and Workload Semantics"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.14255
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.14255
 next_step: skim
+priority: low
+slack_ts: '1789532923.698749'
+source: cs.DB - Databases
+status: unread
+title: Towards Anticipatory Databases Through Shared Data and Workload Semantics
 ---
 # Towards Anticipatory Databases Through Shared Data and Workload Semantics
 > 原文: [https://arxiv.org/abs/2609.14255](https://arxiv.org/abs/2609.14255)

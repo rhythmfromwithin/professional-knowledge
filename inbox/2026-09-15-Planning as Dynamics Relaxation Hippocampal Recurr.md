@@ -1,11 +1,13 @@
 ---
-title: "Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.13219
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13219
 next_step: skim
+priority: low
+slack_ts: '1789532920.592789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal
+  Goal-Directed Navigation'
 ---
 # Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation
 > 原文: [https://arxiv.org/abs/2609.13219](https://arxiv.org/abs/2609.13219)

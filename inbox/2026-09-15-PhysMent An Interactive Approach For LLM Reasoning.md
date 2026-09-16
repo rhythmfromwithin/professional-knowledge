@@ -1,11 +1,12 @@
 ---
-title: "PhysMent: An Interactive Approach For LLM Reasoning In Physics Problems"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.13152
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13152
 next_step: skim
+priority: high
+slack_ts: '1789532920.413269'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'PhysMent: An Interactive Approach For LLM Reasoning In Physics Problems'
 ---
 # PhysMent: An Interactive Approach For LLM Reasoning In Physics Problems
 > 原文: [https://arxiv.org/abs/2609.13152](https://arxiv.org/abs/2609.13152)

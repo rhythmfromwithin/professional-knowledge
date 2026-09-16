@@ -1,11 +1,12 @@
 ---
-title: "Numerical Stability of Linear Algebra Operations over Relational Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.13802
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13802
 next_step: skim
+priority: low
+slack_ts: '1789532917.942819'
+source: cs.DB - Databases
+status: unread
+title: Numerical Stability of Linear Algebra Operations over Relational Databases
 ---
 # Numerical Stability of Linear Algebra Operations over Relational Databases
 > 原文: [https://arxiv.org/abs/2609.13802](https://arxiv.org/abs/2609.13802)

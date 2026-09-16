@@ -1,11 +1,13 @@
 ---
-title: "Token Merging for Multilingual Speech Recognition: A Systematic Study Across Model Scale and Fine-Tuning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.13151
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13151
 next_step: skim
+priority: high
+slack_ts: '1789532923.523089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Token Merging for Multilingual Speech Recognition: A Systematic Study Across
+  Model Scale and Fine-Tuning'
 ---
 # Token Merging for Multilingual Speech Recognition: A Systematic Study Across Model Scale and Fine-Tuning
 > 原文: [https://arxiv.org/abs/2609.13151](https://arxiv.org/abs/2609.13151)

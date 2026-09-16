@@ -1,11 +1,12 @@
 ---
-title: "SkillAtlas: An Attack Trace Library for Agent Skills"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.13353
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13353
 next_step: skim
+priority: low
+slack_ts: '1789532922.581999'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'SkillAtlas: An Attack Trace Library for Agent Skills'
 ---
 # SkillAtlas: An Attack Trace Library for Agent Skills
 > 原文: [https://arxiv.org/abs/2609.13353](https://arxiv.org/abs/2609.13353)

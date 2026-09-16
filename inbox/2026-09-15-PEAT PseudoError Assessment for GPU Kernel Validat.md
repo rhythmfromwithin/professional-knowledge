@@ -1,11 +1,12 @@
 ---
-title: "PEAT: Pseudo-Error Assessment for GPU Kernel Validation in DNN Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.13544
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13544
 next_step: skim
+priority: medium
+slack_ts: '1789532918.495269'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'PEAT: Pseudo-Error Assessment for GPU Kernel Validation in DNN Training'
 ---
 # PEAT: Pseudo-Error Assessment for GPU Kernel Validation in DNN Training
 > 原文: [https://arxiv.org/abs/2609.13544](https://arxiv.org/abs/2609.13544)

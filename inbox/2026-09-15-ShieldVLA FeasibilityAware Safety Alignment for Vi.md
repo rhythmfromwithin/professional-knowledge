@@ -1,11 +1,12 @@
 ---
-title: "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.13231
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13231
 next_step: skim
+priority: medium
+slack_ts: '1789532922.380469'
+source: cs.RO - Robotics
+status: unread
+title: 'ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models'
 ---
 # ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2609.13231](https://arxiv.org/abs/2609.13231)

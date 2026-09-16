@@ -1,11 +1,12 @@
 ---
-title: "picoRing dual: ultralow-power bimanual ring controllers for everyday AR"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.13160
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13160
 next_step: skim
+priority: low
+slack_ts: '1789532924.949819'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'picoRing dual: ultralow-power bimanual ring controllers for everyday AR'
 ---
 # picoRing dual: ultralow-power bimanual ring controllers for everyday AR
 > 原文: [https://arxiv.org/abs/2609.13160](https://arxiv.org/abs/2609.13160)

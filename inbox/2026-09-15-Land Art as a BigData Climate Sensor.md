@@ -1,11 +1,12 @@
 ---
-title: "Land Art as a Big-Data Climate Sensor"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.13182
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13182
 next_step: skim
+priority: high
+slack_ts: '1789532916.857499'
+source: cs.LG - Machine Learning
+status: unread
+title: Land Art as a Big-Data Climate Sensor
 ---
 # Land Art as a Big-Data Climate Sensor
 > 原文: [https://arxiv.org/abs/2609.13182](https://arxiv.org/abs/2609.13182)

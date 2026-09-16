@@ -1,11 +1,13 @@
 ---
-title: "Personalized and Explainable Blood Pressure Estimation from PPG via Hybrid CNN--Morphological Features"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.13190
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13190
 next_step: skim
+priority: medium
+slack_ts: '1789532920.237469'
+source: cs.CV - Computer Vision
+status: unread
+title: Personalized and Explainable Blood Pressure Estimation from PPG via Hybrid
+  CNN--Morphological Features
 ---
 # Personalized and Explainable Blood Pressure Estimation from PPG via Hybrid CNN--Morphological Features
 > 原文: [https://arxiv.org/abs/2609.13190](https://arxiv.org/abs/2609.13190)

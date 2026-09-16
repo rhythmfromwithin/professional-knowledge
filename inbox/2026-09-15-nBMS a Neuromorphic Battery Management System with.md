@@ -1,11 +1,13 @@
 ---
-title: "nBMS, a Neuromorphic Battery Management System with a Silicon-Validated Spiking State-of-Charge Core for eVTOL Aircraft"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.13506
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13506
 next_step: skim
+priority: low
+slack_ts: '1789532924.769599'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: nBMS, a Neuromorphic Battery Management System with a Silicon-Validated Spiking
+  State-of-Charge Core for eVTOL Aircraft
 ---
 # nBMS, a Neuromorphic Battery Management System with a Silicon-Validated Spiking State-of-Charge Core for eVTOL Aircraft
 > 原文: [https://arxiv.org/abs/2609.13506](https://arxiv.org/abs/2609.13506)

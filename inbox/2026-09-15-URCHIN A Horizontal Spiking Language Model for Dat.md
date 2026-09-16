@@ -1,11 +1,12 @@
 ---
-title: "URCHIN: A Horizontal Spiking Language Model for Data-Constrained Pretraining"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.13899
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13899
 next_step: skim
+priority: low
+slack_ts: '1789532923.873179'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'URCHIN: A Horizontal Spiking Language Model for Data-Constrained Pretraining'
 ---
 # URCHIN: A Horizontal Spiking Language Model for Data-Constrained Pretraining
 > 原文: [https://arxiv.org/abs/2609.13899](https://arxiv.org/abs/2609.13899)

@@ -1,11 +1,13 @@
 ---
-title: "When Can You Trust Your Synthetic Users? Diagnostics and Corrections for LLM Consumer Panels"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.13148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13148
 next_step: skim
+priority: low
+slack_ts: '1789532924.235799'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: When Can You Trust Your Synthetic Users? Diagnostics and Corrections for LLM
+  Consumer Panels
 ---
 # When Can You Trust Your Synthetic Users? Diagnostics and Corrections for LLM Consumer Panels
 > 原文: [https://arxiv.org/abs/2609.13148](https://arxiv.org/abs/2609.13148)

@@ -1,11 +1,12 @@
 ---
-title: "Redistributive Policies for the Times of Transformative AI"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.14750
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.14750
 next_step: skim
+priority: low
+slack_ts: '1789532921.552729'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Redistributive Policies for the Times of Transformative AI
 ---
 # Redistributive Policies for the Times of Transformative AI
 > 原文: [https://arxiv.org/abs/2609.14750](https://arxiv.org/abs/2609.14750)

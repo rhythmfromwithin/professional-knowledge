@@ -1,11 +1,13 @@
 ---
-title: "PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.13155
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13155
 next_step: skim
+priority: low
+slack_ts: '1789532918.302359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive
+  Offloading'
 ---
 # PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
 > 原文: [https://arxiv.org/abs/2609.13155](https://arxiv.org/abs/2609.13155)

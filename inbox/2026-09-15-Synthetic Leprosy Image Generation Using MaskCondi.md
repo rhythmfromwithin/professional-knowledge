@@ -1,11 +1,13 @@
 ---
-title: "Synthetic Leprosy Image Generation Using Mask-Conditioned Latent Diffusion and Transfer Learning from Large Chronic Wound Datasets"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.13226
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13226
 next_step: skim
+priority: medium
+slack_ts: '1789532923.346559'
+source: cs.CV - Computer Vision
+status: unread
+title: Synthetic Leprosy Image Generation Using Mask-Conditioned Latent Diffusion
+  and Transfer Learning from Large Chronic Wound Datasets
 ---
 # Synthetic Leprosy Image Generation Using Mask-Conditioned Latent Diffusion and Transfer Learning from Large Chronic Wound Datasets
 > 原文: [https://arxiv.org/abs/2609.13226](https://arxiv.org/abs/2609.13226)

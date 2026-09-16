@@ -1,11 +1,13 @@
 ---
-title: "Seeing What the Vehicle Sees: Video-Augmented Virtual Reality for Physical Autonomous Vehicles"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.13224
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13224
 next_step: skim
+priority: medium
+slack_ts: '1789532922.001899'
+source: cs.RO - Robotics
+status: unread
+title: 'Seeing What the Vehicle Sees: Video-Augmented Virtual Reality for Physical
+  Autonomous Vehicles'
 ---
 # Seeing What the Vehicle Sees: Video-Augmented Virtual Reality for Physical Autonomous Vehicles
 > 原文: [https://arxiv.org/abs/2609.13224](https://arxiv.org/abs/2609.13224)

@@ -1,0 +1,14 @@
+---
+title: "Hyperbolic Contrastive Learning with Entailment for Spatial Transcriptomics"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2609.16207
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Hyperbolic Contrastive Learning with Entailment for Spatial Transcriptomics
+> 原文: [https://arxiv.org/abs/2609.16207](https://arxiv.org/abs/2609.16207)
+
+arXiv:2609.16207v1 Announce Type: new
+Abstract: Spatial Transcriptomics (ST) has transformed biomedical research by enabling the spatial mapping of gene expression across tissue sections. However, high operational costs, specialized equipment requirements, and sensitivity to experimental noise limit the accessibility and scalability of ST. Recent computer vision approaches aim to overcome these limitations by predicting spatial gene expression directly from histopathology images. While effective, current approaches often suffer from gene expression over-smoothing and overly uniform predictions across tissue regions, suggesting that further progress depends on learning representations that reflect the hierarchical and asymmetric structure of gene regulation and tissue morphology. To address these issues, we propose Hyperbolic Contrastive Learning with Entailment for Spatial Transcriptomics (HyCLoST), a hyperbolic contrastive learning model that captures the intrinsic hierarchical relationships within ST data. By leveraging hyperbolic geometry and a gene-to-image entailment loss, HyCLoST learns structured, biologically grounded representations that improve gene expression prediction accuracy, achieving a 6% reduction in MSE and an 8% increase in PCC across 26 ST datasets, over previous methods. Our source code is publicly available at https://github.com/BCV-Uniandes/HyCLoST

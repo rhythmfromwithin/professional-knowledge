@@ -1,11 +1,13 @@
 ---
-title: "Part Grounding, Not Action Knowledge: Locating the Bottleneck in VLM Affordance Prediction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.13225
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13225
 next_step: skim
+priority: medium
+slack_ts: '1789532918.667619'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Part Grounding, Not Action Knowledge: Locating the Bottleneck in VLM Affordance
+  Prediction'
 ---
 # Part Grounding, Not Action Knowledge: Locating the Bottleneck in VLM Affordance Prediction
 > 原文: [https://arxiv.org/abs/2609.13225](https://arxiv.org/abs/2609.13225)

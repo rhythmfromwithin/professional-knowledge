@@ -1,11 +1,13 @@
 ---
-title: "Lexical Prompt Compression for Large Language Models: A Training-Free, Deterministic Pipeline with Empirical Pareto Analysis Across Eleven Task Categories"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.13154
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13154
 next_step: skim
+priority: high
+slack_ts: '1789532917.034289'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Lexical Prompt Compression for Large Language Models: A Training-Free, Deterministic
+  Pipeline with Empirical Pareto Analysis Across Eleven Task Categories'
 ---
 # Lexical Prompt Compression for Large Language Models: A Training-Free, Deterministic Pipeline with Empirical Pareto Analysis Across Eleven Task Categories
 > 原文: [https://arxiv.org/abs/2609.13154](https://arxiv.org/abs/2609.13154)
