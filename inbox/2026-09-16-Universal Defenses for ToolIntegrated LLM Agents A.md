@@ -1,11 +1,12 @@
 ---
-title: "Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.16098
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16098
 next_step: skim
+priority: low
+slack_ts: '1789619666.133959'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks
 ---
 # Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks
 > 原文: [https://arxiv.org/abs/2609.16098](https://arxiv.org/abs/2609.16098)

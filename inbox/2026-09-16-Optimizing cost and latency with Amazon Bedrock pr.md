@@ -1,11 +1,12 @@
 ---
-title: "Optimizing cost and latency with Amazon Bedrock prompt caching"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/
 next_step: skim
+priority: high
+slack_ts: '1789619662.845309'
+source: AWS Blog
+status: unread
+title: Optimizing cost and latency with Amazon Bedrock prompt caching
 ---
 # Optimizing cost and latency with Amazon Bedrock prompt caching
 > 原文: [https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)

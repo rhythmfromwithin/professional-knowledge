@@ -1,11 +1,12 @@
 ---
-title: "Vectorization Of Narrow Matrix Multiplication for Ascend AI Inference Acceleration"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.16009
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16009
 next_step: skim
+priority: medium
+slack_ts: '1789619666.594379'
+source: cs.DC - Distributed Computing
+status: unread
+title: Vectorization Of Narrow Matrix Multiplication for Ascend AI Inference Acceleration
 ---
 # Vectorization Of Narrow Matrix Multiplication for Ascend AI Inference Acceleration
 > 原文: [https://arxiv.org/abs/2609.16009](https://arxiv.org/abs/2609.16009)

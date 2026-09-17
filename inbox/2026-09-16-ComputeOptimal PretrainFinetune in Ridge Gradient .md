@@ -1,11 +1,12 @@
 ---
-title: "Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Descent"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.16262
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16262
 next_step: skim
+priority: medium
+slack_ts: '1789619655.102999'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Descent
 ---
 # Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Descent
 > 原文: [https://arxiv.org/abs/2609.16262](https://arxiv.org/abs/2609.16262)

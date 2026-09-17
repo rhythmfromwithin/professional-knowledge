@@ -1,11 +1,13 @@
 ---
-title: "Optimal Model Activation Policies for Inference Networks of Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.15992
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.15992
 next_step: skim
+priority: high
+slack_ts: '1789619662.613279'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Optimal Model Activation Policies for Inference Networks of Large Language
+  Models
 ---
 # Optimal Model Activation Policies for Inference Networks of Large Language Models
 > 原文: [https://arxiv.org/abs/2609.15992](https://arxiv.org/abs/2609.15992)

@@ -1,11 +1,13 @@
 ---
-title: "Joint UAV Activation and Placement for Post-Disaster Wireless Restoration via a Hybrid Quantum-Inspired Evolutionary Framework"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.16019
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16019
 next_step: skim
+priority: low
+slack_ts: '1789619659.487379'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Joint UAV Activation and Placement for Post-Disaster Wireless Restoration via
+  a Hybrid Quantum-Inspired Evolutionary Framework
 ---
 # Joint UAV Activation and Placement for Post-Disaster Wireless Restoration via a Hybrid Quantum-Inspired Evolutionary Framework
 > 原文: [https://arxiv.org/abs/2609.16019](https://arxiv.org/abs/2609.16019)

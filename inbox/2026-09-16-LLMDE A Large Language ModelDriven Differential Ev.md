@@ -1,11 +1,13 @@
 ---
-title: "LLMDE: A Large Language Model-Driven Differential Evolution Algorithm for Portfolio Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.16846
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16846
 next_step: skim
+priority: low
+slack_ts: '1789619659.780329'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'LLMDE: A Large Language Model-Driven Differential Evolution Algorithm for
+  Portfolio Optimization'
 ---
 # LLMDE: A Large Language Model-Driven Differential Evolution Algorithm for Portfolio Optimization
 > 原文: [https://arxiv.org/abs/2609.16846](https://arxiv.org/abs/2609.16846)

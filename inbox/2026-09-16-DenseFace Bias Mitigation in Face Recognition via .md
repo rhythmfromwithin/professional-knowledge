@@ -1,11 +1,13 @@
 ---
-title: "DenseFace: Bias Mitigation in Face Recognition via Density-Aware Probabilistic Matching"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.16149
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16149
 next_step: skim
+priority: medium
+slack_ts: '1789619655.781749'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DenseFace: Bias Mitigation in Face Recognition via Density-Aware Probabilistic
+  Matching'
 ---
 # DenseFace: Bias Mitigation in Face Recognition via Density-Aware Probabilistic Matching
 > 原文: [https://arxiv.org/abs/2609.16149](https://arxiv.org/abs/2609.16149)

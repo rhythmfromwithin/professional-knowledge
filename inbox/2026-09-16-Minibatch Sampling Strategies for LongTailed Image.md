@@ -1,11 +1,13 @@
 ---
-title: "Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.16365
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16365
 next_step: skim
+priority: medium
+slack_ts: '1789619661.682999'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical
+  Study on CIFAR-100-LT'
 ---
 # Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT
 > 原文: [https://arxiv.org/abs/2609.16365](https://arxiv.org/abs/2609.16365)

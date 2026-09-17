@@ -1,11 +1,12 @@
 ---
-title: "The Functionalizer: Lossless Functional Decomposition for Subword Tokenization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.15991
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.15991
 next_step: skim
+priority: high
+slack_ts: '1789619665.891189'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Functionalizer: Lossless Functional Decomposition for Subword Tokenization'
 ---
 # The Functionalizer: Lossless Functional Decomposition for Subword Tokenization
 > 原文: [https://arxiv.org/abs/2609.15991](https://arxiv.org/abs/2609.15991)

@@ -1,11 +1,12 @@
 ---
-title: "Coaching Qwen3 Coder 30B to Think Like a CodeClash Arena Agent"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.16096
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16096
 next_step: skim
+priority: low
+slack_ts: '1789619654.877459'
+source: cs.SE - Software Engineering
+status: unread
+title: Coaching Qwen3 Coder 30B to Think Like a CodeClash Arena Agent
 ---
 # Coaching Qwen3 Coder 30B to Think Like a CodeClash Arena Agent
 > 原文: [https://arxiv.org/abs/2609.16096](https://arxiv.org/abs/2609.16096)

@@ -1,11 +1,12 @@
 ---
-title: "SuperSenseDoctor: A Multimodal and Contactless Agent for Health Tracking"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.16257
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16257
 next_step: skim
+priority: low
+slack_ts: '1789619665.400139'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SuperSenseDoctor: A Multimodal and Contactless Agent for Health Tracking'
 ---
 # SuperSenseDoctor: A Multimodal and Contactless Agent for Health Tracking
 > 原文: [https://arxiv.org/abs/2609.16257](https://arxiv.org/abs/2609.16257)

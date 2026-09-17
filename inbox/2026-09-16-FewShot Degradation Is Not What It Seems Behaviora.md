@@ -1,11 +1,13 @@
 ---
-title: "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.15990
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.15990
 next_step: skim
+priority: high
+slack_ts: '1789619656.727219'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation
+  Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures'
 ---
 # Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures
 > 原文: [https://arxiv.org/abs/2609.15990](https://arxiv.org/abs/2609.15990)

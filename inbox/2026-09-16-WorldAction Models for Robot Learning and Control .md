@@ -1,11 +1,12 @@
 ---
-title: "World-Action Models for Robot Learning and Control: A Survey"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.16074
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16074
 next_step: skim
+priority: medium
+slack_ts: '1789619667.056479'
+source: cs.RO - Robotics
+status: unread
+title: 'World-Action Models for Robot Learning and Control: A Survey'
 ---
 # World-Action Models for Robot Learning and Control: A Survey
 > 原文: [https://arxiv.org/abs/2609.16074](https://arxiv.org/abs/2609.16074)

@@ -1,11 +1,5 @@
 ---
-title: "When AI Says "I Am Unable to Answer": Understanding User Responses to AI Refusals"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.16191
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1789619666.821689'
 ---
 # When AI Says "I Am Unable to Answer": Understanding User Responses to AI Refusals
 > 原文: [https://arxiv.org/abs/2609.16191](https://arxiv.org/abs/2609.16191)

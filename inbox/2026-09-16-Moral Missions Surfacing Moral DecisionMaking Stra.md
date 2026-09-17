@@ -1,11 +1,13 @@
 ---
-title: "Moral Missions: Surfacing Moral Decision-Making Strategies for Responsible Data Science Practice"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.16166
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16166
 next_step: skim
+priority: low
+slack_ts: '1789619661.923319'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Moral Missions: Surfacing Moral Decision-Making Strategies for Responsible
+  Data Science Practice'
 ---
 # Moral Missions: Surfacing Moral Decision-Making Strategies for Responsible Data Science Practice
 > 原文: [https://arxiv.org/abs/2609.16166](https://arxiv.org/abs/2609.16166)

@@ -1,0 +1,14 @@
+---
+title: "Participant-Mediated Collection of Sensitive Digital Trace Data: The CANDOR Research Infrastructure"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2609.17722
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Participant-Mediated Collection of Sensitive Digital Trace Data: The CANDOR Research Infrastructure
+> 原文: [https://arxiv.org/abs/2609.17722](https://arxiv.org/abs/2609.17722)
+
+arXiv:2609.17722v1 Announce Type: new
+Abstract: Digital trace data provide rich measures of behavior in everyday settings, but the research ecosystem supporting their collection is constrained by declining platform API access and a historical reliance on publicly observable data. Participant-mediated data donation offers a complementary approach in which individuals contribute selected portions of their own digital histories to research. Such data can include longitudinal and non-public behavior, span multiple platforms and modalities, and be linked to independently collected study measures, enabling study designs that are difficult to implement using public social media data alone. These opportunities also introduce methodological challenges around participant control, data minimization, heterogeneous platform exports, privacy, and governance, particularly when semantic or multimodal content is necessary to study the construct of interest. We present CANDOR (Collecting and Analyzing Networked Data for Open Research), an end-to-end infrastructure for participant-mediated collection and governance of sensitive digital trace data. CANDOR supports participant-directed selection of platforms, data types, and temporal ranges; modular platform- and modality-specific parsing and de-identification; linkage to independent study measures; and protected processing, storage, and access. We derive design requirements for this class of research and compare CANDOR with existing data donation infrastructures, identifying how different approaches support participant control, data minimization, scientifically necessary data richness, study-design flexibility, and governance. Together, this work provides a methodological and infrastructural framework for using participant-contributed digital traces in behavioral research, particularly when the data needed to address a scientific question are longitudinal, non-public, multimodal, or sensitive.

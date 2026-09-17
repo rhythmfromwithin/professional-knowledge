@@ -1,11 +1,12 @@
 ---
-title: "Feasibility of Homomorphic Inference for a Genomic Foundation Model"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.16211
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16211
 next_step: skim
+priority: low
+slack_ts: '1789619656.483239'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Feasibility of Homomorphic Inference for a Genomic Foundation Model
 ---
 # Feasibility of Homomorphic Inference for a Genomic Foundation Model
 > 原文: [https://arxiv.org/abs/2609.16211](https://arxiv.org/abs/2609.16211)

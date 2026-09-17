@@ -1,11 +1,12 @@
 ---
-title: "Novel Iterative Construction Methods for the Blocking Job Shop Scheduling Problem"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.16007
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16007
 next_step: skim
+priority: medium
+slack_ts: '1789619662.155999'
+source: cs.DC - Distributed Computing
+status: unread
+title: Novel Iterative Construction Methods for the Blocking Job Shop Scheduling Problem
 ---
 # Novel Iterative Construction Methods for the Blocking Job Shop Scheduling Problem
 > 原文: [https://arxiv.org/abs/2609.16007](https://arxiv.org/abs/2609.16007)

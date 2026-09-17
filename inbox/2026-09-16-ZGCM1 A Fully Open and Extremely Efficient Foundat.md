@@ -1,11 +1,13 @@
 ---
-title: "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.13356
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.13356
 next_step: skim
+priority: high
+slack_ts: '1789619667.299499'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and
+  Agentic Search'
 ---
 # ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search
 > 原文: [https://arxiv.org/abs/2609.13356](https://arxiv.org/abs/2609.13356)

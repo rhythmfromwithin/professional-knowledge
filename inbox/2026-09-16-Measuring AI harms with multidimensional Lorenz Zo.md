@@ -1,11 +1,12 @@
 ---
-title: "Measuring AI harms with multidimensional Lorenz Zonoids"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.16004
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16004
 next_step: skim
+priority: medium
+slack_ts: '1789619660.760519'
+source: cs.CY - Computers and Society
+status: unread
+title: Measuring AI harms with multidimensional Lorenz Zonoids
 ---
 # Measuring AI harms with multidimensional Lorenz Zonoids
 > 原文: [https://arxiv.org/abs/2609.16004](https://arxiv.org/abs/2609.16004)

@@ -1,11 +1,13 @@
 ---
-title: "Docker Containers vs. Virtual Machines: A Comparative Study of Architecture, Performance, Configuration, and Security"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.16148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16148
 next_step: skim
+priority: low
+slack_ts: '1789619656.239659'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Docker Containers vs. Virtual Machines: A Comparative Study of Architecture,
+  Performance, Configuration, and Security'
 ---
 # Docker Containers vs. Virtual Machines: A Comparative Study of Architecture, Performance, Configuration, and Security
 > 原文: [https://arxiv.org/abs/2609.16148](https://arxiv.org/abs/2609.16148)

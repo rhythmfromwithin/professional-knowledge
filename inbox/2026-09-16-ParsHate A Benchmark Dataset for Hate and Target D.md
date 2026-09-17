@@ -1,11 +1,12 @@
 ---
-title: "ParsHate: A Benchmark Dataset for Hate and Target Detection in Persian"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.16393
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16393
 next_step: skim
+priority: low
+slack_ts: '1789619663.084289'
+source: cs.DB - Databases
+status: unread
+title: 'ParsHate: A Benchmark Dataset for Hate and Target Detection in Persian'
 ---
 # ParsHate: A Benchmark Dataset for Hate and Target Detection in Persian
 > 原文: [https://arxiv.org/abs/2609.16393](https://arxiv.org/abs/2609.16393)

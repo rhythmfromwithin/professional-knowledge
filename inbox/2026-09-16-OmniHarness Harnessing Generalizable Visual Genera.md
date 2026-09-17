@@ -1,11 +1,13 @@
 ---
-title: "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.16057
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16057
 next_step: skim
+priority: high
+slack_ts: '1789619662.387769'
+source: cs.LG - Machine Learning
+status: unread
+title: 'OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy
+  Learning'
 ---
 # OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning
 > 原文: [https://arxiv.org/abs/2609.16057](https://arxiv.org/abs/2609.16057)

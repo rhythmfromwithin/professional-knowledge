@@ -1,11 +1,12 @@
 ---
-title: "Co-Skill: A Collaborative Communication Framework for Skill Evolution"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.16008
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16008
 next_step: skim
+priority: medium
+slack_ts: '1789619654.648239'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Co-Skill: A Collaborative Communication Framework for Skill Evolution'
 ---
 # Co-Skill: A Collaborative Communication Framework for Skill Evolution
 > 原文: [https://arxiv.org/abs/2609.16008](https://arxiv.org/abs/2609.16008)

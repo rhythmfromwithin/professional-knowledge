@@ -1,11 +1,12 @@
 ---
-title: "Vector fields, initial scaffolds and database reduction"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.16221
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16221
 next_step: skim
+priority: low
+slack_ts: '1789619666.364289'
+source: cs.DB - Databases
+status: unread
+title: Vector fields, initial scaffolds and database reduction
 ---
 # Vector fields, initial scaffolds and database reduction
 > 原文: [https://arxiv.org/abs/2609.16221](https://arxiv.org/abs/2609.16221)

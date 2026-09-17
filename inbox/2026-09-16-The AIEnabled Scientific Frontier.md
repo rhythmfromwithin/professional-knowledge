@@ -1,11 +1,12 @@
 ---
-title: "The AI-Enabled Scientific Frontier"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.16258
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16258
 next_step: skim
+priority: low
+slack_ts: '1789619665.638169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The AI-Enabled Scientific Frontier
 ---
 # The AI-Enabled Scientific Frontier
 > 原文: [https://arxiv.org/abs/2609.16258](https://arxiv.org/abs/2609.16258)

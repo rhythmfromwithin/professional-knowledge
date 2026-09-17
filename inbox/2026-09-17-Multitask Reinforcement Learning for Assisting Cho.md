@@ -1,0 +1,14 @@
+---
+title: "Multitask Reinforcement Learning for Assisting Choice Model Specification"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2609.18441
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Multitask Reinforcement Learning for Assisting Choice Model Specification
+> 原文: [https://arxiv.org/abs/2609.18441](https://arxiv.org/abs/2609.18441)
+
+arXiv:2609.18441v1 Announce Type: new
+Abstract: Discrete choice model specification is a time-consuming task in which modellers often specify and estimate multiple models while balancing goodness-of-fit, parsimony, and behavioural plausibility. We present Delphos, a multitask reinforcement learning framework that learns transferable specification strategies across transport choice datasets. Delphos frames model specification as a sequential decision-making problem in which it applies a sequence of modelling actions and receives feedback from an estimation environment based on model performance and convergence. To transfer modelling decisions across datasets with different sets of variables, Delphos represents utility specifications as sets of modelling terms using a DeepSet-Q architecture, allowing a shared specification policy to learn across multiple datasets. Trained on nine transport choice datasets, Delphos consistently outperforms independently trained single-task agents, indicating that sharing modelling experience improves learning efficiency and helps identify promising sequences of modelling decisions with fewer unsuccessful estimation attempts. When applied without further training to the unseen Swissmetro and Decisions datasets, the same agent identifies competitive specifications in less than 20 minutes on a standard CPU. It achieves a higher log-likelihood per observation than the VNS metaheuristic on Swissmetro and performance comparable to a published MNL specification developed by expert modellers on Decisions. These findings show that accumulating and reusing modelling experience enables Delphos to function as an intelligent assistant for discrete choice model specification. It reduces manual trial-and-error while allowing modellers to retain control over model diagnosis, refinement, and final selection.

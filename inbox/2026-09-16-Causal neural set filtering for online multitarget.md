@@ -1,11 +1,12 @@
 ---
-title: "Causal neural set filtering for online multi-target tracking"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.16054
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16054
 next_step: skim
+priority: high
+slack_ts: '1789619654.413809'
+source: cs.LG - Machine Learning
+status: unread
+title: Causal neural set filtering for online multi-target tracking
 ---
 # Causal neural set filtering for online multi-target tracking
 > 原文: [https://arxiv.org/abs/2609.16054](https://arxiv.org/abs/2609.16054)

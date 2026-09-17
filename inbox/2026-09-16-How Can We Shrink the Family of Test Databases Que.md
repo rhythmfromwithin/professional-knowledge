@@ -1,11 +1,13 @@
 ---
-title: "How Can We Shrink the Family of Test Databases? Query Containment with Nulls and Comparisons"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.16218
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16218
 next_step: skim
+priority: low
+slack_ts: '1789619657.894869'
+source: cs.DB - Databases
+status: unread
+title: How Can We Shrink the Family of Test Databases? Query Containment with Nulls
+  and Comparisons
 ---
 # How Can We Shrink the Family of Test Databases? Query Containment with Nulls and Comparisons
 > 原文: [https://arxiv.org/abs/2609.16218](https://arxiv.org/abs/2609.16218)

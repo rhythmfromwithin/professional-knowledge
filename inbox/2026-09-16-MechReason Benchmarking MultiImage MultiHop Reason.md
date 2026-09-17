@@ -1,11 +1,12 @@
 ---
-title: "MechReason: Benchmarking Multi-Image Multi-Hop Reasoning in Mechanical Engineering"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.16012
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.16012
 next_step: skim
+priority: medium
+slack_ts: '1789619660.989279'
+source: cs.CV - Computer Vision
+status: unread
+title: 'MechReason: Benchmarking Multi-Image Multi-Hop Reasoning in Mechanical Engineering'
 ---
 # MechReason: Benchmarking Multi-Image Multi-Hop Reasoning in Mechanical Engineering
 > 原文: [https://arxiv.org/abs/2609.16012](https://arxiv.org/abs/2609.16012)
