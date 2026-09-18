@@ -1,0 +1,14 @@
+---
+title: "BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2609.19699
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems
+> 原文: [https://arxiv.org/abs/2609.19699](https://arxiv.org/abs/2609.19699)
+
+arXiv:2609.19699v1 Announce Type: new
+Abstract: Modern vehicular embedded systems increasingly combine ROS 2-based autonomous-driving stacks with AUTOSAR Adaptive Platform (AUTOSAR AP). Such mixed stacks make scenario-based evaluation hard to interpret because execution paths cross DDS-SOME/IP middleware boundaries between ROS 2 and AUTOSAR AP. Existing simulators and tracing tools execute scenarios or collect platform-local traces but cannot reconstruct cross-domain data flows. This paper presents BA-TRACE, a boundary-aware trace reconstruction framework for scenario-based evaluation of mixed AUTOSAR AP and ROS 2 vehicular embedded systems. BA-TRACE combines ROS 2 trace events, AUTOSAR ara::log events, ARXML-derived structural dependencies, and bridge-level instrumentation to reconstruct an end-to-end execution graph across the DDS-SOME/IP boundary. A case study with an AWSIM/OpenSCENARIO-based object-detection and braking scenario shows that BA-TRACE reconstructs the expected cross-platform path and exposes boundary-specific latency such as point-cloud transfer overhead. The reconstructed topology is used as evidence of traceability, not as proof of behavioral correctness or safety.

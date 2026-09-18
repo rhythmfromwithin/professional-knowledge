@@ -1,11 +1,12 @@
 ---
-title: "Neural noise enables accurate internal simulation of rare events"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.18033
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18033
 next_step: skim
+priority: low
+slack_ts: '1789705163.654679'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Neural noise enables accurate internal simulation of rare events
 ---
 # Neural noise enables accurate internal simulation of rare events
 > 原文: [https://arxiv.org/abs/2609.18033](https://arxiv.org/abs/2609.18033)

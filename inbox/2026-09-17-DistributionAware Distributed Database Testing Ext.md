@@ -1,11 +1,12 @@
 ---
-title: "Distribution-Aware Distributed Database Testing (Extended Version)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.18501
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18501
 next_step: skim
+priority: low
+slack_ts: '1789705159.872319'
+source: cs.DB - Databases
+status: unread
+title: Distribution-Aware Distributed Database Testing (Extended Version)
 ---
 # Distribution-Aware Distributed Database Testing (Extended Version)
 > 原文: [https://arxiv.org/abs/2609.18501](https://arxiv.org/abs/2609.18501)

@@ -1,11 +1,13 @@
 ---
-title: "Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics Agents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.17842
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17842
 next_step: skim
+priority: low
+slack_ts: '1789705162.615449'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics
+  Agents'
 ---
 # Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics Agents
 > 原文: [https://arxiv.org/abs/2609.17842](https://arxiv.org/abs/2609.17842)

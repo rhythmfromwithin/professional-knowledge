@@ -1,11 +1,12 @@
 ---
-title: "DANTINOX: A Unified Framework for Multi-Paradigm Language Modeling"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.17535
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17535
 next_step: skim
+priority: high
+slack_ts: '1789705159.441469'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DANTINOX: A Unified Framework for Multi-Paradigm Language Modeling'
 ---
 # DANTINOX: A Unified Framework for Multi-Paradigm Language Modeling
 > 原文: [https://arxiv.org/abs/2609.17535](https://arxiv.org/abs/2609.17535)

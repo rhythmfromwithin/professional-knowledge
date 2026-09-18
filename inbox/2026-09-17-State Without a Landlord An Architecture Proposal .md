@@ -1,11 +1,13 @@
 ---
-title: "State Without a Landlord: An Architecture Proposal for Peer-to-Peer Replication of Durable Workflow State"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.17645
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17645
 next_step: skim
+priority: low
+slack_ts: '1789705166.073739'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'State Without a Landlord: An Architecture Proposal for Peer-to-Peer Replication
+  of Durable Workflow State'
 ---
 # State Without a Landlord: An Architecture Proposal for Peer-to-Peer Replication of Durable Workflow State
 > 原文: [https://arxiv.org/abs/2609.17645](https://arxiv.org/abs/2609.17645)

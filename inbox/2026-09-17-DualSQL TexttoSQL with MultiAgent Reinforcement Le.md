@@ -1,11 +1,12 @@
 ---
-title: "DualSQL: Text-to-SQL with Multi-Agent Reinforcement Learning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.18135
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18135
 next_step: skim
+priority: low
+slack_ts: '1789705160.012139'
+source: cs.DB - Databases
+status: unread
+title: 'DualSQL: Text-to-SQL with Multi-Agent Reinforcement Learning'
 ---
 # DualSQL: Text-to-SQL with Multi-Agent Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2609.18135](https://arxiv.org/abs/2609.18135)

@@ -1,0 +1,14 @@
+---
+title: "Robust Conformal Intrusion Detection via Traffic-Aware Calibration and Attack-Orbit Invariance"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2609.19241
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Robust Conformal Intrusion Detection via Traffic-Aware Calibration and Attack-Orbit Invariance
+> 原文: [https://arxiv.org/abs/2609.19241](https://arxiv.org/abs/2609.19241)
+
+arXiv:2609.19241v1 Announce Type: new
+Abstract: Large language models fine-tuned for network intrusion detection emit single-point predictions without statistical validity guarantees. Conformal prediction supplies a finite-sample coverage guarantee, but a threshold calibrated on clean traffic fails once an adversary perturbs controllable network features. We demonstrate this failure across three intrusion detection benchmarks and propose traffic-aware conformal prediction, which calibrates on traffic drawn from the perturbation mechanism an attacker is expected to use and provably restores coverage whenever that mechanism is known and can be sampled. A stronger, adaptive attacker that queries the target model's own score can still degrade this matched-calibration guarantee. We address this second threat model by excluding attacker-controllable features and their deterministic descendants from the scored representation, and prove that this yields an exact, pathwise coverage guarantee rather than a probabilistic bound. Across three independently fine-tuned language model architectures, this representation remains completely unchanged under every evaluated attack attempt, at a quantified seven-to-fourteen-point cost in clean accuracy relative to the unrestricted feature set.

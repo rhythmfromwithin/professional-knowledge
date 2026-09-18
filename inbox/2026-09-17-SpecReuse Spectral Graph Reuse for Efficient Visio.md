@@ -1,11 +1,12 @@
 ---
-title: "SpecReuse: Spectral Graph Reuse for Efficient Vision GNN Inference on FPGAs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.17718
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17718
 next_step: skim
+priority: medium
+slack_ts: '1789705165.925019'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SpecReuse: Spectral Graph Reuse for Efficient Vision GNN Inference on FPGAs'
 ---
 # SpecReuse: Spectral Graph Reuse for Efficient Vision GNN Inference on FPGAs
 > 原文: [https://arxiv.org/abs/2609.17718](https://arxiv.org/abs/2609.17718)

@@ -1,11 +1,12 @@
 ---
-title: "Improving HCLS AI reasoning with open-source agent skills"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/
 next_step: skim
+priority: high
+slack_ts: '1789705161.860579'
+source: AWS Blog
+status: unread
+title: Improving HCLS AI reasoning with open-source agent skills
 ---
 # Improving HCLS AI reasoning with open-source agent skills
 > 原文: [https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/)

@@ -1,11 +1,12 @@
 ---
-title: "Multitask Reinforcement Learning for Assisting Choice Model Specification"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.18441
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18441
 next_step: skim
+priority: low
+slack_ts: '1789705163.501739'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Multitask Reinforcement Learning for Assisting Choice Model Specification
 ---
 # Multitask Reinforcement Learning for Assisting Choice Model Specification
 > 原文: [https://arxiv.org/abs/2609.18441](https://arxiv.org/abs/2609.18441)

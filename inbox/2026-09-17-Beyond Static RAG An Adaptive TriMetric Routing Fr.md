@@ -1,11 +1,13 @@
 ---
-title: "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.17564
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17564
 next_step: skim
+priority: high
+slack_ts: '1789705158.470339'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient
+  Long-Context Inference on Commodity GPUs'
 ---
 # Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs
 > 原文: [https://arxiv.org/abs/2609.17564](https://arxiv.org/abs/2609.17564)

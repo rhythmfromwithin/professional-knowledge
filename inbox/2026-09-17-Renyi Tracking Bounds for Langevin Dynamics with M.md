@@ -1,11 +1,5 @@
 ---
-title: "R\'enyi Tracking Bounds for Langevin Dynamics with Moving Targets"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.17577
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1789705165.467149'
 ---
 # R\'enyi Tracking Bounds for Langevin Dynamics with Moving Targets
 > 原文: [https://arxiv.org/abs/2609.17577](https://arxiv.org/abs/2609.17577)

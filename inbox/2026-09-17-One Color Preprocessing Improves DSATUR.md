@@ -1,11 +1,12 @@
 ---
-title: "One Color Preprocessing Improves DSATUR"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.17633
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17633
 next_step: skim
+priority: high
+slack_ts: '1789705163.935219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: One Color Preprocessing Improves DSATUR
 ---
 # One Color Preprocessing Improves DSATUR
 > 原文: [https://arxiv.org/abs/2609.17633](https://arxiv.org/abs/2609.17633)

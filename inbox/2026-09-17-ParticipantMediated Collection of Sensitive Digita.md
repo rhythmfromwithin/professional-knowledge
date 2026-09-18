@@ -1,11 +1,13 @@
 ---
-title: "Participant-Mediated Collection of Sensitive Digital Trace Data: The CANDOR Research Infrastructure"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.17722
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17722
 next_step: skim
+priority: low
+slack_ts: '1789705164.347729'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Participant-Mediated Collection of Sensitive Digital Trace Data: The CANDOR
+  Research Infrastructure'
 ---
 # Participant-Mediated Collection of Sensitive Digital Trace Data: The CANDOR Research Infrastructure
 > 原文: [https://arxiv.org/abs/2609.17722](https://arxiv.org/abs/2609.17722)

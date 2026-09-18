@@ -1,11 +1,13 @@
 ---
-title: "Toward a Time-Aware Assessment Framework for the Carbon Cost of AI-Enabled Decarbonization"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.18029
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18029
 next_step: skim
+priority: medium
+slack_ts: '1789705166.352089'
+source: cs.CY - Computers and Society
+status: unread
+title: Toward a Time-Aware Assessment Framework for the Carbon Cost of AI-Enabled
+  Decarbonization
 ---
 # Toward a Time-Aware Assessment Framework for the Carbon Cost of AI-Enabled Decarbonization
 > 原文: [https://arxiv.org/abs/2609.18029](https://arxiv.org/abs/2609.18029)

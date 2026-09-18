@@ -1,11 +1,13 @@
 ---
-title: "Detection of spiking motifs of arbitrary length in neural activity using bounded synaptic delays"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2511.15296
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2511.15296
 next_step: skim
+priority: low
+slack_ts: '1789705159.582199'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Detection of spiking motifs of arbitrary length in neural activity using bounded
+  synaptic delays
 ---
 # Detection of spiking motifs of arbitrary length in neural activity using bounded synaptic delays
 > 原文: [https://arxiv.org/abs/2511.15296](https://arxiv.org/abs/2511.15296)

@@ -1,11 +1,12 @@
 ---
-title: "NeuroSketch: A Practical Design Recipe for Neural Decoding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2512.09524
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2512.09524
 next_step: skim
+priority: low
+slack_ts: '1789705163.802499'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'NeuroSketch: A Practical Design Recipe for Neural Decoding'
 ---
 # NeuroSketch: A Practical Design Recipe for Neural Decoding
 > 原文: [https://arxiv.org/abs/2512.09524](https://arxiv.org/abs/2512.09524)

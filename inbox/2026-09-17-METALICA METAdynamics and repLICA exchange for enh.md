@@ -1,11 +1,12 @@
 ---
-title: "METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.17823
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17823
 next_step: skim
+priority: medium
+slack_ts: '1789705162.892969'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling'
 ---
 # METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling
 > 原文: [https://arxiv.org/abs/2609.17823](https://arxiv.org/abs/2609.17823)

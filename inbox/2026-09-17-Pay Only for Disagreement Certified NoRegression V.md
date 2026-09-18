@@ -1,11 +1,13 @@
 ---
-title: "Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.17560
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17560
 next_step: skim
+priority: high
+slack_ts: '1789705164.642269'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates
+  with Matching Label-Complexity Bounds'
 ---
 # Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds
 > 原文: [https://arxiv.org/abs/2609.17560](https://arxiv.org/abs/2609.17560)

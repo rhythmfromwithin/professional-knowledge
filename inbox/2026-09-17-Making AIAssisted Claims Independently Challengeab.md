@@ -1,11 +1,13 @@
 ---
-title: "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.17631
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17631
 next_step: skim
+priority: high
+slack_ts: '1789705163.039929'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Making AI-Assisted Claims Independently Challengeable: Publication Authority
+  and a Protocol for Falsifiable Publication Records'
 ---
 # Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records
 > 原文: [https://arxiv.org/abs/2609.17631](https://arxiv.org/abs/2609.17631)

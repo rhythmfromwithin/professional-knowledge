@@ -1,11 +1,13 @@
 ---
-title: "CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution in Modular and Upgradeable Smart Contracts"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.17647
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17647
 next_step: skim
+priority: low
+slack_ts: '1789705159.036779'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution
+  in Modular and Upgradeable Smart Contracts'
 ---
 # CARE: A Responsibility-Oriented Architecture for Domain-Scoped Resolution in Modular and Upgradeable Smart Contracts
 > 原文: [https://arxiv.org/abs/2609.17647](https://arxiv.org/abs/2609.17647)

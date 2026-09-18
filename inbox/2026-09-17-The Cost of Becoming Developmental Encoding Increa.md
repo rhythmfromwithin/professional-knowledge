@@ -1,11 +1,13 @@
 ---
-title: "The Cost of Becoming: Developmental Encoding Increases Phenotypic Diversity but Reduces Locality and Recombination Robustness in Evolved Robots"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.17606
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17606
 next_step: skim
+priority: low
+slack_ts: '1789705166.207829'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Cost of Becoming: Developmental Encoding Increases Phenotypic Diversity
+  but Reduces Locality and Recombination Robustness in Evolved Robots'
 ---
 # The Cost of Becoming: Developmental Encoding Increases Phenotypic Diversity but Reduces Locality and Recombination Robustness in Evolved Robots
 > 原文: [https://arxiv.org/abs/2609.17606](https://arxiv.org/abs/2609.17606)

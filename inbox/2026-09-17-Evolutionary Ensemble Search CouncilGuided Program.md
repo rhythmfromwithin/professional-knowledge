@@ -1,11 +1,13 @@
 ---
-title: "Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.17590
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17590
 next_step: skim
+priority: low
+slack_ts: '1789705160.192939'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent
+  Memory'
 ---
 # Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory
 > 原文: [https://arxiv.org/abs/2609.17590](https://arxiv.org/abs/2609.17590)

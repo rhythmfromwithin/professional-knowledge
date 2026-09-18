@@ -1,11 +1,13 @@
 ---
-title: "Faking Good and Faking Bad in LLMs: Response Distortion Across Dark Triad Personality Traits"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.17534
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17534
 next_step: skim
+priority: high
+slack_ts: '1789705160.564289'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Faking Good and Faking Bad in LLMs: Response Distortion Across Dark Triad
+  Personality Traits'
 ---
 # Faking Good and Faking Bad in LLMs: Response Distortion Across Dark Triad Personality Traits
 > 原文: [https://arxiv.org/abs/2609.17534](https://arxiv.org/abs/2609.17534)

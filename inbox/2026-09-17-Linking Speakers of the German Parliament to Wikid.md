@@ -1,11 +1,13 @@
 ---
-title: "Linking Speakers of the German Parliament to Wikidata: Scope and Coverage of Metadata"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.18289
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18289
 next_step: skim
+priority: low
+slack_ts: '1789705162.761899'
+source: cs.DB - Databases
+status: unread
+title: 'Linking Speakers of the German Parliament to Wikidata: Scope and Coverage
+  of Metadata'
 ---
 # Linking Speakers of the German Parliament to Wikidata: Scope and Coverage of Metadata
 > 原文: [https://arxiv.org/abs/2609.18289](https://arxiv.org/abs/2609.18289)

@@ -1,11 +1,13 @@
 ---
-title: "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.17632
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17632
 next_step: skim
+priority: high
+slack_ts: '1789705160.360419'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading
+  Agents'
 ---
 # EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents
 > 原文: [https://arxiv.org/abs/2609.17632](https://arxiv.org/abs/2609.17632)

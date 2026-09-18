@@ -1,0 +1,14 @@
+---
+title: "EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2609.19201
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos
+> 原文: [https://arxiv.org/abs/2609.19201](https://arxiv.org/abs/2609.19201)
+
+arXiv:2609.19201v1 Announce Type: new
+Abstract: Existing Security-oriented Video Understanding (SVU) systems assume a \emph{closed world}, \ie static category sets, abundant labels, and the premise that all event types are known upfront. Real-world security-critical events break these assumptions: they follow long-tailed distributions, new types emerge continuously, and critical security events may offer only a few samples. We formalize this gap as \textbf{Lifelong Evolving Task for Long-Tailed Security-Critical Events in Videos ({\boldmath$L^2$}-SCE)}, a new task that requires VLMs to continually classify and temporally localize newly emerging security-critical events from scarce samples without forgetting previously learned events. Furthermore, \task reveals two critical challenges: (1)~\textbf{Intra-Event Scarcity}, where extreme data scarcity may weaken both classification and temporal localization for new events, and (2)~\textbf{Inter-Event Interference}, where cross-event feature entanglement and representation drift may strengthen catastrophic forgetting. On this basis, we propose \textbf{\method}, a causal-enhanced approach orchestrated end-to-end by an \textbf{Agentic Controller} with self-reflective closed-loop control, which includes two core modules: the Intra-Event \textbf{C}ausal \textbf{V}ideo \textbf{G}eneration module (\textbf{CVG}) and the Inter-Event \textbf{C}ausal \textbf{D}ecoupling and \textbf{A}lignment module (\textbf{CDA}), to address the above two challenges, respectively. Especially, this paper constructs a \task dataset to simulate real-world incremental conditions. Extensive experiments on our benchmark demonstrate the advantages of \method over several advanced baselines. These justify the importance of the proposed \task and the effectiveness of \method in classifying and temporally localizing emerging security-critical events from scarce samples.

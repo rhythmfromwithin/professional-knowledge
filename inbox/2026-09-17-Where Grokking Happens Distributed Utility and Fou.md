@@ -1,11 +1,13 @@
 ---
-title: "Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.17571
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17571
 next_step: skim
+priority: high
+slack_ts: '1789705166.871109'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Where Grokking Happens: Distributed Utility and Fourier Recoding Without a
+  Module Switch'
 ---
 # Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch
 > 原文: [https://arxiv.org/abs/2609.17571](https://arxiv.org/abs/2609.17571)

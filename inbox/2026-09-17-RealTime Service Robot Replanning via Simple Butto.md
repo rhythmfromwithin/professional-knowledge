@@ -1,11 +1,13 @@
 ---
-title: "Real-Time Service Robot Replanning via Simple Button Interaction for Improved Task Success and User Experience"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.17541
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17541
 next_step: skim
+priority: medium
+slack_ts: '1789705165.188479'
+source: cs.RO - Robotics
+status: unread
+title: Real-Time Service Robot Replanning via Simple Button Interaction for Improved
+  Task Success and User Experience
 ---
 # Real-Time Service Robot Replanning via Simple Button Interaction for Improved Task Success and User Experience
 > 原文: [https://arxiv.org/abs/2609.17541](https://arxiv.org/abs/2609.17541)

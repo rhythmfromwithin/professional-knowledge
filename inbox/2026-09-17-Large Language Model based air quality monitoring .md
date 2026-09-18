@@ -1,11 +1,12 @@
 ---
-title: "Large Language Model based air quality monitoring and localized alert generation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.17954
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17954
 next_step: skim
+priority: medium
+slack_ts: '1789705162.466279'
+source: cs.DC - Distributed Computing
+status: unread
+title: Large Language Model based air quality monitoring and localized alert generation
 ---
 # Large Language Model based air quality monitoring and localized alert generation
 > 原文: [https://arxiv.org/abs/2609.17954](https://arxiv.org/abs/2609.17954)
