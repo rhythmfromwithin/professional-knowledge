@@ -1,11 +1,12 @@
 ---
-title: "Code-as-Auditor: Executable Compliance Reasoning via Regulation-to-Code"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.19199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19199
 next_step: skim
+priority: low
+slack_ts: '1789791394.874349'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Code-as-Auditor: Executable Compliance Reasoning via Regulation-to-Code'
 ---
 # Code-as-Auditor: Executable Compliance Reasoning via Regulation-to-Code
 > 原文: [https://arxiv.org/abs/2609.19199](https://arxiv.org/abs/2609.19199)

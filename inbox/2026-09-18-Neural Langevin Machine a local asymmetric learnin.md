@@ -1,11 +1,12 @@
 ---
-title: "Neural Langevin Machine: a local asymmetric learning rule can be creative"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2506.23546
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2506.23546
 next_step: skim
+priority: low
+slack_ts: '1789791396.933999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Neural Langevin Machine: a local asymmetric learning rule can be creative'
 ---
 # Neural Langevin Machine: a local asymmetric learning rule can be creative
 > 原文: [https://arxiv.org/abs/2506.23546](https://arxiv.org/abs/2506.23546)

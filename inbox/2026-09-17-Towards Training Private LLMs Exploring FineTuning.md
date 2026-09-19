@@ -1,11 +1,13 @@
 ---
-title: "Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.18066
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.18066
 next_step: skim
+priority: medium
+slack_ts: '1789791393.227799'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple
+  Silicon with RDMA over Thunderbolt'
 ---
 # Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt
 > 原文: [https://arxiv.org/abs/2609.18066](https://arxiv.org/abs/2609.18066)

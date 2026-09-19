@@ -1,11 +1,13 @@
 ---
-title: "Intact-to-Amputee Transfer in Surface-EMG Gesture Decoding: Training Source and Calibration Budget"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.20297
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20297
 next_step: skim
+priority: low
+slack_ts: '1789791396.010019'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Intact-to-Amputee Transfer in Surface-EMG Gesture Decoding: Training Source
+  and Calibration Budget'
 ---
 # Intact-to-Amputee Transfer in Surface-EMG Gesture Decoding: Training Source and Calibration Budget
 > 原文: [https://arxiv.org/abs/2609.20297](https://arxiv.org/abs/2609.20297)

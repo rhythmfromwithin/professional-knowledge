@@ -1,11 +1,12 @@
 ---
-title: "Layer-wise Curriculum Learning for Efficient LLM Compression"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.19213
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19213
 next_step: skim
+priority: high
+slack_ts: '1789791396.323339'
+source: cs.LG - Machine Learning
+status: unread
+title: Layer-wise Curriculum Learning for Efficient LLM Compression
 ---
 # Layer-wise Curriculum Learning for Efficient LLM Compression
 > 原文: [https://arxiv.org/abs/2609.19213](https://arxiv.org/abs/2609.19213)

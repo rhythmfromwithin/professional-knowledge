@@ -1,11 +1,12 @@
 ---
-title: "A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.19855
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19855
 next_step: skim
+priority: low
+slack_ts: '1789791393.608289'
+source: cs.DB - Databases
+status: unread
+title: A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval
 ---
 # A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval
 > 原文: [https://arxiv.org/abs/2609.19855](https://arxiv.org/abs/2609.19855)

@@ -1,11 +1,12 @@
 ---
-title: "AthenaZero: A low-inertia, bimanual robot for dynamic manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.19194
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19194
 next_step: skim
+priority: medium
+slack_ts: '1789791394.198739'
+source: cs.RO - Robotics
+status: unread
+title: 'AthenaZero: A low-inertia, bimanual robot for dynamic manipulation'
 ---
 # AthenaZero: A low-inertia, bimanual robot for dynamic manipulation
 > 原文: [https://arxiv.org/abs/2609.19194](https://arxiv.org/abs/2609.19194)

@@ -1,11 +1,13 @@
 ---
-title: "Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.19242
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19242
 next_step: skim
+priority: high
+slack_ts: '1789791394.538679'
+source: cs.LG - Machine Learning
+status: unread
+title: Block Parallelism For Efficient Distributed Long-Context Diffusion Language
+  Model Training
 ---
 # Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training
 > 原文: [https://arxiv.org/abs/2609.19242](https://arxiv.org/abs/2609.19242)

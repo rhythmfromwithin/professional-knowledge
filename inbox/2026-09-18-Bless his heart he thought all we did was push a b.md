@@ -1,11 +1,5 @@
 ---
-title: "''Bless his heart... he thought all we did was push a button": Understanding Worker Challenges with U.S. Election Technology"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.19233
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1789791394.471719'
 ---
 # ''Bless his heart... he thought all we did was push a button": Understanding Worker Challenges with U.S. Election Technology
 > 原文: [https://arxiv.org/abs/2609.19233](https://arxiv.org/abs/2609.19233)

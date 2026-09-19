@@ -1,11 +1,12 @@
 ---
-title: "DITTO: Dexterous Interface for Transparent TeleOperation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.19196
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19196
 next_step: skim
+priority: medium
+slack_ts: '1789791395.006399'
+source: cs.RO - Robotics
+status: unread
+title: 'DITTO: Dexterous Interface for Transparent TeleOperation'
 ---
 # DITTO: Dexterous Interface for Transparent TeleOperation
 > 原文: [https://arxiv.org/abs/2609.19196](https://arxiv.org/abs/2609.19196)

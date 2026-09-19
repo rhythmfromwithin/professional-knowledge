@@ -1,11 +1,13 @@
 ---
-title: "Making Local Government Contracts Legible: A Computational Pipeline for Classifying and Mapping Intergovernmental Service Agreements"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.19225
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19225
 next_step: skim
+priority: medium
+slack_ts: '1789791396.566049'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Making Local Government Contracts Legible: A Computational Pipeline for Classifying
+  and Mapping Intergovernmental Service Agreements'
 ---
 # Making Local Government Contracts Legible: A Computational Pipeline for Classifying and Mapping Intergovernmental Service Agreements
 > 原文: [https://arxiv.org/abs/2609.19225](https://arxiv.org/abs/2609.19225)

@@ -1,11 +1,5 @@
 ---
-title: ""I Know Where to Look," But Does the LLM? Charting the Gaps Between Clinical Expert Needs and Unstructured Data Abstraction Tools"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.19318
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1789791395.944549'
 ---
 # "I Know Where to Look," But Does the LLM? Charting the Gaps Between Clinical Expert Needs and Unstructured Data Abstraction Tools
 > 原文: [https://arxiv.org/abs/2609.19318](https://arxiv.org/abs/2609.19318)

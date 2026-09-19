@@ -1,11 +1,12 @@
 ---
-title: "Detecting Soft Errors in Parallel Software with LLM-tuned Instruction Duplication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.19531
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19531
 next_step: skim
+priority: medium
+slack_ts: '1789791395.141689'
+source: cs.DC - Distributed Computing
+status: unread
+title: Detecting Soft Errors in Parallel Software with LLM-tuned Instruction Duplication
 ---
 # Detecting Soft Errors in Parallel Software with LLM-tuned Instruction Duplication
 > 原文: [https://arxiv.org/abs/2609.19531](https://arxiv.org/abs/2609.19531)

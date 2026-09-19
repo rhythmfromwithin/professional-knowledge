@@ -1,11 +1,12 @@
 ---
-title: "Introducing Astra for Law"
-source: "OpenAI Blog"
-link: https://openai.com/index/astra-for-law
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/astra-for-law
 next_step: skim
+priority: high
+slack_ts: '1789791396.080559'
+source: OpenAI Blog
+status: unread
+title: Introducing Astra for Law
 ---
 # Introducing Astra for Law
 > 原文: [https://openai.com/index/astra-for-law](https://openai.com/index/astra-for-law)

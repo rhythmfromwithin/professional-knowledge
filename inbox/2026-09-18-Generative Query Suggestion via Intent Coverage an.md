@@ -1,11 +1,12 @@
 ---
-title: "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.19209
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19209
 next_step: skim
+priority: high
+slack_ts: '1789791395.604769'
+source: cs.LG - Machine Learning
+status: unread
+title: Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment
 ---
 # Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment
 > 原文: [https://arxiv.org/abs/2609.19209](https://arxiv.org/abs/2609.19209)

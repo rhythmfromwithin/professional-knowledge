@@ -1,11 +1,13 @@
 ---
-title: "Learning Submanifolds for Subsequent Inference on Random Dot Product Graphs, Part 1: Theory"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.19357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19357
 next_step: skim
+priority: medium
+slack_ts: '1789791396.428949'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Learning Submanifolds for Subsequent Inference on Random Dot Product Graphs,
+  Part 1: Theory'
 ---
 # Learning Submanifolds for Subsequent Inference on Random Dot Product Graphs, Part 1: Theory
 > 原文: [https://arxiv.org/abs/2609.19357](https://arxiv.org/abs/2609.19357)

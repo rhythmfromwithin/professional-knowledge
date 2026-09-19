@@ -1,11 +1,12 @@
 ---
-title: "Efficiently Linking Unstructured Data for Multi-step Reasoning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.19491
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19491
 next_step: skim
+priority: low
+slack_ts: '1789791395.281899'
+source: cs.DB - Databases
+status: unread
+title: Efficiently Linking Unstructured Data for Multi-step Reasoning
 ---
 # Efficiently Linking Unstructured Data for Multi-step Reasoning
 > 原文: [https://arxiv.org/abs/2609.19491](https://arxiv.org/abs/2609.19491)

@@ -1,11 +1,12 @@
 ---
-title: "A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.20437
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20437
 next_step: skim
+priority: low
+slack_ts: '1789791393.672959'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System
 ---
 # A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System
 > 原文: [https://arxiv.org/abs/2609.20437](https://arxiv.org/abs/2609.20437)

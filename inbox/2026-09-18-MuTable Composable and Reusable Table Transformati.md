@@ -1,11 +1,12 @@
 ---
-title: "MuTable: Composable and Reusable Table Transformations for In-Situ Data Exploration"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.19294
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19294
 next_step: skim
+priority: low
+slack_ts: '1789791396.860739'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'MuTable: Composable and Reusable Table Transformations for In-Situ Data Exploration'
 ---
 # MuTable: Composable and Reusable Table Transformations for In-Situ Data Exploration
 > 原文: [https://arxiv.org/abs/2609.19294](https://arxiv.org/abs/2609.19294)

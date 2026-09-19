@@ -1,11 +1,13 @@
 ---
-title: "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
 next_step: skim
+priority: high
+slack_ts: '1789791394.059469'
+source: DeepMind Blog
+status: unread
+title: 'AlphaGenome Atlas: A predictive map of every possible DNA letter change in
+  the human genome'
 ---
 # AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome
 > 原文: [https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/)

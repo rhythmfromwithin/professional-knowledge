@@ -1,11 +1,12 @@
 ---
-title: "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/
 next_step: skim
+priority: high
+slack_ts: '1789791393.799069'
+source: AWS Blog
+status: unread
+title: A serverless, data-driven Git metrics dashboard using Amazon Quick Sight
 ---
 # A serverless, data-driven Git metrics dashboard using Amazon Quick Sight
 > 原文: [https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/](https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/)

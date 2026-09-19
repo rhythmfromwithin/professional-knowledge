@@ -1,11 +1,13 @@
 ---
-title: "Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.19354
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19354
 next_step: skim
+priority: medium
+slack_ts: '1789791394.812589'
+source: cs.CV - Computer Vision
+status: unread
+title: Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in
+  Zero-Shot Action Quality Assessment
 ---
 # Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment
 > 原文: [https://arxiv.org/abs/2609.19354](https://arxiv.org/abs/2609.19354)

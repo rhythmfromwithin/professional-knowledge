@@ -1,11 +1,13 @@
 ---
-title: "Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.17989
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.17989
 next_step: skim
+priority: low
+slack_ts: '1789791393.465609'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM
+  Recommenders
 ---
 # Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders
 > 原文: [https://arxiv.org/abs/2609.17989](https://arxiv.org/abs/2609.17989)

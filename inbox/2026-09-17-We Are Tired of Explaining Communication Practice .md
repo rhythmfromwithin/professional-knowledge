@@ -1,11 +1,5 @@
 ---
-title: ""We Are Tired of Explaining": Communication Practice and AI Roleplay Training for Community Health Workers in Rural India"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.17710
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1789791393.395819'
 ---
 # "We Are Tired of Explaining": Communication Practice and AI Roleplay Training for Community Health Workers in Rural India
 > 原文: [https://arxiv.org/abs/2609.17710](https://arxiv.org/abs/2609.17710)

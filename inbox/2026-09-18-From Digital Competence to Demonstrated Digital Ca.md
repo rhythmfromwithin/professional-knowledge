@@ -1,11 +1,13 @@
 ---
-title: "From Digital Competence to Demonstrated Digital Capability: Positioning the International Digital Driving License Against DigComp and UNESCO Frameworks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.19406
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19406
 next_step: skim
+priority: medium
+slack_ts: '1789791395.425519'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Digital Competence to Demonstrated Digital Capability: Positioning the
+  International Digital Driving License Against DigComp and UNESCO Frameworks'
 ---
 # From Digital Competence to Demonstrated Digital Capability: Positioning the International Digital Driving License Against DigComp and UNESCO Frameworks
 > 原文: [https://arxiv.org/abs/2609.19406](https://arxiv.org/abs/2609.19406)

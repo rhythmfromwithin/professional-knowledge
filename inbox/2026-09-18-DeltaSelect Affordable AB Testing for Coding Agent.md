@@ -1,11 +1,12 @@
 ---
-title: "DeltaSelect: Affordable A/B Testing for Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.19607
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19607
 next_step: skim
+priority: low
+slack_ts: '1789791395.073159'
+source: cs.SE - Software Engineering
+status: unread
+title: 'DeltaSelect: Affordable A/B Testing for Coding Agents'
 ---
 # DeltaSelect: Affordable A/B Testing for Coding Agents
 > 原文: [https://arxiv.org/abs/2609.19607](https://arxiv.org/abs/2609.19607)

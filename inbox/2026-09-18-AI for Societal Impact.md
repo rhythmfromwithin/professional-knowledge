@@ -1,11 +1,12 @@
 ---
-title: "AI for Societal Impact"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/
 next_step: skim
+priority: high
+slack_ts: '1789791393.866659'
+source: Google AI Blog
+status: unread
+title: AI for Societal Impact
 ---
 # AI for Societal Impact
 > 原文: [https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/)

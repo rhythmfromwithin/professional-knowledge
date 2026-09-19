@@ -1,11 +1,13 @@
 ---
-title: "EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.19201
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19201
 next_step: skim
+priority: low
+slack_ts: '1789791395.360009'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical
+  Events in Videos'
 ---
 # EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos
 > 原文: [https://arxiv.org/abs/2609.19201](https://arxiv.org/abs/2609.19201)

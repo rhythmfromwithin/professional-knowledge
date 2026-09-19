@@ -1,11 +1,13 @@
 ---
-title: "BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.19699
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19699
 next_step: skim
+priority: low
+slack_ts: '1789791394.329669'
+source: cs.SE - Software Engineering
+status: unread
+title: 'BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation
+  of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems'
 ---
 # BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems
 > 原文: [https://arxiv.org/abs/2609.19699](https://arxiv.org/abs/2609.19699)
