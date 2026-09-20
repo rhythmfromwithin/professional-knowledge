@@ -1,11 +1,13 @@
 ---
-title: "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.19170
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19170
 next_step: skim
+priority: high
+slack_ts: '1789878892.146169'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Regularized Emphatic Temporal-Difference Learning: Stability under Constant
+  Stepsizes'
 ---
 # Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes
 > 原文: [https://arxiv.org/abs/2609.19170](https://arxiv.org/abs/2609.19170)

@@ -1,11 +1,13 @@
 ---
-title: "Position Paper: Neurotransmitters as a Missing Dimension in Artificial Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.20083
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20083
 next_step: skim
+priority: low
+slack_ts: '1789878890.591719'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Position Paper: Neurotransmitters as a Missing Dimension in Artificial Neural
+  Networks'
 ---
 # Position Paper: Neurotransmitters as a Missing Dimension in Artificial Neural Networks
 > 原文: [https://arxiv.org/abs/2609.20083](https://arxiv.org/abs/2609.20083)

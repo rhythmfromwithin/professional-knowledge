@@ -1,11 +1,13 @@
 ---
-title: "Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.19902
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19902
 next_step: skim
+priority: low
+slack_ts: '1789878893.561769'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic
+  and Genotypic Diversity in an OpenEnded Substrate'
 ---
 # Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate
 > 原文: [https://arxiv.org/abs/2609.19902](https://arxiv.org/abs/2609.19902)

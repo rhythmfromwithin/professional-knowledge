@@ -1,11 +1,13 @@
 ---
-title: "Sketching the Error, Not the Product: Post Hoc Fault Recovery for Half Precision GPU Matrix Multiplication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.19758
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19758
 next_step: skim
+priority: medium
+slack_ts: '1789878893.806169'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Sketching the Error, Not the Product: Post Hoc Fault Recovery for Half Precision
+  GPU Matrix Multiplication'
 ---
 # Sketching the Error, Not the Product: Post Hoc Fault Recovery for Half Precision GPU Matrix Multiplication
 > 原文: [https://arxiv.org/abs/2609.19758](https://arxiv.org/abs/2609.19758)

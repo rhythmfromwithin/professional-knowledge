@@ -1,11 +1,12 @@
 ---
-title: "New low-cost burstable Amazon EC2 T8i instances are generally available"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/
 next_step: skim
+priority: high
+slack_ts: '1789878905.497679'
+source: AWS Blog
+status: unread
+title: New low-cost burstable Amazon EC2 T8i instances are generally available
 ---
 # New low-cost burstable Amazon EC2 T8i instances are generally available
 > 原文: [https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/](https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/)

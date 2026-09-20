@@ -1,11 +1,13 @@
 ---
-title: "Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and AMM Prediction Markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.20017
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20017
 next_step: skim
+priority: low
+slack_ts: '1789878895.472449'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and
+  AMM Prediction Markets
 ---
 # Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and AMM Prediction Markets
 > 原文: [https://arxiv.org/abs/2609.20017](https://arxiv.org/abs/2609.20017)

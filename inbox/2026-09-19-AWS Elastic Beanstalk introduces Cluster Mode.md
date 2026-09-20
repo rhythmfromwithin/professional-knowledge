@@ -1,11 +1,12 @@
 ---
-title: "AWS Elastic Beanstalk introduces Cluster Mode"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/
 next_step: skim
+priority: high
+slack_ts: '1789878896.191469'
+source: AWS Blog
+status: unread
+title: AWS Elastic Beanstalk introduces Cluster Mode
 ---
 # AWS Elastic Beanstalk introduces Cluster Mode
 > 原文: [https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/](https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/)

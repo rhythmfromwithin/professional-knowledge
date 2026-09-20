@@ -1,7 +1,9 @@
 ---
-title: "Leave the Class Path in the Rearview Mirror"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss
+slack_ts: '1789878904.052279'
+source: Netflix Tech Blog
+title: Leave the Class Path in the Rearview Mirror
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

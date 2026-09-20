@@ -1,11 +1,12 @@
 ---
-title: "Syndrome Decoding for Silent Data Corruption in Quantized Integer GPU Arithmetic"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.19743
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19743
 next_step: skim
+priority: medium
+slack_ts: '1789878894.287939'
+source: cs.DC - Distributed Computing
+status: unread
+title: Syndrome Decoding for Silent Data Corruption in Quantized Integer GPU Arithmetic
 ---
 # Syndrome Decoding for Silent Data Corruption in Quantized Integer GPU Arithmetic
 > 原文: [https://arxiv.org/abs/2609.19743](https://arxiv.org/abs/2609.19743)

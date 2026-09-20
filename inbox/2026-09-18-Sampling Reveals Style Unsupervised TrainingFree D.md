@@ -1,11 +1,13 @@
 ---
-title: "Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional Stylistic Axes in LLM Activations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.19150
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19150
 next_step: skim
+priority: high
+slack_ts: '1789878892.863089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional
+  Stylistic Axes in LLM Activations'
 ---
 # Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional Stylistic Axes in LLM Activations
 > 原文: [https://arxiv.org/abs/2609.19150](https://arxiv.org/abs/2609.19150)

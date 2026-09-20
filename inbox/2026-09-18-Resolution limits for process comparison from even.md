@@ -1,11 +1,12 @@
 ---
-title: "Resolution limits for process comparison from event data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.20489
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20489
 next_step: skim
+priority: low
+slack_ts: '1789878892.380579'
+source: cs.DB - Databases
+status: unread
+title: Resolution limits for process comparison from event data
 ---
 # Resolution limits for process comparison from event data
 > 原文: [https://arxiv.org/abs/2609.20489](https://arxiv.org/abs/2609.20489)

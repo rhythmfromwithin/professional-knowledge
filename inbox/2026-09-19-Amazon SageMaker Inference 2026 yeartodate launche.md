@@ -1,11 +1,12 @@
 ---
-title: "Amazon SageMaker Inference: 2026 year-to-date launches in review"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/
 next_step: skim
+priority: high
+slack_ts: '1789878897.157369'
+source: AWS Blog
+status: unread
+title: 'Amazon SageMaker Inference: 2026 year-to-date launches in review'
 ---
 # Amazon SageMaker Inference: 2026 year-to-date launches in review
 > 原文: [https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/)

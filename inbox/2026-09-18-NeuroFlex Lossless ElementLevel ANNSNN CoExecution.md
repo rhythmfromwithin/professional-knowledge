@@ -1,11 +1,13 @@
 ---
-title: "NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2511.05215
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2511.05215
 next_step: skim
+priority: low
+slack_ts: '1789878889.103529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse
+  Inference'
 ---
 # NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference
 > 原文: [https://arxiv.org/abs/2511.05215](https://arxiv.org/abs/2511.05215)

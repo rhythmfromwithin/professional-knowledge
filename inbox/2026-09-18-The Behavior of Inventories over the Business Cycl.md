@@ -1,11 +1,13 @@
 ---
-title: "The Behavior of Inventories over the Business Cycle: Evidence across Levels of Development"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.19455
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19455
 next_step: skim
+priority: low
+slack_ts: '1789878894.771669'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Behavior of Inventories over the Business Cycle: Evidence across Levels
+  of Development'
 ---
 # The Behavior of Inventories over the Business Cycle: Evidence across Levels of Development
 > 原文: [https://arxiv.org/abs/2609.19455](https://arxiv.org/abs/2609.19455)

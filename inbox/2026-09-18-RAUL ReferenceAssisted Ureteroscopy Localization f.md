@@ -1,11 +1,12 @@
 ---
-title: "RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.19236
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19236
 next_step: skim
+priority: medium
+slack_ts: '1789878891.020549'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment'
 ---
 # RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment
 > 原文: [https://arxiv.org/abs/2609.19236](https://arxiv.org/abs/2609.19236)

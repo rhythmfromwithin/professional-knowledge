@@ -1,11 +1,12 @@
 ---
-title: "Null importance: Disentangling relevance for interpretable machine learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.19511
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19511
 next_step: skim
+priority: medium
+slack_ts: '1789878889.599979'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Null importance: Disentangling relevance for interpretable machine learning'
 ---
 # Null importance: Disentangling relevance for interpretable machine learning
 > 原文: [https://arxiv.org/abs/2609.19511](https://arxiv.org/abs/2609.19511)

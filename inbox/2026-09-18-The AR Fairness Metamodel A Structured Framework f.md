@@ -1,11 +1,12 @@
 ---
-title: "The AR Fairness Metamodel: A Structured Framework for Fairness Measures"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.19234
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19234
 next_step: skim
+priority: medium
+slack_ts: '1789878894.528419'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The AR Fairness Metamodel: A Structured Framework for Fairness Measures'
 ---
 # The AR Fairness Metamodel: A Structured Framework for Fairness Measures
 > 原文: [https://arxiv.org/abs/2609.19234](https://arxiv.org/abs/2609.19234)

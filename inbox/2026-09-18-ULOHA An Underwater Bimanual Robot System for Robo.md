@@ -1,11 +1,12 @@
 ---
-title: "ULOHA: An Underwater Bimanual Robot System for Robot Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.19200
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19200
 next_step: skim
+priority: medium
+slack_ts: '1789878895.233689'
+source: cs.RO - Robotics
+status: unread
+title: 'ULOHA: An Underwater Bimanual Robot System for Robot Learning'
 ---
 # ULOHA: An Underwater Bimanual Robot System for Robot Learning
 > 原文: [https://arxiv.org/abs/2609.19200](https://arxiv.org/abs/2609.19200)

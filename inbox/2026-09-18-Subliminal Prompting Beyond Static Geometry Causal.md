@@ -1,11 +1,13 @@
 ---
-title: "Subliminal Prompting Beyond Static Geometry: Causal Depth and Multi-Token Confounds"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.19149
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.19149
 next_step: skim
+priority: high
+slack_ts: '1789878894.045779'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Subliminal Prompting Beyond Static Geometry: Causal Depth and Multi-Token
+  Confounds'
 ---
 # Subliminal Prompting Beyond Static Geometry: Causal Depth and Multi-Token Confounds
 > 原文: [https://arxiv.org/abs/2609.19149](https://arxiv.org/abs/2609.19149)
