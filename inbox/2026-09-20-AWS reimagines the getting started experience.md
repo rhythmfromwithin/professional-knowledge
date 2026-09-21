@@ -1,11 +1,12 @@
 ---
-title: "AWS reimagines the getting started experience"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/
 next_step: skim
+priority: high
+slack_ts: '1789965185.482479'
+source: AWS Blog
+status: unread
+title: AWS reimagines the getting started experience
 ---
 # AWS reimagines the getting started experience
 > 原文: [https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/](https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/)

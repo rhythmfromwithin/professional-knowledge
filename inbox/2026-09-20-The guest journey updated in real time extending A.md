@@ -1,7 +1,10 @@
 ---
-title: "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss
+slack_ts: '1789965191.610549'
+source: Airbnb Engineering
+title: 'The guest journey, updated in real time: extending Airbnb’s sequence recommender
+  with Chronon'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

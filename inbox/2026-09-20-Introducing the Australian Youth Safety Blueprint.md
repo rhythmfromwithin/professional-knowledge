@@ -1,11 +1,12 @@
 ---
-title: "Introducing the Australian Youth Safety Blueprint"
-source: "OpenAI Blog"
-link: https://openai.com/index/australian-youth-safety-blueprint
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/australian-youth-safety-blueprint
 next_step: skim
+priority: high
+slack_ts: '1789965188.967279'
+source: OpenAI Blog
+status: unread
+title: Introducing the Australian Youth Safety Blueprint
 ---
 # Introducing the Australian Youth Safety Blueprint
 > 原文: [https://openai.com/index/australian-youth-safety-blueprint](https://openai.com/index/australian-youth-safety-blueprint)

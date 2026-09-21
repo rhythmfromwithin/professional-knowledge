@@ -1,11 +1,12 @@
 ---
-title: "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/
 next_step: skim
+priority: high
+slack_ts: '1789965189.607009'
+source: AWS Blog
+status: unread
+title: Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime
 ---
 # Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime
 > 原文: [https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/](https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/)
