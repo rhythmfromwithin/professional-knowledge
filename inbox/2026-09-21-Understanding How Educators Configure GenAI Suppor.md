@@ -1,11 +1,13 @@
 ---
-title: "Understanding How Educators Configure GenAI Support for Open-Ended Learning -- An Exploratory Study of K-12 Career Exploration"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.21019
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21019
 next_step: skim
+priority: low
+slack_ts: '1790051347.516389'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Understanding How Educators Configure GenAI Support for Open-Ended Learning
+  -- An Exploratory Study of K-12 Career Exploration
 ---
 # Understanding How Educators Configure GenAI Support for Open-Ended Learning -- An Exploratory Study of K-12 Career Exploration
 > 原文: [https://arxiv.org/abs/2609.21019](https://arxiv.org/abs/2609.21019)

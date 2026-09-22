@@ -1,11 +1,12 @@
 ---
-title: "Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.21161
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21161
 next_step: skim
+priority: low
+slack_ts: '1790051340.201369'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior'
 ---
 # Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior
 > 原文: [https://arxiv.org/abs/2609.21161](https://arxiv.org/abs/2609.21161)

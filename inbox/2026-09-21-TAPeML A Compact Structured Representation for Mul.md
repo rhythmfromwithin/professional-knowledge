@@ -1,11 +1,12 @@
 ---
-title: "TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.20869
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20869
 next_step: skim
+priority: medium
+slack_ts: '1790051346.680869'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision'
 ---
 # TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision
 > 原文: [https://arxiv.org/abs/2609.20869](https://arxiv.org/abs/2609.20869)

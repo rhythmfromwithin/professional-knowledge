@@ -1,11 +1,13 @@
 ---
-title: "Image-Derived PM10 Estimation in Cattle Feedlot Using Machine Learning: Addressing Concentration Ranges Beyond Existing Digital Imaging Methods"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.20975
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20975
 next_step: skim
+priority: medium
+slack_ts: '1790051341.679889'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Image-Derived PM10 Estimation in Cattle Feedlot Using Machine Learning: Addressing
+  Concentration Ranges Beyond Existing Digital Imaging Methods'
 ---
 # Image-Derived PM10 Estimation in Cattle Feedlot Using Machine Learning: Addressing Concentration Ranges Beyond Existing Digital Imaging Methods
 > 原文: [https://arxiv.org/abs/2609.20975](https://arxiv.org/abs/2609.20975)

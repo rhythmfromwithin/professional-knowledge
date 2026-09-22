@@ -1,0 +1,14 @@
+---
+title: "Artificial Neural Networks as Surrogate Models in Black Box Optimization"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2609.22329
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Artificial Neural Networks as Surrogate Models in Black Box Optimization
+> 原文: [https://arxiv.org/abs/2609.22329](https://arxiv.org/abs/2609.22329)
+
+arXiv:2609.22329v1 Announce Type: new
+Abstract: Black-Box Optimization (BBO) is often applied in several engineering fields and can utilize an advancement of numerical measure- ments and simulation technologies. It deals with the optimization func- tions, where an analytical description is unavailable. It relies on meth- ods that require only an input point in the search space, paired with its corresponding objective function value, obtained through non-analytical means, e.g., sensors, experiments, or simulations. Common approaches include evolutionary optimization and other metaheuristics. Since BBO methods rely solely on objective function values, they typically require many evaluations, which becomes problematic when evaluating the ob- jective function is time-consuming or expensive. This leads to using surrogate-based optimization which evaluates selected true objective val- ues and trains a regression model to approximate the objective function across the search space. Surrogate-assisted black-box optimization is a small-data learning problem because the optimizer must approximate an expensive objective function from limited evaluations. Surrogate models act as data-efficient regressors, guiding the search toward promising or informative points under a restricted evaluation budget. In this paper, a new surrogate model using artificial neural networks, called Adaptive- Fidelity Nexus Covariance Matrix Adaptation Evolution Strategy (AFN- CMA-ES), is proposed for the selective evaluation of objective functions. The experimental results show its competitive performance compared to state-of-the-art surrogate-assisted BBO methods.

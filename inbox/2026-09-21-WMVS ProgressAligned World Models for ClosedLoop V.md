@@ -1,11 +1,12 @@
 ---
-title: "WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.20892
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20892
 next_step: skim
+priority: medium
+slack_ts: '1790051347.680329'
+source: cs.RO - Robotics
+status: unread
+title: 'WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing'
 ---
 # WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing
 > 原文: [https://arxiv.org/abs/2609.20892](https://arxiv.org/abs/2609.20892)

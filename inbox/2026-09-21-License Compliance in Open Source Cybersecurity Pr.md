@@ -1,11 +1,12 @@
 ---
-title: "License Compliance in Open Source Cybersecurity Projects"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.21218
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21218
 next_step: skim
+priority: low
+slack_ts: '1790051342.942419'
+source: cs.SE - Software Engineering
+status: unread
+title: License Compliance in Open Source Cybersecurity Projects
 ---
 # License Compliance in Open Source Cybersecurity Projects
 > 原文: [https://arxiv.org/abs/2609.21218](https://arxiv.org/abs/2609.21218)

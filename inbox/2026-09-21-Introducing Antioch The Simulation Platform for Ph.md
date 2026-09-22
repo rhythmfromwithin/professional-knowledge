@@ -1,11 +1,12 @@
 ---
-title: "Introducing Antioch: The Simulation Platform for Physical AI"
-source: "Greylock Perspectives"
-link: https://greylock.com/blog/introducing-antioch-the-simulation-platform-for-physical-ai/
-priority: medium
-status: unread
 interest: medium
+link: https://greylock.com/blog/introducing-antioch-the-simulation-platform-for-physical-ai/
 next_step: skim
+priority: medium
+slack_ts: '1790051341.856789'
+source: Greylock Perspectives
+status: unread
+title: 'Introducing Antioch: The Simulation Platform for Physical AI'
 ---
 # Introducing Antioch: The Simulation Platform for Physical AI
 > 原文: [https://greylock.com/blog/introducing-antioch-the-simulation-platform-for-physical-ai/](https://greylock.com/blog/introducing-antioch-the-simulation-platform-for-physical-ai/)

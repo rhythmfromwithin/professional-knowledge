@@ -1,11 +1,12 @@
 ---
-title: "Identifying Neural State Changes due to Gain versus Off-Manifold Displacement"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.21272
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21272
 next_step: skim
+priority: low
+slack_ts: '1790051341.452709'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Identifying Neural State Changes due to Gain versus Off-Manifold Displacement
 ---
 # Identifying Neural State Changes due to Gain versus Off-Manifold Displacement
 > 原文: [https://arxiv.org/abs/2609.21272](https://arxiv.org/abs/2609.21272)

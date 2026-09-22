@@ -1,11 +1,13 @@
 ---
-title: "kgsteward: a tool for building, reproducing and maintaining distributed knowledge graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.21564
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21564
 next_step: skim
+priority: low
+slack_ts: '1790051348.001319'
+source: cs.DB - Databases
+status: unread
+title: 'kgsteward: a tool for building, reproducing and maintaining distributed knowledge
+  graphs'
 ---
 # kgsteward: a tool for building, reproducing and maintaining distributed knowledge graphs
 > 原文: [https://arxiv.org/abs/2609.21564](https://arxiv.org/abs/2609.21564)

@@ -1,11 +1,13 @@
 ---
-title: "Decoding the Dashboard: Data Comics to Support Students' Understanding of Learning Analytics Visualisations"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.21141
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21141
 next_step: skim
+priority: low
+slack_ts: '1790051339.383499'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Decoding the Dashboard: Data Comics to Support Students'' Understanding of
+  Learning Analytics Visualisations'
 ---
 # Decoding the Dashboard: Data Comics to Support Students' Understanding of Learning Analytics Visualisations
 > 原文: [https://arxiv.org/abs/2609.21141](https://arxiv.org/abs/2609.21141)

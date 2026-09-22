@@ -1,11 +1,12 @@
 ---
-title: "DLB: Distributed Load Balancing at Scale for Generative AI Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.21079
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21079
 next_step: skim
+priority: medium
+slack_ts: '1790051339.207599'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DLB: Distributed Load Balancing at Scale for Generative AI Inference'
 ---
 # DLB: Distributed Load Balancing at Scale for Generative AI Inference
 > 原文: [https://arxiv.org/abs/2609.21079](https://arxiv.org/abs/2609.21079)

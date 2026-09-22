@@ -1,11 +1,13 @@
 ---
-title: "Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.20888
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20888
 next_step: skim
+priority: high
+slack_ts: '1790051339.879959'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context
+  Decoding'
 ---
 # Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding
 > 原文: [https://arxiv.org/abs/2609.20888](https://arxiv.org/abs/2609.20888)

@@ -1,11 +1,13 @@
 ---
-title: "HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.20825
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20825
 next_step: skim
+priority: high
+slack_ts: '1790051340.754049'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient
+  Outcome Prediction'
 ---
 # HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction
 > 原文: [https://arxiv.org/abs/2609.20825](https://arxiv.org/abs/2609.20825)

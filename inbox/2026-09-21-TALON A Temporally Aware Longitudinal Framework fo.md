@@ -1,11 +1,12 @@
 ---
-title: "TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.20826
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20826
 next_step: skim
+priority: high
+slack_ts: '1790051346.459549'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation'
 ---
 # TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation
 > 原文: [https://arxiv.org/abs/2609.20826](https://arxiv.org/abs/2609.20826)

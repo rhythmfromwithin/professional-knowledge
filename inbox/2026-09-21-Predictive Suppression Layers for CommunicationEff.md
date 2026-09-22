@@ -1,11 +1,12 @@
 ---
-title: "Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.21583
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21583
 next_step: skim
+priority: low
+slack_ts: '1790051344.774429'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks
 ---
 # Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2609.21583](https://arxiv.org/abs/2609.21583)

@@ -1,11 +1,13 @@
 ---
-title: "(Don't) Trust, but (Don't) Verify: Developers' Attention to Security in AI-Generated Code"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.21020
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21020
 next_step: skim
+priority: low
+slack_ts: '1790051339.724389'
+source: cs.CR - Cryptography and Security
+status: unread
+title: '(Don''t) Trust, but (Don''t) Verify: Developers'' Attention to Security in
+  AI-Generated Code'
 ---
 # (Don't) Trust, but (Don't) Verify: Developers' Attention to Security in AI-Generated Code
 > 原文: [https://arxiv.org/abs/2609.21020](https://arxiv.org/abs/2609.21020)

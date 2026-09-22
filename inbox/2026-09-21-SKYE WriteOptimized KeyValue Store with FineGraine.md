@@ -1,11 +1,13 @@
 ---
-title: "SKYE: Write-Optimized Key-Value Store with Fine-Grained Control over Persistent Memory Accesses"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.20972
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20972
 next_step: skim
+priority: low
+slack_ts: '1790051345.418699'
+source: cs.DB - Databases
+status: unread
+title: 'SKYE: Write-Optimized Key-Value Store with Fine-Grained Control over Persistent
+  Memory Accesses'
 ---
 # SKYE: Write-Optimized Key-Value Store with Fine-Grained Control over Persistent Memory Accesses
 > 原文: [https://arxiv.org/abs/2609.20972](https://arxiv.org/abs/2609.20972)

@@ -1,11 +1,13 @@
 ---
-title: "TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.20909
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20909
 next_step: skim
+priority: low
+slack_ts: '1790051346.843529'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat
+  Alternative for Linux'
 ---
 # TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux
 > 原文: [https://arxiv.org/abs/2609.20909](https://arxiv.org/abs/2609.20909)

@@ -1,11 +1,12 @@
 ---
-title: "Sparse Priors for Efficient Distribution Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.20883
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20883
 next_step: skim
+priority: high
+slack_ts: '1790051346.305109'
+source: cs.LG - Machine Learning
+status: unread
+title: Sparse Priors for Efficient Distribution Learning
 ---
 # Sparse Priors for Efficient Distribution Learning
 > 原文: [https://arxiv.org/abs/2609.20883](https://arxiv.org/abs/2609.20883)

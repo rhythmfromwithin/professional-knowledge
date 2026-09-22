@@ -1,11 +1,13 @@
 ---
-title: "SensorWF: A FAIR Generalizable Workflow Framework for Scientific Time-Series Analysis"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.21110
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.21110
 next_step: skim
+priority: medium
+slack_ts: '1790051345.740469'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SensorWF: A FAIR Generalizable Workflow Framework for Scientific Time-Series
+  Analysis'
 ---
 # SensorWF: A FAIR Generalizable Workflow Framework for Scientific Time-Series Analysis
 > 原文: [https://arxiv.org/abs/2609.21110](https://arxiv.org/abs/2609.21110)

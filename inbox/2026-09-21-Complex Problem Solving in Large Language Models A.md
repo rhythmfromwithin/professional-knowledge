@@ -1,11 +1,13 @@
 ---
-title: "Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.20973
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20973
 next_step: skim
+priority: medium
+slack_ts: '1790051338.889149'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Complex Problem Solving in Large Language Models: A Statistical Control Survey
+  and Diagnostic Framework'
 ---
 # Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework
 > 原文: [https://arxiv.org/abs/2609.20973](https://arxiv.org/abs/2609.20973)

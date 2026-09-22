@@ -1,11 +1,13 @@
 ---
-title: "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.20971
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20971
 next_step: skim
+priority: high
+slack_ts: '1790051345.092769'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language
+  Models'
 ---
 # RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models
 > 原文: [https://arxiv.org/abs/2609.20971](https://arxiv.org/abs/2609.20971)

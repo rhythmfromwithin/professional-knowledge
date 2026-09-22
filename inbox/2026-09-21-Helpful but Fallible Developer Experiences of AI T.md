@@ -1,11 +1,13 @@
 ---
-title: "Helpful but Fallible: Developer Experiences of AI Tools Under a Coordinated Industrial Roll-out"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.20977
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20977
 next_step: skim
+priority: low
+slack_ts: '1790051341.082879'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Helpful but Fallible: Developer Experiences of AI Tools Under a Coordinated
+  Industrial Roll-out'
 ---
 # Helpful but Fallible: Developer Experiences of AI Tools Under a Coordinated Industrial Roll-out
 > 原文: [https://arxiv.org/abs/2609.20977](https://arxiv.org/abs/2609.20977)
