@@ -1,11 +1,13 @@
 ---
-title: "DeViGrasp: Robust Visual Mobile Grasping for Quadruped Manipulators under Degraded Perception"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.22278
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22278
 next_step: skim
+priority: medium
+slack_ts: '1790137534.531349'
+source: cs.RO - Robotics
+status: unread
+title: 'DeViGrasp: Robust Visual Mobile Grasping for Quadruped Manipulators under
+  Degraded Perception'
 ---
 # DeViGrasp: Robust Visual Mobile Grasping for Quadruped Manipulators under Degraded Perception
 > 原文: [https://arxiv.org/abs/2609.22278](https://arxiv.org/abs/2609.22278)

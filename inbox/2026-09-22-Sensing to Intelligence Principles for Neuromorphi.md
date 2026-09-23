@@ -1,11 +1,12 @@
 ---
-title: "Sensing to Intelligence: Principles for Neuromorphic Circuits and Systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.22838
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22838
 next_step: skim
+priority: low
+slack_ts: '1790137544.008169'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Sensing to Intelligence: Principles for Neuromorphic Circuits and Systems'
 ---
 # Sensing to Intelligence: Principles for Neuromorphic Circuits and Systems
 > 原文: [https://arxiv.org/abs/2609.22838](https://arxiv.org/abs/2609.22838)

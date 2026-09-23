@@ -1,11 +1,12 @@
 ---
-title: "The Choreographic Genome: Amplifying the Silent Structure of Text into Dance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.22519
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22519
 next_step: skim
+priority: low
+slack_ts: '1790137544.920639'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Choreographic Genome: Amplifying the Silent Structure of Text into Dance'
 ---
 # The Choreographic Genome: Amplifying the Silent Structure of Text into Dance
 > 原文: [https://arxiv.org/abs/2609.22519](https://arxiv.org/abs/2609.22519)

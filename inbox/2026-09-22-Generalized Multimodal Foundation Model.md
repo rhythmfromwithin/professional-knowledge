@@ -1,11 +1,12 @@
 ---
-title: "Generalized Multimodal Foundation Model"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.22107
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22107
 next_step: skim
+priority: high
+slack_ts: '1790137536.222939'
+source: cs.LG - Machine Learning
+status: unread
+title: Generalized Multimodal Foundation Model
 ---
 # Generalized Multimodal Foundation Model
 > 原文: [https://arxiv.org/abs/2609.22107](https://arxiv.org/abs/2609.22107)

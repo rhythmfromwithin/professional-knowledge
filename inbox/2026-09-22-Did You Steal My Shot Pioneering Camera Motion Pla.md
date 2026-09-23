@@ -1,11 +1,13 @@
 ---
-title: "Did You Steal My Shot? Pioneering Camera Motion Plagiarism Detection in Generative Videos"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.22267
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22267
 next_step: skim
+priority: medium
+slack_ts: '1790137534.986529'
+source: cs.CV - Computer Vision
+status: unread
+title: Did You Steal My Shot? Pioneering Camera Motion Plagiarism Detection in Generative
+  Videos
 ---
 # Did You Steal My Shot? Pioneering Camera Motion Plagiarism Detection in Generative Videos
 > 原文: [https://arxiv.org/abs/2609.22267](https://arxiv.org/abs/2609.22267)

@@ -1,11 +1,12 @@
 ---
-title: "Identity or Prompt Noise? A Calibrated Invariance Audit of LLM Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.22511
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22511
 next_step: skim
+priority: low
+slack_ts: '1790137537.618569'
+source: cs.SE - Software Engineering
+status: unread
+title: Identity or Prompt Noise? A Calibrated Invariance Audit of LLM Code Generation
 ---
 # Identity or Prompt Noise? A Calibrated Invariance Audit of LLM Code Generation
 > 原文: [https://arxiv.org/abs/2609.22511](https://arxiv.org/abs/2609.22511)

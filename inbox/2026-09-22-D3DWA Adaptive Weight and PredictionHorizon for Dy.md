@@ -1,11 +1,13 @@
 ---
-title: "D3DWA: Adaptive Weight and Prediction-Horizon for Dynamic Window Approach via Dueling Double Deep Q-Network"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.22276
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22276
 next_step: skim
+priority: medium
+slack_ts: '1790137534.297749'
+source: cs.RO - Robotics
+status: unread
+title: 'D3DWA: Adaptive Weight and Prediction-Horizon for Dynamic Window Approach
+  via Dueling Double Deep Q-Network'
 ---
 # D3DWA: Adaptive Weight and Prediction-Horizon for Dynamic Window Approach via Dueling Double Deep Q-Network
 > 原文: [https://arxiv.org/abs/2609.22276](https://arxiv.org/abs/2609.22276)

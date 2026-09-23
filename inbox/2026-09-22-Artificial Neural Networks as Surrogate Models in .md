@@ -1,11 +1,12 @@
 ---
-title: "Artificial Neural Networks as Surrogate Models in Black Box Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.22329
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22329
 next_step: skim
+priority: low
+slack_ts: '1790137530.510029'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Artificial Neural Networks as Surrogate Models in Black Box Optimization
 ---
 # Artificial Neural Networks as Surrogate Models in Black Box Optimization
 > 原文: [https://arxiv.org/abs/2609.22329](https://arxiv.org/abs/2609.22329)

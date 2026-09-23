@@ -1,11 +1,12 @@
 ---
-title: "RLVR is a Kernel, Not a Function: Statistical Inference for pass@$k$ Crossovers"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.22547
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22547
 next_step: skim
+priority: medium
+slack_ts: '1790137542.661249'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'RLVR is a Kernel, Not a Function: Statistical Inference for pass@$k$ Crossovers'
 ---
 # RLVR is a Kernel, Not a Function: Statistical Inference for pass@$k$ Crossovers
 > 原文: [https://arxiv.org/abs/2609.22547](https://arxiv.org/abs/2609.22547)

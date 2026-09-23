@@ -1,11 +1,12 @@
 ---
-title: "Pareto-Improving Pricing: Why 3 Is Better Than 2"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.22652
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22652
 next_step: skim
+priority: low
+slack_ts: '1790137541.505519'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Pareto-Improving Pricing: Why 3 Is Better Than 2'
 ---
 # Pareto-Improving Pricing: Why 3 Is Better Than 2
 > 原文: [https://arxiv.org/abs/2609.22652](https://arxiv.org/abs/2609.22652)

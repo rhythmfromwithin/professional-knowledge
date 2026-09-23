@@ -1,11 +1,12 @@
 ---
-title: "Improving synthesis prediction of small molecules at scale with RetroChimera"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/
 next_step: skim
+priority: high
+slack_ts: '1790137537.843249'
+source: Microsoft Research
+status: unread
+title: Improving synthesis prediction of small molecules at scale with RetroChimera
 ---
 # Improving synthesis prediction of small molecules at scale with RetroChimera
 > 原文: [https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/)

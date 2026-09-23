@@ -1,11 +1,13 @@
 ---
-title: "Same Pattern, Different Answer: A Reference Semantics and Divergence Map for GQL and SQL/PGQ Path Patterns"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.23032
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.23032
 next_step: skim
+priority: low
+slack_ts: '1790137543.558129'
+source: cs.DB - Databases
+status: unread
+title: 'Same Pattern, Different Answer: A Reference Semantics and Divergence Map for
+  GQL and SQL/PGQ Path Patterns'
 ---
 # Same Pattern, Different Answer: A Reference Semantics and Divergence Map for GQL and SQL/PGQ Path Patterns
 > 原文: [https://arxiv.org/abs/2609.23032](https://arxiv.org/abs/2609.23032)

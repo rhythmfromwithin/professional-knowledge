@@ -1,7 +1,9 @@
 ---
-title: "Beyond the model: Engineering AI infra with scientific judgement"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss
+slack_ts: '1790137531.197009'
+source: Airbnb Engineering
+title: 'Beyond the model: Engineering AI infra with scientific judgement'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

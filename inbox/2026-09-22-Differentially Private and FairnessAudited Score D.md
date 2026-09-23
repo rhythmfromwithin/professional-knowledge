@@ -1,11 +1,13 @@
 ---
-title: "Differentially Private and Fairness-Audited Score Diffusion for Irregular Longitudinal Health Records"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.22401
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22401
 next_step: skim
+priority: low
+slack_ts: '1790137535.233269'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Differentially Private and Fairness-Audited Score Diffusion for Irregular Longitudinal
+  Health Records
 ---
 # Differentially Private and Fairness-Audited Score Diffusion for Irregular Longitudinal Health Records
 > 原文: [https://arxiv.org/abs/2609.22401](https://arxiv.org/abs/2609.22401)

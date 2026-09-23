@@ -1,11 +1,13 @@
 ---
-title: "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/
 next_step: skim
+priority: medium
+slack_ts: '1790137540.952889'
+source: Meta Engineering
+status: unread
+title: 'Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving
+  Assignment Problems'
 ---
 # Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems
 > 原文: [https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/](https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/)

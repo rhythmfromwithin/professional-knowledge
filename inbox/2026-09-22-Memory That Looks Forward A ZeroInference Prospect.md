@@ -1,11 +1,13 @@
 ---
-title: "Memory That Looks Forward: A Zero-Inference Prospective Term for Personal Memory Retrieval"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.22091
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22091
 next_step: skim
+priority: high
+slack_ts: '1790137540.022889'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Memory That Looks Forward: A Zero-Inference Prospective Term for Personal
+  Memory Retrieval'
 ---
 # Memory That Looks Forward: A Zero-Inference Prospective Term for Personal Memory Retrieval
 > 原文: [https://arxiv.org/abs/2609.22091](https://arxiv.org/abs/2609.22091)

@@ -1,11 +1,12 @@
 ---
-title: "How BMW Group detects cost anomalies across 14,000 cloud accounts"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/
 next_step: skim
+priority: high
+slack_ts: '1790137537.405129'
+source: AWS Blog
+status: unread
+title: How BMW Group detects cost anomalies across 14,000 cloud accounts
 ---
 # How BMW Group detects cost anomalies across 14,000 cloud accounts
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/](https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/)

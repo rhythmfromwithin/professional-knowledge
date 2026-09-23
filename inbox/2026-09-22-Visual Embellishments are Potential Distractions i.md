@@ -1,11 +1,12 @@
 ---
-title: "Visual Embellishments are Potential Distractions in Double-Column Reading"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.22477
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22477
 next_step: skim
+priority: low
+slack_ts: '1790137546.082099'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Visual Embellishments are Potential Distractions in Double-Column Reading
 ---
 # Visual Embellishments are Potential Distractions in Double-Column Reading
 > 原文: [https://arxiv.org/abs/2609.22477](https://arxiv.org/abs/2609.22477)

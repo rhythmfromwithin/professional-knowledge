@@ -1,11 +1,12 @@
 ---
-title: "Scalable AI-based clinical communication training and automated assessment"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.22517
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22517
 next_step: skim
+priority: low
+slack_ts: '1790137543.781299'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Scalable AI-based clinical communication training and automated assessment
 ---
 # Scalable AI-based clinical communication training and automated assessment
 > 原文: [https://arxiv.org/abs/2609.22517](https://arxiv.org/abs/2609.22517)

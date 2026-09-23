@@ -1,11 +1,12 @@
 ---
-title: "Rogue Agents: Deciphering Agent Intent"
-source: "Greylock Perspectives"
-link: https://greylock.com/blog/rogue-agents-deciphering-agent-intent/
-priority: medium
-status: unread
 interest: medium
+link: https://greylock.com/blog/rogue-agents-deciphering-agent-intent/
 next_step: skim
+priority: medium
+slack_ts: '1790137543.110629'
+source: Greylock Perspectives
+status: unread
+title: 'Rogue Agents: Deciphering Agent Intent'
 ---
 # Rogue Agents: Deciphering Agent Intent
 > 原文: [https://greylock.com/blog/rogue-agents-deciphering-agent-intent/](https://greylock.com/blog/rogue-agents-deciphering-agent-intent/)

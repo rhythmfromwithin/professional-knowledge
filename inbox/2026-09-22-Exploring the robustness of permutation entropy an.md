@@ -1,11 +1,13 @@
 ---
-title: "Exploring the robustness of permutation entropy analysis to differentiate between closed-eyes and open-eyes resting states"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.22265
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22265
 next_step: skim
+priority: low
+slack_ts: '1790137536.000229'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Exploring the robustness of permutation entropy analysis to differentiate between
+  closed-eyes and open-eyes resting states
 ---
 # Exploring the robustness of permutation entropy analysis to differentiate between closed-eyes and open-eyes resting states
 > 原文: [https://arxiv.org/abs/2609.22265](https://arxiv.org/abs/2609.22265)

@@ -1,11 +1,12 @@
 ---
-title: "Initial Evaluation of Potential Bias in Coverage of Humans in Wikidata"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.22375
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22375
 next_step: skim
+priority: medium
+slack_ts: '1790137538.066429'
+source: cs.CY - Computers and Society
+status: unread
+title: Initial Evaluation of Potential Bias in Coverage of Humans in Wikidata
 ---
 # Initial Evaluation of Potential Bias in Coverage of Humans in Wikidata
 > 原文: [https://arxiv.org/abs/2609.22375](https://arxiv.org/abs/2609.22375)

@@ -1,11 +1,13 @@
 ---
-title: "The Tethys Dataset: Seven Years of Hourly Smart Water Metering and a Pipeline for Making It Usable"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.22358
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22358
 next_step: skim
+priority: medium
+slack_ts: '1790137545.380029'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Tethys Dataset: Seven Years of Hourly Smart Water Metering and a Pipeline
+  for Making It Usable'
 ---
 # The Tethys Dataset: Seven Years of Hourly Smart Water Metering and a Pipeline for Making It Usable
 > 原文: [https://arxiv.org/abs/2609.22358](https://arxiv.org/abs/2609.22358)

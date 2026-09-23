@@ -1,11 +1,12 @@
 ---
-title: "Moonworks Lunara: Modeling Artistic Intelligence"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.22272
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22272
 next_step: skim
+priority: medium
+slack_ts: '1790137540.251569'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Moonworks Lunara: Modeling Artistic Intelligence'
 ---
 # Moonworks Lunara: Modeling Artistic Intelligence
 > 原文: [https://arxiv.org/abs/2609.22272](https://arxiv.org/abs/2609.22272)

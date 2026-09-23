@@ -1,11 +1,12 @@
 ---
-title: "Locally Private Inference for Riemannian Stochastic Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.22642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22642
 next_step: skim
+priority: medium
+slack_ts: '1790137539.490379'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Locally Private Inference for Riemannian Stochastic Optimization
 ---
 # Locally Private Inference for Riemannian Stochastic Optimization
 > 原文: [https://arxiv.org/abs/2609.22642](https://arxiv.org/abs/2609.22642)

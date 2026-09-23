@@ -1,11 +1,12 @@
 ---
-title: "Attention-Aware Routing: Coupling Routing and Attention in MoEs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.20974
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20974
 next_step: skim
+priority: high
+slack_ts: '1790137530.745339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Attention-Aware Routing: Coupling Routing and Attention in MoEs'
 ---
 # Attention-Aware Routing: Coupling Routing and Attention in MoEs
 > 原文: [https://arxiv.org/abs/2609.20974](https://arxiv.org/abs/2609.20974)

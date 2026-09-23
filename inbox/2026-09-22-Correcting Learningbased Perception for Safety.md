@@ -1,11 +1,12 @@
 ---
-title: "Correcting Learning-based Perception for Safety"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.22108
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22108
 next_step: skim
+priority: high
+slack_ts: '1790137534.029859'
+source: cs.LG - Machine Learning
+status: unread
+title: Correcting Learning-based Perception for Safety
 ---
 # Correcting Learning-based Perception for Safety
 > 原文: [https://arxiv.org/abs/2609.22108](https://arxiv.org/abs/2609.22108)

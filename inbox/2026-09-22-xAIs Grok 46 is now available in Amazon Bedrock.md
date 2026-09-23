@@ -1,11 +1,12 @@
 ---
-title: "xAI’s Grok 4.6 is now available in Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1790137547.173959'
+source: AWS Blog
+status: unread
+title: xAI’s Grok 4.6 is now available in Amazon Bedrock
 ---
 # xAI’s Grok 4.6 is now available in Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/)

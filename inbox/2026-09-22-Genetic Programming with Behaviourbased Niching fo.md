@@ -1,11 +1,13 @@
 ---
-title: "Genetic Programming with Behaviour-based Niching for Learning Guided Local Search in Vehicle Routing Problems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.24104
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.24104
 next_step: skim
+priority: low
+slack_ts: '1790137536.681319'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Genetic Programming with Behaviour-based Niching for Learning Guided Local
+  Search in Vehicle Routing Problems
 ---
 # Genetic Programming with Behaviour-based Niching for Learning Guided Local Search in Vehicle Routing Problems
 > 原文: [https://arxiv.org/abs/2609.24104](https://arxiv.org/abs/2609.24104)

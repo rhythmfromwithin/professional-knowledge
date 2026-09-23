@@ -1,11 +1,12 @@
 ---
-title: "Structural versus Allocative Inefficiency Across Organizational Settings"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.23744
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.23744
 next_step: skim
+priority: low
+slack_ts: '1790137544.460889'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Structural versus Allocative Inefficiency Across Organizational Settings
 ---
 # Structural versus Allocative Inefficiency Across Organizational Settings
 > 原文: [https://arxiv.org/abs/2609.23744](https://arxiv.org/abs/2609.23744)

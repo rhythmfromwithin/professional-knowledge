@@ -1,11 +1,13 @@
 ---
-title: "Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.22094
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22094
 next_step: skim
+priority: high
+slack_ts: '1790137544.690209'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning
+  for Multimodal Content Moderation'
 ---
 # Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation
 > 原文: [https://arxiv.org/abs/2609.22094](https://arxiv.org/abs/2609.22094)

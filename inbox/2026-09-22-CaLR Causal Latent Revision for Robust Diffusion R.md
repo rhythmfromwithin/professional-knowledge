@@ -1,11 +1,12 @@
 ---
-title: "CaLR: Causal Latent Revision for Robust Diffusion Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.20981
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.20981
 next_step: skim
+priority: high
+slack_ts: '1790137532.933379'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'CaLR: Causal Latent Revision for Robust Diffusion Reasoning'
 ---
 # CaLR: Causal Latent Revision for Robust Diffusion Reasoning
 > 原文: [https://arxiv.org/abs/2609.20981](https://arxiv.org/abs/2609.20981)
