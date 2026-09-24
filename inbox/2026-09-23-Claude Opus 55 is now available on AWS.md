@@ -1,11 +1,12 @@
 ---
-title: "Claude Opus 5.5 is now available on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1790223761.575889'
+source: AWS Blog
+status: unread
+title: Claude Opus 5.5 is now available on AWS
 ---
 # Claude Opus 5.5 is now available on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/)

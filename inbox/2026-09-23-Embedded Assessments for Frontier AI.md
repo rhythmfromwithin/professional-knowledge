@@ -1,11 +1,12 @@
 ---
-title: "Embedded Assessments for Frontier AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.25413
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25413
 next_step: skim
+priority: medium
+slack_ts: '1790223763.089429'
+source: cs.CY - Computers and Society
+status: unread
+title: Embedded Assessments for Frontier AI
 ---
 # Embedded Assessments for Frontier AI
 > 原文: [https://arxiv.org/abs/2609.25413](https://arxiv.org/abs/2609.25413)

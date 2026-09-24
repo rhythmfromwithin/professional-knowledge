@@ -1,11 +1,12 @@
 ---
-title: "How Children Design and Reason about Trustworthy AI Chatbots"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.25244
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25244
 next_step: skim
+priority: low
+slack_ts: '1790223764.826289'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: How Children Design and Reason about Trustworthy AI Chatbots
 ---
 # How Children Design and Reason about Trustworthy AI Chatbots
 > 原文: [https://arxiv.org/abs/2609.25244](https://arxiv.org/abs/2609.25244)

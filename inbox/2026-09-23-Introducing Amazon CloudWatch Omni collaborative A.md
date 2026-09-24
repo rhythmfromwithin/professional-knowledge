@@ -1,11 +1,13 @@
 ---
-title: "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/
 next_step: skim
+priority: high
+slack_ts: '1790223765.600769'
+source: AWS Blog
+status: unread
+title: 'Introducing Amazon CloudWatch Omni: collaborative AI-powered observability
+  for your applications'
 ---
 # Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/)

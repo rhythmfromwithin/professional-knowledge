@@ -1,11 +1,13 @@
 ---
-title: "Can LLMs identify and repair ruptures? Comparison between clinician practices and LLM behaviors"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.25287
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25287
 next_step: skim
+priority: low
+slack_ts: '1790223761.191639'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Can LLMs identify and repair ruptures? Comparison between clinician practices
+  and LLM behaviors
 ---
 # Can LLMs identify and repair ruptures? Comparison between clinician practices and LLM behaviors
 > 原文: [https://arxiv.org/abs/2609.25287](https://arxiv.org/abs/2609.25287)

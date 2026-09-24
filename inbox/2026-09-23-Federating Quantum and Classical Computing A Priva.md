@@ -1,11 +1,12 @@
 ---
-title: "Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.25082
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25082
 next_step: skim
+priority: high
+slack_ts: '1790223764.095549'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach'
 ---
 # Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach
 > 原文: [https://arxiv.org/abs/2609.25082](https://arxiv.org/abs/2609.25082)

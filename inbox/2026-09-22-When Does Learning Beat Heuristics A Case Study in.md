@@ -1,11 +1,13 @@
 ---
-title: "When Does Learning Beat Heuristics? A Case Study in Kubernetes Scheduler Score Plugins"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.22142
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22142
 next_step: skim
+priority: medium
+slack_ts: '1790223757.575999'
+source: cs.DC - Distributed Computing
+status: unread
+title: When Does Learning Beat Heuristics? A Case Study in Kubernetes Scheduler Score
+  Plugins
 ---
 # When Does Learning Beat Heuristics? A Case Study in Kubernetes Scheduler Score Plugins
 > 原文: [https://arxiv.org/abs/2609.22142](https://arxiv.org/abs/2609.22142)

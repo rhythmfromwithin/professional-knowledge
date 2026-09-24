@@ -1,11 +1,13 @@
 ---
-title: "Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.25436
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25436
 next_step: skim
+priority: low
+slack_ts: '1790223768.241259'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Physics-constrained inference of somatic dynamics from dendritic recordings
+  with sparse somatic supervision in weakly coupled two-compartment neuron model
 ---
 # Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model
 > 原文: [https://arxiv.org/abs/2609.25436](https://arxiv.org/abs/2609.25436)

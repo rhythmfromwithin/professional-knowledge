@@ -1,11 +1,13 @@
 ---
-title: "Trust-Aware Output Management for Physical Neural Network in Cloud-Continuum Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.22443
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22443
 next_step: skim
+priority: medium
+slack_ts: '1790223757.288269'
+source: cs.DC - Distributed Computing
+status: unread
+title: Trust-Aware Output Management for Physical Neural Network in Cloud-Continuum
+  Systems
 ---
 # Trust-Aware Output Management for Physical Neural Network in Cloud-Continuum Systems
 > 原文: [https://arxiv.org/abs/2609.22443](https://arxiv.org/abs/2609.22443)

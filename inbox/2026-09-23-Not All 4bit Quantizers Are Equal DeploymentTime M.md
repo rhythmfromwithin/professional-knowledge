@@ -1,11 +1,13 @@
 ---
-title: "Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage in Fine-Tuned Small Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.25014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25014
 next_step: skim
+priority: low
+slack_ts: '1790223767.332289'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage
+  in Fine-Tuned Small Language Models'
 ---
 # Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage in Fine-Tuned Small Language Models
 > 原文: [https://arxiv.org/abs/2609.25014](https://arxiv.org/abs/2609.25014)

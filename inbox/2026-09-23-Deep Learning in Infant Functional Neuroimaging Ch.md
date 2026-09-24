@@ -1,11 +1,13 @@
 ---
-title: "Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and Future Directions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.26688
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26688
 next_step: skim
+priority: low
+slack_ts: '1790223762.293969'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and
+  Future Directions'
 ---
 # Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and Future Directions
 > 原文: [https://arxiv.org/abs/2609.26688](https://arxiv.org/abs/2609.26688)

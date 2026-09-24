@@ -1,0 +1,14 @@
+---
+title: "AgroBench: A Reproducible Multimodal Benchmark for Weakly Supervised Crop Yield Learning from County Statistics and Pixel Observations"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2609.26809
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# AgroBench: A Reproducible Multimodal Benchmark for Weakly Supervised Crop Yield Learning from County Statistics and Pixel Observations
+> 原文: [https://arxiv.org/abs/2609.26809](https://arxiv.org/abs/2609.26809)
+
+arXiv:2609.26809v1 Announce Type: new
+Abstract: Reliable agricultural yield statistics are typically reported at coarse administrative scales, whereas modern geospatial machine learning methods require spatially explicit, pixel level supervision. This mismatch has limited the development of large-scale benchmarks for crop yield learning using multimodal Earth observation data. A reproducible benchmark, AgroBench, is presented for transforming publicly available U.S. county level crop yield statistics into weakly supervised pixel-level crop time series. Each crop pixel time series is paired with a county-level yield value as a weak supervisory signal rather than a directly measured pixel-level yield label. Our geospatial data generation pipeline integrates USDA crop yield statistics with crop-specific land cover masks, Sentinel 2 multispectral imagery, Sentinel-1 synthetic aperture radar observations, climatic variables, and terrain information to produce temporally aligned multimodal sequences describing individual crop pixels throughout the growing season. The resulting benchmark contains over 13 million observations from 788,654 unique crop pixels spanning 5,107 county year combinations across eight growing seasons (2017 to 2024) for five major U.S. crops. To facilitate standardized evaluation, we establish a crop yield prediction benchmark using a Leave-One-Year-Out evaluation protocol and provide baseline results using representative machine learning models. By releasing the complete data generation pipeline, benchmark dataset, and evaluation protocol, AgroBench provides a reproducible foundation for future research in weakly supervised learning, multimodal remote sensing, spatiotemporal modeling, and geospatial foundation models for agriculture.

@@ -1,11 +1,12 @@
 ---
-title: "Fast Recovery for LLM Serving via Decoupled Device Memory Lifetime in Dynamo"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.25451
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25451
 next_step: skim
+priority: medium
+slack_ts: '1790223763.829549'
+source: cs.DC - Distributed Computing
+status: unread
+title: Fast Recovery for LLM Serving via Decoupled Device Memory Lifetime in Dynamo
 ---
 # Fast Recovery for LLM Serving via Decoupled Device Memory Lifetime in Dynamo
 > 原文: [https://arxiv.org/abs/2609.25451](https://arxiv.org/abs/2609.25451)

@@ -1,11 +1,13 @@
 ---
-title: "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.25010
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25010
 next_step: skim
+priority: high
+slack_ts: '1790223762.918039'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where
+  a No-Persona Baseline Beats Persona-Based Copy Simulation
 ---
 # Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation
 > 原文: [https://arxiv.org/abs/2609.25010](https://arxiv.org/abs/2609.25010)

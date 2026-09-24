@@ -1,11 +1,13 @@
 ---
-title: "Spend Classification Without Leakage: An Evaluation Harness and What It Changed in a Deployed System"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.25502
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25502
 next_step: skim
+priority: low
+slack_ts: '1790223769.371749'
+source: cs.DB - Databases
+status: unread
+title: 'Spend Classification Without Leakage: An Evaluation Harness and What It Changed
+  in a Deployed System'
 ---
 # Spend Classification Without Leakage: An Evaluation Harness and What It Changed in a Deployed System
 > 原文: [https://arxiv.org/abs/2609.25502](https://arxiv.org/abs/2609.25502)

@@ -1,11 +1,12 @@
 ---
-title: "Generating Query Context for Relational Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.26200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26200
 next_step: skim
+priority: low
+slack_ts: '1790223764.270669'
+source: cs.DB - Databases
+status: unread
+title: Generating Query Context for Relational Databases
 ---
 # Generating Query Context for Relational Databases
 > 原文: [https://arxiv.org/abs/2609.26200](https://arxiv.org/abs/2609.26200)

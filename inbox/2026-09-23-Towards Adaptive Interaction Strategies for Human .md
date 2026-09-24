@@ -1,11 +1,13 @@
 ---
-title: "Towards Adaptive Interaction Strategies for Human Companion Robot via Deep Reinforcement Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.25031
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25031
 next_step: skim
+priority: medium
+slack_ts: '1790223770.320789'
+source: cs.RO - Robotics
+status: unread
+title: Towards Adaptive Interaction Strategies for Human Companion Robot via Deep
+  Reinforcement Learning
 ---
 # Towards Adaptive Interaction Strategies for Human Companion Robot via Deep Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2609.25031](https://arxiv.org/abs/2609.25031)

@@ -1,11 +1,12 @@
 ---
-title: "AkasicMEM: Governed Enterprise Memory for Agents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.25563
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25563
 next_step: skim
+priority: low
+slack_ts: '1790223759.076089'
+source: cs.DB - Databases
+status: unread
+title: 'AkasicMEM: Governed Enterprise Memory for Agents'
 ---
 # AkasicMEM: Governed Enterprise Memory for Agents
 > 原文: [https://arxiv.org/abs/2609.25563](https://arxiv.org/abs/2609.25563)

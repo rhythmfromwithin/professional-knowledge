@@ -1,11 +1,13 @@
 ---
-title: "Cosserat Modeling of Trimmed Helicoid Soft Arms with a Separated-Section Constitutive Law"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.25264
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25264
 next_step: skim
+priority: medium
+slack_ts: '1790223762.121039'
+source: cs.RO - Robotics
+status: unread
+title: Cosserat Modeling of Trimmed Helicoid Soft Arms with a Separated-Section Constitutive
+  Law
 ---
 # Cosserat Modeling of Trimmed Helicoid Soft Arms with a Separated-Section Constitutive Law
 > 原文: [https://arxiv.org/abs/2609.25264](https://arxiv.org/abs/2609.25264)

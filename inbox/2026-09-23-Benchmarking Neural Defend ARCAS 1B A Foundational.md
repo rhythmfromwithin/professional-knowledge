@@ -1,11 +1,13 @@
 ---
-title: "Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.25154
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25154
 next_step: skim
+priority: low
+slack_ts: '1790223759.895609'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection
+  Model'
 ---
 # Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model
 > 原文: [https://arxiv.org/abs/2609.25154](https://arxiv.org/abs/2609.25154)

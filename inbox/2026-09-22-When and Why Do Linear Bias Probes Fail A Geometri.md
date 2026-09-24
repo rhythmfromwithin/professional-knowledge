@@ -1,11 +1,13 @@
 ---
-title: "When and Why Do Linear Bias Probes Fail? A Geometric and Statistical Theory of Bias Detectability in Large Language Model Representations"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.22337
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22337
 next_step: skim
+priority: medium
+slack_ts: '1790223757.980169'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: When and Why Do Linear Bias Probes Fail? A Geometric and Statistical Theory
+  of Bias Detectability in Large Language Model Representations
 ---
 # When and Why Do Linear Bias Probes Fail? A Geometric and Statistical Theory of Bias Detectability in Large Language Model Representations
 > 原文: [https://arxiv.org/abs/2609.22337](https://arxiv.org/abs/2609.22337)

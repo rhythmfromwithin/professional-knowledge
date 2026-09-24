@@ -1,0 +1,14 @@
+---
+title: "Flamingo: On Load Balancing in DAG-based Consensus Protocols"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2609.28361
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Flamingo: On Load Balancing in DAG-based Consensus Protocols
+> 原文: [https://arxiv.org/abs/2609.28361](https://arxiv.org/abs/2609.28361)
+
+arXiv:2609.28361v1 Announce Type: cross
+Abstract: Distributed data management systems deployed in untrusted environments rely on Byzantine Fault-Tolerant (BFT) consensus protocols to tolerate malicious failures. DAG-based BFT protocols improve throughput by letting validators disseminate transactions concurrently and by scaling execution across multiple workers. However, imbalances in workload or resource capacity can still degrade performance significantly. This paper presents Flamingo, a load-balancing protocol for certified DAG-based BFT protocols that addresses imbalance at both the ordering and execution layers. At the ordering layer, Flamingo periodically migrates client accounts away from overloaded validators, adapting to skewed submissions and heterogeneous validator capacity while preserving correctness under Byzantine faults, with migrations taking effect only through the committed log. At the execution layer, Flamingo redistributes committed transactions across executor workers using a deterministic, order-preserving scheduler that balances load and minimizes cross-worker data movement, without centralized coordination or costly distributed commit. Built on top of Narwhal and Tusk, our prototype shows that Flamingo recovers throughput and latency under workload skew, validator heterogeneity, and shifting hotspots, adds negligible overhead when the system is balanced, and needs load balancing in both layers, since resolving only one shifts the bottleneck to the other.

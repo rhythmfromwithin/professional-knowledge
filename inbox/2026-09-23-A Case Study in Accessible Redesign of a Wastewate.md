@@ -1,11 +1,12 @@
 ---
-title: "A Case Study in Accessible Redesign of a Wastewater Dashboard"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.25273
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25273
 next_step: skim
+priority: low
+slack_ts: '1790223758.528459'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Case Study in Accessible Redesign of a Wastewater Dashboard
 ---
 # A Case Study in Accessible Redesign of a Wastewater Dashboard
 > 原文: [https://arxiv.org/abs/2609.25273](https://arxiv.org/abs/2609.25273)

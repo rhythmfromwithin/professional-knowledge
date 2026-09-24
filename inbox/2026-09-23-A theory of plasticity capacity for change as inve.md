@@ -1,11 +1,12 @@
 ---
-title: "A theory of plasticity: capacity for change as inverse configurational constraint"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.25312
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25312
 next_step: skim
+priority: low
+slack_ts: '1790223758.896089'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'A theory of plasticity: capacity for change as inverse configurational constraint'
 ---
 # A theory of plasticity: capacity for change as inverse configurational constraint
 > 原文: [https://arxiv.org/abs/2609.25312](https://arxiv.org/abs/2609.25312)

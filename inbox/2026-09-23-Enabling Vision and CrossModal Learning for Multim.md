@@ -1,11 +1,13 @@
 ---
-title: "Enabling Vision and Cross-Modal Learning for Multimodal Stroke Recurrence Prediction: An Interpretable Two-Step Framework"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.22271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22271
 next_step: skim
+priority: medium
+slack_ts: '1790223763.262179'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Enabling Vision and Cross-Modal Learning for Multimodal Stroke Recurrence
+  Prediction: An Interpretable Two-Step Framework'
 ---
 # Enabling Vision and Cross-Modal Learning for Multimodal Stroke Recurrence Prediction: An Interpretable Two-Step Framework
 > 原文: [https://arxiv.org/abs/2609.22271](https://arxiv.org/abs/2609.22271)

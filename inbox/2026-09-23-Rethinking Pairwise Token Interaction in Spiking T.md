@@ -1,11 +1,12 @@
 ---
-title: "Rethinking Pairwise Token Interaction in Spiking Transformers"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.26297
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26297
 next_step: skim
+priority: low
+slack_ts: '1790223768.680169'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Rethinking Pairwise Token Interaction in Spiking Transformers
 ---
 # Rethinking Pairwise Token Interaction in Spiking Transformers
 > 原文: [https://arxiv.org/abs/2609.26297](https://arxiv.org/abs/2609.26297)

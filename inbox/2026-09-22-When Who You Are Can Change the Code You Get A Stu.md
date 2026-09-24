@@ -1,11 +1,13 @@
 ---
-title: "When Who You Are Can Change the Code You Get: A Study of Persona-Induced Bias in LLM Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.22102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.22102
 next_step: skim
+priority: low
+slack_ts: '1790223757.791369'
+source: cs.SE - Software Engineering
+status: unread
+title: 'When Who You Are Can Change the Code You Get: A Study of Persona-Induced Bias
+  in LLM Code Generation'
 ---
 # When Who You Are Can Change the Code You Get: A Study of Persona-Induced Bias in LLM Code Generation
 > 原文: [https://arxiv.org/abs/2609.22102](https://arxiv.org/abs/2609.22102)
