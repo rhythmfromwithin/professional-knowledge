@@ -1,11 +1,13 @@
 ---
-title: "A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.26923
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26923
 next_step: skim
+priority: medium
+slack_ts: '1790310814.087699'
+source: cs.CV - Computer Vision
+status: unread
+title: A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated
+  Biomechanical Analysis
 ---
 # A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis
 > 原文: [https://arxiv.org/abs/2609.26923](https://arxiv.org/abs/2609.26923)

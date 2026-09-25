@@ -1,11 +1,12 @@
 ---
-title: "Trust, Rule of Law, and the Size Premium: Evidence from a Meta-Analysis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.26212
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26212
 next_step: skim
+priority: low
+slack_ts: '1790310812.961449'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Trust, Rule of Law, and the Size Premium: Evidence from a Meta-Analysis'
 ---
 # Trust, Rule of Law, and the Size Premium: Evidence from a Meta-Analysis
 > 原文: [https://arxiv.org/abs/2609.26212](https://arxiv.org/abs/2609.26212)

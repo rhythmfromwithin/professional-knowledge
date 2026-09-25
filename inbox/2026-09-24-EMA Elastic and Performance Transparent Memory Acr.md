@@ -1,11 +1,12 @@
 ---
-title: "EMA: Elastic and Performance Transparent Memory Across GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.27040
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.27040
 next_step: skim
+priority: medium
+slack_ts: '1790310819.227409'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'EMA: Elastic and Performance Transparent Memory Across GPUs'
 ---
 # EMA: Elastic and Performance Transparent Memory Across GPUs
 > 原文: [https://arxiv.org/abs/2609.27040](https://arxiv.org/abs/2609.27040)

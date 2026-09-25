@@ -1,11 +1,13 @@
 ---
-title: "Differences in Neurovascular Coupling in Patients with Major Depressive Disorder: Evidence from Simultaneous Resting-State EEG-fNIRS"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2506.11634
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2506.11634
 next_step: skim
+priority: low
+slack_ts: '1790310818.638549'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Differences in Neurovascular Coupling in Patients with Major Depressive Disorder:
+  Evidence from Simultaneous Resting-State EEG-fNIRS'
 ---
 # Differences in Neurovascular Coupling in Patients with Major Depressive Disorder: Evidence from Simultaneous Resting-State EEG-fNIRS
 > 原文: [https://arxiv.org/abs/2506.11634](https://arxiv.org/abs/2506.11634)

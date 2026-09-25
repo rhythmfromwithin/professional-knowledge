@@ -1,11 +1,13 @@
 ---
-title: "Comparative Evaluation of Static Embedding Models for HTTP Request Anomaly Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.26860
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26860
 next_step: skim
+priority: low
+slack_ts: '1790310817.496219'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Comparative Evaluation of Static Embedding Models for HTTP Request Anomaly
+  Detection
 ---
 # Comparative Evaluation of Static Embedding Models for HTTP Request Anomaly Detection
 > 原文: [https://arxiv.org/abs/2609.26860](https://arxiv.org/abs/2609.26860)

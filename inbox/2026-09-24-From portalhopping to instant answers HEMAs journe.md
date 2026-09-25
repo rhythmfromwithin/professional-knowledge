@@ -1,11 +1,13 @@
 ---
-title: "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1790310819.908599'
+source: AWS Blog
+status: unread
+title: 'From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon
+  Bedrock'
 ---
 # From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)

@@ -1,11 +1,13 @@
 ---
-title: "What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.25006
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25006
 next_step: skim
+priority: high
+slack_ts: '1790310813.483299'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in
+  a Widely Used Fake News Corpus
 ---
 # What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus
 > 原文: [https://arxiv.org/abs/2609.25006](https://arxiv.org/abs/2609.25006)

@@ -1,11 +1,12 @@
 ---
-title: "Mining Meaning: Measurement Error in AI-Assisted Literature Reviews"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.27686
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.27686
 next_step: skim
+priority: low
+slack_ts: '1790310822.676949'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Mining Meaning: Measurement Error in AI-Assisted Literature Reviews'
 ---
 # Mining Meaning: Measurement Error in AI-Assisted Literature Reviews
 > 原文: [https://arxiv.org/abs/2609.27686](https://arxiv.org/abs/2609.27686)

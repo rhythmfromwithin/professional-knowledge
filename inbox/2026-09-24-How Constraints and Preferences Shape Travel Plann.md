@@ -1,11 +1,13 @@
 ---
-title: "How Constraints and Preferences Shape Travel Planning: Implications for AI Planning Support"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.26968
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26968
 next_step: skim
+priority: low
+slack_ts: '1790310820.956529'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'How Constraints and Preferences Shape Travel Planning: Implications for AI
+  Planning Support'
 ---
 # How Constraints and Preferences Shape Travel Planning: Implications for AI Planning Support
 > 原文: [https://arxiv.org/abs/2609.26968](https://arxiv.org/abs/2609.26968)

@@ -1,11 +1,12 @@
 ---
-title: "MLSkip: Data Skipping for ML Filters via Lightweight Metadata"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2606.03946
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.03946
 next_step: skim
+priority: low
+slack_ts: '1790310822.500009'
+source: cs.DB - Databases
+status: unread
+title: 'MLSkip: Data Skipping for ML Filters via Lightweight Metadata'
 ---
 # MLSkip: Data Skipping for ML Filters via Lightweight Metadata
 > 原文: [https://arxiv.org/abs/2606.03946](https://arxiv.org/abs/2606.03946)

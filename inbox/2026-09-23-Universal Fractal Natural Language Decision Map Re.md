@@ -1,11 +1,13 @@
 ---
-title: "Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.25498
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25498
 next_step: skim
+priority: low
+slack_ts: '1790310813.130029'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across
+  Heterogeneous Domains'
 ---
 # Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains
 > 原文: [https://arxiv.org/abs/2609.25498](https://arxiv.org/abs/2609.25498)

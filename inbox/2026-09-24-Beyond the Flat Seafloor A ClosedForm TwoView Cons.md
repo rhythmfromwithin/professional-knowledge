@@ -1,11 +1,13 @@
 ---
-title: "Beyond the Flat Seafloor: A Closed-Form Two-View Constraint to Aid Sidescan Sonar Reconstruction"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.25271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25271
 next_step: skim
+priority: medium
+slack_ts: '1790310816.095769'
+source: cs.RO - Robotics
+status: unread
+title: 'Beyond the Flat Seafloor: A Closed-Form Two-View Constraint to Aid Sidescan
+  Sonar Reconstruction'
 ---
 # Beyond the Flat Seafloor: A Closed-Form Two-View Constraint to Aid Sidescan Sonar Reconstruction
 > 原文: [https://arxiv.org/abs/2609.25271](https://arxiv.org/abs/2609.25271)

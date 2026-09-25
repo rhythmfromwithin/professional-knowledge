@@ -1,11 +1,13 @@
 ---
-title: "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.25036
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25036
 next_step: skim
+priority: high
+slack_ts: '1790310813.917239'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: '4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic
+  Gaussian Splatting'
 ---
 # 4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting
 > 原文: [https://arxiv.org/abs/2609.25036](https://arxiv.org/abs/2609.25036)

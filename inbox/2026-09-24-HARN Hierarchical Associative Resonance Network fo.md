@@ -1,11 +1,13 @@
 ---
-title: "HARN: Hierarchical Associative Resonance Network for Event-Driven Multi-Timeframe Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.26822
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26822
 next_step: skim
+priority: high
+slack_ts: '1790310820.619909'
+source: cs.LG - Machine Learning
+status: unread
+title: 'HARN: Hierarchical Associative Resonance Network for Event-Driven Multi-Timeframe
+  Forecasting'
 ---
 # HARN: Hierarchical Associative Resonance Network for Event-Driven Multi-Timeframe Forecasting
 > 原文: [https://arxiv.org/abs/2609.26822](https://arxiv.org/abs/2609.26822)

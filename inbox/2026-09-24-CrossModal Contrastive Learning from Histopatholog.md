@@ -1,11 +1,13 @@
 ---
-title: "Cross-Modal Contrastive Learning from Histopathology and CT for Automated Renal Cell Carcinoma Grading"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.26920
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26920
 next_step: skim
+priority: medium
+slack_ts: '1790310818.283159'
+source: cs.CV - Computer Vision
+status: unread
+title: Cross-Modal Contrastive Learning from Histopathology and CT for Automated Renal
+  Cell Carcinoma Grading
 ---
 # Cross-Modal Contrastive Learning from Histopathology and CT for Automated Renal Cell Carcinoma Grading
 > 原文: [https://arxiv.org/abs/2609.26920](https://arxiv.org/abs/2609.26920)

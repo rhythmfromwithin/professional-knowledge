@@ -1,11 +1,12 @@
 ---
-title: "TAILOR: Template-Preserving Augmentation for Long-Tailed Log Parsing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.25261
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25261
 next_step: skim
+priority: low
+slack_ts: '1790310811.934989'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TAILOR: Template-Preserving Augmentation for Long-Tailed Log Parsing'
 ---
 # TAILOR: Template-Preserving Augmentation for Long-Tailed Log Parsing
 > 原文: [https://arxiv.org/abs/2609.25261](https://arxiv.org/abs/2609.25261)

@@ -1,11 +1,12 @@
 ---
-title: "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.26913
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26913
 next_step: skim
+priority: high
+slack_ts: '1790310816.993309'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference'
 ---
 # COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference
 > 原文: [https://arxiv.org/abs/2609.26913](https://arxiv.org/abs/2609.26913)

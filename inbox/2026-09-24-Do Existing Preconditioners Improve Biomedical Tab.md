@@ -1,11 +1,13 @@
 ---
-title: "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.25013
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25013
 next_step: skim
+priority: high
+slack_ts: '1790310818.848219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning?
+  An Empirical Study on TabPFN Optimization
 ---
 # Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization
 > 原文: [https://arxiv.org/abs/2609.25013](https://arxiv.org/abs/2609.25013)

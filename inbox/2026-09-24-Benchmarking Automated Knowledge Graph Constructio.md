@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking Automated Knowledge Graph Construction from Semi-Structured Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.26985
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26985
 next_step: skim
+priority: low
+slack_ts: '1790310815.921059'
+source: cs.DB - Databases
+status: unread
+title: Benchmarking Automated Knowledge Graph Construction from Semi-Structured Data
 ---
 # Benchmarking Automated Knowledge Graph Construction from Semi-Structured Data
 > 原文: [https://arxiv.org/abs/2609.26985](https://arxiv.org/abs/2609.26985)

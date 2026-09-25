@@ -1,11 +1,12 @@
 ---
-title: "Flamingo: On Load Balancing in DAG-based Consensus Protocols"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.28361
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28361
 next_step: skim
+priority: low
+slack_ts: '1790310819.737229'
+source: cs.DB - Databases
+status: unread
+title: 'Flamingo: On Load Balancing in DAG-based Consensus Protocols'
 ---
 # Flamingo: On Load Balancing in DAG-based Consensus Protocols
 > 原文: [https://arxiv.org/abs/2609.28361](https://arxiv.org/abs/2609.28361)

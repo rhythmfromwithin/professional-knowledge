@@ -1,0 +1,14 @@
+---
+title: "A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2609.29984
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics
+> 原文: [https://arxiv.org/abs/2609.29984](https://arxiv.org/abs/2609.29984)
+
+arXiv:2609.29984v1 Announce Type: new
+Abstract: Understanding the neurobiological mechanisms underlying self-referential cognition and baseline self-consciousness remains a fundamental challenge in computational neuroscience. In this work, we propose a large-scale computational model incorporating a 10,000-neuron spiking neural network (SNN) based on Izhikevich dynamics. The network is structured into two interacting subsystems: a sensory processing layer (5,000 regular-spiking cortical neurons) and an endogenous Default Mode Network (DMN) pacemaker subsystem (5,000 intrinsically bursting neurons). The DMN layer is modulated by continuous tonic currents reflecting ascending brainstem neuromodulation, maintaining intrinsic, autonomous bioelectric rhythms independent of external sensory input. To represent top-down cognitive modulation, synaptic weights are hierarchically structured such that DMN-to-network projections exceed sensory-level connections. Through numerical simulations using a modified two-step Euler integration scheme, we demonstrate how endogenous pacemaker activity interacts with transient external sensory perturbations, providing an elementary mathematical framework for the emergence of a persistent, self-sustaining neural representation of "Self".

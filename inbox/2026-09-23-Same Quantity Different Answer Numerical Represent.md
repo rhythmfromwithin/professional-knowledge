@@ -1,11 +1,13 @@
 ---
-title: "Same Quantity, Different Answer: Numerical Representation Invariance in Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.25009
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25009
 next_step: skim
+priority: high
+slack_ts: '1790310811.602969'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Same Quantity, Different Answer: Numerical Representation Invariance in Language
+  Models'
 ---
 # Same Quantity, Different Answer: Numerical Representation Invariance in Language Models
 > 原文: [https://arxiv.org/abs/2609.25009](https://arxiv.org/abs/2609.25009)

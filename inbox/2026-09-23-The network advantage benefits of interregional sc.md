@@ -1,11 +1,13 @@
 ---
-title: "The network advantage: benefits of interregional scientific knowledge spillovers on AI patenting"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.26604
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26604
 next_step: skim
+priority: low
+slack_ts: '1790310812.728139'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The network advantage: benefits of interregional scientific knowledge spillovers
+  on AI patenting'
 ---
 # The network advantage: benefits of interregional scientific knowledge spillovers on AI patenting
 > 原文: [https://arxiv.org/abs/2609.26604](https://arxiv.org/abs/2609.26604)

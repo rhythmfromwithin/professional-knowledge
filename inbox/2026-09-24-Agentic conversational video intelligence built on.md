@@ -1,11 +1,12 @@
 ---
-title: "Agentic conversational video intelligence built on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1790310815.208379'
+source: AWS Blog
+status: unread
+title: Agentic conversational video intelligence built on AWS
 ---
 # Agentic conversational video intelligence built on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)

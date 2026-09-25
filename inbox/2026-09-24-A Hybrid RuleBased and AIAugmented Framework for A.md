@@ -1,11 +1,13 @@
 ---
-title: "A Hybrid Rule-Based and AI-Augmented Framework for Automatic Failure Recovery in DevOps Deployments"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.26838
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26838
 next_step: skim
+priority: low
+slack_ts: '1790310814.273699'
+source: cs.SE - Software Engineering
+status: unread
+title: A Hybrid Rule-Based and AI-Augmented Framework for Automatic Failure Recovery
+  in DevOps Deployments
 ---
 # A Hybrid Rule-Based and AI-Augmented Framework for Automatic Failure Recovery in DevOps Deployments
 > 原文: [https://arxiv.org/abs/2609.26838](https://arxiv.org/abs/2609.26838)

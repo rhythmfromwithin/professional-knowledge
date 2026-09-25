@@ -1,11 +1,12 @@
 ---
-title: "ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.27189
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.27189
 next_step: skim
+priority: medium
+slack_ts: '1790310826.664979'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning'
 ---
 # ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning
 > 原文: [https://arxiv.org/abs/2609.27189](https://arxiv.org/abs/2609.27189)

@@ -1,11 +1,13 @@
 ---
-title: "ACTS: A multi-tier benchmark evaluating LLM cipher identification under controlled blind conditions"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.26893
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26893
 next_step: skim
+priority: low
+slack_ts: '1790310814.677219'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ACTS: A multi-tier benchmark evaluating LLM cipher identification under controlled
+  blind conditions'
 ---
 # ACTS: A multi-tier benchmark evaluating LLM cipher identification under controlled blind conditions
 > 原文: [https://arxiv.org/abs/2609.26893](https://arxiv.org/abs/2609.26893)

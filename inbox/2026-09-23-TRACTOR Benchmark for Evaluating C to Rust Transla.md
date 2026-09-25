@@ -1,11 +1,12 @@
 ---
-title: "TRACTOR Benchmark for Evaluating C to Rust Translators"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.25121
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25121
 next_step: skim
+priority: low
+slack_ts: '1790310812.113969'
+source: cs.SE - Software Engineering
+status: unread
+title: TRACTOR Benchmark for Evaluating C to Rust Translators
 ---
 # TRACTOR Benchmark for Evaluating C to Rust Translators
 > 原文: [https://arxiv.org/abs/2609.25121](https://arxiv.org/abs/2609.25121)

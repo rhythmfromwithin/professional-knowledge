@@ -1,11 +1,13 @@
 ---
-title: "FREESIA: Covariance-Aware Posterior Transport for Expressive and Scalable Data Assimilation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.25085
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25085
 next_step: skim
+priority: medium
+slack_ts: '1790310819.397769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'FREESIA: Covariance-Aware Posterior Transport for Expressive and Scalable
+  Data Assimilation'
 ---
 # FREESIA: Covariance-Aware Posterior Transport for Expressive and Scalable Data Assimilation
 > 原文: [https://arxiv.org/abs/2609.25085](https://arxiv.org/abs/2609.25085)

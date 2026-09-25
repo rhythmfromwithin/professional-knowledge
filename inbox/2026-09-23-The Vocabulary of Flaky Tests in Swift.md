@@ -1,11 +1,12 @@
 ---
-title: "The Vocabulary of Flaky Tests in Swift"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.25516
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25516
 next_step: skim
+priority: low
+slack_ts: '1790310812.288609'
+source: cs.SE - Software Engineering
+status: unread
+title: The Vocabulary of Flaky Tests in Swift
 ---
 # The Vocabulary of Flaky Tests in Swift
 > 原文: [https://arxiv.org/abs/2609.25516](https://arxiv.org/abs/2609.25516)
