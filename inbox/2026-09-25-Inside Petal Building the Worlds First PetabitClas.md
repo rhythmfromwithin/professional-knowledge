@@ -1,11 +1,13 @@
 ---
-title: "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/
 next_step: skim
+priority: medium
+slack_ts: '1790397480.334279'
+source: Meta Engineering
+status: unread
+title: 'Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea
+  Cable'
 ---
 # Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable
 > 原文: [https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/](https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/)

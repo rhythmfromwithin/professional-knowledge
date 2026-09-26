@@ -1,11 +1,13 @@
 ---
-title: "Available but Not Usable: Dark Patterns and Interaction Cost in Social Media Privacy and Safety Settings for Teens"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.28672
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28672
 next_step: skim
+priority: low
+slack_ts: '1790397476.867359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Available but Not Usable: Dark Patterns and Interaction Cost in Social Media
+  Privacy and Safety Settings for Teens'
 ---
 # Available but Not Usable: Dark Patterns and Interaction Cost in Social Media Privacy and Safety Settings for Teens
 > 原文: [https://arxiv.org/abs/2609.28672](https://arxiv.org/abs/2609.28672)

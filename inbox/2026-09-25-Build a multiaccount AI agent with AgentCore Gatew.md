@@ -1,11 +1,12 @@
 ---
-title: "Build a multi-account AI agent with AgentCore Gateway and MCP"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/
 next_step: skim
+priority: high
+slack_ts: '1790397477.445329'
+source: AWS Blog
+status: unread
+title: Build a multi-account AI agent with AgentCore Gateway and MCP
 ---
 # Build a multi-account AI agent with AgentCore Gateway and MCP
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/](https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/)

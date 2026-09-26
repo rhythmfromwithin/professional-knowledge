@@ -1,11 +1,12 @@
 ---
-title: "An Exposition of GPT Astra's Proof of Lower Bound on DP Continual Counting"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.28528
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28528
 next_step: skim
+priority: low
+slack_ts: '1790397476.589839'
+source: cs.CR - Cryptography and Security
+status: unread
+title: An Exposition of GPT Astra's Proof of Lower Bound on DP Continual Counting
 ---
 # An Exposition of GPT Astra's Proof of Lower Bound on DP Continual Counting
 > 原文: [https://arxiv.org/abs/2609.28528](https://arxiv.org/abs/2609.28528)

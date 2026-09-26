@@ -1,11 +1,13 @@
 ---
-title: "Recognized but Not Produced: A Generation Benchmark for Culturally Specific Kinship Terms"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.26942
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26942
 next_step: skim
+priority: high
+slack_ts: '1790397473.121189'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Recognized but Not Produced: A Generation Benchmark for Culturally Specific
+  Kinship Terms'
 ---
 # Recognized but Not Produced: A Generation Benchmark for Culturally Specific Kinship Terms
 > 原文: [https://arxiv.org/abs/2609.26942](https://arxiv.org/abs/2609.26942)

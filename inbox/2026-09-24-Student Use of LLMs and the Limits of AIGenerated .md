@@ -1,11 +1,13 @@
 ---
-title: "Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.27063
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.27063
 next_step: skim
+priority: medium
+slack_ts: '1790397474.140259'
+source: cs.CY - Computers and Society
+status: unread
+title: Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data
+  Science Courses
 ---
 # Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 > 原文: [https://arxiv.org/abs/2609.27063](https://arxiv.org/abs/2609.27063)

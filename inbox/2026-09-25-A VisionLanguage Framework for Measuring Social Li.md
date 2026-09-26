@@ -1,11 +1,12 @@
 ---
-title: "A Vision-Language Framework for Measuring Social Life on Sidewalks"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.28476
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28476
 next_step: skim
+priority: medium
+slack_ts: '1790397475.898309'
+source: cs.CY - Computers and Society
+status: unread
+title: A Vision-Language Framework for Measuring Social Life on Sidewalks
 ---
 # A Vision-Language Framework for Measuring Social Life on Sidewalks
 > 原文: [https://arxiv.org/abs/2609.28476](https://arxiv.org/abs/2609.28476)

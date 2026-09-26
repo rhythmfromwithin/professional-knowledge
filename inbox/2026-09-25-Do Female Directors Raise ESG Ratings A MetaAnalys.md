@@ -1,11 +1,12 @@
 ---
-title: "Do Female Directors Raise ESG Ratings? A Meta-Analysis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.28549
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28549
 next_step: skim
+priority: low
+slack_ts: '1790397478.665559'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Do Female Directors Raise ESG Ratings? A Meta-Analysis
 ---
 # Do Female Directors Raise ESG Ratings? A Meta-Analysis
 > 原文: [https://arxiv.org/abs/2609.28549](https://arxiv.org/abs/2609.28549)

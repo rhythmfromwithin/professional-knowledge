@@ -1,11 +1,12 @@
 ---
-title: "Bringing Private Processing to Meta AI Glasses"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/
 next_step: skim
+priority: medium
+slack_ts: '1790397477.303089'
+source: Meta Engineering
+status: unread
+title: Bringing Private Processing to Meta AI Glasses
 ---
 # Bringing Private Processing to Meta AI Glasses
 > 原文: [https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/](https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/)

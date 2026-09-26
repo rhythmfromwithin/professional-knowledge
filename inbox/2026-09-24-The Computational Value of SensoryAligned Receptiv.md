@@ -1,11 +1,13 @@
 ---
-title: "The Computational Value of Sensory-Aligned Receptive Fields Depends on Neuronal Expressivity"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.26940
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26940
 next_step: skim
+priority: low
+slack_ts: '1790397474.353749'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: The Computational Value of Sensory-Aligned Receptive Fields Depends on Neuronal
+  Expressivity
 ---
 # The Computational Value of Sensory-Aligned Receptive Fields Depends on Neuronal Expressivity
 > 原文: [https://arxiv.org/abs/2609.26940](https://arxiv.org/abs/2609.26940)

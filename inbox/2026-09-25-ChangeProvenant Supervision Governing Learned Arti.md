@@ -1,11 +1,12 @@
 ---
-title: "Change-Provenant Supervision: Governing Learned Artifacts Under Policy Change"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.28574
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28574
 next_step: skim
+priority: low
+slack_ts: '1790397477.917269'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Change-Provenant Supervision: Governing Learned Artifacts Under Policy Change'
 ---
 # Change-Provenant Supervision: Governing Learned Artifacts Under Policy Change
 > 原文: [https://arxiv.org/abs/2609.28574](https://arxiv.org/abs/2609.28574)

@@ -1,11 +1,13 @@
 ---
-title: "Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.26820
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26820
 next_step: skim
+priority: high
+slack_ts: '1790397473.839819'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological
+  Time-Series Anomaly Detection'
 ---
 # Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection
 > 原文: [https://arxiv.org/abs/2609.26820](https://arxiv.org/abs/2609.26820)

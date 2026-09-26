@@ -1,11 +1,12 @@
 ---
-title: "Spec2COBOLRot: An Agentic-AI Degradation Loop for Realistic COBOL Corpus Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.26835
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26835
 next_step: skim
+priority: low
+slack_ts: '1790397473.976329'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Spec2COBOLRot: An Agentic-AI Degradation Loop for Realistic COBOL Corpus Generation'
 ---
 # Spec2COBOLRot: An Agentic-AI Degradation Loop for Realistic COBOL Corpus Generation
 > 原文: [https://arxiv.org/abs/2609.26835](https://arxiv.org/abs/2609.26835)

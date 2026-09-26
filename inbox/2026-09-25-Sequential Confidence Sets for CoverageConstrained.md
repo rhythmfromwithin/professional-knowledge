@@ -1,11 +1,12 @@
 ---
-title: "Sequential Confidence Sets for Coverage-Constrained Conformal Model Selection"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.28522
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28522
 next_step: skim
+priority: medium
+slack_ts: '1790397483.885599'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Sequential Confidence Sets for Coverage-Constrained Conformal Model Selection
 ---
 # Sequential Confidence Sets for Coverage-Constrained Conformal Model Selection
 > 原文: [https://arxiv.org/abs/2609.28522](https://arxiv.org/abs/2609.28522)

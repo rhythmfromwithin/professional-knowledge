@@ -1,11 +1,12 @@
 ---
-title: "Activation-Flexible ANN-to-SNN Conversion with Finite-State Markov Neurons"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.30102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30102
 next_step: skim
+priority: low
+slack_ts: '1790397476.187899'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Activation-Flexible ANN-to-SNN Conversion with Finite-State Markov Neurons
 ---
 # Activation-Flexible ANN-to-SNN Conversion with Finite-State Markov Neurons
 > 原文: [https://arxiv.org/abs/2609.30102](https://arxiv.org/abs/2609.30102)

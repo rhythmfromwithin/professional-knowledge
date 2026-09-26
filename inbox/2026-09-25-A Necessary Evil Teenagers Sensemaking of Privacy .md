@@ -1,11 +1,5 @@
 ---
-title: ""A Necessary Evil": Teenagers' Sensemaking of Privacy and Safety Settings on Social Media"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.28685
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1790397475.486269'
 ---
 # "A Necessary Evil": Teenagers' Sensemaking of Privacy and Safety Settings on Social Media
 > 原文: [https://arxiv.org/abs/2609.28685](https://arxiv.org/abs/2609.28685)

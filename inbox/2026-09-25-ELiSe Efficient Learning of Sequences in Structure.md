@@ -1,11 +1,12 @@
 ---
-title: "ELiSe: Efficient Learning of Sequences in Structured Recurrent Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2402.16763
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2402.16763
 next_step: skim
+priority: low
+slack_ts: '1790397478.803069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'ELiSe: Efficient Learning of Sequences in Structured Recurrent Networks'
 ---
 # ELiSe: Efficient Learning of Sequences in Structured Recurrent Networks
 > 原文: [https://arxiv.org/abs/2402.16763](https://arxiv.org/abs/2402.16763)

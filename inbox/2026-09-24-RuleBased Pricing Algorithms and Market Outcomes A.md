@@ -1,11 +1,12 @@
 ---
-title: "Rule-Based Pricing Algorithms and Market Outcomes: An Experimental Study"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.26861
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26861
 next_step: skim
+priority: low
+slack_ts: '1790397473.392769'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Rule-Based Pricing Algorithms and Market Outcomes: An Experimental Study'
 ---
 # Rule-Based Pricing Algorithms and Market Outcomes: An Experimental Study
 > 原文: [https://arxiv.org/abs/2609.26861](https://arxiv.org/abs/2609.26861)

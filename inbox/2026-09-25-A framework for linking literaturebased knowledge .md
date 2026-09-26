@@ -1,11 +1,13 @@
 ---
-title: "A framework for linking literature-based knowledge integration and infrastructure-supported knowledge integration: Opportunities and challenges from a case study"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.29161
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.29161
 next_step: skim
+priority: low
+slack_ts: '1790397476.044769'
+source: cs.DB - Databases
+status: unread
+title: 'A framework for linking literature-based knowledge integration and infrastructure-supported
+  knowledge integration: Opportunities and challenges from a case study'
 ---
 # A framework for linking literature-based knowledge integration and infrastructure-supported knowledge integration: Opportunities and challenges from a case study
 > 原文: [https://arxiv.org/abs/2609.29161](https://arxiv.org/abs/2609.29161)

@@ -1,11 +1,13 @@
 ---
-title: "Framing by Wording, Framing by Selection: A Large-Scale Two-Dimensional Audit of French News Headlines, 2022-2025"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.28487
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28487
 next_step: skim
+priority: high
+slack_ts: '1790397479.136989'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Framing by Wording, Framing by Selection: A Large-Scale Two-Dimensional Audit
+  of French News Headlines, 2022-2025'
 ---
 # Framing by Wording, Framing by Selection: A Large-Scale Two-Dimensional Audit of French News Headlines, 2022-2025
 > 原文: [https://arxiv.org/abs/2609.28487](https://arxiv.org/abs/2609.28487)

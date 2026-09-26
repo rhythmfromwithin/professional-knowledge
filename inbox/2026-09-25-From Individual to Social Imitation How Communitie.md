@@ -1,11 +1,13 @@
 ---
-title: "From Individual to Social Imitation: How Communities Expand Organizational Search"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.28675
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28675
 next_step: skim
+priority: low
+slack_ts: '1790397479.294019'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'From Individual to Social Imitation: How Communities Expand Organizational
+  Search'
 ---
 # From Individual to Social Imitation: How Communities Expand Organizational Search
 > 原文: [https://arxiv.org/abs/2609.28675](https://arxiv.org/abs/2609.28675)

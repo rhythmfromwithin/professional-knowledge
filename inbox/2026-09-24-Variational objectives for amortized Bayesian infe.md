@@ -1,11 +1,13 @@
 ---
-title: "Variational objectives for amortized Bayesian inference in inverse problems: The role of posterior conditioning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.25145
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25145
 next_step: skim
+priority: medium
+slack_ts: '1790397474.981939'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Variational objectives for amortized Bayesian inference in inverse problems:
+  The role of posterior conditioning'
 ---
 # Variational objectives for amortized Bayesian inference in inverse problems: The role of posterior conditioning
 > 原文: [https://arxiv.org/abs/2609.25145](https://arxiv.org/abs/2609.25145)

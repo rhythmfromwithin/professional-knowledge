@@ -1,11 +1,12 @@
 ---
-title: "Privacy Leakage Through AI-mediated Analysis of Smartphone Data"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.28537
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28537
 next_step: skim
+priority: low
+slack_ts: '1790397482.887259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Privacy Leakage Through AI-mediated Analysis of Smartphone Data
 ---
 # Privacy Leakage Through AI-mediated Analysis of Smartphone Data
 > 原文: [https://arxiv.org/abs/2609.28537](https://arxiv.org/abs/2609.28537)

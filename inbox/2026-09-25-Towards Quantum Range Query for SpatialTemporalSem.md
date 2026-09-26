@@ -1,11 +1,12 @@
 ---
-title: "Towards Quantum Range Query for Spatial-Temporal-Semantic Trajectory Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.29612
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.29612
 next_step: skim
+priority: low
+slack_ts: '1790397484.881429'
+source: cs.DB - Databases
+status: unread
+title: Towards Quantum Range Query for Spatial-Temporal-Semantic Trajectory Data
 ---
 # Towards Quantum Range Query for Spatial-Temporal-Semantic Trajectory Data
 > 原文: [https://arxiv.org/abs/2609.29612](https://arxiv.org/abs/2609.29612)

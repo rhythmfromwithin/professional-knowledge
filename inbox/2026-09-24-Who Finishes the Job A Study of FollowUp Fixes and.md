@@ -1,11 +1,13 @@
 ---
-title: "Who Finishes the Job? A Study of Follow-Up Fixes and Commit Authorship on AI Coding Agent Pull Requests"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.26847
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26847
 next_step: skim
+priority: low
+slack_ts: '1790397475.303399'
+source: cs.SE - Software Engineering
+status: unread
+title: Who Finishes the Job? A Study of Follow-Up Fixes and Commit Authorship on AI
+  Coding Agent Pull Requests
 ---
 # Who Finishes the Job? A Study of Follow-Up Fixes and Commit Authorship on AI Coding Agent Pull Requests
 > 原文: [https://arxiv.org/abs/2609.26847](https://arxiv.org/abs/2609.26847)

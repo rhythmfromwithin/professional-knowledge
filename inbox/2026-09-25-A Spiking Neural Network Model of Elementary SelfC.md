@@ -1,11 +1,13 @@
 ---
-title: "A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.29984
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.29984
 next_step: skim
+priority: low
+slack_ts: '1790397475.625359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous
+  Default Mode Network Dynamics
 ---
 # A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics
 > 原文: [https://arxiv.org/abs/2609.29984](https://arxiv.org/abs/2609.29984)

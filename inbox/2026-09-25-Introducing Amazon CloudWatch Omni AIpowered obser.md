@@ -1,11 +1,13 @@
 ---
-title: "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/
 next_step: skim
+priority: high
+slack_ts: '1790397480.488039'
+source: AWS Blog
+status: unread
+title: 'Introducing Amazon CloudWatch Omni: AI-powered observability for generative
+  AI and agentic workloads'
 ---
 # Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/)

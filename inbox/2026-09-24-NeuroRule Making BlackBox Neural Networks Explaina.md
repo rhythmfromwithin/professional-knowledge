@@ -1,11 +1,12 @@
 ---
-title: "NeuroRule: Making Black-Box Neural Networks Explainable through Rule-set Evolution"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.26841
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26841
 next_step: skim
+priority: low
+slack_ts: '1790397471.827419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'NeuroRule: Making Black-Box Neural Networks Explainable through Rule-set Evolution'
 ---
 # NeuroRule: Making Black-Box Neural Networks Explainable through Rule-set Evolution
 > 原文: [https://arxiv.org/abs/2609.26841](https://arxiv.org/abs/2609.26841)

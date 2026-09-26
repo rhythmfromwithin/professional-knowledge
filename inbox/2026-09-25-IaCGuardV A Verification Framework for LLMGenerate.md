@@ -1,11 +1,13 @@
 ---
-title: "IaC-Guard-V: A Verification Framework for LLM-Generated Infrastructure-as-Code Repairs"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.28488
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28488
 next_step: skim
+priority: low
+slack_ts: '1790397480.189199'
+source: cs.SE - Software Engineering
+status: unread
+title: 'IaC-Guard-V: A Verification Framework for LLM-Generated Infrastructure-as-Code
+  Repairs'
 ---
 # IaC-Guard-V: A Verification Framework for LLM-Generated Infrastructure-as-Code Repairs
 > 原文: [https://arxiv.org/abs/2609.28488](https://arxiv.org/abs/2609.28488)

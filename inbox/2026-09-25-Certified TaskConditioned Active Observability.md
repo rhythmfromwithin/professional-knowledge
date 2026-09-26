@@ -1,11 +1,12 @@
 ---
-title: "Certified Task-Conditioned Active Observability"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.28520
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28520
 next_step: skim
+priority: medium
+slack_ts: '1790397477.779589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Certified Task-Conditioned Active Observability
 ---
 # Certified Task-Conditioned Active Observability
 > 原文: [https://arxiv.org/abs/2609.28520](https://arxiv.org/abs/2609.28520)

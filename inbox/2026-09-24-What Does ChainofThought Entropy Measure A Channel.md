@@ -1,11 +1,13 @@
 ---
-title: "What Does Chain-of-Thought Entropy Measure? A Channel Audit of Scaffolding, Routing, and Content"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.25039
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.25039
 next_step: skim
+priority: medium
+slack_ts: '1790397475.144699'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: What Does Chain-of-Thought Entropy Measure? A Channel Audit of Scaffolding,
+  Routing, and Content
 ---
 # What Does Chain-of-Thought Entropy Measure? A Channel Audit of Scaffolding, Routing, and Content
 > 原文: [https://arxiv.org/abs/2609.25039](https://arxiv.org/abs/2609.25039)

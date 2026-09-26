@@ -1,11 +1,12 @@
 ---
-title: "Safety Nudges: User-Facing Interventions for Real-Time AI Risk Awareness"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.26865
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.26865
 next_step: skim
+priority: low
+slack_ts: '1790397473.568599'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Safety Nudges: User-Facing Interventions for Real-Time AI Risk Awareness'
 ---
 # Safety Nudges: User-Facing Interventions for Real-Time AI Risk Awareness
 > 原文: [https://arxiv.org/abs/2609.26865](https://arxiv.org/abs/2609.26865)
