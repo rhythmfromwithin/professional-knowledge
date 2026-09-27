@@ -1,11 +1,13 @@
 ---
-title: "Where Does Streaming State Cost Go? A Reproducible Comparison of Flink and Kafka Streams on Kafka"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.28779
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28779
 next_step: skim
+priority: medium
+slack_ts: '1790485081.767649'
+source: cs.DC - Distributed Computing
+status: unread
+title: Where Does Streaming State Cost Go? A Reproducible Comparison of Flink and
+  Kafka Streams on Kafka
 ---
 # Where Does Streaming State Cost Go? A Reproducible Comparison of Flink and Kafka Streams on Kafka
 > 原文: [https://arxiv.org/abs/2609.28779](https://arxiv.org/abs/2609.28779)

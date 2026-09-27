@@ -1,11 +1,13 @@
 ---
-title: "pytest-gpu-proof: Enabling Cloud-CPU Continuous Integration for GPU Code with Local GPU Attestation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.28862
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28862
 next_step: skim
+priority: medium
+slack_ts: '1790485081.846569'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'pytest-gpu-proof: Enabling Cloud-CPU Continuous Integration for GPU Code with
+  Local GPU Attestation'
 ---
 # pytest-gpu-proof: Enabling Cloud-CPU Continuous Integration for GPU Code with Local GPU Attestation
 > 原文: [https://arxiv.org/abs/2609.28862](https://arxiv.org/abs/2609.28862)

@@ -1,11 +1,13 @@
 ---
-title: "Three Failures of Pain Location: Why Its Diagnostic Utility Is Three Quantities, Not One"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2607.26297
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.26297
 next_step: skim
+priority: low
+slack_ts: '1790485081.212299'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Three Failures of Pain Location: Why Its Diagnostic Utility Is Three Quantities,
+  Not One'
 ---
 # Three Failures of Pain Location: Why Its Diagnostic Utility Is Three Quantities, Not One
 > 原文: [https://arxiv.org/abs/2607.26297](https://arxiv.org/abs/2607.26297)

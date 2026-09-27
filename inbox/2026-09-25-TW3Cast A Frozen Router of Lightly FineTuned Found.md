@@ -1,11 +1,13 @@
 ---
-title: "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.28506
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28506
 next_step: skim
+priority: high
+slack_ts: '1790485081.135539'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series
+  Forecasting on GIFT-Eval, Selected Entirely on the Training Split'
 ---
 # TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split
 > 原文: [https://arxiv.org/abs/2609.28506](https://arxiv.org/abs/2609.28506)

@@ -1,11 +1,12 @@
 ---
-title: "Speaker-labeled transcription with WhisperX on SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1790485080.785549'
+source: AWS Blog
+status: unread
+title: Speaker-labeled transcription with WhisperX on SageMaker AI
 ---
 # Speaker-labeled transcription with WhisperX on SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/)

@@ -1,11 +1,13 @@
 ---
-title: "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.28553
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28553
 next_step: skim
+priority: high
+slack_ts: '1790485080.475659'
+source: cs.LG - Machine Learning
+status: unread
+title: 'SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention
+  Fusion'
 ---
 # SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion
 > 原文: [https://arxiv.org/abs/2609.28553](https://arxiv.org/abs/2609.28553)

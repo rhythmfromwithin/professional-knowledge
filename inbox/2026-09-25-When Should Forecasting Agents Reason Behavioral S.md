@@ -1,11 +1,13 @@
 ---
-title: "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.28475
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28475
 next_step: skim
+priority: high
+slack_ts: '1790485081.684519'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability
+  Routing
 ---
 # When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing
 > 原文: [https://arxiv.org/abs/2609.28475](https://arxiv.org/abs/2609.28475)

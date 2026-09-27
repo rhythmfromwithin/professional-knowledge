@@ -1,11 +1,12 @@
 ---
-title: "KathDB-FAO: Synthesized Query Plans in a Multimodal DBMS"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.28761
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28761
 next_step: skim
+priority: low
+slack_ts: '1790485079.073989'
+source: cs.DB - Databases
+status: unread
+title: 'KathDB-FAO: Synthesized Query Plans in a Multimodal DBMS'
 ---
 # KathDB-FAO: Synthesized Query Plans in a Multimodal DBMS
 > 原文: [https://arxiv.org/abs/2609.28761](https://arxiv.org/abs/2609.28761)

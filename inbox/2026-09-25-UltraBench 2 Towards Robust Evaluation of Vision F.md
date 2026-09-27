@@ -1,11 +1,12 @@
 ---
-title: "UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.28610
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28610
 next_step: skim
+priority: medium
+slack_ts: '1790485081.512319'
+source: cs.CV - Computer Vision
+status: unread
+title: 'UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound'
 ---
 # UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound
 > 原文: [https://arxiv.org/abs/2609.28610](https://arxiv.org/abs/2609.28610)

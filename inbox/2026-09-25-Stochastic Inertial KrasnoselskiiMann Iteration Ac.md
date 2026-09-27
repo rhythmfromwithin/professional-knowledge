@@ -1,11 +1,13 @@
 ---
-title: "Stochastic Inertial Krasnosel'skii-Mann Iteration Achieves Near-Optimal Sample Complexity"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.28543
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28543
 next_step: skim
+priority: medium
+slack_ts: '1790485080.954229'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Stochastic Inertial Krasnosel'skii-Mann Iteration Achieves Near-Optimal Sample
+  Complexity
 ---
 # Stochastic Inertial Krasnosel'skii-Mann Iteration Achieves Near-Optimal Sample Complexity
 > 原文: [https://arxiv.org/abs/2609.28543](https://arxiv.org/abs/2609.28543)

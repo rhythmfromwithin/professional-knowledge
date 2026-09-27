@@ -1,11 +1,13 @@
 ---
-title: "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.28660
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28660
 next_step: skim
+priority: medium
+slack_ts: '1790485079.500489'
+source: cs.RO - Robotics
+status: unread
+title: 'Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting
+  to Sim-to-Real Visuomotor Policy'
 ---
 # Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy
 > 原文: [https://arxiv.org/abs/2609.28660](https://arxiv.org/abs/2609.28660)

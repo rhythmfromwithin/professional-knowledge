@@ -1,11 +1,13 @@
 ---
-title: "Pretraining and adapting a language model on a dependency-free stack: GPT-2 124M from random weights, reproduced against llm.c, and a clinical adapter for Qwen3-0.6B"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.28568
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28568
 next_step: skim
+priority: low
+slack_ts: '1790485080.122389'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Pretraining and adapting a language model on a dependency-free stack: GPT-2
+  124M from random weights, reproduced against llm.c, and a clinical adapter for Qwen3-0.6B'
 ---
 # Pretraining and adapting a language model on a dependency-free stack: GPT-2 124M from random weights, reproduced against llm.c, and a clinical adapter for Qwen3-0.6B
 > 原文: [https://arxiv.org/abs/2609.28568](https://arxiv.org/abs/2609.28568)

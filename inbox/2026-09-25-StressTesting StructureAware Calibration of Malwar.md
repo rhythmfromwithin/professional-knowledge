@@ -1,11 +1,13 @@
 ---
-title: "Stress-Testing Structure-Aware Calibration of Malware Graph Neural Networks under Type Shift"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.28517
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28517
 next_step: skim
+priority: low
+slack_ts: '1790485081.059969'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Stress-Testing Structure-Aware Calibration of Malware Graph Neural Networks
+  under Type Shift
 ---
 # Stress-Testing Structure-Aware Calibration of Malware Graph Neural Networks under Type Shift
 > 原文: [https://arxiv.org/abs/2609.28517](https://arxiv.org/abs/2609.28517)

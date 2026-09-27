@@ -1,11 +1,13 @@
 ---
-title: "When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.28478
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28478
 next_step: skim
+priority: medium
+slack_ts: '1790485081.593249'
+source: cs.CY - Computers and Society
+status: unread
+title: 'When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation
+  in Educational AI'
 ---
 # When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI
 > 原文: [https://arxiv.org/abs/2609.28478](https://arxiv.org/abs/2609.28478)

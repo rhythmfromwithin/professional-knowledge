@@ -1,11 +1,12 @@
 ---
-title: "Stable and Faithful Explanations for Knowledge Tracing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.28502
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28502
 next_step: skim
+priority: high
+slack_ts: '1790485080.865059'
+source: cs.LG - Machine Learning
+status: unread
+title: Stable and Faithful Explanations for Knowledge Tracing
 ---
 # Stable and Faithful Explanations for Knowledge Tracing
 > 原文: [https://arxiv.org/abs/2609.28502](https://arxiv.org/abs/2609.28502)

@@ -1,11 +1,13 @@
 ---
-title: "On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.29755
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.29755
 next_step: skim
+priority: low
+slack_ts: '1790485079.653749'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic
+  Variation'
 ---
 # On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation
 > 原文: [https://arxiv.org/abs/2609.29755](https://arxiv.org/abs/2609.29755)

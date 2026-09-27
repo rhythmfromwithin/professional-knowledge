@@ -1,11 +1,12 @@
 ---
-title: "Offloaded inference for real-world physical AI robotics"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/
 next_step: skim
+priority: high
+slack_ts: '1790485079.580319'
+source: Microsoft Research
+status: unread
+title: Offloaded inference for real-world physical AI robotics
 ---
 # Offloaded inference for real-world physical AI robotics
 > 原文: [https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)

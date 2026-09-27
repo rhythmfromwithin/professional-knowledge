@@ -1,11 +1,13 @@
 ---
-title: "Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.28530
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28530
 next_step: skim
+priority: medium
+slack_ts: '1790485079.245799'
+source: cs.RO - Robotics
+status: unread
+title: 'Know Your Body: A Harness for Direct and Self-Improving Robot Control with
+  VLMs'
 ---
 # Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs
 > 原文: [https://arxiv.org/abs/2609.28530](https://arxiv.org/abs/2609.28530)
