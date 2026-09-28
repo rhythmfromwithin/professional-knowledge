@@ -1,11 +1,12 @@
 ---
-title: "Token Clustering and Semantic Sequence Mamba for Hyperspectral Image Classification"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.28580
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.28580
 next_step: skim
+priority: medium
+slack_ts: '1790571546.699399'
+source: cs.CV - Computer Vision
+status: unread
+title: Token Clustering and Semantic Sequence Mamba for Hyperspectral Image Classification
 ---
 # Token Clustering and Semantic Sequence Mamba for Hyperspectral Image Classification
 > 原文: [https://arxiv.org/abs/2609.28580](https://arxiv.org/abs/2609.28580)

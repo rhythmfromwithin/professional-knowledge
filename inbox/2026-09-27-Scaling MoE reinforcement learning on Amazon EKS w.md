@@ -1,11 +1,13 @@
 ---
-title: "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/
 next_step: skim
+priority: high
+slack_ts: '1790571554.306849'
+source: AWS Blog
+status: unread
+title: Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40%
+  more throughput
 ---
 # Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput
 > 原文: [https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)

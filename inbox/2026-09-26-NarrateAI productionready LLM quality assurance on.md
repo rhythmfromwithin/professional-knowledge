@@ -1,11 +1,12 @@
 ---
-title: "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1790571543.440549'
+source: AWS Blog
+status: unread
+title: 'NarrateAI: production-ready LLM quality assurance on Amazon Bedrock'
 ---
 # NarrateAI: production-ready LLM quality assurance on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/)

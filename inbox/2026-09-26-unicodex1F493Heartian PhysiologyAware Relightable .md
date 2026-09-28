@@ -1,11 +1,5 @@
 ---
-title: "$\unicode{x1F493}$Heartian: Physiology-Aware Relightable Gaussian Head Avatar"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.28539
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1790571547.217049'
 ---
 # $\unicode{x1F493}$Heartian: Physiology-Aware Relightable Gaussian Head Avatar
 > 原文: [https://arxiv.org/abs/2609.28539](https://arxiv.org/abs/2609.28539)

@@ -1,0 +1,14 @@
+---
+title: "CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny Object Detection on Edge Devices"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2609.30395
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny Object Detection on Edge Devices
+> 原文: [https://arxiv.org/abs/2609.30395](https://arxiv.org/abs/2609.30395)
+
+arXiv:2609.30395v1 Announce Type: new
+Abstract: Real-time tiny object detection in aerial imagery is constrained by the weak spatial evidence of very small objects and the loss of high-resolution detail in lightweight detectors. This study presents Cross-Scale Channel-wise Knowledge Distillation (CSCWD), a training-time framework that transfers high-resolution spatial representations from a YOLO11m-P2 teacher to a compact YOLO11n student without altering the student's inference architecture. Unlike conventional same-scale feature distillation, CSCWD transfers supervision from teacher P2 to student P3 after feature alignment while retaining same-scale distillation at deeper pyramid levels. Under the unified seven-sequence Drone-vs-Bird validation protocol, YOLO11n-CSCWD achieves 50.17% mean average precision at an intersection-over-union threshold of 0.5 (mAP@0.5) and 59.73% recall, improving the matched CA-YOLO11n baseline by 2.92 percentage points in mAP@0.5 and 3.55 points in recall. Cross-scale alignment further increases mAP@0.5 by 2.09 points over the corresponding same-scale channel-wise distillation configuration. In zero-shot evaluation on DUT-Anti-UAV, mAP@0.5 increases from 48.29% to 50.06% without target-domain fine-tuning. This domain was included because its challenging small targets make low-latency, computationally efficient detection particularly relevant. On Raspberry Pi 5 using NCNN-FP16 at 640x640 resolution, the 2.58-million-parameter student achieves 50.32% mAP@0.5 at 82.32 ms mean wall-clock latency, or 12.15 frames per second, while retaining essentially the same runtime and memory requirements as the matched baseline. The results support cross-scale distillation for improving tiny-target detection without increasing inference-time model complexity.

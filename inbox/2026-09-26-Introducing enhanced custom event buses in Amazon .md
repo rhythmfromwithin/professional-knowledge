@@ -1,11 +1,13 @@
 ---
-title: "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/
 next_step: skim
+priority: high
+slack_ts: '1790571542.922729'
+source: AWS Blog
+status: unread
+title: Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale
+  event-driven applications
 ---
 # Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/](https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/)
