@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Random Matrices in Gaussian Bandits: Spectral Universality and Selection-Induced Outliers"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.30321
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30321
 next_step: skim
+priority: medium
+slack_ts: '1790659446.963769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Adaptive Random Matrices in Gaussian Bandits: Spectral Universality and Selection-Induced
+  Outliers'
 ---
 # Adaptive Random Matrices in Gaussian Bandits: Spectral Universality and Selection-Induced Outliers
 > 原文: [https://arxiv.org/abs/2609.30321](https://arxiv.org/abs/2609.30321)

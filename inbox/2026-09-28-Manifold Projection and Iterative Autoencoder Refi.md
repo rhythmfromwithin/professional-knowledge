@@ -1,11 +1,13 @@
 ---
-title: "Manifold Projection and Iterative Autoencoder Refinement for Masked Language Modeling"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.30288
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30288
 next_step: skim
+priority: high
+slack_ts: '1790659452.881849'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Manifold Projection and Iterative Autoencoder Refinement for Masked Language
+  Modeling
 ---
 # Manifold Projection and Iterative Autoencoder Refinement for Masked Language Modeling
 > 原文: [https://arxiv.org/abs/2609.30288](https://arxiv.org/abs/2609.30288)

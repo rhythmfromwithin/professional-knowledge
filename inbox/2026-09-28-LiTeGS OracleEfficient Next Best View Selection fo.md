@@ -1,11 +1,12 @@
 ---
-title: "LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.30393
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30393
 next_step: skim
+priority: medium
+slack_ts: '1790659452.550939'
+source: cs.CV - Computer Vision
+status: unread
+title: 'LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting'
 ---
 # LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting
 > 原文: [https://arxiv.org/abs/2609.30393](https://arxiv.org/abs/2609.30393)

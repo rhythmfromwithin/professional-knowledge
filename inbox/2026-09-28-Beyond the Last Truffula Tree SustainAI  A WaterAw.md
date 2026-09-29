@@ -1,11 +1,13 @@
 ---
-title: "Beyond the Last Truffula Tree: SustainAI - A Water-Aware, Closed-Loop Framework for Environmentally Accountable AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.30747
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30747
 next_step: skim
+priority: medium
+slack_ts: '1790659447.722739'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond the Last Truffula Tree: SustainAI - A Water-Aware, Closed-Loop Framework
+  for Environmentally Accountable AI'
 ---
 # Beyond the Last Truffula Tree: SustainAI - A Water-Aware, Closed-Loop Framework for Environmentally Accountable AI
 > 原文: [https://arxiv.org/abs/2609.30747](https://arxiv.org/abs/2609.30747)

@@ -1,11 +1,12 @@
 ---
-title: "Catch-Up and Come Home: Economic Convergence and Return Migration"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.31236
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31236
 next_step: skim
+priority: low
+slack_ts: '1790659448.646719'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Catch-Up and Come Home: Economic Convergence and Return Migration'
 ---
 # Catch-Up and Come Home: Economic Convergence and Return Migration
 > 原文: [https://arxiv.org/abs/2609.31236](https://arxiv.org/abs/2609.31236)

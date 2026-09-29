@@ -1,11 +1,13 @@
 ---
-title: "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.30270
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30270
 next_step: skim
+priority: high
+slack_ts: '1790659450.833179'
+source: cs.LG - Machine Learning
+status: unread
+title: 'HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device,
+  Edge, and Cloud LLM Inference'
 ---
 # HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference
 > 原文: [https://arxiv.org/abs/2609.30270](https://arxiv.org/abs/2609.30270)

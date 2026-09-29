@@ -1,11 +1,12 @@
 ---
-title: "Proceedings 19th Interaction and Concurrency Experience"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.30353
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30353
 next_step: skim
+priority: medium
+slack_ts: '1790659454.826089'
+source: cs.DC - Distributed Computing
+status: unread
+title: Proceedings 19th Interaction and Concurrency Experience
 ---
 # Proceedings 19th Interaction and Concurrency Experience
 > 原文: [https://arxiv.org/abs/2609.30353](https://arxiv.org/abs/2609.30353)

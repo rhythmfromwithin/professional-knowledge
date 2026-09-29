@@ -1,11 +1,12 @@
 ---
-title: "Batched Feedback and the Random-Access Wall in Search-Based Graph Construction"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.30493
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30493
 next_step: skim
+priority: low
+slack_ts: '1790659447.582279'
+source: cs.DB - Databases
+status: unread
+title: Batched Feedback and the Random-Access Wall in Search-Based Graph Construction
 ---
 # Batched Feedback and the Random-Access Wall in Search-Based Graph Construction
 > 原文: [https://arxiv.org/abs/2609.30493](https://arxiv.org/abs/2609.30493)

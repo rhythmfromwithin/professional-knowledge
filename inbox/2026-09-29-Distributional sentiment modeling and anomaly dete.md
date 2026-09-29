@@ -1,0 +1,14 @@
+---
+title: "Distributional sentiment modeling and anomaly detection for consumer complaint assessment"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2609.31653
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Distributional sentiment modeling and anomaly detection for consumer complaint assessment
+> 原文: [https://arxiv.org/abs/2609.31653](https://arxiv.org/abs/2609.31653)
+
+arXiv:2609.31653v1 Announce Type: new
+Abstract: Sentiment analysis is a common tool for converting unstructured text into quantitative signals in finance and risk management. Yet most applications reduce the output to a discrete polarity label or a single predictive feature, overlooking the distributional structure of sentiment intensity in consumer complaint narratives. In this paper we treat negative sentiment in consumer complaints as a bounded continuous variable and study its full distribution rather than a single label. We score each narrative with a transformer classifier, model the scores with Beta distributions, and compare the fitted distributions of meritorious and non-meritorious complaints through the Kullback Leibler divergence and the squared Hellinger distance. The fitted distributions are then linked with dollar amounts and company response outcomes to construct anomaly diagnostics that flag complaints whose textual severity is inconsistent with the recorded relief. We find that the two groups have strongly overlapping distributions, so negative sentiment intensity is not a sharp classifier of outcomes on its own; combined with monetary and categorical attributes, it isolates unusually severe complaints for operational risk monitoring. Treating sentiment analysis as continuous distributional measurement, this study links sentiment extraction, bounded response modeling, and anomaly detection in a unified framework for consumer complaint assessment.

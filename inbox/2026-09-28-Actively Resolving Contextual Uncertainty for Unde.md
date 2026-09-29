@@ -1,11 +1,13 @@
 ---
-title: "Actively Resolving Contextual Uncertainty for Underspecified Tasks in Natural Language"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.30428
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30428
 next_step: skim
+priority: medium
+slack_ts: '1790659446.818079'
+source: cs.RO - Robotics
+status: unread
+title: Actively Resolving Contextual Uncertainty for Underspecified Tasks in Natural
+  Language
 ---
 # Actively Resolving Contextual Uncertainty for Underspecified Tasks in Natural Language
 > 原文: [https://arxiv.org/abs/2609.30428](https://arxiv.org/abs/2609.30428)

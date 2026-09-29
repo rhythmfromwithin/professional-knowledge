@@ -1,11 +1,12 @@
 ---
-title: "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/
 next_step: skim
+priority: high
+slack_ts: '1790659446.683979'
+source: AWS Blog
+status: unread
+title: Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod
 ---
 # Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod
 > 原文: [https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/)

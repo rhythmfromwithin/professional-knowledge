@@ -1,11 +1,12 @@
 ---
-title: "Communication-Aware Model Distributed Inference via Latent Representation Compression"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.30413
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30413
 next_step: skim
+priority: medium
+slack_ts: '1790659449.090809'
+source: cs.DC - Distributed Computing
+status: unread
+title: Communication-Aware Model Distributed Inference via Latent Representation Compression
 ---
 # Communication-Aware Model Distributed Inference via Latent Representation Compression
 > 原文: [https://arxiv.org/abs/2609.30413](https://arxiv.org/abs/2609.30413)

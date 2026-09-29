@@ -1,11 +1,12 @@
 ---
-title: "HyQDB: LLM-Assisted Debugging for Hybrid Quantum Workflows"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.30313
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30313
 next_step: skim
+priority: low
+slack_ts: '1790659450.669039'
+source: cs.SE - Software Engineering
+status: unread
+title: 'HyQDB: LLM-Assisted Debugging for Hybrid Quantum Workflows'
 ---
 # HyQDB: LLM-Assisted Debugging for Hybrid Quantum Workflows
 > 原文: [https://arxiv.org/abs/2609.30313](https://arxiv.org/abs/2609.30313)

@@ -1,11 +1,12 @@
 ---
-title: "Modeling quantum neural network gradient with reinforcement learning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.31066
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31066
 next_step: skim
+priority: low
+slack_ts: '1790659453.036609'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Modeling quantum neural network gradient with reinforcement learning
 ---
 # Modeling quantum neural network gradient with reinforcement learning
 > 原文: [https://arxiv.org/abs/2609.31066](https://arxiv.org/abs/2609.31066)

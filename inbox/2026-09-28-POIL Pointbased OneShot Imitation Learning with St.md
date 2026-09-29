@@ -1,11 +1,12 @@
 ---
-title: "POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.30404
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30404
 next_step: skim
+priority: medium
+slack_ts: '1790659454.073129'
+source: cs.RO - Robotics
+status: unread
+title: 'POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems'
 ---
 # POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems
 > 原文: [https://arxiv.org/abs/2609.30404](https://arxiv.org/abs/2609.30404)

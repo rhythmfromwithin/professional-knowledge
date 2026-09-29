@@ -1,11 +1,13 @@
 ---
-title: "CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny Object Detection on Edge Devices"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.30395
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30395
 next_step: skim
+priority: medium
+slack_ts: '1790659448.475659'
+source: cs.CV - Computer Vision
+status: unread
+title: 'CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny
+  Object Detection on Edge Devices'
 ---
 # CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny Object Detection on Edge Devices
 > 原文: [https://arxiv.org/abs/2609.30395](https://arxiv.org/abs/2609.30395)

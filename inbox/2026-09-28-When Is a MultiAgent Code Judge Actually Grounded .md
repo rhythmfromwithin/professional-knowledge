@@ -1,11 +1,13 @@
 ---
-title: "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.30328
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30328
 next_step: skim
+priority: high
+slack_ts: '1790659456.876059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,
+  and a Judge That Declines to Guess
 ---
 # When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess
 > 原文: [https://arxiv.org/abs/2609.30328](https://arxiv.org/abs/2609.30328)

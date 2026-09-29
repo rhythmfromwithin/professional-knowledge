@@ -1,11 +1,13 @@
 ---
-title: "FlatClip: A Geometry-Aware Surface-Level Baseline for fMRI Representation Learning"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.31204
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31204
 next_step: skim
+priority: low
+slack_ts: '1790659449.846879'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'FlatClip: A Geometry-Aware Surface-Level Baseline for fMRI Representation
+  Learning'
 ---
 # FlatClip: A Geometry-Aware Surface-Level Baseline for fMRI Representation Learning
 > 原文: [https://arxiv.org/abs/2609.31204](https://arxiv.org/abs/2609.31204)

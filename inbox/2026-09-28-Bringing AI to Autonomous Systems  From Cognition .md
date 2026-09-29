@@ -1,11 +1,12 @@
 ---
-title: "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.30291
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30291
 next_step: skim
+priority: high
+slack_ts: '1790659448.188689'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence
 ---
 # Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence
 > 原文: [https://arxiv.org/abs/2609.30291](https://arxiv.org/abs/2609.30291)

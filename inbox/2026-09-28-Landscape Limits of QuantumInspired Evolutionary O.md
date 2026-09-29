@@ -1,11 +1,13 @@
 ---
-title: "Landscape Limits of Quantum-Inspired Evolutionary Optimization across 256 continuous functions"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.30938
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30938
 next_step: skim
+priority: low
+slack_ts: '1790659451.975919'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Landscape Limits of Quantum-Inspired Evolutionary Optimization across 256 continuous
+  functions
 ---
 # Landscape Limits of Quantum-Inspired Evolutionary Optimization across 256 continuous functions
 > 原文: [https://arxiv.org/abs/2609.30938](https://arxiv.org/abs/2609.30938)

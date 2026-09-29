@@ -1,11 +1,12 @@
 ---
-title: "Learning a non-linguistic code for inferred rules from reward"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.31192
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31192
 next_step: skim
+priority: low
+slack_ts: '1790659452.270609'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Learning a non-linguistic code for inferred rules from reward
 ---
 # Learning a non-linguistic code for inferred rules from reward
 > 原文: [https://arxiv.org/abs/2609.31192](https://arxiv.org/abs/2609.31192)

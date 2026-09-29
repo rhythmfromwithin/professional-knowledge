@@ -1,11 +1,5 @@
 ---
-title: "Distribution of hitting times for dissipative random dynamical systems on $\mathbb{R}^d$, with application to stochastic gradient descent"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.30274
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1790659449.554289'
 ---
 # Distribution of hitting times for dissipative random dynamical systems on $\mathbb{R}^d$, with application to stochastic gradient descent
 > 原文: [https://arxiv.org/abs/2609.30274](https://arxiv.org/abs/2609.30274)

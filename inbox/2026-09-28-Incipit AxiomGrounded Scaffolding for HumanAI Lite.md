@@ -1,11 +1,12 @@
 ---
-title: "Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.31007
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31007
 next_step: skim
+priority: medium
+slack_ts: '1790659451.122279'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation'
 ---
 # Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation
 > 原文: [https://arxiv.org/abs/2609.31007](https://arxiv.org/abs/2609.31007)

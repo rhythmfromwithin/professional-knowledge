@@ -1,11 +1,13 @@
 ---
-title: "ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.30272
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30272
 next_step: skim
+priority: high
+slack_ts: '1790659449.701649'
+source: cs.LG - Machine Learning
+status: unread
+title: 'ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for
+  TinyML on Resource-Constrained Microcontrollers'
 ---
 # ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers
 > 原文: [https://arxiv.org/abs/2609.30272](https://arxiv.org/abs/2609.30272)

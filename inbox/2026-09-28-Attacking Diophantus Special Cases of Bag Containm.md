@@ -1,11 +1,12 @@
 ---
-title: "Attacking Diophantus: Special Cases of Bag Containment"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.30956
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30956
 next_step: skim
+priority: low
+slack_ts: '1790659447.434469'
+source: cs.DB - Databases
+status: unread
+title: 'Attacking Diophantus: Special Cases of Bag Containment'
 ---
 # Attacking Diophantus: Special Cases of Bag Containment
 > 原文: [https://arxiv.org/abs/2609.30956](https://arxiv.org/abs/2609.30956)

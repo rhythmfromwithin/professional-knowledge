@@ -1,11 +1,12 @@
 ---
-title: "A Benchmarking Framework for Context-aware XR Interfaces"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.30466
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30466
 next_step: skim
+priority: low
+slack_ts: '1790659446.558459'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Benchmarking Framework for Context-aware XR Interfaces
 ---
 # A Benchmarking Framework for Context-aware XR Interfaces
 > 原文: [https://arxiv.org/abs/2609.30466](https://arxiv.org/abs/2609.30466)
