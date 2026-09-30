@@ -1,11 +1,12 @@
 ---
-title: "Unifying In-Memory Data Analytics through Sparse Compilation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.30497
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30497
 next_step: skim
+priority: medium
+slack_ts: '1790745123.244679'
+source: cs.DC - Distributed Computing
+status: unread
+title: Unifying In-Memory Data Analytics through Sparse Compilation
 ---
 # Unifying In-Memory Data Analytics through Sparse Compilation
 > 原文: [https://arxiv.org/abs/2609.30497](https://arxiv.org/abs/2609.30497)

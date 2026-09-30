@@ -1,11 +1,13 @@
 ---
-title: "A literature-guided descriptor-based framework for filtering composition search spaces"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.31650
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31650
 next_step: skim
+priority: high
+slack_ts: '1790745124.147379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: A literature-guided descriptor-based framework for filtering composition search
+  spaces
 ---
 # A literature-guided descriptor-based framework for filtering composition search spaces
 > 原文: [https://arxiv.org/abs/2609.31650](https://arxiv.org/abs/2609.31650)

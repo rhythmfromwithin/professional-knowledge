@@ -1,11 +1,12 @@
 ---
-title: "Are you a Codex Original?"
-source: "OpenAI Blog"
-link: https://openai.com/form/codex-originals
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/form/codex-originals
 next_step: skim
+priority: high
+slack_ts: '1790745124.770769'
+source: OpenAI Blog
+status: unread
+title: Are you a Codex Original?
 ---
 # Are you a Codex Original?
 > 原文: [https://openai.com/form/codex-originals](https://openai.com/form/codex-originals)

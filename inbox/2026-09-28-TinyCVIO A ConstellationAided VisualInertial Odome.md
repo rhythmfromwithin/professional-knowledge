@@ -1,11 +1,12 @@
 ---
-title: "TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.30358
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30358
 next_step: skim
+priority: medium
+slack_ts: '1790745122.536219'
+source: cs.RO - Robotics
+status: unread
+title: 'TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones'
 ---
 # TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones
 > 原文: [https://arxiv.org/abs/2609.30358](https://arxiv.org/abs/2609.30358)

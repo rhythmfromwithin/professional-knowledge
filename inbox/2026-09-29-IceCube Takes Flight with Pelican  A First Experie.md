@@ -1,11 +1,12 @@
 ---
-title: "IceCube Takes Flight with Pelican - A First Experience"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.31851
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31851
 next_step: skim
+priority: medium
+slack_ts: '1790745130.463969'
+source: cs.DC - Distributed Computing
+status: unread
+title: IceCube Takes Flight with Pelican - A First Experience
 ---
 # IceCube Takes Flight with Pelican - A First Experience
 > 原文: [https://arxiv.org/abs/2609.31851](https://arxiv.org/abs/2609.31851)

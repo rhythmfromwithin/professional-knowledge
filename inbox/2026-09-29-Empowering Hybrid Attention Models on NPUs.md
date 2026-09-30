@@ -1,11 +1,12 @@
 ---
-title: "Empowering Hybrid Attention Models on NPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.32114
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32114
 next_step: skim
+priority: medium
+slack_ts: '1790745128.337229'
+source: cs.DC - Distributed Computing
+status: unread
+title: Empowering Hybrid Attention Models on NPUs
 ---
 # Empowering Hybrid Attention Models on NPUs
 > 原文: [https://arxiv.org/abs/2609.32114](https://arxiv.org/abs/2609.32114)

@@ -1,11 +1,12 @@
 ---
-title: "Bridging Stochastic Flow Maps and Boltzmann Generators with Normalizing Flows"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.31978
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31978
 next_step: skim
+priority: medium
+slack_ts: '1790745125.537469'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Bridging Stochastic Flow Maps and Boltzmann Generators with Normalizing Flows
 ---
 # Bridging Stochastic Flow Maps and Boltzmann Generators with Normalizing Flows
 > 原文: [https://arxiv.org/abs/2609.31978](https://arxiv.org/abs/2609.31978)

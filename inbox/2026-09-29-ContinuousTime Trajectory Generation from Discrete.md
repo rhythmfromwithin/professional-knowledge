@@ -1,11 +1,12 @@
 ---
-title: "Continuous-Time Trajectory Generation from Discrete Observations with Stochasticity"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.32026
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32026
 next_step: skim
+priority: medium
+slack_ts: '1790745126.961669'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Continuous-Time Trajectory Generation from Discrete Observations with Stochasticity
 ---
 # Continuous-Time Trajectory Generation from Discrete Observations with Stochasticity
 > 原文: [https://arxiv.org/abs/2609.32026](https://arxiv.org/abs/2609.32026)

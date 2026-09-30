@@ -1,11 +1,13 @@
 ---
-title: "ChestPheNoT: Deployable, Auditable Label-Status-Evidence Extraction from Radiology Reports"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.31629
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31629
 next_step: skim
+priority: high
+slack_ts: '1790745126.383159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'ChestPheNoT: Deployable, Auditable Label-Status-Evidence Extraction from Radiology
+  Reports'
 ---
 # ChestPheNoT: Deployable, Auditable Label-Status-Evidence Extraction from Radiology Reports
 > 原文: [https://arxiv.org/abs/2609.31629](https://arxiv.org/abs/2609.31629)

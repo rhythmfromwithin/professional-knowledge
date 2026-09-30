@@ -1,11 +1,13 @@
 ---
-title: "From Signals to Trajectories: A Primer on Low-Dimensional Dynamics in Human EEG and MEG"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.32315
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32315
 next_step: skim
+priority: low
+slack_ts: '1790745128.737409'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'From Signals to Trajectories: A Primer on Low-Dimensional Dynamics in Human
+  EEG and MEG'
 ---
 # From Signals to Trajectories: A Primer on Low-Dimensional Dynamics in Human EEG and MEG
 > 原文: [https://arxiv.org/abs/2609.32315](https://arxiv.org/abs/2609.32315)

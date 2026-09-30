@@ -1,11 +1,13 @@
 ---
-title: "Distributional sentiment modeling and anomaly detection for consumer complaint assessment"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.31653
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31653
 next_step: skim
+priority: high
+slack_ts: '1790745127.716089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Distributional sentiment modeling and anomaly detection for consumer complaint
+  assessment
 ---
 # Distributional sentiment modeling and anomaly detection for consumer complaint assessment
 > 原文: [https://arxiv.org/abs/2609.31653](https://arxiv.org/abs/2609.31653)

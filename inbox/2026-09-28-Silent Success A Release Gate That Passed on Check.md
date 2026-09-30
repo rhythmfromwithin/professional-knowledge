@@ -1,11 +1,13 @@
 ---
-title: "Silent Success: A Release Gate That Passed on Checks It Never Ran, and Eight More"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.30307
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30307
 next_step: skim
+priority: low
+slack_ts: '1790745121.696689'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Silent Success: A Release Gate That Passed on Checks It Never Ran, and Eight
+  More'
 ---
 # Silent Success: A Release Gate That Passed on Checks It Never Ran, and Eight More
 > 原文: [https://arxiv.org/abs/2609.30307](https://arxiv.org/abs/2609.30307)

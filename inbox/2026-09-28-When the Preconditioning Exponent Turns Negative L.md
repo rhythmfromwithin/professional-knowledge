@@ -1,11 +1,13 @@
 ---
-title: "When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and Cross-Environment Generalization"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.30271
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30271
 next_step: skim
+priority: high
+slack_ts: '1790745123.416039'
+source: cs.LG - Machine Learning
+status: unread
+title: 'When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and
+  Cross-Environment Generalization'
 ---
 # When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and Cross-Environment Generalization
 > 原文: [https://arxiv.org/abs/2609.30271](https://arxiv.org/abs/2609.30271)

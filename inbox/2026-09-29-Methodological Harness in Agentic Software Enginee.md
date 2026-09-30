@@ -1,11 +1,13 @@
 ---
-title: "Methodological Harness in Agentic Software Engineering: An Empirical Study on Mining Software Repositories"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.32014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32014
 next_step: skim
+priority: low
+slack_ts: '1790745132.120409'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Methodological Harness in Agentic Software Engineering: An Empirical Study
+  on Mining Software Repositories'
 ---
 # Methodological Harness in Agentic Software Engineering: An Empirical Study on Mining Software Repositories
 > 原文: [https://arxiv.org/abs/2609.32014](https://arxiv.org/abs/2609.32014)

@@ -1,11 +1,13 @@
 ---
-title: "A Large-Scale Benchmark and Risk Assessment of Traffic Analysis Attacks on Cloud LLM Services"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.31877
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31877
 next_step: skim
+priority: low
+slack_ts: '1790745123.760619'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Large-Scale Benchmark and Risk Assessment of Traffic Analysis Attacks on
+  Cloud LLM Services
 ---
 # A Large-Scale Benchmark and Risk Assessment of Traffic Analysis Attacks on Cloud LLM Services
 > 原文: [https://arxiv.org/abs/2609.31877](https://arxiv.org/abs/2609.31877)

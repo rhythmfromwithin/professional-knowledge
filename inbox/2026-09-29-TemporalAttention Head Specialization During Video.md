@@ -1,11 +1,12 @@
 ---
-title: "Temporal-Attention Head Specialization During Video Diffusion Training"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.31654
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31654
 next_step: skim
+priority: medium
+slack_ts: '1790745136.174149'
+source: cs.CV - Computer Vision
+status: unread
+title: Temporal-Attention Head Specialization During Video Diffusion Training
 ---
 # Temporal-Attention Head Specialization During Video Diffusion Training
 > 原文: [https://arxiv.org/abs/2609.31654](https://arxiv.org/abs/2609.31654)

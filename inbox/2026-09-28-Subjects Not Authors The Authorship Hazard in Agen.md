@@ -1,11 +1,12 @@
 ---
-title: "Subjects, Not Authors: The Authorship Hazard in Agentic Dataspaces"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.30614
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30614
 next_step: skim
+priority: low
+slack_ts: '1790745122.090629'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Subjects, Not Authors: The Authorship Hazard in Agentic Dataspaces'
 ---
 # Subjects, Not Authors: The Authorship Hazard in Agentic Dataspaces
 > 原文: [https://arxiv.org/abs/2609.30614](https://arxiv.org/abs/2609.30614)

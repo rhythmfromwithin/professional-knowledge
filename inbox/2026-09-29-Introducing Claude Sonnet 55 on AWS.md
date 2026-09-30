@@ -1,11 +1,12 @@
 ---
-title: "Introducing Claude Sonnet 5.5 on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1790745131.106109'
+source: AWS Blog
+status: unread
+title: Introducing Claude Sonnet 5.5 on AWS
 ---
 # Introducing Claude Sonnet 5.5 on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/)

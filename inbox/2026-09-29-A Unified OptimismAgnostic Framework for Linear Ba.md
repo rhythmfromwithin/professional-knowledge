@@ -1,11 +1,13 @@
 ---
-title: "A Unified Optimism-Agnostic Framework for Linear Bandits over Spherical Action Sets"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.32149
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32149
 next_step: skim
+priority: medium
+slack_ts: '1790745123.984389'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Unified Optimism-Agnostic Framework for Linear Bandits over Spherical Action
+  Sets
 ---
 # A Unified Optimism-Agnostic Framework for Linear Bandits over Spherical Action Sets
 > 原文: [https://arxiv.org/abs/2609.32149](https://arxiv.org/abs/2609.32149)

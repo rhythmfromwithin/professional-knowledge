@@ -1,11 +1,13 @@
 ---
-title: "TokenScanner: Detecting Backdoors and Discovering Triggers in Text-to-Image LoRAs via Full Vocabulary Scanning"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.31878
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31878
 next_step: skim
+priority: low
+slack_ts: '1790745137.060179'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'TokenScanner: Detecting Backdoors and Discovering Triggers in Text-to-Image
+  LoRAs via Full Vocabulary Scanning'
 ---
 # TokenScanner: Detecting Backdoors and Discovering Triggers in Text-to-Image LoRAs via Full Vocabulary Scanning
 > 原文: [https://arxiv.org/abs/2609.31878](https://arxiv.org/abs/2609.31878)

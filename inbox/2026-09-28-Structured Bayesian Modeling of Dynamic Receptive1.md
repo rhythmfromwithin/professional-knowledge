@@ -1,11 +1,13 @@
 ---
-title: "Structured Bayesian Modeling of Dynamic Receptive1 Fields in Salamander Retinal Ganglion Cells"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.30731
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30731
 next_step: skim
+priority: low
+slack_ts: '1790745121.894789'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Structured Bayesian Modeling of Dynamic Receptive1 Fields in Salamander Retinal
+  Ganglion Cells
 ---
 # Structured Bayesian Modeling of Dynamic Receptive1 Fields in Salamander Retinal Ganglion Cells
 > 原文: [https://arxiv.org/abs/2609.30731](https://arxiv.org/abs/2609.30731)

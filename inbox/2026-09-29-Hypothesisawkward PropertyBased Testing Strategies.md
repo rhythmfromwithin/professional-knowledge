@@ -1,11 +1,12 @@
 ---
-title: "Hypothesis-awkward: Property-Based Testing Strategies for Awkward Array"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.31820
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31820
 next_step: skim
+priority: low
+slack_ts: '1790745130.285979'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Hypothesis-awkward: Property-Based Testing Strategies for Awkward Array'
 ---
 # Hypothesis-awkward: Property-Based Testing Strategies for Awkward Array
 > 原文: [https://arxiv.org/abs/2609.31820](https://arxiv.org/abs/2609.31820)

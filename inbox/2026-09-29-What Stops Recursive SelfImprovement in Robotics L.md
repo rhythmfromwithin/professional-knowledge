@@ -1,11 +1,13 @@
 ---
-title: "What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.31760
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31760
 next_step: skim
+priority: medium
+slack_ts: '1790745138.136329'
+source: cs.RO - Robotics
+status: unread
+title: What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds
+  of Agentic Skill Discovery
 ---
 # What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery
 > 原文: [https://arxiv.org/abs/2609.31760](https://arxiv.org/abs/2609.31760)

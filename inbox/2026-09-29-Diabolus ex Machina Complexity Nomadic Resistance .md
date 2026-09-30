@@ -1,11 +1,13 @@
 ---
-title: "Diabolus ex Machina: Complexity, Nomadic Resistance, and the Machinery of Forced Migration in Kazakhstan"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.31916
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31916
 next_step: skim
+priority: low
+slack_ts: '1790745127.305309'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Diabolus ex Machina: Complexity, Nomadic Resistance, and the Machinery of
+  Forced Migration in Kazakhstan'
 ---
 # Diabolus ex Machina: Complexity, Nomadic Resistance, and the Machinery of Forced Migration in Kazakhstan
 > 原文: [https://arxiv.org/abs/2609.31916](https://arxiv.org/abs/2609.31916)

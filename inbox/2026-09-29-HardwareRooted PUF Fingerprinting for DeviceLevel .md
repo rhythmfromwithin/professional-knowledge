@@ -1,11 +1,13 @@
 ---
-title: "Hardware-Rooted PUF Fingerprinting for Device-Level Traceability in Knowledge Distillation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.31968
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31968
 next_step: skim
+priority: low
+slack_ts: '1790745129.696089'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Hardware-Rooted PUF Fingerprinting for Device-Level Traceability in Knowledge
+  Distillation
 ---
 # Hardware-Rooted PUF Fingerprinting for Device-Level Traceability in Knowledge Distillation
 > 原文: [https://arxiv.org/abs/2609.31968](https://arxiv.org/abs/2609.31968)

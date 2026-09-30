@@ -1,11 +1,13 @@
 ---
-title: "DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.32385
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32385
 next_step: skim
+priority: low
+slack_ts: '1790745127.132599'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive
+  Dashboard Analysis'
 ---
 # DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis
 > 原文: [https://arxiv.org/abs/2609.32385](https://arxiv.org/abs/2609.32385)

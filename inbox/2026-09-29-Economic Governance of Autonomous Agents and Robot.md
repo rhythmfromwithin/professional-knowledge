@@ -1,11 +1,13 @@
 ---
-title: "Economic Governance of Autonomous Agents and Robots: Factor-Origin Accounting and Social Automation Funds"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.32476
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32476
 next_step: skim
+priority: low
+slack_ts: '1790745128.060389'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Economic Governance of Autonomous Agents and Robots: Factor-Origin Accounting
+  and Social Automation Funds'
 ---
 # Economic Governance of Autonomous Agents and Robots: Factor-Origin Accounting and Social Automation Funds
 > 原文: [https://arxiv.org/abs/2609.32476](https://arxiv.org/abs/2609.32476)

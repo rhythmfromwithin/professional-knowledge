@@ -1,11 +1,12 @@
 ---
-title: "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.30325
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30325
 next_step: skim
+priority: high
+slack_ts: '1790745121.346759'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?'
 ---
 # ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?
 > 原文: [https://arxiv.org/abs/2609.30325](https://arxiv.org/abs/2609.30325)

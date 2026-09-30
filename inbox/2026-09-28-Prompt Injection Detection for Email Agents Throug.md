@@ -1,11 +1,12 @@
 ---
-title: "Prompt Injection Detection for Email Agents Through Attack Chain Modeling"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.30657
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30657
 next_step: skim
+priority: low
+slack_ts: '1790745120.581359'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Prompt Injection Detection for Email Agents Through Attack Chain Modeling
 ---
 # Prompt Injection Detection for Email Agents Through Attack Chain Modeling
 > 原文: [https://arxiv.org/abs/2609.30657](https://arxiv.org/abs/2609.30657)

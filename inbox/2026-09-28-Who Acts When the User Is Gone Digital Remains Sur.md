@@ -1,11 +1,13 @@
 ---
-title: "Who Acts When the User Is Gone? Digital Remains, Survivor Claims, and Post-Mortem Governance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.30449
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.30449
 next_step: skim
+priority: low
+slack_ts: '1790745123.585289'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Who Acts When the User Is Gone? Digital Remains, Survivor Claims, and Post-Mortem
+  Governance
 ---
 # Who Acts When the User Is Gone? Digital Remains, Survivor Claims, and Post-Mortem Governance
 > 原文: [https://arxiv.org/abs/2609.30449](https://arxiv.org/abs/2609.30449)
