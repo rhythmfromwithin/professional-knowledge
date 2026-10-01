@@ -1,11 +1,13 @@
 ---
-title: "Beyond the Coast: an Empirical Assessment of the Kaldor-Verdoorn Law in Chinese Provinces"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.37051
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.37051
 next_step: skim
+priority: low
+slack_ts: '1790832422.571029'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Beyond the Coast: an Empirical Assessment of the Kaldor-Verdoorn Law in Chinese
+  Provinces'
 ---
 # Beyond the Coast: an Empirical Assessment of the Kaldor-Verdoorn Law in Chinese Provinces
 > 原文: [https://arxiv.org/abs/2609.37051](https://arxiv.org/abs/2609.37051)

@@ -1,11 +1,12 @@
 ---
-title: "GenoTrace: Inheritable Watermarks for Genome Foundation Model Distillation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.35881
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35881
 next_step: skim
+priority: low
+slack_ts: '1790832425.035429'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'GenoTrace: Inheritable Watermarks for Genome Foundation Model Distillation'
 ---
 # GenoTrace: Inheritable Watermarks for Genome Foundation Model Distillation
 > 原文: [https://arxiv.org/abs/2609.35881](https://arxiv.org/abs/2609.35881)

@@ -1,11 +1,13 @@
 ---
-title: "WeaveData: A Multimodal Data Analysis System with Self-Critiquing and Self-Evolving LLM Plans"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.34764
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.34764
 next_step: skim
+priority: low
+slack_ts: '1790832420.703639'
+source: cs.DB - Databases
+status: unread
+title: 'WeaveData: A Multimodal Data Analysis System with Self-Critiquing and Self-Evolving
+  LLM Plans'
 ---
 # WeaveData: A Multimodal Data Analysis System with Self-Critiquing and Self-Evolving LLM Plans
 > 原文: [https://arxiv.org/abs/2609.34764](https://arxiv.org/abs/2609.34764)

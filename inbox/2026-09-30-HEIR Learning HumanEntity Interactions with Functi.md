@@ -1,11 +1,12 @@
 ---
-title: "HEIR: Learning Human-Entity Interactions with Functional Roles"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.35955
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35955
 next_step: skim
+priority: medium
+slack_ts: '1790832425.226229'
+source: cs.CV - Computer Vision
+status: unread
+title: 'HEIR: Learning Human-Entity Interactions with Functional Roles'
 ---
 # HEIR: Learning Human-Entity Interactions with Functional Roles
 > 原文: [https://arxiv.org/abs/2609.35955](https://arxiv.org/abs/2609.35955)

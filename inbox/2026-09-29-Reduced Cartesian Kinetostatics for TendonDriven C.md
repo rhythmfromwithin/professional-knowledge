@@ -1,11 +1,13 @@
 ---
-title: "Reduced Cartesian Kinetostatics for Tendon-Driven Continuum Robots: Residual-Stabilized Full-Shape Propagation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.31771
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31771
 next_step: skim
+priority: medium
+slack_ts: '1790832418.373269'
+source: cs.RO - Robotics
+status: unread
+title: 'Reduced Cartesian Kinetostatics for Tendon-Driven Continuum Robots: Residual-Stabilized
+  Full-Shape Propagation'
 ---
 # Reduced Cartesian Kinetostatics for Tendon-Driven Continuum Robots: Residual-Stabilized Full-Shape Propagation
 > 原文: [https://arxiv.org/abs/2609.31771](https://arxiv.org/abs/2609.31771)

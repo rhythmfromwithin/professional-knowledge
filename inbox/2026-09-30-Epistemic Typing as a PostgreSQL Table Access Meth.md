@@ -1,11 +1,13 @@
 ---
-title: "Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.36795
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36795
 next_step: skim
+priority: low
+slack_ts: '1790832424.635489'
+source: cs.DB - Databases
+status: unread
+title: 'Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict
+  Resolution Under Confidence Forgery and Sybil Coordination'
 ---
 # Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination
 > 原文: [https://arxiv.org/abs/2609.36795](https://arxiv.org/abs/2609.36795)

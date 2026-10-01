@@ -1,11 +1,13 @@
 ---
-title: "Beyond Rule-Based Mutation Testing: Test-Aware Mutant Generation Using Large Language Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.35841
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35841
 next_step: skim
+priority: low
+slack_ts: '1790832422.376449'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Beyond Rule-Based Mutation Testing: Test-Aware Mutant Generation Using Large
+  Language Models'
 ---
 # Beyond Rule-Based Mutation Testing: Test-Aware Mutant Generation Using Large Language Models
 > 原文: [https://arxiv.org/abs/2609.35841](https://arxiv.org/abs/2609.35841)

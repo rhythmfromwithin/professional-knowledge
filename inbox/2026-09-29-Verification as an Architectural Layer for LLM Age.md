@@ -1,11 +1,13 @@
 ---
-title: "Verification as an Architectural Layer for LLM Agents: A V-Model Design, and a Pilot Study of Its Deterministic Core"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.31937
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31937
 next_step: skim
+priority: low
+slack_ts: '1790832420.307019'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Verification as an Architectural Layer for LLM Agents: A V-Model Design, and
+  a Pilot Study of Its Deterministic Core'
 ---
 # Verification as an Architectural Layer for LLM Agents: A V-Model Design, and a Pilot Study of Its Deterministic Core
 > 原文: [https://arxiv.org/abs/2609.31937](https://arxiv.org/abs/2609.31937)

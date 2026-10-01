@@ -1,11 +1,12 @@
 ---
-title: "Agent-Callable Feature Coverage: Measuring Software Readiness for AI Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.35789
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35789
 next_step: skim
+priority: low
+slack_ts: '1790832421.745299'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Agent-Callable Feature Coverage: Measuring Software Readiness for AI Agents'
 ---
 # Agent-Callable Feature Coverage: Measuring Software Readiness for AI Agents
 > 原文: [https://arxiv.org/abs/2609.35789](https://arxiv.org/abs/2609.35789)

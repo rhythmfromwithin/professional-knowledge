@@ -1,11 +1,12 @@
 ---
-title: "HERO: Histology Encoder for Robust Representation in Oncology"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.35943
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35943
 next_step: skim
+priority: medium
+slack_ts: '1790832425.411719'
+source: cs.CV - Computer Vision
+status: unread
+title: 'HERO: Histology Encoder for Robust Representation in Oncology'
 ---
 # HERO: Histology Encoder for Robust Representation in Oncology
 > 原文: [https://arxiv.org/abs/2609.35943](https://arxiv.org/abs/2609.35943)

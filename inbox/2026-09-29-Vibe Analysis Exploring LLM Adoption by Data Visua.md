@@ -1,11 +1,12 @@
 ---
-title: "Vibe Analysis: Exploring LLM Adoption by Data Visualization Practitioners"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.31922
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31922
 next_step: skim
+priority: low
+slack_ts: '1790832420.433039'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Vibe Analysis: Exploring LLM Adoption by Data Visualization Practitioners'
 ---
 # Vibe Analysis: Exploring LLM Adoption by Data Visualization Practitioners
 > 原文: [https://arxiv.org/abs/2609.31922](https://arxiv.org/abs/2609.31922)

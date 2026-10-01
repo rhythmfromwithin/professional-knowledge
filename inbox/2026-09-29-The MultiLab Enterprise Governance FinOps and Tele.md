@@ -1,11 +1,13 @@
 ---
-title: "The Multi-Lab Enterprise: Governance, FinOps, and Telemetry Challenges of Multi-Model AI Adoption"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.31622
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31622
 next_step: skim
+priority: medium
+slack_ts: '1790832419.820649'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Multi-Lab Enterprise: Governance, FinOps, and Telemetry Challenges of
+  Multi-Model AI Adoption'
 ---
 # The Multi-Lab Enterprise: Governance, FinOps, and Telemetry Challenges of Multi-Model AI Adoption
 > 原文: [https://arxiv.org/abs/2609.31622](https://arxiv.org/abs/2609.31622)

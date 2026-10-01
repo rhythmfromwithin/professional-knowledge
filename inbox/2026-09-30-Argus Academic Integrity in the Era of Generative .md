@@ -1,11 +1,12 @@
 ---
-title: "Argus: Academic Integrity in the Era of Generative AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.36073
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36073
 next_step: skim
+priority: medium
+slack_ts: '1790832422.089789'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Argus: Academic Integrity in the Era of Generative AI'
 ---
 # Argus: Academic Integrity in the Era of Generative AI
 > 原文: [https://arxiv.org/abs/2609.36073](https://arxiv.org/abs/2609.36073)

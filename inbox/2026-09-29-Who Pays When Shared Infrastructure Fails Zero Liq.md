@@ -1,11 +1,13 @@
 ---
-title: "Who Pays When Shared Infrastructure Fails? Zero Liquid Discharge, the Utilisation Trap, and the Incidence of Compliance Cost in India's Textile and Tannery Clusters"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.32377
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32377
 next_step: skim
+priority: low
+slack_ts: '1790832421.021229'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who Pays When Shared Infrastructure Fails? Zero Liquid Discharge, the Utilisation
+  Trap, and the Incidence of Compliance Cost in India's Textile and Tannery Clusters
 ---
 # Who Pays When Shared Infrastructure Fails? Zero Liquid Discharge, the Utilisation Trap, and the Incidence of Compliance Cost in India's Textile and Tannery Clusters
 > 原文: [https://arxiv.org/abs/2609.32377](https://arxiv.org/abs/2609.32377)

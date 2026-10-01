@@ -1,0 +1,14 @@
+---
+title: "How Should Diffusion Language Models Edit Code?"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2609.38257
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# How Should Diffusion Language Models Edit Code?
+> 原文: [https://arxiv.org/abs/2609.38257](https://arxiv.org/abs/2609.38257)
+
+arXiv:2609.38257v1 Announce Type: new
+Abstract: Code editing requires a model to decide where to make changes, generate the new content, and preserve everything else. We study how masked diffusion language models divide these responsibilities across four editing interfaces: whole-file rewriting, search-and-replace, locate-then-infill, and token-level editing. Experiments on CanItEdit reveal a composition gap: diffusion models can generate coordinated changes when the correct edit locations are supplied, but much of this capability is lost when those locations must be predicted. Access to the intact original code helps the model fill multiple edit regions, yet does not resolve the difficulty of selecting those regions. By varying the editable regions while holding the generation model and decoding procedure fixed, we identify two distinct requirements for successful editing: covering every required change and placing precise boundaries around it. Missing a required region prevents the corresponding change, while widening regions to ensure coverage can sharply reduce success by requiring unchanged code to be regenerated. A sentence-level Wiki editing probe shows the same qualitative gap between supplied and predicted locations beyond code. These findings show why strong infilling capability alone does not ensure reliable editing: the interface must expose all required changes while limiting regeneration of unchanged code.

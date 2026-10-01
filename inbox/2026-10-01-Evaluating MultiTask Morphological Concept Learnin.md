@@ -1,0 +1,14 @@
+---
+title: "Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2609.38271
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT
+> 原文: [https://arxiv.org/abs/2609.38271](https://arxiv.org/abs/2609.38271)
+
+arXiv:2609.38271v1 Announce Type: new
+Abstract: Morphological characteristics such as spiculation and lobulation play an important role in assessing pulmonary nodules on computed tomography (CT), particularly in relation to malignancy risk. This study examines whether learning radiologist-annotated morphological features together with malignancy risk from lesion-centred 3D CT volumes improves classification performance. The Lung Image Database Consortium and Image Database Resource Initiative (LIDC-IDRI) dataset was used, comprising 3,918 reader-level nodule annotations from 742 patients after excluding indeterminate malignancy ratings. Patient-level splitting was used for training, validation, and testing, with 112 patients and 628 reader annotations in the held-out test set. A single-task 3D convolutional neural network was compared with a multi-task model predicting malignancy risk, spiculation, and lobulation. The single-task model achieved a balanced accuracy of 0.548 and receiver operating characteristic area under the curve (ROC-AUC) of 0.552, while the multi-task model achieved 0.539 and 0.558, respectively. Patient-level bootstrap analysis showed an ROC-AUC difference of 0.005 (95% confidence interval (CI): -0.087 to 0.090) and a balanced-accuracy difference of -0.009 (95% CI: -0.067 to 0.043). The auxiliary tasks were strongly imbalanced and showed limited predictive performance. Overall, including morphological features did not clearly improve malignancy-risk classification, showing the importance of class balance, label formulation, and reader-level annotation structure in multi-task pulmonary CT analysis.

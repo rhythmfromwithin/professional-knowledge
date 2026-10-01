@@ -1,11 +1,13 @@
 ---
-title: "Pre-registered spectral and certified mixing analysis of the male Drosophila central nervous system connectome"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.33054
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.33054
 next_step: skim
+priority: low
+slack_ts: '1790832417.955859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Pre-registered spectral and certified mixing analysis of the male Drosophila
+  central nervous system connectome
 ---
 # Pre-registered spectral and certified mixing analysis of the male Drosophila central nervous system connectome
 > 原文: [https://arxiv.org/abs/2609.33054](https://arxiv.org/abs/2609.33054)

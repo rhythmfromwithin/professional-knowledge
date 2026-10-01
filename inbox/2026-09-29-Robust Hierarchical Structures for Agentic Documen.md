@@ -1,11 +1,12 @@
 ---
-title: "Robust Hierarchical Structures for Agentic Document Analysis"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.33322
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.33322
 next_step: skim
+priority: low
+slack_ts: '1790832418.675799'
+source: cs.DB - Databases
+status: unread
+title: Robust Hierarchical Structures for Agentic Document Analysis
 ---
 # Robust Hierarchical Structures for Agentic Document Analysis
 > 原文: [https://arxiv.org/abs/2609.33322](https://arxiv.org/abs/2609.33322)

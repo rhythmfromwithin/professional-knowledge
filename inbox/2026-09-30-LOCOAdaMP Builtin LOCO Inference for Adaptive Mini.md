@@ -1,11 +1,13 @@
 ---
-title: "LOCO-AdaMP: Built-in LOCO Inference for Adaptive Minipatch Ensembles with Enhanced Prediction"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.36396
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36396
 next_step: skim
+priority: medium
+slack_ts: '1790832426.773279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'LOCO-AdaMP: Built-in LOCO Inference for Adaptive Minipatch Ensembles with
+  Enhanced Prediction'
 ---
 # LOCO-AdaMP: Built-in LOCO Inference for Adaptive Minipatch Ensembles with Enhanced Prediction
 > 原文: [https://arxiv.org/abs/2609.36396](https://arxiv.org/abs/2609.36396)

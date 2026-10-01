@@ -1,11 +1,12 @@
 ---
-title: "After the Award: The Authorization Gap in Academic Access to Frontier AI"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.36304
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36304
 next_step: skim
+priority: medium
+slack_ts: '1790832421.591869'
+source: cs.CY - Computers and Society
+status: unread
+title: 'After the Award: The Authorization Gap in Academic Access to Frontier AI'
 ---
 # After the Award: The Authorization Gap in Academic Access to Frontier AI
 > 原文: [https://arxiv.org/abs/2609.36304](https://arxiv.org/abs/2609.36304)

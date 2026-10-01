@@ -1,11 +1,13 @@
 ---
-title: "Better Behavioral Prediction, More Faithful Model Ablations? Evidence from Sequential Choice"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.36097
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36097
 next_step: skim
+priority: low
+slack_ts: '1790832422.249869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Better Behavioral Prediction, More Faithful Model Ablations? Evidence from
+  Sequential Choice
 ---
 # Better Behavioral Prediction, More Faithful Model Ablations? Evidence from Sequential Choice
 > 原文: [https://arxiv.org/abs/2609.36097](https://arxiv.org/abs/2609.36097)

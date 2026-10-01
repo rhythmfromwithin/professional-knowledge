@@ -1,11 +1,12 @@
 ---
-title: "EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.31632
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31632
 next_step: skim
+priority: high
+slack_ts: '1790832424.492189'
+source: cs.LG - Machine Learning
+status: unread
+title: 'EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis'
 ---
 # EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis
 > 原文: [https://arxiv.org/abs/2609.31632](https://arxiv.org/abs/2609.31632)

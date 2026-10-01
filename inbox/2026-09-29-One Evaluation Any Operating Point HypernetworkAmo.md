@@ -1,11 +1,13 @@
 ---
-title: "One Evaluation, Any Operating Point: Hypernetwork-Amortized MeanFlow for 3D MRI Reconstruction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.31655
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31655
 next_step: skim
+priority: medium
+slack_ts: '1790832417.121159'
+source: cs.CV - Computer Vision
+status: unread
+title: 'One Evaluation, Any Operating Point: Hypernetwork-Amortized MeanFlow for 3D
+  MRI Reconstruction'
 ---
 # One Evaluation, Any Operating Point: Hypernetwork-Amortized MeanFlow for 3D MRI Reconstruction
 > 原文: [https://arxiv.org/abs/2609.31655](https://arxiv.org/abs/2609.31655)

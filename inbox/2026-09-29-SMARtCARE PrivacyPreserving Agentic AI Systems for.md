@@ -1,11 +1,13 @@
 ---
-title: "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.31763
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31763
 next_step: skim
+priority: high
+slack_ts: '1790832418.814359'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical
+  Decision Support'
 ---
 # SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support
 > 原文: [https://arxiv.org/abs/2609.31763](https://arxiv.org/abs/2609.31763)

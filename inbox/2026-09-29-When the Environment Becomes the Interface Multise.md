@@ -1,11 +1,13 @@
 ---
-title: "When the Environment Becomes the Interface: Multisensory Environmental Interfaces for Human-AI Interaction in Autonomous Vehicles"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.32604
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32604
 next_step: skim
+priority: low
+slack_ts: '1790832420.880259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'When the Environment Becomes the Interface: Multisensory Environmental Interfaces
+  for Human-AI Interaction in Autonomous Vehicles'
 ---
 # When the Environment Becomes the Interface: Multisensory Environmental Interfaces for Human-AI Interaction in Autonomous Vehicles
 > 原文: [https://arxiv.org/abs/2609.32604](https://arxiv.org/abs/2609.32604)

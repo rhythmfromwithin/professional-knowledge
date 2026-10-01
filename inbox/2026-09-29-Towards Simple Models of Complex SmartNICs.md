@@ -1,11 +1,12 @@
 ---
-title: "Towards Simple Models of Complex SmartNICs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.32055
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.32055
 next_step: skim
+priority: medium
+slack_ts: '1790832420.164299'
+source: cs.DC - Distributed Computing
+status: unread
+title: Towards Simple Models of Complex SmartNICs
 ---
 # Towards Simple Models of Complex SmartNICs
 > 原文: [https://arxiv.org/abs/2609.32055](https://arxiv.org/abs/2609.32055)

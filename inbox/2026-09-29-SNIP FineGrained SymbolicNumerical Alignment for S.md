@@ -1,11 +1,12 @@
 ---
-title: "SNIP++: Fine-Grained Symbolic-Numerical Alignment for Symbolic Regression"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.31965
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31965
 next_step: skim
+priority: low
+slack_ts: '1790832418.956429'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SNIP++: Fine-Grained Symbolic-Numerical Alignment for Symbolic Regression'
 ---
 # SNIP++: Fine-Grained Symbolic-Numerical Alignment for Symbolic Regression
 > 原文: [https://arxiv.org/abs/2609.31965](https://arxiv.org/abs/2609.31965)

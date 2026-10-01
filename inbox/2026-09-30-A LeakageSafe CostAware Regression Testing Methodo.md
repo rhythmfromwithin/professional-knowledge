@@ -1,11 +1,12 @@
 ---
-title: "A Leakage-Safe, Cost-Aware Regression Testing Methodology for the Quantum Transpiler"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.35834
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35834
 next_step: skim
+priority: low
+slack_ts: '1790832421.144489'
+source: cs.SE - Software Engineering
+status: unread
+title: A Leakage-Safe, Cost-Aware Regression Testing Methodology for the Quantum Transpiler
 ---
 # A Leakage-Safe, Cost-Aware Regression Testing Methodology for the Quantum Transpiler
 > 原文: [https://arxiv.org/abs/2609.35834](https://arxiv.org/abs/2609.35834)

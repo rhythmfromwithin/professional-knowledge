@@ -1,11 +1,13 @@
 ---
-title: "Cross-attention encoding models reveal dynamic spatiotemporal routing across human higher visual cortex"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.36366
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36366
 next_step: skim
+priority: low
+slack_ts: '1790832423.921199'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Cross-attention encoding models reveal dynamic spatiotemporal routing across
+  human higher visual cortex
 ---
 # Cross-attention encoding models reveal dynamic spatiotemporal routing across human higher visual cortex
 > 原文: [https://arxiv.org/abs/2609.36366](https://arxiv.org/abs/2609.36366)

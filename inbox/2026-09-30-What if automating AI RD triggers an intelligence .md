@@ -1,11 +1,12 @@
 ---
-title: "What if automating AI R&D triggers an intelligence explosion?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.36054
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36054
 next_step: skim
+priority: medium
+slack_ts: '1790832430.807239'
+source: cs.CY - Computers and Society
+status: unread
+title: What if automating AI R&D triggers an intelligence explosion?
 ---
 # What if automating AI R&D triggers an intelligence explosion?
 > 原文: [https://arxiv.org/abs/2609.36054](https://arxiv.org/abs/2609.36054)

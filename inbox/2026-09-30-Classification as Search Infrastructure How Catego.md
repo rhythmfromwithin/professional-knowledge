@@ -1,11 +1,13 @@
 ---
-title: "Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.37343
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.37343
 next_step: skim
+priority: low
+slack_ts: '1790832423.603739'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Classification as Search Infrastructure: How Category Creation, Addition and
+  Cleanup Shape Knowledge Retrieval'
 ---
 # Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval
 > 原文: [https://arxiv.org/abs/2609.37343](https://arxiv.org/abs/2609.37343)
