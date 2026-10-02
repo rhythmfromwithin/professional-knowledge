@@ -1,11 +1,12 @@
 ---
-title: "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.35799
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35799
 next_step: skim
+priority: high
+slack_ts: '1790918084.995239'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing'
 ---
 # OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing
 > 原文: [https://arxiv.org/abs/2609.35799](https://arxiv.org/abs/2609.35799)

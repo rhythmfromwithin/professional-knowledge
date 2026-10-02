@@ -1,11 +1,12 @@
 ---
-title: "A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.39058
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.39058
 next_step: skim
+priority: low
+slack_ts: '1790918087.778639'
+source: cs.DB - Databases
+status: unread
+title: A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks
 ---
 # A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks
 > 原文: [https://arxiv.org/abs/2609.39058](https://arxiv.org/abs/2609.39058)

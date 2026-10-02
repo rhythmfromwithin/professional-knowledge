@@ -1,11 +1,12 @@
 ---
-title: "Introducing dots"
-source: "OpenAI Blog"
-link: https://openai.com/index/introducing-dots
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/introducing-dots
 next_step: skim
+priority: high
+slack_ts: '1790918084.033779'
+source: OpenAI Blog
+status: unread
+title: Introducing dots
 ---
 # Introducing dots
 > 原文: [https://openai.com/index/introducing-dots](https://openai.com/index/introducing-dots)

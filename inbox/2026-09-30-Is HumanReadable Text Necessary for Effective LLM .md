@@ -1,11 +1,12 @@
 ---
-title: "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.35868
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35868
 next_step: skim
+priority: high
+slack_ts: '1790918084.202249'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?
 ---
 # Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?
 > 原文: [https://arxiv.org/abs/2609.35868](https://arxiv.org/abs/2609.35868)

@@ -1,11 +1,12 @@
 ---
-title: "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.35833
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35833
 next_step: skim
+priority: high
+slack_ts: '1790918084.689089'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices
 ---
 # Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices
 > 原文: [https://arxiv.org/abs/2609.35833](https://arxiv.org/abs/2609.35833)

@@ -1,11 +1,12 @@
 ---
-title: "In-Context Learning for Robots: Methods and Applications"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.36012
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36012
 next_step: skim
+priority: medium
+slack_ts: '1790918083.638379'
+source: cs.RO - Robotics
+status: unread
+title: 'In-Context Learning for Robots: Methods and Applications'
 ---
 # In-Context Learning for Robots: Methods and Applications
 > 原文: [https://arxiv.org/abs/2609.36012](https://arxiv.org/abs/2609.36012)

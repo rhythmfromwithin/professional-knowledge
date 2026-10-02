@@ -1,11 +1,13 @@
 ---
-title: "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/
 next_step: skim
+priority: high
+slack_ts: '1790918088.057339'
+source: AWS Blog
+status: unread
+title: Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and
+  Parquet data in your data lake
 ---
 # Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/)

@@ -1,11 +1,12 @@
 ---
-title: "NeuroDyn-EEG: An Interpretable Pre-trained Model for EEG Based on Neural Dynamics"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.36773
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36773
 next_step: skim
+priority: low
+slack_ts: '1790918084.596519'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'NeuroDyn-EEG: An Interpretable Pre-trained Model for EEG Based on Neural Dynamics'
 ---
 # NeuroDyn-EEG: An Interpretable Pre-trained Model for EEG Based on Neural Dynamics
 > 原文: [https://arxiv.org/abs/2609.36773](https://arxiv.org/abs/2609.36773)

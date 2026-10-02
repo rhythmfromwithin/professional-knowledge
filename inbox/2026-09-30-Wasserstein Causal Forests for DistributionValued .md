@@ -1,11 +1,12 @@
 ---
-title: "Wasserstein Causal Forests for Distribution-Valued Outcomes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.35898
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35898
 next_step: skim
+priority: medium
+slack_ts: '1790918087.547129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Wasserstein Causal Forests for Distribution-Valued Outcomes
 ---
 # Wasserstein Causal Forests for Distribution-Valued Outcomes
 > 原文: [https://arxiv.org/abs/2609.35898](https://arxiv.org/abs/2609.35898)

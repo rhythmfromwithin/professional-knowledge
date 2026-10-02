@@ -1,11 +1,12 @@
 ---
-title: "MoFlow: Multi-Objective Agentic Workflow Generation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.38294
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38294
 next_step: skim
+priority: high
+slack_ts: '1790918090.644919'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MoFlow: Multi-Objective Agentic Workflow Generation'
 ---
 # MoFlow: Multi-Objective Agentic Workflow Generation
 > 原文: [https://arxiv.org/abs/2609.38294](https://arxiv.org/abs/2609.38294)

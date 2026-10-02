@@ -1,11 +1,13 @@
 ---
-title: "Passive-Dynamic-Walking-Inspired Dynamics Guidance for Energy-Efficient Humanoid Locomotion"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.35935
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35935
 next_step: skim
+priority: medium
+slack_ts: '1790918085.409359'
+source: cs.RO - Robotics
+status: unread
+title: Passive-Dynamic-Walking-Inspired Dynamics Guidance for Energy-Efficient Humanoid
+  Locomotion
 ---
 # Passive-Dynamic-Walking-Inspired Dynamics Guidance for Energy-Efficient Humanoid Locomotion
 > 原文: [https://arxiv.org/abs/2609.35935](https://arxiv.org/abs/2609.35935)

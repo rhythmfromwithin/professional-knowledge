@@ -1,11 +1,12 @@
 ---
-title: "Belief-Based Maximum Occupancy Principle and Active Inference"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.39342
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.39342
 next_step: skim
+priority: low
+slack_ts: '1790918088.598109'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Belief-Based Maximum Occupancy Principle and Active Inference
 ---
 # Belief-Based Maximum Occupancy Principle and Active Inference
 > 原文: [https://arxiv.org/abs/2609.39342](https://arxiv.org/abs/2609.39342)

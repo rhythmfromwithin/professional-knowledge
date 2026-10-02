@@ -1,11 +1,13 @@
 ---
-title: "SAKI: Skill Assembly and Kinematic Imitation from Human Videos for Long-Horizon Mobile Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.36031
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36031
 next_step: skim
+priority: medium
+slack_ts: '1790918085.870069'
+source: cs.RO - Robotics
+status: unread
+title: 'SAKI: Skill Assembly and Kinematic Imitation from Human Videos for Long-Horizon
+  Mobile Manipulation'
 ---
 # SAKI: Skill Assembly and Kinematic Imitation from Human Videos for Long-Horizon Mobile Manipulation
 > 原文: [https://arxiv.org/abs/2609.36031](https://arxiv.org/abs/2609.36031)

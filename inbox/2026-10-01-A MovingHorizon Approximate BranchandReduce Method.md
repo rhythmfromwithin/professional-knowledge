@@ -1,11 +1,13 @@
 ---
-title: "A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.38194
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38194
 next_step: skim
+priority: high
+slack_ts: '1790918087.870279'
+source: cs.LG - Machine Learning
+status: unread
+title: A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification
+  Trees
 ---
 # A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees
 > 原文: [https://arxiv.org/abs/2609.38194](https://arxiv.org/abs/2609.38194)

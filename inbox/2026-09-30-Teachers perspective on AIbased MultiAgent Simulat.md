@@ -1,11 +1,13 @@
 ---
-title: "Teachers' perspective on AI-based Multi-Agent Simulation Design to Combat School Bullying"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.35776
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35776
 next_step: skim
+priority: low
+slack_ts: '1790918087.320089'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Teachers' perspective on AI-based Multi-Agent Simulation Design to Combat School
+  Bullying
 ---
 # Teachers' perspective on AI-based Multi-Agent Simulation Design to Combat School Bullying
 > 原文: [https://arxiv.org/abs/2609.35776](https://arxiv.org/abs/2609.35776)

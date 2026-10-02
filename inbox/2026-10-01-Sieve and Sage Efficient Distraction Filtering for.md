@@ -1,11 +1,12 @@
 ---
-title: "Sieve and Sage: Efficient Distraction Filtering for Reliable RALM Abstention"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.35794
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35794
 next_step: skim
+priority: high
+slack_ts: '1790918091.667859'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Sieve and Sage: Efficient Distraction Filtering for Reliable RALM Abstention'
 ---
 # Sieve and Sage: Efficient Distraction Filtering for Reliable RALM Abstention
 > 原文: [https://arxiv.org/abs/2609.35794](https://arxiv.org/abs/2609.35794)

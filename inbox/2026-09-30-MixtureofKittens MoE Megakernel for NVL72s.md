@@ -1,11 +1,12 @@
 ---
-title: "Mixture-of-Kittens: MoE Megakernel for NVL72s"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.36070
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36070
 next_step: skim
+priority: medium
+slack_ts: '1790918084.432409'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Mixture-of-Kittens: MoE Megakernel for NVL72s'
 ---
 # Mixture-of-Kittens: MoE Megakernel for NVL72s
 > 原文: [https://arxiv.org/abs/2609.36070](https://arxiv.org/abs/2609.36070)

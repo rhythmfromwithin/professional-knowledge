@@ -1,11 +1,13 @@
 ---
-title: "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/
 next_step: skim
+priority: high
+slack_ts: '1790918088.898239'
+source: AWS Blog
+status: unread
+title: Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime
+  Instances
 ---
 # Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/](https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/)

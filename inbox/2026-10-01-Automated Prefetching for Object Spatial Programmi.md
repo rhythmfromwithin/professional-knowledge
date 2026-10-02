@@ -1,11 +1,12 @@
 ---
-title: "Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.38439
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38439
 next_step: skim
+priority: low
+slack_ts: '1790918088.528319'
+source: cs.DB - Databases
+status: unread
+title: Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs
 ---
 # Automated Prefetching for Object Spatial Programming Using Temporal Trace Graphs
 > 原文: [https://arxiv.org/abs/2609.38439](https://arxiv.org/abs/2609.38439)

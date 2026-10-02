@@ -1,11 +1,13 @@
 ---
-title: "Massively Parallel Reinforcement Learning with a Chaotic Reconfigurable Clockless Chip"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.36347
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36347
 next_step: skim
+priority: low
+slack_ts: '1790918084.348859'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Massively Parallel Reinforcement Learning with a Chaotic Reconfigurable Clockless
+  Chip
 ---
 # Massively Parallel Reinforcement Learning with a Chaotic Reconfigurable Clockless Chip
 > 原文: [https://arxiv.org/abs/2609.36347](https://arxiv.org/abs/2609.36347)

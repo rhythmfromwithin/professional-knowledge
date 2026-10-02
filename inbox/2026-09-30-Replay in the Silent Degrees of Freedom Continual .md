@@ -1,11 +1,13 @@
 ---
-title: "Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.31630
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31630
 next_step: skim
+priority: high
+slack_ts: '1790918085.633849'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline
+  Phase'
 ---
 # Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase
 > 原文: [https://arxiv.org/abs/2609.31630](https://arxiv.org/abs/2609.31630)

@@ -1,11 +1,12 @@
 ---
-title: "Acceleration of Diffusion Language Model through Discrete Average Generator"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.38364
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38364
 next_step: skim
+priority: medium
+slack_ts: '1790918087.942449'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Acceleration of Diffusion Language Model through Discrete Average Generator
 ---
 # Acceleration of Diffusion Language Model through Discrete Average Generator
 > 原文: [https://arxiv.org/abs/2609.38364](https://arxiv.org/abs/2609.38364)

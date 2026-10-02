@@ -1,11 +1,12 @@
 ---
-title: "SAIVE: Selecting AI Valuable Entities"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.36512
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36512
 next_step: skim
+priority: low
+slack_ts: '1790918085.788289'
+source: cs.DB - Databases
+status: unread
+title: 'SAIVE: Selecting AI Valuable Entities'
 ---
 # SAIVE: Selecting AI Valuable Entities
 > 原文: [https://arxiv.org/abs/2609.36512](https://arxiv.org/abs/2609.36512)

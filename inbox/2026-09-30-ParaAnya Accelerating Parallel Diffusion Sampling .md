@@ -1,11 +1,13 @@
 ---
-title: "ParaAnya: Accelerating Parallel Diffusion Sampling with Plug-and-Play Output Caching"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.36522
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.36522
 next_step: skim
+priority: medium
+slack_ts: '1790918085.248839'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'ParaAnya: Accelerating Parallel Diffusion Sampling with Plug-and-Play Output
+  Caching'
 ---
 # ParaAnya: Accelerating Parallel Diffusion Sampling with Plug-and-Play Output Caching
 > 原文: [https://arxiv.org/abs/2609.36522](https://arxiv.org/abs/2609.36522)

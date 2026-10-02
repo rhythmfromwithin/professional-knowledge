@@ -1,11 +1,13 @@
 ---
-title: "SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.35775
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35775
 next_step: skim
+priority: low
+slack_ts: '1790918086.865349'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous
+  Edge-Cloud GUI Grounding'
 ---
 # SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding
 > 原文: [https://arxiv.org/abs/2609.35775](https://arxiv.org/abs/2609.35775)

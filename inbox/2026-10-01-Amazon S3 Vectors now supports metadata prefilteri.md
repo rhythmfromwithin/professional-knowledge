@@ -1,11 +1,13 @@
 ---
-title: "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/
 next_step: skim
+priority: high
+slack_ts: '1790918088.307619'
+source: AWS Blog
+status: unread
+title: Amazon S3 Vectors now supports metadata pre-filtering for higher recall on
+  filtered searches
 ---
 # Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches
 > 原文: [https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/)

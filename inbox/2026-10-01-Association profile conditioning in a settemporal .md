@@ -1,11 +1,13 @@
 ---
-title: "Association profile conditioning in a set-temporal transformer for cross-session intracortical motor decoding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.39080
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.39080
 next_step: skim
+priority: low
+slack_ts: '1790918088.454089'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Association profile conditioning in a set-temporal transformer for cross-session
+  intracortical motor decoding
 ---
 # Association profile conditioning in a set-temporal transformer for cross-session intracortical motor decoding
 > 原文: [https://arxiv.org/abs/2609.39080](https://arxiv.org/abs/2609.39080)

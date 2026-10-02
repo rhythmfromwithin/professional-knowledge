@@ -1,11 +1,13 @@
 ---
-title: "OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal Matching Pursuit"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.31631
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.31631
 next_step: skim
+priority: high
+slack_ts: '1790918084.834699'
+source: cs.LG - Machine Learning
+status: unread
+title: 'OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal
+  Matching Pursuit'
 ---
 # OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal Matching Pursuit
 > 原文: [https://arxiv.org/abs/2609.31631](https://arxiv.org/abs/2609.31631)

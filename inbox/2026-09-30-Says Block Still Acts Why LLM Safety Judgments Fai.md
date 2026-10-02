@@ -1,11 +1,13 @@
 ---
-title: "Says Block, Still Acts: Why LLM Safety Judgments Fail to Govern Action in LLM Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2609.35870
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35870
 next_step: skim
+priority: low
+slack_ts: '1790918087.028689'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Says Block, Still Acts: Why LLM Safety Judgments Fail to Govern Action in
+  LLM Agents'
 ---
 # Says Block, Still Acts: Why LLM Safety Judgments Fail to Govern Action in LLM Agents
 > 原文: [https://arxiv.org/abs/2609.35870](https://arxiv.org/abs/2609.35870)

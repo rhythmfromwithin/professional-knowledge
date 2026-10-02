@@ -1,11 +1,13 @@
 ---
-title: "Anthropomorphism in the age of Large Language Models: An overview of potential risks and mitigations"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.38486
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38486
 next_step: skim
+priority: medium
+slack_ts: '1790918088.382629'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Anthropomorphism in the age of Large Language Models: An overview of potential
+  risks and mitigations'
 ---
 # Anthropomorphism in the age of Large Language Models: An overview of potential risks and mitigations
 > 原文: [https://arxiv.org/abs/2609.38486](https://arxiv.org/abs/2609.38486)
