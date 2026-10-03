@@ -1,11 +1,13 @@
 ---
-title: "Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb Replacement"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.38216
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38216
 next_step: skim
+priority: medium
+slack_ts: '1791003461.466599'
+source: cs.RO - Robotics
+status: unread
+title: 'Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb
+  Replacement'
 ---
 # Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb Replacement
 > 原文: [https://arxiv.org/abs/2609.38216](https://arxiv.org/abs/2609.38216)

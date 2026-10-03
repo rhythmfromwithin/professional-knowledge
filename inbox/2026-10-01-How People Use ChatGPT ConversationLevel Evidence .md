@@ -1,11 +1,13 @@
 ---
-title: "How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil, and Pakistan"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.38279
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38279
 next_step: skim
+priority: medium
+slack_ts: '1791003462.703429'
+source: cs.CY - Computers and Society
+status: unread
+title: 'How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil,
+  and Pakistan'
 ---
 # How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil, and Pakistan
 > 原文: [https://arxiv.org/abs/2609.38279](https://arxiv.org/abs/2609.38279)

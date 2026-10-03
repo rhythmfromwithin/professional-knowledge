@@ -1,11 +1,12 @@
 ---
-title: "Safety in Self-Evolving Agents: A Survey"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.00093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00093
 next_step: skim
+priority: low
+slack_ts: '1791003479.152599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Safety in Self-Evolving Agents: A Survey'
 ---
 # Safety in Self-Evolving Agents: A Survey
 > 原文: [https://arxiv.org/abs/2610.00093](https://arxiv.org/abs/2610.00093)

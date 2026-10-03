@@ -1,11 +1,12 @@
 ---
-title: "E2E-SWE: Benchmarking LLMs on Building Working Codebases from Scratch"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.38335
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38335
 next_step: skim
+priority: low
+slack_ts: '1791003460.693359'
+source: cs.SE - Software Engineering
+status: unread
+title: 'E2E-SWE: Benchmarking LLMs on Building Working Codebases from Scratch'
 ---
 # E2E-SWE: Benchmarking LLMs on Building Working Codebases from Scratch
 > 原文: [https://arxiv.org/abs/2609.38335](https://arxiv.org/abs/2609.38335)

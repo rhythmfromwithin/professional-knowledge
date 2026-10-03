@@ -1,11 +1,13 @@
 ---
-title: "A Comprehensive Evaluation Framework for Conversational Home Energy Management Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.00073
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00073
 next_step: skim
+priority: low
+slack_ts: '1791003469.852069'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Comprehensive Evaluation Framework for Conversational Home Energy Management
+  Systems
 ---
 # A Comprehensive Evaluation Framework for Conversational Home Energy Management Systems
 > 原文: [https://arxiv.org/abs/2610.00073](https://arxiv.org/abs/2610.00073)

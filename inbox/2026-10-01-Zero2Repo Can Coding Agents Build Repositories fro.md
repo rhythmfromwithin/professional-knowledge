@@ -1,11 +1,12 @@
 ---
-title: "Zero2Repo: Can Coding Agents Build Repositories from Scratch?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.38269
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38269
 next_step: skim
+priority: low
+slack_ts: '1791003469.692509'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Zero2Repo: Can Coding Agents Build Repositories from Scratch?'
 ---
 # Zero2Repo: Can Coding Agents Build Repositories from Scratch?
 > 原文: [https://arxiv.org/abs/2609.38269](https://arxiv.org/abs/2609.38269)

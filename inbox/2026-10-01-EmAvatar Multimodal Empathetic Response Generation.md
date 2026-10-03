@@ -1,11 +1,13 @@
 ---
-title: "EmAvatar: Multimodal Empathetic Response Generation via Conflict Resolution and Expressive Guidance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.38182
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38182
 next_step: skim
+priority: low
+slack_ts: '1791003460.875659'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'EmAvatar: Multimodal Empathetic Response Generation via Conflict Resolution
+  and Expressive Guidance'
 ---
 # EmAvatar: Multimodal Empathetic Response Generation via Conflict Resolution and Expressive Guidance
 > 原文: [https://arxiv.org/abs/2609.38182](https://arxiv.org/abs/2609.38182)

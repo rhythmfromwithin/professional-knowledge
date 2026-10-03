@@ -1,11 +1,13 @@
 ---
-title: "Masked Swingers: Harnessing Data Augmentation to Advance Autoencoders for Self-Supervised Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.38278
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38278
 next_step: skim
+priority: medium
+slack_ts: '1791003465.010309'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Masked Swingers: Harnessing Data Augmentation to Advance Autoencoders for
+  Self-Supervised Learning'
 ---
 # Masked Swingers: Harnessing Data Augmentation to Advance Autoencoders for Self-Supervised Learning
 > 原文: [https://arxiv.org/abs/2609.38278](https://arxiv.org/abs/2609.38278)

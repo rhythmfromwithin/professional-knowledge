@@ -1,11 +1,13 @@
 ---
-title: "Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.00422
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00422
 next_step: skim
+priority: medium
+slack_ts: '1791003475.087179'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Learning to Cover Locally: Graph Neural Combinatorial Optimization under a
+  Hard Information Horizon'
 ---
 # Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon
 > 原文: [https://arxiv.org/abs/2610.00422](https://arxiv.org/abs/2610.00422)

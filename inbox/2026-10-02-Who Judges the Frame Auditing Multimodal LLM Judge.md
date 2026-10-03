@@ -1,11 +1,13 @@
 ---
-title: "Who Judges the Frame? Auditing Multimodal LLM Judges for News Framing Across Event-Level Perspectives"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.00071
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00071
 next_step: skim
+priority: medium
+slack_ts: '1791003483.240349'
+source: cs.CY - Computers and Society
+status: unread
+title: Who Judges the Frame? Auditing Multimodal LLM Judges for News Framing Across
+  Event-Level Perspectives
 ---
 # Who Judges the Frame? Auditing Multimodal LLM Judges for News Framing Across Event-Level Perspectives
 > 原文: [https://arxiv.org/abs/2610.00071](https://arxiv.org/abs/2610.00071)

@@ -1,11 +1,13 @@
 ---
-title: "Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2609.38495
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38495
 next_step: skim
+priority: low
+slack_ts: '1791003460.459859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The
+  Motivated Emotional Mind Challenge
 ---
 # Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge
 > 原文: [https://arxiv.org/abs/2609.38495](https://arxiv.org/abs/2609.38495)

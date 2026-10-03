@@ -1,11 +1,13 @@
 ---
-title: "SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.38225
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38225
 next_step: skim
+priority: medium
+slack_ts: '1791003468.638859'
+source: cs.RO - Robotics
+status: unread
+title: 'SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration
+  Datasets'
 ---
 # SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets
 > 原文: [https://arxiv.org/abs/2609.38225](https://arxiv.org/abs/2609.38225)

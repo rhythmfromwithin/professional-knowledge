@@ -1,11 +1,12 @@
 ---
-title: "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2609.38282
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38282
 next_step: skim
+priority: high
+slack_ts: '1791003463.198709'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation
 ---
 # Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation
 > 原文: [https://arxiv.org/abs/2609.38282](https://arxiv.org/abs/2609.38282)

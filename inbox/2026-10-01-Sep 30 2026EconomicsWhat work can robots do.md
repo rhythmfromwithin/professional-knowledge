@@ -1,11 +1,12 @@
 ---
-title: "Sep 30, 2026EconomicsWhat work can robots do?"
-source: "Anthropic"
-link: https://www.anthropic.com/research/what-work-can-robots-do
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/what-work-can-robots-do
 next_step: skim
+priority: high
+slack_ts: '1791003468.280349'
+source: Anthropic
+status: unread
+title: Sep 30, 2026EconomicsWhat work can robots do?
 ---
 # Sep 30, 2026EconomicsWhat work can robots do?
 > 原文: [https://www.anthropic.com/research/what-work-can-robots-do](https://www.anthropic.com/research/what-work-can-robots-do)

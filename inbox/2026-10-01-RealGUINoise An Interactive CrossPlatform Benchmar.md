@@ -1,11 +1,13 @@
 ---
-title: "RealGUINoise: An Interactive Cross-Platform Benchmark for GUI Agent Robustness under Real-World Interface Noise"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.38184
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38184
 next_step: skim
+priority: low
+slack_ts: '1791003467.394099'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'RealGUINoise: An Interactive Cross-Platform Benchmark for GUI Agent Robustness
+  under Real-World Interface Noise'
 ---
 # RealGUINoise: An Interactive Cross-Platform Benchmark for GUI Agent Robustness under Real-World Interface Noise
 > 原文: [https://arxiv.org/abs/2609.38184](https://arxiv.org/abs/2609.38184)

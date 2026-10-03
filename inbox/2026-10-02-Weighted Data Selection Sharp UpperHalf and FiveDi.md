@@ -1,11 +1,12 @@
 ---
-title: "Weighted Data Selection: Sharp Upper-Half and Five-Dimensional Laws"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.00101
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00101
 next_step: skim
+priority: medium
+slack_ts: '1791003482.111639'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Weighted Data Selection: Sharp Upper-Half and Five-Dimensional Laws'
 ---
 # Weighted Data Selection: Sharp Upper-Half and Five-Dimensional Laws
 > 原文: [https://arxiv.org/abs/2610.00101](https://arxiv.org/abs/2610.00101)

@@ -1,11 +1,13 @@
 ---
-title: "One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2609.38183
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38183
 next_step: skim
+priority: low
+slack_ts: '1791003465.837009'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual
+  Creativity
 ---
 # One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
 > 原文: [https://arxiv.org/abs/2609.38183](https://arxiv.org/abs/2609.38183)

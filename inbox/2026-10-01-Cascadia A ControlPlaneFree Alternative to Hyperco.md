@@ -1,11 +1,12 @@
 ---
-title: "Cascadia: A Control-Plane-Free Alternative to Hyperconverged AI Infrastructure"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.38697
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38697
 next_step: skim
+priority: medium
+slack_ts: '1791003459.099769'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Cascadia: A Control-Plane-Free Alternative to Hyperconverged AI Infrastructure'
 ---
 # Cascadia: A Control-Plane-Free Alternative to Hyperconverged AI Infrastructure
 > 原文: [https://arxiv.org/abs/2609.38697](https://arxiv.org/abs/2609.38697)

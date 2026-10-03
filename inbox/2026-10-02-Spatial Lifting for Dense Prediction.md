@@ -1,11 +1,12 @@
 ---
-title: "Spatial Lifting for Dense Prediction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.00017
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00017
 next_step: skim
+priority: medium
+slack_ts: '1791003480.089329'
+source: cs.CV - Computer Vision
+status: unread
+title: Spatial Lifting for Dense Prediction
 ---
 # Spatial Lifting for Dense Prediction
 > 原文: [https://arxiv.org/abs/2610.00017](https://arxiv.org/abs/2610.00017)

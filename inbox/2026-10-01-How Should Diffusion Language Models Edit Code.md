@@ -1,11 +1,12 @@
 ---
-title: "How Should Diffusion Language Models Edit Code?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2609.38257
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38257
 next_step: skim
+priority: low
+slack_ts: '1791003462.864349'
+source: cs.SE - Software Engineering
+status: unread
+title: How Should Diffusion Language Models Edit Code?
 ---
 # How Should Diffusion Language Models Edit Code?
 > 原文: [https://arxiv.org/abs/2609.38257](https://arxiv.org/abs/2609.38257)

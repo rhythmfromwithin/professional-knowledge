@@ -1,11 +1,12 @@
 ---
-title: "Why China Succeeds: A Road to Prosperity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.05804
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.05804
 next_step: skim
+priority: low
+slack_ts: '1791003469.522239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Why China Succeeds: A Road to Prosperity'
 ---
 # Why China Succeeds: A Road to Prosperity
 > 原文: [https://arxiv.org/abs/2609.05804](https://arxiv.org/abs/2609.05804)

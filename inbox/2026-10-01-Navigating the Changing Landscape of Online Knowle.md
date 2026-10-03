@@ -1,11 +1,13 @@
 ---
-title: "Navigating the Changing Landscape of Online Knowledge Consumption and Production in the Age of Generative AI: Evidence from Stack Overflow"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2609.38563
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38563
 next_step: skim
+priority: medium
+slack_ts: '1791003465.182449'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Navigating the Changing Landscape of Online Knowledge Consumption and Production
+  in the Age of Generative AI: Evidence from Stack Overflow'
 ---
 # Navigating the Changing Landscape of Online Knowledge Consumption and Production in the Age of Generative AI: Evidence from Stack Overflow
 > 原文: [https://arxiv.org/abs/2609.38563](https://arxiv.org/abs/2609.38563)

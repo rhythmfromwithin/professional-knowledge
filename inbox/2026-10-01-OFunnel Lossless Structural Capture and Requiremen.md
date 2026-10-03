@@ -1,11 +1,13 @@
 ---
-title: "O-Funnel: Lossless Structural Capture and Requirement-Driven Extraction from Drifting, Heterogeneous Documents"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2609.39209
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.39209
 next_step: skim
+priority: low
+slack_ts: '1791003465.681879'
+source: cs.DB - Databases
+status: unread
+title: 'O-Funnel: Lossless Structural Capture and Requirement-Driven Extraction from
+  Drifting, Heterogeneous Documents'
 ---
 # O-Funnel: Lossless Structural Capture and Requirement-Driven Extraction from Drifting, Heterogeneous Documents
 > 原文: [https://arxiv.org/abs/2609.39209](https://arxiv.org/abs/2609.39209)

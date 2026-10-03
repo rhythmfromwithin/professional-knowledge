@@ -1,11 +1,13 @@
 ---
-title: "Null-model treatment of the sensory-motor boundary changes an evolutionary connectome comparison"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.39248
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.39248
 next_step: skim
+priority: low
+slack_ts: '1791003465.517989'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Null-model treatment of the sensory-motor boundary changes an evolutionary
+  connectome comparison
 ---
 # Null-model treatment of the sensory-motor boundary changes an evolutionary connectome comparison
 > 原文: [https://arxiv.org/abs/2609.39248](https://arxiv.org/abs/2609.39248)

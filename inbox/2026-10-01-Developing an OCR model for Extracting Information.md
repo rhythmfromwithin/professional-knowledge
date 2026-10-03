@@ -1,11 +1,13 @@
 ---
-title: "Developing an OCR model for Extracting Information from Invoices with Korean Language"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2609.35796
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.35796
 next_step: skim
+priority: high
+slack_ts: '1791003459.812049'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Developing an OCR model for Extracting Information from Invoices with Korean
+  Language
 ---
 # Developing an OCR model for Extracting Information from Invoices with Korean Language
 > 原文: [https://arxiv.org/abs/2609.35796](https://arxiv.org/abs/2609.35796)

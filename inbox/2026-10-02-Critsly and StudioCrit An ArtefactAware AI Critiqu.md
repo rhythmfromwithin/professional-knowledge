@@ -1,11 +1,13 @@
 ---
-title: "Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.00085
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00085
 next_step: skim
+priority: low
+slack_ts: '1791003472.091949'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based
+  Readiness Study for Design Education'
 ---
 # Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education
 > 原文: [https://arxiv.org/abs/2610.00085](https://arxiv.org/abs/2610.00085)

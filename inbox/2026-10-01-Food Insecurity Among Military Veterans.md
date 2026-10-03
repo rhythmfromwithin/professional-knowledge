@@ -1,11 +1,12 @@
 ---
-title: "Food Insecurity Among Military Veterans"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2609.39932
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.39932
 next_step: skim
+priority: low
+slack_ts: '1791003461.662629'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Food Insecurity Among Military Veterans
 ---
 # Food Insecurity Among Military Veterans
 > 原文: [https://arxiv.org/abs/2609.39932](https://arxiv.org/abs/2609.39932)

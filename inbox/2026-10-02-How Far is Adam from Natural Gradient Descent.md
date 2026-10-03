@@ -1,11 +1,12 @@
 ---
-title: "How Far is Adam from Natural Gradient Descent?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.00004
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00004
 next_step: skim
+priority: high
+slack_ts: '1791003474.108109'
+source: cs.LG - Machine Learning
+status: unread
+title: How Far is Adam from Natural Gradient Descent?
 ---
 # How Far is Adam from Natural Gradient Descent?
 > 原文: [https://arxiv.org/abs/2610.00004](https://arxiv.org/abs/2610.00004)

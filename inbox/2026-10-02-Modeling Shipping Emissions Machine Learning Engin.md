@@ -1,11 +1,12 @@
 ---
-title: "Modeling Shipping Emissions: Machine Learning, Engineering, and Policy Counterfactuals"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.01008
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.01008
 next_step: skim
+priority: low
+slack_ts: '1791003476.188839'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Modeling Shipping Emissions: Machine Learning, Engineering, and Policy Counterfactuals'
 ---
 # Modeling Shipping Emissions: Machine Learning, Engineering, and Policy Counterfactuals
 > 原文: [https://arxiv.org/abs/2610.01008](https://arxiv.org/abs/2610.01008)

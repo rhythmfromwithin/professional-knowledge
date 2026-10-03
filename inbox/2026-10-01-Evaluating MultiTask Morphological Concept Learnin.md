@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.38271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38271
 next_step: skim
+priority: medium
+slack_ts: '1791003461.085409'
+source: cs.CV - Computer Vision
+status: unread
+title: Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy
+  Assessment in 3D CT
 ---
 # Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT
 > 原文: [https://arxiv.org/abs/2609.38271](https://arxiv.org/abs/2609.38271)

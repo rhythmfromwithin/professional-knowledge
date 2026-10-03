@@ -1,11 +1,12 @@
 ---
-title: "GaugeVLM: Structuring Spatial Supervision with Measured Geometric Interventions"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2609.38285
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38285
 next_step: skim
+priority: medium
+slack_ts: '1791003461.867269'
+source: cs.CV - Computer Vision
+status: unread
+title: 'GaugeVLM: Structuring Spatial Supervision with Measured Geometric Interventions'
 ---
 # GaugeVLM: Structuring Spatial Supervision with Measured Geometric Interventions
 > 原文: [https://arxiv.org/abs/2609.38285](https://arxiv.org/abs/2609.38285)

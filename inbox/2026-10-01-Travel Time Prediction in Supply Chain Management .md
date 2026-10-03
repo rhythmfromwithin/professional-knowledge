@@ -1,11 +1,12 @@
 ---
-title: "Travel Time Prediction in Supply Chain Management Using Machine Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2609.38190
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38190
 next_step: skim
+priority: high
+slack_ts: '1791003469.190899'
+source: cs.LG - Machine Learning
+status: unread
+title: Travel Time Prediction in Supply Chain Management Using Machine Learning
 ---
 # Travel Time Prediction in Supply Chain Management Using Machine Learning
 > 原文: [https://arxiv.org/abs/2609.38190](https://arxiv.org/abs/2609.38190)

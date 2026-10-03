@@ -1,11 +1,12 @@
 ---
-title: "Preserving Provenance in Shared KV Caches for LLM Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2609.38706
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38706
 next_step: skim
+priority: medium
+slack_ts: '1791003467.065239'
+source: cs.DC - Distributed Computing
+status: unread
+title: Preserving Provenance in Shared KV Caches for LLM Serving
 ---
 # Preserving Provenance in Shared KV Caches for LLM Serving
 > 原文: [https://arxiv.org/abs/2609.38706](https://arxiv.org/abs/2609.38706)

@@ -1,11 +1,13 @@
 ---
-title: "On-Device Named-Entity Recognition: A Deployability Study of Accuracy, Cost, Reliability, and Confidence"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.00007
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00007
 next_step: skim
+priority: high
+slack_ts: '1791003477.105339'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'On-Device Named-Entity Recognition: A Deployability Study of Accuracy, Cost,
+  Reliability, and Confidence'
 ---
 # On-Device Named-Entity Recognition: A Deployability Study of Accuracy, Cost, Reliability, and Confidence
 > 原文: [https://arxiv.org/abs/2610.00007](https://arxiv.org/abs/2610.00007)

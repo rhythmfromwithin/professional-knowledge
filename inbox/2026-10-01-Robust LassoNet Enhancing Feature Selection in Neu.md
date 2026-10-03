@@ -1,11 +1,13 @@
 ---
-title: "Robust LassoNet: Enhancing Feature Selection in Neural Networks via Robust Loss Functions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2609.38263
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38263
 next_step: skim
+priority: medium
+slack_ts: '1791003467.566639'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Robust LassoNet: Enhancing Feature Selection in Neural Networks via Robust
+  Loss Functions'
 ---
 # Robust LassoNet: Enhancing Feature Selection in Neural Networks via Robust Loss Functions
 > 原文: [https://arxiv.org/abs/2609.38263](https://arxiv.org/abs/2609.38263)

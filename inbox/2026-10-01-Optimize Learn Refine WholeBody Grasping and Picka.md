@@ -1,11 +1,13 @@
 ---
-title: "Optimize, Learn, Refine: Whole-Body Grasping and Pick-and-Throw with a Spiral Soft Robot"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2609.38202
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38202
 next_step: skim
+priority: medium
+slack_ts: '1791003466.197489'
+source: cs.RO - Robotics
+status: unread
+title: 'Optimize, Learn, Refine: Whole-Body Grasping and Pick-and-Throw with a Spiral
+  Soft Robot'
 ---
 # Optimize, Learn, Refine: Whole-Body Grasping and Pick-and-Throw with a Spiral Soft Robot
 > 原文: [https://arxiv.org/abs/2609.38202](https://arxiv.org/abs/2609.38202)

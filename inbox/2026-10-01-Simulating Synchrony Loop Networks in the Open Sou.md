@@ -1,11 +1,12 @@
 ---
-title: "Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2609.38432
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2609.38432
 next_step: skim
+priority: low
+slack_ts: '1791003468.447269'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor
 ---
 # Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor
 > 原文: [https://arxiv.org/abs/2609.38432](https://arxiv.org/abs/2609.38432)

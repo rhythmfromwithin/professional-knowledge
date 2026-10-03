@@ -1,11 +1,12 @@
 ---
-title: "Probabilistic Plan Legibility with Off-the-shelf Planners"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.00065
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00065
 next_step: skim
+priority: medium
+slack_ts: '1791003478.182669'
+source: cs.RO - Robotics
+status: unread
+title: Probabilistic Plan Legibility with Off-the-shelf Planners
 ---
 # Probabilistic Plan Legibility with Off-the-shelf Planners
 > 原文: [https://arxiv.org/abs/2610.00065](https://arxiv.org/abs/2610.00065)
