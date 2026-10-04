@@ -1,11 +1,12 @@
 ---
-title: "The Den frees up 10-15 hours a week to grow with ChatGPT Work"
-source: "OpenAI Blog"
-link: https://openai.com/index/the-den-family-social
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/the-den-family-social
 next_step: skim
+priority: high
+slack_ts: '1791091839.987819'
+source: OpenAI Blog
+status: unread
+title: The Den frees up 10-15 hours a week to grow with ChatGPT Work
 ---
 # The Den frees up 10-15 hours a week to grow with ChatGPT Work
 > 原文: [https://openai.com/index/the-den-family-social](https://openai.com/index/the-den-family-social)

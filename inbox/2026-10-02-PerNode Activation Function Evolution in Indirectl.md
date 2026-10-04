@@ -1,11 +1,13 @@
 ---
-title: "Per-Node Activation Function Evolution in Indirectly Encoded Substrates: Solvability, Limits, and Emergent Diversity"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.00149
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00149
 next_step: skim
+priority: low
+slack_ts: '1791091835.307439'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Per-Node Activation Function Evolution in Indirectly Encoded Substrates: Solvability,
+  Limits, and Emergent Diversity'
 ---
 # Per-Node Activation Function Evolution in Indirectly Encoded Substrates: Solvability, Limits, and Emergent Diversity
 > 原文: [https://arxiv.org/abs/2610.00149](https://arxiv.org/abs/2610.00149)

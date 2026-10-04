@@ -1,11 +1,13 @@
 ---
-title: "Multi-Reference Path Tracking Control for an Agricultural Tractor with Nonlinear Model Predictive Control"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.00057
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00057
 next_step: skim
+priority: medium
+slack_ts: '1791091833.060459'
+source: cs.RO - Robotics
+status: unread
+title: Multi-Reference Path Tracking Control for an Agricultural Tractor with Nonlinear
+  Model Predictive Control
 ---
 # Multi-Reference Path Tracking Control for an Agricultural Tractor with Nonlinear Model Predictive Control
 > 原文: [https://arxiv.org/abs/2610.00057](https://arxiv.org/abs/2610.00057)

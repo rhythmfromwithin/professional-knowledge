@@ -1,11 +1,12 @@
 ---
-title: "Emergent Object Binding Has a Finite Spatial Horizon"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.00006
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00006
 next_step: skim
+priority: medium
+slack_ts: '1791091826.078089'
+source: cs.CV - Computer Vision
+status: unread
+title: Emergent Object Binding Has a Finite Spatial Horizon
 ---
 # Emergent Object Binding Has a Finite Spatial Horizon
 > 原文: [https://arxiv.org/abs/2610.00006](https://arxiv.org/abs/2610.00006)

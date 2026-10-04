@@ -1,11 +1,12 @@
 ---
-title: "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.00009
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00009
 next_step: skim
+priority: high
+slack_ts: '1791091826.963219'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law'
 ---
 # FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law
 > 原文: [https://arxiv.org/abs/2610.00009](https://arxiv.org/abs/2610.00009)

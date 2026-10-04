@@ -1,11 +1,12 @@
 ---
-title: "Serve live, governed data in AI-built apps with Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1791091838.232329'
+source: AWS Blog
+status: unread
+title: Serve live, governed data in AI-built apps with Amazon Quick
 ---
 # Serve live, governed data in AI-built apps with Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)

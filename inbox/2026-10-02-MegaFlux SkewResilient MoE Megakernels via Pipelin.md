@@ -1,11 +1,12 @@
 ---
-title: "MegaFlux: Skew-Resilient MoE Megakernels via Pipelined Expert Replication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.00671
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00671
 next_step: skim
+priority: medium
+slack_ts: '1791091832.460559'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'MegaFlux: Skew-Resilient MoE Megakernels via Pipelined Expert Replication'
 ---
 # MegaFlux: Skew-Resilient MoE Megakernels via Pipelined Expert Replication
 > 原文: [https://arxiv.org/abs/2610.00671](https://arxiv.org/abs/2610.00671)

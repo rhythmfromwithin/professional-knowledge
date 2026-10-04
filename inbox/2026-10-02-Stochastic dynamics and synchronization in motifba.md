@@ -1,11 +1,12 @@
 ---
-title: "Stochastic dynamics and synchronization in motif-based neuronal networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.00597
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00597
 next_step: skim
+priority: low
+slack_ts: '1791091839.122419'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Stochastic dynamics and synchronization in motif-based neuronal networks
 ---
 # Stochastic dynamics and synchronization in motif-based neuronal networks
 > 原文: [https://arxiv.org/abs/2610.00597](https://arxiv.org/abs/2610.00597)

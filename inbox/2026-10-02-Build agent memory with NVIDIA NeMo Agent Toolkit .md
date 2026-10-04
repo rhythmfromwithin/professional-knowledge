@@ -1,11 +1,12 @@
 ---
-title: "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/
 next_step: skim
+priority: high
+slack_ts: '1791091824.443249'
+source: AWS Blog
+status: unread
+title: Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors
 ---
 # Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/](https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/)

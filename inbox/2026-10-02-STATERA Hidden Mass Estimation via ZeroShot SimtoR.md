@@ -1,11 +1,13 @@
 ---
-title: "STATERA: Hidden Mass Estimation via Zero-Shot Sim-to-Real Kinematics using Frozen Temporal Tubelets"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.00003
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00003
 next_step: skim
+priority: medium
+slack_ts: '1791091837.088419'
+source: cs.CV - Computer Vision
+status: unread
+title: 'STATERA: Hidden Mass Estimation via Zero-Shot Sim-to-Real Kinematics using
+  Frozen Temporal Tubelets'
 ---
 # STATERA: Hidden Mass Estimation via Zero-Shot Sim-to-Real Kinematics using Frozen Temporal Tubelets
 > 原文: [https://arxiv.org/abs/2610.00003](https://arxiv.org/abs/2610.00003)

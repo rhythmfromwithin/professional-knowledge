@@ -1,11 +1,13 @@
 ---
-title: "Testing and Verification of Quantum Compilers through Assurance Contracts and Evidence"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.00255
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00255
 next_step: skim
+priority: low
+slack_ts: '1791091839.690759'
+source: cs.SE - Software Engineering
+status: unread
+title: Testing and Verification of Quantum Compilers through Assurance Contracts and
+  Evidence
 ---
 # Testing and Verification of Quantum Compilers through Assurance Contracts and Evidence
 > 原文: [https://arxiv.org/abs/2610.00255](https://arxiv.org/abs/2610.00255)

@@ -1,11 +1,13 @@
 ---
-title: "Zengram-Lite: An In-Browser Agentic-Memory Framework - Semantic Knowledge, Session Tracking, and Token-Budgeted Context"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.00042
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00042
 next_step: skim
+priority: low
+slack_ts: '1791091842.809549'
+source: cs.DB - Databases
+status: unread
+title: 'Zengram-Lite: An In-Browser Agentic-Memory Framework - Semantic Knowledge,
+  Session Tracking, and Token-Budgeted Context'
 ---
 # Zengram-Lite: An In-Browser Agentic-Memory Framework - Semantic Knowledge, Session Tracking, and Token-Budgeted Context
 > 原文: [https://arxiv.org/abs/2610.00042](https://arxiv.org/abs/2610.00042)

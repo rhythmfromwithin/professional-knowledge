@@ -1,11 +1,12 @@
 ---
-title: "Transferable Graph Metanetworks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.00420
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00420
 next_step: skim
+priority: medium
+slack_ts: '1791091841.084609'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Transferable Graph Metanetworks
 ---
 # Transferable Graph Metanetworks
 > 原文: [https://arxiv.org/abs/2610.00420](https://arxiv.org/abs/2610.00420)

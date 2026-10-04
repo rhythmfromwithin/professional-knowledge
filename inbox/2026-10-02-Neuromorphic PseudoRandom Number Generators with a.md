@@ -1,11 +1,12 @@
 ---
-title: "Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.00719
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00719
 next_step: skim
+priority: low
+slack_ts: '1791091833.343899'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation
 ---
 # Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation
 > 原文: [https://arxiv.org/abs/2610.00719](https://arxiv.org/abs/2610.00719)

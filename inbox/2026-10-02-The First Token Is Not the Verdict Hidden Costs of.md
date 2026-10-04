@@ -1,11 +1,13 @@
 ---
-title: "The First Token Is Not the Verdict: Hidden Costs of Reading LLM Judges Without Generating"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.00054
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00054
 next_step: skim
+priority: high
+slack_ts: '1791091840.277159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The First Token Is Not the Verdict: Hidden Costs of Reading LLM Judges Without
+  Generating'
 ---
 # The First Token Is Not the Verdict: Hidden Costs of Reading LLM Judges Without Generating
 > 原文: [https://arxiv.org/abs/2610.00054](https://arxiv.org/abs/2610.00054)

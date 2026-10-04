@@ -1,11 +1,13 @@
 ---
-title: "TeamLens in Critsly: A Consent-Based Team-Composition Interface and Synthetic Readiness Evaluation for Design Collaboration"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.00288
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00288
 next_step: skim
+priority: medium
+slack_ts: '1791091839.398439'
+source: cs.CY - Computers and Society
+status: unread
+title: 'TeamLens in Critsly: A Consent-Based Team-Composition Interface and Synthetic
+  Readiness Evaluation for Design Collaboration'
 ---
 # TeamLens in Critsly: A Consent-Based Team-Composition Interface and Synthetic Readiness Evaluation for Design Collaboration
 > 原文: [https://arxiv.org/abs/2610.00288](https://arxiv.org/abs/2610.00288)

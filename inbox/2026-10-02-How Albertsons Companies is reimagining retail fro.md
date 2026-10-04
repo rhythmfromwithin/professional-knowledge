@@ -1,11 +1,12 @@
 ---
-title: "How Albertsons Companies is reimagining retail from the inside out"
-source: "OpenAI Blog"
-link: https://openai.com/index/albertsons-reimagining-retail
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/albertsons-reimagining-retail
 next_step: skim
+priority: high
+slack_ts: '1791091828.594429'
+source: OpenAI Blog
+status: unread
+title: How Albertsons Companies is reimagining retail from the inside out
 ---
 # How Albertsons Companies is reimagining retail from the inside out
 > 原文: [https://openai.com/index/albertsons-reimagining-retail](https://openai.com/index/albertsons-reimagining-retail)

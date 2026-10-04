@@ -1,11 +1,12 @@
 ---
-title: "Field closure, ice neurons, and when a dendrite is a motif"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.00184
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00184
 next_step: skim
+priority: low
+slack_ts: '1791091826.371789'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Field closure, ice neurons, and when a dendrite is a motif
 ---
 # Field closure, ice neurons, and when a dendrite is a motif
 > 原文: [https://arxiv.org/abs/2610.00184](https://arxiv.org/abs/2610.00184)

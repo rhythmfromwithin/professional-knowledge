@@ -1,11 +1,12 @@
 ---
-title: "When Do Causal World Models Help Modular LLM Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.00012
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00012
 next_step: skim
+priority: high
+slack_ts: '1791091841.930059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Do Causal World Models Help Modular LLM Agents
 ---
 # When Do Causal World Models Help Modular LLM Agents
 > 原文: [https://arxiv.org/abs/2610.00012](https://arxiv.org/abs/2610.00012)

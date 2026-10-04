@@ -1,11 +1,13 @@
 ---
-title: "Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless Architecture and Billing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.00063
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00063
 next_step: skim
+priority: medium
+slack_ts: '1791091835.759609'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless
+  Architecture and Billing'
 ---
 # Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless Architecture and Billing
 > 原文: [https://arxiv.org/abs/2610.00063](https://arxiv.org/abs/2610.00063)

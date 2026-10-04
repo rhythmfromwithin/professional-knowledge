@@ -1,11 +1,13 @@
 ---
-title: "Software Project Management with LLM-Based Automation: Coordination, Validation, and Governance in Practice"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.00027
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00027
 next_step: skim
+priority: low
+slack_ts: '1791091838.527249'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Software Project Management with LLM-Based Automation: Coordination, Validation,
+  and Governance in Practice'
 ---
 # Software Project Management with LLM-Based Automation: Coordination, Validation, and Governance in Practice
 > 原文: [https://arxiv.org/abs/2610.00027](https://arxiv.org/abs/2610.00027)

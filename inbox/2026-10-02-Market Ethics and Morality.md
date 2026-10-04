@@ -1,11 +1,12 @@
 ---
-title: "Market, Ethics, and Morality"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.00023
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00023
 next_step: skim
+priority: low
+slack_ts: '1791091832.179279'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Market, Ethics, and Morality
 ---
 # Market, Ethics, and Morality
 > 原文: [https://arxiv.org/abs/2610.00023](https://arxiv.org/abs/2610.00023)

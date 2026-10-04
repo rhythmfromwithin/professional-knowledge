@@ -1,11 +1,13 @@
 ---
-title: "A Comprehensive Review of One-Pixel Attack: Research Status, Taxonomy, Applications, Regulation Policy and Future Directions"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.00125
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00125
 next_step: skim
+priority: low
+slack_ts: '1791091822.713399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'A Comprehensive Review of One-Pixel Attack: Research Status, Taxonomy, Applications,
+  Regulation Policy and Future Directions'
 ---
 # A Comprehensive Review of One-Pixel Attack: Research Status, Taxonomy, Applications, Regulation Policy and Future Directions
 > 原文: [https://arxiv.org/abs/2610.00125](https://arxiv.org/abs/2610.00125)

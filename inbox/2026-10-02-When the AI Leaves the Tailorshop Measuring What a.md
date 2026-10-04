@@ -1,11 +1,13 @@
 ---
-title: "When the AI Leaves the Tailorshop: Measuring What an LLM Advisor Leaves Behind in Complex Problem Solving"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.00163
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00163
 next_step: skim
+priority: low
+slack_ts: '1791091842.215259'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'When the AI Leaves the Tailorshop: Measuring What an LLM Advisor Leaves Behind
+  in Complex Problem Solving'
 ---
 # When the AI Leaves the Tailorshop: Measuring What an LLM Advisor Leaves Behind in Complex Problem Solving
 > 原文: [https://arxiv.org/abs/2610.00163](https://arxiv.org/abs/2610.00163)

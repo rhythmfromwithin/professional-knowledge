@@ -1,11 +1,12 @@
 ---
-title: "SCM-based Fairness and Faithful Explainability for Legal Document Classification"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.00045
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00045
 next_step: skim
+priority: high
+slack_ts: '1791091836.856039'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: SCM-based Fairness and Faithful Explainability for Legal Document Classification
 ---
 # SCM-based Fairness and Faithful Explainability for Legal Document Classification
 > 原文: [https://arxiv.org/abs/2610.00045](https://arxiv.org/abs/2610.00045)

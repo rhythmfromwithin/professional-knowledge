@@ -1,11 +1,12 @@
 ---
-title: "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1791091837.386119'
+source: AWS Blog
+status: unread
+title: Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore
 ---
 # Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)

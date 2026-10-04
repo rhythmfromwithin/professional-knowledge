@@ -1,11 +1,12 @@
 ---
-title: "Guarded Commits: Transactional Human Approvals for LLM Workflows"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.00037
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00037
 next_step: skim
+priority: low
+slack_ts: '1791091828.069289'
+source: cs.DB - Databases
+status: unread
+title: 'Guarded Commits: Transactional Human Approvals for LLM Workflows'
 ---
 # Guarded Commits: Transactional Human Approvals for LLM Workflows
 > 原文: [https://arxiv.org/abs/2610.00037](https://arxiv.org/abs/2610.00037)

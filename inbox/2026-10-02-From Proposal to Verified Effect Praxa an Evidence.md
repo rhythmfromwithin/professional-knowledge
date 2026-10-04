@@ -1,11 +1,13 @@
 ---
-title: "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.00015
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00015
 next_step: skim
+priority: high
+slack_ts: '1791091827.254399'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed
+  AI Agent Execution'
 ---
 # From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution
 > 原文: [https://arxiv.org/abs/2610.00015](https://arxiv.org/abs/2610.00015)

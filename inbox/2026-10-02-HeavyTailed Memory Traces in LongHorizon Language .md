@@ -1,11 +1,12 @@
 ---
-title: "Heavy-Tailed Memory Traces in Long-Horizon Language Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.00010
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00010
 next_step: skim
+priority: high
+slack_ts: '1791091828.295379'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Heavy-Tailed Memory Traces in Long-Horizon Language Agents
 ---
 # Heavy-Tailed Memory Traces in Long-Horizon Language Agents
 > 原文: [https://arxiv.org/abs/2610.00010](https://arxiv.org/abs/2610.00010)

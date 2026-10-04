@@ -1,11 +1,12 @@
 ---
-title: "Leto: Fast In-Place Recovery for LLM Training on Surviving Hardware"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.00687
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00687
 next_step: skim
+priority: medium
+slack_ts: '1791091831.391899'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Leto: Fast In-Place Recovery for LLM Training on Surviving Hardware'
 ---
 # Leto: Fast In-Place Recovery for LLM Training on Surviving Hardware
 > 原文: [https://arxiv.org/abs/2610.00687](https://arxiv.org/abs/2610.00687)

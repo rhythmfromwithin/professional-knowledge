@@ -1,11 +1,12 @@
 ---
-title: "Bounded-Fidelity Sim-as-Demo-Stage: Mocap Handoff for Governance Benchmarks"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.00008
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00008
 next_step: skim
+priority: medium
+slack_ts: '1791091824.158579'
+source: cs.RO - Robotics
+status: unread
+title: 'Bounded-Fidelity Sim-as-Demo-Stage: Mocap Handoff for Governance Benchmarks'
 ---
 # Bounded-Fidelity Sim-as-Demo-Stage: Mocap Handoff for Governance Benchmarks
 > 原文: [https://arxiv.org/abs/2610.00008](https://arxiv.org/abs/2610.00008)

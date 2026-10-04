@@ -1,11 +1,13 @@
 ---
-title: "Multi-Behavioral Evolved Substrates Through Neuromodulation and Activation Selection"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.00148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00148
 next_step: skim
+priority: low
+slack_ts: '1791091832.752989'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Multi-Behavioral Evolved Substrates Through Neuromodulation and Activation
+  Selection
 ---
 # Multi-Behavioral Evolved Substrates Through Neuromodulation and Activation Selection
 > 原文: [https://arxiv.org/abs/2610.00148](https://arxiv.org/abs/2610.00148)

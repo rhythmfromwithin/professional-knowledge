@@ -1,11 +1,13 @@
 ---
-title: "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.00002
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00002
 next_step: skim
+priority: high
+slack_ts: '1791091836.340039'
+source: cs.LG - Machine Learning
+status: unread
+title: Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer
+  Drug-Response Matrices
 ---
 # Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices
 > 原文: [https://arxiv.org/abs/2610.00002](https://arxiv.org/abs/2610.00002)
