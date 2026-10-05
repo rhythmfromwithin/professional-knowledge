@@ -1,11 +1,12 @@
 ---
-title: "White Men Without Degrees Receive the Lowest Ratings from Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.00185
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.00185
 next_step: skim
+priority: medium
+slack_ts: '1791177202.080519'
+source: cs.CY - Computers and Society
+status: unread
+title: White Men Without Degrees Receive the Lowest Ratings from Large Language Models
 ---
 # White Men Without Degrees Receive the Lowest Ratings from Large Language Models
 > 原文: [https://arxiv.org/abs/2610.00185](https://arxiv.org/abs/2610.00185)

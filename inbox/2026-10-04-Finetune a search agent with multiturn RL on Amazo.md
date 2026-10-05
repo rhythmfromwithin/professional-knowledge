@@ -1,11 +1,12 @@
 ---
-title: "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1791177204.639809'
+source: AWS Blog
+status: unread
+title: Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI
 ---
 # Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/)

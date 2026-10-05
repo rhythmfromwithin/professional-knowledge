@@ -1,11 +1,12 @@
 ---
-title: "Introducing Parallax: The AI Energy Company"
-source: "Greylock Perspectives"
-link: https://greylock.com/blog/introducing-parallax-the-ai-energy-company/
-priority: medium
-status: unread
 interest: medium
+link: https://greylock.com/blog/introducing-parallax-the-ai-energy-company/
 next_step: skim
+priority: medium
+slack_ts: '1791177203.097899'
+source: Greylock Perspectives
+status: unread
+title: 'Introducing Parallax: The AI Energy Company'
 ---
 # Introducing Parallax: The AI Energy Company
 > 原文: [https://greylock.com/blog/introducing-parallax-the-ai-energy-company/](https://greylock.com/blog/introducing-parallax-the-ai-energy-company/)
