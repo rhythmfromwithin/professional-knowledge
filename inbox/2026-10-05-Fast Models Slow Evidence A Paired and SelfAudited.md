@@ -1,11 +1,13 @@
 ---
-title: "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.02267
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02267
 next_step: skim
+priority: high
+slack_ts: '1791266340.073789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1
+  Decision Models for LLM Agent Harnesses'
 ---
 # Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses
 > 原文: [https://arxiv.org/abs/2610.02267](https://arxiv.org/abs/2610.02267)

@@ -1,11 +1,12 @@
 ---
-title: "HakemBench: A Turkish Benchmark of Typed Decisions"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.02293
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02293
 next_step: skim
+priority: high
+slack_ts: '1791266342.103379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'HakemBench: A Turkish Benchmark of Typed Decisions'
 ---
 # HakemBench: A Turkish Benchmark of Typed Decisions
 > 原文: [https://arxiv.org/abs/2610.02293](https://arxiv.org/abs/2610.02293)

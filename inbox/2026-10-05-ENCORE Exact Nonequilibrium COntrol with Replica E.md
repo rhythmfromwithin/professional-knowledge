@@ -1,11 +1,13 @@
 ---
-title: "ENCORE: Exact Non-equilibrium COntrol with Replica Exchange for Diffusion Generation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.02538
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02538
 next_step: skim
+priority: medium
+slack_ts: '1791266339.128099'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ENCORE: Exact Non-equilibrium COntrol with Replica Exchange for Diffusion
+  Generation'
 ---
 # ENCORE: Exact Non-equilibrium COntrol with Replica Exchange for Diffusion Generation
 > 原文: [https://arxiv.org/abs/2610.02538](https://arxiv.org/abs/2610.02538)

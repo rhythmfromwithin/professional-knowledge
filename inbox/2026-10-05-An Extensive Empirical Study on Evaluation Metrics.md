@@ -1,11 +1,13 @@
 ---
-title: "An Extensive Empirical Study on Evaluation Metrics for Combinatorial Interaction Testing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.02560
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02560
 next_step: skim
+priority: low
+slack_ts: '1791266334.260719'
+source: cs.SE - Software Engineering
+status: unread
+title: An Extensive Empirical Study on Evaluation Metrics for Combinatorial Interaction
+  Testing
 ---
 # An Extensive Empirical Study on Evaluation Metrics for Combinatorial Interaction Testing
 > 原文: [https://arxiv.org/abs/2610.02560](https://arxiv.org/abs/2610.02560)

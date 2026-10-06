@@ -1,11 +1,13 @@
 ---
-title: "From Alert Floods to Precedence Forests: Zero-Prior-Knowledge Incident Triage with LOGOS"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.02297
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02297
 next_step: skim
+priority: medium
+slack_ts: '1791266341.073249'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'From Alert Floods to Precedence Forests: Zero-Prior-Knowledge Incident Triage
+  with LOGOS'
 ---
 # From Alert Floods to Precedence Forests: Zero-Prior-Knowledge Incident Triage with LOGOS
 > 原文: [https://arxiv.org/abs/2610.02297](https://arxiv.org/abs/2610.02297)

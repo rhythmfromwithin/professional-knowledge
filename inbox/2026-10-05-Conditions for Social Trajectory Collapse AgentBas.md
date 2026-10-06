@@ -1,11 +1,13 @@
 ---
-title: "Conditions for Social Trajectory Collapse: Agent-Based Simulation of Time-Geographic Trajectory Distributions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.02581
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02581
 next_step: skim
+priority: medium
+slack_ts: '1791266337.511069'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Conditions for Social Trajectory Collapse: Agent-Based Simulation of Time-Geographic
+  Trajectory Distributions'
 ---
 # Conditions for Social Trajectory Collapse: Agent-Based Simulation of Time-Geographic Trajectory Distributions
 > 原文: [https://arxiv.org/abs/2610.02581](https://arxiv.org/abs/2610.02581)

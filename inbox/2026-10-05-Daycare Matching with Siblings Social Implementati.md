@@ -1,11 +1,12 @@
 ---
-title: "Daycare Matching with Siblings: Social Implementation and Welfare Evaluation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2604.13597
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2604.13597
 next_step: skim
+priority: low
+slack_ts: '1791266338.447169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Daycare Matching with Siblings: Social Implementation and Welfare Evaluation'
 ---
 # Daycare Matching with Siblings: Social Implementation and Welfare Evaluation
 > 原文: [https://arxiv.org/abs/2604.13597](https://arxiv.org/abs/2604.13597)

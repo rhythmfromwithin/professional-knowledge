@@ -1,11 +1,13 @@
 ---
-title: "Learning Style, Forgetting Semantics: A Case Study of SFT and RFT on Classification Tasks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.02437
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02437
 next_step: skim
+priority: medium
+slack_ts: '1791266345.245749'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Learning Style, Forgetting Semantics: A Case Study of SFT and RFT on Classification
+  Tasks'
 ---
 # Learning Style, Forgetting Semantics: A Case Study of SFT and RFT on Classification Tasks
 > 原文: [https://arxiv.org/abs/2610.02437](https://arxiv.org/abs/2610.02437)

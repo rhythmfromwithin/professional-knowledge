@@ -1,11 +1,5 @@
 ---
-title: ""I'm trying not to get hacked:" How Adults with Intellectual and Developmental Disabilities Navigate Security and Privacy Notifications"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.02374
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1791266342.836289'
 ---
 # "I'm trying not to get hacked:" How Adults with Intellectual and Developmental Disabilities Navigate Security and Privacy Notifications
 > 原文: [https://arxiv.org/abs/2610.02374](https://arxiv.org/abs/2610.02374)

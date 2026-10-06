@@ -1,11 +1,12 @@
 ---
-title: "DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.02320
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02320
 next_step: skim
+priority: medium
+slack_ts: '1791266338.681909'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents'
 ---
 # DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents
 > 原文: [https://arxiv.org/abs/2610.02320](https://arxiv.org/abs/2610.02320)

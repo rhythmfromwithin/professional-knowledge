@@ -1,11 +1,13 @@
 ---
-title: "Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.02444
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02444
 next_step: skim
+priority: high
+slack_ts: '1791266338.217309'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation
+  Hurts and Reinforcement Repairs'
 ---
 # Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs
 > 原文: [https://arxiv.org/abs/2610.02444](https://arxiv.org/abs/2610.02444)

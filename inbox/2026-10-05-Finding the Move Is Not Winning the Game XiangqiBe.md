@@ -1,11 +1,13 @@
 ---
-title: "Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.02425
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02425
 next_step: skim
+priority: high
+slack_ts: '1791266340.520769'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation
+  of LLM Agents'
 ---
 # Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents
 > 原文: [https://arxiv.org/abs/2610.02425](https://arxiv.org/abs/2610.02425)

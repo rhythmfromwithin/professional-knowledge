@@ -1,11 +1,13 @@
 ---
-title: "Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.02373
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02373
 next_step: skim
+priority: low
+slack_ts: '1791266342.321599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing
+  in GraphRAG Pipelines with LLM'
 ---
 # Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM
 > 原文: [https://arxiv.org/abs/2610.02373](https://arxiv.org/abs/2610.02373)

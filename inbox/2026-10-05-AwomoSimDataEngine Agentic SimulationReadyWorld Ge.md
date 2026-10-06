@@ -1,11 +1,12 @@
 ---
-title: "Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.02274
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02274
 next_step: skim
+priority: medium
+slack_ts: '1791266334.912519'
+source: cs.RO - Robotics
+status: unread
+title: 'Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation'
 ---
 # Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation
 > 原文: [https://arxiv.org/abs/2610.02274](https://arxiv.org/abs/2610.02274)

@@ -1,11 +1,12 @@
 ---
-title: "Forecasting space weather risks on power grids"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/
 next_step: skim
+priority: high
+slack_ts: '1791266340.747149'
+source: Microsoft Research
+status: unread
+title: Forecasting space weather risks on power grids
 ---
 # Forecasting space weather risks on power grids
 > 原文: [https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/](https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/)

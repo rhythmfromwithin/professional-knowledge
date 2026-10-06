@@ -1,11 +1,12 @@
 ---
-title: "Small universal multiset reaction systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.03021
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03021
 next_step: skim
+priority: low
+slack_ts: '1791266349.925159'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Small universal multiset reaction systems
 ---
 # Small universal multiset reaction systems
 > 原文: [https://arxiv.org/abs/2610.03021](https://arxiv.org/abs/2610.03021)

@@ -1,11 +1,13 @@
 ---
-title: "Clustering without clusters: the meta-criterion and centroid reliability mistake continuous dynamics for discrete states"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.02220
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02220
 next_step: skim
+priority: low
+slack_ts: '1791266336.785729'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Clustering without clusters: the meta-criterion and centroid reliability mistake
+  continuous dynamics for discrete states'
 ---
 # Clustering without clusters: the meta-criterion and centroid reliability mistake continuous dynamics for discrete states
 > 原文: [https://arxiv.org/abs/2610.02220](https://arxiv.org/abs/2610.02220)

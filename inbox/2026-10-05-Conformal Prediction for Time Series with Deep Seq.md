@@ -1,11 +1,12 @@
 ---
-title: "Conformal Prediction for Time Series with Deep Sequence Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.02357
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02357
 next_step: skim
+priority: medium
+slack_ts: '1791266337.781379'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Conformal Prediction for Time Series with Deep Sequence Models
 ---
 # Conformal Prediction for Time Series with Deep Sequence Models
 > 原文: [https://arxiv.org/abs/2610.02357](https://arxiv.org/abs/2610.02357)

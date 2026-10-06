@@ -1,11 +1,13 @@
 ---
-title: "Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.02224
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02224
 next_step: skim
+priority: high
+slack_ts: '1791266342.541849'
+source: cs.LG - Machine Learning
+status: unread
+title: Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature
+  Augmentation for Pharmaceutical Identification
 ---
 # Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification
 > 原文: [https://arxiv.org/abs/2610.02224](https://arxiv.org/abs/2610.02224)

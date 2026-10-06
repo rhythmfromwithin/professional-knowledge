@@ -1,11 +1,14 @@
 ---
-title: "Existence of an infinite family of substrates satisfying all the postulates of integrated information theory, exclusion included, with arbitrarily large integrated information"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.02219
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02219
 next_step: skim
+priority: low
+slack_ts: '1791266339.855069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Existence of an infinite family of substrates satisfying all the postulates
+  of integrated information theory, exclusion included, with arbitrarily large integrated
+  information
 ---
 # Existence of an infinite family of substrates satisfying all the postulates of integrated information theory, exclusion included, with arbitrarily large integrated information
 > 原文: [https://arxiv.org/abs/2610.02219](https://arxiv.org/abs/2610.02219)

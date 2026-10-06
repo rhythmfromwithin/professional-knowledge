@@ -1,11 +1,12 @@
 ---
-title: "Look Here or Look Across: Unified Cardinality Constraints for N-ary Relationships"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.02603
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02603
 next_step: skim
+priority: low
+slack_ts: '1791266345.713949'
+source: cs.DB - Databases
+status: unread
+title: 'Look Here or Look Across: Unified Cardinality Constraints for N-ary Relationships'
 ---
 # Look Here or Look Across: Unified Cardinality Constraints for N-ary Relationships
 > 原文: [https://arxiv.org/abs/2610.02603](https://arxiv.org/abs/2610.02603)

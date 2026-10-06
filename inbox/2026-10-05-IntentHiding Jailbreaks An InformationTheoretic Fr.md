@@ -1,11 +1,13 @@
 ---
-title: "Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.02302
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02302
 next_step: skim
+priority: low
+slack_ts: '1791266343.641249'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional
+  Attacks'
 ---
 # Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks
 > 原文: [https://arxiv.org/abs/2610.02302](https://arxiv.org/abs/2610.02302)

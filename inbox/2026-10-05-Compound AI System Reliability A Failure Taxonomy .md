@@ -1,11 +1,13 @@
 ---
-title: "Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern Catalog from 150 Production Incidents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.02503
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02503
 next_step: skim
+priority: low
+slack_ts: '1791266337.010729'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern
+  Catalog from 150 Production Incidents'
 ---
 # Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern Catalog from 150 Production Incidents
 > 原文: [https://arxiv.org/abs/2610.02503](https://arxiv.org/abs/2610.02503)

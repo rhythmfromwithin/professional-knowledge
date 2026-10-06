@@ -1,11 +1,12 @@
 ---
-title: "MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.02349
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02349
 next_step: skim
+priority: low
+slack_ts: '1791266346.213319'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication'
 ---
 # MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication
 > 原文: [https://arxiv.org/abs/2610.02349](https://arxiv.org/abs/2610.02349)

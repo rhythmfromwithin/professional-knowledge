@@ -1,11 +1,12 @@
 ---
-title: "Chatham scales its capital markets expertise with OpenAI"
-source: "OpenAI Blog"
-link: https://openai.com/index/chatham-financial
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/chatham-financial
 next_step: skim
+priority: high
+slack_ts: '1791266336.132079'
+source: OpenAI Blog
+status: unread
+title: Chatham scales its capital markets expertise with OpenAI
 ---
 # Chatham scales its capital markets expertise with OpenAI
 > 原文: [https://openai.com/index/chatham-financial](https://openai.com/index/chatham-financial)

@@ -1,11 +1,12 @@
 ---
-title: "Connectedness, Cognitive Load, and Human-AI Oversight in Cyber Operations"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.02384
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02384
 next_step: skim
+priority: low
+slack_ts: '1791266337.997079'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Connectedness, Cognitive Load, and Human-AI Oversight in Cyber Operations
 ---
 # Connectedness, Cognitive Load, and Human-AI Oversight in Cyber Operations
 > 原文: [https://arxiv.org/abs/2610.02384](https://arxiv.org/abs/2610.02384)

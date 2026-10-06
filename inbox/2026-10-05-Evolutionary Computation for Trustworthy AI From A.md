@@ -1,11 +1,13 @@
 ---
-title: "Evolutionary Computation for Trustworthy AI: From Attacks and Defenses to Self-Evolving Era"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.02996
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02996
 next_step: skim
+priority: low
+slack_ts: '1791266339.624859'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Evolutionary Computation for Trustworthy AI: From Attacks and Defenses to
+  Self-Evolving Era'
 ---
 # Evolutionary Computation for Trustworthy AI: From Attacks and Defenses to Self-Evolving Era
 > 原文: [https://arxiv.org/abs/2610.02996](https://arxiv.org/abs/2610.02996)

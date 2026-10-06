@@ -1,11 +1,13 @@
 ---
-title: "Causal discovery identifies pathways linking physical activity to dementia risk in the UK BioBank"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.02221
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02221
 next_step: skim
+priority: low
+slack_ts: '1791266335.908249'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Causal discovery identifies pathways linking physical activity to dementia
+  risk in the UK BioBank
 ---
 # Causal discovery identifies pathways linking physical activity to dementia risk in the UK BioBank
 > 原文: [https://arxiv.org/abs/2610.02221](https://arxiv.org/abs/2610.02221)
