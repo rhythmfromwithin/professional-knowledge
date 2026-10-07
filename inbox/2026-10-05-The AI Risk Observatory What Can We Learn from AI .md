@@ -1,11 +1,13 @@
 ---
-title: "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.02281
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02281
 next_step: skim
+priority: high
+slack_ts: '1791351180.869949'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports
+  About Societal Resilience?'
 ---
 # The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?
 > 原文: [https://arxiv.org/abs/2610.02281](https://arxiv.org/abs/2610.02281)

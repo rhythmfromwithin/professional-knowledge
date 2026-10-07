@@ -1,11 +1,13 @@
 ---
-title: "Growth by Intervention: State Demand and Preferential Allocation in the Hungarian Construction Sector since 2010"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.03791
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03791
 next_step: skim
+priority: low
+slack_ts: '1791351187.390819'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Growth by Intervention: State Demand and Preferential Allocation in the Hungarian
+  Construction Sector since 2010'
 ---
 # Growth by Intervention: State Demand and Preferential Allocation in the Hungarian Construction Sector since 2010
 > 原文: [https://arxiv.org/abs/2610.03791](https://arxiv.org/abs/2610.03791)

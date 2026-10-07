@@ -1,11 +1,13 @@
 ---
-title: "BitIR: Cross-Architecture Fault Injection for Resilience Analysis of Heterogeneous GPU Applications"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.04037
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04037
 next_step: skim
+priority: medium
+slack_ts: '1791351184.039419'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'BitIR: Cross-Architecture Fault Injection for Resilience Analysis of Heterogeneous
+  GPU Applications'
 ---
 # BitIR: Cross-Architecture Fault Injection for Resilience Analysis of Heterogeneous GPU Applications
 > 原文: [https://arxiv.org/abs/2610.04037](https://arxiv.org/abs/2610.04037)

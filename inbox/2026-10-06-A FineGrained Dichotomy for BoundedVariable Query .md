@@ -1,11 +1,13 @@
 ---
-title: "A Fine-Grained Dichotomy for Bounded-Variable Query Evaluation: The Calculus of Relations, a Boolean Modal Logic, and One-Variable Counting Logic"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.04573
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04573
 next_step: skim
+priority: low
+slack_ts: '1791351182.451429'
+source: cs.DB - Databases
+status: unread
+title: 'A Fine-Grained Dichotomy for Bounded-Variable Query Evaluation: The Calculus
+  of Relations, a Boolean Modal Logic, and One-Variable Counting Logic'
 ---
 # A Fine-Grained Dichotomy for Bounded-Variable Query Evaluation: The Calculus of Relations, a Boolean Modal Logic, and One-Variable Counting Logic
 > 原文: [https://arxiv.org/abs/2610.04573](https://arxiv.org/abs/2610.04573)

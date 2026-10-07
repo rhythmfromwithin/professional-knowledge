@@ -1,11 +1,12 @@
 ---
-title: "World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.02323
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02323
 next_step: skim
+priority: medium
+slack_ts: '1791351182.231919'
+source: cs.RO - Robotics
+status: unread
+title: World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models
 ---
 # World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models
 > 原文: [https://arxiv.org/abs/2610.02323](https://arxiv.org/abs/2610.02323)

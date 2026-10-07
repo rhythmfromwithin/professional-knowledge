@@ -1,11 +1,12 @@
 ---
-title: "Can LLM Agents Select and Engage with Biological Tools?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.03853
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03853
 next_step: skim
+priority: medium
+slack_ts: '1791351184.569029'
+source: cs.CY - Computers and Society
+status: unread
+title: Can LLM Agents Select and Engage with Biological Tools?
 ---
 # Can LLM Agents Select and Engage with Biological Tools?
 > 原文: [https://arxiv.org/abs/2610.03853](https://arxiv.org/abs/2610.03853)

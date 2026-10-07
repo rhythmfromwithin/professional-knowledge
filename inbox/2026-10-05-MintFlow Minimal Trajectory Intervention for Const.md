@@ -1,11 +1,12 @@
 ---
-title: "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.02260
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02260
 next_step: skim
+priority: high
+slack_ts: '1791351178.039839'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching'
 ---
 # MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching
 > 原文: [https://arxiv.org/abs/2610.02260](https://arxiv.org/abs/2610.02260)

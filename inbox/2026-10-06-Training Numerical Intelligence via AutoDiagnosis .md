@@ -1,11 +1,12 @@
 ---
-title: "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.03872
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03872
 next_step: skim
+priority: high
+slack_ts: '1791351193.052849'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery
 ---
 # Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery
 > 原文: [https://arxiv.org/abs/2610.03872](https://arxiv.org/abs/2610.03872)

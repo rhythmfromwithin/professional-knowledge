@@ -1,11 +1,13 @@
 ---
-title: "How Do Coding Agents Optimize Software and Report Performance Validation? A Large-Scale Empirical Study of Open-Source Pull Requests"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.03969
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03969
 next_step: skim
+priority: low
+slack_ts: '1791351187.546889'
+source: cs.SE - Software Engineering
+status: unread
+title: How Do Coding Agents Optimize Software and Report Performance Validation? A
+  Large-Scale Empirical Study of Open-Source Pull Requests
 ---
 # How Do Coding Agents Optimize Software and Report Performance Validation? A Large-Scale Empirical Study of Open-Source Pull Requests
 > 原文: [https://arxiv.org/abs/2610.03969](https://arxiv.org/abs/2610.03969)

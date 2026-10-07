@@ -1,11 +1,13 @@
 ---
-title: "Fractal Cross Product: Theory, Differentiable Implementation and Application to Medical Image Analysis"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.03755
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03755
 next_step: skim
+priority: medium
+slack_ts: '1791351186.478429'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Fractal Cross Product: Theory, Differentiable Implementation and Application
+  to Medical Image Analysis'
 ---
 # Fractal Cross Product: Theory, Differentiable Implementation and Application to Medical Image Analysis
 > 原文: [https://arxiv.org/abs/2610.03755](https://arxiv.org/abs/2610.03755)

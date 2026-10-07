@@ -1,11 +1,13 @@
 ---
-title: "Real-time Optimization of Simulation and Data Processing Pipelines for Experiments on Exascale Computing Platforms"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.02498
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02498
 next_step: skim
+priority: medium
+slack_ts: '1791351179.132749'
+source: cs.DC - Distributed Computing
+status: unread
+title: Real-time Optimization of Simulation and Data Processing Pipelines for Experiments
+  on Exascale Computing Platforms
 ---
 # Real-time Optimization of Simulation and Data Processing Pipelines for Experiments on Exascale Computing Platforms
 > 原文: [https://arxiv.org/abs/2610.02498](https://arxiv.org/abs/2610.02498)

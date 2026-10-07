@@ -1,11 +1,12 @@
 ---
-title: "Characterizing Open-Source Video Games from a Software Engineering Perspective"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.03953
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03953
 next_step: skim
+priority: low
+slack_ts: '1791351184.723379'
+source: cs.SE - Software Engineering
+status: unread
+title: Characterizing Open-Source Video Games from a Software Engineering Perspective
 ---
 # Characterizing Open-Source Video Games from a Software Engineering Perspective
 > 原文: [https://arxiv.org/abs/2610.03953](https://arxiv.org/abs/2610.03953)

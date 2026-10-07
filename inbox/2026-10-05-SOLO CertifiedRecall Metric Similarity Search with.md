@@ -1,11 +1,13 @@
 ---
-title: "SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.02387
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02387
 next_step: skim
+priority: low
+slack_ts: '1791351179.891219'
+source: cs.DB - Databases
+status: unread
+title: 'SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted
+  Lists'
 ---
 # SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists
 > 原文: [https://arxiv.org/abs/2610.02387](https://arxiv.org/abs/2610.02387)

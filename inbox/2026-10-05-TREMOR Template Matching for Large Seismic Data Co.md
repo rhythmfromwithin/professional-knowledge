@@ -1,11 +1,12 @@
 ---
-title: "TREMOR: Template Matching for Large Seismic Data Collections"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.02534
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02534
 next_step: skim
+priority: low
+slack_ts: '1791351180.696399'
+source: cs.DB - Databases
+status: unread
+title: 'TREMOR: Template Matching for Large Seismic Data Collections'
 ---
 # TREMOR: Template Matching for Large Seismic Data Collections
 > 原文: [https://arxiv.org/abs/2610.02534](https://arxiv.org/abs/2610.02534)

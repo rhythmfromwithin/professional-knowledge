@@ -1,11 +1,12 @@
 ---
-title: "Distribution Matching Evolutionary Algorithms for Rare Event Sampling"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.03833
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03833
 next_step: skim
+priority: low
+slack_ts: '1791351185.620079'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Distribution Matching Evolutionary Algorithms for Rare Event Sampling
 ---
 # Distribution Matching Evolutionary Algorithms for Rare Event Sampling
 > 原文: [https://arxiv.org/abs/2610.03833](https://arxiv.org/abs/2610.03833)

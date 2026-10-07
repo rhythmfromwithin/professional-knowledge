@@ -1,11 +1,13 @@
 ---
-title: "GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.03861
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03861
 next_step: skim
+priority: medium
+slack_ts: '1791351186.623919'
+source: cs.RO - Robotics
+status: unread
+title: 'GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment
+  Primitive'
 ---
 # GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive
 > 原文: [https://arxiv.org/abs/2610.03861](https://arxiv.org/abs/2610.03861)

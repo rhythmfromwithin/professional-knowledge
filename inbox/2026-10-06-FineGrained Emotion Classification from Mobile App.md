@@ -1,11 +1,13 @@
 ---
-title: "Fine-Grained Emotion Classification from Mobile App Reviews: An Empirical Study with Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.03802
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03802
 next_step: skim
+priority: high
+slack_ts: '1791351186.170119'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Fine-Grained Emotion Classification from Mobile App Reviews: An Empirical
+  Study with Large Language Models'
 ---
 # Fine-Grained Emotion Classification from Mobile App Reviews: An Empirical Study with Large Language Models
 > 原文: [https://arxiv.org/abs/2610.03802](https://arxiv.org/abs/2610.03802)

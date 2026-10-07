@@ -1,11 +1,13 @@
 ---
-title: "Evolutionary Giant Tour for CVRP using NSE and ML Heuristic]{Evolutionary Giant Tour approach for CVRP using Node Shift Encoding and Machine Learning repair heuristic"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.03816
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03816
 next_step: skim
+priority: low
+slack_ts: '1791351186.021839'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Evolutionary Giant Tour for CVRP using NSE and ML Heuristic]{Evolutionary Giant
+  Tour approach for CVRP using Node Shift Encoding and Machine Learning repair heuristic
 ---
 # Evolutionary Giant Tour for CVRP using NSE and ML Heuristic]{Evolutionary Giant Tour approach for CVRP using Node Shift Encoding and Machine Learning repair heuristic
 > 原文: [https://arxiv.org/abs/2610.03816](https://arxiv.org/abs/2610.03816)

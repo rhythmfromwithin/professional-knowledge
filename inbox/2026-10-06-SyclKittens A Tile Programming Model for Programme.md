@@ -1,11 +1,13 @@
 ---
-title: "SyclKittens: A Tile Programming Model for Programmers and Coding Agents on Intel GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.04277
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04277
 next_step: skim
+priority: medium
+slack_ts: '1791351192.073139'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SyclKittens: A Tile Programming Model for Programmers and Coding Agents on
+  Intel GPUs'
 ---
 # SyclKittens: A Tile Programming Model for Programmers and Coding Agents on Intel GPUs
 > 原文: [https://arxiv.org/abs/2610.04277](https://arxiv.org/abs/2610.04277)

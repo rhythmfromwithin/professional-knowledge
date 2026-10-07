@@ -1,11 +1,12 @@
 ---
-title: "SCION: Scene Composition with Instanced Neural Primitives"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.02322
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02322
 next_step: skim
+priority: medium
+slack_ts: '1791351179.520179'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SCION: Scene Composition with Instanced Neural Primitives'
 ---
 # SCION: Scene Composition with Instanced Neural Primitives
 > 原文: [https://arxiv.org/abs/2610.02322](https://arxiv.org/abs/2610.02322)

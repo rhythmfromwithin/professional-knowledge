@@ -1,0 +1,14 @@
+---
+title: "Forecast Accuracy Is Not Trading Profit: Evolving Small Recurrent Networks for Stock Return Prediction"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2610.07825
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Forecast Accuracy Is Not Trading Profit: Evolving Small Recurrent Networks for Stock Return Prediction
+> 原文: [https://arxiv.org/abs/2610.07825](https://arxiv.org/abs/2610.07825)
+
+arXiv:2610.07825v1 Announce Type: new
+Abstract: Time series forecasting models are typically compared on pointwise error, which scores a prediction in isolation from the decision it is produced for, and a lower forecast error does not imply a better decision downstream. A parallel debate asks whether modern transformer architectures forecast better than recurrent and other lightweight models. We compare linear, fixed recurrent, transformer, and mixing based architectures against recurrent networks evolved by neuroevolutionary architecture search, evaluating each on forecast accuracy and on the net return of a daily long/short strategy. All models are fit on a pooled panel, one network trained across the whole universe. Across four mid-cap portfolios and three trading years, the evolved networks rank first on both forecast accuracy and net trading performance, while the second most accurate model loses money once positions are formed and costs are charged. The advantage tracks a horizon match, since rank IC for the evolved networks rises from a one-day to a ten-day scoring horizon while every model above 300 parameters declines. They are also the cheapest end to end: a CPU-only search of 16 minutes yields 66-weight networks that predict in 10.8~$\mu$s on a Raspberry Pi Zero, against transformer baselines of up to 817,153 parameters that require GPU training.

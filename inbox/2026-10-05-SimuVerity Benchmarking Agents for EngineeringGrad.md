@@ -1,11 +1,12 @@
 ---
-title: "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.02304
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02304
 next_step: skim
+priority: low
+slack_ts: '1791351180.054259'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation'
 ---
 # SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation
 > 原文: [https://arxiv.org/abs/2610.02304](https://arxiv.org/abs/2610.02304)

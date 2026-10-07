@@ -1,11 +1,12 @@
 ---
-title: "LoRA Direction Extraction for Controllable Light Toggling in FLUX.1 Kontext"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.03771
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03771
 next_step: skim
+priority: medium
+slack_ts: '1791351189.145079'
+source: cs.CV - Computer Vision
+status: unread
+title: LoRA Direction Extraction for Controllable Light Toggling in FLUX.1 Kontext
 ---
 # LoRA Direction Extraction for Controllable Light Toggling in FLUX.1 Kontext
 > 原文: [https://arxiv.org/abs/2610.03771](https://arxiv.org/abs/2610.03771)

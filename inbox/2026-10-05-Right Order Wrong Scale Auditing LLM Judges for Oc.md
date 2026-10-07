@@ -1,11 +1,12 @@
 ---
-title: "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.02492
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02492
 next_step: skim
+priority: low
+slack_ts: '1791351179.357609'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement'
 ---
 # Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement
 > 原文: [https://arxiv.org/abs/2610.02492](https://arxiv.org/abs/2610.02492)

@@ -1,11 +1,13 @@
 ---
-title: "Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.03769
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03769
 next_step: skim
+priority: high
+slack_ts: '1791351183.418119'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent
+  Systems?'
 ---
 # Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems?
 > 原文: [https://arxiv.org/abs/2610.03769](https://arxiv.org/abs/2610.03769)

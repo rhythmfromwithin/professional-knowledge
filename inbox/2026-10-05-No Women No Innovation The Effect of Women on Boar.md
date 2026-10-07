@@ -1,11 +1,13 @@
 ---
-title: "No Women No Innovation? The Effect of Women on Boards on Hard and Soft Innovation in SMEs"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.03250
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03250
 next_step: skim
+priority: low
+slack_ts: '1791351178.224369'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: No Women No Innovation? The Effect of Women on Boards on Hard and Soft Innovation
+  in SMEs
 ---
 # No Women No Innovation? The Effect of Women on Boards on Hard and Soft Innovation in SMEs
 > 原文: [https://arxiv.org/abs/2610.03250](https://arxiv.org/abs/2610.03250)

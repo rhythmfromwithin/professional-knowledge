@@ -1,11 +1,12 @@
 ---
-title: "State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.02248
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02248
 next_step: skim
+priority: high
+slack_ts: '1791351180.538159'
+source: cs.LG - Machine Learning
+status: unread
+title: State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting
 ---
 # State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting
 > 原文: [https://arxiv.org/abs/2610.02248](https://arxiv.org/abs/2610.02248)

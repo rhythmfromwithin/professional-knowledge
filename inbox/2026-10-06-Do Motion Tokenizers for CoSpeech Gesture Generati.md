@@ -1,11 +1,12 @@
 ---
-title: "Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.03765
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03765
 next_step: skim
+priority: medium
+slack_ts: '1791351185.821819'
+source: cs.CV - Computer Vision
+status: unread
+title: Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?
 ---
 # Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?
 > 原文: [https://arxiv.org/abs/2610.03765](https://arxiv.org/abs/2610.03765)

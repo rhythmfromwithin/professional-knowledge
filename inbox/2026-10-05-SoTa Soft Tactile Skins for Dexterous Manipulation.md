@@ -1,11 +1,12 @@
 ---
-title: "SoTa: Soft Tactile Skins for Dexterous Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.02338
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02338
 next_step: skim
+priority: medium
+slack_ts: '1791351180.213999'
+source: cs.RO - Robotics
+status: unread
+title: 'SoTa: Soft Tactile Skins for Dexterous Manipulation'
 ---
 # SoTa: Soft Tactile Skins for Dexterous Manipulation
 > 原文: [https://arxiv.org/abs/2610.02338](https://arxiv.org/abs/2610.02338)

@@ -1,11 +1,12 @@
 ---
-title: "Building advertising for the way people use AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/new-chatgpt-ads-format-and-measurement
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/new-chatgpt-ads-format-and-measurement
 next_step: skim
+priority: high
+slack_ts: '1791351184.417489'
+source: OpenAI Blog
+status: unread
+title: Building advertising for the way people use AI
 ---
 # Building advertising for the way people use AI
 > 原文: [https://openai.com/index/new-chatgpt-ads-format-and-measurement](https://openai.com/index/new-chatgpt-ads-format-and-measurement)

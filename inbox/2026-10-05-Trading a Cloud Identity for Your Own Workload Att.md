@@ -1,7 +1,9 @@
 ---
-title: "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss
+slack_ts: '1791351181.588289'
+source: Netflix Tech Blog
+title: 'Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

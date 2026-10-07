@@ -1,11 +1,12 @@
 ---
-title: "SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.02361
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02361
 next_step: skim
+priority: low
+slack_ts: '1791351179.671589'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents'
 ---
 # SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents
 > 原文: [https://arxiv.org/abs/2610.02361](https://arxiv.org/abs/2610.02361)

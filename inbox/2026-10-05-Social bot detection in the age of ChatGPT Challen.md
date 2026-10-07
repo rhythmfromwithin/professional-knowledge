@@ -1,11 +1,12 @@
 ---
-title: "Social bot detection in the age of ChatGPT: Challenges and opportunities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.02386
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02386
 next_step: skim
+priority: medium
+slack_ts: '1791351180.364069'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Social bot detection in the age of ChatGPT: Challenges and opportunities'
 ---
 # Social bot detection in the age of ChatGPT: Challenges and opportunities
 > 原文: [https://arxiv.org/abs/2610.02386](https://arxiv.org/abs/2610.02386)

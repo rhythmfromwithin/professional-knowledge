@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Operator Selection in Bilevel Large Neighborhood Search for Electric Autonomous Dial-a-Ride Problem under Uncertainty"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.04219
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04219
 next_step: skim
+priority: low
+slack_ts: '1791351182.899289'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Adaptive Operator Selection in Bilevel Large Neighborhood Search for Electric
+  Autonomous Dial-a-Ride Problem under Uncertainty
 ---
 # Adaptive Operator Selection in Bilevel Large Neighborhood Search for Electric Autonomous Dial-a-Ride Problem under Uncertainty
 > 原文: [https://arxiv.org/abs/2610.04219](https://arxiv.org/abs/2610.04219)

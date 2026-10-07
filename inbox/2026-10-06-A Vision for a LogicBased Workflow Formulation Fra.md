@@ -1,11 +1,13 @@
 ---
-title: "A Vision for a Logic-Based Workflow Formulation Framework and an Agentic Execution Pipeline for Pattern Engineering"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.04077
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04077
 next_step: skim
+priority: low
+slack_ts: '1791351182.601099'
+source: cs.DB - Databases
+status: unread
+title: A Vision for a Logic-Based Workflow Formulation Framework and an Agentic Execution
+  Pipeline for Pattern Engineering
 ---
 # A Vision for a Logic-Based Workflow Formulation Framework and an Agentic Execution Pipeline for Pattern Engineering
 > 原文: [https://arxiv.org/abs/2610.04077](https://arxiv.org/abs/2610.04077)

@@ -1,11 +1,12 @@
 ---
-title: "Conjunctive Queries with Negation: Beyond Signed-Acyclicity"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.03982
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03982
 next_step: skim
+priority: low
+slack_ts: '1791351185.317399'
+source: cs.DB - Databases
+status: unread
+title: 'Conjunctive Queries with Negation: Beyond Signed-Acyclicity'
 ---
 # Conjunctive Queries with Negation: Beyond Signed-Acyclicity
 > 原文: [https://arxiv.org/abs/2610.03982](https://arxiv.org/abs/2610.03982)

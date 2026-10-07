@@ -1,11 +1,12 @@
 ---
-title: "Beneath the VIX: Probability, Severity, and Uncertainty Shocks"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.03849
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03849
 next_step: skim
+priority: low
+slack_ts: '1791351183.572289'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Beneath the VIX: Probability, Severity, and Uncertainty Shocks'
 ---
 # Beneath the VIX: Probability, Severity, and Uncertainty Shocks
 > 原文: [https://arxiv.org/abs/2610.03849](https://arxiv.org/abs/2610.03849)

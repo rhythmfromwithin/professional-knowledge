@@ -1,11 +1,13 @@
 ---
-title: "The Price of Greenwashing: Algorithmic Verification and Market Discipline using Conformal Machine Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.02225
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.02225
 next_step: skim
+priority: high
+slack_ts: '1791351181.023769'
+source: cs.LG - Machine Learning
+status: unread
+title: 'The Price of Greenwashing: Algorithmic Verification and Market Discipline
+  using Conformal Machine Learning'
 ---
 # The Price of Greenwashing: Algorithmic Verification and Market Discipline using Conformal Machine Learning
 > 原文: [https://arxiv.org/abs/2610.02225](https://arxiv.org/abs/2610.02225)
