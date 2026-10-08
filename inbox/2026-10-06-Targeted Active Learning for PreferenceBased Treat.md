@@ -1,11 +1,13 @@
 ---
-title: "Targeted Active Learning for Preference-Based Treatment Effects on Multivariate Outcomes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.03824
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03824
 next_step: skim
+priority: medium
+slack_ts: '1791438072.482509'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Targeted Active Learning for Preference-Based Treatment Effects on Multivariate
+  Outcomes
 ---
 # Targeted Active Learning for Preference-Based Treatment Effects on Multivariate Outcomes
 > 原文: [https://arxiv.org/abs/2610.03824](https://arxiv.org/abs/2610.03824)

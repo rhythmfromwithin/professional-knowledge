@@ -1,11 +1,12 @@
 ---
-title: "Our approach to EU text provenance rules"
-source: "OpenAI Blog"
-link: https://openai.com/index/eu-text-provenance
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/eu-text-provenance
 next_step: skim
+priority: high
+slack_ts: '1791438071.852849'
+source: OpenAI Blog
+status: unread
+title: Our approach to EU text provenance rules
 ---
 # Our approach to EU text provenance rules
 > 原文: [https://openai.com/index/eu-text-provenance](https://openai.com/index/eu-text-provenance)

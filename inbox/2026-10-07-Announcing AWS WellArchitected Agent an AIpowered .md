@@ -1,11 +1,13 @@
 ---
-title: "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/
 next_step: skim
+priority: high
+slack_ts: '1791438073.339759'
+source: AWS Blog
+status: unread
+title: Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize
+  your cloud environment (preview)
 ---
 # Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)
 > 原文: [https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/](https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/)

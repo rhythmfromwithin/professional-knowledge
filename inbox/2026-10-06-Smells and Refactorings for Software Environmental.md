@@ -1,11 +1,13 @@
 ---
-title: "Smells and Refactorings for Software Environmental Sustainability: A Systematic Literature Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.03838
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03838
 next_step: skim
+priority: low
+slack_ts: '1791438072.296139'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Smells and Refactorings for Software Environmental Sustainability: A Systematic
+  Literature Review'
 ---
 # Smells and Refactorings for Software Environmental Sustainability: A Systematic Literature Review
 > 原文: [https://arxiv.org/abs/2610.03838](https://arxiv.org/abs/2610.03838)

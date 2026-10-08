@@ -1,11 +1,12 @@
 ---
-title: "Stability of Phase-locked States of Weakly Coupled Izhikevich Neurons"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.04025
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04025
 next_step: skim
+priority: low
+slack_ts: '1791438072.358069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Stability of Phase-locked States of Weakly Coupled Izhikevich Neurons
 ---
 # Stability of Phase-locked States of Weakly Coupled Izhikevich Neurons
 > 原文: [https://arxiv.org/abs/2610.04025](https://arxiv.org/abs/2610.04025)

@@ -1,11 +1,12 @@
 ---
-title: "The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.03827
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03827
 next_step: skim
+priority: high
+slack_ts: '1791438072.631419'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer'
 ---
 # The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer
 > 原文: [https://arxiv.org/abs/2610.03827](https://arxiv.org/abs/2610.03827)

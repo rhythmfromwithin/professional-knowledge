@@ -1,11 +1,13 @@
 ---
-title: "Memory-State Critic for Asymmetric Actor-Critic with Application to Vision-Based Pursuit-Evasion"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.03830
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03830
 next_step: skim
+priority: high
+slack_ts: '1791438071.490209'
+source: cs.LG - Machine Learning
+status: unread
+title: Memory-State Critic for Asymmetric Actor-Critic with Application to Vision-Based
+  Pursuit-Evasion
 ---
 # Memory-State Critic for Asymmetric Actor-Critic with Application to Vision-Based Pursuit-Evasion
 > 原文: [https://arxiv.org/abs/2610.03830](https://arxiv.org/abs/2610.03830)

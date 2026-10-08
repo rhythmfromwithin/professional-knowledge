@@ -1,0 +1,14 @@
+---
+title: "Mitigating Uncertainty Interactions in GenAI-based Adaptive Systems: Vision, Challenges and Preliminary Guidelines"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2610.08881
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Mitigating Uncertainty Interactions in GenAI-based Adaptive Systems: Vision, Challenges and Preliminary Guidelines
+> 原文: [https://arxiv.org/abs/2610.08881](https://arxiv.org/abs/2610.08881)
+
+arXiv:2610.08881v1 Announce Type: new
+Abstract: Modern software-intensive systems increasingly incorporate GenAI components, including LLM and agentic subsystems, which introduce novel and compounding sources of uncertainty across system layers. The self-adaptive systems community has made significant strides in understanding and managing uncertainty. The intrinsic characteristics of GenAI, including probabilistic outputs, hallucinations, context window limitations, and memory staleness, demand a re-examination of existing frameworks and mitigation strategies for dealing with uncertainty, and especially, the interactions among uncertainty occurrences and manifestations. This position paper posits an initial conceptual framework that establishes preliminary guidelines for characterizing and mitigating uncertainty interactions in GenAI-based software-intensive systems. We argue that mitigation must be considered across the full software lifecycle, encompassing requirements analysis, design-time decisions, and run-time adaptations, which implies the unfeasibility of decoupling it from monitoring and analysis at execution. We introduce the notion of a mitigation function that maps uncertainty interaction categories, involved uncertainty types, system design characteristics, criticality, and mitigating architectural tactics to impacted quality attributes and corresponding tradeoffs. As a proof of concept, we apply the framework to three illustrative use cases: LLM serving, AI-driven software operations, and agentic cloud management.

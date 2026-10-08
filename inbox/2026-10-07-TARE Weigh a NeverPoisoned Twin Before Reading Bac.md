@@ -1,11 +1,12 @@
 ---
-title: "TARE: Weigh a Never-Poisoned Twin Before Reading Backdoor-Defense Costs"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.06994
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06994
 next_step: skim
+priority: low
+slack_ts: '1791438075.973329'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'TARE: Weigh a Never-Poisoned Twin Before Reading Backdoor-Defense Costs'
 ---
 # TARE: Weigh a Never-Poisoned Twin Before Reading Backdoor-Defense Costs
 > 原文: [https://arxiv.org/abs/2610.06994](https://arxiv.org/abs/2610.06994)

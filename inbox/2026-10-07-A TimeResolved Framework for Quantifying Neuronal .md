@@ -1,11 +1,12 @@
 ---
-title: "A Time-Resolved Framework for Quantifying Neuronal Network State Transitions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.08392
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08392
 next_step: skim
+priority: low
+slack_ts: '1791438073.005699'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A Time-Resolved Framework for Quantifying Neuronal Network State Transitions
 ---
 # A Time-Resolved Framework for Quantifying Neuronal Network State Transitions
 > 原文: [https://arxiv.org/abs/2610.08392](https://arxiv.org/abs/2610.08392)

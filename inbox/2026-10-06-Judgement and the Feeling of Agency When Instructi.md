@@ -1,11 +1,12 @@
 ---
-title: "Judgement and the Feeling of Agency When Instructing a Computer to Act"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.03722
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03722
 next_step: skim
+priority: low
+slack_ts: '1791438071.041409'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Judgement and the Feeling of Agency When Instructing a Computer to Act
 ---
 # Judgement and the Feeling of Agency When Instructing a Computer to Act
 > 原文: [https://arxiv.org/abs/2610.03722](https://arxiv.org/abs/2610.03722)

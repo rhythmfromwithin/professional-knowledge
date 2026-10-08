@@ -1,11 +1,13 @@
 ---
-title: "Configurations, not thresholds: the middle-income trap in the CEE members of the OECD"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.07974
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07974
 next_step: skim
+priority: low
+slack_ts: '1791438074.250739'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Configurations, not thresholds: the middle-income trap in the CEE members
+  of the OECD'
 ---
 # Configurations, not thresholds: the middle-income trap in the CEE members of the OECD
 > 原文: [https://arxiv.org/abs/2610.07974](https://arxiv.org/abs/2610.07974)

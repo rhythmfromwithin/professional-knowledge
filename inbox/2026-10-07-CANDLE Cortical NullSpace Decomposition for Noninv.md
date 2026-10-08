@@ -1,11 +1,12 @@
 ---
-title: "CANDLE: Cortical Null-Space Decomposition for Noninvasive Brain Source Imaging"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.07824
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07824
 next_step: skim
+priority: low
+slack_ts: '1791438073.771589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'CANDLE: Cortical Null-Space Decomposition for Noninvasive Brain Source Imaging'
 ---
 # CANDLE: Cortical Null-Space Decomposition for Noninvasive Brain Source Imaging
 > 原文: [https://arxiv.org/abs/2610.07824](https://arxiv.org/abs/2610.07824)

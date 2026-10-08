@@ -1,0 +1,14 @@
+---
+title: "Evaluating Change Point Detection Methods for Software Performance Regression Analysis"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2610.09023
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Evaluating Change Point Detection Methods for Software Performance Regression Analysis
+> 原文: [https://arxiv.org/abs/2610.09023](https://arxiv.org/abs/2610.09023)
+
+arXiv:2610.09023v1 Announce Type: new
+Abstract: Performance issues in software systems are a critical quality issue that can erode user trust, violate service-level agreements, and ultimately affect business efficiency. Consequently, software performance engineering has shifted its focus to developing robust techniques to detect performance regressions as early as possible in the development cycle. Performance regression analysis often relies on time series of performance measurements to detect significant changes in performance behavior. Change Point Detection (CPD) methods have been widely used to automate the identification of such changes in various domains, including finance, healthcare, and performance monitoring. However, the effectiveness of these methods for software performance measurements has not been thoroughly evaluated. In this paper, we present a comprehensive study to evaluate the effectiveness of various CPD methods on real-world software performance measurement datasets. We start by collecting performance measurement data from three large software systems and characterizing the unique properties of performance time series data. Then, we undertake a large-scale effort to annotate and evaluate the consistency of human annotators' identification of potential performance changes. Thereafter, we evaluate the accuracy of twelve distinct CPD methods in detecting potential performance changes, providing insights into their applicability and effectiveness in software performance regression analysis.

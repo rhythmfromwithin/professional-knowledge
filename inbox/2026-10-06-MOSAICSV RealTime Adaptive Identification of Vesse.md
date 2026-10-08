@@ -1,11 +1,13 @@
 ---
-title: "MOSAIC-SV: Real-Time Adaptive Identification of Vessel Dynamics for the Control and Deployment of Aquatic Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.03898
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03898
 next_step: skim
+priority: medium
+slack_ts: '1791438071.426749'
+source: cs.RO - Robotics
+status: unread
+title: 'MOSAIC-SV: Real-Time Adaptive Identification of Vessel Dynamics for the Control
+  and Deployment of Aquatic Robots'
 ---
 # MOSAIC-SV: Real-Time Adaptive Identification of Vessel Dynamics for the Control and Deployment of Aquatic Robots
 > 原文: [https://arxiv.org/abs/2610.03898](https://arxiv.org/abs/2610.03898)

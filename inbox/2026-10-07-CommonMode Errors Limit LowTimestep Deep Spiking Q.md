@@ -1,11 +1,12 @@
 ---
-title: "Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.07808
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07808
 next_step: skim
+priority: low
+slack_ts: '1791438074.113179'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks
 ---
 # Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks
 > 原文: [https://arxiv.org/abs/2610.07808](https://arxiv.org/abs/2610.07808)

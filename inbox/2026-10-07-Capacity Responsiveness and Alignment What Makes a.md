@@ -1,11 +1,12 @@
 ---
-title: "Capacity, Responsiveness and Alignment: What Makes a Latent Structure Actionable"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.06897
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06897
 next_step: skim
+priority: high
+slack_ts: '1791438073.896579'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Capacity, Responsiveness and Alignment: What Makes a Latent Structure Actionable'
 ---
 # Capacity, Responsiveness and Alignment: What Makes a Latent Structure Actionable
 > 原文: [https://arxiv.org/abs/2610.06897](https://arxiv.org/abs/2610.06897)

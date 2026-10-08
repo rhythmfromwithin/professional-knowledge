@@ -1,7 +1,10 @@
 ---
-title: "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss
+slack_ts: '1791438073.520699'
+source: Airbnb Engineering
+title: 'Beyond synthetic testing: Capturing and replaying real database workloads
+  at Airbnb'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

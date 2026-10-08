@@ -1,11 +1,12 @@
 ---
-title: "All the numbers: Amazon Prime Day 2026 powered by AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
 next_step: skim
+priority: high
+slack_ts: '1791438073.279909'
+source: AWS Blog
+status: unread
+title: 'All the numbers: Amazon Prime Day 2026 powered by AWS'
 ---
 # All the numbers: Amazon Prime Day 2026 powered by AWS
 > 原文: [https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/](https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/)

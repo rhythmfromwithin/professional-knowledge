@@ -1,11 +1,13 @@
 ---
-title: "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.03888
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03888
 next_step: skim
+priority: high
+slack_ts: '1791438072.108699'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'REACT: Physically and Chemically Consistent Reconstruction of Marine Active
+  Tracers'
 ---
 # REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers
 > 原文: [https://arxiv.org/abs/2610.03888](https://arxiv.org/abs/2610.03888)

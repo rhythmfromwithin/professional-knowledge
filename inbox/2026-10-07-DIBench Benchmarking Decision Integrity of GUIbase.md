@@ -1,11 +1,13 @@
 ---
-title: "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.06898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06898
 next_step: skim
+priority: low
+slack_ts: '1791438074.319749'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under
+  Deceptive Injections'
 ---
 # DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections
 > 原文: [https://arxiv.org/abs/2610.06898](https://arxiv.org/abs/2610.06898)

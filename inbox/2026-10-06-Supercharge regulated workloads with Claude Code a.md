@@ -1,11 +1,12 @@
 ---
-title: "Supercharge regulated workloads with Claude Code and Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1791438072.421499'
+source: AWS Blog
+status: unread
+title: Supercharge regulated workloads with Claude Code and Amazon Bedrock
 ---
 # Supercharge regulated workloads with Claude Code and Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/)

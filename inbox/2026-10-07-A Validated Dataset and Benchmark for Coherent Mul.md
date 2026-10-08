@@ -1,11 +1,12 @@
 ---
-title: "A Validated Dataset and Benchmark for Coherent Multi-Diagram SysML Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.07356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07356
 next_step: skim
+priority: low
+slack_ts: '1791438073.071979'
+source: cs.SE - Software Engineering
+status: unread
+title: A Validated Dataset and Benchmark for Coherent Multi-Diagram SysML Models
 ---
 # A Validated Dataset and Benchmark for Coherent Multi-Diagram SysML Models
 > 原文: [https://arxiv.org/abs/2610.07356](https://arxiv.org/abs/2610.07356)

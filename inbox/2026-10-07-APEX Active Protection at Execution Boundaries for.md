@@ -1,11 +1,12 @@
 ---
-title: "APEX: Active Protection at Execution Boundaries for LLM Agents"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.06966
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06966
 next_step: skim
+priority: low
+slack_ts: '1791438073.160929'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'APEX: Active Protection at Execution Boundaries for LLM Agents'
 ---
 # APEX: Active Protection at Execution Boundaries for LLM Agents
 > 原文: [https://arxiv.org/abs/2610.06966](https://arxiv.org/abs/2610.06966)

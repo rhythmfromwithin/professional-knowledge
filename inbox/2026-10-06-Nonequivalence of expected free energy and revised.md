@@ -1,11 +1,13 @@
 ---
-title: "Nonequivalence of expected free energy and revised system integrated information in noisy permutation networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.03735
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03735
 next_step: skim
+priority: low
+slack_ts: '1791438071.620989'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Nonequivalence of expected free energy and revised system integrated information
+  in noisy permutation networks
 ---
 # Nonequivalence of expected free energy and revised system integrated information in noisy permutation networks
 > 原文: [https://arxiv.org/abs/2610.03735](https://arxiv.org/abs/2610.03735)

@@ -1,11 +1,13 @@
 ---
-title: "On the Tightness and Computational Tractability of Higher-Dimensional Confidence Sequences"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.03727
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03727
 next_step: skim
+priority: medium
+slack_ts: '1791438071.688309'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: On the Tightness and Computational Tractability of Higher-Dimensional Confidence
+  Sequences
 ---
 # On the Tightness and Computational Tractability of Higher-Dimensional Confidence Sequences
 > 原文: [https://arxiv.org/abs/2610.03727](https://arxiv.org/abs/2610.03727)

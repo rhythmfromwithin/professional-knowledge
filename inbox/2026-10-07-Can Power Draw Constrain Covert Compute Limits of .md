@@ -1,11 +1,13 @@
 ---
-title: "Can Power Draw Constrain Covert Compute? Limits of Analogue Verification for AI Governance"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.07476
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07476
 next_step: skim
+priority: medium
+slack_ts: '1791438073.832239'
+source: cs.CY - Computers and Society
+status: unread
+title: Can Power Draw Constrain Covert Compute? Limits of Analogue Verification for
+  AI Governance
 ---
 # Can Power Draw Constrain Covert Compute? Limits of Analogue Verification for AI Governance
 > 原文: [https://arxiv.org/abs/2610.07476](https://arxiv.org/abs/2610.07476)

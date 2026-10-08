@@ -1,11 +1,12 @@
 ---
-title: "Labour reallocation and production-network recomposition in the green transition"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.04018
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.04018
 next_step: skim
+priority: low
+slack_ts: '1791438071.112859'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Labour reallocation and production-network recomposition in the green transition
 ---
 # Labour reallocation and production-network recomposition in the green transition
 > 原文: [https://arxiv.org/abs/2610.04018](https://arxiv.org/abs/2610.04018)

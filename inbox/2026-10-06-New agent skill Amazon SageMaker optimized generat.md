@@ -1,11 +1,13 @@
 ---
-title: "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/
 next_step: skim
+priority: high
+slack_ts: '1791438071.555709'
+source: AWS Blog
+status: unread
+title: 'New agent skill: Amazon SageMaker optimized generative AI inference for your
+  coding agent'
 ---
 # New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent
 > 原文: [https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/)

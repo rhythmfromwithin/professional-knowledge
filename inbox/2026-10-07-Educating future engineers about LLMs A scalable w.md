@@ -1,11 +1,12 @@
 ---
-title: "Educating future engineers about LLMs: A scalable workshop"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.07027
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07027
 next_step: skim
+priority: low
+slack_ts: '1791438074.510339'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Educating future engineers about LLMs: A scalable workshop'
 ---
 # Educating future engineers about LLMs: A scalable workshop
 > 原文: [https://arxiv.org/abs/2610.07027](https://arxiv.org/abs/2610.07027)

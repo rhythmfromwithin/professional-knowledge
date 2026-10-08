@@ -1,11 +1,12 @@
 ---
-title: "Building a context-aware AI assistant on AgentCore and OpenClaw"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/
 next_step: skim
+priority: high
+slack_ts: '1791438073.643229'
+source: AWS Blog
+status: unread
+title: Building a context-aware AI assistant on AgentCore and OpenClaw
 ---
 # Building a context-aware AI assistant on AgentCore and OpenClaw
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)

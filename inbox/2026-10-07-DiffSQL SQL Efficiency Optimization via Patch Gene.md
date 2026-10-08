@@ -1,11 +1,13 @@
 ---
-title: "Diff-SQL: SQL Efficiency Optimization via Patch Generation and Constraint Alignment"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.06857
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06857
 next_step: skim
+priority: low
+slack_ts: '1791438074.442219'
+source: cs.DB - Databases
+status: unread
+title: 'Diff-SQL: SQL Efficiency Optimization via Patch Generation and Constraint
+  Alignment'
 ---
 # Diff-SQL: SQL Efficiency Optimization via Patch Generation and Constraint Alignment
 > 原文: [https://arxiv.org/abs/2610.06857](https://arxiv.org/abs/2610.06857)
