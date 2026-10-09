@@ -1,11 +1,12 @@
 ---
-title: "Sharing AI progress in mathematics"
-source: "OpenAI Blog"
-link: https://openai.com/index/sharing-ai-progress-in-mathematics
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/sharing-ai-progress-in-mathematics
 next_step: skim
+priority: high
+slack_ts: '1791524737.344489'
+source: OpenAI Blog
+status: unread
+title: Sharing AI progress in mathematics
 ---
 # Sharing AI progress in mathematics
 > 原文: [https://openai.com/index/sharing-ai-progress-in-mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)

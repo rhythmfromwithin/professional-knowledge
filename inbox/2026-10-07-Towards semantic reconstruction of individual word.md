@@ -1,11 +1,12 @@
 ---
-title: "Towards semantic reconstruction of individual words from fnirs using clip loss"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.07120
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07120
 next_step: skim
+priority: low
+slack_ts: '1791524737.749889'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Towards semantic reconstruction of individual words from fnirs using clip loss
 ---
 # Towards semantic reconstruction of individual words from fnirs using clip loss
 > 原文: [https://arxiv.org/abs/2610.07120](https://arxiv.org/abs/2610.07120)

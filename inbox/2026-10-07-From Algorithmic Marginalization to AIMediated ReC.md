@@ -1,11 +1,13 @@
 ---
-title: "From Algorithmic Marginalization to AI-Mediated Re-Centering: Can Culturally Grounded AI Bring Hakka Language and Culture Back into Mainstream Society?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.07672
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07672
 next_step: skim
+priority: medium
+slack_ts: '1791524733.077629'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Algorithmic Marginalization to AI-Mediated Re-Centering: Can Culturally
+  Grounded AI Bring Hakka Language and Culture Back into Mainstream Society?'
 ---
 # From Algorithmic Marginalization to AI-Mediated Re-Centering: Can Culturally Grounded AI Bring Hakka Language and Culture Back into Mainstream Society?
 > 原文: [https://arxiv.org/abs/2610.07672](https://arxiv.org/abs/2610.07672)

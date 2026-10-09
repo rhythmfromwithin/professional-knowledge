@@ -1,11 +1,12 @@
 ---
-title: "A Connectome Test of the Fly Hashing Algorithm"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.09114
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09114
 next_step: skim
+priority: low
+slack_ts: '1791524738.797209'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Connectome Test of the Fly Hashing Algorithm
 ---
 # A Connectome Test of the Fly Hashing Algorithm
 > 原文: [https://arxiv.org/abs/2610.09114](https://arxiv.org/abs/2610.09114)

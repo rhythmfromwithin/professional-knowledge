@@ -1,11 +1,13 @@
 ---
-title: "RMRRT: Riemannian Barrier Metric RRT for Inequality-Aware Steering on Equality Manifolds"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.06863
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06863
 next_step: skim
+priority: medium
+slack_ts: '1791524735.986249'
+source: cs.RO - Robotics
+status: unread
+title: 'RMRRT: Riemannian Barrier Metric RRT for Inequality-Aware Steering on Equality
+  Manifolds'
 ---
 # RMRRT: Riemannian Barrier Metric RRT for Inequality-Aware Steering on Equality Manifolds
 > 原文: [https://arxiv.org/abs/2610.06863](https://arxiv.org/abs/2610.06863)

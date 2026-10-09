@@ -1,0 +1,14 @@
+---
+title: "The optimal information complexity of VC learning"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2610.10600
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# The optimal information complexity of VC learning
+> 原文: [https://arxiv.org/abs/2610.10600](https://arxiv.org/abs/2610.10600)
+
+arXiv:2610.10600v1 Announce Type: new
+Abstract: Steinke and Zakynthinou(2020) introduces the Conditional Mutual Information (CMI) framework of analyzing the information complexity of learning algorithms based on algorithm-dependent information-theoretic quantities. We study one of these quantities, the evaluated Conditional Mutual Information (eCMI). It has been an interesting question whether the optimal PAC guarantee for VC classes can be recovered from the algorithm-dependent analyses via CMI. And we show that it is possible to recover this guarantee by constructing a learning algorithm whose eCMI is of order O(d) in the realizable case, where d is the VC-dimension of the concept class. Specially, our algorithm is a randomized Majority-of-5 base learners with optimal in-expectation generalization guarantee.

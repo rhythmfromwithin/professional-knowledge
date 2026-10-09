@@ -1,11 +1,13 @@
 ---
-title: "Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.06902
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06902
 next_step: skim
+priority: high
+slack_ts: '1791524738.053539'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical
+  Retrieval for Long-Document QA'
 ---
 # Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA
 > 原文: [https://arxiv.org/abs/2610.06902](https://arxiv.org/abs/2610.06902)

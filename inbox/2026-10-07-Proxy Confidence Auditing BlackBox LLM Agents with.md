@@ -1,11 +1,12 @@
 ---
-title: "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.03894
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.03894
 next_step: skim
+priority: high
+slack_ts: '1791524735.764339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate''s Log-Probabilities'
 ---
 # Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities
 > 原文: [https://arxiv.org/abs/2610.03894](https://arxiv.org/abs/2610.03894)

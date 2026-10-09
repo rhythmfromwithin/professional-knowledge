@@ -1,11 +1,13 @@
 ---
-title: "Neural networks as decision trees: an analytical solution for learning and neural selectivity"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.08228
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08228
 next_step: skim
+priority: low
+slack_ts: '1791524735.040879'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Neural networks as decision trees: an analytical solution for learning and
+  neural selectivity'
 ---
 # Neural networks as decision trees: an analytical solution for learning and neural selectivity
 > 原文: [https://arxiv.org/abs/2610.08228](https://arxiv.org/abs/2610.08228)

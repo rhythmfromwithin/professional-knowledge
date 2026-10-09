@@ -1,11 +1,13 @@
 ---
-title: "Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.06880
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06880
 next_step: skim
+priority: high
+slack_ts: '1791524735.141069'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection:
+  Evidence from Laboratory and Variable-Speed Industrial Benchmarks'
 ---
 # Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks
 > 原文: [https://arxiv.org/abs/2610.06880](https://arxiv.org/abs/2610.06880)

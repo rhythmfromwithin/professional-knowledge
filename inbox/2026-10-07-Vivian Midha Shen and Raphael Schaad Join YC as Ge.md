@@ -1,11 +1,12 @@
 ---
-title: "Vivian Midha Shen and Raphael Schaad Join YC as General Partners"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/welcome-vivian-and-raphael/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/welcome-vivian-and-raphael/
 next_step: skim
+priority: high
+slack_ts: '1791524738.127739'
+source: Y Combinator
+status: unread
+title: Vivian Midha Shen and Raphael Schaad Join YC as General Partners
 ---
 # Vivian Midha Shen and Raphael Schaad Join YC as General Partners
 > 原文: [https://www.ycombinator.com/blog/welcome-vivian-and-raphael/](https://www.ycombinator.com/blog/welcome-vivian-and-raphael/)

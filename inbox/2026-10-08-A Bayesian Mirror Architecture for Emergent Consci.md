@@ -1,11 +1,13 @@
 ---
-title: "A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.08792
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08792
 next_step: skim
+priority: high
+slack_ts: '1791524738.715429'
+source: cs.LG - Machine Learning
+status: unread
+title: 'A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies,
+  Self-Manifolds, and Hybrid Event-Self Binding'
 ---
 # A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding
 > 原文: [https://arxiv.org/abs/2610.08792](https://arxiv.org/abs/2610.08792)

@@ -1,11 +1,13 @@
 ---
-title: "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/
 next_step: skim
+priority: high
+slack_ts: '1791524736.702669'
+source: AWS Blog
+status: unread
+title: 'Responsible AI governance: How AWS positions customers to align with ISO/IEC
+  42005:2025'
 ---
 # Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025
 > 原文: [https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/](https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/)

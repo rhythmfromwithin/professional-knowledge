@@ -1,11 +1,14 @@
 ---
-title: "Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.07412
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07412
 next_step: skim
+priority: low
+slack_ts: '1791524737.460299'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of
+  Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element
+  Model
 ---
 # Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model
 > 原文: [https://arxiv.org/abs/2610.07412](https://arxiv.org/abs/2610.07412)

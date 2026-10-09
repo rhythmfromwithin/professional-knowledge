@@ -1,11 +1,12 @@
 ---
-title: "Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.06889
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06889
 next_step: skim
+priority: high
+slack_ts: '1791524738.566259'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes'
 ---
 # Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes
 > 原文: [https://arxiv.org/abs/2610.06889](https://arxiv.org/abs/2610.06889)

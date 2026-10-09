@@ -1,11 +1,12 @@
 ---
-title: "Trajectools Demo: Towards No-Code Solutions for Movement Data Analytics"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.06858
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06858
 next_step: skim
+priority: low
+slack_ts: '1791524737.976499'
+source: cs.DB - Databases
+status: unread
+title: 'Trajectools Demo: Towards No-Code Solutions for Movement Data Analytics'
 ---
 # Trajectools Demo: Towards No-Code Solutions for Movement Data Analytics
 > 原文: [https://arxiv.org/abs/2610.06858](https://arxiv.org/abs/2610.06858)

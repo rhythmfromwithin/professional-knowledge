@@ -1,11 +1,12 @@
 ---
-title: "When Robots Crash: Optimal Asynchronous Gathering at Weber Meeting Nodes"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.06939
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06939
 next_step: skim
+priority: medium
+slack_ts: '1791524738.425759'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'When Robots Crash: Optimal Asynchronous Gathering at Weber Meeting Nodes'
 ---
 # When Robots Crash: Optimal Asynchronous Gathering at Weber Meeting Nodes
 > 原文: [https://arxiv.org/abs/2610.06939](https://arxiv.org/abs/2610.06939)

@@ -1,11 +1,13 @@
 ---
-title: "TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.06855
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06855
 next_step: skim
+priority: high
+slack_ts: '1791524737.529379'
+source: cs.LG - Machine Learning
+status: unread
+title: 'TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular
+  Margin Learning'
 ---
 # TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning
 > 原文: [https://arxiv.org/abs/2610.06855](https://arxiv.org/abs/2610.06855)

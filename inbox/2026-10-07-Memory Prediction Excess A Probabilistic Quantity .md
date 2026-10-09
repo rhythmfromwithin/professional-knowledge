@@ -1,11 +1,13 @@
 ---
-title: "Memory Prediction Excess: A Probabilistic Quantity for Predictive Gain and Memory Length in Stochastic Processes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.06894
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06894
 next_step: skim
+priority: medium
+slack_ts: '1791524734.161339'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Memory Prediction Excess: A Probabilistic Quantity for Predictive Gain and
+  Memory Length in Stochastic Processes'
 ---
 # Memory Prediction Excess: A Probabilistic Quantity for Predictive Gain and Memory Length in Stochastic Processes
 > 原文: [https://arxiv.org/abs/2610.06894](https://arxiv.org/abs/2610.06894)

@@ -1,11 +1,13 @@
 ---
-title: "Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.06882
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06882
 next_step: skim
+priority: medium
+slack_ts: '1791524733.399529'
+source: cs.RO - Robotics
+status: unread
+title: Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent
+  Reach-Avoid Games
 ---
 # Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games
 > 原文: [https://arxiv.org/abs/2610.06882](https://arxiv.org/abs/2610.06882)

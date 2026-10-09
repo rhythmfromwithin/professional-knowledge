@@ -1,11 +1,13 @@
 ---
-title: "Tellimation: Making Narrative Gaps Visible in Children's Storytelling with Just-in-Time Animation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.07039
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07039
 next_step: skim
+priority: low
+slack_ts: '1791524737.601759'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Tellimation: Making Narrative Gaps Visible in Children''s Storytelling with
+  Just-in-Time Animation'
 ---
 # Tellimation: Making Narrative Gaps Visible in Children's Storytelling with Just-in-Time Animation
 > 原文: [https://arxiv.org/abs/2610.07039](https://arxiv.org/abs/2610.07039)

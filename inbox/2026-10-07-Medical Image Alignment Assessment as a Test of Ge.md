@@ -1,11 +1,13 @@
 ---
-title: "Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning in Frontier Multimodal Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.06896
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06896
 next_step: skim
+priority: medium
+slack_ts: '1791524734.084279'
+source: cs.CV - Computer Vision
+status: unread
+title: Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning
+  in Frontier Multimodal Models
 ---
 # Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning in Frontier Multimodal Models
 > 原文: [https://arxiv.org/abs/2610.06896](https://arxiv.org/abs/2610.06896)

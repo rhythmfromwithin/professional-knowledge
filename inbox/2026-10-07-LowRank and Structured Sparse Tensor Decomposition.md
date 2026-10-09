@@ -1,11 +1,13 @@
 ---
-title: "Low-Rank and Structured Sparse Tensor Decomposition for Anomaly Detection in Multivariate Functional Data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.06930
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06930
 next_step: skim
+priority: medium
+slack_ts: '1791524733.931519'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Low-Rank and Structured Sparse Tensor Decomposition for Anomaly Detection in
+  Multivariate Functional Data
 ---
 # Low-Rank and Structured Sparse Tensor Decomposition for Anomaly Detection in Multivariate Functional Data
 > 原文: [https://arxiv.org/abs/2610.06930](https://arxiv.org/abs/2610.06930)

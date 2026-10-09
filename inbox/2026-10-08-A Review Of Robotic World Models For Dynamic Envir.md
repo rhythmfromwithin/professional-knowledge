@@ -1,11 +1,13 @@
 ---
-title: "A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.08800
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08800
 next_step: skim
+priority: medium
+slack_ts: '1791524739.029459'
+source: cs.RO - Robotics
+status: unread
+title: A Review Of Robotic World Models For Dynamic Environments Based On Factor And
+  Scene Graphs
 ---
 # A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs
 > 原文: [https://arxiv.org/abs/2610.08800](https://arxiv.org/abs/2610.08800)

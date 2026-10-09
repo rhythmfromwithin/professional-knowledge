@@ -1,11 +1,13 @@
 ---
-title: "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/
 next_step: skim
+priority: high
+slack_ts: '1791524739.102679'
+source: AWS Blog
+status: unread
+title: 'AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service
+  availability updates, Kiro workflows, and more (October 5, 2026)'
 ---
 # AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)
 > 原文: [https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/)

@@ -1,11 +1,13 @@
 ---
-title: "A Deployment-Aware Feasibility Framework for Machine Learning-Based IoT Intrusion Detection Across Edge, Fog, and Cloud Architectures"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.08867
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08867
 next_step: skim
+priority: low
+slack_ts: '1791524738.868879'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Deployment-Aware Feasibility Framework for Machine Learning-Based IoT Intrusion
+  Detection Across Edge, Fog, and Cloud Architectures
 ---
 # A Deployment-Aware Feasibility Framework for Machine Learning-Based IoT Intrusion Detection Across Edge, Fog, and Cloud Architectures
 > 原文: [https://arxiv.org/abs/2610.08867](https://arxiv.org/abs/2610.08867)

@@ -1,11 +1,12 @@
 ---
-title: "RADC: Risk-Aware Dual Caching for Vision-Language Test-Time Adaptation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.06932
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.06932
 next_step: skim
+priority: medium
+slack_ts: '1791524735.909889'
+source: cs.CV - Computer Vision
+status: unread
+title: 'RADC: Risk-Aware Dual Caching for Vision-Language Test-Time Adaptation'
 ---
 # RADC: Risk-Aware Dual Caching for Vision-Language Test-Time Adaptation
 > 原文: [https://arxiv.org/abs/2610.06932](https://arxiv.org/abs/2610.06932)

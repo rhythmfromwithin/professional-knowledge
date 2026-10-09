@@ -1,11 +1,13 @@
 ---
-title: "Psychological Safety in Software Engineering Teams: A Systematic Mapping Study of Team Processes and Performance"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.08896
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08896
 next_step: skim
+priority: low
+slack_ts: '1791524743.069089'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Psychological Safety in Software Engineering Teams: A Systematic Mapping Study
+  of Team Processes and Performance'
 ---
 # Psychological Safety in Software Engineering Teams: A Systematic Mapping Study of Team Processes and Performance
 > 原文: [https://arxiv.org/abs/2610.08896](https://arxiv.org/abs/2610.08896)

@@ -1,11 +1,13 @@
 ---
-title: "Reliability of AI Agents: Rater Effects, Drift, and the Return to an Evaluation Program"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.07003
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07003
 next_step: skim
+priority: low
+slack_ts: '1791524736.131919'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Reliability of AI Agents: Rater Effects, Drift, and the Return to an Evaluation
+  Program'
 ---
 # Reliability of AI Agents: Rater Effects, Drift, and the Return to an Evaluation Program
 > 原文: [https://arxiv.org/abs/2610.07003](https://arxiv.org/abs/2610.07003)

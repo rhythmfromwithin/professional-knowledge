@@ -1,11 +1,12 @@
 ---
-title: "Introducing Quine: An AI research system designed for the complexity of biology"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/
 next_step: skim
+priority: high
+slack_ts: '1791524733.689189'
+source: Microsoft Research
+status: unread
+title: 'Introducing Quine: An AI research system designed for the complexity of biology'
 ---
 # Introducing Quine: An AI research system designed for the complexity of biology
 > 原文: [https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/)

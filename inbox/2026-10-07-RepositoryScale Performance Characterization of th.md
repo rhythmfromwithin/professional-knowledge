@@ -1,11 +1,12 @@
 ---
-title: "Repository-Scale Performance Characterization of the IO500 Benchmark"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.07035
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07035
 next_step: skim
+priority: medium
+slack_ts: '1791524736.600349'
+source: cs.DC - Distributed Computing
+status: unread
+title: Repository-Scale Performance Characterization of the IO500 Benchmark
 ---
 # Repository-Scale Performance Characterization of the IO500 Benchmark
 > 原文: [https://arxiv.org/abs/2610.07035](https://arxiv.org/abs/2610.07035)

@@ -1,11 +1,12 @@
 ---
-title: "Optimal Retirement of European Fossil Fuel Power Plants and the Cost of Delay"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.07239
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07239
 next_step: skim
+priority: low
+slack_ts: '1791524735.364709'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Optimal Retirement of European Fossil Fuel Power Plants and the Cost of Delay
 ---
 # Optimal Retirement of European Fossil Fuel Power Plants and the Cost of Delay
 > 原文: [https://arxiv.org/abs/2610.07239](https://arxiv.org/abs/2610.07239)

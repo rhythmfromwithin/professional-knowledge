@@ -1,11 +1,13 @@
 ---
-title: "When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.07427
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.07427
 next_step: skim
+priority: medium
+slack_ts: '1791524738.494899'
+source: cs.CY - Computers and Society
+status: unread
+title: 'When the Rule-Maker Runs the World Championship: Late Patches and Procedural
+  Accountability in League of Legends'
 ---
 # When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends
 > 原文: [https://arxiv.org/abs/2610.07427](https://arxiv.org/abs/2610.07427)

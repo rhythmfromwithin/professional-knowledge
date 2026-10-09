@@ -1,11 +1,13 @@
 ---
-title: "A Regulator's Career Option: Revolving Doors, Regulatory Signals, and Firm Tail Risk"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.08804
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08804
 next_step: skim
+priority: low
+slack_ts: '1791524738.946769'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'A Regulator''s Career Option: Revolving Doors, Regulatory Signals, and Firm
+  Tail Risk'
 ---
 # A Regulator's Career Option: Revolving Doors, Regulatory Signals, and Firm Tail Risk
 > 原文: [https://arxiv.org/abs/2610.08804](https://arxiv.org/abs/2610.08804)
