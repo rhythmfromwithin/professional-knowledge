@@ -1,11 +1,12 @@
 ---
-title: "Careful Judge: Safe and Efficient Human-AI Collaborative Decision Making"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.09043
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09043
 next_step: skim
+priority: medium
+slack_ts: '1791610121.080309'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Careful Judge: Safe and Efficient Human-AI Collaborative Decision Making'
 ---
 # Careful Judge: Safe and Efficient Human-AI Collaborative Decision Making
 > 原文: [https://arxiv.org/abs/2610.09043](https://arxiv.org/abs/2610.09043)

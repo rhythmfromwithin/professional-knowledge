@@ -1,11 +1,12 @@
 ---
-title: "Autonomous Driving Research Requires a Community-Driven Data Paradigm"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.08825
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08825
 next_step: skim
+priority: medium
+slack_ts: '1791610119.017009'
+source: cs.CV - Computer Vision
+status: unread
+title: Autonomous Driving Research Requires a Community-Driven Data Paradigm
 ---
 # Autonomous Driving Research Requires a Community-Driven Data Paradigm
 > 原文: [https://arxiv.org/abs/2610.08825](https://arxiv.org/abs/2610.08825)

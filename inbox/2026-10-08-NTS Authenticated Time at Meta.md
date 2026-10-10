@@ -1,11 +1,12 @@
 ---
-title: "NTS: Authenticated Time at Meta"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/
 next_step: skim
+priority: medium
+slack_ts: '1791610127.128469'
+source: Meta Engineering
+status: unread
+title: 'NTS: Authenticated Time at Meta'
 ---
 # NTS: Authenticated Time at Meta
 > 原文: [https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/](https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/)

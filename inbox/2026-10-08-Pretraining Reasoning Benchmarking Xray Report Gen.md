@@ -1,11 +1,13 @@
 ---
-title: "Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.08813
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08813
 next_step: skim
+priority: medium
+slack_ts: '1791610128.966799'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert
+  Plus Dataset'
 ---
 # Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset
 > 原文: [https://arxiv.org/abs/2610.08813](https://arxiv.org/abs/2610.08813)

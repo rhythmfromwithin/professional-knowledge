@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Change Point Detection Methods for Software Performance Regression Analysis"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.09023
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09023
 next_step: skim
+priority: low
+slack_ts: '1791610123.327909'
+source: cs.SE - Software Engineering
+status: unread
+title: Evaluating Change Point Detection Methods for Software Performance Regression
+  Analysis
 ---
 # Evaluating Change Point Detection Methods for Software Performance Regression Analysis
 > 原文: [https://arxiv.org/abs/2610.09023](https://arxiv.org/abs/2610.09023)

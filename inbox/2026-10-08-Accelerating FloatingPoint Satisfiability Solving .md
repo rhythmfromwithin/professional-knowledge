@@ -1,11 +1,12 @@
 ---
-title: "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.08808
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08808
 next_step: skim
+priority: high
+slack_ts: '1791610117.606509'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Accelerating Floating-Point Satisfiability Solving via Gradient Normalization
 ---
 # Accelerating Floating-Point Satisfiability Solving via Gradient Normalization
 > 原文: [https://arxiv.org/abs/2610.08808](https://arxiv.org/abs/2610.08808)

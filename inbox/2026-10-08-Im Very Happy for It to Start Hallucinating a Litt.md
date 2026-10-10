@@ -1,11 +1,5 @@
 ---
-title: ""I'm Very Happy for It to Start Hallucinating a Little Bit": Using ClayFlect to Negotiate Multimodal AI Representations in Material Meaning-Making"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.08943
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1791610124.626199'
 ---
 # "I'm Very Happy for It to Start Hallucinating a Little Bit": Using ClayFlect to Negotiate Multimodal AI Representations in Material Meaning-Making
 > 原文: [https://arxiv.org/abs/2610.08943](https://arxiv.org/abs/2610.08943)

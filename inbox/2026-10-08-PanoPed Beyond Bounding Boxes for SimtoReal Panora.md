@@ -1,11 +1,12 @@
 ---
-title: "PanoPed: Beyond Bounding Boxes for Sim-to-Real Panoramic Pedestrian Tracking"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.08826
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08826
 next_step: skim
+priority: medium
+slack_ts: '1791610127.795409'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PanoPed: Beyond Bounding Boxes for Sim-to-Real Panoramic Pedestrian Tracking'
 ---
 # PanoPed: Beyond Bounding Boxes for Sim-to-Real Panoramic Pedestrian Tracking
 > 原文: [https://arxiv.org/abs/2610.08826](https://arxiv.org/abs/2610.08826)

@@ -1,11 +1,13 @@
 ---
-title: "CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.09276
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09276
 next_step: skim
+priority: low
+slack_ts: '1791610120.785739'
+source: cs.DB - Databases
+status: unread
+title: 'CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration
+  Tuning'
 ---
 # CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning
 > 原文: [https://arxiv.org/abs/2610.09276](https://arxiv.org/abs/2610.09276)

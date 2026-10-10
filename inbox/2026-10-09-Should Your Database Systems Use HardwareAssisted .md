@@ -1,11 +1,13 @@
 ---
-title: "Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production?"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.11525
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11525
 next_step: skim
+priority: low
+slack_ts: '1791610148.663359'
+source: cs.DB - Databases
+status: unread
+title: Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions
+  in Production?
 ---
 # Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production?
 > 原文: [https://arxiv.org/abs/2610.11525](https://arxiv.org/abs/2610.11525)

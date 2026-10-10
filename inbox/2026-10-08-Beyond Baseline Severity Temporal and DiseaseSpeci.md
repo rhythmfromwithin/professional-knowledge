@@ -1,11 +1,13 @@
 ---
-title: "Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.08809
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08809
 next_step: skim
+priority: high
+slack_ts: '1791610119.281549'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression
+  Outcomes Following Mindfulness Interventions'
 ---
 # Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions
 > 原文: [https://arxiv.org/abs/2610.08809](https://arxiv.org/abs/2610.08809)

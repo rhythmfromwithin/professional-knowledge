@@ -1,11 +1,12 @@
 ---
-title: "Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.08868
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08868
 next_step: skim
+priority: low
+slack_ts: '1791610132.699399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting
 ---
 # Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting
 > 原文: [https://arxiv.org/abs/2610.08868](https://arxiv.org/abs/2610.08868)

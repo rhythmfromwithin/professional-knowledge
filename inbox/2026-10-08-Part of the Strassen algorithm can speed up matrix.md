@@ -1,11 +1,13 @@
 ---
-title: "Part of the Strassen algorithm can speed up matrix multiplication in a parallel pebbling game"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.08929
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08929
 next_step: skim
+priority: medium
+slack_ts: '1791610128.034249'
+source: cs.DC - Distributed Computing
+status: unread
+title: Part of the Strassen algorithm can speed up matrix multiplication in a parallel
+  pebbling game
 ---
 # Part of the Strassen algorithm can speed up matrix multiplication in a parallel pebbling game
 > 原文: [https://arxiv.org/abs/2610.08929](https://arxiv.org/abs/2610.08929)

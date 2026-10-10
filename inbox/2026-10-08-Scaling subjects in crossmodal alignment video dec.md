@@ -1,11 +1,13 @@
 ---
-title: "Scaling subjects in cross-modal alignment: video decoding with EEG foundation model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.09287
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09287
 next_step: skim
+priority: low
+slack_ts: '1791610130.624069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Scaling subjects in cross-modal alignment: video decoding with EEG foundation
+  model'
 ---
 # Scaling subjects in cross-modal alignment: video decoding with EEG foundation model
 > 原文: [https://arxiv.org/abs/2610.09287](https://arxiv.org/abs/2610.09287)

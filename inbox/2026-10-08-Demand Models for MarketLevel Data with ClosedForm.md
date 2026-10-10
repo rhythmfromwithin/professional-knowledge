@@ -1,11 +1,12 @@
 ---
-title: "Demand Models for Market-Level Data with Closed-Form Inverses"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.10069
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10069
 next_step: skim
+priority: low
+slack_ts: '1791610122.646229'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Demand Models for Market-Level Data with Closed-Form Inverses
 ---
 # Demand Models for Market-Level Data with Closed-Form Inverses
 > 原文: [https://arxiv.org/abs/2610.10069](https://arxiv.org/abs/2610.10069)

@@ -1,11 +1,12 @@
 ---
-title: "Building Navigable Graphs Without Search in Three Composable Stages"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.09041
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09041
 next_step: skim
+priority: low
+slack_ts: '1791610120.369769'
+source: cs.DB - Databases
+status: unread
+title: Building Navigable Graphs Without Search in Three Composable Stages
 ---
 # Building Navigable Graphs Without Search in Three Composable Stages
 > 原文: [https://arxiv.org/abs/2610.09041](https://arxiv.org/abs/2610.09041)

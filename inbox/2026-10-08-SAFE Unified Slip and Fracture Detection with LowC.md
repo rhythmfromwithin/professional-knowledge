@@ -1,11 +1,13 @@
 ---
-title: "SAFE: Unified Slip and Fracture Detection with Low-Cost Acoustic Sensing in Robotic Grasping"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.08802
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08802
 next_step: skim
+priority: medium
+slack_ts: '1791610130.400289'
+source: cs.RO - Robotics
+status: unread
+title: 'SAFE: Unified Slip and Fracture Detection with Low-Cost Acoustic Sensing in
+  Robotic Grasping'
 ---
 # SAFE: Unified Slip and Fracture Detection with Low-Cost Acoustic Sensing in Robotic Grasping
 > 原文: [https://arxiv.org/abs/2610.08802](https://arxiv.org/abs/2610.08802)

@@ -1,11 +1,12 @@
 ---
-title: "JevForest: Path Voting for Budgeted Feature Acquisition"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.10615
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10615
 next_step: skim
+priority: medium
+slack_ts: '1791610143.643849'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'JevForest: Path Voting for Budgeted Feature Acquisition'
 ---
 # JevForest: Path Voting for Budgeted Feature Acquisition
 > 原文: [https://arxiv.org/abs/2610.10615](https://arxiv.org/abs/2610.10615)

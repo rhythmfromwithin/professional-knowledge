@@ -1,11 +1,12 @@
 ---
-title: "Talking with Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.09064
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09064
 next_step: skim
+priority: medium
+slack_ts: '1791610131.078139'
+source: cs.CY - Computers and Society
+status: unread
+title: Talking with Language Models
 ---
 # Talking with Language Models
 > 原文: [https://arxiv.org/abs/2610.09064](https://arxiv.org/abs/2610.09064)

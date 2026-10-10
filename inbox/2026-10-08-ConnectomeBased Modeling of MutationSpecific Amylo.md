@@ -1,11 +1,13 @@
 ---
-title: "Connectome-Based Modeling of Mutation-Specific Amyloid-$\beta$ Aggregation in Familial Alzheimer's Disease"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.09583
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09583
 next_step: skim
+priority: low
+slack_ts: '1791610122.207449'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: "Connectome-Based Modeling of Mutation-Specific Amyloid-$\beta$ Aggregation\
+  \ in Familial Alzheimer's Disease"
 ---
 # Connectome-Based Modeling of Mutation-Specific Amyloid-$\beta$ Aggregation in Familial Alzheimer's Disease
 > 原文: [https://arxiv.org/abs/2610.09583](https://arxiv.org/abs/2610.09583)

@@ -1,11 +1,12 @@
 ---
-title: "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1791610129.568779'
+source: AWS Blog
+status: unread
+title: Rethinking access control for RAG with Amazon Quick and Amazon Bedrock
 ---
 # Rethinking access control for RAG with Amazon Quick and Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/)

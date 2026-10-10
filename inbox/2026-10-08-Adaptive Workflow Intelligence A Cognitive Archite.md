@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.08793
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08793
 next_step: skim
+priority: high
+slack_ts: '1791610117.834559'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven
+  Enterprise Automation'
 ---
 # Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation
 > 原文: [https://arxiv.org/abs/2610.08793](https://arxiv.org/abs/2610.08793)

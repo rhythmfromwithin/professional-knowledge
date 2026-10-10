@@ -1,11 +1,13 @@
 ---
-title: "RiftANN: Efficient Graph Traversal for Vector Search with RDMA-Based Memory Disaggregation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.08990
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08990
 next_step: skim
+priority: low
+slack_ts: '1791610129.792819'
+source: cs.DB - Databases
+status: unread
+title: 'RiftANN: Efficient Graph Traversal for Vector Search with RDMA-Based Memory
+  Disaggregation'
 ---
 # RiftANN: Efficient Graph Traversal for Vector Search with RDMA-Based Memory Disaggregation
 > 原文: [https://arxiv.org/abs/2610.08990](https://arxiv.org/abs/2610.08990)

@@ -1,11 +1,12 @@
 ---
-title: "The Modular CMA-ES: A Framework for Modern Evolution Strategies"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.09699
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09699
 next_step: skim
+priority: low
+slack_ts: '1791610131.303809'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Modular CMA-ES: A Framework for Modern Evolution Strategies'
 ---
 # The Modular CMA-ES: A Framework for Modern Evolution Strategies
 > 原文: [https://arxiv.org/abs/2610.09699](https://arxiv.org/abs/2610.09699)

@@ -1,11 +1,13 @@
 ---
-title: "Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.12251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12251
 next_step: skim
+priority: low
+slack_ts: '1791610150.669619'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts
+  Networks
 ---
 # Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts Networks
 > 原文: [https://arxiv.org/abs/2610.12251](https://arxiv.org/abs/2610.12251)

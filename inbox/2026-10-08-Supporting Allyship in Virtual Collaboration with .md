@@ -1,11 +1,13 @@
 ---
-title: "Supporting Allyship in Virtual Collaboration with Artificial Intelligence: A Scenario-Based Study"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.09061
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09061
 next_step: skim
+priority: low
+slack_ts: '1791610130.852649'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Supporting Allyship in Virtual Collaboration with Artificial Intelligence:
+  A Scenario-Based Study'
 ---
 # Supporting Allyship in Virtual Collaboration with Artificial Intelligence: A Scenario-Based Study
 > 原文: [https://arxiv.org/abs/2610.09061](https://arxiv.org/abs/2610.09061)

@@ -1,11 +1,13 @@
 ---
-title: "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.08814
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08814
 next_step: skim
+priority: high
+slack_ts: '1791610130.174189'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain
+  Reasoning'
 ---
 # Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning
 > 原文: [https://arxiv.org/abs/2610.08814](https://arxiv.org/abs/2610.08814)

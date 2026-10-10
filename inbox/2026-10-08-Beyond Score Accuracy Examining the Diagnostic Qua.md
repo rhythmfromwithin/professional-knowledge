@@ -1,11 +1,13 @@
 ---
-title: "Beyond Score Accuracy: Examining the Diagnostic Quality of LLM-Generated Structured Assessment in Higher Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.09460
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09460
 next_step: skim
+priority: medium
+slack_ts: '1791610119.516249'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Beyond Score Accuracy: Examining the Diagnostic Quality of LLM-Generated Structured
+  Assessment in Higher Education'
 ---
 # Beyond Score Accuracy: Examining the Diagnostic Quality of LLM-Generated Structured Assessment in Higher Education
 > 原文: [https://arxiv.org/abs/2610.09460](https://arxiv.org/abs/2610.09460)

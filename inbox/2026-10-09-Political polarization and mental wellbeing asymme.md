@@ -1,11 +1,12 @@
 ---
-title: "Political polarization and mental wellbeing: asymmetric evidence for bidirectionality"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.11601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11601
 next_step: skim
+priority: medium
+slack_ts: '1791610146.656679'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Political polarization and mental wellbeing: asymmetric evidence for bidirectionality'
 ---
 # Political polarization and mental wellbeing: asymmetric evidence for bidirectionality
 > 原文: [https://arxiv.org/abs/2610.11601](https://arxiv.org/abs/2610.11601)

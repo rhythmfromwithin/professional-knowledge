@@ -1,11 +1,13 @@
 ---
-title: "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.08864
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08864
 next_step: skim
+priority: low
+slack_ts: '1791610118.058949'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed
+  IDS'
 ---
 # Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS
 > 原文: [https://arxiv.org/abs/2610.08864](https://arxiv.org/abs/2610.08864)

@@ -1,11 +1,13 @@
 ---
-title: "Auditing AI-Washing in German Startups: A Mixed-Methods Study of Marketing Claims and Perceptions"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.11788
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11788
 next_step: skim
+priority: medium
+slack_ts: '1791610136.743859'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Auditing AI-Washing in German Startups: A Mixed-Methods Study of Marketing
+  Claims and Perceptions'
 ---
 # Auditing AI-Washing in German Startups: A Mixed-Methods Study of Marketing Claims and Perceptions
 > 原文: [https://arxiv.org/abs/2610.11788](https://arxiv.org/abs/2610.11788)

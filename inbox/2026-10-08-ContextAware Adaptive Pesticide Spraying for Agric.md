@@ -1,11 +1,13 @@
 ---
-title: "Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing Weather and Terrain Using Vision-Language Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.08807
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08807
 next_step: skim
+priority: medium
+slack_ts: '1791610122.427539'
+source: cs.RO - Robotics
+status: unread
+title: Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing
+  Weather and Terrain Using Vision-Language Models
 ---
 # Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing Weather and Terrain Using Vision-Language Models
 > 原文: [https://arxiv.org/abs/2610.08807](https://arxiv.org/abs/2610.08807)

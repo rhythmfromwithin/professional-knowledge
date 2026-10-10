@@ -1,11 +1,12 @@
 ---
-title: "GPT-6 and Intelligent UI for everyone"
-source: "OpenAI Blog"
-link: https://openai.com/index/gpt-6-for-everyone
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gpt-6-for-everyone
 next_step: skim
+priority: high
+slack_ts: '1791610123.960869'
+source: OpenAI Blog
+status: unread
+title: GPT-6 and Intelligent UI for everyone
 ---
 # GPT-6 and Intelligent UI for everyone
 > 原文: [https://openai.com/index/gpt-6-for-everyone](https://openai.com/index/gpt-6-for-everyone)

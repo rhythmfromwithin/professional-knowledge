@@ -1,11 +1,12 @@
 ---
-title: "PageWeaver: KV-Guided Query Unions for Sparse Attention"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.11201
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11201
 next_step: skim
+priority: medium
+slack_ts: '1791610145.640799'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'PageWeaver: KV-Guided Query Unions for Sparse Attention'
 ---
 # PageWeaver: KV-Guided Query Unions for Sparse Attention
 > 原文: [https://arxiv.org/abs/2610.11201](https://arxiv.org/abs/2610.11201)

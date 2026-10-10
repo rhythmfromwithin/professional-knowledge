@@ -1,11 +1,13 @@
 ---
-title: "Mitigating Uncertainty Interactions in GenAI-based Adaptive Systems: Vision, Challenges and Preliminary Guidelines"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.08881
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08881
 next_step: skim
+priority: low
+slack_ts: '1791610126.673909'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Mitigating Uncertainty Interactions in GenAI-based Adaptive Systems: Vision,
+  Challenges and Preliminary Guidelines'
 ---
 # Mitigating Uncertainty Interactions in GenAI-based Adaptive Systems: Vision, Challenges and Preliminary Guidelines
 > 原文: [https://arxiv.org/abs/2610.08881](https://arxiv.org/abs/2610.08881)

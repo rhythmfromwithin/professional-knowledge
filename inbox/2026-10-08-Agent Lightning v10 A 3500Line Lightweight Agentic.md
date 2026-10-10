@@ -1,11 +1,13 @@
 ---
-title: "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/
 next_step: skim
+priority: high
+slack_ts: '1791610118.291029'
+source: Microsoft Research
+status: unread
+title: 'Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training
+  Agents with Real Harnesses'
 ---
 # Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses
 > 原文: [https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/)

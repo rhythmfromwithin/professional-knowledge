@@ -1,11 +1,13 @@
 ---
-title: "Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social Media Commentary"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.09082
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09082
 next_step: skim
+priority: low
+slack_ts: '1791610126.901199'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social
+  Media Commentary'
 ---
 # Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social Media Commentary
 > 原文: [https://arxiv.org/abs/2610.09082](https://arxiv.org/abs/2610.09082)

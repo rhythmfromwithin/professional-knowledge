@@ -1,11 +1,13 @@
 ---
-title: "The addicted predator-prey model: How opioid use disorder shapes productivity and growth-cycle dynamics"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.10356
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10356
 next_step: skim
+priority: low
+slack_ts: '1791610131.454609'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The addicted predator-prey model: How opioid use disorder shapes productivity
+  and growth-cycle dynamics'
 ---
 # The addicted predator-prey model: How opioid use disorder shapes productivity and growth-cycle dynamics
 > 原文: [https://arxiv.org/abs/2610.10356](https://arxiv.org/abs/2610.10356)

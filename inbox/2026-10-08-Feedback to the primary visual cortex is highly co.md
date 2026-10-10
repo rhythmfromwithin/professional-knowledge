@@ -1,11 +1,13 @@
 ---
-title: "Feedback to the primary visual cortex is highly concentrated on the central visual field representation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.09983
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09983
 next_step: skim
+priority: low
+slack_ts: '1791610123.559979'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Feedback to the primary visual cortex is highly concentrated on the central
+  visual field representation
 ---
 # Feedback to the primary visual cortex is highly concentrated on the central visual field representation
 > 原文: [https://arxiv.org/abs/2610.09983](https://arxiv.org/abs/2610.09983)

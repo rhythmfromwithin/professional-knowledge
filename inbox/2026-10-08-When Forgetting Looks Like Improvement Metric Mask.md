@@ -1,11 +1,13 @@
 ---
-title: "When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.08828
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08828
 next_step: skim
+priority: high
+slack_ts: '1791610134.662959'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer
+  Adaptation and the Price of Rehearsal'
 ---
 # When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal
 > 原文: [https://arxiv.org/abs/2610.08828](https://arxiv.org/abs/2610.08828)

@@ -1,11 +1,12 @@
 ---
-title: "Beyond hours saved: Building the business case for agentic automation"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/
 next_step: skim
+priority: high
+slack_ts: '1791610119.683639'
+source: AWS Blog
+status: unread
+title: 'Beyond hours saved: Building the business case for agentic automation'
 ---
 # Beyond hours saved: Building the business case for agentic automation
 > 原文: [https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/](https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/)
