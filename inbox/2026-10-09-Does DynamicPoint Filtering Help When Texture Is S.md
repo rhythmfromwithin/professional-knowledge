@@ -1,11 +1,13 @@
 ---
-title: "Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.10564
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10564
 next_step: skim
+priority: medium
+slack_ts: '1791696196.930149'
+source: cs.RO - Robotics
+status: unread
+title: Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study
+  of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes
 ---
 # Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes
 > 原文: [https://arxiv.org/abs/2610.10564](https://arxiv.org/abs/2610.10564)

@@ -1,11 +1,13 @@
 ---
-title: "From Log-Odds to Shapley Values: An Explanatory Geometry for the Weighted Naive Bayes Classifier"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.10642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10642
 next_step: skim
+priority: medium
+slack_ts: '1791696197.355489'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'From Log-Odds to Shapley Values: An Explanatory Geometry for the Weighted
+  Naive Bayes Classifier'
 ---
 # From Log-Odds to Shapley Values: An Explanatory Geometry for the Weighted Naive Bayes Classifier
 > 原文: [https://arxiv.org/abs/2610.10642](https://arxiv.org/abs/2610.10642)

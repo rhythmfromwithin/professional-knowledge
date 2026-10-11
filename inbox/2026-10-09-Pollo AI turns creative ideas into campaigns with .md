@@ -1,11 +1,12 @@
 ---
-title: "Pollo AI turns creative ideas into campaigns with OpenAI"
-source: "OpenAI Blog"
-link: https://openai.com/index/pollo-ai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/pollo-ai
 next_step: skim
+priority: high
+slack_ts: '1791696200.142369'
+source: OpenAI Blog
+status: unread
+title: Pollo AI turns creative ideas into campaigns with OpenAI
 ---
 # Pollo AI turns creative ideas into campaigns with OpenAI
 > 原文: [https://openai.com/index/pollo-ai](https://openai.com/index/pollo-ai)

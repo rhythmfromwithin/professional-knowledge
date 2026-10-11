@@ -1,11 +1,13 @@
 ---
-title: "Large Language Model-Assisted Preparation of Transportation Management Plans: A Case Study with WisDOT WisTMP System"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.10650
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10650
 next_step: skim
+priority: high
+slack_ts: '1791696198.796249'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Large Language Model-Assisted Preparation of Transportation Management Plans:
+  A Case Study with WisDOT WisTMP System'
 ---
 # Large Language Model-Assisted Preparation of Transportation Management Plans: A Case Study with WisDOT WisTMP System
 > 原文: [https://arxiv.org/abs/2610.10650](https://arxiv.org/abs/2610.10650)

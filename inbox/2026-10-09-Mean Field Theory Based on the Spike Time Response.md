@@ -1,11 +1,13 @@
 ---
-title: "Mean Field Theory Based on the Spike Time Response Curve for Synchronization Within and Between Two Alternating Populations of Neural Oscillators with Delays"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.10977
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10977
 next_step: skim
+priority: low
+slack_ts: '1791696199.358069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Mean Field Theory Based on the Spike Time Response Curve for Synchronization
+  Within and Between Two Alternating Populations of Neural Oscillators with Delays
 ---
 # Mean Field Theory Based on the Spike Time Response Curve for Synchronization Within and Between Two Alternating Populations of Neural Oscillators with Delays
 > 原文: [https://arxiv.org/abs/2610.10977](https://arxiv.org/abs/2610.10977)

@@ -1,11 +1,12 @@
 ---
-title: "Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.08794
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08794
 next_step: skim
+priority: high
+slack_ts: '1791696194.027969'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages'
 ---
 # Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages
 > 原文: [https://arxiv.org/abs/2610.08794](https://arxiv.org/abs/2610.08794)

@@ -1,11 +1,12 @@
 ---
-title: "Code Understanding is a Bottleneck for Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.10610
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10610
 next_step: skim
+priority: low
+slack_ts: '1791696196.512049'
+source: cs.SE - Software Engineering
+status: unread
+title: Code Understanding is a Bottleneck for Coding Agents
 ---
 # Code Understanding is a Bottleneck for Coding Agents
 > 原文: [https://arxiv.org/abs/2610.10610](https://arxiv.org/abs/2610.10610)

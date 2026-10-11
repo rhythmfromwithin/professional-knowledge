@@ -1,11 +1,13 @@
 ---
-title: "Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe Needs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.10594
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10594
 next_step: skim
+priority: high
+slack_ts: '1791696196.624889'
+source: cs.LG - Machine Learning
+status: unread
+title: Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe
+  Needs
 ---
 # Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe Needs
 > 原文: [https://arxiv.org/abs/2610.10594](https://arxiv.org/abs/2610.10594)

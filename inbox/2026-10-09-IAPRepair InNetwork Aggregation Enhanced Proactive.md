@@ -1,11 +1,13 @@
 ---
-title: "IAPRepair: In-Network Aggregation Enhanced Proactive Repair for Erasure-Coded Storage System"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.11114
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11114
 next_step: skim
+priority: medium
+slack_ts: '1791696197.781609'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'IAPRepair: In-Network Aggregation Enhanced Proactive Repair for Erasure-Coded
+  Storage System'
 ---
 # IAPRepair: In-Network Aggregation Enhanced Proactive Repair for Erasure-Coded Storage System
 > 原文: [https://arxiv.org/abs/2610.11114](https://arxiv.org/abs/2610.11114)

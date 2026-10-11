@@ -1,11 +1,14 @@
 ---
-title: "Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.11546
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11546
 next_step: skim
+priority: low
+slack_ts: '1791696199.021249'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement
+  Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model
+  Updating'
 ---
 # Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating
 > 原文: [https://arxiv.org/abs/2610.11546](https://arxiv.org/abs/2610.11546)

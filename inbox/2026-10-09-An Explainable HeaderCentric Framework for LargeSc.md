@@ -1,11 +1,13 @@
 ---
-title: "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.10541
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10541
 next_step: skim
+priority: high
+slack_ts: '1791696195.497999'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation
+  and Data Quality Assessment
 ---
 # An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment
 > 原文: [https://arxiv.org/abs/2610.10541](https://arxiv.org/abs/2610.10541)

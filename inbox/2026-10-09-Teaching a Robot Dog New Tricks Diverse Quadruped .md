@@ -1,11 +1,13 @@
 ---
-title: "Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement and Imitation Learning with Adversarial Task Selection"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.10601
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10601
 next_step: skim
+priority: medium
+slack_ts: '1791696201.053089'
+source: cs.RO - Robotics
+status: unread
+title: 'Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement
+  and Imitation Learning with Adversarial Task Selection'
 ---
 # Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement and Imitation Learning with Adversarial Task Selection
 > 原文: [https://arxiv.org/abs/2610.10601](https://arxiv.org/abs/2610.10601)

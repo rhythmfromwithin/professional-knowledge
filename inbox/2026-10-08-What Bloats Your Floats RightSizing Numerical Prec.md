@@ -1,11 +1,12 @@
 ---
-title: "What Bloats Your Floats? Right-Sizing Numerical Precision for Scientific Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.09089
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.09089
 next_step: skim
+priority: medium
+slack_ts: '1791696194.590319'
+source: cs.DC - Distributed Computing
+status: unread
+title: What Bloats Your Floats? Right-Sizing Numerical Precision for Scientific Computing
 ---
 # What Bloats Your Floats? Right-Sizing Numerical Precision for Scientific Computing
 > 原文: [https://arxiv.org/abs/2610.09089](https://arxiv.org/abs/2610.09089)

@@ -1,11 +1,12 @@
 ---
-title: "Guided Reflection for Personal Sleep Insight in Everyday Sleep Tracking"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.10822
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10822
 next_step: skim
+priority: low
+slack_ts: '1791696197.574129'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Guided Reflection for Personal Sleep Insight in Everyday Sleep Tracking
 ---
 # Guided Reflection for Personal Sleep Insight in Everyday Sleep Tracking
 > 原文: [https://arxiv.org/abs/2610.10822](https://arxiv.org/abs/2610.10822)

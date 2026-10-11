@@ -1,11 +1,12 @@
 ---
-title: "Improving social media for democratic discourse"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.10816
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10816
 next_step: skim
+priority: medium
+slack_ts: '1791696197.888039'
+source: cs.CY - Computers and Society
+status: unread
+title: Improving social media for democratic discourse
 ---
 # Improving social media for democratic discourse
 > 原文: [https://arxiv.org/abs/2610.10816](https://arxiv.org/abs/2610.10816)

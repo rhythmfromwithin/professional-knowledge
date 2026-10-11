@@ -1,11 +1,13 @@
 ---
-title: "Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.08810
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08810
 next_step: skim
+priority: high
+slack_ts: '1791696194.250099'
+source: cs.LG - Machine Learning
+status: unread
+title: Transferability and operational reliability of a Prithvi crop classification
+  foundation model under phenological and geographic shift across three continents
 ---
 # Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents
 > 原文: [https://arxiv.org/abs/2610.08810](https://arxiv.org/abs/2610.08810)

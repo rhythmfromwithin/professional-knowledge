@@ -1,11 +1,13 @@
 ---
-title: "Beyond Type-checking: Towards Holistic Evaluation of Formal Specification Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.10604
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10604
 next_step: skim
+priority: low
+slack_ts: '1791696195.830509'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Beyond Type-checking: Towards Holistic Evaluation of Formal Specification
+  Generation'
 ---
 # Beyond Type-checking: Towards Holistic Evaluation of Formal Specification Generation
 > 原文: [https://arxiv.org/abs/2610.10604](https://arxiv.org/abs/2610.10604)

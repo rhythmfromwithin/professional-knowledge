@@ -1,11 +1,13 @@
 ---
-title: "From Investigation Failures to Reliable SOC Agents: Understanding and Improving LLM-Based Alert Triage"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.10608
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10608
 next_step: skim
+priority: low
+slack_ts: '1791696197.251259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'From Investigation Failures to Reliable SOC Agents: Understanding and Improving
+  LLM-Based Alert Triage'
 ---
 # From Investigation Failures to Reliable SOC Agents: Understanding and Improving LLM-Based Alert Triage
 > 原文: [https://arxiv.org/abs/2610.10608](https://arxiv.org/abs/2610.10608)

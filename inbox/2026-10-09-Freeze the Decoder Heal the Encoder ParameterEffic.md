@@ -1,11 +1,13 @@
 ---
-title: "Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.10552
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10552
 next_step: skim
+priority: high
+slack_ts: '1791696197.147459'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based
+  KV-Cache Compression'
 ---
 # Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression
 > 原文: [https://arxiv.org/abs/2610.10552](https://arxiv.org/abs/2610.10552)

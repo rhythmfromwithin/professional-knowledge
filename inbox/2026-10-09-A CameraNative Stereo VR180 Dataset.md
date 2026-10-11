@@ -1,11 +1,12 @@
 ---
-title: "A Camera-Native Stereo VR180 Dataset"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.10607
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10607
 next_step: skim
+priority: medium
+slack_ts: '1791696194.819859'
+source: cs.CV - Computer Vision
+status: unread
+title: A Camera-Native Stereo VR180 Dataset
 ---
 # A Camera-Native Stereo VR180 Dataset
 > 原文: [https://arxiv.org/abs/2610.10607](https://arxiv.org/abs/2610.10607)

@@ -1,11 +1,12 @@
 ---
-title: "AI-Mediated Self: How HCI Defines and Relates to the Self"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.10770
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10770
 next_step: skim
+priority: low
+slack_ts: '1791696195.036489'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'AI-Mediated Self: How HCI Defines and Relates to the Self'
 ---
 # AI-Mediated Self: How HCI Defines and Relates to the Self
 > 原文: [https://arxiv.org/abs/2610.10770](https://arxiv.org/abs/2610.10770)

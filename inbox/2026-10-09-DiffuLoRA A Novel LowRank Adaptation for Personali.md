@@ -1,11 +1,12 @@
 ---
-title: "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.10550
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10550
 next_step: skim
+priority: high
+slack_ts: '1791696196.831379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models'
 ---
 # Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models
 > 原文: [https://arxiv.org/abs/2610.10550](https://arxiv.org/abs/2610.10550)

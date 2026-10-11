@@ -1,11 +1,13 @@
 ---
-title: "Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive Rigging"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.10597
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10597
 next_step: skim
+priority: low
+slack_ts: '1791696196.156249'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive
+  Rigging'
 ---
 # Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive Rigging
 > 原文: [https://arxiv.org/abs/2610.10597](https://arxiv.org/abs/2610.10597)

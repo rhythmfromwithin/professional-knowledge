@@ -1,11 +1,13 @@
 ---
-title: "Trust-Region Optimization for Smooth Potential-Interaction Energies in Wasserstein Space"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.08883
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.08883
 next_step: skim
+priority: medium
+slack_ts: '1791696194.364329'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Trust-Region Optimization for Smooth Potential-Interaction Energies in Wasserstein
+  Space
 ---
 # Trust-Region Optimization for Smooth Potential-Interaction Energies in Wasserstein Space
 > 原文: [https://arxiv.org/abs/2610.08883](https://arxiv.org/abs/2610.08883)
