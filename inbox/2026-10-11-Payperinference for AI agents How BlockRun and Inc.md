@@ -1,11 +1,13 @@
 ---
-title: "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/
 next_step: skim
+priority: high
+slack_ts: '1791783306.686579'
+source: AWS Blog
+status: unread
+title: 'Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock
+  AgentCore payments'
 ---
 # Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments
 > 原文: [https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)

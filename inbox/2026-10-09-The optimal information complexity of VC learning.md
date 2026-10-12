@@ -1,11 +1,12 @@
 ---
-title: "The optimal information complexity of VC learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.10600
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10600
 next_step: skim
+priority: medium
+slack_ts: '1791783286.854459'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: The optimal information complexity of VC learning
 ---
 # The optimal information complexity of VC learning
 > 原文: [https://arxiv.org/abs/2610.10600](https://arxiv.org/abs/2610.10600)

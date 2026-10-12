@@ -1,11 +1,13 @@
 ---
-title: "TestJack: Should you trust the results in coding benchmarks? Agentic Coding Benchmarks Auditing via Evaluator Evolution"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.10619
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10619
 next_step: skim
+priority: low
+slack_ts: '1791783286.060119'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TestJack: Should you trust the results in coding benchmarks? Agentic Coding
+  Benchmarks Auditing via Evaluator Evolution'
 ---
 # TestJack: Should you trust the results in coding benchmarks? Agentic Coding Benchmarks Auditing via Evaluator Evolution
 > 原文: [https://arxiv.org/abs/2610.10619](https://arxiv.org/abs/2610.10619)

@@ -1,0 +1,14 @@
+---
+title: "Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2610.12471
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs
+> 原文: [https://arxiv.org/abs/2610.12471](https://arxiv.org/abs/2610.12471)
+
+arXiv:2610.12471v1 Announce Type: new
+Abstract: Satellite onboard computing faces an irreducible tension: mission intelligence requirements grow monotonically while power, mass, and radiation budgets remain fixed. This paper advances the state of the art on three fronts. First, we develop a formal mathematical model of spiking neural computation for satellite workloads, deriving closed-form expressions for energy consumption as a function of network sparsity, firing rate, and synaptic fan-out. Second, we propose three original algorithms -- a Spiking Kalman-Complementary Filter (SKCF) for attitude estimation, a Temporal Contrast Anomaly Detector (TCAD) for spacecraft health monitoring, and a Spike-Based Adaptive Modulation and Coding (SAMC) scheme for cognitive satellite links -- each with pseudocode and analytical complexity bounds. Third, we introduce a quantitative Energy-Accuracy-Latency (EAL) trade-off surface and populate it with numerical estimates derived from published silicon measurements of Loihi and SpiNNaker, enabling direct comparison with FPGA and GPU baselines. A taxonomy of four radiation-aware neuromorphic architecture classes is refined with fault-rate models. Continual on-orbit learning is formalized through a constrained Spike-Timing Dependent Plasticity (STDP) rule that provably bounds weight drift. Case studies for a 12U CubeSat Earth observation mission, a GEO communications payload, and an autonomous deep-space probe provide concrete, quantified design points. Our analysis shows that neuromorphic implementations can achieve 8 to 47 times energy reduction over GPU baselines while maintaining inference accuracy within 2.1\% for representative satellite workloads.

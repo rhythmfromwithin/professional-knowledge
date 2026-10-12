@@ -1,0 +1,14 @@
+---
+title: "CTML: A Comprehensive Framework for Continuous Testing in Machine Learning Operations"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2610.12515
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# CTML: A Comprehensive Framework for Continuous Testing in Machine Learning Operations
+> 原文: [https://arxiv.org/abs/2610.12515](https://arxiv.org/abs/2610.12515)
+
+arXiv:2610.12515v1 Announce Type: new
+Abstract: The increasing use of machine learning (ML) systems in production has highlighted some important weaknesses in traditional software testing methods. Unlike regular software, ML systems can fail in specific ways due to their reliance on data, including issues like data drift, concept drift, and performance decline. To address these issues, this paper introduces the Continuous Testing for Machine Learning (CTML) framework. This framework is designed specifically for MLOps environments and offers a thorough, automated solution. It establishes a standardized way to evaluate ML systems across four main areas: data quality, drift detection, model quality, and pipeline validation. The CTML framework consists of a modular setup that includes a Test Registry, Test Runner, Result Store, and Integration Layer. This design ensures it integrates smoothly with existing Continuous Integration/Continuous Delivery (CI/CD) pipelines and MLOps platforms. We put this framework to the test in a predictive maintenance case study, which showed how effective it is at identifying issues like data drift, performance degradation, and bottlenecks in the pipeline problems that traditional testing methods might overlook. The findings indicate that CTML successfully uncovers critical failures in the system across all testing dimensions, providing useful insights to help keep ML systems running smoothly in production. Overall, this work presents a new, integrated framework that connects academic research with industry best practices, pushing forward the standards in MLOps quality assurance.

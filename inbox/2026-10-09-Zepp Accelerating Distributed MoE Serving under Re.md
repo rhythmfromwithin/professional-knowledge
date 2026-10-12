@@ -1,11 +1,12 @@
 ---
-title: "Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.11158
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11158
 next_step: skim
+priority: medium
+slack_ts: '1791783288.489179'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints'
 ---
 # Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints
 > 原文: [https://arxiv.org/abs/2610.11158](https://arxiv.org/abs/2610.11158)

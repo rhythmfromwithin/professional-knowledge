@@ -1,11 +1,13 @@
 ---
-title: "What does it mean to use AI critically? Unpacking critical AI literacy through students' evaluation of AI-generated content"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.10743
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10743
 next_step: skim
+priority: low
+slack_ts: '1791783287.916709'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: What does it mean to use AI critically? Unpacking critical AI literacy through
+  students' evaluation of AI-generated content
 ---
 # What does it mean to use AI critically? Unpacking critical AI literacy through students' evaluation of AI-generated content
 > 原文: [https://arxiv.org/abs/2610.10743](https://arxiv.org/abs/2610.10743)

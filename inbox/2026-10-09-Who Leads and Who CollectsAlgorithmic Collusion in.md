@@ -1,11 +1,13 @@
 ---
-title: "Who Leads and Who Collects:Algorithmic Collusion in Markets of Heterogeneous Language Models"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.11256
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11256
 next_step: skim
+priority: low
+slack_ts: '1791783288.198869'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who Leads and Who Collects:Algorithmic Collusion in Markets of Heterogeneous
+  Language Models
 ---
 # Who Leads and Who Collects:Algorithmic Collusion in Markets of Heterogeneous Language Models
 > 原文: [https://arxiv.org/abs/2610.11256](https://arxiv.org/abs/2610.11256)

@@ -1,11 +1,13 @@
 ---
-title: "Risk Ceilings and Development Deadlines: Pacing AI under Uncertain Safety Productivity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.11093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.11093
 next_step: skim
+priority: low
+slack_ts: '1791783284.229159'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Risk Ceilings and Development Deadlines: Pacing AI under Uncertain Safety
+  Productivity'
 ---
 # Risk Ceilings and Development Deadlines: Pacing AI under Uncertain Safety Productivity
 > 原文: [https://arxiv.org/abs/2610.11093](https://arxiv.org/abs/2610.11093)

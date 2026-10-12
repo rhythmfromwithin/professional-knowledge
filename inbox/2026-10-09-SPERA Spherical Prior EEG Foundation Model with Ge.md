@@ -1,11 +1,13 @@
 ---
-title: "SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.10571
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10571
 next_step: skim
+priority: high
+slack_ts: '1791783284.787139'
+source: cs.LG - Machine Learning
+status: unread
+title: 'SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware
+  Latent Prediction'
 ---
 # SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction
 > 原文: [https://arxiv.org/abs/2610.10571](https://arxiv.org/abs/2610.10571)

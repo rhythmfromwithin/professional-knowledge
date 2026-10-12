@@ -1,11 +1,13 @@
 ---
-title: "TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.10637
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10637
 next_step: skim
+priority: medium
+slack_ts: '1791783285.837519'
+source: cs.RO - Robotics
+status: unread
+title: 'TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic
+  Hair Stroking and Perception'
 ---
 # TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception
 > 原文: [https://arxiv.org/abs/2610.10637](https://arxiv.org/abs/2610.10637)

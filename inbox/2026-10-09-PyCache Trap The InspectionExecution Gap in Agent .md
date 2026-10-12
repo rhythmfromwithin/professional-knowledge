@@ -1,11 +1,12 @@
 ---
-title: "PyCache Trap: The Inspection-Execution Gap in Agent Skill Scanners"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.10612
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10612
 next_step: skim
+priority: low
+slack_ts: '1791783283.661089'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'PyCache Trap: The Inspection-Execution Gap in Agent Skill Scanners'
 ---
 # PyCache Trap: The Inspection-Execution Gap in Agent Skill Scanners
 > 原文: [https://arxiv.org/abs/2610.10612](https://arxiv.org/abs/2610.10612)

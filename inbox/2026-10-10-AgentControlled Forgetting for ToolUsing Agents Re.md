@@ -1,11 +1,13 @@
 ---
-title: "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.10590
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10590
 next_step: skim
+priority: high
+slack_ts: '1791783289.060739'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation
+  in Practice'
 ---
 # Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice
 > 原文: [https://arxiv.org/abs/2610.10590](https://arxiv.org/abs/2610.10590)

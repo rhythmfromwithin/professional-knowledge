@@ -1,11 +1,12 @@
 ---
-title: "SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.10563
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10563
 next_step: skim
+priority: medium
+slack_ts: '1791783284.514879'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows'
 ---
 # SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows
 > 原文: [https://arxiv.org/abs/2610.10563](https://arxiv.org/abs/2610.10563)

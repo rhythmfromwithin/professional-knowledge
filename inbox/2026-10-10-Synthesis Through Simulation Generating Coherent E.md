@@ -1,11 +1,13 @@
 ---
-title: "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.10549
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10549
 next_step: skim
+priority: high
+slack_ts: '1791783297.001759'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable
+  Agent-System Interaction'
 ---
 # Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction
 > 原文: [https://arxiv.org/abs/2610.10549](https://arxiv.org/abs/2610.10549)

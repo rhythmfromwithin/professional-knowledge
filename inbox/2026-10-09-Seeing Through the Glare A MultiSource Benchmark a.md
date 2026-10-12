@@ -1,11 +1,13 @@
 ---
-title: "Seeing Through the Glare: A Multi-Source Benchmark and Ocular-Adaptive Pixel MeanFlow for Eyeglass Reflection Removal"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.10703
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.10703
 next_step: skim
+priority: medium
+slack_ts: '1791783285.061699'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Seeing Through the Glare: A Multi-Source Benchmark and Ocular-Adaptive Pixel
+  MeanFlow for Eyeglass Reflection Removal'
 ---
 # Seeing Through the Glare: A Multi-Source Benchmark and Ocular-Adaptive Pixel MeanFlow for Eyeglass Reflection Removal
 > 原文: [https://arxiv.org/abs/2610.10703](https://arxiv.org/abs/2610.10703)

@@ -1,11 +1,12 @@
 ---
-title: "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
-source: "OpenAI Blog"
-link: https://openai.com/index/sophos
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/sophos
 next_step: skim
+priority: high
+slack_ts: '1791783307.709459'
+source: OpenAI Blog
+status: unread
+title: Sophos cuts threat investigation time by 96% with OpenAI Daybreak
 ---
 # Sophos cuts threat investigation time by 96% with OpenAI Daybreak
 > 原文: [https://openai.com/index/sophos](https://openai.com/index/sophos)
