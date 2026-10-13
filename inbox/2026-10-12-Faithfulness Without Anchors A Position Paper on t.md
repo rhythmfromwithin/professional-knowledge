@@ -1,11 +1,13 @@
 ---
-title: "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.12493
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12493
 next_step: skim
+priority: high
+slack_ts: '1791873083.039519'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Faithfulness Without Anchors: A Position Paper on the Structural Misalignments
+  of Explainable AI Faithfulness Metrics for Feature Importance'
 ---
 # Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance
 > 原文: [https://arxiv.org/abs/2610.12493](https://arxiv.org/abs/2610.12493)

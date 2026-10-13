@@ -1,11 +1,13 @@
 ---
-title: "Knowing Is Not Telling: Identity Ossification in LLM Representations of Trans-border Communities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.12610
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12610
 next_step: skim
+priority: medium
+slack_ts: '1791873084.661669'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Knowing Is Not Telling: Identity Ossification in LLM Representations of Trans-border
+  Communities'
 ---
 # Knowing Is Not Telling: Identity Ossification in LLM Representations of Trans-border Communities
 > 原文: [https://arxiv.org/abs/2610.12610](https://arxiv.org/abs/2610.12610)

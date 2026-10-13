@@ -1,11 +1,13 @@
 ---
-title: "FlyHack: Stress-Testing Mechanistic Claims in a Connectome-Constrained Visual Model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.13018
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.13018
 next_step: skim
+priority: low
+slack_ts: '1791873083.122299'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'FlyHack: Stress-Testing Mechanistic Claims in a Connectome-Constrained Visual
+  Model'
 ---
 # FlyHack: Stress-Testing Mechanistic Claims in a Connectome-Constrained Visual Model
 > 原文: [https://arxiv.org/abs/2610.13018](https://arxiv.org/abs/2610.13018)

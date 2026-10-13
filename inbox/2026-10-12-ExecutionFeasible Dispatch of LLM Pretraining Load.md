@@ -1,11 +1,13 @@
 ---
-title: "Execution-Feasible Dispatch of LLM Pre-training Loads for Renewable-Dominant AI Data Centers"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.13047
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.13047
 next_step: skim
+priority: medium
+slack_ts: '1791873082.952949'
+source: cs.DC - Distributed Computing
+status: unread
+title: Execution-Feasible Dispatch of LLM Pre-training Loads for Renewable-Dominant
+  AI Data Centers
 ---
 # Execution-Feasible Dispatch of LLM Pre-training Loads for Renewable-Dominant AI Data Centers
 > 原文: [https://arxiv.org/abs/2610.13047](https://arxiv.org/abs/2610.13047)

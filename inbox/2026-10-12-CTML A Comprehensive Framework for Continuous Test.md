@@ -1,11 +1,13 @@
 ---
-title: "CTML: A Comprehensive Framework for Continuous Testing in Machine Learning Operations"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.12515
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12515
 next_step: skim
+priority: low
+slack_ts: '1791873082.249919'
+source: cs.SE - Software Engineering
+status: unread
+title: 'CTML: A Comprehensive Framework for Continuous Testing in Machine Learning
+  Operations'
 ---
 # CTML: A Comprehensive Framework for Continuous Testing in Machine Learning Operations
 > 原文: [https://arxiv.org/abs/2610.12515](https://arxiv.org/abs/2610.12515)

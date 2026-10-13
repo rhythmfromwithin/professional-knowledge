@@ -1,11 +1,12 @@
 ---
-title: "Contextual Correction of Parallel Draftsfor Speculative Decoding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.12570
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12570
 next_step: skim
+priority: high
+slack_ts: '1791873082.405709'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Contextual Correction of Parallel Draftsfor Speculative Decoding
 ---
 # Contextual Correction of Parallel Draftsfor Speculative Decoding
 > 原文: [https://arxiv.org/abs/2610.12570](https://arxiv.org/abs/2610.12570)

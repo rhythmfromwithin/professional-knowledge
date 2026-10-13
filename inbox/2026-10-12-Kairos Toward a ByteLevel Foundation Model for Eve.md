@@ -1,11 +1,12 @@
 ---
-title: "Kairos: Toward a Byte-Level Foundation Model for Every Modality"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.12495
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12495
 next_step: skim
+priority: high
+slack_ts: '1791873084.587189'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Kairos: Toward a Byte-Level Foundation Model for Every Modality'
 ---
 # Kairos: Toward a Byte-Level Foundation Model for Every Modality
 > 原文: [https://arxiv.org/abs/2610.12495](https://arxiv.org/abs/2610.12495)

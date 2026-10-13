@@ -1,11 +1,13 @@
 ---
-title: "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.12970
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12970
 next_step: skim
+priority: medium
+slack_ts: '1791873084.974439'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon
+  Devices'
 ---
 # Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices
 > 原文: [https://arxiv.org/abs/2610.12970](https://arxiv.org/abs/2610.12970)

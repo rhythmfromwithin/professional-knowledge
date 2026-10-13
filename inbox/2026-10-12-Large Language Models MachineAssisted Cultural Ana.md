@@ -1,11 +1,13 @@
 ---
-title: "Large Language Models, Machine-Assisted Cultural Analytics, and the Agentic Turn"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.12792
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12792
 next_step: skim
+priority: medium
+slack_ts: '1791873084.735729'
+source: cs.CY - Computers and Society
+status: unread
+title: Large Language Models, Machine-Assisted Cultural Analytics, and the Agentic
+  Turn
 ---
 # Large Language Models, Machine-Assisted Cultural Analytics, and the Agentic Turn
 > 原文: [https://arxiv.org/abs/2610.12792](https://arxiv.org/abs/2610.12792)

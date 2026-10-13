@@ -1,11 +1,13 @@
 ---
-title: "CALQA: Conformal Screening of Forecast-Ensemble Configurations from One Mergeable State"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.13249
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.13249
 next_step: skim
+priority: low
+slack_ts: '1791873082.176459'
+source: cs.DB - Databases
+status: unread
+title: 'CALQA: Conformal Screening of Forecast-Ensemble Configurations from One Mergeable
+  State'
 ---
 # CALQA: Conformal Screening of Forecast-Ensemble Configurations from One Mergeable State
 > 原文: [https://arxiv.org/abs/2610.13249](https://arxiv.org/abs/2610.13249)

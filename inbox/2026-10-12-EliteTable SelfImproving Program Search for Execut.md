@@ -1,11 +1,12 @@
 ---
-title: "EliteTable: Self-Improving Program Search for Executable Control Policies"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.12536
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12536
 next_step: skim
+priority: high
+slack_ts: '1791873082.631699'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'EliteTable: Self-Improving Program Search for Executable Control Policies'
 ---
 # EliteTable: Self-Improving Program Search for Executable Control Policies
 > 原文: [https://arxiv.org/abs/2610.12536](https://arxiv.org/abs/2610.12536)

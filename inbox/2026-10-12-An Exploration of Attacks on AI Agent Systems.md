@@ -1,11 +1,12 @@
 ---
-title: "An Exploration of Attacks on AI Agent Systems"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.12524
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12524
 next_step: skim
+priority: low
+slack_ts: '1791873081.900599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: An Exploration of Attacks on AI Agent Systems
 ---
 # An Exploration of Attacks on AI Agent Systems
 > 原文: [https://arxiv.org/abs/2610.12524](https://arxiv.org/abs/2610.12524)

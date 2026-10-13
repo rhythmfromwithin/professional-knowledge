@@ -1,11 +1,12 @@
 ---
-title: "Algebraic Integer Quantization for Machine Learning Applications"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.12494
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12494
 next_step: skim
+priority: high
+slack_ts: '1791873081.821789'
+source: cs.LG - Machine Learning
+status: unread
+title: Algebraic Integer Quantization for Machine Learning Applications
 ---
 # Algebraic Integer Quantization for Machine Learning Applications
 > 原文: [https://arxiv.org/abs/2610.12494](https://arxiv.org/abs/2610.12494)

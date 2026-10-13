@@ -1,11 +1,12 @@
 ---
-title: "Incremental Retrieval-Augmented Generation for Human-in-the-Loop Decision Support"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.12666
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12666
 next_step: skim
+priority: low
+slack_ts: '1791873084.136199'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Incremental Retrieval-Augmented Generation for Human-in-the-Loop Decision Support
 ---
 # Incremental Retrieval-Augmented Generation for Human-in-the-Loop Decision Support
 > 原文: [https://arxiv.org/abs/2610.12666](https://arxiv.org/abs/2610.12666)

@@ -1,11 +1,12 @@
 ---
-title: "An Input-Dependent Readout Phase for Resonant Sequence Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.12496
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12496
 next_step: skim
+priority: high
+slack_ts: '1791873081.972349'
+source: cs.LG - Machine Learning
+status: unread
+title: An Input-Dependent Readout Phase for Resonant Sequence Models
 ---
 # An Input-Dependent Readout Phase for Resonant Sequence Models
 > 原文: [https://arxiv.org/abs/2610.12496](https://arxiv.org/abs/2610.12496)

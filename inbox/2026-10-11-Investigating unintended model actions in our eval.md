@@ -1,11 +1,12 @@
 ---
-title: "Investigating unintended model actions in our evaluations and internal use"
-source: "Anthropic"
-link: https://www.anthropic.com/research/investigating-unintended-model-actions
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/investigating-unintended-model-actions
 next_step: skim
+priority: high
+slack_ts: '1791873080.573949'
+source: Anthropic
+status: unread
+title: Investigating unintended model actions in our evaluations and internal use
 ---
 # Investigating unintended model actions in our evaluations and internal use
 > 原文: [https://www.anthropic.com/research/investigating-unintended-model-actions](https://www.anthropic.com/research/investigating-unintended-model-actions)

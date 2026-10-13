@@ -1,11 +1,12 @@
 ---
-title: "Excitability across scales: a unifying EI model"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.13275
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.13275
 next_step: skim
+priority: low
+slack_ts: '1791873082.864659'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Excitability across scales: a unifying EI model'
 ---
 # Excitability across scales: a unifying EI model
 > 原文: [https://arxiv.org/abs/2610.13275](https://arxiv.org/abs/2610.13275)

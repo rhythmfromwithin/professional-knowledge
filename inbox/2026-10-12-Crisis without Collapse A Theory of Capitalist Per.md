@@ -1,11 +1,12 @@
 ---
-title: "Crisis without Collapse: A Theory of Capitalist Persistence"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.12477
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12477
 next_step: skim
+priority: low
+slack_ts: '1791873082.477309'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Crisis without Collapse: A Theory of Capitalist Persistence'
 ---
 # Crisis without Collapse: A Theory of Capitalist Persistence
 > 原文: [https://arxiv.org/abs/2610.12477](https://arxiv.org/abs/2610.12477)

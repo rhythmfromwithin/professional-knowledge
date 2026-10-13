@@ -1,11 +1,12 @@
 ---
-title: "Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.12507
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12507
 next_step: skim
+priority: low
+slack_ts: '1791873082.790019'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction
 ---
 # Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction
 > 原文: [https://arxiv.org/abs/2610.12507](https://arxiv.org/abs/2610.12507)
