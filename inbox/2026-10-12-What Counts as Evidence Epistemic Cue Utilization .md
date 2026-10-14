@@ -1,11 +1,12 @@
 ---
-title: "What Counts as Evidence? Epistemic Cue Utilization in Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.12788
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12788
 next_step: skim
+priority: medium
+slack_ts: '1791952346.159429'
+source: cs.CY - Computers and Society
+status: unread
+title: What Counts as Evidence? Epistemic Cue Utilization in Large Language Models
 ---
 # What Counts as Evidence? Epistemic Cue Utilization in Large Language Models
 > 原文: [https://arxiv.org/abs/2610.12788](https://arxiv.org/abs/2610.12788)

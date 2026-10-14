@@ -1,11 +1,12 @@
 ---
-title: "Deploy decision models with llama.cpp on Amazon SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1791952349.703679'
+source: AWS Blog
+status: unread
+title: Deploy decision models with llama.cpp on Amazon SageMaker AI
 ---
 # Deploy decision models with llama.cpp on Amazon SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/)

@@ -1,11 +1,12 @@
 ---
-title: "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
-source: "OpenAI Blog"
-link: https://openai.com/index/asana-browser-agent
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/asana-browser-agent
 next_step: skim
+priority: high
+slack_ts: '1791952348.200389'
+source: OpenAI Blog
+status: unread
+title: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
 ---
 # Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
 > 原文: [https://openai.com/index/asana-browser-agent](https://openai.com/index/asana-browser-agent)

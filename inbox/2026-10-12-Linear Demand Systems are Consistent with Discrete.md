@@ -1,11 +1,12 @@
 ---
-title: "Linear Demand Systems are Consistent with Discrete Choice"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.13785
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.13785
 next_step: skim
+priority: low
+slack_ts: '1791952340.177779'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Linear Demand Systems are Consistent with Discrete Choice
 ---
 # Linear Demand Systems are Consistent with Discrete Choice
 > 原文: [https://arxiv.org/abs/2610.13785](https://arxiv.org/abs/2610.13785)

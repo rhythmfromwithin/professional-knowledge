@@ -1,11 +1,12 @@
 ---
-title: "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.12569
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12569
 next_step: skim
+priority: high
+slack_ts: '1791952343.139319'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SWE-Duel: Towards a Self-Scaling Arena for Coding Agents'
 ---
 # SWE-Duel: Towards a Self-Scaling Arena for Coding Agents
 > 原文: [https://arxiv.org/abs/2610.12569](https://arxiv.org/abs/2610.12569)

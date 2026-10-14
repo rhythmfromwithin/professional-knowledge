@@ -1,11 +1,12 @@
 ---
-title: "Organizational Context for the Enterprise Security Brain"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.12540
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12540
 next_step: skim
+priority: low
+slack_ts: '1791952341.209639'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Organizational Context for the Enterprise Security Brain
 ---
 # Organizational Context for the Enterprise Security Brain
 > 原文: [https://arxiv.org/abs/2610.12540](https://arxiv.org/abs/2610.12540)

@@ -1,11 +1,13 @@
 ---
-title: "Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.12471
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12471
 next_step: skim
+priority: low
+slack_ts: '1791952340.743389'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures,
+  Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs'
 ---
 # Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs
 > 原文: [https://arxiv.org/abs/2610.12471](https://arxiv.org/abs/2610.12471)

@@ -1,11 +1,12 @@
 ---
-title: "Run multi-node inference workloads using Ray LLM Deep Learning Containers"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/
 next_step: skim
+priority: high
+slack_ts: '1791952354.900589'
+source: AWS Blog
+status: unread
+title: Run multi-node inference workloads using Ray LLM Deep Learning Containers
 ---
 # Run multi-node inference workloads using Ray LLM Deep Learning Containers
 > 原文: [https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/)

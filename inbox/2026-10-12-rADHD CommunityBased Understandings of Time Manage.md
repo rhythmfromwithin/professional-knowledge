@@ -1,11 +1,13 @@
 ---
-title: "r/ADHD: Community-Based Understandings of Time Management Challenges in Digital Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.12629
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12629
 next_step: skim
+priority: low
+slack_ts: '1791952346.433269'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'r/ADHD: Community-Based Understandings of Time Management Challenges in Digital
+  Environments'
 ---
 # r/ADHD: Community-Based Understandings of Time Management Challenges in Digital Environments
 > 原文: [https://arxiv.org/abs/2610.12629](https://arxiv.org/abs/2610.12629)

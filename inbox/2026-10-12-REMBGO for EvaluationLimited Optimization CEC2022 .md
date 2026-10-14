@@ -1,11 +1,13 @@
 ---
-title: "REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.13471
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.13471
 next_step: skim
+priority: low
+slack_ts: '1791952342.688319'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM
+  Generalization'
 ---
 # REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization
 > 原文: [https://arxiv.org/abs/2610.13471](https://arxiv.org/abs/2610.13471)

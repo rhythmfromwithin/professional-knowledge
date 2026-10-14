@@ -1,11 +1,12 @@
 ---
-title: "Semantic Views: Certified Reuse of LLM Labels Across Semantic Queries"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.12768
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12768
 next_step: skim
+priority: low
+slack_ts: '1791952343.724739'
+source: cs.DB - Databases
+status: unread
+title: 'Semantic Views: Certified Reuse of LLM Labels Across Semantic Queries'
 ---
 # Semantic Views: Certified Reuse of LLM Labels Across Semantic Queries
 > 原文: [https://arxiv.org/abs/2610.12768](https://arxiv.org/abs/2610.12768)

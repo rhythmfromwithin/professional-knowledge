@@ -1,11 +1,12 @@
 ---
-title: "Scalable Learning of Determinantal Point Processes with Kernel-Structured Interactions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.12829
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12829
 next_step: skim
+priority: medium
+slack_ts: '1791952343.362109'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Scalable Learning of Determinantal Point Processes with Kernel-Structured Interactions
 ---
 # Scalable Learning of Determinantal Point Processes with Kernel-Structured Interactions
 > 原文: [https://arxiv.org/abs/2610.12829](https://arxiv.org/abs/2610.12829)

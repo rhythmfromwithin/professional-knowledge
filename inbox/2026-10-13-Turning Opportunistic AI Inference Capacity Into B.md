@@ -1,11 +1,12 @@
 ---
-title: "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/
 next_step: skim
+priority: medium
+slack_ts: '1791952356.663789'
+source: Meta Engineering
+status: unread
+title: Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations
 ---
 # Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations
 > 原文: [https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/](https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/)

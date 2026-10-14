@@ -1,11 +1,13 @@
 ---
-title: "Two-way Guidance: Simultaneous Learning of Summary Statistics for Generative Bayes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.12850
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.12850
 next_step: skim
+priority: medium
+slack_ts: '1791952345.010769'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Two-way Guidance: Simultaneous Learning of Summary Statistics for Generative
+  Bayes'
 ---
 # Two-way Guidance: Simultaneous Learning of Summary Statistics for Generative Bayes
 > 原文: [https://arxiv.org/abs/2610.12850](https://arxiv.org/abs/2610.12850)
