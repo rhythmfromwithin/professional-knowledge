@@ -1,11 +1,12 @@
 ---
-title: "Building agents that transact with Anchor Browser and AgentCore payments"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/
 next_step: skim
+priority: high
+slack_ts: '1792037683.172889'
+source: AWS Blog
+status: unread
+title: Building agents that transact with Anchor Browser and AgentCore payments
 ---
 # Building agents that transact with Anchor Browser and AgentCore payments
 > 原文: [https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/)

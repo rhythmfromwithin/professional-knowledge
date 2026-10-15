@@ -1,11 +1,12 @@
 ---
-title: "Announcing AWS Lambda Web Functions"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
 next_step: skim
+priority: high
+slack_ts: '1792037682.738759'
+source: AWS Blog
+status: unread
+title: Announcing AWS Lambda Web Functions
 ---
 # Announcing AWS Lambda Web Functions
 > 原文: [https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)

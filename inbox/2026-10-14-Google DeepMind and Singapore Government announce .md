@@ -1,11 +1,13 @@
 ---
-title: "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 next_step: skim
+priority: high
+slack_ts: '1792037684.527889'
+source: DeepMind Blog
+status: unread
+title: Google DeepMind and Singapore Government announce new AI tool to protect citizens
+  against scams
 ---
 # Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams
 > 原文: [https://deepmind.google/blog/on-device-ai-scam-detection-mddi/](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)

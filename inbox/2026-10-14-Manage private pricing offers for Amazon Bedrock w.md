@@ -1,11 +1,12 @@
 ---
-title: "Manage private pricing offers for Amazon Bedrock with managed entitlements"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/
 next_step: skim
+priority: high
+slack_ts: '1792037685.518289'
+source: AWS Blog
+status: unread
+title: Manage private pricing offers for Amazon Bedrock with managed entitlements
 ---
 # Manage private pricing offers for Amazon Bedrock with managed entitlements
 > 原文: [https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/](https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/)
