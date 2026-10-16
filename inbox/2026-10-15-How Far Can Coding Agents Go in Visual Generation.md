@@ -1,11 +1,12 @@
 ---
-title: "How Far Can Coding Agents Go in Visual Generation?"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.19025
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19025
 next_step: skim
+priority: medium
+slack_ts: '1792123820.277559'
+source: cs.CV - Computer Vision
+status: unread
+title: How Far Can Coding Agents Go in Visual Generation?
 ---
 # How Far Can Coding Agents Go in Visual Generation?
 > 原文: [https://arxiv.org/abs/2610.19025](https://arxiv.org/abs/2610.19025)

@@ -1,11 +1,13 @@
 ---
-title: "Limits of Statistical Assurance for Embodied and Agentic AI under Adaptive Adversaries"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.18948
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.18948
 next_step: skim
+priority: low
+slack_ts: '1792123820.868379'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Limits of Statistical Assurance for Embodied and Agentic AI under Adaptive
+  Adversaries
 ---
 # Limits of Statistical Assurance for Embodied and Agentic AI under Adaptive Adversaries
 > 原文: [https://arxiv.org/abs/2610.18948](https://arxiv.org/abs/2610.18948)

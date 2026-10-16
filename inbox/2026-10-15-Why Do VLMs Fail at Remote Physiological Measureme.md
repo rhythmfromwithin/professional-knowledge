@@ -1,11 +1,13 @@
 ---
-title: "Why Do VLMs Fail at Remote Physiological Measurement? Rethinking with Physiological Grounding and Numerical Alignment"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.19052
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19052
 next_step: skim
+priority: medium
+slack_ts: '1792123823.392479'
+source: cs.CV - Computer Vision
+status: unread
+title: Why Do VLMs Fail at Remote Physiological Measurement? Rethinking with Physiological
+  Grounding and Numerical Alignment
 ---
 # Why Do VLMs Fail at Remote Physiological Measurement? Rethinking with Physiological Grounding and Numerical Alignment
 > 原文: [https://arxiv.org/abs/2610.19052](https://arxiv.org/abs/2610.19052)

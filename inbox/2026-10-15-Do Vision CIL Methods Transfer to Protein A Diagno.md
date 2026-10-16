@@ -1,11 +1,13 @@
 ---
-title: "Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.18879
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.18879
 next_step: skim
+priority: high
+slack_ts: '1792123819.510799'
+source: cs.LG - Machine Learning
+status: unread
+title: Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen
+  Protein Encoders
 ---
 # Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders
 > 原文: [https://arxiv.org/abs/2610.18879](https://arxiv.org/abs/2610.18879)

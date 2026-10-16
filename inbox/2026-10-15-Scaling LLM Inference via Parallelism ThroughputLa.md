@@ -1,11 +1,12 @@
 ---
-title: "Scaling LLM Inference via Parallelism: Throughput-Latency Trade-off"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.19405
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19405
 next_step: skim
+priority: medium
+slack_ts: '1792123822.462939'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Scaling LLM Inference via Parallelism: Throughput-Latency Trade-off'
 ---
 # Scaling LLM Inference via Parallelism: Throughput-Latency Trade-off
 > 原文: [https://arxiv.org/abs/2610.19405](https://arxiv.org/abs/2610.19405)

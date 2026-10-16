@@ -1,11 +1,13 @@
 ---
-title: "Iterative Design and Evaluation of a VR Nursing Training System: Insights from Clinicians and Student Learners"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.19152
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19152
 next_step: skim
+priority: low
+slack_ts: '1792123820.750219'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Iterative Design and Evaluation of a VR Nursing Training System: Insights
+  from Clinicians and Student Learners'
 ---
 # Iterative Design and Evaluation of a VR Nursing Training System: Insights from Clinicians and Student Learners
 > 原文: [https://arxiv.org/abs/2610.19152](https://arxiv.org/abs/2610.19152)

@@ -1,11 +1,12 @@
 ---
-title: "Long Term Pediatric Vaccine Tender Scheduling with Quantity Discounts"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.19045
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19045
 next_step: skim
+priority: low
+slack_ts: '1792123820.926479'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Long Term Pediatric Vaccine Tender Scheduling with Quantity Discounts
 ---
 # Long Term Pediatric Vaccine Tender Scheduling with Quantity Discounts
 > 原文: [https://arxiv.org/abs/2610.19045](https://arxiv.org/abs/2610.19045)

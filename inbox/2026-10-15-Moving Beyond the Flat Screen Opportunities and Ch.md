@@ -1,11 +1,13 @@
 ---
-title: "Moving Beyond the Flat Screen: Opportunities and Challenges of Extended Reality for Studying Human Brain and Behavior"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.19199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19199
 next_step: skim
+priority: low
+slack_ts: '1792123821.182589'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Moving Beyond the Flat Screen: Opportunities and Challenges of Extended Reality
+  for Studying Human Brain and Behavior'
 ---
 # Moving Beyond the Flat Screen: Opportunities and Challenges of Extended Reality for Studying Human Brain and Behavior
 > 原文: [https://arxiv.org/abs/2610.19199](https://arxiv.org/abs/2610.19199)

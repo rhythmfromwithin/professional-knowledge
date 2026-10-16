@@ -1,11 +1,13 @@
 ---
-title: "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/
 next_step: skim
+priority: medium
+slack_ts: '1792123821.119439'
+source: Meta Engineering
+status: unread
+title: 'Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine
+  for Frontier Ads AI'
 ---
 # Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI
 > 原文: [https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/](https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/)

@@ -1,11 +1,12 @@
 ---
-title: "Towards Training and Inference of Graph Neural Networks in Graph Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.19142
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19142
 next_step: skim
+priority: low
+slack_ts: '1792123823.155829'
+source: cs.DB - Databases
+status: unread
+title: Towards Training and Inference of Graph Neural Networks in Graph Databases
 ---
 # Towards Training and Inference of Graph Neural Networks in Graph Databases
 > 原文: [https://arxiv.org/abs/2610.19142](https://arxiv.org/abs/2610.19142)

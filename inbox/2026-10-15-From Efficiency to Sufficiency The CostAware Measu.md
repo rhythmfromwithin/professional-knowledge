@@ -1,11 +1,13 @@
 ---
-title: "From Efficiency to Sufficiency: The Cost-Aware Measurement Design Framework for Automated Essay Scoring"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.19287
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19287
 next_step: skim
+priority: medium
+slack_ts: '1792123819.918719'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Efficiency to Sufficiency: The Cost-Aware Measurement Design Framework
+  for Automated Essay Scoring'
 ---
 # From Efficiency to Sufficiency: The Cost-Aware Measurement Design Framework for Automated Essay Scoring
 > 原文: [https://arxiv.org/abs/2610.19287](https://arxiv.org/abs/2610.19287)

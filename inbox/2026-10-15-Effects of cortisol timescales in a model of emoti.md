@@ -1,11 +1,12 @@
 ---
-title: "Effects of cortisol time-scales in a model of emotion regulation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.19282
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19282
 next_step: skim
+priority: low
+slack_ts: '1792123819.582209'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Effects of cortisol time-scales in a model of emotion regulation
 ---
 # Effects of cortisol time-scales in a model of emotion regulation
 > 原文: [https://arxiv.org/abs/2610.19282](https://arxiv.org/abs/2610.19282)

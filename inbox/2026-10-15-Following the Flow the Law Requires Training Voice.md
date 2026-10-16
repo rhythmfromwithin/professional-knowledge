@@ -1,11 +1,13 @@
 ---
-title: "Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.18881
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.18881
 next_step: skim
+priority: high
+slack_ts: '1792123819.713159'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Following the Flow the Law Requires: Training Voice Agents to Transfer to
+  Unseen Regulated Procedures in Debt Collection'
 ---
 # Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection
 > 原文: [https://arxiv.org/abs/2610.18881](https://arxiv.org/abs/2610.18881)

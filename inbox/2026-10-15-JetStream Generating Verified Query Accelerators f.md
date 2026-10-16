@@ -1,11 +1,12 @@
 ---
-title: "JetStream: Generating Verified Query Accelerators for Existing Database Systems"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.20527
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20527
 next_step: skim
+priority: low
+slack_ts: '1792123820.807979'
+source: cs.DB - Databases
+status: unread
+title: 'JetStream: Generating Verified Query Accelerators for Existing Database Systems'
 ---
 # JetStream: Generating Verified Query Accelerators for Existing Database Systems
 > 原文: [https://arxiv.org/abs/2610.20527](https://arxiv.org/abs/2610.20527)

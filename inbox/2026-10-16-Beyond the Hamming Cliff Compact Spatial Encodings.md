@@ -1,0 +1,14 @@
+---
+title: "Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2610.22083
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks
+> 原文: [https://arxiv.org/abs/2610.22083](https://arxiv.org/abs/2610.22083)
+
+arXiv:2610.22083v1 Announce Type: new
+Abstract: By pre-processing input signals with Gray, Thermometer, Johnson and hybrid encodings before passing them to spiking neural networks running on SpiNNaker hardware, Davies et al.(2025) address the semantic-spatial disparity that causes the ``Hamming cliff'' in standard binary representations. Continuous semantic patterns are presented as a set of simultaneous spikes at the input layer, preserving ultra-low latency processing. Training the network on multiple continuous values under each scheme, and measuring accuracy, required homeostatic scaling and false-positive rates, shows that removing the cliff is necessary but not sufficient: Gray encoding removes it yet retains little global distance structure, whereas Thermometer and Johnson preserve semantic distance at a code width that grows with the value range. The proposed hybrid encodings contain all three as limiting cases of a single parameter, recovering most of that structure at a fraction of the width. The homeostatic factor is shown to set a radius of tolerance around each trained pattern, so that the choice of encoding alone decides which values the network treats as similar.

@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.19003
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19003
 next_step: skim
+priority: high
+slack_ts: '1792123819.650529'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Evaluating Large Language Models for Multilingual Abstractive Summarization:
+  A Comprehensive Study of English and Bengali'
 ---
 # Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali
 > 原文: [https://arxiv.org/abs/2610.19003](https://arxiv.org/abs/2610.19003)

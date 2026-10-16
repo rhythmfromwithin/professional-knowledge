@@ -1,11 +1,13 @@
 ---
-title: "Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Machine"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.19220
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19220
 next_step: skim
+priority: low
+slack_ts: '1792123821.683419'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Riding the Fixed-Point Curve: Image Classification in the Continuous Thought
+  Machine'
 ---
 # Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Machine
 > 原文: [https://arxiv.org/abs/2610.19220](https://arxiv.org/abs/2610.19220)

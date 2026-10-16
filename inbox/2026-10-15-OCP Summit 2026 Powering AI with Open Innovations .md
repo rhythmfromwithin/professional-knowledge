@@ -1,11 +1,13 @@
 ---
-title: "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/
 next_step: skim
+priority: medium
+slack_ts: '1792123821.239869'
+source: Meta Engineering
+status: unread
+title: 'OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out,
+  and Scale-Across Networks'
 ---
 # OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks
 > 原文: [https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/](https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/)

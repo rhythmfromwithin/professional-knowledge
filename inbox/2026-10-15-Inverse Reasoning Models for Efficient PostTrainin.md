@@ -1,11 +1,13 @@
 ---
-title: "Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.18878
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.18878
 next_step: skim
+priority: high
+slack_ts: '1792123820.623259'
+source: cs.LG - Machine Learning
+status: unread
+title: Inverse Reasoning Models for Efficient Post-Training and Verification from
+  Answer-Only Data
 ---
 # Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data
 > 原文: [https://arxiv.org/abs/2610.18878](https://arxiv.org/abs/2610.18878)

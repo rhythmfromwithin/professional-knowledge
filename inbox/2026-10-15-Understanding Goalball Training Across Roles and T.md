@@ -1,11 +1,13 @@
 ---
-title: "Understanding Goalball Training Across Roles and Team Contexts: Practices, Perceptions, Challenges, and Technological Opportunities"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.19160
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19160
 next_step: skim
+priority: low
+slack_ts: '1792123823.222119'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Understanding Goalball Training Across Roles and Team Contexts: Practices,
+  Perceptions, Challenges, and Technological Opportunities'
 ---
 # Understanding Goalball Training Across Roles and Team Contexts: Practices, Perceptions, Challenges, and Technological Opportunities
 > 原文: [https://arxiv.org/abs/2610.19160](https://arxiv.org/abs/2610.19160)

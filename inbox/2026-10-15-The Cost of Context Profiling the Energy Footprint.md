@@ -1,11 +1,13 @@
 ---
-title: "The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.19819
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19819
 next_step: skim
+priority: medium
+slack_ts: '1792123822.957439'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large
+  Language Models'
 ---
 # The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models
 > 原文: [https://arxiv.org/abs/2610.19819](https://arxiv.org/abs/2610.19819)

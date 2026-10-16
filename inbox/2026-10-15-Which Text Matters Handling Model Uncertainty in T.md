@@ -1,11 +1,13 @@
 ---
-title: "Which Text Matters: Handling Model Uncertainty in Text-as-Data Regressions, with an Application to Central Bank Communication"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.19720
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19720
 next_step: skim
+priority: low
+slack_ts: '1792123823.337959'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Which Text Matters: Handling Model Uncertainty in Text-as-Data Regressions,
+  with an Application to Central Bank Communication'
 ---
 # Which Text Matters: Handling Model Uncertainty in Text-as-Data Regressions, with an Application to Central Bank Communication
 > 原文: [https://arxiv.org/abs/2610.19720](https://arxiv.org/abs/2610.19720)

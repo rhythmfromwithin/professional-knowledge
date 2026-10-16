@@ -1,11 +1,12 @@
 ---
-title: "The Silent Failures in Agentic Data Science"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.14115
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.14115
 next_step: skim
+priority: high
+slack_ts: '1792123823.016409'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: The Silent Failures in Agentic Data Science
 ---
 # The Silent Failures in Agentic Data Science
 > 原文: [https://arxiv.org/abs/2610.14115](https://arxiv.org/abs/2610.14115)

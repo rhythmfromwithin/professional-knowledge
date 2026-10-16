@@ -1,11 +1,12 @@
 ---
-title: "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/
 next_step: skim
+priority: medium
+slack_ts: '1792123822.663119'
+source: Meta Engineering
+status: unread
+title: Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest
 ---
 # Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest
 > 原文: [https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/](https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/)

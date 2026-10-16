@@ -1,11 +1,13 @@
 ---
-title: "Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.20144
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20144
 next_step: skim
+priority: medium
+slack_ts: '1792123822.890669'
+source: cs.CY - Computers and Society
+status: unread
+title: Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global
+  Intermedia Agenda Setting
 ---
 # Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting
 > 原文: [https://arxiv.org/abs/2610.20144](https://arxiv.org/abs/2610.20144)

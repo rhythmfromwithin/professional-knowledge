@@ -1,11 +1,12 @@
 ---
-title: "MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.19267
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.19267
 next_step: skim
+priority: medium
+slack_ts: '1792123821.058559'
+source: cs.CY - Computers and Society
+status: unread
+title: 'MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis'
 ---
 # MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis
 > 原文: [https://arxiv.org/abs/2610.19267](https://arxiv.org/abs/2610.19267)

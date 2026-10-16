@@ -1,11 +1,12 @@
 ---
-title: "Lotus: Learning to Understand Time-series by Learning to Forecast"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.18877
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.18877
 next_step: skim
+priority: high
+slack_ts: '1792123820.994199'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Lotus: Learning to Understand Time-series by Learning to Forecast'
 ---
 # Lotus: Learning to Understand Time-series by Learning to Forecast
 > 原文: [https://arxiv.org/abs/2610.18877](https://arxiv.org/abs/2610.18877)
