@@ -1,11 +1,12 @@
 ---
-title: "Awakening as a Trait-Level Transformation of Consciousness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.20856
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20856
 next_step: skim
+priority: low
+slack_ts: '1792209646.274529'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Awakening as a Trait-Level Transformation of Consciousness
 ---
 # Awakening as a Trait-Level Transformation of Consciousness
 > 原文: [https://arxiv.org/abs/2610.20856](https://arxiv.org/abs/2610.20856)

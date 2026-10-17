@@ -1,11 +1,13 @@
 ---
-title: "A Large-Scale Dataset for Multi-Class Financial News Classification in Brazilian Portuguese"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.20630
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20630
 next_step: skim
+priority: high
+slack_ts: '1792209645.508989'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: A Large-Scale Dataset for Multi-Class Financial News Classification in Brazilian
+  Portuguese
 ---
 # A Large-Scale Dataset for Multi-Class Financial News Classification in Brazilian Portuguese
 > 原文: [https://arxiv.org/abs/2610.20630](https://arxiv.org/abs/2610.20630)

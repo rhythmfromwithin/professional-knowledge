@@ -1,11 +1,12 @@
 ---
-title: "Forensic Analysis of the HackRF One with PortaPack Mayhem Firmware"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.20647
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20647
 next_step: skim
+priority: low
+slack_ts: '1792209647.792479'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Forensic Analysis of the HackRF One with PortaPack Mayhem Firmware
 ---
 # Forensic Analysis of the HackRF One with PortaPack Mayhem Firmware
 > 原文: [https://arxiv.org/abs/2610.20647](https://arxiv.org/abs/2610.20647)

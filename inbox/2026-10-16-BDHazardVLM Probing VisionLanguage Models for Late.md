@@ -1,11 +1,13 @@
 ---
-title: "BD-HazardVLM: Probing Vision-Language Models for Latent Defensive-Driving Hazards in Bangladesh Road Scenes"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.20627
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20627
 next_step: skim
+priority: medium
+slack_ts: '1792209646.344289'
+source: cs.CV - Computer Vision
+status: unread
+title: 'BD-HazardVLM: Probing Vision-Language Models for Latent Defensive-Driving
+  Hazards in Bangladesh Road Scenes'
 ---
 # BD-HazardVLM: Probing Vision-Language Models for Latent Defensive-Driving Hazards in Bangladesh Road Scenes
 > 原文: [https://arxiv.org/abs/2610.20627](https://arxiv.org/abs/2610.20627)

@@ -1,11 +1,13 @@
 ---
-title: "ConStore: Search-Overlapped Prefetch and Co-Retrieval-Aware Content Storage for Disk-Based ANNS"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.21676
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21676
 next_step: skim
+priority: low
+slack_ts: '1792209646.916029'
+source: cs.DB - Databases
+status: unread
+title: 'ConStore: Search-Overlapped Prefetch and Co-Retrieval-Aware Content Storage
+  for Disk-Based ANNS'
 ---
 # ConStore: Search-Overlapped Prefetch and Co-Retrieval-Aware Content Storage for Disk-Based ANNS
 > 原文: [https://arxiv.org/abs/2610.21676](https://arxiv.org/abs/2610.21676)

@@ -1,11 +1,5 @@
 ---
-title: "$\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.18950
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1792209645.343819'
 ---
 # $\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation
 > 原文: [https://arxiv.org/abs/2610.18950](https://arxiv.org/abs/2610.18950)

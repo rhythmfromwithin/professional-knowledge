@@ -1,11 +1,13 @@
 ---
-title: "HPCAgent-Bench: A Framework for Sound Benchmarking of Code-Optimizing Agents, Harnesses, and Skills"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.20673
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20673
 next_step: skim
+priority: low
+slack_ts: '1792209648.177479'
+source: cs.SE - Software Engineering
+status: unread
+title: 'HPCAgent-Bench: A Framework for Sound Benchmarking of Code-Optimizing Agents,
+  Harnesses, and Skills'
 ---
 # HPCAgent-Bench: A Framework for Sound Benchmarking of Code-Optimizing Agents, Harnesses, and Skills
 > 原文: [https://arxiv.org/abs/2610.20673](https://arxiv.org/abs/2610.20673)

@@ -1,11 +1,13 @@
 ---
-title: "Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.22083
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22083
 next_step: skim
+priority: low
+slack_ts: '1792209646.467349'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance
+  in Spiking Neural Networks'
 ---
 # Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2610.22083](https://arxiv.org/abs/2610.22083)

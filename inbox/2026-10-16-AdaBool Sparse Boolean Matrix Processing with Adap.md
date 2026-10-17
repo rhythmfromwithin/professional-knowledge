@@ -1,11 +1,12 @@
 ---
-title: "AdaBool: Sparse Boolean Matrix Processing with Adaptive Data Representation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.21264
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21264
 next_step: skim
+priority: low
+slack_ts: '1792209645.905109'
+source: cs.DB - Databases
+status: unread
+title: 'AdaBool: Sparse Boolean Matrix Processing with Adaptive Data Representation'
 ---
 # AdaBool: Sparse Boolean Matrix Processing with Adaptive Data Representation
 > 原文: [https://arxiv.org/abs/2610.21264](https://arxiv.org/abs/2610.21264)

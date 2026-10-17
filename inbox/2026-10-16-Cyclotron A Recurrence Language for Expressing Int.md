@@ -1,11 +1,12 @@
 ---
-title: "Cyclotron: A Recurrence Language for Expressing Interprocessor Communication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.20981
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20981
 next_step: skim
+priority: medium
+slack_ts: '1792209647.033169'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Cyclotron: A Recurrence Language for Expressing Interprocessor Communication'
 ---
 # Cyclotron: A Recurrence Language for Expressing Interprocessor Communication
 > 原文: [https://arxiv.org/abs/2610.20981](https://arxiv.org/abs/2610.20981)

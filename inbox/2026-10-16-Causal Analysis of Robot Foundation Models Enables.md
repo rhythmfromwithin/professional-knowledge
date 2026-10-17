@@ -1,11 +1,12 @@
 ---
-title: "Causal Analysis of Robot Foundation Models Enables Efficiency Gains"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.20750
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20750
 next_step: skim
+priority: medium
+slack_ts: '1792209646.738519'
+source: cs.RO - Robotics
+status: unread
+title: Causal Analysis of Robot Foundation Models Enables Efficiency Gains
 ---
 # Causal Analysis of Robot Foundation Models Enables Efficiency Gains
 > 原文: [https://arxiv.org/abs/2610.20750](https://arxiv.org/abs/2610.20750)

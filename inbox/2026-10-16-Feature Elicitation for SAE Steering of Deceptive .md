@@ -1,11 +1,12 @@
 ---
-title: "Feature Elicitation for SAE Steering of Deceptive Behaviour in Small LLMs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.20638
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20638
 next_step: skim
+priority: high
+slack_ts: '1792209647.603939'
+source: cs.LG - Machine Learning
+status: unread
+title: Feature Elicitation for SAE Steering of Deceptive Behaviour in Small LLMs
 ---
 # Feature Elicitation for SAE Steering of Deceptive Behaviour in Small LLMs
 > 原文: [https://arxiv.org/abs/2610.20638](https://arxiv.org/abs/2610.20638)

@@ -1,11 +1,12 @@
 ---
-title: "Wong--Zakai Convergence and FNO Learning for Stochastic Volterra Equations"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.18939
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.18939
 next_step: skim
+priority: medium
+slack_ts: '1792209645.253979'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Wong--Zakai Convergence and FNO Learning for Stochastic Volterra Equations
 ---
 # Wong--Zakai Convergence and FNO Learning for Stochastic Volterra Equations
 > 原文: [https://arxiv.org/abs/2610.18939](https://arxiv.org/abs/2610.18939)

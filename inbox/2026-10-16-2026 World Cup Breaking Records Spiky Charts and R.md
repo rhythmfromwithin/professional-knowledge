@@ -1,11 +1,12 @@
 ---
-title: "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/
 next_step: skim
+priority: medium
+slack_ts: '1792209645.419639'
+source: Meta Engineering
+status: unread
+title: '2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale'
 ---
 # 2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale
 > 原文: [https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/](https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/)

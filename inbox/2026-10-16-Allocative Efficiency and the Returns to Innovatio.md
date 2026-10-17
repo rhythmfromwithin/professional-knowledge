@@ -1,11 +1,12 @@
 ---
-title: "Allocative Efficiency and the Returns to Innovation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.14969
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.14969
 next_step: skim
+priority: low
+slack_ts: '1792209646.029859'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Allocative Efficiency and the Returns to Innovation
 ---
 # Allocative Efficiency and the Returns to Innovation
 > 原文: [https://arxiv.org/abs/2610.14969](https://arxiv.org/abs/2610.14969)

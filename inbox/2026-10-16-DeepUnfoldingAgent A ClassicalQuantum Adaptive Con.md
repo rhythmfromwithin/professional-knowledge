@@ -1,11 +1,12 @@
 ---
-title: "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.20615
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20615
 next_step: skim
+priority: high
+slack_ts: '1792209647.246119'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API'
 ---
 # DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API
 > 原文: [https://arxiv.org/abs/2610.20615](https://arxiv.org/abs/2610.20615)

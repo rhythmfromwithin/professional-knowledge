@@ -1,11 +1,12 @@
 ---
-title: "A restart rule for genetic algorithms based on Schnabel census"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.22211
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22211
 next_step: skim
+priority: low
+slack_ts: '1792209645.639619'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A restart rule for genetic algorithms based on Schnabel census
 ---
 # A restart rule for genetic algorithms based on Schnabel census
 > 原文: [https://arxiv.org/abs/2610.22211](https://arxiv.org/abs/2610.22211)

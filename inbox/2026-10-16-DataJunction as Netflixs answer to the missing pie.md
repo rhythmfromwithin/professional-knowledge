@@ -1,7 +1,9 @@
 ---
-title: "DataJunction as Netflix’s answer to the missing piece of the modern data stack"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss
+slack_ts: '1792209647.159389'
+source: Netflix Tech Blog
+title: DataJunction as Netflix’s answer to the missing piece of the modern data stack
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

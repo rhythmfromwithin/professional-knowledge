@@ -1,11 +1,12 @@
 ---
-title: "Developer Experiences with Cursor AI-native IDE"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.20618
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20618
 next_step: skim
+priority: low
+slack_ts: '1792209647.301299'
+source: cs.SE - Software Engineering
+status: unread
+title: Developer Experiences with Cursor AI-native IDE
 ---
 # Developer Experiences with Cursor AI-native IDE
 > 原文: [https://arxiv.org/abs/2610.20618](https://arxiv.org/abs/2610.20618)

@@ -1,11 +1,12 @@
 ---
-title: "Graph Additive Models disentangling feature, topology, and interactions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.20662
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20662
 next_step: skim
+priority: medium
+slack_ts: '1792209648.031399'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Graph Additive Models disentangling feature, topology, and interactions
 ---
 # Graph Additive Models disentangling feature, topology, and interactions
 > 原文: [https://arxiv.org/abs/2610.20662](https://arxiv.org/abs/2610.20662)

@@ -1,11 +1,12 @@
 ---
-title: "FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.20636
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20636
 next_step: skim
+priority: high
+slack_ts: '1792209647.728679'
+source: cs.LG - Machine Learning
+status: unread
+title: 'FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models'
 ---
 # FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models
 > 原文: [https://arxiv.org/abs/2610.20636](https://arxiv.org/abs/2610.20636)

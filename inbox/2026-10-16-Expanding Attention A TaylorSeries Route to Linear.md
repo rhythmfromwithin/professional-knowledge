@@ -1,11 +1,13 @@
 ---
-title: "Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with a Fixed Number of Recurrent States"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.20637
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20637
 next_step: skim
+priority: high
+slack_ts: '1792209647.545039'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with
+  a Fixed Number of Recurrent States'
 ---
 # Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with a Fixed Number of Recurrent States
 > 原文: [https://arxiv.org/abs/2610.20637](https://arxiv.org/abs/2610.20637)

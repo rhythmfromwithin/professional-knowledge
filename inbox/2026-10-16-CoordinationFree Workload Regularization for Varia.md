@@ -1,11 +1,12 @@
 ---
-title: "Coordination-Free Workload Regularization for Variable-Cost Distributed Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.21162
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21162
 next_step: skim
+priority: medium
+slack_ts: '1792209646.976899'
+source: cs.DC - Distributed Computing
+status: unread
+title: Coordination-Free Workload Regularization for Variable-Cost Distributed Training
 ---
 # Coordination-Free Workload Regularization for Variable-Cost Distributed Training
 > 原文: [https://arxiv.org/abs/2610.21162](https://arxiv.org/abs/2610.21162)
