@@ -1,11 +1,12 @@
 ---
-title: "Proof-based general-purpose computing with Magnetar"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/
 next_step: skim
+priority: high
+slack_ts: '1792296497.240649'
+source: Microsoft Research
+status: unread
+title: Proof-based general-purpose computing with Magnetar
 ---
 # Proof-based general-purpose computing with Magnetar
 > 原文: [https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/](https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/)

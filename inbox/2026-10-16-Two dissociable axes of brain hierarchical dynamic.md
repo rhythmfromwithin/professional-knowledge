@@ -1,11 +1,13 @@
 ---
-title: "Two dissociable axes of brain hierarchical dynamics track universal and population-specific effects of mindfulness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.20854
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20854
 next_step: skim
+priority: low
+slack_ts: '1792296500.159739'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Two dissociable axes of brain hierarchical dynamics track universal and population-specific
+  effects of mindfulness
 ---
 # Two dissociable axes of brain hierarchical dynamics track universal and population-specific effects of mindfulness
 > 原文: [https://arxiv.org/abs/2610.20854](https://arxiv.org/abs/2610.20854)

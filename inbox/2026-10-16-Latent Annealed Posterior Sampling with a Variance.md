@@ -1,11 +1,13 @@
 ---
-title: "Latent Annealed Posterior Sampling with a Variance-Preserving Bridge for Sparsely Observed Random Fields"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.20659
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20659
 next_step: skim
+priority: medium
+slack_ts: '1792296494.497139'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Latent Annealed Posterior Sampling with a Variance-Preserving Bridge for Sparsely
+  Observed Random Fields
 ---
 # Latent Annealed Posterior Sampling with a Variance-Preserving Bridge for Sparsely Observed Random Fields
 > 原文: [https://arxiv.org/abs/2610.20659](https://arxiv.org/abs/2610.20659)

@@ -1,11 +1,13 @@
 ---
-title: "Open Benchmark of AI Impact on Humans (ImpactBench): an expert-guided, open platform for the holistic evaluation of AI impact on humans"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.20690
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20690
 next_step: skim
+priority: low
+slack_ts: '1792296496.172049'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Open Benchmark of AI Impact on Humans (ImpactBench): an expert-guided, open
+  platform for the holistic evaluation of AI impact on humans'
 ---
 # Open Benchmark of AI Impact on Humans (ImpactBench): an expert-guided, open platform for the holistic evaluation of AI impact on humans
 > 原文: [https://arxiv.org/abs/2610.20690](https://arxiv.org/abs/2610.20690)

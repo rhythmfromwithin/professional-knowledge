@@ -1,11 +1,12 @@
 ---
-title: "Sapienz Receives ISSTA 2026 Impact Paper Award"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/
 next_step: skim
+priority: medium
+slack_ts: '1792296497.873589'
+source: Meta Engineering
+status: unread
+title: Sapienz Receives ISSTA 2026 Impact Paper Award
 ---
 # Sapienz Receives ISSTA 2026 Impact Paper Award
 > 原文: [https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/](https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/)

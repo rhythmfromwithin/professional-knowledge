@@ -1,7 +1,9 @@
 ---
-title: "Integrating Netflix’s Foundation Model into Personalization applications"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss
+slack_ts: '1792296506.105939'
+source: Netflix Tech Blog
+title: Integrating Netflix’s Foundation Model into Personalization applications
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

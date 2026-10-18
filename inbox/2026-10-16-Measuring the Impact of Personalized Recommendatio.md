@@ -1,7 +1,9 @@
 ---
-title: "Measuring the Impact of Personalized Recommendations"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss
+slack_ts: '1792296495.132879'
+source: Netflix Tech Blog
+title: Measuring the Impact of Personalized Recommendations
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

@@ -1,11 +1,12 @@
 ---
-title: "Orbia: Do Generated Videos Form a Consistent 3D World?"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.20693
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20693
 next_step: skim
+priority: medium
+slack_ts: '1792296496.409719'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Orbia: Do Generated Videos Form a Consistent 3D World?'
 ---
 # Orbia: Do Generated Videos Form a Consistent 3D World?
 > 原文: [https://arxiv.org/abs/2610.20693](https://arxiv.org/abs/2610.20693)

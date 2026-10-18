@@ -1,11 +1,13 @@
 ---
-title: "Probabilistic Optical-Layer Surrogate for Risk-Aware Control-Plane Decision Making"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.21069
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21069
 next_step: skim
+priority: medium
+slack_ts: '1792296497.057579'
+source: cs.DC - Distributed Computing
+status: unread
+title: Probabilistic Optical-Layer Surrogate for Risk-Aware Control-Plane Decision
+  Making
 ---
 # Probabilistic Optical-Layer Surrogate for Risk-Aware Control-Plane Decision Making
 > 原文: [https://arxiv.org/abs/2610.21069](https://arxiv.org/abs/2610.21069)

@@ -1,11 +1,12 @@
 ---
-title: "Trust in Depth: Giving agents more autonomy without losing control"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/
 next_step: skim
+priority: high
+slack_ts: '1792296499.918689'
+source: AWS Blog
+status: unread
+title: 'Trust in Depth: Giving agents more autonomy without losing control'
 ---
 # Trust in Depth: Giving agents more autonomy without losing control
 > 原文: [https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)

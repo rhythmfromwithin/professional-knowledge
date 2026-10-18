@@ -1,11 +1,12 @@
 ---
-title: "Towards automatic digital garment assembly"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.20651
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20651
 next_step: skim
+priority: medium
+slack_ts: '1792296499.689859'
+source: cs.CV - Computer Vision
+status: unread
+title: Towards automatic digital garment assembly
 ---
 # Towards automatic digital garment assembly
 > 原文: [https://arxiv.org/abs/2610.20651](https://arxiv.org/abs/2610.20651)

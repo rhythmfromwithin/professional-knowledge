@@ -1,11 +1,12 @@
 ---
-title: "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/
 next_step: skim
+priority: high
+slack_ts: '1792296495.563819'
+source: AWS Blog
+status: unread
+title: Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart
 ---
 # Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart
 > 原文: [https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)

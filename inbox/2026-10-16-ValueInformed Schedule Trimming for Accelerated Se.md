@@ -1,11 +1,13 @@
 ---
-title: "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.20669
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20669
 next_step: skim
+priority: high
+slack_ts: '1792296500.745399'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance
+  in Discrete Diffusion
 ---
 # Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion
 > 原文: [https://arxiv.org/abs/2610.20669](https://arxiv.org/abs/2610.20669)

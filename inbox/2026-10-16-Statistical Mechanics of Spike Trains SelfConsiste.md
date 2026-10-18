@@ -1,11 +1,13 @@
 ---
-title: "Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.20971
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20971
 next_step: skim
+priority: low
+slack_ts: '1792296498.277849'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles
+  and Phase Transitions'
 ---
 # Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions
 > 原文: [https://arxiv.org/abs/2610.20971](https://arxiv.org/abs/2610.20971)

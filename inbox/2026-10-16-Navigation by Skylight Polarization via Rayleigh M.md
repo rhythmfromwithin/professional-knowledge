@@ -1,11 +1,13 @@
 ---
-title: "Navigation by Skylight Polarization via Rayleigh Model Optimization on a Road Vehicle"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.20797
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20797
 next_step: skim
+priority: medium
+slack_ts: '1792296496.000879'
+source: cs.RO - Robotics
+status: unread
+title: Navigation by Skylight Polarization via Rayleigh Model Optimization on a Road
+  Vehicle
 ---
 # Navigation by Skylight Polarization via Rayleigh Model Optimization on a Road Vehicle
 > 原文: [https://arxiv.org/abs/2610.20797](https://arxiv.org/abs/2610.20797)

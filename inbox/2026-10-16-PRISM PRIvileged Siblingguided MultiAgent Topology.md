@@ -1,11 +1,12 @@
 ---
-title: "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.20628
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20628
 next_step: skim
+priority: high
+slack_ts: '1792296496.645089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design'
 ---
 # PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design
 > 原文: [https://arxiv.org/abs/2610.20628](https://arxiv.org/abs/2610.20628)

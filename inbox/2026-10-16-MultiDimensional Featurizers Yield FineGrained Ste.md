@@ -1,11 +1,13 @@
 ---
-title: "Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.20767
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20767
 next_step: skim
+priority: medium
+slack_ts: '1792296495.828549'
+source: cs.RO - Robotics
+status: unread
+title: Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping
+  in Robot Foundation Models
 ---
 # Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models
 > 原文: [https://arxiv.org/abs/2610.20767](https://arxiv.org/abs/2610.20767)

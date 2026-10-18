@@ -1,11 +1,12 @@
 ---
-title: "Learning to Transfer School Attendance Zoning across Cities"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.21924
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21924
 next_step: skim
+priority: medium
+slack_ts: '1792296494.729909'
+source: cs.CY - Computers and Society
+status: unread
+title: Learning to Transfer School Attendance Zoning across Cities
 ---
 # Learning to Transfer School Attendance Zoning across Cities
 > 原文: [https://arxiv.org/abs/2610.21924](https://arxiv.org/abs/2610.21924)

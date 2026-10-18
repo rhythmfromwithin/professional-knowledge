@@ -1,11 +1,12 @@
 ---
-title: "MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.21685
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21685
 next_step: skim
+priority: medium
+slack_ts: '1792296494.903439'
+source: cs.CY - Computers and Society
+status: unread
+title: 'MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment'
 ---
 # MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment
 > 原文: [https://arxiv.org/abs/2610.21685](https://arxiv.org/abs/2610.21685)

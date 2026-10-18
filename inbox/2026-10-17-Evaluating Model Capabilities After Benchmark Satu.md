@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Model Capabilities After Benchmark Saturation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.20667
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20667
 next_step: skim
+priority: high
+slack_ts: '1792296504.717729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Evaluating Model Capabilities After Benchmark Saturation
 ---
 # Evaluating Model Capabilities After Benchmark Saturation
 > 原文: [https://arxiv.org/abs/2610.20667](https://arxiv.org/abs/2610.20667)
