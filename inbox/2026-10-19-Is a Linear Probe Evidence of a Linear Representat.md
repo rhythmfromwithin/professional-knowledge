@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2610.22655
+next_step: skim
+priority: medium
+slack_ts: '1792383449.284739'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Is a Linear Probe Evidence of a Linear Representation?
+---
+# Is a Linear Probe Evidence of a Linear Representation?
+> 原文: [https://arxiv.org/abs/2610.22655](https://arxiv.org/abs/2610.22655)
+
+arXiv:2610.22655v1 Announce Type: new
+Abstract: The linear representation hypothesis holds that pretrained vision models encode generative factors as linearly decodable directions in feature space, and comes with a standard methodology: train a linear probe, declare a factor represented if accuracy is high. We show this test is too permissive. Asymptotically, any sufficiently rich feature map, including a random one, admits a linear readout, so high probe accuracy is consistent with two very different geometries: a true linear world model, where the latent-aligned subspace dominates the representation, or a kernel machine, where the latents lie linearly inside a much larger curved manifold. This distinction matters because the curved structure orthogonal to the probe is relevant for out-of-distribution generalization, robustness, and compositional transfer. We propose three asymmetric diagnostics that distinguish the two cases: reverse predictivity, spectral concentration, and out-of-distribution generalization. We validate them in a fully observed simulation where ground truth is known. Applied to six pretrained vision transformers on SVG-World, our deterministic generative benchmark with paired visual styles, and to two of them on CelebA, they show pretraining produces structure beyond a random kernel but well short of a linear world model. On dSprites, 3D Shapes and MPI3D, forward decodability and latent-aligned variance dissociate. Thus, forward decoding alone does not show that the probed factors align with the dominant geometry of the representation. In summary, our work cautions about the success of linear probes as opposed to truly linear and low dimensional representations.

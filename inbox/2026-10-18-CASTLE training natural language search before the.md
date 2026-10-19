@@ -1,7 +1,9 @@
 ---
-title: "CASTLE: training natural language search before the first real query"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss
+slack_ts: '1792383432.104989'
+source: Airbnb Engineering
+title: 'CASTLE: training natural language search before the first real query'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

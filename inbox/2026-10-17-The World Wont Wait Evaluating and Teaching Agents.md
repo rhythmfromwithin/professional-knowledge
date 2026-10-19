@@ -1,11 +1,12 @@
 ---
-title: "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.20665
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.20665
 next_step: skim
+priority: high
+slack_ts: '1792383429.491339'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The World Won''t Wait: Evaluating and Teaching Agents Under a Live Clock'
 ---
 # The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock
 > 原文: [https://arxiv.org/abs/2610.20665](https://arxiv.org/abs/2610.20665)

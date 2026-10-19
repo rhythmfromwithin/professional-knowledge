@@ -1,0 +1,15 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2610.22516
+next_step: skim
+priority: medium
+slack_ts: '1792383452.326619'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Source-Aware Dynamic Pricing with Strategic Buyers
+---
+# Source-Aware Dynamic Pricing with Strategic Buyers
+> 原文: [https://arxiv.org/abs/2610.22516](https://arxiv.org/abs/2610.22516)
+
+arXiv:2610.22516v1 Announce Type: new
+Abstract: In modern commerce, firms and platforms typically use customer features from different sources to personalize prices: some features are verified using seller records or third-party data, while others are self-reported and may be strategically manipulated by buyers seeking lower prices. We therefore introduce a novel source-aware framework for contextual dynamic pricing with strategic buyers in a high-dimensional semiparametric setting, where buyer valuations follow a sparse linear model with an unknown noise distribution. To account for differences in manipulability across feature sources while enabling effective valuation learning, we develop the Source-Aware Localized exploration and calibrated Exploitation (SALE) pricing policy, which draws on verified features to localize price exploration and combines verified and reported features to correct for strategic manipulation during exploitation. Our localized exploration design allows converting binary purchase feedback into unbiased signals of conditional mean valuations, yielding a new population equation that supports consistent sparse estimation despite non-i.i.d. buyer arrivals. Building on this estimate, we develop a localized empirical-process analysis that exploits intrinsic sparse geometry to establish uniform guarantees for nonparametric estimation of the noise distribution in the high-dimensional setting. With these estimation guarantees, we establish SALE's self-recovery property, which keeps localized exploration valid with high probability and leads to a sublinear expected regret bound. Both simulation studies and real-data experiments demonstrate the appealing performance of SALE. To the best of our knowledge, our study is the first to provide a theoretical and practical framework for incorporating information provenance into dynamic pricing with strategic buyers.

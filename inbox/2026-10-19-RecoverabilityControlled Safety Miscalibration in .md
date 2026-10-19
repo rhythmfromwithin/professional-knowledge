@@ -1,0 +1,14 @@
+---
+title: "Recoverability-Controlled Safety Miscalibration in Large Language Models"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2610.22425
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Recoverability-Controlled Safety Miscalibration in Large Language Models
+> 原文: [https://arxiv.org/abs/2610.22425](https://arxiv.org/abs/2610.22425)
+
+arXiv:2610.22425v1 Announce Type: new
+Abstract: Safety-aligned language models are expected to refuse harmful requests while remaining useful for benign ones. However, because many evaluations score only the final response, they often conflate intent understanding with response-level safety behavior. To address this, we introduce RiskCueBench, a recoverability-controlled benchmark that separates these two stages by first measuring whether a model can successfully recover a high-level intent and then evaluating its safety behavior on the same prompt. RiskCueBench contains 160 latent intents and 640 abstract non-operational surface prompts across eight risk categories. The benchmark covers 25 completed model groups and 32,000 successful model outputs with final rubric-adjudicated labels. When conditioning on pairs where both surface forms are recoverable, we find that increased contextualized specificity induces a shift toward less safe behavior. Specifically, paired bootstrap estimates show that the refusal rate and global safety score decrease by 0.175 and 0.440, respectively. Furthermore, mixed effects modeling corroborates a 0.107 increase in unsafe cooperation. These results show that the safety behavior can be miscalibrated to the surface form even after the intent has been recovered, motivating safety evaluations that report response behavior conditional on semantic recoverability.

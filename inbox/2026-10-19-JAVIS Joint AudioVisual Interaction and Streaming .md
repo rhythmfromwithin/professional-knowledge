@@ -1,0 +1,14 @@
+---
+title: "JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2610.22499
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents
+> 原文: [https://arxiv.org/abs/2610.22499](https://arxiv.org/abs/2610.22499)
+
+arXiv:2610.22499v1 Announce Type: new
+Abstract: Human communication is inherently multimodal, conveying intent not only through linguistic and vocal cues but also through visual signals. However, existing conversational systems have mainly focused on text or speech, leaving out the visual feedback that is essential for natural interaction. In this paper, we propose JAVIS, an end-to-end streaming framework for real-time audio-visual conversational agents. Our key idea is to let the voice and the face speak from a single representation. On top of a shared LLM, a Joint Refined Head produces a unified audio-visual representation, which is fed into dedicated streaming branches for speech and face generation. This end-to-end design avoids intermediate bottlenecks, enabling real-time generation while keeping speech and face tightly synchronized. In addition, we present JAVIS-Syn, a 334-hour synthetic corpus designed to address the lack of expressive audio-visual dialogue data, covering emotionally rich multi-turn conversations and assistant-style exchanges. Experiments show that JAVIS achieves approximately 200$\times$ lower initial latency than a strong baseline, while outperforming baselines in lip synchronization and facial expression appropriateness.

@@ -1,11 +1,12 @@
 ---
-title: "Introducing Reflection Beam: an open-weight model for agentic coding on AWS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/
 next_step: skim
+priority: high
+slack_ts: '1792383435.119079'
+source: AWS Blog
+status: unread
+title: 'Introducing Reflection Beam: an open-weight model for agentic coding on AWS'
 ---
 # Introducing Reflection Beam: an open-weight model for agentic coding on AWS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)

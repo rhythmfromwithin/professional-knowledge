@@ -1,11 +1,12 @@
 ---
-title: "Simulating student learning for better AI tutoring"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/
 next_step: skim
+priority: high
+slack_ts: '1792383429.154669'
+source: Microsoft Research
+status: unread
+title: Simulating student learning for better AI tutoring
 ---
 # Simulating student learning for better AI tutoring
 > 原文: [https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/](https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/)
