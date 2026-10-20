@@ -1,11 +1,13 @@
 ---
-title: "DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.22450
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22450
 next_step: skim
+priority: medium
+slack_ts: '1792470517.467829'
+source: cs.RO - Robotics
+status: unread
+title: DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation
+  for Real-World Autonomous Driving
 ---
 # DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving
 > 原文: [https://arxiv.org/abs/2610.22450](https://arxiv.org/abs/2610.22450)

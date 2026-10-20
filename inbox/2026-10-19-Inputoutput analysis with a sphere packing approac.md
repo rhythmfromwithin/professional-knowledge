@@ -1,11 +1,12 @@
 ---
-title: "Input-output analysis with a sphere packing approach"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.23391
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23391
 next_step: skim
+priority: low
+slack_ts: '1792470518.423979'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Input-output analysis with a sphere packing approach
 ---
 # Input-output analysis with a sphere packing approach
 > 原文: [https://arxiv.org/abs/2610.23391](https://arxiv.org/abs/2610.23391)

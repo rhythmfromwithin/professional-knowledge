@@ -1,11 +1,12 @@
 ---
-title: "Stack Overflow for Agents triples signups with ChatGPT plugin"
-source: "OpenAI Blog"
-link: https://openai.com/index/stack-overflow-chatgpt-plugin
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/stack-overflow-chatgpt-plugin
 next_step: skim
+priority: high
+slack_ts: '1792470519.742139'
+source: OpenAI Blog
+status: unread
+title: Stack Overflow for Agents triples signups with ChatGPT plugin
 ---
 # Stack Overflow for Agents triples signups with ChatGPT plugin
 > 原文: [https://openai.com/index/stack-overflow-chatgpt-plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)

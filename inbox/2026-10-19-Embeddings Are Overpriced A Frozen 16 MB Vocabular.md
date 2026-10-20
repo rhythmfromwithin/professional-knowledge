@@ -1,11 +1,13 @@
 ---
-title: "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.22428
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22428
 next_step: skim
+priority: high
+slack_ts: '1792470517.705599'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary
+  Language Models
 ---
 # Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models
 > 原文: [https://arxiv.org/abs/2610.22428](https://arxiv.org/abs/2610.22428)

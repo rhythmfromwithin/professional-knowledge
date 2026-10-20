@@ -1,11 +1,12 @@
 ---
-title: "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.22444
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22444
 next_step: skim
+priority: medium
+slack_ts: '1792470517.769709'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning'
 ---
 # Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning
 > 原文: [https://arxiv.org/abs/2610.22444](https://arxiv.org/abs/2610.22444)

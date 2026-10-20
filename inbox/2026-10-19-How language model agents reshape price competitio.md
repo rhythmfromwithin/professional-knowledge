@@ -1,11 +1,12 @@
 ---
-title: "How language model agents reshape price competition"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.21711
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.21711
 next_step: skim
+priority: low
+slack_ts: '1792470518.305529'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: How language model agents reshape price competition
 ---
 # How language model agents reshape price competition
 > 原文: [https://arxiv.org/abs/2610.21711](https://arxiv.org/abs/2610.21711)

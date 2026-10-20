@@ -1,11 +1,13 @@
 ---
-title: "Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.22461
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22461
 next_step: skim
+priority: medium
+slack_ts: '1792470518.943169'
+source: cs.RO - Robotics
+status: unread
+title: 'Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian
+  Campuses'
 ---
 # Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses
 > 原文: [https://arxiv.org/abs/2610.22461](https://arxiv.org/abs/2610.22461)

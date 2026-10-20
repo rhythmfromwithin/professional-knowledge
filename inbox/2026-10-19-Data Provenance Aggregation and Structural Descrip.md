@@ -1,11 +1,12 @@
 ---
-title: "Data Provenance Aggregation and Structural Descriptors for Query-Template Identification"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.22705
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22705
 next_step: skim
+priority: low
+slack_ts: '1792470516.187069'
+source: cs.DB - Databases
+status: unread
+title: Data Provenance Aggregation and Structural Descriptors for Query-Template Identification
 ---
 # Data Provenance Aggregation and Structural Descriptors for Query-Template Identification
 > 原文: [https://arxiv.org/abs/2610.22705](https://arxiv.org/abs/2610.22705)

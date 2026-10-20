@@ -1,11 +1,13 @@
 ---
-title: "Immersive Focus+Context Techniques to Assist in Interpretation of High Density Forest Point Clouds"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.22878
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22878
 next_step: skim
+priority: low
+slack_ts: '1792470518.365719'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Immersive Focus+Context Techniques to Assist in Interpretation of High Density
+  Forest Point Clouds
 ---
 # Immersive Focus+Context Techniques to Assist in Interpretation of High Density Forest Point Clouds
 > 原文: [https://arxiv.org/abs/2610.22878](https://arxiv.org/abs/2610.22878)

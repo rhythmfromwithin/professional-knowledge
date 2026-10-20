@@ -1,11 +1,12 @@
 ---
-title: "Has GPT-6-Astra Achieved Embodied Intelligence?"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.22471
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22471
 next_step: skim
+priority: medium
+slack_ts: '1792470518.129989'
+source: cs.RO - Robotics
+status: unread
+title: Has GPT-6-Astra Achieved Embodied Intelligence?
 ---
 # Has GPT-6-Astra Achieved Embodied Intelligence?
 > 原文: [https://arxiv.org/abs/2610.22471](https://arxiv.org/abs/2610.22471)

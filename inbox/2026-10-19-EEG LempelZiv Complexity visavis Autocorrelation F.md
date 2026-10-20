@@ -1,11 +1,5 @@
 ---
-title: "EEG Lempel-Ziv Complexity vis-\`a-vis Autocorrelation Function"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.23231
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1792470517.532389'
 ---
 # EEG Lempel-Ziv Complexity vis-\`a-vis Autocorrelation Function
 > 原文: [https://arxiv.org/abs/2610.23231](https://arxiv.org/abs/2610.23231)

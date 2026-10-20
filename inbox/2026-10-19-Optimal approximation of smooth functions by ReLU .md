@@ -1,11 +1,12 @@
 ---
-title: "Optimal approximation of smooth functions by ReLU neural networks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.22693
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22693
 next_step: skim
+priority: medium
+slack_ts: '1792470519.068519'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Optimal approximation of smooth functions by ReLU neural networks
 ---
 # Optimal approximation of smooth functions by ReLU neural networks
 > 原文: [https://arxiv.org/abs/2610.22693](https://arxiv.org/abs/2610.22693)

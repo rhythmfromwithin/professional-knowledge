@@ -1,11 +1,12 @@
 ---
-title: "Upper bounds on the number of causal pieces in spiking neural networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.22484
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22484
 next_step: skim
+priority: low
+slack_ts: '1792470520.175049'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Upper bounds on the number of causal pieces in spiking neural networks
 ---
 # Upper bounds on the number of causal pieces in spiking neural networks
 > 原文: [https://arxiv.org/abs/2610.22484](https://arxiv.org/abs/2610.22484)

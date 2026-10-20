@@ -1,11 +1,13 @@
 ---
-title: "ElectroCalm: Investigating User Experience and Physiological Responses to Multi-Node Transcutaneous Electrical Stimulation for Stress Modulation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.22748
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22748
 next_step: skim
+priority: low
+slack_ts: '1792470517.591909'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'ElectroCalm: Investigating User Experience and Physiological Responses to
+  Multi-Node Transcutaneous Electrical Stimulation for Stress Modulation'
 ---
 # ElectroCalm: Investigating User Experience and Physiological Responses to Multi-Node Transcutaneous Electrical Stimulation for Stress Modulation
 > 原文: [https://arxiv.org/abs/2610.22748](https://arxiv.org/abs/2610.22748)

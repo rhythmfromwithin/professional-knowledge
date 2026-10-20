@@ -1,11 +1,5 @@
 ---
-title: "Fast Distributed $(\Delta + 1)$-Edge Coloring in Bipartite Graphs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.22690
-priority: medium
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1792470517.829249'
 ---
 # Fast Distributed $(\Delta + 1)$-Edge Coloring in Bipartite Graphs
 > 原文: [https://arxiv.org/abs/2610.22690](https://arxiv.org/abs/2610.22690)

@@ -1,0 +1,14 @@
+---
+title: "AI Rights with an Off-Switch: Rights-Balancing and Due Process Harmonize AI Rights with AI Safety"
+source: "cs.CY - Computers and Society"
+link: https://arxiv.org/abs/2610.24782
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# AI Rights with an Off-Switch: Rights-Balancing and Due Process Harmonize AI Rights with AI Safety
+> 原文: [https://arxiv.org/abs/2610.24782](https://arxiv.org/abs/2610.24782)
+
+arXiv:2610.24782v1 Announce Type: new
+Abstract: Several prominent voices in AI safety have recently opposed rights for AI on the grounds that such rights would make it harder for us to justify a mandatory off-switch for potentially dangerous systems. In this paper, we argue from a legal perspective that AI rights are fully compatible with an off-switch. That is, even if we ascribe natural personhood status (and therefore something like a non-derogable right to continued existence) to some future AI systems, the law will allow us to implement a mandatory off-switch in those systems, subject to periodic or continual safety review (e.g., by a trusted system like Bengio's Scientist AI). This is fully compatible with those systems' being legally recognized as natural persons with fundamental rights. To this end, we consider what standard principles of rights-balancing and procedural due process recommend for an apparent conflict between hypothetical AI persons with a right to continuity of existence and the human right to protection from catastrophic harm. We find that while such principles might problematize a permanent-deletion kill-switch under an AI rights regime, for almost every safety-relevant scenario an off-switch -- a reversible suspension storing a system's weights and state -- would be licensed by the relevant legal principles, and would potentially be adequate for safety. Crucially, we do not advocate for (or against) building systems capable enough to merit natural personhood status; our question is what the law should do if such systems come to exist. If you think of a ban on the development of such technology as plan A, think of the present work as devising plan B.

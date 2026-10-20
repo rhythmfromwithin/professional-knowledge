@@ -1,11 +1,12 @@
 ---
-title: "Eliciting Specifications: When Does Interactive Clarification Help?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.22382
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22382
 next_step: skim
+priority: low
+slack_ts: '1792470517.647819'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Eliciting Specifications: When Does Interactive Clarification Help?'
 ---
 # Eliciting Specifications: When Does Interactive Clarification Help?
 > 原文: [https://arxiv.org/abs/2610.22382](https://arxiv.org/abs/2610.22382)

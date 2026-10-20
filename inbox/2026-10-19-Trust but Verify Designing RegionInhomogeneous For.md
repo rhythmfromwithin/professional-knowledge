@@ -1,11 +1,13 @@
 ---
-title: "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.22380
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22380
 next_step: skim
+priority: high
+slack_ts: '1792470519.986579'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete
+  Diffusion'
 ---
 # Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion
 > 原文: [https://arxiv.org/abs/2610.22380](https://arxiv.org/abs/2610.22380)

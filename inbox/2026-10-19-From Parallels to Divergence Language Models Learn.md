@@ -1,11 +1,13 @@
 ---
-title: "From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.22468
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22468
 next_step: skim
+priority: high
+slack_ts: '1792470517.884259'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Parallels to Divergence: Language Models'' Learning of Action Nominal
+  Constructions'
 ---
 # From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions
 > 原文: [https://arxiv.org/abs/2610.22468](https://arxiv.org/abs/2610.22468)

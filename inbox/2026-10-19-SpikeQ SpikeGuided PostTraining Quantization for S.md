@@ -1,11 +1,12 @@
 ---
-title: "SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.23046
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23046
 next_step: skim
+priority: low
+slack_ts: '1792470519.682289'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks'
 ---
 # SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2610.23046](https://arxiv.org/abs/2610.23046)

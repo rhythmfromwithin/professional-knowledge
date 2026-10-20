@@ -1,11 +1,12 @@
 ---
-title: "Generative AI Produces and Transmits Beauty Bias"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.22553
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22553
 next_step: skim
+priority: medium
+slack_ts: '1792470518.004839'
+source: cs.CY - Computers and Society
+status: unread
+title: Generative AI Produces and Transmits Beauty Bias
 ---
 # Generative AI Produces and Transmits Beauty Bias
 > 原文: [https://arxiv.org/abs/2610.22553](https://arxiv.org/abs/2610.22553)

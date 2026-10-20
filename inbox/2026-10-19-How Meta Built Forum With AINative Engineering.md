@@ -1,11 +1,12 @@
 ---
-title: "How Meta Built Forum With AI-Native Engineering"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/
 next_step: skim
+priority: medium
+slack_ts: '1792470518.249379'
+source: Meta Engineering
+status: unread
+title: How Meta Built Forum With AI-Native Engineering
 ---
 # How Meta Built Forum With AI-Native Engineering
 > 原文: [https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/](https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/)

@@ -1,11 +1,12 @@
 ---
-title: "Recoverability-Controlled Safety Miscalibration in Large Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.22425
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22425
 next_step: skim
+priority: low
+slack_ts: '1792470519.370399'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Recoverability-Controlled Safety Miscalibration in Large Language Models
 ---
 # Recoverability-Controlled Safety Miscalibration in Large Language Models
 > 原文: [https://arxiv.org/abs/2610.22425](https://arxiv.org/abs/2610.22425)

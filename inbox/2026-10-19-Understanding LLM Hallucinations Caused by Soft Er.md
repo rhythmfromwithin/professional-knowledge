@@ -1,11 +1,12 @@
 ---
-title: "Understanding LLM Hallucinations Caused by Soft Errors"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.22520
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22520
 next_step: skim
+priority: low
+slack_ts: '1792470520.114129'
+source: cs.SE - Software Engineering
+status: unread
+title: Understanding LLM Hallucinations Caused by Soft Errors
 ---
 # Understanding LLM Hallucinations Caused by Soft Errors
 > 原文: [https://arxiv.org/abs/2610.22520](https://arxiv.org/abs/2610.22520)

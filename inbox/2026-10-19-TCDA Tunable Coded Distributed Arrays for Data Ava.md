@@ -1,11 +1,12 @@
 ---
-title: "TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.22508
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22508
 next_step: skim
+priority: medium
+slack_ts: '1792470519.862519'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling'
 ---
 # TCDA: Tunable Coded Distributed Arrays for Data Availability Sampling
 > 原文: [https://arxiv.org/abs/2610.22508](https://arxiv.org/abs/2610.22508)

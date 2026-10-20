@@ -1,11 +1,13 @@
 ---
-title: "Social Bias or Social Desirability? Comparing Factorial Survey Experiments for Humans and Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.22409
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22409
 next_step: skim
+priority: medium
+slack_ts: '1792470519.624629'
+source: cs.CY - Computers and Society
+status: unread
+title: Social Bias or Social Desirability? Comparing Factorial Survey Experiments
+  for Humans and Large Language Models
 ---
 # Social Bias or Social Desirability? Comparing Factorial Survey Experiments for Humans and Large Language Models
 > 原文: [https://arxiv.org/abs/2610.22409](https://arxiv.org/abs/2610.22409)
