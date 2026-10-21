@@ -1,11 +1,13 @@
 ---
-title: "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.22379
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22379
 next_step: skim
+priority: high
+slack_ts: '1792556389.409439'
+source: cs.LG - Machine Learning
+status: unread
+title: When is a large language model a good calibration agent? Physics-labeled prompting
+  for budgeted engineering simulator calibration
 ---
 # When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration
 > 原文: [https://arxiv.org/abs/2610.22379](https://arxiv.org/abs/2610.22379)

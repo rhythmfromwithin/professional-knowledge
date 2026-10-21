@@ -1,11 +1,12 @@
 ---
-title: "Amazon SageMaker JumpStart: 2026 year-to-date in review"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/
 next_step: skim
+priority: high
+slack_ts: '1792556393.046449'
+source: AWS Blog
+status: unread
+title: 'Amazon SageMaker JumpStart: 2026 year-to-date in review'
 ---
 # Amazon SageMaker JumpStart: 2026 year-to-date in review
 > 原文: [https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/)

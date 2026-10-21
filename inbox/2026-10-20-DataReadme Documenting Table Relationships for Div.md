@@ -1,11 +1,12 @@
 ---
-title: "Data.Readme: Documenting Table Relationships for Diverse Data Tasks"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.25131
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.25131
 next_step: skim
+priority: low
+slack_ts: '1792556396.564849'
+source: cs.DB - Databases
+status: unread
+title: 'Data.Readme: Documenting Table Relationships for Diverse Data Tasks'
 ---
 # Data.Readme: Documenting Table Relationships for Diverse Data Tasks
 > 原文: [https://arxiv.org/abs/2610.25131](https://arxiv.org/abs/2610.25131)

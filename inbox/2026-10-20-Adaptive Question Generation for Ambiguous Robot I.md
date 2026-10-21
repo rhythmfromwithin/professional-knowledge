@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Question Generation for Ambiguous Robot Instructions Based on Information Gain and Human Cognitive Characteristics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.23874
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23874
 next_step: skim
+priority: medium
+slack_ts: '1792556391.790359'
+source: cs.RO - Robotics
+status: unread
+title: Adaptive Question Generation for Ambiguous Robot Instructions Based on Information
+  Gain and Human Cognitive Characteristics
 ---
 # Adaptive Question Generation for Ambiguous Robot Instructions Based on Information Gain and Human Cognitive Characteristics
 > 原文: [https://arxiv.org/abs/2610.23874](https://arxiv.org/abs/2610.23874)

@@ -1,11 +1,13 @@
 ---
-title: "Over reliant and underprepared: First responder resilience to disruption of operational technology"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.24186
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24186
 next_step: skim
+priority: low
+slack_ts: '1792556405.232609'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Over reliant and underprepared: First responder resilience to disruption of
+  operational technology'
 ---
 # Over reliant and underprepared: First responder resilience to disruption of operational technology
 > 原文: [https://arxiv.org/abs/2610.24186](https://arxiv.org/abs/2610.24186)

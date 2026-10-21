@@ -1,11 +1,12 @@
 ---
-title: "Diverse Why-Provenance for Datalog Queries"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.24707
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24707
 next_step: skim
+priority: low
+slack_ts: '1792556397.463999'
+source: cs.DB - Databases
+status: unread
+title: Diverse Why-Provenance for Datalog Queries
 ---
 # Diverse Why-Provenance for Datalog Queries
 > 原文: [https://arxiv.org/abs/2610.24707](https://arxiv.org/abs/2610.24707)

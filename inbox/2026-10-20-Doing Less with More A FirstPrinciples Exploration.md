@@ -1,11 +1,13 @@
 ---
-title: "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.23921
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23921
 next_step: skim
+priority: high
+slack_ts: '1792556397.916749'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Doing Less with More: A First-Principles Exploration of the Suitability of
+  Agentic Computing over Alternative Architectural Choices'
 ---
 # Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices
 > 原文: [https://arxiv.org/abs/2610.23921](https://arxiv.org/abs/2610.23921)

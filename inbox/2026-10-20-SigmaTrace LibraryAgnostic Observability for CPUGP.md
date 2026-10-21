@@ -1,11 +1,12 @@
 ---
-title: "SigmaTrace: Library-Agnostic Observability for CPU/GPU-Initiated RDMA Communication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.24328
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24328
 next_step: skim
+priority: medium
+slack_ts: '1792556408.700459'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SigmaTrace: Library-Agnostic Observability for CPU/GPU-Initiated RDMA Communication'
 ---
 # SigmaTrace: Library-Agnostic Observability for CPU/GPU-Initiated RDMA Communication
 > 原文: [https://arxiv.org/abs/2610.24328](https://arxiv.org/abs/2610.24328)

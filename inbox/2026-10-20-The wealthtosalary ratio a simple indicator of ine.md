@@ -1,11 +1,12 @@
 ---
-title: "The wealth-to-salary ratio: a simple indicator of inequality"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.24192
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24192
 next_step: skim
+priority: low
+slack_ts: '1792556410.486019'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The wealth-to-salary ratio: a simple indicator of inequality'
 ---
 # The wealth-to-salary ratio: a simple indicator of inequality
 > 原文: [https://arxiv.org/abs/2610.24192](https://arxiv.org/abs/2610.24192)

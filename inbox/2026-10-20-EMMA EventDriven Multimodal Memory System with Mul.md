@@ -1,11 +1,12 @@
 ---
-title: "EMMA: Event-Driven Multimodal Memory System with Multi-Agent Retrieval"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.23892
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23892
 next_step: skim
+priority: medium
+slack_ts: '1792556398.139169'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EMMA: Event-Driven Multimodal Memory System with Multi-Agent Retrieval'
 ---
 # EMMA: Event-Driven Multimodal Memory System with Multi-Agent Retrieval
 > 原文: [https://arxiv.org/abs/2610.23892](https://arxiv.org/abs/2610.23892)

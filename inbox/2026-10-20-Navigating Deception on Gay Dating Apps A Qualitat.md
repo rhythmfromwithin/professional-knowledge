@@ -1,11 +1,13 @@
 ---
-title: "Navigating Deception on Gay Dating Apps: A Qualitative Study of Users' Experiences, Verification Strategies, and Community Knowledge in China"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.24207
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24207
 next_step: skim
+priority: low
+slack_ts: '1792556404.776029'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Navigating Deception on Gay Dating Apps: A Qualitative Study of Users'' Experiences,
+  Verification Strategies, and Community Knowledge in China'
 ---
 # Navigating Deception on Gay Dating Apps: A Qualitative Study of Users' Experiences, Verification Strategies, and Community Knowledge in China
 > 原文: [https://arxiv.org/abs/2610.24207](https://arxiv.org/abs/2610.24207)

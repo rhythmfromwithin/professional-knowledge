@@ -1,11 +1,13 @@
 ---
-title: "From Prefabricated Content to Situated Generation: A Four-Wave Longitudinal Study of AI-Mediated Museum Surfaces and Spaces"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.24076
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24076
 next_step: skim
+priority: low
+slack_ts: '1792556398.674039'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Prefabricated Content to Situated Generation: A Four-Wave Longitudinal
+  Study of AI-Mediated Museum Surfaces and Spaces'
 ---
 # From Prefabricated Content to Situated Generation: A Four-Wave Longitudinal Study of AI-Mediated Museum Surfaces and Spaces
 > 原文: [https://arxiv.org/abs/2610.24076](https://arxiv.org/abs/2610.24076)

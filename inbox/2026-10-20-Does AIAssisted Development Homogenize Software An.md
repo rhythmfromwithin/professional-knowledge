@@ -1,11 +1,13 @@
 ---
-title: "Does AI-Assisted Development Homogenize Software? An Empirical Study of Code Similarity, Quality, and Evolution"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.24093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24093
 next_step: skim
+priority: low
+slack_ts: '1792556397.690989'
+source: cs.SE - Software Engineering
+status: unread
+title: Does AI-Assisted Development Homogenize Software? An Empirical Study of Code
+  Similarity, Quality, and Evolution
 ---
 # Does AI-Assisted Development Homogenize Software? An Empirical Study of Code Similarity, Quality, and Evolution
 > 原文: [https://arxiv.org/abs/2610.24093](https://arxiv.org/abs/2610.24093)

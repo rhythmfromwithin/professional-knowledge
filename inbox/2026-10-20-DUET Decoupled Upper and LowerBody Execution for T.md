@@ -1,11 +1,13 @@
 ---
-title: "DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.23872
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23872
 next_step: skim
+priority: medium
+slack_ts: '1792556396.117949'
+source: cs.RO - Robotics
+status: unread
+title: 'DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid
+  Loco-Manipulation'
 ---
 # DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation
 > 原文: [https://arxiv.org/abs/2610.23872](https://arxiv.org/abs/2610.23872)

@@ -1,11 +1,12 @@
 ---
-title: "Censored Flow Matching for Synthetic Time-to-Event Generation"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.24233
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24233
 next_step: skim
+priority: medium
+slack_ts: '1792556394.372709'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Censored Flow Matching for Synthetic Time-to-Event Generation
 ---
 # Censored Flow Matching for Synthetic Time-to-Event Generation
 > 原文: [https://arxiv.org/abs/2610.24233](https://arxiv.org/abs/2610.24233)

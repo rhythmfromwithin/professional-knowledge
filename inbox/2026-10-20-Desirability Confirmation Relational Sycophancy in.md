@@ -1,11 +1,12 @@
 ---
-title: "Desirability Confirmation: Relational Sycophancy in AI Intimate Roleplay"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.24265
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24265
 next_step: skim
+priority: medium
+slack_ts: '1792556396.791149'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Desirability Confirmation: Relational Sycophancy in AI Intimate Roleplay'
 ---
 # Desirability Confirmation: Relational Sycophancy in AI Intimate Roleplay
 > 原文: [https://arxiv.org/abs/2610.24265](https://arxiv.org/abs/2610.24265)

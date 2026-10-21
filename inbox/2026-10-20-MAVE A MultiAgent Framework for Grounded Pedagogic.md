@@ -1,11 +1,13 @@
 ---
-title: "MAVE: A Multi-Agent Framework for Grounded Pedagogical Feedback from Online Class Videos"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.24498
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24498
 next_step: skim
+priority: medium
+slack_ts: '1792556403.962319'
+source: cs.CY - Computers and Society
+status: unread
+title: 'MAVE: A Multi-Agent Framework for Grounded Pedagogical Feedback from Online
+  Class Videos'
 ---
 # MAVE: A Multi-Agent Framework for Grounded Pedagogical Feedback from Online Class Videos
 > 原文: [https://arxiv.org/abs/2610.24498](https://arxiv.org/abs/2610.24498)

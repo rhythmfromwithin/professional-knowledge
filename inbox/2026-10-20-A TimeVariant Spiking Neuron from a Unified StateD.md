@@ -1,11 +1,12 @@
 ---
-title: "A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.23981
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23981
 next_step: skim
+priority: low
+slack_ts: '1792556390.582809'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective
 ---
 # A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective
 > 原文: [https://arxiv.org/abs/2610.23981](https://arxiv.org/abs/2610.23981)

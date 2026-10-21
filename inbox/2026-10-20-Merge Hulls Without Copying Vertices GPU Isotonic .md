@@ -1,11 +1,12 @@
 ---
-title: "Merge Hulls Without Copying Vertices: GPU Isotonic Regression"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.24038
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24038
 next_step: skim
+priority: medium
+slack_ts: '1792556404.257199'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Merge Hulls Without Copying Vertices: GPU Isotonic Regression'
 ---
 # Merge Hulls Without Copying Vertices: GPU Isotonic Regression
 > 原文: [https://arxiv.org/abs/2610.24038](https://arxiv.org/abs/2610.24038)

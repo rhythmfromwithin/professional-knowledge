@@ -1,11 +1,13 @@
 ---
-title: "When the implementation matters more than the algorithm: NSGA-II and other multi-objective optimizers in engineering design tools"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.22397
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22397
 next_step: skim
+priority: low
+slack_ts: '1792556389.657139'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'When the implementation matters more than the algorithm: NSGA-II and other
+  multi-objective optimizers in engineering design tools'
 ---
 # When the implementation matters more than the algorithm: NSGA-II and other multi-objective optimizers in engineering design tools
 > 原文: [https://arxiv.org/abs/2610.22397](https://arxiv.org/abs/2610.22397)

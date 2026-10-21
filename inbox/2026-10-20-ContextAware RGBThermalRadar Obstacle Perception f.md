@@ -1,11 +1,13 @@
 ---
-title: "Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.23873
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23873
 next_step: skim
+priority: medium
+slack_ts: '1792556395.880839'
+source: cs.RO - Robotics
+status: unread
+title: Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained
+  ASVs
 ---
 # Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs
 > 原文: [https://arxiv.org/abs/2610.23873](https://arxiv.org/abs/2610.23873)

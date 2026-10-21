@@ -1,11 +1,12 @@
 ---
-title: "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/
 next_step: skim
+priority: medium
+slack_ts: '1792556401.230009'
+source: Meta Engineering
+status: unread
+title: 'Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster'
 ---
 # Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster
 > 原文: [https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/](https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/)

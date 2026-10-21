@@ -1,11 +1,12 @@
 ---
-title: "LLM Evolutionary Search Strategies Should be Compared by Tokens"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.23977
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23977
 next_step: skim
+priority: low
+slack_ts: '1792556403.138799'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: LLM Evolutionary Search Strategies Should be Compared by Tokens
 ---
 # LLM Evolutionary Search Strategies Should be Compared by Tokens
 > 原文: [https://arxiv.org/abs/2610.23977](https://arxiv.org/abs/2610.23977)

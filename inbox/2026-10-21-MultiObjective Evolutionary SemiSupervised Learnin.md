@@ -1,0 +1,14 @@
+---
+title: "Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2610.27703
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification
+> 原文: [https://arxiv.org/abs/2610.27703](https://arxiv.org/abs/2610.27703)
+
+arXiv:2610.27703v1 Announce Type: cross
+Abstract: Smart-city applications often combine scarce labeled data with abundant unlabeled observations. Semi-supervised learning (SSL) exploits both labeled and unlabeled data to improve classification under limited supervision. This article presents MOEA-SSL, a multi-objective evolutionary approach for lightweight semi-supervised tabular classification that jointly optimizes predictive quality and feature usage. Experimental evaluation on three Smart City classification datasets, considering 1\%, 5\%, and 10\% labeled data, shows that MOEA-SSL achieves competitive predictive performance compared with established lightweight SSL methods while significantly reducing feature usage relative to EA-SSL in all evaluated conditions. The computed Pareto fronts also provide lower-feature-use alternatives with limited degradation in classification performance.

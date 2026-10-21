@@ -1,11 +1,12 @@
 ---
-title: "How Itaú is building generative AI for its entire customer base"
-source: "OpenAI Blog"
-link: https://openai.com/index/itau-generative-ai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/itau-generative-ai
 next_step: skim
+priority: high
+slack_ts: '1792556399.910219'
+source: OpenAI Blog
+status: unread
+title: How Itaú is building generative AI for its entire customer base
 ---
 # How Itaú is building generative AI for its entire customer base
 > 原文: [https://openai.com/index/itau-generative-ai](https://openai.com/index/itau-generative-ai)

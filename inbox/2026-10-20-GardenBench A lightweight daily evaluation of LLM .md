@@ -1,11 +1,12 @@
 ---
-title: "GardenBench: A lightweight, daily evaluation of LLM capabilities"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.23866
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23866
 next_step: skim
+priority: high
+slack_ts: '1792556398.908999'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'GardenBench: A lightweight, daily evaluation of LLM capabilities'
 ---
 # GardenBench: A lightweight, daily evaluation of LLM capabilities
 > 原文: [https://arxiv.org/abs/2610.23866](https://arxiv.org/abs/2610.23866)

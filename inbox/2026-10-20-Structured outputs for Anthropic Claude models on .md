@@ -1,11 +1,12 @@
 ---
-title: "Structured outputs for Anthropic Claude models on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1792556409.556649'
+source: AWS Blog
+status: unread
+title: Structured outputs for Anthropic Claude models on Amazon Bedrock
 ---
 # Structured outputs for Anthropic Claude models on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/)

@@ -1,11 +1,12 @@
 ---
-title: "CoCoNet: Convex Conformal Network for Multi-Dimensional Uncertainty Regions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.24246
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24246
 next_step: skim
+priority: medium
+slack_ts: '1792556395.127219'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'CoCoNet: Convex Conformal Network for Multi-Dimensional Uncertainty Regions'
 ---
 # CoCoNet: Convex Conformal Network for Multi-Dimensional Uncertainty Regions
 > 原文: [https://arxiv.org/abs/2610.24246](https://arxiv.org/abs/2610.24246)

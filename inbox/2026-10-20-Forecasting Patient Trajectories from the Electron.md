@@ -1,11 +1,13 @@
 ---
-title: "Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.23862
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23862
 next_step: skim
+priority: high
+slack_ts: '1792556398.378249'
+source: cs.LG - Machine Learning
+status: unread
+title: Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned
+  World Models
 ---
 # Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models
 > 原文: [https://arxiv.org/abs/2610.23862](https://arxiv.org/abs/2610.23862)

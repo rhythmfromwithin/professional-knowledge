@@ -1,11 +1,13 @@
 ---
-title: "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.22454
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.22454
 next_step: skim
+priority: high
+slack_ts: '1792556389.883899'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry
+  Most of the Short-Answer F1 Loss'
 ---
 # Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss
 > 原文: [https://arxiv.org/abs/2610.22454](https://arxiv.org/abs/2610.22454)

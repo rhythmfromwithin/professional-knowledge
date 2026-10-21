@@ -1,11 +1,13 @@
 ---
-title: "KVCompass: A Discovery Plane for Internet-Scale Prefix Cache Sharing in LLM Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.24179
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24179
 next_step: skim
+priority: medium
+slack_ts: '1792556402.908399'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'KVCompass: A Discovery Plane for Internet-Scale Prefix Cache Sharing in LLM
+  Serving'
 ---
 # KVCompass: A Discovery Plane for Internet-Scale Prefix Cache Sharing in LLM Serving
 > 原文: [https://arxiv.org/abs/2610.24179](https://arxiv.org/abs/2610.24179)

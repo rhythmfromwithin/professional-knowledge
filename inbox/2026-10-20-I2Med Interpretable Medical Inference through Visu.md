@@ -1,11 +1,13 @@
 ---
-title: "I$^2$-Med: Interpretable Medical Inference through Visual-Guided Dynamic Logits Calibration"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.23858
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23858
 next_step: skim
+priority: medium
+slack_ts: '1792556400.697639'
+source: cs.CV - Computer Vision
+status: unread
+title: 'I$^2$-Med: Interpretable Medical Inference through Visual-Guided Dynamic Logits
+  Calibration'
 ---
 # I$^2$-Med: Interpretable Medical Inference through Visual-Guided Dynamic Logits Calibration
 > 原文: [https://arxiv.org/abs/2610.23858](https://arxiv.org/abs/2610.23858)

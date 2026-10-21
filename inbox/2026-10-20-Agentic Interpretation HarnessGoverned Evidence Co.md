@@ -1,11 +1,13 @@
 ---
-title: "Agentic Interpretation: Harness-Governed Evidence Construction for Software Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.23996
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23996
 next_step: skim
+priority: low
+slack_ts: '1792556392.505979'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Agentic Interpretation: Harness-Governed Evidence Construction for Software
+  Agents'
 ---
 # Agentic Interpretation: Harness-Governed Evidence Construction for Software Agents
 > 原文: [https://arxiv.org/abs/2610.23996](https://arxiv.org/abs/2610.23996)

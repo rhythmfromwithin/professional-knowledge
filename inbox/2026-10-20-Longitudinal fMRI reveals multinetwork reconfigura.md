@@ -1,11 +1,13 @@
 ---
-title: "Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal shift across rest and task states during adult aging"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.24433
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24433
 next_step: skim
+priority: low
+slack_ts: '1792556403.722139'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal
+  shift across rest and task states during adult aging
 ---
 # Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal shift across rest and task states during adult aging
 > 原文: [https://arxiv.org/abs/2610.24433](https://arxiv.org/abs/2610.24433)

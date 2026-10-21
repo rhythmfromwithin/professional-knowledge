@@ -1,11 +1,12 @@
 ---
-title: "Latent Multimodal Memory Reasoning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.23890
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23890
 next_step: skim
+priority: medium
+slack_ts: '1792556403.467919'
+source: cs.CV - Computer Vision
+status: unread
+title: Latent Multimodal Memory Reasoning
 ---
 # Latent Multimodal Memory Reasoning
 > 原文: [https://arxiv.org/abs/2610.23890](https://arxiv.org/abs/2610.23890)

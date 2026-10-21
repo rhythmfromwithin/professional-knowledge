@@ -1,11 +1,12 @@
 ---
-title: "Under the Skin: Backdoor Infection in Multimodal Large Language Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.24058
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24058
 next_step: skim
+priority: low
+slack_ts: '1792556411.525949'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Under the Skin: Backdoor Infection in Multimodal Large Language Models'
 ---
 # Under the Skin: Backdoor Infection in Multimodal Large Language Models
 > 原文: [https://arxiv.org/abs/2610.24058](https://arxiv.org/abs/2610.24058)

@@ -1,11 +1,13 @@
 ---
-title: "AI Rights with an Off-Switch: Rights-Balancing and Due Process Harmonize AI Rights with AI Safety"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.24782
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24782
 next_step: skim
+priority: medium
+slack_ts: '1792556390.820149'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AI Rights with an Off-Switch: Rights-Balancing and Due Process Harmonize AI
+  Rights with AI Safety'
 ---
 # AI Rights with an Off-Switch: Rights-Balancing and Due Process Harmonize AI Rights with AI Safety
 > 原文: [https://arxiv.org/abs/2610.24782](https://arxiv.org/abs/2610.24782)
