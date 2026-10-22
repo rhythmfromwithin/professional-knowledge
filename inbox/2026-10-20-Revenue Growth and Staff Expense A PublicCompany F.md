@@ -1,11 +1,13 @@
 ---
-title: "Revenue Growth and Staff Expense: A Public-Company Follow-Up to Eclipse of Rent-Sharing"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.23869
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23869
 next_step: skim
+priority: low
+slack_ts: '1792642770.209839'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Revenue Growth and Staff Expense: A Public-Company Follow-Up to Eclipse of
+  Rent-Sharing'
 ---
 # Revenue Growth and Staff Expense: A Public-Company Follow-Up to Eclipse of Rent-Sharing
 > 原文: [https://arxiv.org/abs/2610.23869](https://arxiv.org/abs/2610.23869)

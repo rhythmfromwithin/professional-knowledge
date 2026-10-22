@@ -1,11 +1,13 @@
 ---
-title: "DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.26962
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26962
 next_step: skim
+priority: medium
+slack_ts: '1792642775.316169'
+source: cs.RO - Robotics
+status: unread
+title: 'DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous
+  Grasp Generation'
 ---
 # DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation
 > 原文: [https://arxiv.org/abs/2610.26962](https://arxiv.org/abs/2610.26962)

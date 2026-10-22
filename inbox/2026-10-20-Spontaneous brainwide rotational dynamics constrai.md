@@ -1,11 +1,12 @@
 ---
-title: "Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.25061
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.25061
 next_step: skim
+priority: low
+slack_ts: '1792642770.909109'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior
 ---
 # Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior
 > 原文: [https://arxiv.org/abs/2610.25061](https://arxiv.org/abs/2610.25061)

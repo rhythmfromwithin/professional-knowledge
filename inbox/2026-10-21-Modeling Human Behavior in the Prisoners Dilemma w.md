@@ -1,11 +1,12 @@
 ---
-title: "Modeling Human Behavior in the Prisoner's Dilemma with Large Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.23860
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23860
 next_step: skim
+priority: high
+slack_ts: '1792642779.744089'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Modeling Human Behavior in the Prisoner's Dilemma with Large Language Models
 ---
 # Modeling Human Behavior in the Prisoner's Dilemma with Large Language Models
 > 原文: [https://arxiv.org/abs/2610.23860](https://arxiv.org/abs/2610.23860)

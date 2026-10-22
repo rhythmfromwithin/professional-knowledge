@@ -1,11 +1,12 @@
 ---
-title: "ToolRosetta: Surface-Form Invariance of Tool-Call Guards"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.24055
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24055
 next_step: skim
+priority: low
+slack_ts: '1792642771.568559'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'ToolRosetta: Surface-Form Invariance of Tool-Call Guards'
 ---
 # ToolRosetta: Surface-Form Invariance of Tool-Call Guards
 > 原文: [https://arxiv.org/abs/2610.24055](https://arxiv.org/abs/2610.24055)

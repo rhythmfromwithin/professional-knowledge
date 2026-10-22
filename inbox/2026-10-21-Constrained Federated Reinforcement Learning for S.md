@@ -1,11 +1,13 @@
 ---
-title: "Constrained Federated Reinforcement Learning for Secure Offloading in Vehicular Edge Computing"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.27651
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27651
 next_step: skim
+priority: medium
+slack_ts: '1792642774.995619'
+source: cs.DC - Distributed Computing
+status: unread
+title: Constrained Federated Reinforcement Learning for Secure Offloading in Vehicular
+  Edge Computing
 ---
 # Constrained Federated Reinforcement Learning for Secure Offloading in Vehicular Edge Computing
 > 原文: [https://arxiv.org/abs/2610.27651](https://arxiv.org/abs/2610.27651)

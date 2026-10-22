@@ -1,11 +1,12 @@
 ---
-title: "Spaceflight-associated Motion Sickness in Commercial Crew Astronauts"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.24216
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24216
 next_step: skim
+priority: low
+slack_ts: '1792642770.742079'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Spaceflight-associated Motion Sickness in Commercial Crew Astronauts
 ---
 # Spaceflight-associated Motion Sickness in Commercial Crew Astronauts
 > 原文: [https://arxiv.org/abs/2610.24216](https://arxiv.org/abs/2610.24216)

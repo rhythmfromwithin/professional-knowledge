@@ -1,11 +1,12 @@
 ---
-title: "PolyGraph: Plan-Buffered CUDA Graphs for Adaptive Speculative Decoding"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.23861
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23861
 next_step: skim
+priority: high
+slack_ts: '1792642769.707219'
+source: cs.LG - Machine Learning
+status: unread
+title: 'PolyGraph: Plan-Buffered CUDA Graphs for Adaptive Speculative Decoding'
 ---
 # PolyGraph: Plan-Buffered CUDA Graphs for Adaptive Speculative Decoding
 > 原文: [https://arxiv.org/abs/2610.23861](https://arxiv.org/abs/2610.23861)

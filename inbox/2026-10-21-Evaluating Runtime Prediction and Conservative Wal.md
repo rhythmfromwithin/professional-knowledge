@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Runtime Prediction and Conservative Walltime Policies in HPC Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.27755
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27755
 next_step: skim
+priority: medium
+slack_ts: '1792642776.154189'
+source: cs.DC - Distributed Computing
+status: unread
+title: Evaluating Runtime Prediction and Conservative Walltime Policies in HPC Systems
 ---
 # Evaluating Runtime Prediction and Conservative Walltime Policies in HPC Systems
 > 原文: [https://arxiv.org/abs/2610.27755](https://arxiv.org/abs/2610.27755)

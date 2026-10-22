@@ -1,11 +1,12 @@
 ---
-title: "Certifying Repeatable Entry-Replay Witnesses for COBOL-to-Java Migration"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.27272
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27272
 next_step: skim
+priority: low
+slack_ts: '1792642774.509809'
+source: cs.SE - Software Engineering
+status: unread
+title: Certifying Repeatable Entry-Replay Witnesses for COBOL-to-Java Migration
 ---
 # Certifying Repeatable Entry-Replay Witnesses for COBOL-to-Java Migration
 > 原文: [https://arxiv.org/abs/2610.27272](https://arxiv.org/abs/2610.27272)

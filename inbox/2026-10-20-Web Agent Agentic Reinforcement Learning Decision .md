@@ -1,11 +1,13 @@
 ---
-title: "Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.23857
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23857
 next_step: skim
+priority: high
+slack_ts: '1792642772.472419'
+source: cs.LG - Machine Learning
+status: unread
+title: Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and
+  Failure Risk
 ---
 # Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk
 > 原文: [https://arxiv.org/abs/2610.23857](https://arxiv.org/abs/2610.23857)

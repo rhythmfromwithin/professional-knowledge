@@ -1,11 +1,13 @@
 ---
-title: "Does a Flux-Defined Markov Blanket Screen Self-Replicating Gray--Scott Spots? A Computational Test of a Blanket Condition from the Free Energy Principle"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.27235
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27235
 next_step: skim
+priority: low
+slack_ts: '1792642775.475579'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Does a Flux-Defined Markov Blanket Screen Self-Replicating Gray--Scott Spots?
+  A Computational Test of a Blanket Condition from the Free Energy Principle
 ---
 # Does a Flux-Defined Markov Blanket Screen Self-Replicating Gray--Scott Spots? A Computational Test of a Blanket Condition from the Free Energy Principle
 > 原文: [https://arxiv.org/abs/2610.27235](https://arxiv.org/abs/2610.27235)

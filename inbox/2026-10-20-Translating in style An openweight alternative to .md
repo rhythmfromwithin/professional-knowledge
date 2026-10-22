@@ -1,11 +1,13 @@
 ---
-title: "Translating in style: An open-weight alternative to GPT-4 for culturally aligned machine translation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.23868
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23868
 next_step: skim
+priority: high
+slack_ts: '1792642771.928619'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Translating in style: An open-weight alternative to GPT-4 for culturally aligned
+  machine translation'
 ---
 # Translating in style: An open-weight alternative to GPT-4 for culturally aligned machine translation
 > 原文: [https://arxiv.org/abs/2610.23868](https://arxiv.org/abs/2610.23868)

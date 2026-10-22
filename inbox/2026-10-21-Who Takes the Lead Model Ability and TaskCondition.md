@@ -1,11 +1,12 @@
 ---
-title: "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.27148
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27148
 next_step: skim
+priority: low
+slack_ts: '1792642783.732029'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans
 ---
 # Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans
 > 原文: [https://arxiv.org/abs/2610.27148](https://arxiv.org/abs/2610.27148)

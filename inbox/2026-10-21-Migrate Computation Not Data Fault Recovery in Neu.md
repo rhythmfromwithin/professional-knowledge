@@ -1,11 +1,12 @@
 ---
-title: "Migrate Computation, Not Data: Fault Recovery in Neuromorphic Many-Core Systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.26985
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26985
 next_step: skim
+priority: low
+slack_ts: '1792642779.575059'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Migrate Computation, Not Data: Fault Recovery in Neuromorphic Many-Core Systems'
 ---
 # Migrate Computation, Not Data: Fault Recovery in Neuromorphic Many-Core Systems
 > 原文: [https://arxiv.org/abs/2610.26985](https://arxiv.org/abs/2610.26985)

@@ -1,11 +1,12 @@
 ---
-title: "Composable Parametric Demographic Injection for Values Survey Simulation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.23867
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.23867
 next_step: skim
+priority: high
+slack_ts: '1792642774.673459'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Composable Parametric Demographic Injection for Values Survey Simulation
 ---
 # Composable Parametric Demographic Injection for Values Survey Simulation
 > 原文: [https://arxiv.org/abs/2610.23867](https://arxiv.org/abs/2610.23867)

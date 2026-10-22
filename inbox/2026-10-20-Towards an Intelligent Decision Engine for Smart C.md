@@ -1,11 +1,12 @@
 ---
-title: "Towards an Intelligent Decision Engine for Smart Contract Deployment"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.24198
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24198
 next_step: skim
+priority: low
+slack_ts: '1792642771.749439'
+source: cs.SE - Software Engineering
+status: unread
+title: Towards an Intelligent Decision Engine for Smart Contract Deployment
 ---
 # Towards an Intelligent Decision Engine for Smart Contract Deployment
 > 原文: [https://arxiv.org/abs/2610.24198](https://arxiv.org/abs/2610.24198)

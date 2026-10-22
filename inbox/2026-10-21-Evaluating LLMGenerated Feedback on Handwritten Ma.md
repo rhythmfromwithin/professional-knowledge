@@ -1,11 +1,13 @@
 ---
-title: "Evaluating LLM-Generated Feedback on Handwritten Mathematics: Feedback Quality and Subsequent Exam Performance"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.27881
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27881
 next_step: skim
+priority: medium
+slack_ts: '1792642775.998899'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Evaluating LLM-Generated Feedback on Handwritten Mathematics: Feedback Quality
+  and Subsequent Exam Performance'
 ---
 # Evaluating LLM-Generated Feedback on Handwritten Mathematics: Feedback Quality and Subsequent Exam Performance
 > 原文: [https://arxiv.org/abs/2610.27881](https://arxiv.org/abs/2610.27881)

@@ -1,11 +1,13 @@
 ---
-title: "Learning from Past Mistakes: AI-Assisted Analytics of Software Defects and Their Fixes for Future Defect Prevention - An Industrial Case Study"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.26889
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26889
 next_step: skim
+priority: low
+slack_ts: '1792642779.398249'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Learning from Past Mistakes: AI-Assisted Analytics of Software Defects and
+  Their Fixes for Future Defect Prevention - An Industrial Case Study'
 ---
 # Learning from Past Mistakes: AI-Assisted Analytics of Software Defects and Their Fixes for Future Defect Prevention - An Industrial Case Study
 > 原文: [https://arxiv.org/abs/2610.26889](https://arxiv.org/abs/2610.26889)

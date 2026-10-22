@@ -1,11 +1,13 @@
 ---
-title: "An AI Security Agent for University ACMIS: Multi-Vector Threat Detection and Automated Response"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2606.08270
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2606.08270
 next_step: skim
+priority: medium
+slack_ts: '1792642773.473429'
+source: cs.CY - Computers and Society
+status: unread
+title: 'An AI Security Agent for University ACMIS: Multi-Vector Threat Detection and
+  Automated Response'
 ---
 # An AI Security Agent for University ACMIS: Multi-Vector Threat Detection and Automated Response
 > 原文: [https://arxiv.org/abs/2606.08270](https://arxiv.org/abs/2606.08270)

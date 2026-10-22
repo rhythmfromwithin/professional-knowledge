@@ -1,11 +1,12 @@
 ---
-title: "TRACE: Governing AI-Assisted Research with Principles from Computer Science"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.24035
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.24035
 next_step: skim
+priority: low
+slack_ts: '1792642771.080909'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'TRACE: Governing AI-Assisted Research with Principles from Computer Science'
 ---
 # TRACE: Governing AI-Assisted Research with Principles from Computer Science
 > 原文: [https://arxiv.org/abs/2610.24035](https://arxiv.org/abs/2610.24035)

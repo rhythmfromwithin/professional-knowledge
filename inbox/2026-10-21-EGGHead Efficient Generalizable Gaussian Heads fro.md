@@ -1,11 +1,12 @@
 ---
-title: "EGGHead: Efficient Generalizable Gaussian Heads from a Single Image"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.26898
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26898
 next_step: skim
+priority: medium
+slack_ts: '1792642775.636499'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EGGHead: Efficient Generalizable Gaussian Heads from a Single Image'
 ---
 # EGGHead: Efficient Generalizable Gaussian Heads from a Single Image
 > 原文: [https://arxiv.org/abs/2610.26898](https://arxiv.org/abs/2610.26898)

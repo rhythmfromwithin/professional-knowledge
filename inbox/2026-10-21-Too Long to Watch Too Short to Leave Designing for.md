@@ -1,11 +1,12 @@
 ---
-title: "Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.27170
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27170
 next_step: skim
+priority: low
+slack_ts: '1792642782.720119'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits'
 ---
 # Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits
 > 原文: [https://arxiv.org/abs/2610.27170](https://arxiv.org/abs/2610.27170)

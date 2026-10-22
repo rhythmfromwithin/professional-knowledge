@@ -1,11 +1,13 @@
 ---
-title: "Large language model and reinforcement learning based autonomous construction and progress updates"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.26899
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26899
 next_step: skim
+priority: high
+slack_ts: '1792642779.231269'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Large language model and reinforcement learning based autonomous construction
+  and progress updates
 ---
 # Large language model and reinforcement learning based autonomous construction and progress updates
 > 原文: [https://arxiv.org/abs/2610.26899](https://arxiv.org/abs/2610.26899)

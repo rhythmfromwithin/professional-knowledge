@@ -1,11 +1,13 @@
 ---
-title: "Beckmann World Models: Direct Terminal-Map Learning for One-Step Action-Conditioned Prediction"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.26903
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26903
 next_step: skim
+priority: medium
+slack_ts: '1792642773.825209'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Beckmann World Models: Direct Terminal-Map Learning for One-Step Action-Conditioned
+  Prediction'
 ---
 # Beckmann World Models: Direct Terminal-Map Learning for One-Step Action-Conditioned Prediction
 > 原文: [https://arxiv.org/abs/2610.26903](https://arxiv.org/abs/2610.26903)

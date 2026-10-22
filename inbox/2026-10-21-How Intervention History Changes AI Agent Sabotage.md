@@ -1,11 +1,12 @@
 ---
-title: "How Intervention History Changes AI Agent Sabotage on Subsequent Tasks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.26935
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26935
 next_step: skim
+priority: low
+slack_ts: '1792642777.476499'
+source: cs.CR - Cryptography and Security
+status: unread
+title: How Intervention History Changes AI Agent Sabotage on Subsequent Tasks
 ---
 # How Intervention History Changes AI Agent Sabotage on Subsequent Tasks
 > 原文: [https://arxiv.org/abs/2610.26935](https://arxiv.org/abs/2610.26935)

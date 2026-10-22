@@ -1,11 +1,13 @@
 ---
-title: "Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.27039
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27039
 next_step: skim
+priority: medium
+slack_ts: '1792642775.814969'
+source: cs.RO - Robotics
+status: unread
+title: 'Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical,
+  Strategic, and Spatial Reasoning'
 ---
 # Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning
 > 原文: [https://arxiv.org/abs/2610.27039](https://arxiv.org/abs/2610.27039)

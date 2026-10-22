@@ -1,11 +1,13 @@
 ---
-title: "From Last-Layer to Cross-Layer: One-Shot Joint Classifier Reconstruction for Federated Learning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.26953
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26953
 next_step: skim
+priority: medium
+slack_ts: '1792642776.636719'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'From Last-Layer to Cross-Layer: One-Shot Joint Classifier Reconstruction for
+  Federated Learning'
 ---
 # From Last-Layer to Cross-Layer: One-Shot Joint Classifier Reconstruction for Federated Learning
 > 原文: [https://arxiv.org/abs/2610.26953](https://arxiv.org/abs/2610.26953)
