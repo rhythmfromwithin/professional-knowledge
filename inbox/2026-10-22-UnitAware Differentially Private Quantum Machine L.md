@@ -1,11 +1,13 @@
 ---
-title: "Unit-Aware Differentially Private Quantum Machine Learning for Clinical and Wearable Health Data"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.28968
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28968
 next_step: skim
+priority: low
+slack_ts: '1792729429.513579'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Unit-Aware Differentially Private Quantum Machine Learning for Clinical and
+  Wearable Health Data
 ---
 # Unit-Aware Differentially Private Quantum Machine Learning for Clinical and Wearable Health Data
 > 原文: [https://arxiv.org/abs/2610.28968](https://arxiv.org/abs/2610.28968)

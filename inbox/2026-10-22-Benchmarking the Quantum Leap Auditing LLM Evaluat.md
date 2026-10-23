@@ -1,11 +1,12 @@
 ---
-title: "Benchmarking the Quantum Leap: Auditing LLM Evaluation for Quantum Code Generation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.28678
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28678
 next_step: skim
+priority: low
+slack_ts: '1792729424.150729'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Benchmarking the Quantum Leap: Auditing LLM Evaluation for Quantum Code Generation'
 ---
 # Benchmarking the Quantum Leap: Auditing LLM Evaluation for Quantum Code Generation
 > 原文: [https://arxiv.org/abs/2610.28678](https://arxiv.org/abs/2610.28678)

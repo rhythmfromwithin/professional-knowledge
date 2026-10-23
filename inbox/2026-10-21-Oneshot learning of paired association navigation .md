@@ -1,11 +1,13 @@
 ---
-title: "One-shot learning of paired association navigation with biologically plausible schemas"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2106.03580
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2106.03580
 next_step: skim
+priority: low
+slack_ts: '1792729420.806569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: One-shot learning of paired association navigation with biologically plausible
+  schemas
 ---
 # One-shot learning of paired association navigation with biologically plausible schemas
 > 原文: [https://arxiv.org/abs/2106.03580](https://arxiv.org/abs/2106.03580)

@@ -1,11 +1,13 @@
 ---
-title: "Different Defects, Different Effects: A Controlled Audit of Face Recognition Training Data"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.28766
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28766
 next_step: skim
+priority: medium
+slack_ts: '1792729425.586779'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Different Defects, Different Effects: A Controlled Audit of Face Recognition
+  Training Data'
 ---
 # Different Defects, Different Effects: A Controlled Audit of Face Recognition Training Data
 > 原文: [https://arxiv.org/abs/2610.28766](https://arxiv.org/abs/2610.28766)

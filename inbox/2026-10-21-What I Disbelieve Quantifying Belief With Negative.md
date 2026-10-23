@@ -1,11 +1,12 @@
 ---
-title: "What I Disbelieve: Quantifying Belief With Negative Ranking Functions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.28357
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28357
 next_step: skim
+priority: low
+slack_ts: '1792729422.931399'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'What I Disbelieve: Quantifying Belief With Negative Ranking Functions'
 ---
 # What I Disbelieve: Quantifying Belief With Negative Ranking Functions
 > 原文: [https://arxiv.org/abs/2610.28357](https://arxiv.org/abs/2610.28357)

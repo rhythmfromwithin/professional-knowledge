@@ -1,11 +1,13 @@
 ---
-title: "Uncertainty Gates the Gradient: Adaptive Updates for Generalized Few-Shot 3D Segmentation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.26909
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26909
 next_step: skim
+priority: medium
+slack_ts: '1792729422.598949'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Uncertainty Gates the Gradient: Adaptive Updates for Generalized Few-Shot
+  3D Segmentation'
 ---
 # Uncertainty Gates the Gradient: Adaptive Updates for Generalized Few-Shot 3D Segmentation
 > 原文: [https://arxiv.org/abs/2610.26909](https://arxiv.org/abs/2610.26909)

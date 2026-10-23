@@ -1,11 +1,13 @@
 ---
-title: "Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.27703
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27703
 next_step: skim
+priority: low
+slack_ts: '1792729420.456249'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart
+  City Classification
 ---
 # Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification
 > 原文: [https://arxiv.org/abs/2610.27703](https://arxiv.org/abs/2610.27703)

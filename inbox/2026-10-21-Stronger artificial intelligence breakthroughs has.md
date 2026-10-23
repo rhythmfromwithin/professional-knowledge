@@ -1,11 +1,12 @@
 ---
-title: "Stronger artificial intelligence breakthroughs hasten their own exhaustion"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.27296
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27296
 next_step: skim
+priority: low
+slack_ts: '1792729422.156419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Stronger artificial intelligence breakthroughs hasten their own exhaustion
 ---
 # Stronger artificial intelligence breakthroughs hasten their own exhaustion
 > 原文: [https://arxiv.org/abs/2610.27296](https://arxiv.org/abs/2610.27296)

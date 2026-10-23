@@ -1,11 +1,13 @@
 ---
-title: "Compilation Is Not Correctness: Scan-by-Scan Evaluation of LLM-Generated PLC Programs"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.28675
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28675
 next_step: skim
+priority: low
+slack_ts: '1792729424.979219'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Compilation Is Not Correctness: Scan-by-Scan Evaluation of LLM-Generated PLC
+  Programs'
 ---
 # Compilation Is Not Correctness: Scan-by-Scan Evaluation of LLM-Generated PLC Programs
 > 原文: [https://arxiv.org/abs/2610.28675](https://arxiv.org/abs/2610.28675)

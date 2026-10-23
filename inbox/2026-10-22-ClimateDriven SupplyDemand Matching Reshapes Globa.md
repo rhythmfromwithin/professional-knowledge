@@ -1,11 +1,13 @@
 ---
-title: "Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.29344
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29344
 next_step: skim
+priority: low
+slack_ts: '1792729424.886219'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization
+  Potential
 ---
 # Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential
 > 原文: [https://arxiv.org/abs/2610.29344](https://arxiv.org/abs/2610.29344)

@@ -1,11 +1,13 @@
 ---
-title: "Complexity-Aware Surgical Video Reasoning Segmentation with Digital Twin and Context Memory"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.28776
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28776
 next_step: skim
+priority: medium
+slack_ts: '1792729425.073179'
+source: cs.CV - Computer Vision
+status: unread
+title: Complexity-Aware Surgical Video Reasoning Segmentation with Digital Twin and
+  Context Memory
 ---
 # Complexity-Aware Surgical Video Reasoning Segmentation with Digital Twin and Context Memory
 > 原文: [https://arxiv.org/abs/2610.28776](https://arxiv.org/abs/2610.28776)

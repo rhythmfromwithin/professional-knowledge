@@ -1,11 +1,13 @@
 ---
-title: "Borrowing Strength Across Stores: Transfer Learning for Choice-Based Revenue Management"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.28708
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28708
 next_step: skim
+priority: medium
+slack_ts: '1792729424.363619'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Borrowing Strength Across Stores: Transfer Learning for Choice-Based Revenue
+  Management'
 ---
 # Borrowing Strength Across Stores: Transfer Learning for Choice-Based Revenue Management
 > 原文: [https://arxiv.org/abs/2610.28708](https://arxiv.org/abs/2610.28708)

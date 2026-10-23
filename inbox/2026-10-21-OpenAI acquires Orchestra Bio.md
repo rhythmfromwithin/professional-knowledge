@@ -1,11 +1,12 @@
 ---
-title: "OpenAI acquires Orchestra Bio"
-source: "OpenAI Blog"
-link: https://openai.com/index/openai-to-acquire-orchestra-bio
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/openai-to-acquire-orchestra-bio
 next_step: skim
+priority: high
+slack_ts: '1792729421.003779'
+source: OpenAI Blog
+status: unread
+title: OpenAI acquires Orchestra Bio
 ---
 # OpenAI acquires Orchestra Bio
 > 原文: [https://openai.com/index/openai-to-acquire-orchestra-bio](https://openai.com/index/openai-to-acquire-orchestra-bio)

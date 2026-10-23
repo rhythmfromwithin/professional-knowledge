@@ -1,11 +1,13 @@
 ---
-title: "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.28698
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28698
 next_step: skim
+priority: high
+slack_ts: '1792729428.499729'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual
+  Worlds'
 ---
 # Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds
 > 原文: [https://arxiv.org/abs/2610.28698](https://arxiv.org/abs/2610.28698)

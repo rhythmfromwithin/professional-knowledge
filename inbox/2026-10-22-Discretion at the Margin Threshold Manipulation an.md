@@ -1,11 +1,13 @@
 ---
-title: "Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian Public Procurement"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.28965
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28965
 next_step: skim
+priority: low
+slack_ts: '1792729425.697829'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian
+  Public Procurement'
 ---
 # Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian Public Procurement
 > 原文: [https://arxiv.org/abs/2610.28965](https://arxiv.org/abs/2610.28965)

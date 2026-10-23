@@ -1,11 +1,12 @@
 ---
-title: "Broad access through consistent standards"
-source: "OpenAI Blog"
-link: https://openai.com/index/broad-access-through-consistent-standards
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/broad-access-through-consistent-standards
 next_step: skim
+priority: high
+slack_ts: '1792729424.475579'
+source: OpenAI Blog
+status: unread
+title: Broad access through consistent standards
 ---
 # Broad access through consistent standards
 > 原文: [https://openai.com/index/broad-access-through-consistent-standards](https://openai.com/index/broad-access-through-consistent-standards)

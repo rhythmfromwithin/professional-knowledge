@@ -1,11 +1,12 @@
 ---
-title: "Multilingual Brain Decoding Reveals Shared Cortical Semantic Geometry"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.26927
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26927
 next_step: skim
+priority: low
+slack_ts: '1792729420.563049'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Multilingual Brain Decoding Reveals Shared Cortical Semantic Geometry
 ---
 # Multilingual Brain Decoding Reveals Shared Cortical Semantic Geometry
 > 原文: [https://arxiv.org/abs/2610.26927](https://arxiv.org/abs/2610.26927)

@@ -1,11 +1,13 @@
 ---
-title: "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.26887
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26887
 next_step: skim
+priority: high
+slack_ts: '1792729420.688139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon
+  Post-Training'
 ---
 # Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training
 > 原文: [https://arxiv.org/abs/2610.26887](https://arxiv.org/abs/2610.26887)

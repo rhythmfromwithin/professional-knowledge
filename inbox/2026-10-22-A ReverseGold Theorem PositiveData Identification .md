@@ -1,11 +1,13 @@
 ---
-title: "A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.28747
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28747
 next_step: skim
+priority: medium
+slack_ts: '1792729423.334039'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded
+  Contrastive Learners'
 ---
 # A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners
 > 原文: [https://arxiv.org/abs/2610.28747](https://arxiv.org/abs/2610.28747)

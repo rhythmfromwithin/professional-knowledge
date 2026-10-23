@@ -1,11 +1,13 @@
 ---
-title: "Quadratic Sample Complexity for Strictly Replicable Realizable Learning with Unknown Marginals"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.26944
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26944
 next_step: skim
+priority: medium
+slack_ts: '1792729421.464909'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Quadratic Sample Complexity for Strictly Replicable Realizable Learning with
+  Unknown Marginals
 ---
 # Quadratic Sample Complexity for Strictly Replicable Realizable Learning with Unknown Marginals
 > 原文: [https://arxiv.org/abs/2610.26944](https://arxiv.org/abs/2610.26944)

@@ -1,11 +1,13 @@
 ---
-title: "GPU-Accelerated Construction of the Gabriel Graph: Parallelization Strategies and Applications to Large-Margin Classification and Graph-Based Clustering"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.28759
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28759
 next_step: skim
+priority: medium
+slack_ts: '1792729426.023129'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'GPU-Accelerated Construction of the Gabriel Graph: Parallelization Strategies
+  and Applications to Large-Margin Classification and Graph-Based Clustering'
 ---
 # GPU-Accelerated Construction of the Gabriel Graph: Parallelization Strategies and Applications to Large-Margin Classification and Graph-Based Clustering
 > 原文: [https://arxiv.org/abs/2610.28759](https://arxiv.org/abs/2610.28759)

@@ -1,11 +1,13 @@
 ---
-title: "A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.29312
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29312
 next_step: skim
+priority: low
+slack_ts: '1792729423.529339'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients
+  with a Deployed Data-Generation Platform
 ---
 # A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform
 > 原文: [https://arxiv.org/abs/2610.29312](https://arxiv.org/abs/2610.29312)

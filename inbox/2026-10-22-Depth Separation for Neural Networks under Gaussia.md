@@ -1,11 +1,12 @@
 ---
-title: "Depth Separation for Neural Networks under Gaussian Measure"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.28800
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28800
 next_step: skim
+priority: medium
+slack_ts: '1792729425.482009'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Depth Separation for Neural Networks under Gaussian Measure
 ---
 # Depth Separation for Neural Networks under Gaussian Measure
 > 原文: [https://arxiv.org/abs/2610.28800](https://arxiv.org/abs/2610.28800)

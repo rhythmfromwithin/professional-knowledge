@@ -1,11 +1,12 @@
 ---
-title: "Terminal X matches senior investor judgment 88.6% with GPT-6.1"
-source: "OpenAI Blog"
-link: https://openai.com/index/terminal-x
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/terminal-x
 next_step: skim
+priority: high
+slack_ts: '1792729422.288129'
+source: OpenAI Blog
+status: unread
+title: Terminal X matches senior investor judgment 88.6% with GPT-6.1
 ---
 # Terminal X matches senior investor judgment 88.6% with GPT-6.1
 > 原文: [https://openai.com/index/terminal-x](https://openai.com/index/terminal-x)

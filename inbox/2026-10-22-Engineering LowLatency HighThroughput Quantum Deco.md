@@ -1,11 +1,12 @@
 ---
-title: "Engineering Low-Latency, High-Throughput Quantum Decoders on NVIDIA GPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.28867
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28867
 next_step: skim
+priority: medium
+slack_ts: '1792729425.811549'
+source: cs.DC - Distributed Computing
+status: unread
+title: Engineering Low-Latency, High-Throughput Quantum Decoders on NVIDIA GPUs
 ---
 # Engineering Low-Latency, High-Throughput Quantum Decoders on NVIDIA GPUs
 > 原文: [https://arxiv.org/abs/2610.28867](https://arxiv.org/abs/2610.28867)

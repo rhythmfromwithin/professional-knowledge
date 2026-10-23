@@ -1,11 +1,13 @@
 ---
-title: "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.28686
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28686
 next_step: skim
+priority: high
+slack_ts: '1792729423.427149'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented
+  Generation'
 ---
 # A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation
 > 原文: [https://arxiv.org/abs/2610.28686](https://arxiv.org/abs/2610.28686)

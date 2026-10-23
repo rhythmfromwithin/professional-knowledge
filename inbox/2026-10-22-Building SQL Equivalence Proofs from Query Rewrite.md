@@ -1,11 +1,12 @@
 ---
-title: "Building SQL Equivalence Proofs from Query Rewrite Rules"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.30100
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30100
 next_step: skim
+priority: low
+slack_ts: '1792729424.593319'
+source: cs.DB - Databases
+status: unread
+title: Building SQL Equivalence Proofs from Query Rewrite Rules
 ---
 # Building SQL Equivalence Proofs from Query Rewrite Rules
 > 原文: [https://arxiv.org/abs/2610.30100](https://arxiv.org/abs/2610.30100)

@@ -1,11 +1,12 @@
 ---
-title: "VS-Flash: Harnessing Vector Search with Computational Memory-Semantic Flash"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.26960
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.26960
 next_step: skim
+priority: low
+slack_ts: '1792729422.712229'
+source: cs.DB - Databases
+status: unread
+title: 'VS-Flash: Harnessing Vector Search with Computational Memory-Semantic Flash'
 ---
 # VS-Flash: Harnessing Vector Search with Computational Memory-Semantic Flash
 > 原文: [https://arxiv.org/abs/2610.26960](https://arxiv.org/abs/2610.26960)

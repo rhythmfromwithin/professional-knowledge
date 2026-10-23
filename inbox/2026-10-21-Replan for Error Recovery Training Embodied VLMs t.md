@@ -1,11 +1,13 @@
 ---
-title: "Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.27003
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27003
 next_step: skim
+priority: medium
+slack_ts: '1792729421.672349'
+source: cs.RO - Robotics
+status: unread
+title: 'Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction
+  with Action-Grouped Turn-GSPO'
 ---
 # Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO
 > 原文: [https://arxiv.org/abs/2610.27003](https://arxiv.org/abs/2610.27003)

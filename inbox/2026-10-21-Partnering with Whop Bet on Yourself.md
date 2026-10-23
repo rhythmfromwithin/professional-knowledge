@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Whop: Bet on Yourself"
-source: "Sequoia Capital"
-link: https://www.sequoiacap.com/article/partnering-with-whop
-priority: high
-status: unread
 interest: medium
+link: https://www.sequoiacap.com/article/partnering-with-whop
 next_step: skim
+priority: high
+slack_ts: '1792729421.101129'
+source: Sequoia Capital
+status: unread
+title: 'Partnering with Whop: Bet on Yourself'
 ---
 # Partnering with Whop: Bet on Yourself
 > 原文: [https://www.sequoiacap.com/article/partnering-with-whop](https://www.sequoiacap.com/article/partnering-with-whop)

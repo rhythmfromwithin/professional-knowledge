@@ -1,11 +1,13 @@
 ---
-title: "Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality Enforcement"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.29669
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29669
 next_step: skim
+priority: low
+slack_ts: '1792729425.278709'
+source: cs.DB - Databases
+status: unread
+title: 'Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality
+  Enforcement'
 ---
 # Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality Enforcement
 > 原文: [https://arxiv.org/abs/2610.29669](https://arxiv.org/abs/2610.29669)

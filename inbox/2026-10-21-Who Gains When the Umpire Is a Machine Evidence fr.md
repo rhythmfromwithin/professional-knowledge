@@ -1,11 +1,13 @@
 ---
-title: "Who Gains When the Umpire Is a Machine? Evidence from the Automated Ball-Strike System (ABS)"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.27576
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.27576
 next_step: skim
+priority: low
+slack_ts: '1792729423.040079'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Who Gains When the Umpire Is a Machine? Evidence from the Automated Ball-Strike
+  System (ABS)
 ---
 # Who Gains When the Umpire Is a Machine? Evidence from the Automated Ball-Strike System (ABS)
 > 原文: [https://arxiv.org/abs/2610.27576](https://arxiv.org/abs/2610.27576)

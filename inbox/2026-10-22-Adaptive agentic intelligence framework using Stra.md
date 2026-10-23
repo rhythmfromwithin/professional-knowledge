@@ -1,11 +1,12 @@
 ---
-title: "Adaptive agentic intelligence framework using Strands Agents"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/
 next_step: skim
+priority: high
+slack_ts: '1792729423.751399'
+source: AWS Blog
+status: unread
+title: Adaptive agentic intelligence framework using Strands Agents
 ---
 # Adaptive agentic intelligence framework using Strands Agents
 > 原文: [https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/](https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/)

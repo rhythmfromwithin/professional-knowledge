@@ -1,11 +1,13 @@
 ---
-title: "From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.29140
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29140
 next_step: skim
+priority: low
+slack_ts: '1792729425.907969'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate
+  University Education and Campus Placements Without AI Guidelines'
 ---
 # From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines
 > 原文: [https://arxiv.org/abs/2610.29140](https://arxiv.org/abs/2610.29140)

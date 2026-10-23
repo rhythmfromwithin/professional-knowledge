@@ -1,11 +1,12 @@
 ---
-title: "Artificial Intelligence and Job Design: A Dynamic Framework"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.28830
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28830
 next_step: skim
+priority: medium
+slack_ts: '1792729423.945359'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Artificial Intelligence and Job Design: A Dynamic Framework'
 ---
 # Artificial Intelligence and Job Design: A Dynamic Framework
 > 原文: [https://arxiv.org/abs/2610.28830](https://arxiv.org/abs/2610.28830)
