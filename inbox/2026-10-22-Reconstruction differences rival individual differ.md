@@ -1,11 +1,13 @@
 ---
-title: "Reconstruction differences rival individual differences in the fly compass connectome and break trained circuit models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.29205
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29205
 next_step: skim
+priority: low
+slack_ts: '1792815246.351429'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Reconstruction differences rival individual differences in the fly compass
+  connectome and break trained circuit models
 ---
 # Reconstruction differences rival individual differences in the fly compass connectome and break trained circuit models
 > 原文: [https://arxiv.org/abs/2610.29205](https://arxiv.org/abs/2610.29205)

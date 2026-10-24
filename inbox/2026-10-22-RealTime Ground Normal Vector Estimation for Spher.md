@@ -1,11 +1,13 @@
 ---
-title: "Real-Time Ground Normal Vector Estimation for Spherical Mobile 3D Mapping using LiDAR-Inertial Odometry"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.28701
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28701
 next_step: skim
+priority: medium
+slack_ts: '1792815246.238109'
+source: cs.RO - Robotics
+status: unread
+title: Real-Time Ground Normal Vector Estimation for Spherical Mobile 3D Mapping using
+  LiDAR-Inertial Odometry
 ---
 # Real-Time Ground Normal Vector Estimation for Spherical Mobile 3D Mapping using LiDAR-Inertial Odometry
 > 原文: [https://arxiv.org/abs/2610.28701](https://arxiv.org/abs/2610.28701)

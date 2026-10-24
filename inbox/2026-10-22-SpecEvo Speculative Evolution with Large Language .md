@@ -1,11 +1,13 @@
 ---
-title: "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.28706
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28706
 next_step: skim
+priority: high
+slack_ts: '1792815247.651209'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient
+  Scientific Discovery'
 ---
 # SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery
 > 原文: [https://arxiv.org/abs/2610.28706](https://arxiv.org/abs/2610.28706)

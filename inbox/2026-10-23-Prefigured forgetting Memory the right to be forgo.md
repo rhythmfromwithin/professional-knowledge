@@ -1,11 +1,12 @@
 ---
-title: "Prefigured forgetting. Memory, the right to be forgotten and artificial intelligence"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.30402
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30402
 next_step: skim
+priority: medium
+slack_ts: '1792815255.820119'
+source: cs.CY - Computers and Society
+status: unread
+title: Prefigured forgetting. Memory, the right to be forgotten and artificial intelligence
 ---
 # Prefigured forgetting. Memory, the right to be forgotten and artificial intelligence
 > 原文: [https://arxiv.org/abs/2610.30402](https://arxiv.org/abs/2610.30402)

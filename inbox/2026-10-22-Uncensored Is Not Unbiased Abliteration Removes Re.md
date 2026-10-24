@@ -1,11 +1,13 @@
 ---
-title: "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.29342
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29342
 next_step: skim
+priority: medium
+slack_ts: '1792815248.224319'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent
+  Bias About Taiwan'
 ---
 # Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan
 > 原文: [https://arxiv.org/abs/2610.29342](https://arxiv.org/abs/2610.29342)

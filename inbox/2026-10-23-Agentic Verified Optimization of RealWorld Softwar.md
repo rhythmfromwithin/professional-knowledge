@@ -1,11 +1,12 @@
 ---
-title: "Agentic Verified Optimization of Real-World Software"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.30188
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30188
 next_step: skim
+priority: low
+slack_ts: '1792815249.797869'
+source: cs.SE - Software Engineering
+status: unread
+title: Agentic Verified Optimization of Real-World Software
 ---
 # Agentic Verified Optimization of Real-World Software
 > 原文: [https://arxiv.org/abs/2610.30188](https://arxiv.org/abs/2610.30188)

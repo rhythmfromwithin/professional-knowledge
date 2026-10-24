@@ -1,11 +1,12 @@
 ---
-title: "Translation and data ethics"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.28710
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28710
 next_step: skim
+priority: high
+slack_ts: '1792815248.081079'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Translation and data ethics
 ---
 # Translation and data ethics
 > 原文: [https://arxiv.org/abs/2610.28710](https://arxiv.org/abs/2610.28710)

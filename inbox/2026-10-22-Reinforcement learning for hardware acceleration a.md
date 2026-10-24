@@ -1,11 +1,13 @@
 ---
-title: "Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.28699
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28699
 next_step: skim
+priority: high
+slack_ts: '1792815246.495699'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Reinforcement learning for hardware acceleration and system-level optimization
+  on FPGA and integrated-circuit platforms: A survey'
 ---
 # Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey
 > 原文: [https://arxiv.org/abs/2610.28699](https://arxiv.org/abs/2610.28699)

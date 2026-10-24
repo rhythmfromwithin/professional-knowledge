@@ -1,11 +1,12 @@
 ---
-title: "AWS Continuum for code vulnerabilities is now generally available"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
 next_step: skim
+priority: high
+slack_ts: '1792815249.245299'
+source: AWS Blog
+status: unread
+title: AWS Continuum for code vulnerabilities is now generally available
 ---
 # AWS Continuum for code vulnerabilities is now generally available
 > 原文: [https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/](https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/)

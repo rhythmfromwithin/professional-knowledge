@@ -1,11 +1,12 @@
 ---
-title: "Southeast Asia’s digital economy to hit $368 billion"
-source: "Google AI Blog"
-link: https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/
 next_step: skim
+priority: high
+slack_ts: '1792815256.899619'
+source: Google AI Blog
+status: unread
+title: Southeast Asia’s digital economy to hit $368 billion
 ---
 # Southeast Asia’s digital economy to hit $368 billion
 > 原文: [https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/)

@@ -1,11 +1,13 @@
 ---
-title: "Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.28712
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28712
 next_step: skim
+priority: medium
+slack_ts: '1792815248.679889'
+source: cs.RO - Robotics
+status: unread
+title: 'Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping
+  for Humanoid Teleoperation'
 ---
 # Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation
 > 原文: [https://arxiv.org/abs/2610.28712](https://arxiv.org/abs/2610.28712)

@@ -1,11 +1,13 @@
 ---
-title: "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.30170
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30170
 next_step: skim
+priority: high
+slack_ts: '1792815249.529099'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling
+  Framework
 ---
 # Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework
 > 原文: [https://arxiv.org/abs/2610.30170](https://arxiv.org/abs/2610.30170)

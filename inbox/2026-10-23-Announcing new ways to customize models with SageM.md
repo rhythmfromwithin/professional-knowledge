@@ -1,11 +1,13 @@
 ---
-title: "Announcing new ways to customize models with SageMaker AI, without managing GPUs"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/
 next_step: skim
+priority: high
+slack_ts: '1792815250.214609'
+source: AWS Blog
+status: unread
+title: Announcing new ways to customize models with SageMaker AI, without managing
+  GPUs
 ---
 # Announcing new ways to customize models with SageMaker AI, without managing GPUs
 > 原文: [https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/)

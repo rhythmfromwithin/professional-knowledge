@@ -1,11 +1,12 @@
 ---
-title: "Sign Here: Attributing a Source for a More Trustworthy Software Supply Chain"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.28794
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28794
 next_step: skim
+priority: low
+slack_ts: '1792815246.918609'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Sign Here: Attributing a Source for a More Trustworthy Software Supply Chain'
 ---
 # Sign Here: Attributing a Source for a More Trustworthy Software Supply Chain
 > 原文: [https://arxiv.org/abs/2610.28794](https://arxiv.org/abs/2610.28794)

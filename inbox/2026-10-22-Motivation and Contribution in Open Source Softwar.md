@@ -1,11 +1,12 @@
 ---
-title: "Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.29199
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29199
 next_step: skim
+priority: low
+slack_ts: '1792815244.807299'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation'
 ---
 # Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation
 > 原文: [https://arxiv.org/abs/2610.29199](https://arxiv.org/abs/2610.29199)

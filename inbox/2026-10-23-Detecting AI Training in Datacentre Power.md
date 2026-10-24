@@ -1,11 +1,12 @@
 ---
-title: "Detecting AI Training in Datacentre Power"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.30182
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30182
 next_step: skim
+priority: low
+slack_ts: '1792815251.909779'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Detecting AI Training in Datacentre Power
 ---
 # Detecting AI Training in Datacentre Power
 > 原文: [https://arxiv.org/abs/2610.30182](https://arxiv.org/abs/2610.30182)

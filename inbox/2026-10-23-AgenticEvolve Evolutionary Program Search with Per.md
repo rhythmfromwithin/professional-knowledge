@@ -1,11 +1,13 @@
 ---
-title: "AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.31326
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31326
 next_step: skim
+priority: low
+slack_ts: '1792815249.935769'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'AgenticEvolve: Evolutionary Program Search with Persistent Language Model
+  Agents that Design and Run Experiments'
 ---
 # AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments
 > 原文: [https://arxiv.org/abs/2610.31326](https://arxiv.org/abs/2610.31326)

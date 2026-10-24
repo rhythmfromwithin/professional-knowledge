@@ -1,11 +1,13 @@
 ---
-title: "Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.28929
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28929
 next_step: skim
+priority: low
+slack_ts: '1792815246.641509'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative
+  Digital Library Search Platform'
 ---
 # Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform
 > 原文: [https://arxiv.org/abs/2610.28929](https://arxiv.org/abs/2610.28929)

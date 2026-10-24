@@ -1,11 +1,12 @@
 ---
-title: "Who Verifies the Builder? Toward Independent Assurance for Agent-Produced Software"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.28667
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28667
 next_step: skim
+priority: low
+slack_ts: '1792815248.836599'
+source: cs.SE - Software Engineering
+status: unread
+title: Who Verifies the Builder? Toward Independent Assurance for Agent-Produced Software
 ---
 # Who Verifies the Builder? Toward Independent Assurance for Agent-Produced Software
 > 原文: [https://arxiv.org/abs/2610.28667](https://arxiv.org/abs/2610.28667)

@@ -1,11 +1,13 @@
 ---
-title: "The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.30886
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30886
 next_step: skim
+priority: low
+slack_ts: '1792815257.825059'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi
+  K3: A Critical Analysis'
 ---
 # The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis
 > 原文: [https://arxiv.org/abs/2610.30886](https://arxiv.org/abs/2610.30886)

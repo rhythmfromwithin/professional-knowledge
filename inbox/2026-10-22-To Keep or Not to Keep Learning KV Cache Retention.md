@@ -1,11 +1,13 @@
 ---
-title: "To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.28637
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28637
 next_step: skim
+priority: high
+slack_ts: '1792815247.945409'
+source: cs.LG - Machine Learning
+status: unread
+title: 'To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving
+  Systems'
 ---
 # To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems
 > 原文: [https://arxiv.org/abs/2610.28637](https://arxiv.org/abs/2610.28637)

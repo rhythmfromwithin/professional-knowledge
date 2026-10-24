@@ -1,11 +1,13 @@
 ---
-title: "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.28673
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.28673
 next_step: skim
+priority: high
+slack_ts: '1792815243.017539'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi
+  and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder
 ---
 # How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder
 > 原文: [https://arxiv.org/abs/2610.28673](https://arxiv.org/abs/2610.28673)

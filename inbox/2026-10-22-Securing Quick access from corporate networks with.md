@@ -1,11 +1,12 @@
 ---
-title: "Securing Quick access from corporate networks with AWS PrivateLink"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/
 next_step: skim
+priority: high
+slack_ts: '1792815246.785309'
+source: AWS Blog
+status: unread
+title: Securing Quick access from corporate networks with AWS PrivateLink
 ---
 # Securing Quick access from corporate networks with AWS PrivateLink
 > 原文: [https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/](https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/)

@@ -1,11 +1,13 @@
 ---
-title: "A Consolidated Deployment Edition of a Microservice Core-Banking Platform: Composing Services by Reference into Three Hosts"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.30212
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30212
 next_step: skim
+priority: low
+slack_ts: '1792815249.117279'
+source: cs.SE - Software Engineering
+status: unread
+title: 'A Consolidated Deployment Edition of a Microservice Core-Banking Platform:
+  Composing Services by Reference into Three Hosts'
 ---
 # A Consolidated Deployment Edition of a Microservice Core-Banking Platform: Composing Services by Reference into Three Hosts
 > 原文: [https://arxiv.org/abs/2610.30212](https://arxiv.org/abs/2610.30212)

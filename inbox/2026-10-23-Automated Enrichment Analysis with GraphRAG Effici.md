@@ -1,11 +1,13 @@
 ---
-title: "Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.30710
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30710
 next_step: skim
+priority: low
+slack_ts: '1792815250.906319'
+source: cs.DB - Databases
+status: unread
+title: 'Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA
+  Extraction and Biological Interpretation'
 ---
 # Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation
 > 原文: [https://arxiv.org/abs/2610.30710](https://arxiv.org/abs/2610.30710)

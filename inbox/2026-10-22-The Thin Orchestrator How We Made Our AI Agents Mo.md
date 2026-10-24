@@ -1,11 +1,13 @@
 ---
-title: "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/
 next_step: skim
+priority: medium
+slack_ts: '1792815247.812239'
+source: Meta Engineering
+status: unread
+title: 'The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the
+  Router Less to Do'
 ---
 # The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do
 > 原文: [https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/](https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/)

@@ -1,11 +1,12 @@
 ---
-title: "Probing Spatial and Spectral Grounding in EEG Foundation Models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.29367
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.29367
 next_step: skim
+priority: low
+slack_ts: '1792815245.602719'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Probing Spatial and Spectral Grounding in EEG Foundation Models
 ---
 # Probing Spatial and Spectral Grounding in EEG Foundation Models
 > 原文: [https://arxiv.org/abs/2610.29367](https://arxiv.org/abs/2610.29367)

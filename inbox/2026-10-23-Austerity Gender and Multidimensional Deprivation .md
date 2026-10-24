@@ -1,11 +1,13 @@
 ---
-title: "Austerity, Gender, and Multidimensional Deprivation Among Older Europeans: Evidence from SHARE"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.30527
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30527
 next_step: skim
+priority: low
+slack_ts: '1792815250.529379'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Austerity, Gender, and Multidimensional Deprivation Among Older Europeans:
+  Evidence from SHARE'
 ---
 # Austerity, Gender, and Multidimensional Deprivation Among Older Europeans: Evidence from SHARE
 > 原文: [https://arxiv.org/abs/2610.30527](https://arxiv.org/abs/2610.30527)

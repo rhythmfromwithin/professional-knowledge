@@ -1,11 +1,13 @@
 ---
-title: "Why Constrained Updates Still Forget: A Functional-Path Analysis of Continual SFT"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.30191
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30191
 next_step: skim
+priority: medium
+slack_ts: '1792815258.893289'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Why Constrained Updates Still Forget: A Functional-Path Analysis of Continual
+  SFT'
 ---
 # Why Constrained Updates Still Forget: A Functional-Path Analysis of Continual SFT
 > 原文: [https://arxiv.org/abs/2610.30191](https://arxiv.org/abs/2610.30191)
