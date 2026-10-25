@@ -1,11 +1,12 @@
 ---
-title: "Self-Evolving Static Analysis via LLM Pseudo-Labeling"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.30184
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30184
 next_step: skim
+priority: low
+slack_ts: '1792901841.254619'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Self-Evolving Static Analysis via LLM Pseudo-Labeling
 ---
 # Self-Evolving Static Analysis via LLM Pseudo-Labeling
 > 原文: [https://arxiv.org/abs/2610.30184](https://arxiv.org/abs/2610.30184)

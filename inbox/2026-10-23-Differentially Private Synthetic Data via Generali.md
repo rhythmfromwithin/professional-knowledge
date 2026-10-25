@@ -1,11 +1,12 @@
 ---
-title: "Differentially Private Synthetic Data via Generalized Moment Matching"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.30196
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30196
 next_step: skim
+priority: medium
+slack_ts: '1792901838.909119'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Differentially Private Synthetic Data via Generalized Moment Matching
 ---
 # Differentially Private Synthetic Data via Generalized Moment Matching
 > 原文: [https://arxiv.org/abs/2610.30196](https://arxiv.org/abs/2610.30196)

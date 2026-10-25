@@ -1,7 +1,9 @@
 ---
-title: "Single-tenant Titus: VM-level isolation on a multi-tenant container platform"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss
+slack_ts: '1792901841.317419'
+source: Netflix Tech Blog
+title: 'Single-tenant Titus: VM-level isolation on a multi-tenant container platform'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

@@ -1,11 +1,13 @@
 ---
-title: "Exploring spatial configuration and group familiarity when co-watching 360-degree stories in social virtual reality"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.30353
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30353
 next_step: skim
+priority: low
+slack_ts: '1792901839.038969'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Exploring spatial configuration and group familiarity when co-watching 360-degree
+  stories in social virtual reality
 ---
 # Exploring spatial configuration and group familiarity when co-watching 360-degree stories in social virtual reality
 > 原文: [https://arxiv.org/abs/2610.30353](https://arxiv.org/abs/2610.30353)

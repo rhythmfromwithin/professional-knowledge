@@ -1,11 +1,13 @@
 ---
-title: "Where Polanyi Meets Galois: Tacit Knowing as an Algebro-Deterministic Operation, Toward Re-rooting AI-Generated Science"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.16102
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.16102
 next_step: skim
+priority: low
+slack_ts: '1792901842.209139'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Where Polanyi Meets Galois: Tacit Knowing as an Algebro-Deterministic Operation,
+  Toward Re-rooting AI-Generated Science'
 ---
 # Where Polanyi Meets Galois: Tacit Knowing as an Algebro-Deterministic Operation, Toward Re-rooting AI-Generated Science
 > 原文: [https://arxiv.org/abs/2610.16102](https://arxiv.org/abs/2610.16102)

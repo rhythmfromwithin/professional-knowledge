@@ -1,11 +1,13 @@
 ---
-title: "The EU AI Act Beyond Europe: A Practical Readiness Framework for Non-EU Organisations. Comparative Evidence from Four African Countries"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.30152
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30152
 next_step: skim
+priority: medium
+slack_ts: '1792901841.698619'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The EU AI Act Beyond Europe: A Practical Readiness Framework for Non-EU Organisations.
+  Comparative Evidence from Four African Countries'
 ---
 # The EU AI Act Beyond Europe: A Practical Readiness Framework for Non-EU Organisations. Comparative Evidence from Four African Countries
 > 原文: [https://arxiv.org/abs/2610.30152](https://arxiv.org/abs/2610.30152)

@@ -1,11 +1,12 @@
 ---
-title: "MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.30206
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30206
 next_step: skim
+priority: high
+slack_ts: '1792901840.542039'
+source: cs.LG - Machine Learning
+status: unread
+title: 'MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs'
 ---
 # MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs
 > 原文: [https://arxiv.org/abs/2610.30206](https://arxiv.org/abs/2610.30206)

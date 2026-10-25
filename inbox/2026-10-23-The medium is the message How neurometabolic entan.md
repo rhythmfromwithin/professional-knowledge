@@ -1,11 +1,13 @@
 ---
-title: "The medium is the message: How neurometabolic entanglement generates conscious experience"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.30217
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30217
 next_step: skim
+priority: low
+slack_ts: '1792901841.843649'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The medium is the message: How neurometabolic entanglement generates conscious
+  experience'
 ---
 # The medium is the message: How neurometabolic entanglement generates conscious experience
 > 原文: [https://arxiv.org/abs/2610.30217](https://arxiv.org/abs/2610.30217)

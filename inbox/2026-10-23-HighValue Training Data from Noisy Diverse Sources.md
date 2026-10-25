@@ -1,11 +1,12 @@
 ---
-title: "High-Value Training Data from Noisy, Diverse Sources"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.30421
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30421
 next_step: skim
+priority: medium
+slack_ts: '1792901839.561619'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: High-Value Training Data from Noisy, Diverse Sources
 ---
 # High-Value Training Data from Noisy, Diverse Sources
 > 原文: [https://arxiv.org/abs/2610.30421](https://arxiv.org/abs/2610.30421)

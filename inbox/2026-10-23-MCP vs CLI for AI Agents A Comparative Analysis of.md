@@ -1,11 +1,13 @@
 ---
-title: "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.30157
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30157
 next_step: skim
+priority: high
+slack_ts: '1792901840.339019'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies
+  for Autonomous Systems'
 ---
 # MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems
 > 原文: [https://arxiv.org/abs/2610.30157](https://arxiv.org/abs/2610.30157)

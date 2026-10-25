@@ -1,11 +1,12 @@
 ---
-title: "Spectral Uncertainty Decomposition for Sparse Bayesian Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.30207
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30207
 next_step: skim
+priority: high
+slack_ts: '1792901841.382589'
+source: cs.LG - Machine Learning
+status: unread
+title: Spectral Uncertainty Decomposition for Sparse Bayesian Learning
 ---
 # Spectral Uncertainty Decomposition for Sparse Bayesian Learning
 > 原文: [https://arxiv.org/abs/2610.30207](https://arxiv.org/abs/2610.30207)

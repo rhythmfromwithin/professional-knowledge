@@ -1,11 +1,12 @@
 ---
-title: "TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.30593
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30593
 next_step: skim
+priority: low
+slack_ts: '1792901841.444529'
+source: cs.DB - Databases
+status: unread
+title: 'TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying'
 ---
 # TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying
 > 原文: [https://arxiv.org/abs/2610.30593](https://arxiv.org/abs/2610.30593)

@@ -1,11 +1,13 @@
 ---
-title: "Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.30364
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30364
 next_step: skim
+priority: low
+slack_ts: '1792901839.248009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary
+  Tale'
 ---
 # Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale
 > 原文: [https://arxiv.org/abs/2610.30364](https://arxiv.org/abs/2610.30364)

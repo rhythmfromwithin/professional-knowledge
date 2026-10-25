@@ -1,11 +1,12 @@
 ---
-title: "Detection Is Not Enough: Reasoning Traces as Testable Program Hypotheses"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.30200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30200
 next_step: skim
+priority: low
+slack_ts: '1792901838.834919'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Detection Is Not Enough: Reasoning Traces as Testable Program Hypotheses'
 ---
 # Detection Is Not Enough: Reasoning Traces as Testable Program Hypotheses
 > 原文: [https://arxiv.org/abs/2610.30200](https://arxiv.org/abs/2610.30200)

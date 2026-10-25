@@ -1,11 +1,12 @@
 ---
-title: "TerraTransfer++: Demonstration-Free End-to-End Planner"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.30319
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30319
 next_step: skim
+priority: medium
+slack_ts: '1792901841.504659'
+source: cs.RO - Robotics
+status: unread
+title: 'TerraTransfer++: Demonstration-Free End-to-End Planner'
 ---
 # TerraTransfer++: Demonstration-Free End-to-End Planner
 > 原文: [https://arxiv.org/abs/2610.30319](https://arxiv.org/abs/2610.30319)

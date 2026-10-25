@@ -1,11 +1,12 @@
 ---
-title: "When EVM Defaults Break: Three SDK Patterns for UTXO-Family Wallets"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.30183
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30183
 next_step: skim
+priority: low
+slack_ts: '1792901842.147499'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'When EVM Defaults Break: Three SDK Patterns for UTXO-Family Wallets'
 ---
 # When EVM Defaults Break: Three SDK Patterns for UTXO-Family Wallets
 > 原文: [https://arxiv.org/abs/2610.30183](https://arxiv.org/abs/2610.30183)

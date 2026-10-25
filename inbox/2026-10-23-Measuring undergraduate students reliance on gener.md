@@ -1,11 +1,13 @@
 ---
-title: "Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.30195
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30195
 next_step: skim
+priority: low
+slack_ts: '1792901840.477479'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Measuring undergraduate students'' reliance on generative AI during problem-solving:
+  Scale development and validation'
 ---
 # Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation
 > 原文: [https://arxiv.org/abs/2610.30195](https://arxiv.org/abs/2610.30195)

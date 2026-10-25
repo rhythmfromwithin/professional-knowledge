@@ -1,11 +1,13 @@
 ---
-title: "Gender, Sexual Orientation, and the One-Year Refugee Bar: A Computational Study of Bill C-12 and Canadian Refugee Adjudication"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.30297
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30297
 next_step: skim
+priority: medium
+slack_ts: '1792901839.384119'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Gender, Sexual Orientation, and the One-Year Refugee Bar: A Computational
+  Study of Bill C-12 and Canadian Refugee Adjudication'
 ---
 # Gender, Sexual Orientation, and the One-Year Refugee Bar: A Computational Study of Bill C-12 and Canadian Refugee Adjudication
 > 原文: [https://arxiv.org/abs/2610.30297](https://arxiv.org/abs/2610.30297)

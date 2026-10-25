@@ -1,11 +1,12 @@
 ---
-title: "Uber brings ChatGPT Work to all employees with OpenAI"
-source: "OpenAI Blog"
-link: https://openai.com/index/uber-chatgpt-work-rollout
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/uber-chatgpt-work-rollout
 next_step: skim
+priority: high
+slack_ts: '1792901841.963259'
+source: OpenAI Blog
+status: unread
+title: Uber brings ChatGPT Work to all employees with OpenAI
 ---
 # Uber brings ChatGPT Work to all employees with OpenAI
 > 原文: [https://openai.com/index/uber-chatgpt-work-rollout](https://openai.com/index/uber-chatgpt-work-rollout)

@@ -1,7 +1,10 @@
 ---
-title: "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss
+slack_ts: '1792901840.684419'
+source: Netflix Tech Blog
+title: 'Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix
+  Scale'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

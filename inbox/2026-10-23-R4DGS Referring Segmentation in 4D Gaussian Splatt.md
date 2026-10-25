@@ -1,11 +1,12 @@
 ---
-title: "R4DGS: Referring Segmentation in 4D Gaussian Splatting"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.30326
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30326
 next_step: skim
+priority: medium
+slack_ts: '1792901840.859279'
+source: cs.CV - Computer Vision
+status: unread
+title: 'R4DGS: Referring Segmentation in 4D Gaussian Splatting'
 ---
 # R4DGS: Referring Segmentation in 4D Gaussian Splatting
 > 原文: [https://arxiv.org/abs/2610.30326](https://arxiv.org/abs/2610.30326)

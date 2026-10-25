@@ -1,11 +1,13 @@
 ---
-title: "Prediction Is Not Calibration: Item Parameter Recovery and Representation Coupling in Knowledge Tracing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.30211
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30211
 next_step: skim
+priority: high
+slack_ts: '1792901840.801989'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Prediction Is Not Calibration: Item Parameter Recovery and Representation
+  Coupling in Knowledge Tracing'
 ---
 # Prediction Is Not Calibration: Item Parameter Recovery and Representation Coupling in Knowledge Tracing
 > 原文: [https://arxiv.org/abs/2610.30211](https://arxiv.org/abs/2610.30211)

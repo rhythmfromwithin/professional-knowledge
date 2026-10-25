@@ -1,11 +1,13 @@
 ---
-title: "Music Between Two Minds: Individual Signatures, Shared States, and the Emergence of Creative Interaction"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.31131
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31131
 next_step: skim
+priority: low
+slack_ts: '1792901840.611199'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Music Between Two Minds: Individual Signatures, Shared States, and the Emergence
+  of Creative Interaction'
 ---
 # Music Between Two Minds: Individual Signatures, Shared States, and the Emergence of Creative Interaction
 > 原文: [https://arxiv.org/abs/2610.31131](https://arxiv.org/abs/2610.31131)

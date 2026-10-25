@@ -1,11 +1,13 @@
 ---
-title: "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.30151
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30151
 next_step: skim
+priority: high
+slack_ts: '1792901841.562839'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent
+  Communication Protocols'
 ---
 # The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols
 > 原文: [https://arxiv.org/abs/2610.30151](https://arxiv.org/abs/2610.30151)

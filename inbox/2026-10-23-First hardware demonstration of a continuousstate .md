@@ -1,11 +1,13 @@
 ---
-title: "First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.31339
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31339
 next_step: skim
+priority: low
+slack_ts: '1792901839.105449'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: First hardware demonstration of a continuous-state probabilistic computer with
+  programmable energy-defined sampling
 ---
 # First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling
 > 原文: [https://arxiv.org/abs/2610.31339](https://arxiv.org/abs/2610.31339)

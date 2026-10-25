@@ -1,11 +1,12 @@
 ---
-title: "EgoHand: Monocular 3D Hand Reconstruction from Egocentric Video"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.30293
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30293
 next_step: skim
+priority: medium
+slack_ts: '1792901838.978259'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EgoHand: Monocular 3D Hand Reconstruction from Egocentric Video'
 ---
 # EgoHand: Monocular 3D Hand Reconstruction from Egocentric Video
 > 原文: [https://arxiv.org/abs/2610.30293](https://arxiv.org/abs/2610.30293)
