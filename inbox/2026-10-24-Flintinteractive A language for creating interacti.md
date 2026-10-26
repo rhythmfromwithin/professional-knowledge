@@ -1,11 +1,12 @@
 ---
-title: "Flint-interactive: A language for creating interactive data visualizations"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/
 next_step: skim
+priority: high
+slack_ts: '1792988471.112969'
+source: Microsoft Research
+status: unread
+title: 'Flint-interactive: A language for creating interactive data visualizations'
 ---
 # Flint-interactive: A language for creating interactive data visualizations
 > 原文: [https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/](https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/)

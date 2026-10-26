@@ -1,11 +1,12 @@
 ---
-title: "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
 next_step: skim
+priority: high
+slack_ts: '1792988472.909499'
+source: AWS Blog
+status: unread
+title: 'Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services'
 ---
 # Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services
 > 原文: [https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/](https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/)

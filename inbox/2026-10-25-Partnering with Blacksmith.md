@@ -1,11 +1,12 @@
 ---
-title: "Partnering with Blacksmith"
-source: "Sequoia Capital"
-link: https://www.sequoiacap.com/article/partnering-with-blacksmith
-priority: high
-status: unread
 interest: medium
+link: https://www.sequoiacap.com/article/partnering-with-blacksmith
 next_step: skim
+priority: high
+slack_ts: '1792988484.891579'
+source: Sequoia Capital
+status: unread
+title: Partnering with Blacksmith
 ---
 # Partnering with Blacksmith
 > 原文: [https://www.sequoiacap.com/article/partnering-with-blacksmith](https://www.sequoiacap.com/article/partnering-with-blacksmith)

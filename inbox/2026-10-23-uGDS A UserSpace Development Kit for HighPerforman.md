@@ -1,11 +1,12 @@
 ---
-title: "uGDS: A User-Space Development Kit for High-Performance GPU Direct Storage"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.30868
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30868
 next_step: skim
+priority: medium
+slack_ts: '1792988468.814329'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'uGDS: A User-Space Development Kit for High-Performance GPU Direct Storage'
 ---
 # uGDS: A User-Space Development Kit for High-Performance GPU Direct Storage
 > 原文: [https://arxiv.org/abs/2610.30868](https://arxiv.org/abs/2610.30868)

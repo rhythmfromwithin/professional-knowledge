@@ -1,11 +1,12 @@
 ---
-title: "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/
 next_step: skim
+priority: high
+slack_ts: '1792988474.878229'
+source: AWS Blog
+status: unread
+title: Orchestrating SageMaker AI endpoint auto scaling with AWS CDK
 ---
 # Orchestrating SageMaker AI endpoint auto scaling with AWS CDK
 > 原文: [https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/)

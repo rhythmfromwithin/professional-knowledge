@@ -1,11 +1,13 @@
 ---
-title: "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.30161
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30161
 next_step: skim
+priority: high
+slack_ts: '1792988477.151879'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using
+  Conversational Agents'
 ---
 # TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents
 > 原文: [https://arxiv.org/abs/2610.30161](https://arxiv.org/abs/2610.30161)

@@ -1,11 +1,13 @@
 ---
-title: "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.30158
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.30158
 next_step: skim
+priority: high
+slack_ts: '1792988474.196689'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History
+  with Civil Rights Archives'
 ---
 # Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives
 > 原文: [https://arxiv.org/abs/2610.30158](https://arxiv.org/abs/2610.30158)

@@ -1,11 +1,13 @@
 ---
-title: "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/
 next_step: skim
+priority: medium
+slack_ts: '1792988481.389039'
+source: Meta Engineering
+status: unread
+title: 'GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable
+  Model Vocabulary'
 ---
 # GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary
 > 原文: [https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/](https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/)
