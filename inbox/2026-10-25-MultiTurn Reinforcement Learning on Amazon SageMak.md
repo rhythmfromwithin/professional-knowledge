@@ -1,11 +1,12 @@
 ---
-title: "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/
 next_step: skim
+priority: high
+slack_ts: '1793076016.743459'
+source: AWS Blog
+status: unread
+title: 'Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide'
 ---
 # Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide
 > 原文: [https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)

@@ -1,11 +1,12 @@
 ---
-title: "CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.32004
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32004
 next_step: skim
+priority: low
+slack_ts: '1793076019.147749'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments'
 ---
 # CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments
 > 原文: [https://arxiv.org/abs/2610.32004](https://arxiv.org/abs/2610.32004)

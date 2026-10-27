@@ -1,11 +1,13 @@
 ---
-title: "An AI Factory for Technology Education: An Agentic Pipeline with Closed Loop Audience Feedback"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.31875
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31875
 next_step: skim
+priority: medium
+slack_ts: '1793076018.365339'
+source: cs.CY - Computers and Society
+status: unread
+title: 'An AI Factory for Technology Education: An Agentic Pipeline with Closed Loop
+  Audience Feedback'
 ---
 # An AI Factory for Technology Education: An Agentic Pipeline with Closed Loop Audience Feedback
 > 原文: [https://arxiv.org/abs/2610.31875](https://arxiv.org/abs/2610.31875)

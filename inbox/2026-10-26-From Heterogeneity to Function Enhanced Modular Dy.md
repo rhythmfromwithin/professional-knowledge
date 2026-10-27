@@ -1,11 +1,13 @@
 ---
-title: "From Heterogeneity to Function: Enhanced Modular Dynamic Range in Hierarchical Brain Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.32328
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32328
 next_step: skim
+priority: low
+slack_ts: '1793076019.893939'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'From Heterogeneity to Function: Enhanced Modular Dynamic Range in Hierarchical
+  Brain Networks'
 ---
 # From Heterogeneity to Function: Enhanced Modular Dynamic Range in Hierarchical Brain Networks
 > 原文: [https://arxiv.org/abs/2610.32328](https://arxiv.org/abs/2610.32328)

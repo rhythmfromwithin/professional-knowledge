@@ -1,11 +1,13 @@
 ---
-title: "Bounding Queue Waits for Fair Scheduling of Bursty HPC Workloads via Hierarchical Algorithms"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.32027
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32027
 next_step: skim
+priority: medium
+slack_ts: '1793076018.937669'
+source: cs.DC - Distributed Computing
+status: unread
+title: Bounding Queue Waits for Fair Scheduling of Bursty HPC Workloads via Hierarchical
+  Algorithms
 ---
 # Bounding Queue Waits for Fair Scheduling of Bursty HPC Workloads via Hierarchical Algorithms
 > 原文: [https://arxiv.org/abs/2610.32027](https://arxiv.org/abs/2610.32027)

@@ -1,11 +1,13 @@
 ---
-title: "AusClinBench: a deterministically scored benchmark of large language models against current Australian clinical policy"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.31993
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31993
 next_step: skim
+priority: medium
+slack_ts: '1793076018.584839'
+source: cs.CY - Computers and Society
+status: unread
+title: 'AusClinBench: a deterministically scored benchmark of large language models
+  against current Australian clinical policy'
 ---
 # AusClinBench: a deterministically scored benchmark of large language models against current Australian clinical policy
 > 原文: [https://arxiv.org/abs/2610.31993](https://arxiv.org/abs/2610.31993)

@@ -1,11 +1,13 @@
 ---
-title: "Generalized green and red concepts for artificial intelligence, big data, and information and communication technologies: Multidimensional framework and countermeasures"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.31739
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31739
 next_step: skim
+priority: medium
+slack_ts: '1793076020.248769'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Generalized green and red concepts for artificial intelligence, big data,
+  and information and communication technologies: Multidimensional framework and countermeasures'
 ---
 # Generalized green and red concepts for artificial intelligence, big data, and information and communication technologies: Multidimensional framework and countermeasures
 > 原文: [https://arxiv.org/abs/2610.31739](https://arxiv.org/abs/2610.31739)

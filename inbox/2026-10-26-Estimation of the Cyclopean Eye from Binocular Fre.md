@@ -1,11 +1,12 @@
 ---
-title: "Estimation of the Cyclopean Eye from Binocular Free Visual Explorations"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.32564
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32564
 next_step: skim
+priority: low
+slack_ts: '1793076019.672649'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Estimation of the Cyclopean Eye from Binocular Free Visual Explorations
 ---
 # Estimation of the Cyclopean Eye from Binocular Free Visual Explorations
 > 原文: [https://arxiv.org/abs/2610.32564](https://arxiv.org/abs/2610.32564)

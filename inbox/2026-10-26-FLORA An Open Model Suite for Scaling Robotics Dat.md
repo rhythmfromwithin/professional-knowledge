@@ -1,11 +1,12 @@
 ---
-title: "FLORA: An Open Model Suite for Scaling Robotics Data Engines"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.31779
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31779
 next_step: skim
+priority: medium
+slack_ts: '1793076019.747079'
+source: cs.RO - Robotics
+status: unread
+title: 'FLORA: An Open Model Suite for Scaling Robotics Data Engines'
 ---
 # FLORA: An Open Model Suite for Scaling Robotics Data Engines
 > 原文: [https://arxiv.org/abs/2610.31779](https://arxiv.org/abs/2610.31779)

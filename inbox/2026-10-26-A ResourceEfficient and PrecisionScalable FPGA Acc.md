@@ -1,11 +1,13 @@
 ---
-title: "A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.32052
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32052
 next_step: skim
+priority: low
+slack_ts: '1793076018.077659'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural
+  Networks Using Minifloat Arithmetic
 ---
 # A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic
 > 原文: [https://arxiv.org/abs/2610.32052](https://arxiv.org/abs/2610.32052)

@@ -1,0 +1,14 @@
+---
+title: "Entity-Aware Evaluation of OCR Systems for Historical Document Transcription"
+source: "cs.CL - Computation and Language (NLP)"
+link: https://arxiv.org/abs/2610.33004
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Entity-Aware Evaluation of OCR Systems for Historical Document Transcription
+> 原文: [https://arxiv.org/abs/2610.33004](https://arxiv.org/abs/2610.33004)
+
+arXiv:2610.33004v1 Announce Type: new
+Abstract: Optical Character Recognition (OCR) is essential for digitizing historical archives, yet standard evaluation metrics such as Character Error Rate (CER) do not necessarily reflect whether meaningful information, such as names, dates, and identifiers, is preserved. In this work, we investigate entitylevel analysis of OCR errors as a complementary perspective for evaluating OCR quality in historical documents. Using a publicly available benchmark of 175 documents from the Berrutti Archive, augmented with 5,209 manually annotated entity mentions that will be released upon acceptance, we compare sequence-recognition OCR systems, OCR-specialized vision-language models, and general-purpose vision-language models. Beyond global transcription accuracy, we analyze entity preservation and recoverability under varying character-level edit tolerances. Our experiments show that OCR rankings depend on the evaluation criterion: while Qwen 3.6 achieves the highest entity coverage across all tested tolerances, several systems with lower exact-match coverage recover substantially when small errors are tolerated, suggesting that many of their errors correspond to localized character-level deviations rather than fundamentally incorrect entity transcriptions. Conversely, some systems remain unable to recover many entities even under relaxed matching. These findings show that OCR quality cannot be fully characterized by aggregate transcription metrics alone and highlight the importance of evaluating how OCR errors affect the preservation and recoverability of meaningful information.

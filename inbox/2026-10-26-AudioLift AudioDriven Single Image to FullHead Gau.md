@@ -1,11 +1,13 @@
 ---
-title: "AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view Video Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.31747
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31747
 next_step: skim
+priority: medium
+slack_ts: '1793076018.515339'
+source: cs.CV - Computer Vision
+status: unread
+title: 'AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view
+  Video Generation'
 ---
 # AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view Video Generation
 > 原文: [https://arxiv.org/abs/2610.31747](https://arxiv.org/abs/2610.31747)

@@ -1,11 +1,13 @@
 ---
-title: "DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.31734
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31734
 next_step: skim
+priority: medium
+slack_ts: '1793076019.429139'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language
+  Model'
 ---
 # DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model
 > 原文: [https://arxiv.org/abs/2610.31734](https://arxiv.org/abs/2610.31734)

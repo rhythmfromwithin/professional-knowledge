@@ -1,11 +1,13 @@
 ---
-title: "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.31701
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31701
 next_step: skim
+priority: high
+slack_ts: '1793076022.637309'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise
+  Customer-to-Seller Allocation'
 ---
 # Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation
 > 原文: [https://arxiv.org/abs/2610.31701](https://arxiv.org/abs/2610.31701)

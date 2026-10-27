@@ -1,11 +1,12 @@
 ---
-title: "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/
 next_step: skim
+priority: high
+slack_ts: '1793076018.009189'
+source: AWS Blog
+status: unread
+title: Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps
 ---
 # Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps
 > 原文: [https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/](https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/)

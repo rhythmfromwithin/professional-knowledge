@@ -1,11 +1,13 @@
 ---
-title: "Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.32215
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32215
 next_step: skim
+priority: medium
+slack_ts: '1793076019.355009'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Democratizing LLM Training with the Edge: Challenges, Systems, and the Road
+  Ahead'
 ---
 # Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead
 > 原文: [https://arxiv.org/abs/2610.32215](https://arxiv.org/abs/2610.32215)

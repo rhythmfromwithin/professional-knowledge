@@ -1,11 +1,12 @@
 ---
-title: "Combinatorial Characterizations of the Learnability of Conditional Distributions"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.31890
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31890
 next_step: skim
+priority: medium
+slack_ts: '1793076019.218039'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Combinatorial Characterizations of the Learnability of Conditional Distributions
 ---
 # Combinatorial Characterizations of the Learnability of Conditional Distributions
 > 原文: [https://arxiv.org/abs/2610.31890](https://arxiv.org/abs/2610.31890)

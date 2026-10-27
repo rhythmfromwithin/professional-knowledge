@@ -1,11 +1,13 @@
 ---
-title: "Gaze Under Strain: How Oculomotor Behavior Tracks Cybersickness Progression in VR"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.32019
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32019
 next_step: skim
+priority: low
+slack_ts: '1793076020.099059'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Gaze Under Strain: How Oculomotor Behavior Tracks Cybersickness Progression
+  in VR'
 ---
 # Gaze Under Strain: How Oculomotor Behavior Tracks Cybersickness Progression in VR
 > 原文: [https://arxiv.org/abs/2610.32019](https://arxiv.org/abs/2610.32019)

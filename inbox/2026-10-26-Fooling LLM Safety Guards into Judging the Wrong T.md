@@ -1,11 +1,12 @@
 ---
-title: "Fooling LLM Safety Guards into Judging the Wrong Text"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.31695
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31695
 next_step: skim
+priority: low
+slack_ts: '1793076019.822139'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Fooling LLM Safety Guards into Judging the Wrong Text
 ---
 # Fooling LLM Safety Guards into Judging the Wrong Text
 > 原文: [https://arxiv.org/abs/2610.31695](https://arxiv.org/abs/2610.31695)

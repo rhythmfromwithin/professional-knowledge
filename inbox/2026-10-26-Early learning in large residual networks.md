@@ -1,11 +1,12 @@
 ---
-title: "Early learning in large residual networks"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.31783
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31783
 next_step: skim
+priority: medium
+slack_ts: '1793076019.605739'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Early learning in large residual networks
 ---
 # Early learning in large residual networks
 > 原文: [https://arxiv.org/abs/2610.31783](https://arxiv.org/abs/2610.31783)

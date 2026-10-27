@@ -1,11 +1,12 @@
 ---
-title: "AI-Augmented Research: Free to Write, Costly to Read"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.32355
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32355
 next_step: skim
+priority: low
+slack_ts: '1793076018.147909'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'AI-Augmented Research: Free to Write, Costly to Read'
 ---
 # AI-Augmented Research: Free to Write, Costly to Read
 > 原文: [https://arxiv.org/abs/2610.32355](https://arxiv.org/abs/2610.32355)

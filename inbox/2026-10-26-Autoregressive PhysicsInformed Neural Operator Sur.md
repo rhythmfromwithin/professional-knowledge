@@ -1,11 +1,13 @@
 ---
-title: "Autoregressive Physics-Informed Neural Operator Surrogates and Joint 4-D Seismic-Production Bayesian History Matching"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.31677
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31677
 next_step: skim
+priority: medium
+slack_ts: '1793076018.656419'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Autoregressive Physics-Informed Neural Operator Surrogates and Joint 4-D Seismic-Production
+  Bayesian History Matching
 ---
 # Autoregressive Physics-Informed Neural Operator Surrogates and Joint 4-D Seismic-Production Bayesian History Matching
 > 原文: [https://arxiv.org/abs/2610.31677](https://arxiv.org/abs/2610.31677)

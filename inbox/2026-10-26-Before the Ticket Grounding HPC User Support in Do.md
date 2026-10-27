@@ -1,11 +1,13 @@
 ---
-title: "Before the Ticket: Grounding HPC User Support in Documentation and Resolved Tickets with an Agentic LLM Assistant"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.31703
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31703
 next_step: skim
+priority: low
+slack_ts: '1793076018.726629'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Before the Ticket: Grounding HPC User Support in Documentation and Resolved
+  Tickets with an Agentic LLM Assistant'
 ---
 # Before the Ticket: Grounding HPC User Support in Documentation and Resolved Tickets with an Agentic LLM Assistant
 > 原文: [https://arxiv.org/abs/2610.31703](https://arxiv.org/abs/2610.31703)
