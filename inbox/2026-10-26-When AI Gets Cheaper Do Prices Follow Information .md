@@ -1,11 +1,13 @@
 ---
-title: "When AI Gets Cheaper, Do Prices Follow? Information Delays and Algorithmic Pricing"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.31693
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31693
 next_step: skim
+priority: low
+slack_ts: '1793164453.843389'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: When AI Gets Cheaper, Do Prices Follow? Information Delays and Algorithmic
+  Pricing
 ---
 # When AI Gets Cheaper, Do Prices Follow? Information Delays and Algorithmic Pricing
 > 原文: [https://arxiv.org/abs/2610.31693](https://arxiv.org/abs/2610.31693)

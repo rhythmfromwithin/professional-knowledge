@@ -1,11 +1,13 @@
 ---
-title: "Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.31698
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31698
 next_step: skim
+priority: low
+slack_ts: '1793164453.459859'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Understanding Tool-Mediated Interaction Failures in Agentic GUI Software:
+  An Empirical Study'
 ---
 # Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study
 > 原文: [https://arxiv.org/abs/2610.31698](https://arxiv.org/abs/2610.31698)

@@ -1,11 +1,12 @@
 ---
-title: "Does LeWorldModel Preserve Local Action Geometry?"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.31716
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31716
 next_step: skim
+priority: high
+slack_ts: '1793164456.044659'
+source: cs.LG - Machine Learning
+status: unread
+title: Does LeWorldModel Preserve Local Action Geometry?
 ---
 # Does LeWorldModel Preserve Local Action Geometry?
 > 原文: [https://arxiv.org/abs/2610.31716](https://arxiv.org/abs/2610.31716)

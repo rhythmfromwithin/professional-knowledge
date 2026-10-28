@@ -1,11 +1,13 @@
 ---
-title: "Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.31713
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31713
 next_step: skim
+priority: low
+slack_ts: '1793164450.648439'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility,
+  and Reliability'
 ---
 # Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability
 > 原文: [https://arxiv.org/abs/2610.31713](https://arxiv.org/abs/2610.31713)

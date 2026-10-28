@@ -1,7 +1,9 @@
 ---
-title: "Making Failure Diagnosis Reliable with Pensive AI"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss
+slack_ts: '1793164459.731009'
+source: Netflix Tech Blog
+title: Making Failure Diagnosis Reliable with Pensive AI
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

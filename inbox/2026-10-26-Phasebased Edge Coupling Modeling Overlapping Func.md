@@ -1,11 +1,13 @@
 ---
-title: "Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and High-Order Edge-to-Edge Interactions in EEG Networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.32286
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32286
 next_step: skim
+priority: low
+slack_ts: '1793164451.463009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and
+  High-Order Edge-to-Edge Interactions in EEG Networks'
 ---
 # Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and High-Order Edge-to-Edge Interactions in EEG Networks
 > 原文: [https://arxiv.org/abs/2610.32286](https://arxiv.org/abs/2610.32286)

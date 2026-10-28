@@ -1,11 +1,12 @@
 ---
-title: "EKT-Router: Expert-Evidence Alignment for Embodied Vision-Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.33044
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33044
 next_step: skim
+priority: medium
+slack_ts: '1793164456.299459'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EKT-Router: Expert-Evidence Alignment for Embodied Vision-Language Models'
 ---
 # EKT-Router: Expert-Evidence Alignment for Embodied Vision-Language Models
 > 原文: [https://arxiv.org/abs/2610.33044](https://arxiv.org/abs/2610.33044)

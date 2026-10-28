@@ -1,11 +1,12 @@
 ---
-title: "Patronizing and Condescending Language Detection in English and Mandarin"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.31808
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31808
 next_step: skim
+priority: high
+slack_ts: '1793164451.346719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Patronizing and Condescending Language Detection in English and Mandarin
 ---
 # Patronizing and Condescending Language Detection in English and Mandarin
 > 原文: [https://arxiv.org/abs/2610.31808](https://arxiv.org/abs/2610.31808)

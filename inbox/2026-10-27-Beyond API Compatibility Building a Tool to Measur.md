@@ -1,7 +1,10 @@
 ---
-title: "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss
+slack_ts: '1793164454.881619'
+source: Netflix Tech Blog
+title: 'Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library
+  Changes'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

@@ -1,11 +1,12 @@
 ---
-title: "RubricCraft: Where Solutions Diverge, Criteria Emerge"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.31707
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31707
 next_step: skim
+priority: low
+slack_ts: '1793164452.269939'
+source: cs.SE - Software Engineering
+status: unread
+title: 'RubricCraft: Where Solutions Diverge, Criteria Emerge'
 ---
 # RubricCraft: Where Solutions Diverge, Criteria Emerge
 > 原文: [https://arxiv.org/abs/2610.31707](https://arxiv.org/abs/2610.31707)

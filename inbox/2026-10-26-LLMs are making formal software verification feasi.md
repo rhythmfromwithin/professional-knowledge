@@ -1,11 +1,12 @@
 ---
-title: "LLMs are making formal software verification feasible at a much larger scale"
-source: "Anthropic"
-link: https://www.anthropic.com/research/formal-verification
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/formal-verification
 next_step: skim
+priority: high
+slack_ts: '1793164450.082529'
+source: Anthropic
+status: unread
+title: LLMs are making formal software verification feasible at a much larger scale
 ---
 # LLMs are making formal software verification feasible at a much larger scale
 > 原文: [https://www.anthropic.com/research/formal-verification](https://www.anthropic.com/research/formal-verification)

@@ -1,11 +1,13 @@
 ---
-title: "From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.33001
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33001
 next_step: skim
+priority: high
+slack_ts: '1793164457.127679'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Writing Advice to Manuscript Governance: A Constrained-Transformation
+  Framework for Academic Revision'
 ---
 # From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision
 > 原文: [https://arxiv.org/abs/2610.33001](https://arxiv.org/abs/2610.33001)

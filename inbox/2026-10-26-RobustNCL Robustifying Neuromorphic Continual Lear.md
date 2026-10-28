@@ -1,11 +1,13 @@
 ---
-title: "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.31954
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31954
 next_step: skim
+priority: low
+slack_ts: '1793164451.951769'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults
+  with Lightweight Detect-and-Cure Strategy'
 ---
 # RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy
 > 原文: [https://arxiv.org/abs/2610.31954](https://arxiv.org/abs/2610.31954)

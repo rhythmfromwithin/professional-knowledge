@@ -1,0 +1,21 @@
+---
+title: "Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2610.36078
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates
+> 原文: [https://arxiv.org/abs/2610.36078](https://arxiv.org/abs/2610.36078)
+
+arXiv:2610.36078v1 Announce Type: new
+Abstract: Accelerated dynamics methods, such as parallel replica dynamics, require estimates of the decorrelation time, after which a process trapped in one of its metastable states is distributed according to the quasi-stationary distribution (QSD).
+In a method proposed by Binder, Leli\`evre and Simpson, decorrelation times are defined by coupling a particle approximation of the non-linear conditioned probability flow of the process with MCMC-inspired diagnostics.
+We explore an alternative to MCMC diagnostics, based on coarse-graining of non-linear probability flows and simulation-based inference.
+We first develop a coarse-graining framework for killed Markov jump processes conditioned on survival, proving uniform-in-time, non-asymptotic estimates approximating the non-linear probability flow of
+the true process by the non-linear flow of a surrogate process, defined with a collective variable. The framework does not assume reversibility of the true process, and also gives bounds which scale explicitly in an adiabatic regime.
+Motivated by these results, we then construct a quasi-stationarity diagnostic using simulation-based inference: a recurrent neural network (RNN), trained on particle approximations of non-linear effective flows, estimates posterior probabilities of decorrelation. The learned diagnostic is then transferred to collective-variable traces of high-dimensional particle approximations.
+We investigate the behavior and robustness of this diagnostic on a set of numerical experiments, comparing it to the MCMC diagnostic of Binder et al.\ on both synthetic examples and a molecular system, in and out of its training prior distribution.
+When its prior assumptions hold, the RNN diagnostic outperforms the MCMC diagnostic in ROC analysis, is less conservative, fails less often, and has an interpretable decision threshold.

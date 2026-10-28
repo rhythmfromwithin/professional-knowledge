@@ -1,11 +1,12 @@
 ---
-title: "DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.33501
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33501
 next_step: skim
+priority: medium
+slack_ts: '1793164456.169519'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving'
 ---
 # DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving
 > 原文: [https://arxiv.org/abs/2610.33501](https://arxiv.org/abs/2610.33501)

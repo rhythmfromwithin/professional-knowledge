@@ -1,11 +1,12 @@
 ---
-title: "OCTOPUS: Towards A Tag Model for Cross-Query Reuse in Semantic Query Processing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.32586
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32586
 next_step: skim
+priority: low
+slack_ts: '1793164450.539339'
+source: cs.DB - Databases
+status: unread
+title: 'OCTOPUS: Towards A Tag Model for Cross-Query Reuse in Semantic Query Processing'
 ---
 # OCTOPUS: Towards A Tag Model for Cross-Query Reuse in Semantic Query Processing
 > 原文: [https://arxiv.org/abs/2610.32586](https://arxiv.org/abs/2610.32586)

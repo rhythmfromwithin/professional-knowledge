@@ -1,11 +1,13 @@
 ---
-title: "Beyond Correctness: Attribution of Natural-Language Documentation for Formal Libraries"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.33094
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33094
 next_step: skim
+priority: low
+slack_ts: '1793164455.000089'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Beyond Correctness: Attribution of Natural-Language Documentation for Formal
+  Libraries'
 ---
 # Beyond Correctness: Attribution of Natural-Language Documentation for Formal Libraries
 > 原文: [https://arxiv.org/abs/2610.33094](https://arxiv.org/abs/2610.33094)

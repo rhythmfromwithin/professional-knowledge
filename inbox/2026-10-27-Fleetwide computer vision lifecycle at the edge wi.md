@@ -1,11 +1,12 @@
 ---
-title: "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/
 next_step: skim
+priority: high
+slack_ts: '1793164456.845609'
+source: AWS Blog
+status: unread
+title: Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3
 ---
 # Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3
 > 原文: [https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/](https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/)

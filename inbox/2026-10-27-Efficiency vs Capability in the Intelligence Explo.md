@@ -1,11 +1,12 @@
 ---
-title: "Efficiency vs Capability in the Intelligence Explosion"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.33447
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33447
 next_step: skim
+priority: low
+slack_ts: '1793164456.411479'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Efficiency vs Capability in the Intelligence Explosion
 ---
 # Efficiency vs Capability in the Intelligence Explosion
 > 原文: [https://arxiv.org/abs/2610.33447](https://arxiv.org/abs/2610.33447)

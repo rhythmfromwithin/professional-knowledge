@@ -1,11 +1,14 @@
 ---
-title: "The dominance of feedback mechanisms for perception in the central visual field: the flip tilt illusion by backward masking and the Feedforward-Feedback-Verify-reWeight algorithm"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.34455
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.34455
 next_step: skim
+priority: low
+slack_ts: '1793164462.692069'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The dominance of feedback mechanisms for perception in the central visual
+  field: the flip tilt illusion by backward masking and the Feedforward-Feedback-Verify-reWeight
+  algorithm'
 ---
 # The dominance of feedback mechanisms for perception in the central visual field: the flip tilt illusion by backward masking and the Feedforward-Feedback-Verify-reWeight algorithm
 > 原文: [https://arxiv.org/abs/2610.34455](https://arxiv.org/abs/2610.34455)

@@ -1,11 +1,12 @@
 ---
-title: "A Measure-Geometric Theory of Robustness in Machine Learning"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.33123
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33123
 next_step: skim
+priority: medium
+slack_ts: '1793164453.986289'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Measure-Geometric Theory of Robustness in Machine Learning
 ---
 # A Measure-Geometric Theory of Robustness in Machine Learning
 > 原文: [https://arxiv.org/abs/2610.33123](https://arxiv.org/abs/2610.33123)

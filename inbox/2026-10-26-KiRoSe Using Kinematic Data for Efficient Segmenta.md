@@ -1,11 +1,12 @@
 ---
-title: "KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.31801
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31801
 next_step: skim
+priority: medium
+slack_ts: '1793164449.924339'
+source: cs.RO - Robotics
+status: unread
+title: 'KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations'
 ---
 # KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations
 > 原文: [https://arxiv.org/abs/2610.31801](https://arxiv.org/abs/2610.31801)

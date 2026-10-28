@@ -1,11 +1,12 @@
 ---
-title: "Entity-Aware Evaluation of OCR Systems for Historical Document Transcription"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.33004
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33004
 next_step: skim
+priority: high
+slack_ts: '1793164456.550099'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Entity-Aware Evaluation of OCR Systems for Historical Document Transcription
 ---
 # Entity-Aware Evaluation of OCR Systems for Historical Document Transcription
 > 原文: [https://arxiv.org/abs/2610.33004](https://arxiv.org/abs/2610.33004)

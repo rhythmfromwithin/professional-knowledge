@@ -1,11 +1,13 @@
 ---
-title: "Interpretable Collision Avoidance and Feasibility Guarantees through an Uncertainty Aware Pipeline"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.33186
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33186
 next_step: skim
+priority: medium
+slack_ts: '1793164458.680349'
+source: cs.RO - Robotics
+status: unread
+title: Interpretable Collision Avoidance and Feasibility Guarantees through an Uncertainty
+  Aware Pipeline
 ---
 # Interpretable Collision Avoidance and Feasibility Guarantees through an Uncertainty Aware Pipeline
 > 原文: [https://arxiv.org/abs/2610.33186](https://arxiv.org/abs/2610.33186)

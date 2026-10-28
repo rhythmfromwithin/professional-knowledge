@@ -1,11 +1,13 @@
 ---
-title: "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.31678
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31678
 next_step: skim
+priority: high
+slack_ts: '1793164453.603959'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead
+  in Interactive LLM Evaluation'
 ---
 # Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation
 > 原文: [https://arxiv.org/abs/2610.31678](https://arxiv.org/abs/2610.31678)

@@ -1,11 +1,12 @@
 ---
-title: "Collaborative In-Context Learning for Indoor Radio Map Estimation"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.31702
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31702
 next_step: skim
+priority: high
+slack_ts: '1793164455.916359'
+source: cs.LG - Machine Learning
+status: unread
+title: Collaborative In-Context Learning for Indoor Radio Map Estimation
 ---
 # Collaborative In-Context Learning for Indoor Radio Map Estimation
 > 原文: [https://arxiv.org/abs/2610.31702](https://arxiv.org/abs/2610.31702)

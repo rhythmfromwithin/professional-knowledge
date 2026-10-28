@@ -1,11 +1,12 @@
 ---
-title: "SyncVid: World-Equivariant Diffusion for Synchronized Video Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.31765
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31765
 next_step: skim
+priority: medium
+slack_ts: '1793164453.044629'
+source: cs.CV - Computer Vision
+status: unread
+title: 'SyncVid: World-Equivariant Diffusion for Synchronized Video Generation'
 ---
 # SyncVid: World-Equivariant Diffusion for Synchronized Video Generation
 > 原文: [https://arxiv.org/abs/2610.31765](https://arxiv.org/abs/2610.31765)

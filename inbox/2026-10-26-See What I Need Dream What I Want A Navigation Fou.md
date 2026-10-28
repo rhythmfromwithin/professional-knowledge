@@ -1,11 +1,13 @@
 ---
-title: "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.31762
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31762
 next_step: skim
+priority: medium
+slack_ts: '1793164452.661839'
+source: cs.RO - Robotics
+status: unread
+title: 'See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed
+  Representation Space'
 ---
 # See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space
 > 原文: [https://arxiv.org/abs/2610.31762](https://arxiv.org/abs/2610.31762)

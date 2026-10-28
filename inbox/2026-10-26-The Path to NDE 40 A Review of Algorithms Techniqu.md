@@ -1,11 +1,13 @@
 ---
-title: "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.31704
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31704
 next_step: skim
+priority: high
+slack_ts: '1793164453.161839'
+source: cs.LG - Machine Learning
+status: unread
+title: 'The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for
+  Autonomous Inspection'
 ---
 # The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection
 > 原文: [https://arxiv.org/abs/2610.31704](https://arxiv.org/abs/2610.31704)

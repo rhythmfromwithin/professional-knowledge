@@ -1,11 +1,12 @@
 ---
-title: "Geoeconomic Stress and European Defence Readiness"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.33785
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33785
 next_step: skim
+priority: low
+slack_ts: '1793164457.708709'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Geoeconomic Stress and European Defence Readiness
 ---
 # Geoeconomic Stress and European Defence Readiness
 > 原文: [https://arxiv.org/abs/2610.33785](https://arxiv.org/abs/2610.33785)

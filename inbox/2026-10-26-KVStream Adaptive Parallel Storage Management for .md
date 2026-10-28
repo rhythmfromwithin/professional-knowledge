@@ -1,11 +1,13 @@
 ---
-title: "KVStream: Adaptive Parallel Storage Management for KV Caching in Large-Scale LLM Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.31827
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31827
 next_step: skim
+priority: medium
+slack_ts: '1793164449.803519'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'KVStream: Adaptive Parallel Storage Management for KV Caching in Large-Scale
+  LLM Serving'
 ---
 # KVStream: Adaptive Parallel Storage Management for KV Caching in Large-Scale LLM Serving
 > 原文: [https://arxiv.org/abs/2610.31827](https://arxiv.org/abs/2610.31827)

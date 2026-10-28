@@ -1,11 +1,13 @@
 ---
-title: "Scaling Graph Query Processing: Focused Exploration on Partitions Using Load Balancing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.32015
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32015
 next_step: skim
+priority: low
+slack_ts: '1793164452.392369'
+source: cs.DB - Databases
+status: unread
+title: 'Scaling Graph Query Processing: Focused Exploration on Partitions Using Load
+  Balancing'
 ---
 # Scaling Graph Query Processing: Focused Exploration on Partitions Using Load Balancing
 > 原文: [https://arxiv.org/abs/2610.32015](https://arxiv.org/abs/2610.32015)

@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Spiking MoveNet Deployability for Near-Future Onboard Spiking Satellite Pose Estimation"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.33061
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33061
 next_step: skim
+priority: low
+slack_ts: '1793164456.693139'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Evaluating Spiking MoveNet Deployability for Near-Future Onboard Spiking Satellite
+  Pose Estimation
 ---
 # Evaluating Spiking MoveNet Deployability for Near-Future Onboard Spiking Satellite Pose Estimation
 > 原文: [https://arxiv.org/abs/2610.33061](https://arxiv.org/abs/2610.33061)
