@@ -1,11 +1,12 @@
 ---
-title: "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.36006
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36006
 next_step: skim
+priority: high
+slack_ts: '1793251501.429269'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine'
 ---
 # MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine
 > 原文: [https://arxiv.org/abs/2610.36006](https://arxiv.org/abs/2610.36006)

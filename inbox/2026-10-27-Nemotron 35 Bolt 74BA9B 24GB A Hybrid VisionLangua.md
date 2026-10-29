@@ -1,11 +1,12 @@
 ---
-title: "Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.33039
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33039
 next_step: skim
+priority: medium
+slack_ts: '1793251498.124409'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI'
 ---
 # Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI
 > 原文: [https://arxiv.org/abs/2610.33039](https://arxiv.org/abs/2610.33039)

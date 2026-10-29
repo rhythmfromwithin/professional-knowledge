@@ -1,11 +1,12 @@
 ---
-title: "LooseLeaf: Enabling Serverless GPUs for Computational Notebooks"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.33275
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33275
 next_step: skim
+priority: medium
+slack_ts: '1793251497.721319'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LooseLeaf: Enabling Serverless GPUs for Computational Notebooks'
 ---
 # LooseLeaf: Enabling Serverless GPUs for Computational Notebooks
 > 原文: [https://arxiv.org/abs/2610.33275](https://arxiv.org/abs/2610.33275)

@@ -1,11 +1,13 @@
 ---
-title: "Navigating Epistemic Parity in LLM Agents: A Benchmark for Cross-Source Conflict Resolution Between Memory and Procedural Skills"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.33128
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33128
 next_step: skim
+priority: low
+slack_ts: '1793251498.014869'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Navigating Epistemic Parity in LLM Agents: A Benchmark for Cross-Source Conflict
+  Resolution Between Memory and Procedural Skills'
 ---
 # Navigating Epistemic Parity in LLM Agents: A Benchmark for Cross-Source Conflict Resolution Between Memory and Procedural Skills
 > 原文: [https://arxiv.org/abs/2610.33128](https://arxiv.org/abs/2610.33128)

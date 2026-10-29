@@ -1,11 +1,13 @@
 ---
-title: "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/
 next_step: skim
+priority: high
+slack_ts: '1793251497.038569'
+source: Y Combinator
+status: unread
+title: 'How Ryder Kemper became employee #7 at Corgi Insurance — and never left San
+  Francisco'
 ---
 # How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco
 > 原文: [https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/](https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/)

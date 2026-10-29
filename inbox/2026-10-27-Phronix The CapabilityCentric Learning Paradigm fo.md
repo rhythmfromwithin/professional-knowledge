@@ -1,11 +1,12 @@
 ---
-title: "Phronix: The Capability-Centric Learning Paradigm for Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.31789
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.31789
 next_step: skim
+priority: high
+slack_ts: '1793251498.621849'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Phronix: The Capability-Centric Learning Paradigm for Agents'
 ---
 # Phronix: The Capability-Centric Learning Paradigm for Agents
 > 原文: [https://arxiv.org/abs/2610.31789](https://arxiv.org/abs/2610.31789)

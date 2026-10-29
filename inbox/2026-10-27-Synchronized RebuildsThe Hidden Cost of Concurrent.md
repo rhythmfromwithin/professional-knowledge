@@ -1,11 +1,12 @@
 ---
-title: "Synchronized Rebuilds:The Hidden Cost of Concurrent Inserts in Learned Indexes"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.33770
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33770
 next_step: skim
+priority: low
+slack_ts: '1793251499.013239'
+source: cs.DB - Databases
+status: unread
+title: Synchronized Rebuilds:The Hidden Cost of Concurrent Inserts in Learned Indexes
 ---
 # Synchronized Rebuilds:The Hidden Cost of Concurrent Inserts in Learned Indexes
 > 原文: [https://arxiv.org/abs/2610.33770](https://arxiv.org/abs/2610.33770)

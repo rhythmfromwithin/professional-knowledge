@@ -1,11 +1,13 @@
 ---
-title: "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1793251496.924459'
+source: AWS Blog
+status: unread
+title: 'Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models
+  on Amazon Bedrock'
 ---
 # Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/)

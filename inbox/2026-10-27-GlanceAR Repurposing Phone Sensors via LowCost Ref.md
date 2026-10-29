@@ -1,11 +1,13 @@
 ---
-title: "GlanceAR: Repurposing Phone Sensors via Low-Cost Reflectors for Always-On Obstacle Awareness"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.33142
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33142
 next_step: skim
+priority: low
+slack_ts: '1793251496.681819'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'GlanceAR: Repurposing Phone Sensors via Low-Cost Reflectors for Always-On
+  Obstacle Awareness'
 ---
 # GlanceAR: Repurposing Phone Sensors via Low-Cost Reflectors for Always-On Obstacle Awareness
 > 原文: [https://arxiv.org/abs/2610.33142](https://arxiv.org/abs/2610.33142)

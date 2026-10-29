@@ -1,11 +1,13 @@
 ---
-title: "The As-If Machine: Personalized counterfactuals make distant policy risks feel close"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.33301
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33301
 next_step: skim
+priority: low
+slack_ts: '1793251499.124969'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The As-If Machine: Personalized counterfactuals make distant policy risks
+  feel close'
 ---
 # The As-If Machine: Personalized counterfactuals make distant policy risks feel close
 > 原文: [https://arxiv.org/abs/2610.33301](https://arxiv.org/abs/2610.33301)

@@ -1,11 +1,12 @@
 ---
-title: "RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.33172
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33172
 next_step: skim
+priority: medium
+slack_ts: '1793251498.726399'
+source: cs.RO - Robotics
+status: unread
+title: 'RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion'
 ---
 # RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion
 > 原文: [https://arxiv.org/abs/2610.33172](https://arxiv.org/abs/2610.33172)

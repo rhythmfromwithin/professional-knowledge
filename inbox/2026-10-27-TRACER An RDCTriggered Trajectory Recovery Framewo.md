@@ -1,11 +1,13 @@
 ---
-title: "TRACER: An RDC-Triggered Trajectory Recovery Framework for Cyberattack-Resilient Adaptive Cruise Control"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.33052
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33052
 next_step: skim
+priority: low
+slack_ts: '1793251499.069949'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'TRACER: An RDC-Triggered Trajectory Recovery Framework for Cyberattack-Resilient
+  Adaptive Cruise Control'
 ---
 # TRACER: An RDC-Triggered Trajectory Recovery Framework for Cyberattack-Resilient Adaptive Cruise Control
 > 原文: [https://arxiv.org/abs/2610.33052](https://arxiv.org/abs/2610.33052)

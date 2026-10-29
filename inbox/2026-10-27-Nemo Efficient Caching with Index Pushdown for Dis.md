@@ -1,11 +1,12 @@
 ---
-title: "Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.33306
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33306
 next_step: skim
+priority: low
+slack_ts: '1793251498.073509'
+source: cs.DB - Databases
+status: unread
+title: 'Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases'
 ---
 # Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases
 > 原文: [https://arxiv.org/abs/2610.33306](https://arxiv.org/abs/2610.33306)

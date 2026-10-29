@@ -1,11 +1,13 @@
 ---
-title: "Online Covariance Estimation for Averaged Stochastic Gradient Descent on Riemannian Manifolds"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.33419
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33419
 next_step: skim
+priority: medium
+slack_ts: '1793251498.230839'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Online Covariance Estimation for Averaged Stochastic Gradient Descent on Riemannian
+  Manifolds
 ---
 # Online Covariance Estimation for Averaged Stochastic Gradient Descent on Riemannian Manifolds
 > 原文: [https://arxiv.org/abs/2610.33419](https://arxiv.org/abs/2610.33419)

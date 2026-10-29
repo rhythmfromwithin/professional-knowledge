@@ -1,11 +1,12 @@
 ---
-title: "Sensorimotor behaviour from an untrained brain-and-nerve-cord connectome"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.33881
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33881
 next_step: skim
+priority: low
+slack_ts: '1793251498.831969'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Sensorimotor behaviour from an untrained brain-and-nerve-cord connectome
 ---
 # Sensorimotor behaviour from an untrained brain-and-nerve-cord connectome
 > 原文: [https://arxiv.org/abs/2610.33881](https://arxiv.org/abs/2610.33881)

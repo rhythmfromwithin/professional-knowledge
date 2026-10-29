@@ -1,11 +1,12 @@
 ---
-title: "LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.33475
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33475
 next_step: skim
+priority: medium
+slack_ts: '1793251497.668469'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference'
 ---
 # LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference
 > 原文: [https://arxiv.org/abs/2610.33475](https://arxiv.org/abs/2610.33475)

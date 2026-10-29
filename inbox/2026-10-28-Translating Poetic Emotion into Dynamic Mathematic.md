@@ -1,11 +1,13 @@
 ---
-title: "Translating Poetic Emotion into Dynamic Mathematical Visuals: A Strange Attractor-Based Approach"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.36698
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36698
 next_step: skim
+priority: low
+slack_ts: '1793251502.464129'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Translating Poetic Emotion into Dynamic Mathematical Visuals: A Strange Attractor-Based
+  Approach'
 ---
 # Translating Poetic Emotion into Dynamic Mathematical Visuals: A Strange Attractor-Based Approach
 > 原文: [https://arxiv.org/abs/2610.36698](https://arxiv.org/abs/2610.36698)

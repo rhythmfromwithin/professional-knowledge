@@ -1,11 +1,12 @@
 ---
-title: "Translating RDF 1.2 Graphs to Property Graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.33499
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33499
 next_step: skim
+priority: low
+slack_ts: '1793251499.497499'
+source: cs.DB - Databases
+status: unread
+title: Translating RDF 1.2 Graphs to Property Graphs
 ---
 # Translating RDF 1.2 Graphs to Property Graphs
 > 原文: [https://arxiv.org/abs/2610.33499](https://arxiv.org/abs/2610.33499)

@@ -1,11 +1,13 @@
 ---
-title: "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.35954
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35954
 next_step: skim
+priority: high
+slack_ts: '1793251500.421359'
+source: cs.LG - Machine Learning
+status: unread
+title: Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket
+  Landing
 ---
 # Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing
 > 原文: [https://arxiv.org/abs/2610.35954](https://arxiv.org/abs/2610.35954)

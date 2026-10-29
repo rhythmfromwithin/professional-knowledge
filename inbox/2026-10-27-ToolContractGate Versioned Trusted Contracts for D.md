@@ -1,11 +1,12 @@
 ---
-title: "ToolContractGate: Versioned Trusted Contracts for Drift-Safe Agent Tool Invocation"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.33108
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33108
 next_step: skim
+priority: low
+slack_ts: '1793251499.380439'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ToolContractGate: Versioned Trusted Contracts for Drift-Safe Agent Tool Invocation'
 ---
 # ToolContractGate: Versioned Trusted Contracts for Drift-Safe Agent Tool Invocation
 > 原文: [https://arxiv.org/abs/2610.33108](https://arxiv.org/abs/2610.33108)

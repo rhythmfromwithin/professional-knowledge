@@ -1,11 +1,13 @@
 ---
-title: "Whale You Go Green? Immediate and Longitudinal Effects of Embodied Conversational AI Avatars on Sustainable Behavioral Tendencies and Pro-Environmental Attitudes"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.33191
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33191
 next_step: skim
+priority: low
+slack_ts: '1793251499.657129'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Whale You Go Green? Immediate and Longitudinal Effects of Embodied Conversational
+  AI Avatars on Sustainable Behavioral Tendencies and Pro-Environmental Attitudes
 ---
 # Whale You Go Green? Immediate and Longitudinal Effects of Embodied Conversational AI Avatars on Sustainable Behavioral Tendencies and Pro-Environmental Attitudes
 > 原文: [https://arxiv.org/abs/2610.33191](https://arxiv.org/abs/2610.33191)

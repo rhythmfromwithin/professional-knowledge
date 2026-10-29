@@ -1,11 +1,13 @@
 ---
-title: "Kernelised covariance matrices, dimension reduction and imbalanced spectral clustering"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.33177
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33177
 next_step: skim
+priority: medium
+slack_ts: '1793251497.564229'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Kernelised covariance matrices, dimension reduction and imbalanced spectral
+  clustering
 ---
 # Kernelised covariance matrices, dimension reduction and imbalanced spectral clustering
 > 原文: [https://arxiv.org/abs/2610.33177](https://arxiv.org/abs/2610.33177)

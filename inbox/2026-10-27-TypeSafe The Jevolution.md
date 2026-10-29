@@ -1,11 +1,12 @@
 ---
-title: "TypeSafe: The Jevolution"
-source: "Sequoia Capital"
-link: https://www.sequoiacap.com/article/typesafe-the-jevolution
-priority: high
-status: unread
 interest: medium
+link: https://www.sequoiacap.com/article/typesafe-the-jevolution
 next_step: skim
+priority: high
+slack_ts: '1793251499.549599'
+source: Sequoia Capital
+status: unread
+title: 'TypeSafe: The Jevolution'
 ---
 # TypeSafe: The Jevolution
 > 原文: [https://www.sequoiacap.com/article/typesafe-the-jevolution](https://www.sequoiacap.com/article/typesafe-the-jevolution)

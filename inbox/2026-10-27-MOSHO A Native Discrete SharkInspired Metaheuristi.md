@@ -1,11 +1,13 @@
 ---
-title: "MOSHO: A Native Discrete Shark-Inspired Metaheuristic for Hardware-Aware Neural Architecture Search"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.33358
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.33358
 next_step: skim
+priority: low
+slack_ts: '1793251497.774679'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'MOSHO: A Native Discrete Shark-Inspired Metaheuristic for Hardware-Aware Neural
+  Architecture Search'
 ---
 # MOSHO: A Native Discrete Shark-Inspired Metaheuristic for Hardware-Aware Neural Architecture Search
 > 原文: [https://arxiv.org/abs/2610.33358](https://arxiv.org/abs/2610.33358)

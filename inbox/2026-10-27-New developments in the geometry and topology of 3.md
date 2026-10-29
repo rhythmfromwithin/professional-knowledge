@@ -1,11 +1,12 @@
 ---
-title: "New developments in the geometry and topology of 3D head-direction coding"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.34106
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.34106
 next_step: skim
+priority: low
+slack_ts: '1793251498.182939'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: New developments in the geometry and topology of 3D head-direction coding
 ---
 # New developments in the geometry and topology of 3D head-direction coding
 > 原文: [https://arxiv.org/abs/2610.34106](https://arxiv.org/abs/2610.34106)

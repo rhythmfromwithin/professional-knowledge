@@ -1,11 +1,13 @@
 ---
-title: "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 next_step: skim
+priority: high
+slack_ts: '1793251496.737629'
+source: DeepMind Blog
+status: unread
+title: Google DeepMind and Singapore Government collaborate to build fine-tuned AI
+  model for scam detection
 ---
 # Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection
 > 原文: [https://deepmind.google/blog/on-device-ai-scam-detection-mddi/](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
