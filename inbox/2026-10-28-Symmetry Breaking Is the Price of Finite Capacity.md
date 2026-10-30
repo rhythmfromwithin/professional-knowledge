@@ -1,11 +1,12 @@
 ---
-title: "Symmetry Breaking Is the Price of Finite Capacity"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.36138
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36138
 next_step: skim
+priority: medium
+slack_ts: '1793337892.898139'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Symmetry Breaking Is the Price of Finite Capacity
 ---
 # Symmetry Breaking Is the Price of Finite Capacity
 > 原文: [https://arxiv.org/abs/2610.36138](https://arxiv.org/abs/2610.36138)

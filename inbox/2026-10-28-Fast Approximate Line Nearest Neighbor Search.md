@@ -1,11 +1,12 @@
 ---
-title: "Fast Approximate Line Nearest Neighbor Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.37256
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.37256
 next_step: skim
+priority: low
+slack_ts: '1793337887.044769'
+source: cs.DB - Databases
+status: unread
+title: Fast Approximate Line Nearest Neighbor Search
 ---
 # Fast Approximate Line Nearest Neighbor Search
 > 原文: [https://arxiv.org/abs/2610.37256](https://arxiv.org/abs/2610.37256)

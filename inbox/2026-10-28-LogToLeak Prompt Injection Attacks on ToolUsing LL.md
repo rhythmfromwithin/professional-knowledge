@@ -1,11 +1,13 @@
 ---
-title: "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.36108
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36108
 next_step: skim
+priority: low
+slack_ts: '1793337889.977449'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model
+  Context Protocol'
 ---
 # Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol
 > 原文: [https://arxiv.org/abs/2610.36108](https://arxiv.org/abs/2610.36108)

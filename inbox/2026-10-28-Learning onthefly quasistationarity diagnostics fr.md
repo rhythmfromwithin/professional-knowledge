@@ -1,11 +1,12 @@
 ---
-title: "Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.36078
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36078
 next_step: skim
+priority: medium
+slack_ts: '1793337889.693209'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates
 ---
 # Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates
 > 原文: [https://arxiv.org/abs/2610.36078](https://arxiv.org/abs/2610.36078)

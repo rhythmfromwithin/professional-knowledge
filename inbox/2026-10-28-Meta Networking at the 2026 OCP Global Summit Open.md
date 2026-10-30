@@ -1,11 +1,13 @@
 ---
-title: "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/
 next_step: skim
+priority: medium
+slack_ts: '1793337890.344589'
+source: Meta Engineering
+status: unread
+title: 'Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up,
+  Scale-Out, and Scale-Across AI Networks'
 ---
 # Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks
 > 原文: [https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/](https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/)

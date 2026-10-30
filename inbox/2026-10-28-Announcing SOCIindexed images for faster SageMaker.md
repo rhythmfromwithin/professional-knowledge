@@ -1,11 +1,12 @@
 ---
-title: "Announcing SOCI-indexed images for faster SageMaker AI jobs"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/
 next_step: skim
+priority: high
+slack_ts: '1793337884.792759'
+source: AWS Blog
+status: unread
+title: Announcing SOCI-indexed images for faster SageMaker AI jobs
 ---
 # Announcing SOCI-indexed images for faster SageMaker AI jobs
 > 原文: [https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/](https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/)

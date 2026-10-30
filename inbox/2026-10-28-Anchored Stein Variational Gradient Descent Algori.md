@@ -1,11 +1,12 @@
 ---
-title: "Anchored Stein Variational Gradient Descent Algorithm for Non-smooth Sampling"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2610.36018
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36018
 next_step: skim
+priority: medium
+slack_ts: '1793337884.663279'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Anchored Stein Variational Gradient Descent Algorithm for Non-smooth Sampling
 ---
 # Anchored Stein Variational Gradient Descent Algorithm for Non-smooth Sampling
 > 原文: [https://arxiv.org/abs/2610.36018](https://arxiv.org/abs/2610.36018)

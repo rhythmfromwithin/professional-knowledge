@@ -1,11 +1,12 @@
 ---
-title: "Early progress on accelerating drug development with Claude"
-source: "Anthropic"
-link: https://www.anthropic.com/research/early-progress-drug-development
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/early-progress-drug-development
 next_step: skim
+priority: high
+slack_ts: '1793337886.699329'
+source: Anthropic
+status: unread
+title: Early progress on accelerating drug development with Claude
 ---
 # Early progress on accelerating drug development with Claude
 > 原文: [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)

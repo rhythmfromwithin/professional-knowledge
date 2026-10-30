@@ -1,11 +1,12 @@
 ---
-title: "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.32997
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32997
 next_step: skim
+priority: high
+slack_ts: '1793337883.839189'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning'
 ---
 # Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning
 > 原文: [https://arxiv.org/abs/2610.32997](https://arxiv.org/abs/2610.32997)

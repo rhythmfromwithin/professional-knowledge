@@ -1,11 +1,13 @@
 ---
-title: "Governing Artificial Intelligence as a Macro Socio-Technical Regime: The F-I-C-P Framework for Regime-Level AI Infrastructure and Governance"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.32985
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32985
 next_step: skim
+priority: medium
+slack_ts: '1793337888.025839'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Governing Artificial Intelligence as a Macro Socio-Technical Regime: The F-I-C-P
+  Framework for Regime-Level AI Infrastructure and Governance'
 ---
 # Governing Artificial Intelligence as a Macro Socio-Technical Regime: The F-I-C-P Framework for Regime-Level AI Infrastructure and Governance
 > 原文: [https://arxiv.org/abs/2610.32985](https://arxiv.org/abs/2610.32985)

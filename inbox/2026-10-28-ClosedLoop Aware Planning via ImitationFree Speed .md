@@ -1,11 +1,13 @@
 ---
-title: "Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End Autonomous Driving"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.36079
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36079
 next_step: skim
+priority: medium
+slack_ts: '1793337886.017919'
+source: cs.RO - Robotics
+status: unread
+title: Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End
+  Autonomous Driving
 ---
 # Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End Autonomous Driving
 > 原文: [https://arxiv.org/abs/2610.36079](https://arxiv.org/abs/2610.36079)

@@ -1,11 +1,13 @@
 ---
-title: "New Lenses on Learning Design: Course Types and Indicators from Large-Scale Moodle Data"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.32983
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32983
 next_step: skim
+priority: medium
+slack_ts: '1793337890.586459'
+source: cs.CY - Computers and Society
+status: unread
+title: 'New Lenses on Learning Design: Course Types and Indicators from Large-Scale
+  Moodle Data'
 ---
 # New Lenses on Learning Design: Course Types and Indicators from Large-Scale Moodle Data
 > 原文: [https://arxiv.org/abs/2610.32983](https://arxiv.org/abs/2610.32983)

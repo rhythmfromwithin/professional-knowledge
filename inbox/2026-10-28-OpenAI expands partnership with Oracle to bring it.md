@@ -1,11 +1,12 @@
 ---
-title: "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
-source: "OpenAI Blog"
-link: https://openai.com/index/oracle-apps-in-chatgpt
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/oracle-apps-in-chatgpt
 next_step: skim
+priority: high
+slack_ts: '1793337890.999009'
+source: OpenAI Blog
+status: unread
+title: OpenAI expands partnership with Oracle to bring its apps to ChatGPT
 ---
 # OpenAI expands partnership with Oracle to bring its apps to ChatGPT
 > 原文: [https://openai.com/index/oracle-apps-in-chatgpt](https://openai.com/index/oracle-apps-in-chatgpt)

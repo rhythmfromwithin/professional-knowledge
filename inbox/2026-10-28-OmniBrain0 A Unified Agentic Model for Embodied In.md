@@ -1,11 +1,12 @@
 ---
-title: "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.36013
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36013
 next_step: skim
+priority: high
+slack_ts: '1793337890.870719'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'OmniBrain-0: A Unified Agentic Model for Embodied Intelligence'
 ---
 # OmniBrain-0: A Unified Agentic Model for Embodied Intelligence
 > 原文: [https://arxiv.org/abs/2610.36013](https://arxiv.org/abs/2610.36013)

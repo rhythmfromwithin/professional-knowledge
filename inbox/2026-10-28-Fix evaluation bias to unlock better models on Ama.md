@@ -1,11 +1,12 @@
 ---
-title: "Fix evaluation bias to unlock better models on Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1793337887.153949'
+source: AWS Blog
+status: unread
+title: Fix evaluation bias to unlock better models on Amazon Bedrock
 ---
 # Fix evaluation bias to unlock better models on Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/)

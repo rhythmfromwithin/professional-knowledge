@@ -1,11 +1,13 @@
 ---
-title: "Immersive Commons: Designing Ephemeral Spatial Dialogue for Co-Located Mixed Reality Environments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.36014
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36014
 next_step: skim
+priority: low
+slack_ts: '1793337888.950359'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Immersive Commons: Designing Ephemeral Spatial Dialogue for Co-Located Mixed
+  Reality Environments'
 ---
 # Immersive Commons: Designing Ephemeral Spatial Dialogue for Co-Located Mixed Reality Environments
 > 原文: [https://arxiv.org/abs/2610.36014](https://arxiv.org/abs/2610.36014)

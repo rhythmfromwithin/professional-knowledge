@@ -1,11 +1,12 @@
 ---
-title: "Leveraging US Commercial Adjustments: MFN Tariffs and Trade Diversion"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.35986
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35986
 next_step: skim
+priority: low
+slack_ts: '1793337889.832419'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Leveraging US Commercial Adjustments: MFN Tariffs and Trade Diversion'
 ---
 # Leveraging US Commercial Adjustments: MFN Tariffs and Trade Diversion
 > 原文: [https://arxiv.org/abs/2610.35986](https://arxiv.org/abs/2610.35986)

@@ -1,11 +1,13 @@
 ---
-title: "OpenHamoye: A Multi-Scale Open Geospatial Intelligence Framework for Decision Support Across Nigeria"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.32984
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.32984
 next_step: skim
+priority: medium
+slack_ts: '1793337891.123389'
+source: cs.CY - Computers and Society
+status: unread
+title: 'OpenHamoye: A Multi-Scale Open Geospatial Intelligence Framework for Decision
+  Support Across Nigeria'
 ---
 # OpenHamoye: A Multi-Scale Open Geospatial Intelligence Framework for Decision Support Across Nigeria
 > 原文: [https://arxiv.org/abs/2610.32984](https://arxiv.org/abs/2610.32984)

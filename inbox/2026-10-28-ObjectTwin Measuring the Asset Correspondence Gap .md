@@ -1,11 +1,13 @@
 ---
-title: "ObjectTwin: Measuring the Asset Correspondence Gap for Capture-Anchored Digital Twins"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.35904
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35904
 next_step: skim
+priority: medium
+slack_ts: '1793337890.752329'
+source: cs.CV - Computer Vision
+status: unread
+title: 'ObjectTwin: Measuring the Asset Correspondence Gap for Capture-Anchored Digital
+  Twins'
 ---
 # ObjectTwin: Measuring the Asset Correspondence Gap for Capture-Anchored Digital Twins
 > 原文: [https://arxiv.org/abs/2610.35904](https://arxiv.org/abs/2610.35904)

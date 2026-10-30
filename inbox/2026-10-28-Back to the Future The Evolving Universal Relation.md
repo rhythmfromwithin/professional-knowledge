@@ -1,11 +1,12 @@
 ---
-title: "Back to the Future: The Evolving Universal Relation Model"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.36833
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36833
 next_step: skim
+priority: low
+slack_ts: '1793337885.065899'
+source: cs.DB - Databases
+status: unread
+title: 'Back to the Future: The Evolving Universal Relation Model'
 ---
 # Back to the Future: The Evolving Universal Relation Model
 > 原文: [https://arxiv.org/abs/2610.36833](https://arxiv.org/abs/2610.36833)

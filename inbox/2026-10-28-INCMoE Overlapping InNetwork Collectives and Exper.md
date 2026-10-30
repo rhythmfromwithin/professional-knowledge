@@ -1,11 +1,13 @@
 ---
-title: "INC-MoE: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.36339
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36339
 next_step: skim
+priority: medium
+slack_ts: '1793337888.660199'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'INC-MoE: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel
+  Mixture-of-Experts Inference'
 ---
 # INC-MoE: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference
 > 原文: [https://arxiv.org/abs/2610.36339](https://arxiv.org/abs/2610.36339)

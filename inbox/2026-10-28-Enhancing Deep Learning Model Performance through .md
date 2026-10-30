@@ -1,11 +1,13 @@
 ---
-title: "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.35984
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35984
 next_step: skim
+priority: high
+slack_ts: '1793337886.885779'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Enhancing Deep Learning Model Performance through Data Generation Strategies:
+  Classification of Olive Tree Diseases'
 ---
 # Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases
 > 原文: [https://arxiv.org/abs/2610.35984](https://arxiv.org/abs/2610.35984)

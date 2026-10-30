@@ -1,11 +1,12 @@
 ---
-title: "Counting the Bandages: On measuring the time that AI saves"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.35942
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35942
 next_step: skim
+priority: high
+slack_ts: '1793337886.328469'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Counting the Bandages: On measuring the time that AI saves'
 ---
 # Counting the Bandages: On measuring the time that AI saves
 > 原文: [https://arxiv.org/abs/2610.35942](https://arxiv.org/abs/2610.35942)

@@ -1,11 +1,13 @@
 ---
-title: "GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.37590
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.37590
 next_step: skim
+priority: low
+slack_ts: '1793337887.451109'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous
+  Optimization'
 ---
 # GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization
 > 原文: [https://arxiv.org/abs/2610.37590](https://arxiv.org/abs/2610.37590)

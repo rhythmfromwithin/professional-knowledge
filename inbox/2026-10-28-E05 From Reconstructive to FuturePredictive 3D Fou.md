@@ -1,11 +1,13 @@
 ---
-title: "E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.36011
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36011
 next_step: skim
+priority: medium
+slack_ts: '1793337886.553359'
+source: cs.RO - Robotics
+status: unread
+title: 'E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic
+  World-Action Modeling'
 ---
 # E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling
 > 原文: [https://arxiv.org/abs/2610.36011](https://arxiv.org/abs/2610.36011)

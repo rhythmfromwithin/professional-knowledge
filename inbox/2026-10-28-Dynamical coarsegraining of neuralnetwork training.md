@@ -1,11 +1,12 @@
 ---
-title: "Dynamical coarse-graining of neural-network training"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.36180
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36180
 next_step: skim
+priority: low
+slack_ts: '1793337886.439759'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Dynamical coarse-graining of neural-network training
 ---
 # Dynamical coarse-graining of neural-network training
 > 原文: [https://arxiv.org/abs/2610.36180](https://arxiv.org/abs/2610.36180)

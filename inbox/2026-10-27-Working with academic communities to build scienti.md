@@ -1,11 +1,12 @@
 ---
-title: "Working with academic communities to build scientific understanding"
-source: "OpenAI Blog"
-link: https://openai.com/index/building-scientific-understanding-with-academic-communities
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/building-scientific-understanding-with-academic-communities
 next_step: skim
+priority: high
+slack_ts: '1793337883.995139'
+source: OpenAI Blog
+status: unread
+title: Working with academic communities to build scientific understanding
 ---
 # Working with academic communities to build scientific understanding
 > 原文: [https://openai.com/index/building-scientific-understanding-with-academic-communities](https://openai.com/index/building-scientific-understanding-with-academic-communities)

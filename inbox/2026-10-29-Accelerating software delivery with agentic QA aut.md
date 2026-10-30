@@ -1,11 +1,13 @@
 ---
-title: "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/
 next_step: skim
+priority: high
+slack_ts: '1793337893.885929'
+source: AWS Blog
+status: unread
+title: Accelerating software delivery with agentic QA automation using Amazon Nova
+  Act – Part 3
 ---
 # Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3
 > 原文: [https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/)

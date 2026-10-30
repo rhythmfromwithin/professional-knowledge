@@ -1,7 +1,9 @@
 ---
-title: "Multi‑Ratio Video Resizing for Mobile Feed and Marketing"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss
+slack_ts: '1793337890.465899'
+source: Netflix Tech Blog
+title: Multi‑Ratio Video Resizing for Mobile Feed and Marketing
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

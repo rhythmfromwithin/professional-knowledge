@@ -1,11 +1,12 @@
 ---
-title: "JustGoal: With Only a Goal, the AI Baseline Is Above the Expert Kernels"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.36434
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36434
 next_step: skim
+priority: medium
+slack_ts: '1793337889.576249'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'JustGoal: With Only a Goal, the AI Baseline Is Above the Expert Kernels'
 ---
 # JustGoal: With Only a Goal, the AI Baseline Is Above the Expert Kernels
 > 原文: [https://arxiv.org/abs/2610.36434](https://arxiv.org/abs/2610.36434)

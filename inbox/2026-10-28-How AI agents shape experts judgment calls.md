@@ -1,11 +1,12 @@
 ---
-title: "How AI agents shape experts’ judgment calls"
-source: "Anthropic"
-link: https://www.anthropic.com/research/agents-judgment-calls
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/agents-judgment-calls
 next_step: skim
+priority: high
+slack_ts: '1793337888.137879'
+source: Anthropic
+status: unread
+title: How AI agents shape experts’ judgment calls
 ---
 # How AI agents shape experts’ judgment calls
 > 原文: [https://www.anthropic.com/research/agents-judgment-calls](https://www.anthropic.com/research/agents-judgment-calls)

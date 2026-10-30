@@ -1,11 +1,13 @@
 ---
-title: "Beyond the 1D Reality-Virtuality Continuum: A 2D Framework for Seven Extended Reality Paradigms"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.36674
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36674
 next_step: skim
+priority: low
+slack_ts: '1793337885.275209'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Beyond the 1D Reality-Virtuality Continuum: A 2D Framework for Seven Extended
+  Reality Paradigms'
 ---
 # Beyond the 1D Reality-Virtuality Continuum: A 2D Framework for Seven Extended Reality Paradigms
 > 原文: [https://arxiv.org/abs/2610.36674](https://arxiv.org/abs/2610.36674)

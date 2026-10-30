@@ -1,11 +1,12 @@
 ---
-title: "An alignment assessment of the UK AISI cybertesting incident"
-source: "Anthropic"
-link: https://www.anthropic.com/research/alignment-assessment-ukaisi
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/alignment-assessment-ukaisi
 next_step: skim
+priority: high
+slack_ts: '1793337884.543789'
+source: Anthropic
+status: unread
+title: An alignment assessment of the UK AISI cybertesting incident
 ---
 # An alignment assessment of the UK AISI cybertesting incident
 > 原文: [https://www.anthropic.com/research/alignment-assessment-ukaisi](https://www.anthropic.com/research/alignment-assessment-ukaisi)

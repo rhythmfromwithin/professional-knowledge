@@ -1,11 +1,13 @@
 ---
-title: "Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.35877
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35877
 next_step: skim
+priority: high
+slack_ts: '1793337885.781339'
+source: cs.LG - Machine Learning
+status: unread
+title: Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under
+  Intervention
 ---
 # Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention
 > 原文: [https://arxiv.org/abs/2610.35877](https://arxiv.org/abs/2610.35877)
