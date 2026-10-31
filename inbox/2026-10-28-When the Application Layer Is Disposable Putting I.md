@@ -1,11 +1,13 @@
 ---
-title: "When the Application Layer Is Disposable: Putting Integrity Constraints Back in the Database"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.36418
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36418
 next_step: skim
+priority: low
+slack_ts: '1793423343.735889'
+source: cs.DB - Databases
+status: unread
+title: 'When the Application Layer Is Disposable: Putting Integrity Constraints Back
+  in the Database'
 ---
 # When the Application Layer Is Disposable: Putting Integrity Constraints Back in the Database
 > 原文: [https://arxiv.org/abs/2610.36418](https://arxiv.org/abs/2610.36418)

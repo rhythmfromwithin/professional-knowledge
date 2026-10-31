@@ -1,11 +1,12 @@
 ---
-title: "UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.35980
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35980
 next_step: skim
+priority: low
+slack_ts: '1793423343.576739'
+source: cs.SE - Software Engineering
+status: unread
+title: 'UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity'
 ---
 # UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity
 > 原文: [https://arxiv.org/abs/2610.35980](https://arxiv.org/abs/2610.35980)

@@ -1,11 +1,12 @@
 ---
-title: "Pricing Cross-Bank Context in Federated Anti-Money Laundering"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.35996
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35996
 next_step: skim
+priority: low
+slack_ts: '1793423341.178169'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Pricing Cross-Bank Context in Federated Anti-Money Laundering
 ---
 # Pricing Cross-Bank Context in Federated Anti-Money Laundering
 > 原文: [https://arxiv.org/abs/2610.35996](https://arxiv.org/abs/2610.35996)

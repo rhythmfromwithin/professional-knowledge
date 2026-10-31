@@ -1,11 +1,12 @@
 ---
-title: "How Alex Lee became the first engineer at Magic Patterns"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/
 next_step: skim
+priority: high
+slack_ts: '1793423346.972349'
+source: Y Combinator
+status: unread
+title: How Alex Lee became the first engineer at Magic Patterns
 ---
 # How Alex Lee became the first engineer at Magic Patterns
 > 原文: [https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/](https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/)

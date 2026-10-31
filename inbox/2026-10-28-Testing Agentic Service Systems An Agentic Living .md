@@ -1,11 +1,13 @@
 ---
-title: "Testing Agentic Service Systems: An Agentic Living Lab Methodology Across the Physical-Digital Continuum"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.35978
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35978
 next_step: skim
+priority: low
+slack_ts: '1793423343.107539'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Testing Agentic Service Systems: An Agentic Living Lab Methodology Across
+  the Physical-Digital Continuum'
 ---
 # Testing Agentic Service Systems: An Agentic Living Lab Methodology Across the Physical-Digital Continuum
 > 原文: [https://arxiv.org/abs/2610.35978](https://arxiv.org/abs/2610.35978)

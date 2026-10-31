@@ -1,11 +1,13 @@
 ---
-title: "Temporal smoothness constraints on efficient neurobiological codes imply temporal specialization"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.36272
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36272
 next_step: skim
+priority: low
+slack_ts: '1793423342.935359'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Temporal smoothness constraints on efficient neurobiological codes imply temporal
+  specialization
 ---
 # Temporal smoothness constraints on efficient neurobiological codes imply temporal specialization
 > 原文: [https://arxiv.org/abs/2610.36272](https://arxiv.org/abs/2610.36272)

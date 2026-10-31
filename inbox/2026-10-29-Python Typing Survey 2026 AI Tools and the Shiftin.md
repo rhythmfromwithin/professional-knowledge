@@ -1,11 +1,12 @@
 ---
-title: "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/
 next_step: skim
+priority: medium
+slack_ts: '1793423349.363609'
+source: Meta Engineering
+status: unread
+title: 'Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape'
 ---
 # Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape
 > 原文: [https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/](https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/)

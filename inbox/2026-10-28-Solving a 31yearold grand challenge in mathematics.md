@@ -1,11 +1,12 @@
 ---
-title: "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/
 next_step: skim
+priority: high
+slack_ts: '1793423342.440749'
+source: Microsoft Research
+status: unread
+title: Solving a 31-year-old grand challenge in mathematics – the KLS conjecture
 ---
 # Solving a 31-year-old grand challenge in mathematics – the KLS conjecture
 > 原文: [https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/](https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/)

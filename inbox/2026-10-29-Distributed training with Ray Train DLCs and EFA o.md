@@ -1,11 +1,12 @@
 ---
-title: "Distributed training with Ray Train DLCs and EFA on EKS"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/
 next_step: skim
+priority: high
+slack_ts: '1793423345.703049'
+source: AWS Blog
+status: unread
+title: Distributed training with Ray Train DLCs and EFA on EKS
 ---
 # Distributed training with Ray Train DLCs and EFA on EKS
 > 原文: [https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/](https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/)

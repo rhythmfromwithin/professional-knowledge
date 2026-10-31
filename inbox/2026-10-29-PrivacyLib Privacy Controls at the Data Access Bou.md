@@ -1,11 +1,12 @@
 ---
-title: "PrivacyLib: Privacy Controls at the Data Access Boundary"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/27/security/privacylib/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/27/security/privacylib/
 next_step: skim
+priority: medium
+slack_ts: '1793423349.201929'
+source: Meta Engineering
+status: unread
+title: 'PrivacyLib: Privacy Controls at the Data Access Boundary'
 ---
 # PrivacyLib: Privacy Controls at the Data Access Boundary
 > 原文: [https://engineering.fb.com/2026/10/27/security/privacylib/](https://engineering.fb.com/2026/10/27/security/privacylib/)

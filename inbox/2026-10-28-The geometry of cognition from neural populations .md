@@ -1,11 +1,12 @@
 ---
-title: "The geometry of cognition: from neural populations to neurotechnology"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.36541
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36541
 next_step: skim
+priority: low
+slack_ts: '1793423343.265589'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The geometry of cognition: from neural populations to neurotechnology'
 ---
 # The geometry of cognition: from neural populations to neurotechnology
 > 原文: [https://arxiv.org/abs/2610.36541](https://arxiv.org/abs/2610.36541)

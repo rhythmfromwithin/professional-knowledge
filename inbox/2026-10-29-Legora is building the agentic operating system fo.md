@@ -1,11 +1,12 @@
 ---
-title: "Legora is building the agentic operating system for legal work"
-source: "OpenAI Blog"
-link: https://openai.com/index/legora
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/legora
 next_step: skim
+priority: high
+slack_ts: '1793423347.916739'
+source: OpenAI Blog
+status: unread
+title: Legora is building the agentic operating system for legal work
 ---
 # Legora is building the agentic operating system for legal work
 > 原文: [https://openai.com/index/legora](https://openai.com/index/legora)

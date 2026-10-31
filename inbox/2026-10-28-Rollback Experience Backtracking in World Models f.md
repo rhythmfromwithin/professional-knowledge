@@ -1,11 +1,12 @@
 ---
-title: "Rollback: Experience Backtracking in World Models for Policy Improvement"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.36068
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36068
 next_step: skim
+priority: medium
+slack_ts: '1793423342.256139'
+source: cs.RO - Robotics
+status: unread
+title: 'Rollback: Experience Backtracking in World Models for Policy Improvement'
 ---
 # Rollback: Experience Backtracking in World Models for Policy Improvement
 > 原文: [https://arxiv.org/abs/2610.36068](https://arxiv.org/abs/2610.36068)

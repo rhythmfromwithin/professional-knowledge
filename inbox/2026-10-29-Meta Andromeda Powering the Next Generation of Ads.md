@@ -1,11 +1,13 @@
 ---
-title: "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/
 next_step: skim
+priority: medium
+slack_ts: '1793423348.077399'
+source: Meta Engineering
+status: unread
+title: 'Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System
+  Co-Design'
 ---
 # Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design
 > 原文: [https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/](https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/)

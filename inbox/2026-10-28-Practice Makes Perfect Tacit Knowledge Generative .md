@@ -1,11 +1,13 @@
 ---
-title: "Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.36008
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36008
 next_step: skim
+priority: low
+slack_ts: '1793423341.018319'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling
+  and Experience'
 ---
 # Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience
 > 原文: [https://arxiv.org/abs/2610.36008](https://arxiv.org/abs/2610.36008)

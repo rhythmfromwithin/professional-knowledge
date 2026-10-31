@@ -1,11 +1,12 @@
 ---
-title: "Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.35905
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.35905
 next_step: skim
+priority: medium
+slack_ts: '1793423342.775089'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks'
 ---
 # Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks
 > 原文: [https://arxiv.org/abs/2610.35905](https://arxiv.org/abs/2610.35905)
