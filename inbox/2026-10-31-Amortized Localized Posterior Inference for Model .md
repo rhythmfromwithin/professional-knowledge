@@ -1,11 +1,13 @@
 ---
-title: "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.37731
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.37731
 next_step: skim
+priority: high
+slack_ts: '1793511567.755619'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Amortized Localized Posterior Inference for Model Calibration with Application
+  to an Ocean Turbulence Closure
 ---
 # Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure
 > 原文: [https://arxiv.org/abs/2610.37731](https://arxiv.org/abs/2610.37731)

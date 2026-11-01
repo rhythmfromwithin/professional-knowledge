@@ -1,11 +1,12 @@
 ---
-title: "Community safety report and new protections for teens"
-source: "OpenAI Blog"
-link: https://openai.com/index/community-safety-report-and-new-protections-for-teens
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/community-safety-report-and-new-protections-for-teens
 next_step: skim
+priority: high
+slack_ts: '1793511568.999189'
+source: OpenAI Blog
+status: unread
+title: Community safety report and new protections for teens
 ---
 # Community safety report and new protections for teens
 > 原文: [https://openai.com/index/community-safety-report-and-new-protections-for-teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)

@@ -1,11 +1,12 @@
 ---
-title: "An updated Model Spec for more capable and beneficial AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/updated-model-spec
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/updated-model-spec
 next_step: skim
+priority: high
+slack_ts: '1793511562.392719'
+source: OpenAI Blog
+status: unread
+title: An updated Model Spec for more capable and beneficial AI
 ---
 # An updated Model Spec for more capable and beneficial AI
 > 原文: [https://openai.com/index/updated-model-spec](https://openai.com/index/updated-model-spec)

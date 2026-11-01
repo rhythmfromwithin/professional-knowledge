@@ -1,11 +1,12 @@
 ---
-title: "Build a repeatable PHP-to-Java migration engine with Kiro"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/
 next_step: skim
+priority: high
+slack_ts: '1793511563.022189'
+source: AWS Blog
+status: unread
+title: Build a repeatable PHP-to-Java migration engine with Kiro
 ---
 # Build a repeatable PHP-to-Java migration engine with Kiro
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/](https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/)

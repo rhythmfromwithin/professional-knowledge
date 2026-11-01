@@ -1,11 +1,12 @@
 ---
-title: "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.36077
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.36077
 next_step: skim
+priority: high
+slack_ts: '1793511561.702759'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents
 ---
 # The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents
 > 原文: [https://arxiv.org/abs/2610.36077](https://arxiv.org/abs/2610.36077)
