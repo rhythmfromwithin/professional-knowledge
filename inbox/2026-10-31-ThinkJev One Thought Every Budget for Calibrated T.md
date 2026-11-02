@@ -1,11 +1,12 @@
 ---
-title: "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.37732
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.37732
 next_step: skim
+priority: high
+slack_ts: '1793597867.489219'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions'
 ---
 # ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions
 > 原文: [https://arxiv.org/abs/2610.37732](https://arxiv.org/abs/2610.37732)

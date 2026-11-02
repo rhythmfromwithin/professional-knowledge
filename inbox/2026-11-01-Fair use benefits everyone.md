@@ -1,11 +1,12 @@
 ---
-title: "Fair use benefits everyone"
-source: "OpenAI Blog"
-link: https://openai.com/index/fair-use-benefits-everyone
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/fair-use-benefits-everyone
 next_step: skim
+priority: high
+slack_ts: '1793597870.393049'
+source: OpenAI Blog
+status: unread
+title: Fair use benefits everyone
 ---
 # Fair use benefits everyone
 > 原文: [https://openai.com/index/fair-use-benefits-everyone](https://openai.com/index/fair-use-benefits-everyone)

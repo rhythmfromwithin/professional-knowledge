@@ -1,0 +1,14 @@
+---
+title: "DyCraft: An Agentic System for Long-Horizon 4D Scene Generation"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2610.40754
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# DyCraft: An Agentic System for Long-Horizon 4D Scene Generation
+> 原文: [https://arxiv.org/abs/2610.40754](https://arxiv.org/abs/2610.40754)
+
+arXiv:2610.40754v1 Announce Type: new
+Abstract: While frontier coding agents can generate high-quality 3D scenes and articulated assets, they struggle to create coherent long-horizon animations. When equipped with general-purpose harnesses, they frequently produce physically implausible outputs, generating objects that interpenetrate, lack physical support, or move unnaturally. Such bare agents struggle to repair these errors because they default to scripting the full animation in one pass, making it difficult to verify their work and disentangle complex spatiotemporal constraints. Drawing on the practice of human animators, we introduce DyCraft, a system for animated 3D scene generation that breaks animation into steps that coding agents can more reliably solve. DyCraft first expands the user's prompt into a detailed plan and builds a static scene. It then creates a 3D storyboard of key animation poses, where each frame is a static 3D scene that the agent can build and debug in isolation. Storyboarding decomposes the problem into pairs of verified start and end states, allowing the agent to author local motion between them with a collection of motion authoring tools. We evaluate DyCraft on 24 long-horizon, multi-shot animation tasks covering humanoid robots, human and animal characters, and physical mechanisms. Compared with a native GPT-6 agent in Codex and prior agentic baselines, DyCraft substantially reduces physical violations and generates higher-quality animated 3D scenes that are more often preferred by human raters.

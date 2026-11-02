@@ -1,0 +1,14 @@
+---
+title: "Optimal climate policy in incomplete electricity markets"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2610.41103
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Optimal climate policy in incomplete electricity markets
+> 原文: [https://arxiv.org/abs/2610.41103](https://arxiv.org/abs/2610.41103)
+
+arXiv:2610.41103v1 Announce Type: cross
+Abstract: Incomplete long-term contracting in electricity markets can expose investors and consumers to inefficient levels of risk. This paper investigates how incompleteness impacts the optimal choice of climate policy. We develop a game-theoretic model of optimal policy-making in anticipation of how electricity market agents react to a given policy when gas prices and demand are uncertain and contracting is incomplete. In illustrative experiments, we observe that renewable subsidies and carbon prices induce an insurance co-benefit when markets are incomplete. This is because, relative to a complete market benchmark, incompleteness shifts investment from renewables toward gas and exposes consumers to uninsured risk from inter-annual volatility in electricity prices. By incentivizing investment in renewables, subsidies and carbon prices indirectly counteract these distortions. Consequently, incompleteness increases the optimal subsidy and carbon price levels in our experiments. Renewable subsidies exhibit a stronger insurance effect than carbon pricing, as the latter leads to more investment in gas with carbon capture and storage and more volatile electricity prices. While carbon pricing is more economically efficient than subsidies in complete markets, incompleteness shrinks its efficiency advantage and even leads to cases where subsidies are more economically efficient.

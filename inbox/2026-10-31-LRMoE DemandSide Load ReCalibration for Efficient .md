@@ -1,11 +1,13 @@
 ---
-title: "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.37720
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.37720
 next_step: skim
+priority: high
+slack_ts: '1793597864.687849'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained
+  Nodes'
 ---
 # LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes
 > 原文: [https://arxiv.org/abs/2610.37720](https://arxiv.org/abs/2610.37720)
