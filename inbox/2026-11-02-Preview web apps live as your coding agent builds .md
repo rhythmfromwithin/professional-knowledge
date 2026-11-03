@@ -1,11 +1,13 @@
 ---
-title: "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/
 next_step: skim
+priority: high
+slack_ts: '1793686640.475849'
+source: AWS Blog
+status: unread
+title: Preview web apps live as your coding agent builds them with Amazon Bedrock
+  AgentCore runtime
 ---
 # Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime
 > 原文: [https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/](https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/)

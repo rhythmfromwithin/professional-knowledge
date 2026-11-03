@@ -1,11 +1,12 @@
 ---
-title: "Beyond Plausible Prediction: Safety Sufficiency in Web World Models"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.40798
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40798
 next_step: skim
+priority: high
+slack_ts: '1793686637.278129'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Beyond Plausible Prediction: Safety Sufficiency in Web World Models'
 ---
 # Beyond Plausible Prediction: Safety Sufficiency in Web World Models
 > 原文: [https://arxiv.org/abs/2610.40798](https://arxiv.org/abs/2610.40798)

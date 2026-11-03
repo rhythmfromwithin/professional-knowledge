@@ -1,11 +1,12 @@
 ---
-title: "Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.41407
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41407
 next_step: skim
+priority: low
+slack_ts: '1793686638.246009'
+source: cs.DB - Databases
+status: unread
+title: 'Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search'
 ---
 # Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search
 > 原文: [https://arxiv.org/abs/2610.41407](https://arxiv.org/abs/2610.41407)

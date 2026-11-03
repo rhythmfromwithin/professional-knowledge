@@ -1,11 +1,12 @@
 ---
-title: "How Worldwide Express automated freight exceptions with Amazon Bedrock"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/
 next_step: skim
+priority: high
+slack_ts: '1793686638.841459'
+source: AWS Blog
+status: unread
+title: How Worldwide Express automated freight exceptions with Amazon Bedrock
 ---
 # How Worldwide Express automated freight exceptions with Amazon Bedrock
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/)

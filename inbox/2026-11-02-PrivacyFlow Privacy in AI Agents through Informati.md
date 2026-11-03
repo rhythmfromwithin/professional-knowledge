@@ -1,11 +1,13 @@
 ---
-title: "PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.40714
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40714
 next_step: skim
+priority: low
+slack_ts: '1793686640.530379'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware
+  Risk Management'
 ---
 # PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management
 > 原文: [https://arxiv.org/abs/2610.40714](https://arxiv.org/abs/2610.40714)

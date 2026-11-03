@@ -1,11 +1,12 @@
 ---
-title: "Optimal climate policy in incomplete electricity markets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.41103
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41103
 next_step: skim
+priority: low
+slack_ts: '1793686639.824069'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Optimal climate policy in incomplete electricity markets
 ---
 # Optimal climate policy in incomplete electricity markets
 > 原文: [https://arxiv.org/abs/2610.41103](https://arxiv.org/abs/2610.41103)

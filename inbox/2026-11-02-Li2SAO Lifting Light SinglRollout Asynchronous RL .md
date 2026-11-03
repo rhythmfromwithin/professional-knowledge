@@ -1,11 +1,13 @@
 ---
-title: "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.40726
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40726
 next_step: skim
+priority: high
+slack_ts: '1793686639.345039'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via
+  Group-Relative Actor-Critic Bootstrapping'
 ---
 # Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping
 > 原文: [https://arxiv.org/abs/2610.40726](https://arxiv.org/abs/2610.40726)

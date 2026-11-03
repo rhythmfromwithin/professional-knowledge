@@ -1,11 +1,12 @@
 ---
-title: "Circumventing the Computational Hardness of Computational Arbitrage"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.40831
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40831
 next_step: skim
+priority: high
+slack_ts: '1793686637.687139'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Circumventing the Computational Hardness of Computational Arbitrage
 ---
 # Circumventing the Computational Hardness of Computational Arbitrage
 > 原文: [https://arxiv.org/abs/2610.40831](https://arxiv.org/abs/2610.40831)

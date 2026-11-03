@@ -1,11 +1,13 @@
 ---
-title: "Expression of White and Gray Matter Autism Functional Network Connectivity Signatures in Infancy"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.40839
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40839
 next_step: skim
+priority: low
+slack_ts: '1793686638.075989'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Expression of White and Gray Matter Autism Functional Network Connectivity
+  Signatures in Infancy
 ---
 # Expression of White and Gray Matter Autism Functional Network Connectivity Signatures in Infancy
 > 原文: [https://arxiv.org/abs/2610.40839](https://arxiv.org/abs/2610.40839)

@@ -1,11 +1,12 @@
 ---
-title: "Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.41265
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41265
 next_step: skim
+priority: low
+slack_ts: '1793686638.954869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware
 ---
 # Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware
 > 原文: [https://arxiv.org/abs/2610.41265](https://arxiv.org/abs/2610.41265)

@@ -1,11 +1,12 @@
 ---
-title: "Personalised 3D Mnemonics for Vocabulary Learning in Context"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.40760
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40760
 next_step: skim
+priority: low
+slack_ts: '1793686640.349889'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Personalised 3D Mnemonics for Vocabulary Learning in Context
 ---
 # Personalised 3D Mnemonics for Vocabulary Learning in Context
 > 原文: [https://arxiv.org/abs/2610.40760](https://arxiv.org/abs/2610.40760)

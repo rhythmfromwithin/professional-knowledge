@@ -1,11 +1,12 @@
 ---
-title: "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.40799
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40799
 next_step: skim
+priority: medium
+slack_ts: '1793686637.525069'
+source: cs.RO - Robotics
+status: unread
+title: 'CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents'
 ---
 # CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents
 > 原文: [https://arxiv.org/abs/2610.40799](https://arxiv.org/abs/2610.40799)

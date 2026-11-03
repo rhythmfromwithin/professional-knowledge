@@ -1,11 +1,13 @@
 ---
-title: "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2610.40732
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40732
 next_step: skim
+priority: high
+slack_ts: '1793686637.855259'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Don''t Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly
+  Detection'
 ---
 # Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection
 > 原文: [https://arxiv.org/abs/2610.40732](https://arxiv.org/abs/2610.40732)

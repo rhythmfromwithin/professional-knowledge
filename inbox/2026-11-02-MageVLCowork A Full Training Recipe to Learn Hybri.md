@@ -1,11 +1,13 @@
 ---
-title: "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.40747
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40747
 next_step: skim
+priority: high
+slack_ts: '1793686639.394299'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved
+  Harnesses'
 ---
 # Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses
 > 原文: [https://arxiv.org/abs/2610.40747](https://arxiv.org/abs/2610.40747)

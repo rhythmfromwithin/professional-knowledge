@@ -1,11 +1,12 @@
 ---
-title: "Language Non-Invariance in the Ideological Evaluation of Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.41135
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41135
 next_step: skim
+priority: medium
+slack_ts: '1793686639.288559'
+source: cs.CY - Computers and Society
+status: unread
+title: Language Non-Invariance in the Ideological Evaluation of Large Language Models
 ---
 # Language Non-Invariance in the Ideological Evaluation of Large Language Models
 > 原文: [https://arxiv.org/abs/2610.41135](https://arxiv.org/abs/2610.41135)

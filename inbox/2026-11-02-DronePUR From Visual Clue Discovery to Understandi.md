@@ -1,11 +1,13 @@
 ---
-title: "Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV Scenes"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.40801
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40801
 next_step: skim
+priority: medium
+slack_ts: '1793686637.912689'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV
+  Scenes'
 ---
 # Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV Scenes
 > 原文: [https://arxiv.org/abs/2610.40801](https://arxiv.org/abs/2610.40801)

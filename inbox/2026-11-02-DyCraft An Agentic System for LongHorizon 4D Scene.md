@@ -1,11 +1,12 @@
 ---
-title: "DyCraft: An Agentic System for Long-Horizon 4D Scene Generation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2610.40754
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40754
 next_step: skim
+priority: medium
+slack_ts: '1793686637.966309'
+source: cs.CV - Computer Vision
+status: unread
+title: 'DyCraft: An Agentic System for Long-Horizon 4D Scene Generation'
 ---
 # DyCraft: An Agentic System for Long-Horizon 4D Scene Generation
 > 原文: [https://arxiv.org/abs/2610.40754](https://arxiv.org/abs/2610.40754)

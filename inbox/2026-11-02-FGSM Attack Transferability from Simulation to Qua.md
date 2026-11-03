@@ -1,11 +1,13 @@
 ---
-title: "FGSM Attack Transferability from Simulation to Quantum Hardware in Network Intrusion Detection"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.40701
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40701
 next_step: skim
+priority: low
+slack_ts: '1793686638.128009'
+source: cs.CR - Cryptography and Security
+status: unread
+title: FGSM Attack Transferability from Simulation to Quantum Hardware in Network
+  Intrusion Detection
 ---
 # FGSM Attack Transferability from Simulation to Quantum Hardware in Network Intrusion Detection
 > 原文: [https://arxiv.org/abs/2610.40701](https://arxiv.org/abs/2610.40701)

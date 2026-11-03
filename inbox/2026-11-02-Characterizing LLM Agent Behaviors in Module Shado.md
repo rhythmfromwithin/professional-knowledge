@@ -1,11 +1,12 @@
 ---
-title: "Characterizing LLM Agent Behaviors in Module Shadowing Environments"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2610.40716
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40716
 next_step: skim
+priority: low
+slack_ts: '1793686637.639339'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Characterizing LLM Agent Behaviors in Module Shadowing Environments
 ---
 # Characterizing LLM Agent Behaviors in Module Shadowing Environments
 > 原文: [https://arxiv.org/abs/2610.40716](https://arxiv.org/abs/2610.40716)

@@ -1,11 +1,13 @@
 ---
-title: "Measuring Personal Information Exposure in Mental Health-Related Conversations with LLMs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.41045
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41045
 next_step: skim
+priority: low
+slack_ts: '1793686639.604839'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Measuring Personal Information Exposure in Mental Health-Related Conversations
+  with LLMs
 ---
 # Measuring Personal Information Exposure in Mental Health-Related Conversations with LLMs
 > 原文: [https://arxiv.org/abs/2610.41045](https://arxiv.org/abs/2610.41045)

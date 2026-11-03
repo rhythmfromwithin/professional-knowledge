@@ -1,11 +1,12 @@
 ---
-title: "LLM Recommenders Produce Demographic Inequality Through Content Preferences"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.41854
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41854
 next_step: skim
+priority: medium
+slack_ts: '1793686639.232389'
+source: cs.CY - Computers and Society
+status: unread
+title: LLM Recommenders Produce Demographic Inequality Through Content Preferences
 ---
 # LLM Recommenders Produce Demographic Inequality Through Content Preferences
 > 原文: [https://arxiv.org/abs/2610.41854](https://arxiv.org/abs/2610.41854)

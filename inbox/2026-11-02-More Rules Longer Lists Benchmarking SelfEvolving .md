@@ -1,11 +1,13 @@
 ---
-title: "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2610.40758
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40758
 next_step: skim
+priority: high
+slack_ts: '1793686639.770769'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule
+  Curriculum
 ---
 # More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum
 > 原文: [https://arxiv.org/abs/2610.40758](https://arxiv.org/abs/2610.40758)

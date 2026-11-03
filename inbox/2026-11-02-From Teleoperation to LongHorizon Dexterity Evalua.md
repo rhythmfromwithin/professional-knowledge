@@ -1,11 +1,13 @@
 ---
-title: "From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.40828
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40828
 next_step: skim
+priority: medium
+slack_ts: '1793686638.377689'
+source: cs.RO - Robotics
+status: unread
+title: 'From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills
+  and Offline Proxies for Dexterous Manipulation'
 ---
 # From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation
 > 原文: [https://arxiv.org/abs/2610.40828](https://arxiv.org/abs/2610.40828)

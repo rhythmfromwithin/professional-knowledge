@@ -1,11 +1,12 @@
 ---
-title: "Hyperbolic embedding of higher-order simplicial networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2610.41684
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41684
 next_step: skim
+priority: low
+slack_ts: '1793686638.892479'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Hyperbolic embedding of higher-order simplicial networks
 ---
 # Hyperbolic embedding of higher-order simplicial networks
 > 原文: [https://arxiv.org/abs/2610.41684](https://arxiv.org/abs/2610.41684)

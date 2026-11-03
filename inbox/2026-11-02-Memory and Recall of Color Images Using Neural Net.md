@@ -1,11 +1,13 @@
 ---
-title: "Memory and Recall of Color Images Using Neural Networks-1 - The Cue-Ball Model based on the Associative Memory Mechanism -"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2610.41108
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41108
 next_step: skim
+priority: low
+slack_ts: '1793686639.656869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Memory and Recall of Color Images Using Neural Networks-1 - The Cue-Ball Model
+  based on the Associative Memory Mechanism -
 ---
 # Memory and Recall of Color Images Using Neural Networks-1 - The Cue-Ball Model based on the Associative Memory Mechanism -
 > 原文: [https://arxiv.org/abs/2610.41108](https://arxiv.org/abs/2610.41108)

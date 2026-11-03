@@ -1,11 +1,13 @@
 ---
-title: "LLM Fine-Tuning Workloads: Characterization, Challenges, and Opportunities for Serverless AI"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.40983
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40983
 next_step: skim
+priority: medium
+slack_ts: '1793686639.176709'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'LLM Fine-Tuning Workloads: Characterization, Challenges, and Opportunities
+  for Serverless AI'
 ---
 # LLM Fine-Tuning Workloads: Characterization, Challenges, and Opportunities for Serverless AI
 > 原文: [https://arxiv.org/abs/2610.40983](https://arxiv.org/abs/2610.40983)
