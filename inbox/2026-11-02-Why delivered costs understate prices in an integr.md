@@ -1,11 +1,12 @@
 ---
-title: "Why delivered costs understate prices in an integrated global hydrogen market"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2610.41447
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41447
 next_step: skim
+priority: low
+slack_ts: '1793771608.597649'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Why delivered costs understate prices in an integrated global hydrogen market
 ---
 # Why delivered costs understate prices in an integrated global hydrogen market
 > 原文: [https://arxiv.org/abs/2610.41447](https://arxiv.org/abs/2610.41447)

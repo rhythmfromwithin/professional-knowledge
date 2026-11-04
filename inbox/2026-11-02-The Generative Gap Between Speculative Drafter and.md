@@ -1,11 +1,13 @@
 ---
-title: "The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2610.40847
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40847
 next_step: skim
+priority: high
+slack_ts: '1793771608.404309'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: The Generative Gap Between Speculative Drafter and Continuous Diffusion Language
+  Model
 ---
 # The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model
 > 原文: [https://arxiv.org/abs/2610.40847](https://arxiv.org/abs/2610.40847)

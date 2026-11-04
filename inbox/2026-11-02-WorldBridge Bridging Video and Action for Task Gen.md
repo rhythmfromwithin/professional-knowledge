@@ -1,11 +1,13 @@
 ---
-title: "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2610.40748
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40748
 next_step: skim
+priority: medium
+slack_ts: '1793771608.658969'
+source: cs.RO - Robotics
+status: unread
+title: 'WorldBridge: Bridging Video and Action for Task Generalization in World Action
+  Models'
 ---
 # WorldBridge: Bridging Video and Action for Task Generalization in World Action Models
 > 原文: [https://arxiv.org/abs/2610.40748](https://arxiv.org/abs/2610.40748)

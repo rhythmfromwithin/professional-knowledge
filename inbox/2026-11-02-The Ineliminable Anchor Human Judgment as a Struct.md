@@ -1,11 +1,13 @@
 ---
-title: "The Ineliminable Anchor: Human Judgment as a Structural Requirement of Autonomous Artificial Intelligence Systems"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2610.41682
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41682
 next_step: skim
+priority: medium
+slack_ts: '1793771608.471019'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Ineliminable Anchor: Human Judgment as a Structural Requirement of Autonomous
+  Artificial Intelligence Systems'
 ---
 # The Ineliminable Anchor: Human Judgment as a Structural Requirement of Autonomous Artificial Intelligence Systems
 > 原文: [https://arxiv.org/abs/2610.41682](https://arxiv.org/abs/2610.41682)

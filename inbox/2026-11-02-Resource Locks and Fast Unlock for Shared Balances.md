@@ -1,11 +1,13 @@
 ---
-title: "Resource Locks and Fast Unlock for Shared Balances in Certificate-Based Payment Systems"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2610.41207
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41207
 next_step: skim
+priority: medium
+slack_ts: '1793771607.955409'
+source: cs.DC - Distributed Computing
+status: unread
+title: Resource Locks and Fast Unlock for Shared Balances in Certificate-Based Payment
+  Systems
 ---
 # Resource Locks and Fast Unlock for Shared Balances in Certificate-Based Payment Systems
 > 原文: [https://arxiv.org/abs/2610.41207](https://arxiv.org/abs/2610.41207)

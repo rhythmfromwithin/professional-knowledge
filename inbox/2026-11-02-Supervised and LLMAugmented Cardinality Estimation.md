@@ -1,11 +1,13 @@
 ---
-title: "Supervised and LLM-Augmented Cardinality Estimation for Similarity Queries on Knowledge Graphs"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2610.41669
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41669
 next_step: skim
+priority: low
+slack_ts: '1793771608.330089'
+source: cs.DB - Databases
+status: unread
+title: Supervised and LLM-Augmented Cardinality Estimation for Similarity Queries
+  on Knowledge Graphs
 ---
 # Supervised and LLM-Augmented Cardinality Estimation for Similarity Queries on Knowledge Graphs
 > 原文: [https://arxiv.org/abs/2610.41669](https://arxiv.org/abs/2610.41669)

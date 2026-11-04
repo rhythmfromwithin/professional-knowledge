@@ -1,0 +1,14 @@
+---
+title: "From Benchmarks to Behaviors: A Framework for Auditing AI Agents"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2611.03939
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# From Benchmarks to Behaviors: A Framework for Auditing AI Agents
+> 原文: [https://arxiv.org/abs/2611.03939](https://arxiv.org/abs/2611.03939)
+
+arXiv:2611.03939v1 Announce Type: new
+Abstract: Generative AI systems increasingly mediate access to information. Their behavior depends on tools, instructions, and user memories that are often difficult for researchers to observe or control. Here, I introduce TRACE (Transparent Research on Agent Contexts and Environments), a framework for systematically auditing how these components shape AI agent behavior. Built on an open-source agent harness, TRACE enables controlled manipulation of system components. It also records inputs, outputs, and task execution for downstream analysis. I demonstrate this framework through an experiment examining how user memories influence source selection when agents answer questions about the 2026 U.S. midterm elections. I find that memories expressing explicit preference for a publisher increase its inclusion among the first three cited sources in a response by 33-39 percentage points. Memories identifying the user as a Republican or expressing distrust of mainstream media shift citations rightward. That same media distrust memory also increases citation of sources expressing misinformation or conspiracy theories by 6.3 percentage points, with substantial variation across models. These findings demonstrate that concise user memories can alter source selection in consequential settings, even when questions and search results remain fixed. TRACE extends algorithm auditing to agent harnesses, providing a transparent way to study agent behaviors that benchmarks or commercial interfaces may struggle to isolate.

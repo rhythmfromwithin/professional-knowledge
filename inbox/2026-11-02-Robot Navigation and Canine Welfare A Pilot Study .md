@@ -1,11 +1,13 @@
 ---
-title: "Robot Navigation and Canine Welfare: A Pilot Study Surfacing Challenges for Cross-Species Legibility and Proxy Validity in Animal-Machine Interaction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2610.40921
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.40921
 next_step: skim
+priority: low
+slack_ts: '1793771608.022579'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Robot Navigation and Canine Welfare: A Pilot Study Surfacing Challenges for
+  Cross-Species Legibility and Proxy Validity in Animal-Machine Interaction'
 ---
 # Robot Navigation and Canine Welfare: A Pilot Study Surfacing Challenges for Cross-Species Legibility and Proxy Validity in Animal-Machine Interaction
 > 原文: [https://arxiv.org/abs/2610.40921](https://arxiv.org/abs/2610.40921)

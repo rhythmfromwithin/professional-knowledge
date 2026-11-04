@@ -1,11 +1,13 @@
 ---
-title: "RepGen: Reproducing Deep Learning Bugs through Context-Aware Code Generation and Verification"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2610.41097
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2610.41097
 next_step: skim
+priority: low
+slack_ts: '1793771607.887019'
+source: cs.SE - Software Engineering
+status: unread
+title: 'RepGen: Reproducing Deep Learning Bugs through Context-Aware Code Generation
+  and Verification'
 ---
 # RepGen: Reproducing Deep Learning Bugs through Context-Aware Code Generation and Verification
 > 原文: [https://arxiv.org/abs/2610.41097](https://arxiv.org/abs/2610.41097)

@@ -1,11 +1,12 @@
 ---
-title: "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/
 next_step: skim
+priority: high
+slack_ts: '1793771609.633539'
+source: Microsoft Research
+status: unread
+title: From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence
 ---
 # From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence
 > 原文: [https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/](https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/)

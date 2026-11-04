@@ -1,11 +1,12 @@
 ---
-title: "Introducing the Grid Protectors Program"
-source: "OpenAI Blog"
-link: https://openai.com/index/grid-protectors-program
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/grid-protectors-program
 next_step: skim
+priority: high
+slack_ts: '1793771610.357199'
+source: OpenAI Blog
+status: unread
+title: Introducing the Grid Protectors Program
 ---
 # Introducing the Grid Protectors Program
 > 原文: [https://openai.com/index/grid-protectors-program](https://openai.com/index/grid-protectors-program)

@@ -1,11 +1,12 @@
 ---
-title: "Build efficient agents with knowledge distillation on Amazon SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1793771609.224239'
+source: AWS Blog
+status: unread
+title: Build efficient agents with knowledge distillation on Amazon SageMaker AI
 ---
 # Build efficient agents with knowledge distillation on Amazon SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/)
