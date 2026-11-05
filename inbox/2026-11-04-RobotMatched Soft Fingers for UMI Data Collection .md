@@ -1,11 +1,13 @@
 ---
-title: "Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.03779
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03779
 next_step: skim
+priority: medium
+slack_ts: '1793859290.964849'
+source: cs.RO - Robotics
+status: unread
+title: 'Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours
+  of Pick and Place'
 ---
 # Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place
 > 原文: [https://arxiv.org/abs/2611.03779](https://arxiv.org/abs/2611.03779)

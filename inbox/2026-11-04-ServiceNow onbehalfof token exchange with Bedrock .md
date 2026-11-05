@@ -1,11 +1,12 @@
 ---
-title: "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/
 next_step: skim
+priority: high
+slack_ts: '1793859291.345629'
+source: AWS Blog
+status: unread
+title: ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway
 ---
 # ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway
 > 原文: [https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/](https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/)

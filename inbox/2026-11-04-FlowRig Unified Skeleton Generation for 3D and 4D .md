@@ -1,11 +1,12 @@
 ---
-title: "FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.03775
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03775
 next_step: skim
+priority: medium
+slack_ts: '1793859284.156119'
+source: cs.CV - Computer Vision
+status: unread
+title: 'FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching'
 ---
 # FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching
 > 原文: [https://arxiv.org/abs/2611.03775](https://arxiv.org/abs/2611.03775)

@@ -1,11 +1,13 @@
 ---
-title: "HyVox: Rethinking Low-Power Voice Intelligence towards Neuromorphic-von Neumann Edge Computing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.03735
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03735
 next_step: skim
+priority: low
+slack_ts: '1793859286.439529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'HyVox: Rethinking Low-Power Voice Intelligence towards Neuromorphic-von Neumann
+  Edge Computing'
 ---
 # HyVox: Rethinking Low-Power Voice Intelligence towards Neuromorphic-von Neumann Edge Computing
 > 原文: [https://arxiv.org/abs/2611.03735](https://arxiv.org/abs/2611.03735)

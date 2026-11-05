@@ -1,11 +1,13 @@
 ---
-title: "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.03662
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03662
 next_step: skim
+priority: high
+slack_ts: '1793859287.503889'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and
+  Dynamic Adjudication'
 ---
 # MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication
 > 原文: [https://arxiv.org/abs/2611.03662](https://arxiv.org/abs/2611.03662)

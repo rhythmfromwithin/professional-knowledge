@@ -1,0 +1,14 @@
+---
+title: "Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation"
+source: "cs.RO - Robotics"
+link: https://arxiv.org/abs/2611.05507
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation
+> 原文: [https://arxiv.org/abs/2611.05507](https://arxiv.org/abs/2611.05507)
+
+arXiv:2611.05507v1 Announce Type: new
+Abstract: Humanoid motion tracking has scaled to general policies that reproduce diverse human motion, but the resulting behavior is in free-space: the tracker knows where the body should be, not how it should interact with the environment. Other work makes the object part of the objective, yet abstracts that interaction to contact or geometry, which leaves the demanding cases under-explored. We argue that force is a natural command channel between motion imitation and object interaction, one that specifies not just where to make contact but how hard. We present Ctrl-F, a hierarchical motion-force framework that augments motion tracking with an explicit force command, a 3-D force at each designated contact body such as a hand or a foot. The hierarchical framework comprises: (1) A unified motion-force controller tracks the reference motion while applying the commanded force to the world. (2) A high-level force planner that issues a force command online based on object state and proprioception observations. In simulation and on hardware, Ctrl-F completes loco-manipulation that demands large, sustained interaction force and adjusts its command online as the load changes, both out of reach of a force-blind tracker. On hardware, Ctrl-F demonstrates hand-based dragging, pushing, and lifting, as well as foot-based kicking, successfully manipulating boxes weighing up to 20kg in pushing and kicking tasks where the force-blind baseline fails, while adapting online to additional loads introduced mid-task.

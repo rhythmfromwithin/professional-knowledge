@@ -1,0 +1,14 @@
+---
+title: "VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation"
+source: "cs.CV - Computer Vision"
+link: https://arxiv.org/abs/2611.05380
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation
+> 原文: [https://arxiv.org/abs/2611.05380](https://arxiv.org/abs/2611.05380)
+
+arXiv:2611.05380v1 Announce Type: new
+Abstract: Visual autoregressive generation spans two dominant paradigms: next-scale prediction for images and video, and next-frame prediction for video. Both decode block-by-block rather than token-by-token, yielding KV caches whose statistics diverge from those of language models. At scale, KV memory exceeds the weights and limits large-scale deployment caused by a large amount of visual tokens. Our analysis of these caches reveals three findings. First, a small set of massive-value channels carries the functional load: ablating these outlier channels collapses generation, whereas ablating a matched set of inlier channels leaves quality intact. Second, the outliers organize along two axes, feature and block, with magnitudes persistent within each cell and shifting across cells. Third, this structure arises from two independent mechanisms: projection bias and RoPE-induced scattering. Guided by these findings, we propose VAR-Q, a tuning-free KV-cache quantization framework that groups along the same two axes. The generation loop provides block boundaries for free, removing the need for outlier detection or calibration. Paired with bit-packing kernels for runtime memory reduction, VAR-Q delivers low-bit quantization across nine models spanning both paradigms, cutting KV memory by up to 78.5% with negligible quality degradation and enabling 6x larger inference batches.

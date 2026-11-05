@@ -1,11 +1,12 @@
 ---
-title: "InterceptFuzz: Interception-based Stateful Fuzzing of Single-Process Targets"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.03709
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03709
 next_step: skim
+priority: low
+slack_ts: '1793859286.761319'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'InterceptFuzz: Interception-based Stateful Fuzzing of Single-Process Targets'
 ---
 # InterceptFuzz: Interception-based Stateful Fuzzing of Single-Process Targets
 > 原文: [https://arxiv.org/abs/2611.03709](https://arxiv.org/abs/2611.03709)

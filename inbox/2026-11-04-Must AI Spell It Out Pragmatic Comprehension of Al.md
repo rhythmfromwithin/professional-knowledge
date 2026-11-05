@@ -1,11 +1,13 @@
 ---
-title: "Must AI Spell It Out? Pragmatic Comprehension of Alerts in a Time-Critical Task"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.03976
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03976
 next_step: skim
+priority: low
+slack_ts: '1793859288.106649'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Must AI Spell It Out? Pragmatic Comprehension of Alerts in a Time-Critical
+  Task
 ---
 # Must AI Spell It Out? Pragmatic Comprehension of Alerts in a Time-Critical Task
 > 原文: [https://arxiv.org/abs/2611.03976](https://arxiv.org/abs/2611.03976)

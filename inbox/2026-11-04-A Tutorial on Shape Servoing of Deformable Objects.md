@@ -1,11 +1,12 @@
 ---
-title: "A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.03825
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03825
 next_step: skim
+priority: medium
+slack_ts: '1793859279.977629'
+source: cs.RO - Robotics
+status: unread
+title: 'A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts'
 ---
 # A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts
 > 原文: [https://arxiv.org/abs/2611.03825](https://arxiv.org/abs/2611.03825)

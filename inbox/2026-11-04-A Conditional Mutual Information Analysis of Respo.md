@@ -1,11 +1,12 @@
 ---
-title: "A Conditional Mutual Information Analysis of Response Variety in Language Models"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.03836
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03836
 next_step: skim
+priority: high
+slack_ts: '1793859279.814639'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: A Conditional Mutual Information Analysis of Response Variety in Language Models
 ---
 # A Conditional Mutual Information Analysis of Response Variety in Language Models
 > 原文: [https://arxiv.org/abs/2611.03836](https://arxiv.org/abs/2611.03836)

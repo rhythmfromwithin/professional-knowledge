@@ -1,11 +1,13 @@
 ---
-title: "AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.03815
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03815
 next_step: skim
+priority: medium
+slack_ts: '1793859280.131379'
+source: cs.RO - Robotics
+status: unread
+title: 'AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld
+  Data'
 ---
 # AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data
 > 原文: [https://arxiv.org/abs/2611.03815](https://arxiv.org/abs/2611.03815)

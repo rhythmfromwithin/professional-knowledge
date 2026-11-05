@@ -1,11 +1,12 @@
 ---
-title: "Alignment Faking Depends on the Value, Not Just the Model"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.03650
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03650
 next_step: skim
+priority: high
+slack_ts: '1793859281.101439'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Alignment Faking Depends on the Value, Not Just the Model
 ---
 # Alignment Faking Depends on the Value, Not Just the Model
 > 原文: [https://arxiv.org/abs/2611.03650](https://arxiv.org/abs/2611.03650)

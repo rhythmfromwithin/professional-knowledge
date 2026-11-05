@@ -1,11 +1,12 @@
 ---
-title: "Agreements Have a Clock: Compute Growth and the Verification of AI Restraint"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.04272
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04272
 next_step: skim
+priority: low
+slack_ts: '1793859280.922299'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Agreements Have a Clock: Compute Growth and the Verification of AI Restraint'
 ---
 # Agreements Have a Clock: Compute Growth and the Verification of AI Restraint
 > 原文: [https://arxiv.org/abs/2611.04272](https://arxiv.org/abs/2611.04272)

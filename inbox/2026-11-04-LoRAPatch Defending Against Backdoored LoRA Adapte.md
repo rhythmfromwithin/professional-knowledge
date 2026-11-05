@@ -1,11 +1,12 @@
 ---
-title: "LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.03752
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03752
 next_step: skim
+priority: low
+slack_ts: '1793859287.350909'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering'
 ---
 # LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering
 > 原文: [https://arxiv.org/abs/2611.03752](https://arxiv.org/abs/2611.03752)

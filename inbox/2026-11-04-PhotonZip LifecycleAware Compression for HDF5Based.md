@@ -1,11 +1,12 @@
 ---
-title: "PhotonZip: Lifecycle-Aware Compression for HDF5-Based Synchrotron Workflows"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.04138
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04138
 next_step: skim
+priority: medium
+slack_ts: '1793859289.334859'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'PhotonZip: Lifecycle-Aware Compression for HDF5-Based Synchrotron Workflows'
 ---
 # PhotonZip: Lifecycle-Aware Compression for HDF5-Based Synchrotron Workflows
 > 原文: [https://arxiv.org/abs/2611.04138](https://arxiv.org/abs/2611.04138)

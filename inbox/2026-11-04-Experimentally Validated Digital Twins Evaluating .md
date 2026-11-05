@@ -1,11 +1,13 @@
 ---
-title: "Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.03938
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03938
 next_step: skim
+priority: low
+slack_ts: '1793859283.698529'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Experimentally Validated Digital Twins: Evaluating Workforce Training Programs
+  in the Age of Big Data'
 ---
 # Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data
 > 原文: [https://arxiv.org/abs/2611.03938](https://arxiv.org/abs/2611.03938)

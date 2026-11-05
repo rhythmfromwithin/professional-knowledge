@@ -1,11 +1,13 @@
 ---
-title: "Are We Just Applying LLMs? What SE Research Studies, Underexplores, and Could Do Next in the LLM Era"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.04206
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04206
 next_step: skim
+priority: low
+slack_ts: '1793859281.260199'
+source: cs.SE - Software Engineering
+status: unread
+title: Are We Just Applying LLMs? What SE Research Studies, Underexplores, and Could
+  Do Next in the LLM Era
 ---
 # Are We Just Applying LLMs? What SE Research Studies, Underexplores, and Could Do Next in the LLM Era
 > 原文: [https://arxiv.org/abs/2611.04206](https://arxiv.org/abs/2611.04206)

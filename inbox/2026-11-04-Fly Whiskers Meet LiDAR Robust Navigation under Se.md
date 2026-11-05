@@ -1,11 +1,12 @@
 ---
-title: "Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.03897
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03897
 next_step: skim
+priority: low
+slack_ts: '1793859284.308999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure'
 ---
 # Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure
 > 原文: [https://arxiv.org/abs/2611.03897](https://arxiv.org/abs/2611.03897)

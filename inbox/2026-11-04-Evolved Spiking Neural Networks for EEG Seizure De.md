@@ -1,11 +1,13 @@
 ---
-title: "Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.03841
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03841
 next_step: skim
+priority: low
+slack_ts: '1793859283.539299'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics
+  and Delay Mechanics'
 ---
 # Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics
 > 原文: [https://arxiv.org/abs/2611.03841](https://arxiv.org/abs/2611.03841)

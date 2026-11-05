@@ -1,11 +1,12 @@
 ---
-title: "How Andrew HunzekerHesed became Employee #1 at 10x Science"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science/
 next_step: skim
+priority: high
+slack_ts: '1793859285.661949'
+source: Y Combinator
+status: unread
+title: 'How Andrew HunzekerHesed became Employee #1 at 10x Science'
 ---
 # How Andrew HunzekerHesed became Employee #1 at 10x Science
 > 原文: [https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science/](https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science/)

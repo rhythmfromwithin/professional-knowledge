@@ -1,11 +1,12 @@
 ---
-title: "Beyond Proposals: Region-Consistent Open-Set Object Detection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.03741
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03741
 next_step: skim
+priority: medium
+slack_ts: '1793859281.720589'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Beyond Proposals: Region-Consistent Open-Set Object Detection'
 ---
 # Beyond Proposals: Region-Consistent Open-Set Object Detection
 > 原文: [https://arxiv.org/abs/2611.03741](https://arxiv.org/abs/2611.03741)

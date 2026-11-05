@@ -1,11 +1,12 @@
 ---
-title: "Navigating Runtime Dynamism in Semantic Query Serving"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.04248
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04248
 next_step: skim
+priority: low
+slack_ts: '1793859288.296009'
+source: cs.DB - Databases
+status: unread
+title: Navigating Runtime Dynamism in Semantic Query Serving
 ---
 # Navigating Runtime Dynamism in Semantic Query Serving
 > 原文: [https://arxiv.org/abs/2611.04248](https://arxiv.org/abs/2611.04248)

@@ -1,0 +1,14 @@
+---
+title: "From Admission to Retention: Predicting Durable Offspring in Quality-Diversity Search"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2611.06522
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# From Admission to Retention: Predicting Durable Offspring in Quality-Diversity Search
+> 原文: [https://arxiv.org/abs/2611.06522](https://arxiv.org/abs/2611.06522)
+
+arXiv:2611.06522v1 Announce Type: new
+Abstract: Automated failure discovery can be framed as a diversity problem: the objective is to expose distinct ways a system fails rather than a single critical adversarial case. Yet uniform parent sampling provides no way to allocate search effort toward individuals likely to produce durable archive contributions. We study this credit assignment problem in an unstructured Quality-Diversity (QD) archive, testing whether signals available before an individual has reproduced distinguish offspring that merely enter the archive from those still retained generations later. Across a planar-arm benchmark and two robotic-locomotion tasks, the same signals are often associated with entry and persistence in opposite directions. In particular, lineage depth is the clearest such signal, and its persistence discrimination grows with population capacity, which is associated with lower turnover. Biasing parent selection toward the signals with the strongest measured association to survival nevertheless does not improve search: moderate bias matches uniform sampling, and strong bias reduces QD-score.

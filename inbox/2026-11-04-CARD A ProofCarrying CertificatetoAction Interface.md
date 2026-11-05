@@ -1,11 +1,13 @@
 ---
-title: "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.03651
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03651
 next_step: skim
+priority: high
+slack_ts: '1793859282.419119'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement
+  Graphs'
 ---
 # CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs
 > 原文: [https://arxiv.org/abs/2611.03651](https://arxiv.org/abs/2611.03651)

@@ -1,11 +1,12 @@
 ---
-title: "Nonparametric GARCH: An Iterated Neural Estimator"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.04157
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04157
 next_step: skim
+priority: medium
+slack_ts: '1793859288.447679'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Nonparametric GARCH: An Iterated Neural Estimator'
 ---
 # Nonparametric GARCH: An Iterated Neural Estimator
 > 原文: [https://arxiv.org/abs/2611.04157](https://arxiv.org/abs/2611.04157)

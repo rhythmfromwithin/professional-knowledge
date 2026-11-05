@@ -1,11 +1,12 @@
 ---
-title: "INSIGHT-HPC: An Interpretable System Intelligence for Global HPC Telemetry"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.03875
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03875
 next_step: skim
+priority: medium
+slack_ts: '1793859286.614259'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'INSIGHT-HPC: An Interpretable System Intelligence for Global HPC Telemetry'
 ---
 # INSIGHT-HPC: An Interpretable System Intelligence for Global HPC Telemetry
 > 原文: [https://arxiv.org/abs/2611.03875](https://arxiv.org/abs/2611.03875)

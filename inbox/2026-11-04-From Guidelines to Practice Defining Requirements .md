@@ -1,11 +1,12 @@
 ---
-title: "From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.04271
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04271
 next_step: skim
+priority: medium
+slack_ts: '1793859284.740019'
+source: cs.CY - Computers and Society
+status: unread
+title: 'From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools'
 ---
 # From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools
 > 原文: [https://arxiv.org/abs/2611.04271](https://arxiv.org/abs/2611.04271)

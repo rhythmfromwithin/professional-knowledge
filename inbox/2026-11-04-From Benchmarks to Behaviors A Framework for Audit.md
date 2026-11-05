@@ -1,11 +1,12 @@
 ---
-title: "From Benchmarks to Behaviors: A Framework for Auditing AI Agents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.03939
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03939
 next_step: skim
+priority: low
+slack_ts: '1793859284.591919'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'From Benchmarks to Behaviors: A Framework for Auditing AI Agents'
 ---
 # From Benchmarks to Behaviors: A Framework for Auditing AI Agents
 > 原文: [https://arxiv.org/abs/2611.03939](https://arxiv.org/abs/2611.03939)

@@ -1,11 +1,12 @@
 ---
-title: "Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.03652
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03652
 next_step: skim
+priority: high
+slack_ts: '1793859287.178389'
+source: cs.LG - Machine Learning
+status: unread
+title: Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection
 ---
 # Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection
 > 原文: [https://arxiv.org/abs/2611.03652](https://arxiv.org/abs/2611.03652)

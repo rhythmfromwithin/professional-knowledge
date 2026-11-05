@@ -1,11 +1,12 @@
 ---
-title: "Agentic cheminformatics with Google Antigravity"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/
 next_step: skim
+priority: high
+slack_ts: '1793859280.762839'
+source: DeepMind Blog
+status: unread
+title: Agentic cheminformatics with Google Antigravity
 ---
 # Agentic cheminformatics with Google Antigravity
 > 原文: [https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)

@@ -1,11 +1,12 @@
 ---
-title: "A Compact Formula-Aware Spreadsheet Abstraction for Large Language Models"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.03705
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03705
 next_step: skim
+priority: low
+slack_ts: '1793859279.675489'
+source: cs.SE - Software Engineering
+status: unread
+title: A Compact Formula-Aware Spreadsheet Abstraction for Large Language Models
 ---
 # A Compact Formula-Aware Spreadsheet Abstraction for Large Language Models
 > 原文: [https://arxiv.org/abs/2611.03705](https://arxiv.org/abs/2611.03705)

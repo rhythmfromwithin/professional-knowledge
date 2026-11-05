@@ -1,11 +1,13 @@
 ---
-title: "EpiLoRA: Fusing Many LoRA Adapters into Low-Precision GEMMs for Serving and RL"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.03899
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03899
 next_step: skim
+priority: medium
+slack_ts: '1793859283.384949'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'EpiLoRA: Fusing Many LoRA Adapters into Low-Precision GEMMs for Serving and
+  RL'
 ---
 # EpiLoRA: Fusing Many LoRA Adapters into Low-Precision GEMMs for Serving and RL
 > 原文: [https://arxiv.org/abs/2611.03899](https://arxiv.org/abs/2611.03899)
