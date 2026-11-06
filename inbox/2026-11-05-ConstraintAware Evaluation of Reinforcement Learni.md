@@ -1,11 +1,13 @@
 ---
-title: "Constraint-Aware Evaluation of Reinforcement Learning and Unsupervised Anomaly Detection for Security Operations Alert Triage"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.05746
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05746
 next_step: skim
+priority: low
+slack_ts: '1793945323.274089'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Constraint-Aware Evaluation of Reinforcement Learning and Unsupervised Anomaly
+  Detection for Security Operations Alert Triage
 ---
 # Constraint-Aware Evaluation of Reinforcement Learning and Unsupervised Anomaly Detection for Security Operations Alert Triage
 > 原文: [https://arxiv.org/abs/2611.05746](https://arxiv.org/abs/2611.05746)

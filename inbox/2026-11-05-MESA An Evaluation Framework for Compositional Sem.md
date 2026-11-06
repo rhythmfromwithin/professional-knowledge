@@ -1,11 +1,13 @@
 ---
-title: "MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.05567
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05567
 next_step: skim
+priority: medium
+slack_ts: '1793945327.038669'
+source: cs.RO - Robotics
+status: unread
+title: 'MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization
+  in Robotics'
 ---
 # MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics
 > 原文: [https://arxiv.org/abs/2611.05567](https://arxiv.org/abs/2611.05567)

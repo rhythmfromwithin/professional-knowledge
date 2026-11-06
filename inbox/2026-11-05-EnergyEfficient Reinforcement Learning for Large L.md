@@ -1,11 +1,12 @@
 ---
-title: "Energy-Efficient Reinforcement Learning for Large Language Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.05748
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05748
 next_step: skim
+priority: medium
+slack_ts: '1793945324.436359'
+source: cs.DC - Distributed Computing
+status: unread
+title: Energy-Efficient Reinforcement Learning for Large Language Models
 ---
 # Energy-Efficient Reinforcement Learning for Large Language Models
 > 原文: [https://arxiv.org/abs/2611.05748](https://arxiv.org/abs/2611.05748)

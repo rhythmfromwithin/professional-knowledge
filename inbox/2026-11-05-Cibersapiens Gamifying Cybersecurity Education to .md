@@ -1,11 +1,12 @@
 ---
-title: "Cibersapiens: Gamifying Cybersecurity Education to Engage Secondary Students"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.05587
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05587
 next_step: skim
+priority: medium
+slack_ts: '1793945322.973749'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Cibersapiens: Gamifying Cybersecurity Education to Engage Secondary Students'
 ---
 # Cibersapiens: Gamifying Cybersecurity Education to Engage Secondary Students
 > 原文: [https://arxiv.org/abs/2611.05587](https://arxiv.org/abs/2611.05587)

@@ -1,11 +1,13 @@
 ---
-title: "Four Extensions of the Universal Law of Robustness: Log-Concave Covariates, Heterogeneous Mixtures, Vector-Valued Predictors, and Markovian Data"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.03653
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03653
 next_step: skim
+priority: high
+slack_ts: '1793945324.730879'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Four Extensions of the Universal Law of Robustness: Log-Concave Covariates,
+  Heterogeneous Mixtures, Vector-Valued Predictors, and Markovian Data'
 ---
 # Four Extensions of the Universal Law of Robustness: Log-Concave Covariates, Heterogeneous Mixtures, Vector-Valued Predictors, and Markovian Data
 > 原文: [https://arxiv.org/abs/2611.03653](https://arxiv.org/abs/2611.03653)

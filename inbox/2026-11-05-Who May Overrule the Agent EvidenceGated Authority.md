@@ -1,11 +1,12 @@
 ---
-title: "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.05390
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05390
 next_step: skim
+priority: high
+slack_ts: '1793945330.991259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions
 ---
 # Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions
 > 原文: [https://arxiv.org/abs/2611.05390](https://arxiv.org/abs/2611.05390)

@@ -1,11 +1,13 @@
 ---
-title: "Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.03852
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03852
 next_step: skim
+priority: high
+slack_ts: '1793945320.633379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning
+  History Compaction on Future Generation and Agent Cost
 ---
 # Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost
 > 原文: [https://arxiv.org/abs/2611.03852](https://arxiv.org/abs/2611.03852)

@@ -1,11 +1,12 @@
 ---
-title: "BobFlow: Towards Human-Agent Collaborative Data Science Using Dataflows"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.05761
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05761
 next_step: skim
+priority: low
+slack_ts: '1793945322.389229'
+source: cs.DB - Databases
+status: unread
+title: 'BobFlow: Towards Human-Agent Collaborative Data Science Using Dataflows'
 ---
 # BobFlow: Towards Human-Agent Collaborative Data Science Using Dataflows
 > 原文: [https://arxiv.org/abs/2611.05761](https://arxiv.org/abs/2611.05761)

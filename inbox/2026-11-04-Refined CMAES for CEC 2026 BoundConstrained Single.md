@@ -1,11 +1,12 @@
 ---
-title: "Refined CMA-ES for CEC 2026 Bound-Constrained Single-Objective Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.04620
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04620
 next_step: skim
+priority: low
+slack_ts: '1793945318.606869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Refined CMA-ES for CEC 2026 Bound-Constrained Single-Objective Optimization
 ---
 # Refined CMA-ES for CEC 2026 Bound-Constrained Single-Objective Optimization
 > 原文: [https://arxiv.org/abs/2611.04620](https://arxiv.org/abs/2611.04620)

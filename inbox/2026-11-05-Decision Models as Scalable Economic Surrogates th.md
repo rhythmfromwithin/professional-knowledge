@@ -1,11 +1,12 @@
 ---
-title: "Decision Models as Scalable Economic Surrogates that Capture Human Variation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.05553
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05553
 next_step: skim
+priority: low
+slack_ts: '1793945323.862959'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Decision Models as Scalable Economic Surrogates that Capture Human Variation
 ---
 # Decision Models as Scalable Economic Surrogates that Capture Human Variation
 > 原文: [https://arxiv.org/abs/2611.05553](https://arxiv.org/abs/2611.05553)

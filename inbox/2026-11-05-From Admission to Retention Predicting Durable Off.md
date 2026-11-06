@@ -1,11 +1,13 @@
 ---
-title: "From Admission to Retention: Predicting Durable Offspring in Quality-Diversity Search"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.06522
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06522
 next_step: skim
+priority: low
+slack_ts: '1793945325.041779'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'From Admission to Retention: Predicting Durable Offspring in Quality-Diversity
+  Search'
 ---
 # From Admission to Retention: Predicting Durable Offspring in Quality-Diversity Search
 > 原文: [https://arxiv.org/abs/2611.06522](https://arxiv.org/abs/2611.06522)

@@ -1,0 +1,14 @@
+---
+title: "From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2611.06940
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN
+> 原文: [https://arxiv.org/abs/2611.06940](https://arxiv.org/abs/2611.06940)
+
+arXiv:2611.06940v1 Announce Type: cross
+Abstract: The public release of the complete adult fruit-fly brain connectome enables brain-scale spiking-network studies, motivating closed-loop assessment of connection loss. We test a connectome-derived controller in synthetic pursuit-escape and check record consistency. Across 576 test episodes in paired campaigns, the baseline mapping at 50% connection-row deletion yields 11/48 proportional and 0/48 relay collisions by 1 s, despite paired P/R trigger/burst schedules. The prespecified secondary relay-minus-proportional net-loss difference is -22.9 percentage points (95% seed-cluster CI [-33.3, -12.5]). Two separately recalibrated mappings yield smaller, uncertain point estimates; unequal healthy clearance, recalibration and different test cohorts limit attribution. A frozen command-rate warning detects only 2/13 baseline collisions across all tested deletion levels. In a separate author-designed fly/delayed-tank catalogue, checks plus model-specific replay detect 81/87 corruptions versus 36/87 for trusted headers, accepting all 20 distinct valid inputs (six misses). These results quantify finite-horizon collisions and the gains and limits of record checks.

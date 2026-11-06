@@ -1,0 +1,14 @@
+---
+title: "A Unified Framework for Training-Dataset Aggregation and Exact Machine Unlearning via Gibbs Probability Measures"
+source: "stat.ML - Machine Learning (Statistics)"
+link: https://arxiv.org/abs/2611.05544
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# A Unified Framework for Training-Dataset Aggregation and Exact Machine Unlearning via Gibbs Probability Measures
+> 原文: [https://arxiv.org/abs/2611.05544](https://arxiv.org/abs/2611.05544)
+
+arXiv:2611.05544v1 Announce Type: new
+Abstract: In this paper, three operations on Gibbs probability measures are studied: renormalization, normalized log-linear combination, and nesting. The resulting measures are shown to be Gibbs probability measures with explicit expressions for their objective functions, reference measures, and regularization factors. These measures are further characterized as unique solutions to optimization problems involving linear combinations of the original objective functions, subject to either relative entropy regularization or relative entropy constraints. When the reference measures are probability measures, geometric interpretations of these three operations are established involving Pythagorean identities and exponential geodesics.A central result is the equivalence between nesting and normalized log-linear combinations of Gibbs probability measures. These results are then applied to supervised machine learning with Gibbs algorithms, which are represented by Gibbs probability measures. In this context, either through nesting or log-linear combinations, Gibbs algorithms trained on local datasets are used to form new Gibbs algorithms trained upon the aggregation of all local training datasets. Interestingly, the parameters of such operations, determine the weights of each training data point on the aggregated dataset. %Operations on local Gibbs probability measures are shown to control the contributions of training data. This observation is leveraged for achieving: (a) exact machine unlearning in centralized, decentralized, and federated learning systems; and (b) centralized-equivalent performance, in the sense of producing algorithms trained on the aggregation of all local datasets in decentralized and federated learning .

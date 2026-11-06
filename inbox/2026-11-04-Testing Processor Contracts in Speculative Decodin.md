@@ -1,11 +1,12 @@
 ---
-title: "Testing Processor Contracts in Speculative Decoding Engines"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.04042
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04042
 next_step: skim
+priority: low
+slack_ts: '1793945319.585979'
+source: cs.SE - Software Engineering
+status: unread
+title: Testing Processor Contracts in Speculative Decoding Engines
 ---
 # Testing Processor Contracts in Speculative Decoding Engines
 > 原文: [https://arxiv.org/abs/2611.04042](https://arxiv.org/abs/2611.04042)

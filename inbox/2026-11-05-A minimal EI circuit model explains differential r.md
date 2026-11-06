@@ -1,11 +1,13 @@
 ---
-title: "A minimal E/I circuit model explains differential recovery from amblyopia under TTX and reverse occlusion"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.06189
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06189
 next_step: skim
+priority: low
+slack_ts: '1793945320.928759'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: A minimal E/I circuit model explains differential recovery from amblyopia under
+  TTX and reverse occlusion
 ---
 # A minimal E/I circuit model explains differential recovery from amblyopia under TTX and reverse occlusion
 > 原文: [https://arxiv.org/abs/2611.06189](https://arxiv.org/abs/2611.06189)

@@ -1,11 +1,13 @@
 ---
-title: "Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.05130
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05130
 next_step: skim
+priority: low
+slack_ts: '1793945319.142549'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed
+  Neural Networks
 ---
 # Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks
 > 原文: [https://arxiv.org/abs/2611.05130](https://arxiv.org/abs/2611.05130)

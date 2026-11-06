@@ -1,11 +1,13 @@
 ---
-title: "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.05391
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05391
 next_step: skim
+priority: high
+slack_ts: '1793945321.659719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Agent Harness Awareness: Turning Verified Telemetry into Operational Control
+  for Tool-Using Agents'
 ---
 # Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents
 > 原文: [https://arxiv.org/abs/2611.05391](https://arxiv.org/abs/2611.05391)

@@ -1,11 +1,12 @@
 ---
-title: "Two-Layer Random ReLU Networks Can Separate Disjoint Classes"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.04211
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04211
 next_step: skim
+priority: medium
+slack_ts: '1793945320.184899'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Two-Layer Random ReLU Networks Can Separate Disjoint Classes
 ---
 # Two-Layer Random ReLU Networks Can Separate Disjoint Classes
 > 原文: [https://arxiv.org/abs/2611.04211](https://arxiv.org/abs/2611.04211)

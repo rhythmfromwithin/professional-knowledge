@@ -1,11 +1,13 @@
 ---
-title: "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/
 next_step: skim
+priority: medium
+slack_ts: '1793945322.832259'
+source: Meta Engineering
+status: unread
+title: 'Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at
+  Full Scale'
 ---
 # Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale
 > 原文: [https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/](https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/)

@@ -1,11 +1,12 @@
 ---
-title: "Text-to-SQL Models Make Choices Without Saying So"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.04318
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04318
 next_step: skim
+priority: low
+slack_ts: '1793945319.736049'
+source: cs.DB - Databases
+status: unread
+title: Text-to-SQL Models Make Choices Without Saying So
 ---
 # Text-to-SQL Models Make Choices Without Saying So
 > 原文: [https://arxiv.org/abs/2611.04318](https://arxiv.org/abs/2611.04318)

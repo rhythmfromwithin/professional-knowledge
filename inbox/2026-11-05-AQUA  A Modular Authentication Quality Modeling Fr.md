@@ -1,11 +1,12 @@
 ---
-title: "AQUA - A Modular Authentication Quality Modeling Framework"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.05660
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05660
 next_step: skim
+priority: low
+slack_ts: '1793945321.227709'
+source: cs.CR - Cryptography and Security
+status: unread
+title: AQUA - A Modular Authentication Quality Modeling Framework
 ---
 # AQUA - A Modular Authentication Quality Modeling Framework
 > 原文: [https://arxiv.org/abs/2611.05660](https://arxiv.org/abs/2611.05660)

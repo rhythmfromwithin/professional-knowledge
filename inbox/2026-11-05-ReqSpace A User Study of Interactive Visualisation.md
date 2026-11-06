@@ -1,11 +1,12 @@
 ---
-title: "Req-Space: A User Study of Interactive Visualisations for Requirements Review"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.05437
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05437
 next_step: skim
+priority: low
+slack_ts: '1793945328.955579'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Req-Space: A User Study of Interactive Visualisations for Requirements Review'
 ---
 # Req-Space: A User Study of Interactive Visualisations for Requirements Review
 > 原文: [https://arxiv.org/abs/2611.05437](https://arxiv.org/abs/2611.05437)

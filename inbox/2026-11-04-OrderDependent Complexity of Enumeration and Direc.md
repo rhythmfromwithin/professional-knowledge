@@ -1,11 +1,13 @@
 ---
-title: "Order-Dependent Complexity of Enumeration and Direct Access for Conjunctive Queries on Dynamic Data"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.04519
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04519
 next_step: skim
+priority: low
+slack_ts: '1793945316.962389'
+source: cs.DB - Databases
+status: unread
+title: Order-Dependent Complexity of Enumeration and Direct Access for Conjunctive
+  Queries on Dynamic Data
 ---
 # Order-Dependent Complexity of Enumeration and Direct Access for Conjunctive Queries on Dynamic Data
 > 原文: [https://arxiv.org/abs/2611.04519](https://arxiv.org/abs/2611.04519)

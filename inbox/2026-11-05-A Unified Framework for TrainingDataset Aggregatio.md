@@ -1,11 +1,13 @@
 ---
-title: "A Unified Framework for Training-Dataset Aggregation and Exact Machine Unlearning via Gibbs Probability Measures"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.05544
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05544
 next_step: skim
+priority: medium
+slack_ts: '1793945320.780829'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Unified Framework for Training-Dataset Aggregation and Exact Machine Unlearning
+  via Gibbs Probability Measures
 ---
 # A Unified Framework for Training-Dataset Aggregation and Exact Machine Unlearning via Gibbs Probability Measures
 > 原文: [https://arxiv.org/abs/2611.05544](https://arxiv.org/abs/2611.05544)

@@ -1,11 +1,13 @@
 ---
-title: "Point interpolation and distributional universality in flow-based generative models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.04207
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04207
 next_step: skim
+priority: medium
+slack_ts: '1793945317.888299'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Point interpolation and distributional universality in flow-based generative
+  models
 ---
 # Point interpolation and distributional universality in flow-based generative models
 > 原文: [https://arxiv.org/abs/2611.04207](https://arxiv.org/abs/2611.04207)

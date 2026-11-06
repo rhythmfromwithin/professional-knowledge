@@ -1,0 +1,18 @@
+---
+title: "TimeArch: A Multi-Agent Approach for Software Architecture Design"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2611.06921
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# TimeArch: A Multi-Agent Approach for Software Architecture Design
+> 原文: [https://arxiv.org/abs/2611.06921](https://arxiv.org/abs/2611.06921)
+
+arXiv:2611.06921v1 Announce Type: new
+Abstract: Generative AI is making software implementation faster, but not necessarily better architected. Most current GenAI coding workflows move directly from prompts to code, while the architectural reasoning that should connect requirements, quality attributes, stakeholders, design decisions, and implementation remains weakly supported. Architectural styles, system decomposition, tradeoff analysis, quality-attribute decisions, and stakeholder concerns are often left implicit or handled outside the AI-supported workflow. This creates a missing architectural layer between requirements and code, limiting traceability, validation, and governance in GenAI-enabled software development.
+This paper presents TimeArch, a multi-agent approach that makes this architectural layer explicit. TimeArch structures software architecture design as a governed lifecycle rather than a one-shot generation task. It combines agent-based reasoning with retrieval-augmented grounding to support requirement definition, architecture design, validation and assurance, and delivery and evolution. The approach supports requirement capture, architectural driver identification, design reasoning, validation, and decision documentation within a traceable process.
+We demonstrate TimeArch through a working prototype that operationalizes the proposed approach and assess its feasibility using representative software architecture design cases from multiple domains with heterogeneous inputs. As future work, we plan to conduct comprehensive industrial case studies to evaluate the adoption and use of TimeArch in both new and existing software projects.
+A TimeArch demo is available at: https://sda-assistant.com/.
+Keywords: AI-native software architecture; requirements-driven software architecture; architectural reasoning; architecture traceability; architecture validation

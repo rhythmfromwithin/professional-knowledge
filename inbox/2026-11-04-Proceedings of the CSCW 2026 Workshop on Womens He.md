@@ -1,11 +1,13 @@
 ---
-title: "Proceedings of the CSCW 2026 Workshop on Women's Health as Cooperative Work: Participatory AI Across Care, Community, and Policy"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.03776
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.03776
 next_step: skim
+priority: low
+slack_ts: '1793945318.178559'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Proceedings of the CSCW 2026 Workshop on Women''s Health as Cooperative Work:
+  Participatory AI Across Care, Community, and Policy'
 ---
 # Proceedings of the CSCW 2026 Workshop on Women's Health as Cooperative Work: Participatory AI Across Care, Community, and Policy
 > 原文: [https://arxiv.org/abs/2611.03776](https://arxiv.org/abs/2611.03776)

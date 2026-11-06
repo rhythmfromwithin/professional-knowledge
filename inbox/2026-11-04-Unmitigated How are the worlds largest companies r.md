@@ -1,11 +1,12 @@
 ---
-title: "Unmitigated? How are the world's largest companies responding to AI risks?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.04278
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04278
 next_step: skim
+priority: medium
+slack_ts: '1793945320.335989'
+source: cs.CY - Computers and Society
+status: unread
+title: Unmitigated? How are the world's largest companies responding to AI risks?
 ---
 # Unmitigated? How are the world's largest companies responding to AI risks?
 > 原文: [https://arxiv.org/abs/2611.04278](https://arxiv.org/abs/2611.04278)

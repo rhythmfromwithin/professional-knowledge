@@ -1,11 +1,12 @@
 ---
-title: "Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.05640
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05640
 next_step: skim
+priority: low
+slack_ts: '1793945324.289519'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation'
 ---
 # Economic Policy Uncertainty Index for Poland: Data, Construction, and Validation
 > 原文: [https://arxiv.org/abs/2611.05640](https://arxiv.org/abs/2611.05640)

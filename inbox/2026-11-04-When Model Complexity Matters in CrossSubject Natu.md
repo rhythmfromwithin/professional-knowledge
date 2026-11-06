@@ -1,11 +1,12 @@
 ---
-title: "When Model Complexity Matters in Cross-Subject Naturalistic fMRI Prediction"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.04041
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.04041
 next_step: skim
+priority: low
+slack_ts: '1793945320.488109'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: When Model Complexity Matters in Cross-Subject Naturalistic fMRI Prediction
 ---
 # When Model Complexity Matters in Cross-Subject Naturalistic fMRI Prediction
 > 原文: [https://arxiv.org/abs/2611.04041](https://arxiv.org/abs/2611.04041)
