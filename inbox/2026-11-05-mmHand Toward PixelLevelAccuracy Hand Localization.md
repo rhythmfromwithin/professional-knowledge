@@ -1,11 +1,13 @@
 ---
-title: "mmHand: Toward Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.05404
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05404
 next_step: skim
+priority: medium
+slack_ts: '1794029939.633359'
+source: cs.CV - Computer Vision
+status: unread
+title: 'mmHand: Toward Pixel-Level-Accuracy Hand Localization Using a Single Commodity
+  mmWave Device'
 ---
 # mmHand: Toward Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device
 > 原文: [https://arxiv.org/abs/2611.05404](https://arxiv.org/abs/2611.05404)

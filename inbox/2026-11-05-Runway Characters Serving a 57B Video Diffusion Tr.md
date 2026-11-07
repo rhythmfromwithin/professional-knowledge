@@ -1,11 +1,13 @@
 ---
-title: "Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.05642
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05642
 next_step: skim
+priority: medium
+slack_ts: '1794029938.055949'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time
+  Conversation'
 ---
 # Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation
 > 原文: [https://arxiv.org/abs/2611.05642](https://arxiv.org/abs/2611.05642)

@@ -1,11 +1,12 @@
 ---
-title: "Use decision models with Amazon Bedrock AgentCore Evaluations"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/
 next_step: skim
+priority: high
+slack_ts: '1794029939.138969'
+source: AWS Blog
+status: unread
+title: Use decision models with Amazon Bedrock AgentCore Evaluations
 ---
 # Use decision models with Amazon Bedrock AgentCore Evaluations
 > 原文: [https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/](https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/)

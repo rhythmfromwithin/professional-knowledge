@@ -1,11 +1,12 @@
 ---
-title: "How Dylan Anderson became founding engineer at Adam"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam/
 next_step: skim
+priority: high
+slack_ts: '1794029934.965069'
+source: Y Combinator
+status: unread
+title: How Dylan Anderson became founding engineer at Adam
 ---
 # How Dylan Anderson became founding engineer at Adam
 > 原文: [https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam/](https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam/)

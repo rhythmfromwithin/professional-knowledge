@@ -1,11 +1,13 @@
 ---
-title: "Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language World Model"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.05448
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05448
 next_step: skim
+priority: medium
+slack_ts: '1794029935.472849'
+source: cs.RO - Robotics
+status: unread
+title: 'Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language
+  World Model'
 ---
 # Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language World Model
 > 原文: [https://arxiv.org/abs/2611.05448](https://arxiv.org/abs/2611.05448)

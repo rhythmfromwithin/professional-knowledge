@@ -1,11 +1,13 @@
 ---
-title: "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.05382
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05382
 next_step: skim
+priority: high
+slack_ts: '1794029942.801079'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking
+  Articles'
 ---
 # DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles
 > 原文: [https://arxiv.org/abs/2611.05382](https://arxiv.org/abs/2611.05382)

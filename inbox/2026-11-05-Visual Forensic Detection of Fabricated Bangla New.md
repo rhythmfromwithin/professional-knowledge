@@ -1,11 +1,12 @@
 ---
-title: "Visual Forensic Detection of Fabricated Bangla News Photocards using Deep Learning"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.05403
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05403
 next_step: skim
+priority: medium
+slack_ts: '1794029939.365019'
+source: cs.CV - Computer Vision
+status: unread
+title: Visual Forensic Detection of Fabricated Bangla News Photocards using Deep Learning
 ---
 # Visual Forensic Detection of Fabricated Bangla News Photocards using Deep Learning
 > 原文: [https://arxiv.org/abs/2611.05403](https://arxiv.org/abs/2611.05403)

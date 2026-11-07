@@ -1,11 +1,13 @@
 ---
-title: "Pairing Expert Critique with LLM-Driven Refinement: An Iterative Approach for Curating Quality AI Evaluation Datasets"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.05749
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05749
 next_step: skim
+priority: low
+slack_ts: '1794029937.118409'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Pairing Expert Critique with LLM-Driven Refinement: An Iterative Approach
+  for Curating Quality AI Evaluation Datasets'
 ---
 # Pairing Expert Critique with LLM-Driven Refinement: An Iterative Approach for Curating Quality AI Evaluation Datasets
 > 原文: [https://arxiv.org/abs/2611.05749](https://arxiv.org/abs/2611.05749)

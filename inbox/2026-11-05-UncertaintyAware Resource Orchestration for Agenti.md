@@ -1,11 +1,12 @@
 ---
-title: "Uncertainty-Aware Resource Orchestration for Agentic AI Systems"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.05392
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05392
 next_step: skim
+priority: high
+slack_ts: '1794029939.033499'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Uncertainty-Aware Resource Orchestration for Agentic AI Systems
 ---
 # Uncertainty-Aware Resource Orchestration for Agentic AI Systems
 > 原文: [https://arxiv.org/abs/2611.05392](https://arxiv.org/abs/2611.05392)

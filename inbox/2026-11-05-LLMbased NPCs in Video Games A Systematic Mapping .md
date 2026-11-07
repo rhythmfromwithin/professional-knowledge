@@ -1,11 +1,12 @@
 ---
-title: "LLM-based NPCs in Video Games: A Systematic Mapping Study"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.05427
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05427
 next_step: skim
+priority: low
+slack_ts: '1794029935.895209'
+source: cs.SE - Software Engineering
+status: unread
+title: 'LLM-based NPCs in Video Games: A Systematic Mapping Study'
 ---
 # LLM-based NPCs in Video Games: A Systematic Mapping Study
 > 原文: [https://arxiv.org/abs/2611.05427](https://arxiv.org/abs/2611.05427)

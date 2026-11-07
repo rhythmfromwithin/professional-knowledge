@@ -1,11 +1,12 @@
 ---
-title: "Turbocharging PiPNN for Proximity and $k$-NN Graph Building"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.05690
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05690
 next_step: skim
+priority: low
+slack_ts: '1794029938.905549'
+source: cs.DB - Databases
+status: unread
+title: Turbocharging PiPNN for Proximity and $k$-NN Graph Building
 ---
 # Turbocharging PiPNN for Proximity and $k$-NN Graph Building
 > 原文: [https://arxiv.org/abs/2611.05690](https://arxiv.org/abs/2611.05690)

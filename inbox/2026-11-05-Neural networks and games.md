@@ -1,11 +1,12 @@
 ---
-title: "Neural networks and games"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.05706
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05706
 next_step: skim
+priority: low
+slack_ts: '1794029936.851399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Neural networks and games
 ---
 # Neural networks and games
 > 原文: [https://arxiv.org/abs/2611.05706](https://arxiv.org/abs/2611.05706)

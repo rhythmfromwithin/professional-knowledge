@@ -1,11 +1,13 @@
 ---
-title: "Code, Commits, and Complexity in the GenAI Era: A Longitudinal Study of Team-Based Capstone Projects"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.07297
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07297
 next_step: skim
+priority: medium
+slack_ts: '1794029942.123059'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Code, Commits, and Complexity in the GenAI Era: A Longitudinal Study of Team-Based
+  Capstone Projects'
 ---
 # Code, Commits, and Complexity in the GenAI Era: A Longitudinal Study of Team-Based Capstone Projects
 > 原文: [https://arxiv.org/abs/2611.07297](https://arxiv.org/abs/2611.07297)

@@ -1,11 +1,12 @@
 ---
-title: "Just the Facts: How Dialogues with AI Reduce Conspiracy Beliefs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.05572
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05572
 next_step: skim
+priority: low
+slack_ts: '1794029935.642299'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Just the Facts: How Dialogues with AI Reduce Conspiracy Beliefs'
 ---
 # Just the Facts: How Dialogues with AI Reduce Conspiracy Beliefs
 > 原文: [https://arxiv.org/abs/2611.05572](https://arxiv.org/abs/2611.05572)

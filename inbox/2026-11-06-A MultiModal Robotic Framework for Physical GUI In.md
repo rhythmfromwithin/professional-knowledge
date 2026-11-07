@@ -1,11 +1,12 @@
 ---
-title: "A Multi-Modal Robotic Framework for Physical GUI Interaction Testing"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.06939
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06939
 next_step: skim
+priority: low
+slack_ts: '1794029939.783849'
+source: cs.SE - Software Engineering
+status: unread
+title: A Multi-Modal Robotic Framework for Physical GUI Interaction Testing
 ---
 # A Multi-Modal Robotic Framework for Physical GUI Interaction Testing
 > 原文: [https://arxiv.org/abs/2611.06939](https://arxiv.org/abs/2611.06939)

@@ -1,11 +1,12 @@
 ---
-title: "Australian universities are creating AI-native graduates"
-source: "OpenAI Blog"
-link: https://openai.com/index/australian-universities-ai-native-graduates
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/australian-universities-ai-native-graduates
 next_step: skim
+priority: high
+slack_ts: '1794029940.803609'
+source: OpenAI Blog
+status: unread
+title: Australian universities are creating AI-native graduates
 ---
 # Australian universities are creating AI-native graduates
 > 原文: [https://openai.com/index/australian-universities-ai-native-graduates](https://openai.com/index/australian-universities-ai-native-graduates)

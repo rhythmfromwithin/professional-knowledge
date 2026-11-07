@@ -1,11 +1,12 @@
 ---
-title: "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.06977
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06977
 next_step: skim
+priority: high
+slack_ts: '1794029941.458959'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'BlockLock: Reproducible LLM Inference with Fixed Batch Geometry'
 ---
 # BlockLock: Reproducible LLM Inference with Fixed Batch Geometry
 > 原文: [https://arxiv.org/abs/2611.06977](https://arxiv.org/abs/2611.06977)

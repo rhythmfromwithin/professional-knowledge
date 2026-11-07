@@ -1,11 +1,13 @@
 ---
-title: "Optimal Marginal Mixing for Transvection-Based Trapdoored Matrices over Large Fields"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.05573
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05573
 next_step: skim
+priority: low
+slack_ts: '1794029936.970039'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Optimal Marginal Mixing for Transvection-Based Trapdoored Matrices over Large
+  Fields
 ---
 # Optimal Marginal Mixing for Transvection-Based Trapdoored Matrices over Large Fields
 > 原文: [https://arxiv.org/abs/2611.05573](https://arxiv.org/abs/2611.05573)

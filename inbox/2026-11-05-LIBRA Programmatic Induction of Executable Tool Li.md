@@ -1,11 +1,12 @@
 ---
-title: "LIBRA: Programmatic Induction of Executable Tool Libraries"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.05445
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05445
 next_step: skim
+priority: low
+slack_ts: '1794029935.764779'
+source: cs.SE - Software Engineering
+status: unread
+title: 'LIBRA: Programmatic Induction of Executable Tool Libraries'
 ---
 # LIBRA: Programmatic Induction of Executable Tool Libraries
 > 原文: [https://arxiv.org/abs/2611.05445](https://arxiv.org/abs/2611.05445)

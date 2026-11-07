@@ -1,11 +1,12 @@
 ---
-title: "Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.06418
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06418
 next_step: skim
+priority: low
+slack_ts: '1794029936.326129'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness'
 ---
 # Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness
 > 原文: [https://arxiv.org/abs/2611.06418](https://arxiv.org/abs/2611.06418)

@@ -1,11 +1,13 @@
 ---
-title: "Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.06993
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06993
 next_step: skim
+priority: medium
+slack_ts: '1794029941.068519'
+source: cs.CV - Computer Vision
+status: unread
+title: Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language
+  Models
 ---
 # Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models
 > 原文: [https://arxiv.org/abs/2611.06993](https://arxiv.org/abs/2611.06993)

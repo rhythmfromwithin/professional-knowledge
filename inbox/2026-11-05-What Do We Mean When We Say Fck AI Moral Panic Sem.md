@@ -1,11 +1,13 @@
 ---
-title: "What Do We Mean When We Say 'F*ck AI'?: Moral Panic, Semantic Indeterminacy, and the Reification of Techno-Capitalism"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.05574
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05574
 next_step: skim
+priority: medium
+slack_ts: '1794029939.482889'
+source: cs.CY - Computers and Society
+status: unread
+title: 'What Do We Mean When We Say ''F*ck AI''?: Moral Panic, Semantic Indeterminacy,
+  and the Reification of Techno-Capitalism'
 ---
 # What Do We Mean When We Say 'F*ck AI'?: Moral Panic, Semantic Indeterminacy, and the Reification of Techno-Capitalism
 > 原文: [https://arxiv.org/abs/2611.05574](https://arxiv.org/abs/2611.05574)

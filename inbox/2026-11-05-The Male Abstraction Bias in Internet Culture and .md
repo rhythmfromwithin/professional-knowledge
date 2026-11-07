@@ -1,11 +1,12 @@
 ---
-title: "The Male Abstraction Bias in Internet Culture and Large Language Models"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.05730
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05730
 next_step: skim
+priority: medium
+slack_ts: '1794029938.677649'
+source: cs.CY - Computers and Society
+status: unread
+title: The Male Abstraction Bias in Internet Culture and Large Language Models
 ---
 # The Male Abstraction Bias in Internet Culture and Large Language Models
 > 原文: [https://arxiv.org/abs/2611.05730](https://arxiv.org/abs/2611.05730)

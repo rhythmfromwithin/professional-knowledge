@@ -1,11 +1,13 @@
 ---
-title: "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.06953
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06953
 next_step: skim
+priority: high
+slack_ts: '1794029947.858569'
+source: cs.LG - Machine Learning
+status: unread
+title: 'SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with
+  Audited Generalization and Calibrated Uncertainty'
 ---
 # SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty
 > 原文: [https://arxiv.org/abs/2611.06953](https://arxiv.org/abs/2611.06953)

@@ -1,11 +1,12 @@
 ---
-title: "Smart Approvals in Amazon Quick: Human oversight where it matters"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/
 next_step: skim
+priority: high
+slack_ts: '1794029938.172999'
+source: AWS Blog
+status: unread
+title: 'Smart Approvals in Amazon Quick: Human oversight where it matters'
 ---
 # Smart Approvals in Amazon Quick: Human oversight where it matters
 > 原文: [https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)

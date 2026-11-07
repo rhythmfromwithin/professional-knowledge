@@ -1,11 +1,13 @@
 ---
-title: "Mobility-Aware Mobile Edge Computing for Energy-Balanced Data Collection in IoT-Enabled Underwater Sensor Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.06186
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06186
 next_step: skim
+priority: low
+slack_ts: '1794029936.443819'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Mobility-Aware Mobile Edge Computing for Energy-Balanced Data Collection in
+  IoT-Enabled Underwater Sensor Networks
 ---
 # Mobility-Aware Mobile Edge Computing for Energy-Balanced Data Collection in IoT-Enabled Underwater Sensor Networks
 > 原文: [https://arxiv.org/abs/2611.06186](https://arxiv.org/abs/2611.06186)

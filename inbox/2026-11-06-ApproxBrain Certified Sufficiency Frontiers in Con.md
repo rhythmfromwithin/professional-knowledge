@@ -1,11 +1,13 @@
 ---
-title: "ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.06929
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06929
 next_step: skim
+priority: low
+slack_ts: '1794029940.684149'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural
+  Systems'
 ---
 # ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems
 > 原文: [https://arxiv.org/abs/2611.06929](https://arxiv.org/abs/2611.06929)

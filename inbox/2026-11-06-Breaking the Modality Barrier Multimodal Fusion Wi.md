@@ -1,11 +1,13 @@
 ---
-title: "Breaking the Modality Barrier: Multimodal Fusion With Missing Modalities for Cybersickness Prediction"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.07386
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07386
 next_step: skim
+priority: low
+slack_ts: '1794029941.578209'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Breaking the Modality Barrier: Multimodal Fusion With Missing Modalities for
+  Cybersickness Prediction'
 ---
 # Breaking the Modality Barrier: Multimodal Fusion With Missing Modalities for Cybersickness Prediction
 > 原文: [https://arxiv.org/abs/2611.07386](https://arxiv.org/abs/2611.07386)

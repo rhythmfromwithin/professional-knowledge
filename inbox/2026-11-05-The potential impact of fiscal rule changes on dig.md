@@ -1,11 +1,12 @@
 ---
-title: "The potential impact of fiscal rule changes on digital products trade"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.05714
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05714
 next_step: skim
+priority: low
+slack_ts: '1794029938.787089'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The potential impact of fiscal rule changes on digital products trade
 ---
 # The potential impact of fiscal rule changes on digital products trade
 > 原文: [https://arxiv.org/abs/2611.05714](https://arxiv.org/abs/2611.05714)

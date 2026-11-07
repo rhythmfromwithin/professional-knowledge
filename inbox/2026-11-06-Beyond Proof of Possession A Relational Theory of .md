@@ -1,11 +1,12 @@
 ---
-title: "Beyond Proof of Possession: A Relational Theory of Authority"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.07159
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07159
 next_step: skim
+priority: low
+slack_ts: '1794029941.192259'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Beyond Proof of Possession: A Relational Theory of Authority'
 ---
 # Beyond Proof of Possession: A Relational Theory of Authority
 > 原文: [https://arxiv.org/abs/2611.07159](https://arxiv.org/abs/2611.07159)
