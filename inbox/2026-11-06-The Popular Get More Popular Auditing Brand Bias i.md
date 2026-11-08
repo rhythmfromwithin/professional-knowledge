@@ -1,11 +1,12 @@
 ---
-title: "The Popular Get More Popular: Auditing Brand Bias in Generative Search"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.07614
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07614
 next_step: skim
+priority: medium
+slack_ts: '1794116484.635399'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Popular Get More Popular: Auditing Brand Bias in Generative Search'
 ---
 # The Popular Get More Popular: Auditing Brand Bias in Generative Search
 > 原文: [https://arxiv.org/abs/2611.07614](https://arxiv.org/abs/2611.07614)

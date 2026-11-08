@@ -1,11 +1,12 @@
 ---
-title: "Discourse Analysis of Legislative Bill Discussions"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.05381
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05381
 next_step: skim
+priority: high
+slack_ts: '1794116475.425839'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Discourse Analysis of Legislative Bill Discussions
 ---
 # Discourse Analysis of Legislative Bill Discussions
 > 原文: [https://arxiv.org/abs/2611.05381](https://arxiv.org/abs/2611.05381)

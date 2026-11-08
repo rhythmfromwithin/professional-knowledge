@@ -1,11 +1,12 @@
 ---
-title: "NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.07105
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07105
 next_step: skim
+priority: medium
+slack_ts: '1794116480.760639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs'
 ---
 # NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs
 > 原文: [https://arxiv.org/abs/2611.07105](https://arxiv.org/abs/2611.07105)

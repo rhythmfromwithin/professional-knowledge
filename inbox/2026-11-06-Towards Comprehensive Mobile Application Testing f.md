@@ -1,11 +1,13 @@
 ---
-title: "Towards Comprehensive Mobile Application Testing for User-centric Feature Coverage via Simulating Real-World Users with Personas"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.06922
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06922
 next_step: skim
+priority: low
+slack_ts: '1794116485.434229'
+source: cs.SE - Software Engineering
+status: unread
+title: Towards Comprehensive Mobile Application Testing for User-centric Feature Coverage
+  via Simulating Real-World Users with Personas
 ---
 # Towards Comprehensive Mobile Application Testing for User-centric Feature Coverage via Simulating Real-World Users with Personas
 > 原文: [https://arxiv.org/abs/2611.06922](https://arxiv.org/abs/2611.06922)

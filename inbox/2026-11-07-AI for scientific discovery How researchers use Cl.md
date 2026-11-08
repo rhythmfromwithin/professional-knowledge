@@ -1,11 +1,12 @@
 ---
-title: "AI for scientific discovery: How researchers use Claude"
-source: "Anthropic"
-link: https://www.anthropic.com/research/how-researchers-use-claude
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/how-researchers-use-claude
 next_step: skim
+priority: high
+slack_ts: '1794116487.016799'
+source: Anthropic
+status: unread
+title: 'AI for scientific discovery: How researchers use Claude'
 ---
 # AI for scientific discovery: How researchers use Claude
 > 原文: [https://www.anthropic.com/research/how-researchers-use-claude](https://www.anthropic.com/research/how-researchers-use-claude)

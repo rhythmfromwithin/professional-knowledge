@@ -1,11 +1,12 @@
 ---
-title: "Generalized Hyperrectangular Prediction Sets in Multivariate Conformal Prediction"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.05543
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05543
 next_step: skim
+priority: medium
+slack_ts: '1794116477.867649'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Generalized Hyperrectangular Prediction Sets in Multivariate Conformal Prediction
 ---
 # Generalized Hyperrectangular Prediction Sets in Multivariate Conformal Prediction
 > 原文: [https://arxiv.org/abs/2611.05543](https://arxiv.org/abs/2611.05543)

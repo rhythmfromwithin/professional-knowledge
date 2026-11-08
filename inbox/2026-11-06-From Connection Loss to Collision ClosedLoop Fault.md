@@ -1,11 +1,13 @@
 ---
-title: "From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.06940
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06940
 next_step: skim
+priority: low
+slack_ts: '1794116476.874079'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome
+  SNN'
 ---
 # From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN
 > 原文: [https://arxiv.org/abs/2611.06940](https://arxiv.org/abs/2611.06940)

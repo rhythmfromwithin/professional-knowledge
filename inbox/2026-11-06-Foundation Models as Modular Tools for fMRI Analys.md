@@ -1,11 +1,12 @@
 ---
-title: "Foundation Models as Modular Tools for fMRI Analysis"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.06926
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06926
 next_step: skim
+priority: low
+slack_ts: '1794116476.638039'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Foundation Models as Modular Tools for fMRI Analysis
 ---
 # Foundation Models as Modular Tools for fMRI Analysis
 > 原文: [https://arxiv.org/abs/2611.06926](https://arxiv.org/abs/2611.06926)

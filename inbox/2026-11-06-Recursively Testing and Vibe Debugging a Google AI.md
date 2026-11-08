@@ -1,11 +1,13 @@
 ---
-title: "Recursively Testing and Vibe Debugging a Google AI Studio Generated Vibe-Coded Database Software Application"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.06952
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06952
 next_step: skim
+priority: low
+slack_ts: '1794116482.961159'
+source: cs.DB - Databases
+status: unread
+title: Recursively Testing and Vibe Debugging a Google AI Studio Generated Vibe-Coded
+  Database Software Application
 ---
 # Recursively Testing and Vibe Debugging a Google AI Studio Generated Vibe-Coded Database Software Application
 > 原文: [https://arxiv.org/abs/2611.06952](https://arxiv.org/abs/2611.06952)

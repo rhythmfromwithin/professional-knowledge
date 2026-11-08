@@ -1,11 +1,12 @@
 ---
-title: "Curvature by Design: A Support Structure for Continuum Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.07091
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07091
 next_step: skim
+priority: medium
+slack_ts: '1794116474.615049'
+source: cs.RO - Robotics
+status: unread
+title: 'Curvature by Design: A Support Structure for Continuum Robots'
 ---
 # Curvature by Design: A Support Structure for Continuum Robots
 > 原文: [https://arxiv.org/abs/2611.07091](https://arxiv.org/abs/2611.07091)

@@ -1,11 +1,13 @@
 ---
-title: "Full Provenance on the COSS Causal Axis: An Event-Level Closure of Causal Attribution and Confused-Deputy Exclusion"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.07164
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07164
 next_step: skim
+priority: low
+slack_ts: '1794116477.369679'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Full Provenance on the COSS Causal Axis: An Event-Level Closure of Causal
+  Attribution and Confused-Deputy Exclusion'
 ---
 # Full Provenance on the COSS Causal Axis: An Event-Level Closure of Causal Attribution and Confused-Deputy Exclusion
 > 原文: [https://arxiv.org/abs/2611.07164](https://arxiv.org/abs/2611.07164)

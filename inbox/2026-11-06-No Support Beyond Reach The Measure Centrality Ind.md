@@ -1,11 +1,13 @@
 ---
-title: "No Support Beyond Reach: The Measure Centrality Index 2.0 and Adversarial Comparisons of Consciousness Theories"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.06925
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06925
 next_step: skim
+priority: low
+slack_ts: '1794116481.276199'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'No Support Beyond Reach: The Measure Centrality Index 2.0 and Adversarial
+  Comparisons of Consciousness Theories'
 ---
 # No Support Beyond Reach: The Measure Centrality Index 2.0 and Adversarial Comparisons of Consciousness Theories
 > 原文: [https://arxiv.org/abs/2611.06925](https://arxiv.org/abs/2611.06925)

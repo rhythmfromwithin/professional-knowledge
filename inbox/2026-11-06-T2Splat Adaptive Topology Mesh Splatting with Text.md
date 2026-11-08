@@ -1,11 +1,12 @@
 ---
-title: "T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.06974
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06974
 next_step: skim
+priority: medium
+slack_ts: '1794116484.391739'
+source: cs.CV - Computer Vision
+status: unread
+title: 'T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals'
 ---
 # T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals
 > 原文: [https://arxiv.org/abs/2611.06974](https://arxiv.org/abs/2611.06974)

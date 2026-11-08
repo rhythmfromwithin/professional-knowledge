@@ -1,11 +1,13 @@
 ---
-title: "Digital Security Under Compound Threats: Surveillance, Threat Reasoning, and Habituation Among North Korean Defectors in China"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.07576
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07576
 next_step: skim
+priority: medium
+slack_ts: '1794116475.183289'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Digital Security Under Compound Threats: Surveillance, Threat Reasoning, and
+  Habituation Among North Korean Defectors in China'
 ---
 # Digital Security Under Compound Threats: Surveillance, Threat Reasoning, and Habituation Among North Korean Defectors in China
 > 原文: [https://arxiv.org/abs/2611.07576](https://arxiv.org/abs/2611.07576)

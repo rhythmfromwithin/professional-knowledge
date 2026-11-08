@@ -1,11 +1,12 @@
 ---
-title: "Investigating vault particles with Claude"
-source: "Anthropic"
-link: https://www.anthropic.com/research/investigating-vault-particles-with-claude
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/investigating-vault-particles-with-claude
 next_step: skim
+priority: high
+slack_ts: '1794116480.049419'
+source: Anthropic
+status: unread
+title: Investigating vault particles with Claude
 ---
 # Investigating vault particles with Claude
 > 原文: [https://www.anthropic.com/research/investigating-vault-particles-with-claude](https://www.anthropic.com/research/investigating-vault-particles-with-claude)

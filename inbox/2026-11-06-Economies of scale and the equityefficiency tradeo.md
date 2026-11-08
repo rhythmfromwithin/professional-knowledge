@@ -1,11 +1,13 @@
 ---
-title: "Economies of scale and the equity-efficiency trade-off: Evidence from a piped water network in rural Bangladesh"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.08031
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08031
 next_step: skim
+priority: low
+slack_ts: '1794116475.669499'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Economies of scale and the equity-efficiency trade-off: Evidence from a piped
+  water network in rural Bangladesh'
 ---
 # Economies of scale and the equity-efficiency trade-off: Evidence from a piped water network in rural Bangladesh
 > 原文: [https://arxiv.org/abs/2611.08031](https://arxiv.org/abs/2611.08031)

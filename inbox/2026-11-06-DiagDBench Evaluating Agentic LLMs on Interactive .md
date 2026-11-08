@@ -1,11 +1,13 @@
 ---
-title: "DiagDBench: Evaluating Agentic LLMs on Interactive Database Diagnosis and Anomaly Remediation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.07339
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07339
 next_step: skim
+priority: low
+slack_ts: '1794116474.943279'
+source: cs.DB - Databases
+status: unread
+title: 'DiagDBench: Evaluating Agentic LLMs on Interactive Database Diagnosis and
+  Anomaly Remediation'
 ---
 # DiagDBench: Evaluating Agentic LLMs on Interactive Database Diagnosis and Anomaly Remediation
 > 原文: [https://arxiv.org/abs/2611.07339](https://arxiv.org/abs/2611.07339)

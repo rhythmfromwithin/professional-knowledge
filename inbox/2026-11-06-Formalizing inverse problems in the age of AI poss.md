@@ -1,11 +1,13 @@
 ---
-title: "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.06962
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06962
 next_step: skim
+priority: high
+slack_ts: '1794116476.148789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Formalizing inverse problems in the age of AI: possibilities, pitfalls, and
+  an invitation'
 ---
 # Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation
 > 原文: [https://arxiv.org/abs/2611.06962](https://arxiv.org/abs/2611.06962)

@@ -1,11 +1,13 @@
 ---
-title: "Cross-Border Ownership and Input Access: Evidence from the Lithium Supply Chain"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.08430
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08430
 next_step: skim
+priority: low
+slack_ts: '1794116474.106439'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Cross-Border Ownership and Input Access: Evidence from the Lithium Supply
+  Chain'
 ---
 # Cross-Border Ownership and Input Access: Evidence from the Lithium Supply Chain
 > 原文: [https://arxiv.org/abs/2611.08430](https://arxiv.org/abs/2611.08430)

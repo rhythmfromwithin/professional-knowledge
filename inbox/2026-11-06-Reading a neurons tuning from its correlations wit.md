@@ -1,11 +1,12 @@
 ---
-title: "Reading a neuron's tuning from its correlations with other neurons"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.06927
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06927
 next_step: skim
+priority: low
+slack_ts: '1794116482.721279'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Reading a neuron's tuning from its correlations with other neurons
 ---
 # Reading a neuron's tuning from its correlations with other neurons
 > 原文: [https://arxiv.org/abs/2611.06927](https://arxiv.org/abs/2611.06927)

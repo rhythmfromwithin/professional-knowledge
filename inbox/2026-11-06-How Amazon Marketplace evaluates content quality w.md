@@ -1,11 +1,12 @@
 ---
-title: "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/
 next_step: skim
+priority: high
+slack_ts: '1794116478.592579'
+source: AWS Blog
+status: unread
+title: How Amazon Marketplace evaluates content quality with Amazon SageMaker AI
 ---
 # How Amazon Marketplace evaluates content quality with Amazon SageMaker AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/](https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/)

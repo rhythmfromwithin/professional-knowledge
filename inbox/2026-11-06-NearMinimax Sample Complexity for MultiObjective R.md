@@ -1,11 +1,13 @@
 ---
-title: "Near-Minimax Sample Complexity for Multi-Objective Reinforcement Learning under Generative Models"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.05562
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.05562
 next_step: skim
+priority: medium
+slack_ts: '1794116481.007149'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Near-Minimax Sample Complexity for Multi-Objective Reinforcement Learning under
+  Generative Models
 ---
 # Near-Minimax Sample Complexity for Multi-Objective Reinforcement Learning under Generative Models
 > 原文: [https://arxiv.org/abs/2611.05562](https://arxiv.org/abs/2611.05562)

@@ -1,11 +1,12 @@
 ---
-title: "Selective Retrieval Routing for Multi-Violation Knowledge Graph Repair"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.07342
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07342
 next_step: skim
+priority: low
+slack_ts: '1794116483.441639'
+source: cs.DB - Databases
+status: unread
+title: Selective Retrieval Routing for Multi-Violation Knowledge Graph Repair
 ---
 # Selective Retrieval Routing for Multi-Violation Knowledge Graph Repair
 > 原文: [https://arxiv.org/abs/2611.07342](https://arxiv.org/abs/2611.07342)

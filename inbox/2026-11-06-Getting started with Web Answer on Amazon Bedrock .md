@@ -1,11 +1,12 @@
 ---
-title: "Getting started with Web Answer on Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1794116478.109969'
+source: AWS Blog
+status: unread
+title: Getting started with Web Answer on Amazon Bedrock AgentCore
 ---
 # Getting started with Web Answer on Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)

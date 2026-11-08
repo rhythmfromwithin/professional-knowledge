@@ -1,11 +1,12 @@
 ---
-title: "Stay, Reposition, or Recharge: Battery-Aware Operation of Robotaxi Fleets"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.07699
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07699
 next_step: skim
+priority: low
+slack_ts: '1794116484.161659'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Stay, Reposition, or Recharge: Battery-Aware Operation of Robotaxi Fleets'
 ---
 # Stay, Reposition, or Recharge: Battery-Aware Operation of Robotaxi Fleets
 > 原文: [https://arxiv.org/abs/2611.07699](https://arxiv.org/abs/2611.07699)

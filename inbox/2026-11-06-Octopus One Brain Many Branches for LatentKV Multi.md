@@ -1,11 +1,13 @@
 ---
-title: "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.06956
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06956
 next_step: skim
+priority: high
+slack_ts: '1794116481.511229'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement
+  Learning'
 ---
 # Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2611.06956](https://arxiv.org/abs/2611.06956)

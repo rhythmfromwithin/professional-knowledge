@@ -1,11 +1,12 @@
 ---
-title: "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/
 next_step: skim
+priority: high
+slack_ts: '1794116494.610009'
+source: AWS Blog
+status: unread
+title: Serverless MCP server for AI agent data lake access on Amazon ECS Fargate
 ---
 # Serverless MCP server for AI agent data lake access on Amazon ECS Fargate
 > 原文: [https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)

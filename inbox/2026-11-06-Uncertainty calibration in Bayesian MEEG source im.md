@@ -1,11 +1,12 @@
 ---
-title: "Uncertainty calibration in Bayesian M/EEG source imaging"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.06979
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06979
 next_step: skim
+priority: high
+slack_ts: '1794116485.922339'
+source: cs.LG - Machine Learning
+status: unread
+title: Uncertainty calibration in Bayesian M/EEG source imaging
 ---
 # Uncertainty calibration in Bayesian M/EEG source imaging
 > 原文: [https://arxiv.org/abs/2611.06979](https://arxiv.org/abs/2611.06979)

@@ -1,11 +1,12 @@
 ---
-title: "Global Surveillance Under the Lens: Reconstructing Passive Dolev-Yao Intruders"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.07170
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07170
 next_step: skim
+priority: low
+slack_ts: '1794116478.351829'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Global Surveillance Under the Lens: Reconstructing Passive Dolev-Yao Intruders'
 ---
 # Global Surveillance Under the Lens: Reconstructing Passive Dolev-Yao Intruders
 > 原文: [https://arxiv.org/abs/2611.07170](https://arxiv.org/abs/2611.07170)

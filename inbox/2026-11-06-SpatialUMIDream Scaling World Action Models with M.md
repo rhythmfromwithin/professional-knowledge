@@ -1,11 +1,13 @@
 ---
-title: "Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.07229
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07229
 next_step: skim
+priority: medium
+slack_ts: '1794116483.680589'
+source: cs.RO - Robotics
+status: unread
+title: 'Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI
+  Manipulation'
 ---
 # Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation
 > 原文: [https://arxiv.org/abs/2611.07229](https://arxiv.org/abs/2611.07229)

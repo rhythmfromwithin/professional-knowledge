@@ -1,11 +1,12 @@
 ---
-title: "TraCE: Trajectory-Aware Concepts for Explainable Video Understanding"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.07009
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.07009
 next_step: skim
+priority: medium
+slack_ts: '1794116485.672539'
+source: cs.CV - Computer Vision
+status: unread
+title: 'TraCE: Trajectory-Aware Concepts for Explainable Video Understanding'
 ---
 # TraCE: Trajectory-Aware Concepts for Explainable Video Understanding
 > 原文: [https://arxiv.org/abs/2611.07009](https://arxiv.org/abs/2611.07009)

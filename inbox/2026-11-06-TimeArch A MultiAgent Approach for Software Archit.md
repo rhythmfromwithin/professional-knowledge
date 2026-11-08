@@ -1,11 +1,12 @@
 ---
-title: "TimeArch: A Multi-Agent Approach for Software Architecture Design"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.06921
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.06921
 next_step: skim
+priority: low
+slack_ts: '1794116485.204379'
+source: cs.SE - Software Engineering
+status: unread
+title: 'TimeArch: A Multi-Agent Approach for Software Architecture Design'
 ---
 # TimeArch: A Multi-Agent Approach for Software Architecture Design
 > 原文: [https://arxiv.org/abs/2611.06921](https://arxiv.org/abs/2611.06921)
