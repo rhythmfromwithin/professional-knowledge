@@ -1,11 +1,12 @@
 ---
-title: "Formally verifying agent-written full-stack web apps with PDD Kit"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/
 next_step: skim
+priority: high
+slack_ts: '1794203463.428659'
+source: Microsoft Research
+status: unread
+title: Formally verifying agent-written full-stack web apps with PDD Kit
 ---
 # Formally verifying agent-written full-stack web apps with PDD Kit
 > 原文: [https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/](https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/)

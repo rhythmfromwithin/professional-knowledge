@@ -1,11 +1,12 @@
 ---
-title: "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
 next_step: skim
+priority: high
+slack_ts: '1794203463.634419'
+source: Google AI Blog
+status: unread
+title: 'Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips'
 ---
 # Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips
 > 原文: [https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)

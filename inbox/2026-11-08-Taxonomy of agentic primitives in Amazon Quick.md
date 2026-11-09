@@ -1,11 +1,12 @@
 ---
-title: "Taxonomy of agentic primitives in Amazon Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/
 next_step: skim
+priority: high
+slack_ts: '1794203471.951359'
+source: AWS Blog
+status: unread
+title: Taxonomy of agentic primitives in Amazon Quick
 ---
 # Taxonomy of agentic primitives in Amazon Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)
