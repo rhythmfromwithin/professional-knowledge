@@ -1,11 +1,12 @@
 ---
-title: "NormGym: Evaluating Normative Competence through Social Interaction"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.08613
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08613
 next_step: skim
+priority: high
+slack_ts: '1794293800.929959'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'NormGym: Evaluating Normative Competence through Social Interaction'
 ---
 # NormGym: Evaluating Normative Competence through Social Interaction
 > 原文: [https://arxiv.org/abs/2611.08613](https://arxiv.org/abs/2611.08613)

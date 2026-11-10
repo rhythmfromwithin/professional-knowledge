@@ -1,11 +1,12 @@
 ---
-title: "Rethinking Data Selection as Distribution Matching on Semantic Manifolds"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.08495
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08495
 next_step: skim
+priority: high
+slack_ts: '1794293803.497059'
+source: cs.LG - Machine Learning
+status: unread
+title: Rethinking Data Selection as Distribution Matching on Semantic Manifolds
 ---
 # Rethinking Data Selection as Distribution Matching on Semantic Manifolds
 > 原文: [https://arxiv.org/abs/2611.08495](https://arxiv.org/abs/2611.08495)

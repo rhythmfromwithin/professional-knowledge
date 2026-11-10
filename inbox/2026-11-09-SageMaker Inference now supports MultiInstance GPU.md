@@ -1,11 +1,13 @@
 ---
-title: "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/
 next_step: skim
+priority: high
+slack_ts: '1794293803.918589'
+source: AWS Blog
+status: unread
+title: SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization
+  for model endpoints
 ---
 # SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints
 > 原文: [https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)

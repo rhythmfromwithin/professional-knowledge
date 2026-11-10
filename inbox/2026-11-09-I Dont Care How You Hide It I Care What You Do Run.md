@@ -1,11 +1,13 @@
 ---
-title: "I Don't Care How You Hide It, I Care What You Do: Runtime Detection of Malicious ML Models"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.08745
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08745
 next_step: skim
+priority: low
+slack_ts: '1794293798.009809'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'I Don''t Care How You Hide It, I Care What You Do: Runtime Detection of Malicious
+  ML Models'
 ---
 # I Don't Care How You Hide It, I Care What You Do: Runtime Detection of Malicious ML Models
 > 原文: [https://arxiv.org/abs/2611.08745](https://arxiv.org/abs/2611.08745)

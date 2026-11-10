@@ -1,11 +1,13 @@
 ---
-title: "OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential Evolution"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.09167
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.09167
 next_step: skim
+priority: low
+slack_ts: '1794293801.168969'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential
+  Evolution'
 ---
 # OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential Evolution
 > 原文: [https://arxiv.org/abs/2611.09167](https://arxiv.org/abs/2611.09167)

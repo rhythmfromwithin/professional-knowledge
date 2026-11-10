@@ -1,11 +1,12 @@
 ---
-title: "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.08626
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08626
 next_step: skim
+priority: high
+slack_ts: '1794293799.055299'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: LLM-Based Feature Extraction for Multi-Criteria Inventory Classification
 ---
 # LLM-Based Feature Extraction for Multi-Criteria Inventory Classification
 > 原文: [https://arxiv.org/abs/2611.08626](https://arxiv.org/abs/2611.08626)

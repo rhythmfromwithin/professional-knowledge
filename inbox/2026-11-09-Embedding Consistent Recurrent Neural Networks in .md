@@ -1,11 +1,13 @@
 ---
-title: "Embedding Consistent Recurrent Neural Networks in Finite Element Simulations for Path-Dependent Damage Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.08494
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08494
 next_step: skim
+priority: high
+slack_ts: '1794293794.726859'
+source: cs.LG - Machine Learning
+status: unread
+title: Embedding Consistent Recurrent Neural Networks in Finite Element Simulations
+  for Path-Dependent Damage Prediction
 ---
 # Embedding Consistent Recurrent Neural Networks in Finite Element Simulations for Path-Dependent Damage Prediction
 > 原文: [https://arxiv.org/abs/2611.08494](https://arxiv.org/abs/2611.08494)

@@ -1,11 +1,13 @@
 ---
-title: "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.08660
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08660
 next_step: skim
+priority: medium
+slack_ts: '1794293791.651899'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production
+  Training'
 ---
 # AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training
 > 原文: [https://arxiv.org/abs/2611.08660](https://arxiv.org/abs/2611.08660)

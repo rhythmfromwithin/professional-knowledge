@@ -1,11 +1,12 @@
 ---
-title: "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.08639
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08639
 next_step: skim
+priority: high
+slack_ts: '1794293795.805359'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP'
 ---
 # Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP
 > 原文: [https://arxiv.org/abs/2611.08639](https://arxiv.org/abs/2611.08639)

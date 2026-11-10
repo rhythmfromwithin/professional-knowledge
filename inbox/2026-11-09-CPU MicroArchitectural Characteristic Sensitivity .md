@@ -1,11 +1,13 @@
 ---
-title: "CPU Micro-Architectural Characteristic Sensitivity Study on CPU-Side Agentic Task Latency"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.08697
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08697
 next_step: skim
+priority: medium
+slack_ts: '1794293792.760109'
+source: cs.DC - Distributed Computing
+status: unread
+title: CPU Micro-Architectural Characteristic Sensitivity Study on CPU-Side Agentic
+  Task Latency
 ---
 # CPU Micro-Architectural Characteristic Sensitivity Study on CPU-Side Agentic Task Latency
 > 原文: [https://arxiv.org/abs/2611.08697](https://arxiv.org/abs/2611.08697)

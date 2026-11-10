@@ -1,11 +1,12 @@
 ---
-title: "MongoBench: Do LLMs Know What a MongoDB Query Will Do?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.09065
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.09065
 next_step: skim
+priority: low
+slack_ts: '1794293800.358899'
+source: cs.SE - Software Engineering
+status: unread
+title: 'MongoBench: Do LLMs Know What a MongoDB Query Will Do?'
 ---
 # MongoBench: Do LLMs Know What a MongoDB Query Will Do?
 > 原文: [https://arxiv.org/abs/2611.09065](https://arxiv.org/abs/2611.09065)

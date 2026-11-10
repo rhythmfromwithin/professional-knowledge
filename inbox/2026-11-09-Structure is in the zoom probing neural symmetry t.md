@@ -1,11 +1,12 @@
 ---
-title: "Structure is in the zoom: probing neural symmetry through dimensionality scaling"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.08506
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08506
 next_step: skim
+priority: low
+slack_ts: '1794293804.995999'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Structure is in the zoom: probing neural symmetry through dimensionality scaling'
 ---
 # Structure is in the zoom: probing neural symmetry through dimensionality scaling
 > 原文: [https://arxiv.org/abs/2611.08506](https://arxiv.org/abs/2611.08506)

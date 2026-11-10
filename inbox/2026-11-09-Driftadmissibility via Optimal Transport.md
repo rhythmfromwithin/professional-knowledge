@@ -1,11 +1,12 @@
 ---
-title: "Drift-admissibility via Optimal Transport"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.08505
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08505
 next_step: skim
+priority: medium
+slack_ts: '1794293794.296209'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Drift-admissibility via Optimal Transport
 ---
 # Drift-admissibility via Optimal Transport
 > 原文: [https://arxiv.org/abs/2611.08505](https://arxiv.org/abs/2611.08505)

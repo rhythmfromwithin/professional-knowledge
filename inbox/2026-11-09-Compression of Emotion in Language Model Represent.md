@@ -1,11 +1,12 @@
 ---
-title: "Compression of Emotion in Language Model Representations"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.08683
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08683
 next_step: skim
+priority: high
+slack_ts: '1794293793.441769'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Compression of Emotion in Language Model Representations
 ---
 # Compression of Emotion in Language Model Representations
 > 原文: [https://arxiv.org/abs/2611.08683](https://arxiv.org/abs/2611.08683)

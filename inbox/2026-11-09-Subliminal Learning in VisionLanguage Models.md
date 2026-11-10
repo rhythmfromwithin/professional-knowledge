@@ -1,11 +1,12 @@
 ---
-title: "Subliminal Learning in Vision-Language Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.08538
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08538
 next_step: skim
+priority: medium
+slack_ts: '1794293805.218029'
+source: cs.CV - Computer Vision
+status: unread
+title: Subliminal Learning in Vision-Language Models
 ---
 # Subliminal Learning in Vision-Language Models
 > 原文: [https://arxiv.org/abs/2611.08538](https://arxiv.org/abs/2611.08538)

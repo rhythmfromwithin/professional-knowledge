@@ -1,11 +1,12 @@
 ---
-title: "Further Education During Unemployment"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2312.17123
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2312.17123
 next_step: skim
+priority: low
+slack_ts: '1794293796.453049'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Further Education During Unemployment
 ---
 # Further Education During Unemployment
 > 原文: [https://arxiv.org/abs/2312.17123](https://arxiv.org/abs/2312.17123)

@@ -1,11 +1,13 @@
 ---
-title: "LLM-Augmented Flow for Project Conformation and Task Complexity Evaluation Based on the TLM Framework"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.08931
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08931
 next_step: skim
+priority: low
+slack_ts: '1794293798.846099'
+source: cs.SE - Software Engineering
+status: unread
+title: LLM-Augmented Flow for Project Conformation and Task Complexity Evaluation
+  Based on the TLM Framework
 ---
 # LLM-Augmented Flow for Project Conformation and Task Complexity Evaluation Based on the TLM Framework
 > 原文: [https://arxiv.org/abs/2611.08931](https://arxiv.org/abs/2611.08931)

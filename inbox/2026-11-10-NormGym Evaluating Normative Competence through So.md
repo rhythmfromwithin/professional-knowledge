@@ -1,0 +1,14 @@
+---
+title: "NormGym: Evaluating Normative Competence through Social Interaction"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2611.08613
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# NormGym: Evaluating Normative Competence through Social Interaction
+> 原文: [https://arxiv.org/abs/2611.08613](https://arxiv.org/abs/2611.08613)
+
+arXiv:2611.08613v1 Announce Type: new
+Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms they may already know, rather than whether they can acquire previously unknown norms from social interaction. We introduce NormGym, an interactive benchmark for normative competence in which a newcomer must infer a hidden, arbitrary norm while pursuing its own task in a multi-agent community. Success requires distinguishing what is possible from what is permitted, inferring the norm from observed behavior and sanctions, and applying it in new situations. NormGym contains diverse norms and distinct environments, allowing systematic evaluation of current agents, including large language model (LLM) agents. We find that normative competence remains challenging: the strongest evaluated LLM achieves a joint task-and-compliance success rate of 55.3%. Our analysis reveals that models can sometimes revise their behavior following sanctions for their own actions, but struggle to use other agents' behavior and the sanctions they receive to infer the underlying norm. We further find that fine-tuning models may be insufficient to improve normative competence. These results suggest that current models lack a robust, transferable capability for acquiring normative knowledge through social interaction.

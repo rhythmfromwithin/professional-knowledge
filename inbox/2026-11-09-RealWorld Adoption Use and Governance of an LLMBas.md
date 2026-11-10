@@ -1,11 +1,13 @@
 ---
-title: "Real-World Adoption, Use, and Governance of an LLM-Based Electronic Health Record Search and Synthesis Platform"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.08672
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08672
 next_step: skim
+priority: medium
+slack_ts: '1794293802.874739'
+source: cs.CY - Computers and Society
+status: unread
+title: Real-World Adoption, Use, and Governance of an LLM-Based Electronic Health
+  Record Search and Synthesis Platform
 ---
 # Real-World Adoption, Use, and Governance of an LLM-Based Electronic Health Record Search and Synthesis Platform
 > 原文: [https://arxiv.org/abs/2611.08672](https://arxiv.org/abs/2611.08672)

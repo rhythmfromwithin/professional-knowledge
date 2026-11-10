@@ -1,11 +1,13 @@
 ---
-title: "Seeing Is Not Knowing: The Epistemic Limits of LLM-Based Mental Health Inference from Youth Social Media Conversations"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.08565
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08565
 next_step: skim
+priority: low
+slack_ts: '1794293804.336509'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Seeing Is Not Knowing: The Epistemic Limits of LLM-Based Mental Health Inference
+  from Youth Social Media Conversations'
 ---
 # Seeing Is Not Knowing: The Epistemic Limits of LLM-Based Mental Health Inference from Youth Social Media Conversations
 > 原文: [https://arxiv.org/abs/2611.08565](https://arxiv.org/abs/2611.08565)

@@ -1,11 +1,13 @@
 ---
-title: "Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational Agents"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.08504
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08504
 next_step: skim
+priority: low
+slack_ts: '1794293803.080049'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational
+  Agents'
 ---
 # Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational Agents
 > 原文: [https://arxiv.org/abs/2611.08504](https://arxiv.org/abs/2611.08504)

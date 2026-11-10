@@ -1,11 +1,12 @@
 ---
-title: "Sanctions, Evasion, and Deterrence: Evidence from Speeding Enforcement"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.09337
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.09337
 next_step: skim
+priority: low
+slack_ts: '1794293804.126749'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Sanctions, Evasion, and Deterrence: Evidence from Speeding Enforcement'
 ---
 # Sanctions, Evasion, and Deterrence: Evidence from Speeding Enforcement
 > 原文: [https://arxiv.org/abs/2611.09337](https://arxiv.org/abs/2611.09337)

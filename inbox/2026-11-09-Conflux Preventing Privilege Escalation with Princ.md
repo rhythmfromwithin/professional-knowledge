@@ -1,11 +1,13 @@
 ---
-title: "Conflux: Preventing Privilege Escalation with Principal Contexts and System-Level Evaluation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.08768
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08768
 next_step: skim
+priority: low
+slack_ts: '1794293793.858199'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Conflux: Preventing Privilege Escalation with Principal Contexts and System-Level
+  Evaluation'
 ---
 # Conflux: Preventing Privilege Escalation with Principal Contexts and System-Level Evaluation
 > 原文: [https://arxiv.org/abs/2611.08768](https://arxiv.org/abs/2611.08768)

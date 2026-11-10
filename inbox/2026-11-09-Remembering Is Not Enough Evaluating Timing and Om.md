@@ -1,11 +1,13 @@
 ---
-title: "Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.08721
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08721
 next_step: skim
+priority: medium
+slack_ts: '1794293803.289509'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal
+  AI Mental Health Support'
 ---
 # Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support
 > 原文: [https://arxiv.org/abs/2611.08721](https://arxiv.org/abs/2611.08721)

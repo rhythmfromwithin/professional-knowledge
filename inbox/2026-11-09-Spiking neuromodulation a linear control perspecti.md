@@ -1,11 +1,12 @@
 ---
-title: "Spiking neuromodulation: a linear control perspective"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.08571
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08571
 next_step: skim
+priority: low
+slack_ts: '1794293804.775909'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Spiking neuromodulation: a linear control perspective'
 ---
 # Spiking neuromodulation: a linear control perspective
 > 原文: [https://arxiv.org/abs/2611.08571](https://arxiv.org/abs/2611.08571)

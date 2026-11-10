@@ -1,11 +1,12 @@
 ---
-title: "DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.08933
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08933
 next_step: skim
+priority: low
+slack_ts: '1794293794.071039'
+source: cs.SE - Software Engineering
+status: unread
+title: 'DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle'
 ---
 # DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle
 > 原文: [https://arxiv.org/abs/2611.08933](https://arxiv.org/abs/2611.08933)

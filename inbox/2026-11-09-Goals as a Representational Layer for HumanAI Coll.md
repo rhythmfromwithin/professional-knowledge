@@ -1,11 +1,12 @@
 ---
-title: "Goals as a Representational Layer for Human-AI Collaboration"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.08757
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08757
 next_step: skim
+priority: low
+slack_ts: '1794293796.871019'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Goals as a Representational Layer for Human-AI Collaboration
 ---
 # Goals as a Representational Layer for Human-AI Collaboration
 > 原文: [https://arxiv.org/abs/2611.08757](https://arxiv.org/abs/2611.08757)

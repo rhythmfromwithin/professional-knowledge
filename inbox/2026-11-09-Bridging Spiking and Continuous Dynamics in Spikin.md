@@ -1,11 +1,13 @@
 ---
-title: "Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.09295
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.09295
 next_step: skim
+priority: low
+slack_ts: '1794293792.326339'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired
+  Model'
 ---
 # Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model
 > 原文: [https://arxiv.org/abs/2611.09295](https://arxiv.org/abs/2611.09295)

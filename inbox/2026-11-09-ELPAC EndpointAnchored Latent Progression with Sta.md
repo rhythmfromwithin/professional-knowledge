@@ -1,11 +1,13 @@
 ---
-title: "ELPAC: Endpoint-Anchored Latent Progression with Stage-Varying Multimodal Coordination"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.08541
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08541
 next_step: skim
+priority: medium
+slack_ts: '1794293794.516589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'ELPAC: Endpoint-Anchored Latent Progression with Stage-Varying Multimodal
+  Coordination'
 ---
 # ELPAC: Endpoint-Anchored Latent Progression with Stage-Varying Multimodal Coordination
 > 原文: [https://arxiv.org/abs/2611.08541](https://arxiv.org/abs/2611.08541)
