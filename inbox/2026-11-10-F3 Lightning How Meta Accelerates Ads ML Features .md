@@ -1,11 +1,12 @@
 ---
-title: "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/
 next_step: skim
+priority: medium
+slack_ts: '1794376037.498619'
+source: Meta Engineering
+status: unread
+title: 'F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale'
 ---
 # F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale
 > 原文: [https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/](https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/)

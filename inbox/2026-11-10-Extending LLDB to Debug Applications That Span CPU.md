@@ -1,11 +1,12 @@
 ---
-title: "Extending LLDB to Debug Applications That Span CPUs and GPUs"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/
 next_step: skim
+priority: medium
+slack_ts: '1794376037.435859'
+source: Meta Engineering
+status: unread
+title: Extending LLDB to Debug Applications That Span CPUs and GPUs
 ---
 # Extending LLDB to Debug Applications That Span CPUs and GPUs
 > 原文: [https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/](https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/)

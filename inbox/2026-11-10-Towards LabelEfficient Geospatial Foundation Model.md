@@ -1,11 +1,13 @@
 ---
-title: "Towards Label-Efficient Geospatial Foundation Model Adaptation via Positive-Unlabeled Learning for Building Damage Mapping"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.08561
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08561
 next_step: skim
+priority: medium
+slack_ts: '1794376039.186379'
+source: cs.CV - Computer Vision
+status: unread
+title: Towards Label-Efficient Geospatial Foundation Model Adaptation via Positive-Unlabeled
+  Learning for Building Damage Mapping
 ---
 # Towards Label-Efficient Geospatial Foundation Model Adaptation via Positive-Unlabeled Learning for Building Damage Mapping
 > 原文: [https://arxiv.org/abs/2611.08561](https://arxiv.org/abs/2611.08561)

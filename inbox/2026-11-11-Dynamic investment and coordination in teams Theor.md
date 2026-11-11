@@ -1,0 +1,14 @@
+---
+title: "Dynamic investment and coordination in teams: Theory and experimental evidence"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2611.13230
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Dynamic investment and coordination in teams: Theory and experimental evidence
+> 原文: [https://arxiv.org/abs/2611.13230](https://arxiv.org/abs/2611.13230)
+
+arXiv:2611.13230v1 Announce Type: new
+Abstract: Teamwork requires more than the general skills that team members bring. In successful teams, members invest in team-specific skill or capital that accumulates within the team and raises the return to coordinated production. We provide the first systematic analysis of dynamic investment in such team skill. Adopting a dynamic game approach, we develop a novel theoretical framework where investment in team skill creates persistent benefits but is risky because the benefits depend on successful team coordination. We then take this framework to the laboratory to study empirically the factors that influence dynamic investment in team skill. We find underinvestment compared to the efficient benchmark. However, investment responds strongly to incentives, in line with specific theory-predicted patterns. Pre-registered traits (theory of mind and propensity to coordinate) predict investment and team-level efficiency. We conclude that careful design of team incentives and selection of team members can facilitate the development of team skill.

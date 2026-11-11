@@ -1,11 +1,12 @@
 ---
-title: "Enhancing Academic Advisement with Case-Based Reasoning"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.08572
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08572
 next_step: skim
+priority: high
+slack_ts: '1794376037.372959'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Enhancing Academic Advisement with Case-Based Reasoning
 ---
 # Enhancing Academic Advisement with Case-Based Reasoning
 > 原文: [https://arxiv.org/abs/2611.08572](https://arxiv.org/abs/2611.08572)

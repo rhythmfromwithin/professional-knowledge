@@ -1,11 +1,12 @@
 ---
-title: "How skills and agents work in AWS Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/
 next_step: skim
+priority: high
+slack_ts: '1794376038.067129'
+source: AWS Blog
+status: unread
+title: How skills and agents work in AWS Quick
 ---
 # How skills and agents work in AWS Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/](https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/)

@@ -1,11 +1,12 @@
 ---
-title: "pESTO: Iterative p-greedy kernel regression with risk-driven Early STOpping"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.08555
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.08555
 next_step: skim
+priority: medium
+slack_ts: '1794376036.575589'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'pESTO: Iterative p-greedy kernel regression with risk-driven Early STOpping'
 ---
 # pESTO: Iterative p-greedy kernel regression with risk-driven Early STOpping
 > 原文: [https://arxiv.org/abs/2611.08555](https://arxiv.org/abs/2611.08555)

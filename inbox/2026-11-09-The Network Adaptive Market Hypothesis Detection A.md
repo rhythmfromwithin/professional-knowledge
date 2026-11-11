@@ -1,11 +1,13 @@
 ---
-title: "The Network Adaptive Market Hypothesis: Detection, Attribution, and Network-Mediated Efficiency"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.09208
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.09208
 next_step: skim
+priority: low
+slack_ts: '1794376036.368789'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Network Adaptive Market Hypothesis: Detection, Attribution, and Network-Mediated
+  Efficiency'
 ---
 # The Network Adaptive Market Hypothesis: Detection, Attribution, and Network-Mediated Efficiency
 > 原文: [https://arxiv.org/abs/2611.09208](https://arxiv.org/abs/2611.09208)

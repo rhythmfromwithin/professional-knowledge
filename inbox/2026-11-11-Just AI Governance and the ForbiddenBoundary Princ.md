@@ -1,0 +1,14 @@
+---
+title: "Just AI Governance and the Forbidden-Boundary Principle"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2611.13007
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Just AI Governance and the Forbidden-Boundary Principle
+> 原文: [https://arxiv.org/abs/2611.13007](https://arxiv.org/abs/2611.13007)
+
+arXiv:2611.13007v1 Announce Type: new
+Abstract: Artificial intelligence (AI) increasingly shapes consequential decisions, yet predictive accuracy is not a sufficient justification for delegated authority. This conceptual study develops an integrated framework for assessing just AI across normative, data, model, and governance layers. Drawing on plural theories of justice, sociotechnical fairness research, and publicly available governance standards, it maps six justice requirements to observable evidence, decision rights, and remedies. It proposes a two-stage evaluation rule: exclude uses that fail independently justified minimum rights constraints, then compare eligible alternatives across multiple performance and governance criteria. As an explicitly limited normative analogy, Genesis chapter 2 motivates a Forbidden-Boundary Principle (FBP), under which an AI agent must not execute externally consequential actions outside pre-authorized boundaries. The resulting First-Principle Safe-Stop Protocol (FPSSP) comprises an independently governed policy monitor, a mandatory execution gate, a restricted or alternative safe-state controller, immutable-oriented audit trails, and accountable human authorization for recovery. We distinguish this normative and traceability contribution from existing Simplex and runtime assurance architectures; we do not claim a novel safety switch or formal proof of universal ethical compliance. A policy schema, threat model, test matrix, outcome definitions, and a prospective comparison design make the proposal falsifiable. No FPSSP implementation, experimental dataset, numerical improvement, or verified latency bound is reported. The framework supports future evaluation rather than constituting evidence of operational safety.

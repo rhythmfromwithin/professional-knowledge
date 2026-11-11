@@ -1,11 +1,13 @@
 ---
-title: "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.09093
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.09093
 next_step: skim
+priority: low
+slack_ts: '1794376036.509869'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster
+  Environments
 ---
 # Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments
 > 原文: [https://arxiv.org/abs/2611.09093](https://arxiv.org/abs/2611.09093)
