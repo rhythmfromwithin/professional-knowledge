@@ -1,11 +1,12 @@
 ---
-title: "Just AI Governance and the Forbidden-Boundary Principle"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.13007
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13007
 next_step: skim
+priority: low
+slack_ts: '1794466370.546509'
+source: cs.SE - Software Engineering
+status: unread
+title: Just AI Governance and the Forbidden-Boundary Principle
 ---
 # Just AI Governance and the Forbidden-Boundary Principle
 > 原文: [https://arxiv.org/abs/2611.13007](https://arxiv.org/abs/2611.13007)

@@ -1,11 +1,13 @@
 ---
-title: "Developing an Operational Model for an Internet of Data Based Trusted Data Space for Vocational Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.13520
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13520
 next_step: skim
+priority: medium
+slack_ts: '1794466368.669839'
+source: cs.CY - Computers and Society
+status: unread
+title: Developing an Operational Model for an Internet of Data Based Trusted Data
+  Space for Vocational Education
 ---
 # Developing an Operational Model for an Internet of Data Based Trusted Data Space for Vocational Education
 > 原文: [https://arxiv.org/abs/2611.13520](https://arxiv.org/abs/2611.13520)

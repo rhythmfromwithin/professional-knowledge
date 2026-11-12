@@ -1,11 +1,13 @@
 ---
-title: "Evaluation protocols for historical script classification: the cost of manuscript-level leakage and the role of soft labels"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.12969
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12969
 next_step: skim
+priority: medium
+slack_ts: '1794466369.013189'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Evaluation protocols for historical script classification: the cost of manuscript-level
+  leakage and the role of soft labels'
 ---
 # Evaluation protocols for historical script classification: the cost of manuscript-level leakage and the role of soft labels
 > 原文: [https://arxiv.org/abs/2611.12969](https://arxiv.org/abs/2611.12969)

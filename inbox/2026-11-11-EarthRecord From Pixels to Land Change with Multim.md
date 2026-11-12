@@ -1,11 +1,13 @@
 ---
-title: "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.12934
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12934
 next_step: skim
+priority: high
+slack_ts: '1794466368.872559'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades
+  of Satellite Imagery'
 ---
 # EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery
 > 原文: [https://arxiv.org/abs/2611.12934](https://arxiv.org/abs/2611.12934)

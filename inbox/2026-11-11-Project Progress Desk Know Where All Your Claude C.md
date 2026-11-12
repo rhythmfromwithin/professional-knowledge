@@ -1,11 +1,13 @@
 ---
-title: "Project Progress Desk: Know Where All Your Claude Code and Codex Projects Stand at a Glance"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.13287
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13287
 next_step: skim
+priority: low
+slack_ts: '1794466371.546809'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Project Progress Desk: Know Where All Your Claude Code and Codex Projects
+  Stand at a Glance'
 ---
 # Project Progress Desk: Know Where All Your Claude Code and Codex Projects Stand at a Glance
 > 原文: [https://arxiv.org/abs/2611.13287](https://arxiv.org/abs/2611.13287)

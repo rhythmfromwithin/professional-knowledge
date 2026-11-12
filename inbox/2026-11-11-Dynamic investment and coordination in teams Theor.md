@@ -1,11 +1,12 @@
 ---
-title: "Dynamic investment and coordination in teams: Theory and experimental evidence"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.13230
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13230
 next_step: skim
+priority: low
+slack_ts: '1794466368.736169'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Dynamic investment and coordination in teams: Theory and experimental evidence'
 ---
 # Dynamic investment and coordination in teams: Theory and experimental evidence
 > 原文: [https://arxiv.org/abs/2611.13230](https://arxiv.org/abs/2611.13230)

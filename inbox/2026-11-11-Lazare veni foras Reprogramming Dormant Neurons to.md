@@ -1,11 +1,12 @@
 ---
-title: "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
 next_step: skim
+priority: high
+slack_ts: '1794466370.613699'
+source: Microsoft Research
+status: unread
+title: 'Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents'
 ---
 # Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents
 > 原文: [https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/](https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/)

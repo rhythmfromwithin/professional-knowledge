@@ -1,11 +1,13 @@
 ---
-title: "From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression Questionnaire Inference"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.12900
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12900
 next_step: skim
+priority: high
+slack_ts: '1794466369.277629'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression
+  Questionnaire Inference'
 ---
 # From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression Questionnaire Inference
 > 原文: [https://arxiv.org/abs/2611.12900](https://arxiv.org/abs/2611.12900)

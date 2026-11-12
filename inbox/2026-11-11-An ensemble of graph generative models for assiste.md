@@ -1,11 +1,13 @@
 ---
-title: "An ensemble of graph generative models for assisted history matching of the Brugge field case"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.12927
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12927
 next_step: skim
+priority: high
+slack_ts: '1794466367.736839'
+source: cs.LG - Machine Learning
+status: unread
+title: An ensemble of graph generative models for assisted history matching of the
+  Brugge field case
 ---
 # An ensemble of graph generative models for assisted history matching of the Brugge field case
 > 原文: [https://arxiv.org/abs/2611.12927](https://arxiv.org/abs/2611.12927)

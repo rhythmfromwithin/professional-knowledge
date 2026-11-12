@@ -1,11 +1,12 @@
 ---
-title: "How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs"
-source: "Y Combinator"
-link: https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs/
-priority: high
-status: unread
 interest: medium
+link: https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs/
 next_step: skim
+priority: high
+slack_ts: '1794466370.087739'
+source: Y Combinator
+status: unread
+title: 'How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs'
 ---
 # How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs
 > 原文: [https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs/](https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs/)

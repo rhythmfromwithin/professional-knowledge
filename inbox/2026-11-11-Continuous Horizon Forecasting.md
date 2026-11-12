@@ -1,11 +1,12 @@
 ---
-title: "Continuous Horizon Forecasting"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.13228
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13228
 next_step: skim
+priority: medium
+slack_ts: '1794466368.545989'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Continuous Horizon Forecasting
 ---
 # Continuous Horizon Forecasting
 > 原文: [https://arxiv.org/abs/2611.13228](https://arxiv.org/abs/2611.13228)

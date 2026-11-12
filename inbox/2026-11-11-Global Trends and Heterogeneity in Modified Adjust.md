@@ -1,11 +1,12 @@
 ---
-title: "Global Trends and Heterogeneity in Modified Adjusted Net Savings"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.12987
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12987
 next_step: skim
+priority: low
+slack_ts: '1794466369.745289'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Global Trends and Heterogeneity in Modified Adjusted Net Savings
 ---
 # Global Trends and Heterogeneity in Modified Adjusted Net Savings
 > 原文: [https://arxiv.org/abs/2611.12987](https://arxiv.org/abs/2611.12987)

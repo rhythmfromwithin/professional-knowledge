@@ -1,11 +1,13 @@
 ---
-title: "CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.12983
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12983
 next_step: skim
+priority: medium
+slack_ts: '1794466368.242499'
+source: cs.RO - Robotics
+status: unread
+title: 'CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific
+  Instructions'
 ---
 # CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions
 > 原文: [https://arxiv.org/abs/2611.12983](https://arxiv.org/abs/2611.12983)

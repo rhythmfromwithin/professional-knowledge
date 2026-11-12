@@ -1,11 +1,13 @@
 ---
-title: "Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.13131
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13131
 next_step: skim
+priority: low
+slack_ts: '1794466372.732599'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful
+  Work'
 ---
 # Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work
 > 原文: [https://arxiv.org/abs/2611.13131](https://arxiv.org/abs/2611.13131)

@@ -1,11 +1,12 @@
 ---
-title: "Google Cloud launches Gemini for healthcare."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/
 next_step: skim
+priority: high
+slack_ts: '1794466369.815259'
+source: Google AI Blog
+status: unread
+title: Google Cloud launches Gemini for healthcare.
 ---
 # Google Cloud launches Gemini for healthcare.
 > 原文: [https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)

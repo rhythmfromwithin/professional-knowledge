@@ -1,11 +1,13 @@
 ---
-title: "Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.12949
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12949
 next_step: skim
+priority: medium
+slack_ts: '1794466370.819819'
+source: cs.RO - Robotics
+status: unread
+title: 'Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control
+  Barrier Functions'
 ---
 # Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions
 > 原文: [https://arxiv.org/abs/2611.12949](https://arxiv.org/abs/2611.12949)

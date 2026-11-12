@@ -1,11 +1,13 @@
 ---
-title: "MediPFN: Amortized In-Context Nuisance Learning and Inference for Causal Mediation Analysis"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.13219
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13219
 next_step: skim
+priority: medium
+slack_ts: '1794466370.889259'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'MediPFN: Amortized In-Context Nuisance Learning and Inference for Causal Mediation
+  Analysis'
 ---
 # MediPFN: Amortized In-Context Nuisance Learning and Inference for Causal Mediation Analysis
 > 原文: [https://arxiv.org/abs/2611.13219](https://arxiv.org/abs/2611.13219)

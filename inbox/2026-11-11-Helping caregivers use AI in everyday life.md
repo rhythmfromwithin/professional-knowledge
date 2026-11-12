@@ -1,11 +1,12 @@
 ---
-title: "Helping caregivers use AI in everyday life"
-source: "OpenAI Blog"
-link: https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
 next_step: skim
+priority: high
+slack_ts: '1794466369.884339'
+source: OpenAI Blog
+status: unread
+title: Helping caregivers use AI in everyday life
 ---
 # Helping caregivers use AI in everyday life
 > 原文: [https://openai.com/index/helping-caregivers-use-ai-in-everyday-life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)

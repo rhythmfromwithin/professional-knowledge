@@ -1,11 +1,13 @@
 ---
-title: "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.12955
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12955
 next_step: skim
+priority: high
+slack_ts: '1794466371.476969'
+source: cs.LG - Machine Learning
+status: unread
+title: Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable
+  Time Series
 ---
 # Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series
 > 原文: [https://arxiv.org/abs/2611.12955](https://arxiv.org/abs/2611.12955)

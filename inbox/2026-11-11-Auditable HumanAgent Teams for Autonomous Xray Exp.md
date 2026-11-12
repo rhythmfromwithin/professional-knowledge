@@ -1,11 +1,12 @@
 ---
-title: "Auditable Human-Agent Teams for Autonomous X-ray Experimentation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.12933
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12933
 next_step: skim
+priority: high
+slack_ts: '1794466367.868179'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Auditable Human-Agent Teams for Autonomous X-ray Experimentation
 ---
 # Auditable Human-Agent Teams for Autonomous X-ray Experimentation
 > 原文: [https://arxiv.org/abs/2611.12933](https://arxiv.org/abs/2611.12933)

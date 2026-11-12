@@ -1,11 +1,13 @@
 ---
-title: "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/
 next_step: skim
+priority: high
+slack_ts: '1794466368.109109'
+source: AWS Blog
+status: unread
+title: Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore
+  web search
 ---
 # Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/](https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/)

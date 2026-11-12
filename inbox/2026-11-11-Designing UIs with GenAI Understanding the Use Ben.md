@@ -1,11 +1,13 @@
 ---
-title: "Designing UIs with GenAI: Understanding the Use, Benefits, and Limitations of Prompt-to-Design Generators"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.13211
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13211
 next_step: skim
+priority: low
+slack_ts: '1794466368.607959'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Designing UIs with GenAI: Understanding the Use, Benefits, and Limitations
+  of Prompt-to-Design Generators'
 ---
 # Designing UIs with GenAI: Understanding the Use, Benefits, and Limitations of Prompt-to-Design Generators
 > 原文: [https://arxiv.org/abs/2611.13211](https://arxiv.org/abs/2611.13211)

@@ -1,11 +1,12 @@
 ---
-title: "Early Rug Pull Detection on Solana"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.13342
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13342
 next_step: skim
+priority: low
+slack_ts: '1794466368.798889'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Early Rug Pull Detection on Solana
 ---
 # Early Rug Pull Detection on Solana
 > 原文: [https://arxiv.org/abs/2611.13342](https://arxiv.org/abs/2611.13342)

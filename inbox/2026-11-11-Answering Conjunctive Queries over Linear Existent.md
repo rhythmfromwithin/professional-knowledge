@@ -1,11 +1,12 @@
 ---
-title: "Answering Conjunctive Queries over Linear Existential Rules with Transitivity"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.13138
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13138
 next_step: skim
+priority: low
+slack_ts: '1794466367.803399'
+source: cs.DB - Databases
+status: unread
+title: Answering Conjunctive Queries over Linear Existential Rules with Transitivity
 ---
 # Answering Conjunctive Queries over Linear Existential Rules with Transitivity
 > 原文: [https://arxiv.org/abs/2611.13138](https://arxiv.org/abs/2611.13138)

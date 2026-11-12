@@ -1,11 +1,12 @@
 ---
-title: "RoboACE: Adversarial Co-Evolution for Robot Self-Improvement"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.13034
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13034
 next_step: skim
+priority: medium
+slack_ts: '1794466371.781839'
+source: cs.RO - Robotics
+status: unread
+title: 'RoboACE: Adversarial Co-Evolution for Robot Self-Improvement'
 ---
 # RoboACE: Adversarial Co-Evolution for Robot Self-Improvement
 > 原文: [https://arxiv.org/abs/2611.13034](https://arxiv.org/abs/2611.13034)

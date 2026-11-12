@@ -1,11 +1,13 @@
 ---
-title: "One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over NVLink"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.13188
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13188
 next_step: skim
+priority: medium
+slack_ts: '1794466371.099919'
+source: cs.DC - Distributed Computing
+status: unread
+title: One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over
+  NVLink
 ---
 # One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over NVLink
 > 原文: [https://arxiv.org/abs/2611.13188](https://arxiv.org/abs/2611.13188)
