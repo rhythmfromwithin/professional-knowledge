@@ -1,11 +1,13 @@
 ---
-title: "Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.13527
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13527
 next_step: skim
+priority: medium
+slack_ts: '1794550326.894279'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Repertoires of Contention: Building computational tools and infrastructures
+  for community resistance to bitcoin mining'
 ---
 # Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining
 > 原文: [https://arxiv.org/abs/2611.13527](https://arxiv.org/abs/2611.13527)

@@ -1,11 +1,13 @@
 ---
-title: "Similar visual tuning conceals different recovery dynamics in a model of macaque V1"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.13692
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13692
 next_step: skim
+priority: low
+slack_ts: '1794550327.191509'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Similar visual tuning conceals different recovery dynamics in a model of macaque
+  V1
 ---
 # Similar visual tuning conceals different recovery dynamics in a model of macaque V1
 > 原文: [https://arxiv.org/abs/2611.13692](https://arxiv.org/abs/2611.13692)

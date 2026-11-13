@@ -1,11 +1,13 @@
 ---
-title: "SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.13176
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13176
 next_step: skim
+priority: medium
+slack_ts: '1794550327.116879'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in
+  Agentic LLM Serving'
 ---
 # SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving
 > 原文: [https://arxiv.org/abs/2611.13176](https://arxiv.org/abs/2611.13176)

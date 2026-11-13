@@ -1,11 +1,12 @@
 ---
-title: "Gilbert + Tobin rethinks the business of law with AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/gilbert-tobin-sam-nickless
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/gilbert-tobin-sam-nickless
 next_step: skim
+priority: high
+slack_ts: '1794550329.652459'
+source: OpenAI Blog
+status: unread
+title: Gilbert + Tobin rethinks the business of law with AI
 ---
 # Gilbert + Tobin rethinks the business of law with AI
 > 原文: [https://openai.com/index/gilbert-tobin-sam-nickless](https://openai.com/index/gilbert-tobin-sam-nickless)

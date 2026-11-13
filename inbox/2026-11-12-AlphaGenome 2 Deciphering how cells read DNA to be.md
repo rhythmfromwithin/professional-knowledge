@@ -1,11 +1,12 @@
 ---
-title: "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
 next_step: skim
+priority: high
+slack_ts: '1794550328.526799'
+source: DeepMind Blog
+status: unread
+title: 'AlphaGenome 2: Deciphering how cells read DNA to better understand disease'
 ---
 # AlphaGenome 2: Deciphering how cells read DNA to better understand disease
 > 原文: [https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)

@@ -1,11 +1,12 @@
 ---
-title: "Understanding Computing Instructors' Perceptions of Student Sense of Belonging"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.13237
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13237
 next_step: skim
+priority: medium
+slack_ts: '1794550328.276189'
+source: cs.CY - Computers and Society
+status: unread
+title: Understanding Computing Instructors' Perceptions of Student Sense of Belonging
 ---
 # Understanding Computing Instructors' Perceptions of Student Sense of Belonging
 > 原文: [https://arxiv.org/abs/2611.13237](https://arxiv.org/abs/2611.13237)

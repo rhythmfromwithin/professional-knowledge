@@ -1,11 +1,13 @@
 ---
-title: "Splitting for Stability: a Modified Reward Scheme for Transaction-Fee-Only Regimes"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.13252
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13252
 next_step: skim
+priority: low
+slack_ts: '1794550327.390189'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Splitting for Stability: a Modified Reward Scheme for Transaction-Fee-Only
+  Regimes'
 ---
 # Splitting for Stability: a Modified Reward Scheme for Transaction-Fee-Only Regimes
 > 原文: [https://arxiv.org/abs/2611.13252](https://arxiv.org/abs/2611.13252)

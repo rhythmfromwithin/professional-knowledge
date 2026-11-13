@@ -1,11 +1,13 @@
 ---
-title: "TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs for Multimodal Reasoning and Forecasting"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.12902
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12902
 next_step: skim
+priority: high
+slack_ts: '1794550327.842529'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs
+  for Multimodal Reasoning and Forecasting'
 ---
 # TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs for Multimodal Reasoning and Forecasting
 > 原文: [https://arxiv.org/abs/2611.12902](https://arxiv.org/abs/2611.12902)

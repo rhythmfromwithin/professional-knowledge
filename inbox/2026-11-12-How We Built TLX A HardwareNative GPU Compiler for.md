@@ -1,11 +1,12 @@
 ---
-title: "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/
 next_step: skim
+priority: medium
+slack_ts: '1794550329.842389'
+source: Meta Engineering
+status: unread
+title: 'How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale'
 ---
 # How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale
 > 原文: [https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/](https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/)

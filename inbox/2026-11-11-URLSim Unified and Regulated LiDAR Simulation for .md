@@ -1,11 +1,13 @@
 ---
-title: "URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.12932
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12932
 next_step: skim
+priority: medium
+slack_ts: '1794550328.086459'
+source: cs.CV - Computer Vision
+status: unread
+title: 'URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction
+  of Dynamic Driving Scenes'
 ---
 # URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes
 > 原文: [https://arxiv.org/abs/2611.12932](https://arxiv.org/abs/2611.12932)

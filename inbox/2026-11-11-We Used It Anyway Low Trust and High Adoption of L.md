@@ -1,11 +1,13 @@
 ---
-title: "We Used It Anyway: Low Trust and High Adoption of Large Language Models in Requirements Engineering Education"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.12889
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12889
 next_step: skim
+priority: low
+slack_ts: '1794550328.346279'
+source: cs.SE - Software Engineering
+status: unread
+title: 'We Used It Anyway: Low Trust and High Adoption of Large Language Models in
+  Requirements Engineering Education'
 ---
 # We Used It Anyway: Low Trust and High Adoption of Large Language Models in Requirements Engineering Education
 > 原文: [https://arxiv.org/abs/2611.12889](https://arxiv.org/abs/2611.12889)

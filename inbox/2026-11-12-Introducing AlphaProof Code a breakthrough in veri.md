@@ -1,11 +1,13 @@
 ---
-title: "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
-source: "DeepMind Blog"
-link: https://deepmind.google/blog/introducing-alphaproof-code/
-priority: high
-status: unread
 interest: medium
+link: https://deepmind.google/blog/introducing-alphaproof-code/
 next_step: skim
+priority: high
+slack_ts: '1794550329.991449'
+source: DeepMind Blog
+status: unread
+title: 'Introducing AlphaProof Code: a breakthrough in verifying complex software
+  at depth'
 ---
 # Introducing AlphaProof Code: a breakthrough in verifying complex software at depth
 > 原文: [https://deepmind.google/blog/introducing-alphaproof-code/](https://deepmind.google/blog/introducing-alphaproof-code/)

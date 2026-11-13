@@ -1,11 +1,12 @@
 ---
-title: "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.12901
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12901
 next_step: skim
+priority: high
+slack_ts: '1794550326.971199'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding'
 ---
 # Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding
 > 原文: [https://arxiv.org/abs/2611.12901](https://arxiv.org/abs/2611.12901)

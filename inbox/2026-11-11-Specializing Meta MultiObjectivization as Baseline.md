@@ -1,11 +1,13 @@
 ---
-title: "Specializing Meta Multi-Objectivization as Baseline for Software Engineering Optimization"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.12991
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12991
 next_step: skim
+priority: low
+slack_ts: '1794550327.327459'
+source: cs.SE - Software Engineering
+status: unread
+title: Specializing Meta Multi-Objectivization as Baseline for Software Engineering
+  Optimization
 ---
 # Specializing Meta Multi-Objectivization as Baseline for Software Engineering Optimization
 > 原文: [https://arxiv.org/abs/2611.12991](https://arxiv.org/abs/2611.12991)

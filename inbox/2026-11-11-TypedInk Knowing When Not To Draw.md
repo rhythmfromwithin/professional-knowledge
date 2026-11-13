@@ -1,11 +1,12 @@
 ---
-title: "TypedInk: Knowing When Not To Draw"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.13027
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13027
 next_step: skim
+priority: low
+slack_ts: '1794550328.025569'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'TypedInk: Knowing When Not To Draw'
 ---
 # TypedInk: Knowing When Not To Draw
 > 原文: [https://arxiv.org/abs/2611.13027](https://arxiv.org/abs/2611.13027)

@@ -1,7 +1,10 @@
 ---
-title: "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss
+slack_ts: '1794550329.275809'
+source: Netflix Tech Blog
+title: 'Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality
+  System'
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

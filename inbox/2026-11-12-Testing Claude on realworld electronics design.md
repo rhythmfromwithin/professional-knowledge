@@ -1,11 +1,12 @@
 ---
-title: "Testing Claude on real-world electronics design"
-source: "Anthropic"
-link: https://www.anthropic.com/research/claude-electronics-design
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/claude-electronics-design
 next_step: skim
+priority: high
+slack_ts: '1794550330.824389'
+source: Anthropic
+status: unread
+title: Testing Claude on real-world electronics design
 ---
 # Testing Claude on real-world electronics design
 > 原文: [https://www.anthropic.com/research/claude-electronics-design](https://www.anthropic.com/research/claude-electronics-design)

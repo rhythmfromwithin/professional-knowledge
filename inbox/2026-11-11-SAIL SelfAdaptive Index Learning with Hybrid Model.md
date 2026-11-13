@@ -1,11 +1,12 @@
 ---
-title: "SAIL: Self-Adaptive Index Learning with Hybrid Models (Extended Version)"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.13856
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13856
 next_step: skim
+priority: low
+slack_ts: '1794550327.042959'
+source: cs.DB - Databases
+status: unread
+title: 'SAIL: Self-Adaptive Index Learning with Hybrid Models (Extended Version)'
 ---
 # SAIL: Self-Adaptive Index Learning with Hybrid Models (Extended Version)
 > 原文: [https://arxiv.org/abs/2611.13856](https://arxiv.org/abs/2611.13856)

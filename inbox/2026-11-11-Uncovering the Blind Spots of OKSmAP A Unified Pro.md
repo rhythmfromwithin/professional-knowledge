@@ -1,11 +1,13 @@
 ---
-title: "Uncovering the Blind Spots of OKS-mAP: A Unified Protocol for Occlusion, Joint-Angle, and Temporal Evaluation of 2D Pose Estimators"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.12911
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12911
 next_step: skim
+priority: medium
+slack_ts: '1794550328.213159'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Uncovering the Blind Spots of OKS-mAP: A Unified Protocol for Occlusion, Joint-Angle,
+  and Temporal Evaluation of 2D Pose Estimators'
 ---
 # Uncovering the Blind Spots of OKS-mAP: A Unified Protocol for Occlusion, Joint-Angle, and Temporal Evaluation of 2D Pose Estimators
 > 原文: [https://arxiv.org/abs/2611.12911](https://arxiv.org/abs/2611.12911)

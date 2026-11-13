@@ -1,11 +1,12 @@
 ---
-title: "JioStar’s chief architect on AI discovery at 500M-user scale"
-source: "OpenAI Blog"
-link: https://openai.com/index/jiostar-vijay-seshadri
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/jiostar-vijay-seshadri
 next_step: skim
+priority: high
+slack_ts: '1794550330.246969'
+source: OpenAI Blog
+status: unread
+title: JioStar’s chief architect on AI discovery at 500M-user scale
 ---
 # JioStar’s chief architect on AI discovery at 500M-user scale
 > 原文: [https://openai.com/index/jiostar-vijay-seshadri](https://openai.com/index/jiostar-vijay-seshadri)

@@ -1,11 +1,12 @@
 ---
-title: "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.12935
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.12935
 next_step: skim
+priority: high
+slack_ts: '1794550327.900829'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring'
 ---
 # Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring
 > 原文: [https://arxiv.org/abs/2611.12935](https://arxiv.org/abs/2611.12935)

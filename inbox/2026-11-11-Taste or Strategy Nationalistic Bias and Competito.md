@@ -1,11 +1,13 @@
 ---
-title: "Taste or Strategy? Nationalistic Bias and Competitor Penalties in Figure Skating Judging"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.13194
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13194
 next_step: skim
+priority: low
+slack_ts: '1794550327.517329'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Taste or Strategy? Nationalistic Bias and Competitor Penalties in Figure Skating
+  Judging
 ---
 # Taste or Strategy? Nationalistic Bias and Competitor Penalties in Figure Skating Judging
 > 原文: [https://arxiv.org/abs/2611.13194](https://arxiv.org/abs/2611.13194)

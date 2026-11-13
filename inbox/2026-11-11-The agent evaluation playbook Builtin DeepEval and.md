@@ -1,11 +1,13 @@
 ---
-title: "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1794550327.717119'
+source: AWS Blog
+status: unread
+title: 'The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon
+  Bedrock AgentCore Evaluations'
 ---
 # The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations
 > 原文: [https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/](https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/)

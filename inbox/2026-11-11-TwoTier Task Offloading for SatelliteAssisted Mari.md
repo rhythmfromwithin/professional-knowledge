@@ -1,11 +1,13 @@
 ---
-title: "Two-Tier Task Offloading for Satellite-Assisted Marine Networks: A Hybrid Stackelberg-Bargaining Game Approach"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.13019
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.13019
 next_step: skim
+priority: medium
+slack_ts: '1794550327.959649'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Two-Tier Task Offloading for Satellite-Assisted Marine Networks: A Hybrid
+  Stackelberg-Bargaining Game Approach'
 ---
 # Two-Tier Task Offloading for Satellite-Assisted Marine Networks: A Hybrid Stackelberg-Bargaining Game Approach
 > 原文: [https://arxiv.org/abs/2611.13019](https://arxiv.org/abs/2611.13019)

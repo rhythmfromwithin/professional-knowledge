@@ -1,11 +1,12 @@
 ---
-title: "Build autonomous AI agents with Amazon Bedrock and Spring AI"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/
 next_step: skim
+priority: high
+slack_ts: '1794550328.788699'
+source: AWS Blog
+status: unread
+title: Build autonomous AI agents with Amazon Bedrock and Spring AI
 ---
 # Build autonomous AI agents with Amazon Bedrock and Spring AI
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/](https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/)
