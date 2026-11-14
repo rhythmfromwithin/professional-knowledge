@@ -1,11 +1,12 @@
 ---
-title: "Test your applications against AWS locally with AWS Emulator"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
 next_step: skim
+priority: high
+slack_ts: '1794635833.154299'
+source: AWS Blog
+status: unread
+title: Test your applications against AWS locally with AWS Emulator
 ---
 # Test your applications against AWS locally with AWS Emulator
 > 原文: [https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/](https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/)

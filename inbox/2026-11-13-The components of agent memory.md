@@ -1,11 +1,12 @@
 ---
-title: "The components of agent memory"
-source: "Anthropic"
-link: https://www.anthropic.com/research/components-of-agent-memory
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/components-of-agent-memory
 next_step: skim
+priority: high
+slack_ts: '1794635833.578989'
+source: Anthropic
+status: unread
+title: The components of agent memory
 ---
 # The components of agent memory
 > 原文: [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)

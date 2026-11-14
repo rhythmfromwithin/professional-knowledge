@@ -1,7 +1,9 @@
 ---
-title: "Skipper, Airbnb’s embedded workflow engine, is now open source"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss
+slack_ts: '1794635832.737129'
+source: Airbnb Engineering
+title: Skipper, Airbnb’s embedded workflow engine, is now open source
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

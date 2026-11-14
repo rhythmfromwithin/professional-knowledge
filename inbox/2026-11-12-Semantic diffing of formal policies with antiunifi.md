@@ -1,11 +1,12 @@
 ---
-title: "Semantic diffing of formal policies with anti-unification"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/
 next_step: skim
+priority: high
+slack_ts: '1794635823.674049'
+source: AWS Blog
+status: unread
+title: Semantic diffing of formal policies with anti-unification
 ---
 # Semantic diffing of formal policies with anti-unification
 > 原文: [https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/](https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/)

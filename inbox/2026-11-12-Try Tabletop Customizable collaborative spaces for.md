@@ -1,11 +1,13 @@
 ---
-title: "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/
 next_step: skim
+priority: high
+slack_ts: '1794635824.514129'
+source: Google AI Blog
+status: unread
+title: 'Try Tabletop: Customizable, collaborative spaces for groups to plan, play
+  and do more together.'
 ---
 # Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.
 > 原文: [https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/](https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/)

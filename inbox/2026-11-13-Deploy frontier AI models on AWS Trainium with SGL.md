@@ -1,11 +1,12 @@
 ---
-title: "Deploy frontier AI models on AWS Trainium with SGLang-Neuron"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/
 next_step: skim
+priority: high
+slack_ts: '1794635826.829319'
+source: AWS Blog
+status: unread
+title: Deploy frontier AI models on AWS Trainium with SGLang-Neuron
 ---
 # Deploy frontier AI models on AWS Trainium with SGLang-Neuron
 > 原文: [https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/)

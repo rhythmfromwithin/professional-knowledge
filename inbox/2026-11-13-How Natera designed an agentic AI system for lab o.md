@@ -1,11 +1,12 @@
 ---
-title: "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/
 next_step: skim
+priority: high
+slack_ts: '1794635829.797809'
+source: AWS Blog
+status: unread
+title: How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore
 ---
 # How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore
 > 原文: [https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/](https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/)

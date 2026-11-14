@@ -1,11 +1,12 @@
 ---
-title: "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/
 next_step: skim
+priority: medium
+slack_ts: '1794635833.785409'
+source: Meta Engineering
+status: unread
+title: 'Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations'
 ---
 # Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations
 > 原文: [https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/](https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/)
