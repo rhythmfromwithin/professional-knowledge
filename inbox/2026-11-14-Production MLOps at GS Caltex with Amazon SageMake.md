@@ -1,11 +1,12 @@
 ---
-title: "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/
 next_step: skim
+priority: high
+slack_ts: '1794722328.005249'
+source: AWS Blog
+status: unread
+title: Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1
 ---
 # Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1
 > 原文: [https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
