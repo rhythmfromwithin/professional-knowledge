@@ -1,0 +1,14 @@
+---
+title: "The Transformer Paradigm: Dynamic Processing and a New Principle of Inference"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2611.17953
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Transformer Paradigm: Dynamic Processing and a New Principle of Inference
+> 原文: [https://arxiv.org/abs/2611.17953](https://arxiv.org/abs/2611.17953)
+
+arXiv:2611.17953v1 Announce Type: cross
+Abstract: We argue that the Transformer revolution is not adequately understood as a merely quantitative expansion of deep learning, but as the emergence of a new paradigm based on a different principle of inference. We interpret the Transformer as a system in which token representations are transformed by parameterized transformations, or transforming concepts. During inference, some of these transformations are dynamically constructed from the current input: previously acquired transformations are first adapted and then applied. At the mechanical-structural level, this dynamic processing is realized through output-weight interconnections, whereby outputs of some networks determine the weights of others. The resulting mode of processing, which we call Sequence-level Interactive Dynamic Parallel Processing (SIDPP), provides a framework for explaining strong prompt sensitivity and opens research directions concerning interpretability, control, alternative AI architectures, neuromorphic systems, and possible biological realizations of dynamic processing.

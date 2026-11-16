@@ -1,11 +1,12 @@
 ---
-title: "Shield helps technicians hand off legacy portal work with OpenAI"
-source: "OpenAI Blog"
-link: https://openai.com/business/customer-stories/shield
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/business/customer-stories/shield
 next_step: skim
+priority: high
+slack_ts: '1794808694.694859'
+source: OpenAI Blog
+status: unread
+title: Shield helps technicians hand off legacy portal work with OpenAI
 ---
 # Shield helps technicians hand off legacy portal work with OpenAI
 > 原文: [https://openai.com/business/customer-stories/shield](https://openai.com/business/customer-stories/shield)

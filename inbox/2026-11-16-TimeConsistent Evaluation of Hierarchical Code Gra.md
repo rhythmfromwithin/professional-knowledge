@@ -1,0 +1,15 @@
+---
+title: "Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2611.17388
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents
+> 原文: [https://arxiv.org/abs/2611.17388](https://arxiv.org/abs/2611.17388)
+
+arXiv:2611.17388v1 Announce Type: new
+Abstract: Evaluating repository-aware software engineering (SWE) agents requires strict separation between pre-existing repository knowledge and future code evolution, yet standard benchmarks frequently suffer from temporal contamination and prompt-level solution leakage. Building on the time-consistent benchmark protocol of Sun (2026), we enforce strict zero-leakage isolation across DragonFly in C++ and React in JavaScript/TypeScript, locking repository snapshots and knowledge graphs at historical cutoff commits $T\_0$ and evaluating 100 post-$T\_0$ pull requests across four prompt granularities: Minimal, Concise, Contextual, and Guided.
+Under this zero-leakage protocol, we conduct a matched evaluation of three context-augmentation regimes: (1) an unaugmented Baseline, (2) a flat syntax-level Tree-sitter AST graph, and (3) ServiceExplorer, a deterministic two-level hierarchical dependency graph capturing Level-1 system/package containers and Level-2 architectural modules. Across 7,200 paired evaluations spanning six foundation models across the MAI-Code Flash, Claude, and GPT-Sol families, ServiceExplorer consistently outperforms both Baseline and Tree-sitter AST across every model, repository, and prompt granularity ($+15.6\%$ to $+86.2\%$ relative $F\_1$ lift, $p < 10^{-4}$), while tripling exact full-PR localization on DragonFly. Crucially, equipping an efficiency-tier or prior-generation model with ServiceExplorer consistently surpasses the unaugmented Baseline $F\_1$ of the next-generation model across all evaluated families.
