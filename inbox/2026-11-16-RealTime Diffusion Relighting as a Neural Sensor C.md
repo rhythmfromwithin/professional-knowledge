@@ -1,11 +1,13 @@
 ---
-title: "Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.17438
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17438
 next_step: skim
+priority: medium
+slack_ts: '1794900948.214999'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain
+  Gap for Robotic Perception'
 ---
 # Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception
 > 原文: [https://arxiv.org/abs/2611.17438](https://arxiv.org/abs/2611.17438)

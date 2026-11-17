@@ -1,11 +1,12 @@
 ---
-title: "ParseBench-2: Severity-Aware Evaluation of Document Parsing"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.17400
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17400
 next_step: skim
+priority: medium
+slack_ts: '1794900947.670139'
+source: cs.CV - Computer Vision
+status: unread
+title: 'ParseBench-2: Severity-Aware Evaluation of Document Parsing'
 ---
 # ParseBench-2: Severity-Aware Evaluation of Document Parsing
 > 原文: [https://arxiv.org/abs/2611.17400](https://arxiv.org/abs/2611.17400)

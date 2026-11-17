@@ -1,11 +1,12 @@
 ---
-title: "The Transformer Paradigm: Dynamic Processing and a New Principle of Inference"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.17953
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17953
 next_step: skim
+priority: low
+slack_ts: '1794900948.781129'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'The Transformer Paradigm: Dynamic Processing and a New Principle of Inference'
 ---
 # The Transformer Paradigm: Dynamic Processing and a New Principle of Inference
 > 原文: [https://arxiv.org/abs/2611.17953](https://arxiv.org/abs/2611.17953)

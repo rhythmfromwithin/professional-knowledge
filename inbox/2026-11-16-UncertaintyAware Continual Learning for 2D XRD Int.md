@@ -1,11 +1,13 @@
 ---
-title: "Uncertainty-Aware Continual Learning for 2D XRD Interpretation Using Simulated and Experimental Data"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.17547
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17547
 next_step: skim
+priority: medium
+slack_ts: '1794900949.040129'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Uncertainty-Aware Continual Learning for 2D XRD Interpretation Using Simulated
+  and Experimental Data
 ---
 # Uncertainty-Aware Continual Learning for 2D XRD Interpretation Using Simulated and Experimental Data
 > 原文: [https://arxiv.org/abs/2611.17547](https://arxiv.org/abs/2611.17547)

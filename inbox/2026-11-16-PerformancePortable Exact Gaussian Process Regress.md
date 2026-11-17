@@ -1,11 +1,13 @@
 ---
-title: "Performance-Portable Exact Gaussian Process Regression in Python via SYCL and oneMath"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.17565
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17565
 next_step: skim
+priority: medium
+slack_ts: '1794900947.828149'
+source: cs.DC - Distributed Computing
+status: unread
+title: Performance-Portable Exact Gaussian Process Regression in Python via SYCL and
+  oneMath
 ---
 # Performance-Portable Exact Gaussian Process Regression in Python via SYCL and oneMath
 > 原文: [https://arxiv.org/abs/2611.17565](https://arxiv.org/abs/2611.17565)

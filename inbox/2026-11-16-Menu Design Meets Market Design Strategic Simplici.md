@@ -1,11 +1,12 @@
 ---
-title: "Menu Design Meets Market Design: Strategic Simplicity vs. Choice Complexity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.17984
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17984
 next_step: skim
+priority: low
+slack_ts: '1794900947.460599'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Menu Design Meets Market Design: Strategic Simplicity vs. Choice Complexity'
 ---
 # Menu Design Meets Market Design: Strategic Simplicity vs. Choice Complexity
 > 原文: [https://arxiv.org/abs/2611.17984](https://arxiv.org/abs/2611.17984)

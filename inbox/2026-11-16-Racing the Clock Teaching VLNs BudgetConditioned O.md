@@ -1,11 +1,12 @@
 ---
-title: "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.17442
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17442
 next_step: skim
+priority: medium
+slack_ts: '1794900948.109129'
+source: cs.RO - Robotics
+status: unread
+title: 'Racing the Clock: Teaching VLNs Budget-Conditioned Object Search'
 ---
 # Racing the Clock: Teaching VLNs Budget-Conditioned Object Search
 > 原文: [https://arxiv.org/abs/2611.17442](https://arxiv.org/abs/2611.17442)

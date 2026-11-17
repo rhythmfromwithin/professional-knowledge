@@ -1,11 +1,13 @@
 ---
-title: "ProdPilot: A Layered Model Context Protocol System for Automated Production Readiness and Deployment of Vibe-Coded Projects"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.17381
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17381
 next_step: skim
+priority: low
+slack_ts: '1794900947.952509'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ProdPilot: A Layered Model Context Protocol System for Automated Production
+  Readiness and Deployment of Vibe-Coded Projects'
 ---
 # ProdPilot: A Layered Model Context Protocol System for Automated Production Readiness and Deployment of Vibe-Coded Projects
 > 原文: [https://arxiv.org/abs/2611.17381](https://arxiv.org/abs/2611.17381)

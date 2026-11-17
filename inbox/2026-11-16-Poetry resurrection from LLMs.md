@@ -1,11 +1,12 @@
 ---
-title: "Poetry 'resurrection' from LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.17464
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17464
 next_step: skim
+priority: high
+slack_ts: '1794900947.899379'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Poetry 'resurrection' from LLMs
 ---
 # Poetry 'resurrection' from LLMs
 > 原文: [https://arxiv.org/abs/2611.17464](https://arxiv.org/abs/2611.17464)

@@ -1,11 +1,13 @@
 ---
-title: "Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.17466
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17466
 next_step: skim
+priority: low
+slack_ts: '1794900949.097749'
+source: cs.DB - Databases
+status: unread
+title: Use-case-driven ontology modeling with the NeOn methodology for ambient assisted
+  living
 ---
 # Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living
 > 原文: [https://arxiv.org/abs/2611.17466](https://arxiv.org/abs/2611.17466)

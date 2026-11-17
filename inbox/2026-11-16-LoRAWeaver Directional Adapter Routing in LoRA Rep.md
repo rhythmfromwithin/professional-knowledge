@@ -1,11 +1,12 @@
 ---
-title: "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.17340
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17340
 next_step: skim
+priority: high
+slack_ts: '1794900947.293419'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'LoRAWeaver: Directional Adapter Routing in LoRA Representation Space'
 ---
 # LoRAWeaver: Directional Adapter Routing in LoRA Representation Space
 > 原文: [https://arxiv.org/abs/2611.17340](https://arxiv.org/abs/2611.17340)

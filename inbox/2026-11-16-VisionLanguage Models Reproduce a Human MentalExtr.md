@@ -1,11 +1,13 @@
 ---
-title: "Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe Illusion"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.17741
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17741
 next_step: skim
+priority: low
+slack_ts: '1794900949.150229'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe
+  Illusion
 ---
 # Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe Illusion
 > 原文: [https://arxiv.org/abs/2611.17741](https://arxiv.org/abs/2611.17741)

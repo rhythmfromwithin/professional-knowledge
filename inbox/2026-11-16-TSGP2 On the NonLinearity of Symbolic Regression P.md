@@ -1,11 +1,13 @@
 ---
-title: "TSGP-2: On the Non-Linearity of Symbolic Regression Problems and How to Exploit It with Model-based Semantic Genetic Programming"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.17455
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17455
 next_step: skim
+priority: low
+slack_ts: '1794900948.533399'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'TSGP-2: On the Non-Linearity of Symbolic Regression Problems and How to Exploit
+  It with Model-based Semantic Genetic Programming'
 ---
 # TSGP-2: On the Non-Linearity of Symbolic Regression Problems and How to Exploit It with Model-based Semantic Genetic Programming
 > 原文: [https://arxiv.org/abs/2611.17455](https://arxiv.org/abs/2611.17455)

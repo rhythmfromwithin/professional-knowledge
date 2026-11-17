@@ -1,11 +1,12 @@
 ---
-title: "Superfluid: Local AI Server for Distributed LLM Inference"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.17753
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17753
 next_step: skim
+priority: medium
+slack_ts: '1794900948.486709'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Superfluid: Local AI Server for Distributed LLM Inference'
 ---
 # Superfluid: Local AI Server for Distributed LLM Inference
 > 原文: [https://arxiv.org/abs/2611.17753](https://arxiv.org/abs/2611.17753)

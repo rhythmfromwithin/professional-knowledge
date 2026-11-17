@@ -1,11 +1,13 @@
 ---
-title: "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.17412
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17412
 next_step: skim
+priority: high
+slack_ts: '1794900949.202219'
+source: cs.LG - Machine Learning
+status: unread
+title: 'WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW
+  Search'
 ---
 # WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search
 > 原文: [https://arxiv.org/abs/2611.17412](https://arxiv.org/abs/2611.17412)

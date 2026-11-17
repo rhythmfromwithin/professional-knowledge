@@ -1,11 +1,12 @@
 ---
-title: "Tracing Knowledge and Reasoning in LLM"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.17461
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17461
 next_step: skim
+priority: high
+slack_ts: '1794900948.877749'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Tracing Knowledge and Reasoning in LLM
 ---
 # Tracing Knowledge and Reasoning in LLM
 > 原文: [https://arxiv.org/abs/2611.17461](https://arxiv.org/abs/2611.17461)

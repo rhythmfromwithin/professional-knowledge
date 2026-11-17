@@ -1,11 +1,12 @@
 ---
-title: "TailGuard-GDS: Tail-Safe Control of GPU Storage Data Movement"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.17824
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17824
 next_step: skim
+priority: medium
+slack_ts: '1794900948.581939'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TailGuard-GDS: Tail-Safe Control of GPU Storage Data Movement'
 ---
 # TailGuard-GDS: Tail-Safe Control of GPU Storage Data Movement
 > 原文: [https://arxiv.org/abs/2611.17824](https://arxiv.org/abs/2611.17824)

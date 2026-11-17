@@ -1,11 +1,13 @@
 ---
-title: "Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.17434
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17434
 next_step: skim
+priority: low
+slack_ts: '1794900948.927869'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Trainable sparse dendritic networks reveal regime-dependent roles for shunting
+  inhibition and morphology
 ---
 # Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology
 > 原文: [https://arxiv.org/abs/2611.17434](https://arxiv.org/abs/2611.17434)

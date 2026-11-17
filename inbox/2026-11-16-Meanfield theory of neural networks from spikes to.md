@@ -1,11 +1,12 @@
 ---
-title: "Mean-field theory of neural networks: from spikes to firing rates"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.17512
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17512
 next_step: skim
+priority: low
+slack_ts: '1794900947.399539'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Mean-field theory of neural networks: from spikes to firing rates'
 ---
 # Mean-field theory of neural networks: from spikes to firing rates
 > 原文: [https://arxiv.org/abs/2611.17512](https://arxiv.org/abs/2611.17512)
