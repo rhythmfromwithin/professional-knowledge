@@ -1,11 +1,13 @@
 ---
-title: "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.17339
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17339
 next_step: skim
+priority: high
+slack_ts: '1794985130.038979'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors
+  on Small, Quantized, On-Device LLMs
 ---
 # Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs
 > 原文: [https://arxiv.org/abs/2611.17339](https://arxiv.org/abs/2611.17339)

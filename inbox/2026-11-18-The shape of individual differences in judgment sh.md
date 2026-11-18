@@ -1,0 +1,14 @@
+---
+title: "The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2611.22440
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus
+> 原文: [https://arxiv.org/abs/2611.22440](https://arxiv.org/abs/2611.22440)
+
+arXiv:2611.22440v1 Announce Type: new
+Abstract: People differ in how they judge faces, artworks, photographs and jokes. Previous work measured the size of these differences; we ask what shape they take. We wrote three candidate shapes as nested generative models (same-sign reweighting of shared dimensions, a linear transform that allows reversal, and stimulus-specific offsets) and compared how well they predict people unseen in training, using ten public datasets (about 20,000 raters). The models recovered a person's judgment space from 10-20 judgments and predicted judgments of unseen stimuli. For faces, reweighting was sufficient, and weights opposing the population were not statistically detected. For artworks, weights spread continuously along the shared abstract-figurative direction, and 28 percent of raters fell on the opposite side from the population. This tail was much smaller when a different rater sample judged the same artworks. Individual differences thus differ in shape as well as size, and the shape depends on domain and raters.

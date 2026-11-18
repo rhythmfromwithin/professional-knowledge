@@ -1,11 +1,12 @@
 ---
-title: "Strengthening NATO and allied cyber defenses with AI"
-source: "OpenAI Blog"
-link: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
 next_step: skim
+priority: high
+slack_ts: '1794985132.713409'
+source: OpenAI Blog
+status: unread
+title: Strengthening NATO and allied cyber defenses with AI
 ---
 # Strengthening NATO and allied cyber defenses with AI
 > 原文: [https://openai.com/index/strengthening-nato-allied-cyber-defences-ai](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)

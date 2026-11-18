@@ -1,11 +1,12 @@
 ---
-title: "Broadening access to AI for scientists"
-source: "OpenAI Blog"
-link: https://openai.com/index/expanding-chatgpt-for-academic-researchers
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/expanding-chatgpt-for-academic-researchers
 next_step: skim
+priority: high
+slack_ts: '1794985129.300439'
+source: OpenAI Blog
+status: unread
+title: Broadening access to AI for scientists
 ---
 # Broadening access to AI for scientists
 > 原文: [https://openai.com/index/expanding-chatgpt-for-academic-researchers](https://openai.com/index/expanding-chatgpt-for-academic-researchers)

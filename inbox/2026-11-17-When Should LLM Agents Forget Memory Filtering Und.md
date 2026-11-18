@@ -1,11 +1,13 @@
 ---
-title: "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.17338
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.17338
 next_step: skim
+priority: high
+slack_ts: '1794985133.430269'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver
+  Errors
 ---
 # When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors
 > 原文: [https://arxiv.org/abs/2611.17338](https://arxiv.org/abs/2611.17338)

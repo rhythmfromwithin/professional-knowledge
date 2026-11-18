@@ -1,11 +1,13 @@
 ---
-title: "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/
 next_step: skim
+priority: high
+slack_ts: '1794985129.407359'
+source: AWS Blog
+status: unread
+title: Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed
+  Knowledge Base
 ---
 # Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base
 > 原文: [https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/](https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/)
