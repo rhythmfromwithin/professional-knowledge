@@ -1,11 +1,12 @@
 ---
-title: "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/
 next_step: skim
+priority: high
+slack_ts: '1795071560.972129'
+source: AWS Blog
+status: unread
+title: Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads
 ---
 # Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads
 > 原文: [https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/](https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/)

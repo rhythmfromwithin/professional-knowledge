@@ -1,11 +1,12 @@
 ---
-title: "CrisisBench: an evaluation suite for crisis counseling AI"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.21622
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21622
 next_step: skim
+priority: high
+slack_ts: '1795071557.151319'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'CrisisBench: an evaluation suite for crisis counseling AI'
 ---
 # CrisisBench: an evaluation suite for crisis counseling AI
 > 原文: [https://arxiv.org/abs/2611.21622](https://arxiv.org/abs/2611.21622)

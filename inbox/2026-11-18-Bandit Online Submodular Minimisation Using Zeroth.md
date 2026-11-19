@@ -1,11 +1,12 @@
 ---
-title: "Bandit Online Submodular Minimisation Using Zeroth-Order Oracles"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.22130
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22130
 next_step: skim
+priority: medium
+slack_ts: '1795071556.428859'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Bandit Online Submodular Minimisation Using Zeroth-Order Oracles
 ---
 # Bandit Online Submodular Minimisation Using Zeroth-Order Oracles
 > 原文: [https://arxiv.org/abs/2611.22130](https://arxiv.org/abs/2611.22130)

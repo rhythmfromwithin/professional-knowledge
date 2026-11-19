@@ -1,11 +1,12 @@
 ---
-title: "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.21799
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21799
 next_step: skim
+priority: high
+slack_ts: '1795071556.777059'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability
 ---
 # Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability
 > 原文: [https://arxiv.org/abs/2611.21799](https://arxiv.org/abs/2611.21799)

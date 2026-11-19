@@ -1,11 +1,13 @@
 ---
-title: "Collecting Infrastructure-Level Measures for Energy Analysis in Modern Computing Infrastructures"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.22160
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22160
 next_step: skim
+priority: medium
+slack_ts: '1795071556.939809'
+source: cs.DC - Distributed Computing
+status: unread
+title: Collecting Infrastructure-Level Measures for Energy Analysis in Modern Computing
+  Infrastructures
 ---
 # Collecting Infrastructure-Level Measures for Energy Analysis in Modern Computing Infrastructures
 > 原文: [https://arxiv.org/abs/2611.22160](https://arxiv.org/abs/2611.22160)

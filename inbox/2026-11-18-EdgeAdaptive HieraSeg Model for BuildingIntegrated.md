@@ -1,11 +1,12 @@
 ---
-title: "Edge-Adaptive Hiera-Seg Model for Building-Integrated Photovoltaic Power Forecasting"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.21680
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21680
 next_step: skim
+priority: medium
+slack_ts: '1795071557.801789'
+source: cs.CV - Computer Vision
+status: unread
+title: Edge-Adaptive Hiera-Seg Model for Building-Integrated Photovoltaic Power Forecasting
 ---
 # Edge-Adaptive Hiera-Seg Model for Building-Integrated Photovoltaic Power Forecasting
 > 原文: [https://arxiv.org/abs/2611.21680](https://arxiv.org/abs/2611.21680)

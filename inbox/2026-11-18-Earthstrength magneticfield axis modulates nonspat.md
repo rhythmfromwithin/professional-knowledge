@@ -1,11 +1,13 @@
 ---
-title: "Earth-strength magnetic-field axis modulates non-spatial probabilistic decision-making in humans"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.22386
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22386
 next_step: skim
+priority: low
+slack_ts: '1795071557.731779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Earth-strength magnetic-field axis modulates non-spatial probabilistic decision-making
+  in humans
 ---
 # Earth-strength magnetic-field axis modulates non-spatial probabilistic decision-making in humans
 > 原文: [https://arxiv.org/abs/2611.22386](https://arxiv.org/abs/2611.22386)

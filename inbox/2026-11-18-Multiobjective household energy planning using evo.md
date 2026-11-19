@@ -1,11 +1,12 @@
 ---
-title: "Multiobjective household energy planning using evolutionary algorithms"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.21668
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21668
 next_step: skim
+priority: low
+slack_ts: '1795071560.366709'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Multiobjective household energy planning using evolutionary algorithms
 ---
 # Multiobjective household energy planning using evolutionary algorithms
 > 原文: [https://arxiv.org/abs/2611.21668](https://arxiv.org/abs/2611.21668)

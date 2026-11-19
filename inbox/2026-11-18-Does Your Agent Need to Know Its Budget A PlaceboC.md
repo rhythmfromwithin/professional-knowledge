@@ -1,11 +1,13 @@
 ---
-title: "Does Your Agent Need to Know Its Budget? A Placebo-Controlled Experiment on LLM Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.21614
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21614
 next_step: skim
+priority: low
+slack_ts: '1795071557.597409'
+source: cs.SE - Software Engineering
+status: unread
+title: Does Your Agent Need to Know Its Budget? A Placebo-Controlled Experiment on
+  LLM Coding Agents
 ---
 # Does Your Agent Need to Know Its Budget? A Placebo-Controlled Experiment on LLM Coding Agents
 > 原文: [https://arxiv.org/abs/2611.21614](https://arxiv.org/abs/2611.21614)

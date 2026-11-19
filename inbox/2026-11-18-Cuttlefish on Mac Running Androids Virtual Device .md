@@ -1,11 +1,13 @@
 ---
-title: "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/
 next_step: skim
+priority: medium
+slack_ts: '1795071557.294459'
+source: Meta Engineering
+status: unread
+title: 'Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on
+  Apple Silicon'
 ---
 # Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon
 > 原文: [https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)

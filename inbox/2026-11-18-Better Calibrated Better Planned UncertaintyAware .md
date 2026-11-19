@@ -1,11 +1,13 @@
 ---
-title: "Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative Path Planning for Oil Spill Monitoring"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.21783
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21783
 next_step: skim
+priority: medium
+slack_ts: '1795071556.512149'
+source: cs.RO - Robotics
+status: unread
+title: 'Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative
+  Path Planning for Oil Spill Monitoring'
 ---
 # Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative Path Planning for Oil Spill Monitoring
 > 原文: [https://arxiv.org/abs/2611.21783](https://arxiv.org/abs/2611.21783)

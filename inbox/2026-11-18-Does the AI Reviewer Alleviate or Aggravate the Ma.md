@@ -1,11 +1,13 @@
 ---
-title: "Does the AI Reviewer Alleviate or Aggravate the Maintenance Burden? Evidence from GitHub Copilot Reviewer"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.22793
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22793
 next_step: skim
+priority: low
+slack_ts: '1795071557.663319'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Does the AI Reviewer Alleviate or Aggravate the Maintenance Burden? Evidence
+  from GitHub Copilot Reviewer
 ---
 # Does the AI Reviewer Alleviate or Aggravate the Maintenance Burden? Evidence from GitHub Copilot Reviewer
 > 原文: [https://arxiv.org/abs/2611.22793](https://arxiv.org/abs/2611.22793)

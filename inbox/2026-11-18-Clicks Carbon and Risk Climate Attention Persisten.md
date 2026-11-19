@@ -1,11 +1,13 @@
 ---
-title: "Clicks, Carbon, and Risk: Climate Attention, Persistent Financial Risk, and Real-Sector Activity"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.22517
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22517
 next_step: skim
+priority: low
+slack_ts: '1795071556.875149'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Clicks, Carbon, and Risk: Climate Attention, Persistent Financial Risk, and
+  Real-Sector Activity'
 ---
 # Clicks, Carbon, and Risk: Climate Attention, Persistent Financial Risk, and Real-Sector Activity
 > 原文: [https://arxiv.org/abs/2611.22517](https://arxiv.org/abs/2611.22517)

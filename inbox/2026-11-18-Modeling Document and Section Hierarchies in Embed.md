@@ -1,11 +1,12 @@
 ---
-title: "Modeling Document and Section Hierarchies in Embedding Space"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.21980
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21980
 next_step: skim
+priority: medium
+slack_ts: '1795071560.295839'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Modeling Document and Section Hierarchies in Embedding Space
 ---
 # Modeling Document and Section Hierarchies in Embedding Space
 > 原文: [https://arxiv.org/abs/2611.21980](https://arxiv.org/abs/2611.21980)

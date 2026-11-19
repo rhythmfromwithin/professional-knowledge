@@ -1,11 +1,13 @@
 ---
-title: "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.21641
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21641
 next_step: skim
+priority: high
+slack_ts: '1795071560.856429'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed
+  LLMs'
 ---
 # RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs
 > 原文: [https://arxiv.org/abs/2611.21641](https://arxiv.org/abs/2611.21641)

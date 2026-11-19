@@ -1,11 +1,12 @@
 ---
-title: "Pelorus: Warped-Product Graph Indexing for Hyperbolic Vector Search"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.22159
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22159
 next_step: skim
+priority: low
+slack_ts: '1795071560.698849'
+source: cs.DB - Databases
+status: unread
+title: 'Pelorus: Warped-Product Graph Indexing for Hyperbolic Vector Search'
 ---
 # Pelorus: Warped-Product Graph Indexing for Hyperbolic Vector Search
 > 原文: [https://arxiv.org/abs/2611.22159](https://arxiv.org/abs/2611.22159)

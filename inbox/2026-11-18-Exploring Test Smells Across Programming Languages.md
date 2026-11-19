@@ -1,11 +1,12 @@
 ---
-title: "Exploring Test Smells Across Programming Languages: A Systematic Mapping Study"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.21613
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21613
 next_step: skim
+priority: low
+slack_ts: '1795071558.827989'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Exploring Test Smells Across Programming Languages: A Systematic Mapping Study'
 ---
 # Exploring Test Smells Across Programming Languages: A Systematic Mapping Study
 > 原文: [https://arxiv.org/abs/2611.21613](https://arxiv.org/abs/2611.21613)

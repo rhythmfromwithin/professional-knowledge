@@ -1,11 +1,13 @@
 ---
-title: "EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.21690
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21690
 next_step: skim
+priority: medium
+slack_ts: '1795071557.866829'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge
+  Summary'
 ---
 # EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary
 > 原文: [https://arxiv.org/abs/2611.21690](https://arxiv.org/abs/2611.21690)

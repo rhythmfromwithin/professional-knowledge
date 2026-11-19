@@ -1,0 +1,14 @@
+---
+title: "A Metric for Semantic Graph Matching of No-Code Workflows"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2611.23233
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# A Metric for Semantic Graph Matching of No-Code Workflows
+> 原文: [https://arxiv.org/abs/2611.23233](https://arxiv.org/abs/2611.23233)
+
+arXiv:2611.23233v1 Announce Type: new
+Abstract: No-code and agentic systems increasingly produce executable workflows, but workflows cannot be compared adequately as strings because typed operations, parameters, and directed connections jointly determine the artifact. We define a semantic graph-matching distance for finite attributed workflow graphs. A partial one-to-one node matching determines node-substitution and directed labelled-edge disagreement, while unmatched nodes incur a positive null cost. Under a fixed type hierarchy, encoder, field universe, and metric-compatible primitive distances, the objective is a metric on workflow graphs up to attributed isomorphism. A padded Hungarian procedure provides a scalable feasible upper bound distinct from the exact objective. We evaluate the metric on 4,705 public n8n exports, representing 2,282 distinct normalized-graph hashes, 73,057 nodes, and 469 observed node types. Across 32,093 branch-and-bound-complete evaluations, the mean raw distance is near zero under surface-preserving transformations ($1.21 \times 10^{-5}$) and rises to $0.584$ under major type or subgraph changes. On a complete 796-hash panel, accumulated edit count has Spearman $\rho = 0.520$ with distance, while the median within-workflow correlation is $0.975$. One- and three-perturbation systems have marginal means of $0.307$ and $0.763$, and all 117,312 evaluated triangle orientations have non-negative slack. Weight ablations preserve the positive edit-count association across tested configurations. These tests support numerical consistency, near-invariance to surface-preserving transformations, graded sensitivity to semantic and structural change, and robust discrimination across controlled modifications. The metric measures artifacts and does not by itself assert behavioural equivalence under external state or runtime data.

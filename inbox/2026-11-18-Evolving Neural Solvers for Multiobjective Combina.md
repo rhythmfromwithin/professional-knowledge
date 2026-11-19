@@ -1,11 +1,12 @@
 ---
-title: "Evolving Neural Solvers for Multi-objective Combinatorial Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.22060
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22060
 next_step: skim
+priority: low
+slack_ts: '1795071558.507389'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Evolving Neural Solvers for Multi-objective Combinatorial Optimization
 ---
 # Evolving Neural Solvers for Multi-objective Combinatorial Optimization
 > 原文: [https://arxiv.org/abs/2611.22060](https://arxiv.org/abs/2611.22060)

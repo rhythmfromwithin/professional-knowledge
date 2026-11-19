@@ -1,11 +1,12 @@
 ---
-title: "PDFa11yMut: Mutation-Based Evaluation of Automated PDF Accessibility Validators"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.21628
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21628
 next_step: skim
+priority: low
+slack_ts: '1795071560.502079'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'PDFa11yMut: Mutation-Based Evaluation of Automated PDF Accessibility Validators'
 ---
 # PDFa11yMut: Mutation-Based Evaluation of Automated PDF Accessibility Validators
 > 原文: [https://arxiv.org/abs/2611.21628](https://arxiv.org/abs/2611.21628)

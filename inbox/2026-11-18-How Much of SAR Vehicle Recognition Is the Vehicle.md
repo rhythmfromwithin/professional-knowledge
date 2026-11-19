@@ -1,11 +1,13 @@
 ---
-title: "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.21827
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21827
 next_step: skim
+priority: high
+slack_ts: '1795071559.610919'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle
+  Gaps and Partial Libraries on MSTAR and ATRNet-STAR
 ---
 # How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR
 > 原文: [https://arxiv.org/abs/2611.21827](https://arxiv.org/abs/2611.21827)

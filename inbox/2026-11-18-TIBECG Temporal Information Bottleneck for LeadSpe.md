@@ -1,11 +1,13 @@
 ---
-title: "TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.21694
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21694
 next_step: skim
+priority: high
+slack_ts: '1795071561.431959'
+source: cs.LG - Machine Learning
+status: unread
+title: 'TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy
+  in ECG Waveform Release'
 ---
 # TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release
 > 原文: [https://arxiv.org/abs/2611.21694](https://arxiv.org/abs/2611.21694)

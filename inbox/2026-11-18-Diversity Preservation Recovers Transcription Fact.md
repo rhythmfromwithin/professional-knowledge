@@ -1,11 +1,13 @@
 ---
-title: "Diversity Preservation Recovers Transcription Factor Motifs Across Challenging Confounder Landscapes"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.21859
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21859
 next_step: skim
+priority: low
+slack_ts: '1795071557.530179'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Diversity Preservation Recovers Transcription Factor Motifs Across Challenging
+  Confounder Landscapes
 ---
 # Diversity Preservation Recovers Transcription Factor Motifs Across Challenging Confounder Landscapes
 > 原文: [https://arxiv.org/abs/2611.21859](https://arxiv.org/abs/2611.21859)
