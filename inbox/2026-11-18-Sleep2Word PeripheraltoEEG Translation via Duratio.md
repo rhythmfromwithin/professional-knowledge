@@ -1,11 +1,12 @@
 ---
-title: "Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.21643
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21643
 next_step: skim
+priority: high
+slack_ts: '1795157489.420669'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization'
 ---
 # Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization
 > 原文: [https://arxiv.org/abs/2611.21643](https://arxiv.org/abs/2611.21643)

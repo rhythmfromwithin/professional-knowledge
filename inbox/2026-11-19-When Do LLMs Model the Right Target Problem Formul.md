@@ -1,11 +1,13 @@
 ---
-title: "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.23638
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23638
 next_step: skim
+priority: medium
+slack_ts: '1795157504.924739'
+source: cs.CY - Computers and Society
+status: unread
+title: When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk
+  Prediction
 ---
 # When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction
 > 原文: [https://arxiv.org/abs/2611.23638](https://arxiv.org/abs/2611.23638)

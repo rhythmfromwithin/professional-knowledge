@@ -1,0 +1,16 @@
+---
+title: "DL101 The Representation Capability of Neural Network Models"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2611.24980
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# DL101 The Representation Capability of Neural Network Models
+> 原文: [https://arxiv.org/abs/2611.24980](https://arxiv.org/abs/2611.24980)
+
+arXiv:2611.24980v1 Announce Type: cross
+Abstract: Universal approximation theorems (Cybenko, Funahashi, Hornik & Leshno) provide the mathematical justification for why neural networks are powerful enough to model complex, nonlinear phenomena. Shallow networks can approximate any continuous function on compact sets. Leshno's theorem clarified that non-polynomial activations are necessary for universality, which explains why ReLU, logistic, hyperbolic tangent, and other common activations work (but pure polynomials do not).
+However, approximation theorems provide no efficiency, training, nor generalization guarantees. They do not indicate how many neurons are needed for a given accuracy, whether gradient descent will find the right parameters, or whether networks trained on finite data will generalize well.
+Barron provided quantitative error bounds for particular function classes (approximation rates for functions with bounded Fourier norm), whereas Mont\'ufar was the first to show that expressivity grows exponentially with depth (in terms of the number of linear regions). Deep networks are strictly more expressive than shallow ones with the same number of parameters. Depth is fundamentally more powerful than width, providing a rigorous mathematical explanation for the use of deep learning models.

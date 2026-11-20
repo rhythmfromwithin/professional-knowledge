@@ -1,11 +1,13 @@
 ---
-title: "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/
 next_step: skim
+priority: high
+slack_ts: '1795157496.502469'
+source: AWS Blog
+status: unread
+title: Exa boosts embedding throughput by 50% to index billions of documents on AWS
+  AI chips
 ---
 # Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips
 > 原文: [https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/](https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/)

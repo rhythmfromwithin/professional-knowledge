@@ -1,11 +1,12 @@
 ---
-title: "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.23242
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23242
 next_step: skim
+priority: high
+slack_ts: '1795157493.448129'
+source: cs.LG - Machine Learning
+status: unread
+title: Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks
 ---
 # Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks
 > 原文: [https://arxiv.org/abs/2611.23242](https://arxiv.org/abs/2611.23242)

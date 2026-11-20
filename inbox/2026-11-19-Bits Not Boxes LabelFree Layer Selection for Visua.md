@@ -1,11 +1,12 @@
 ---
-title: "Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.23432
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23432
 next_step: skim
+priority: medium
+slack_ts: '1795157493.603909'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs'
 ---
 # Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs
 > 原文: [https://arxiv.org/abs/2611.23432](https://arxiv.org/abs/2611.23432)

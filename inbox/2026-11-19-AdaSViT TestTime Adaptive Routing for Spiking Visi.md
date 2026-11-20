@@ -1,11 +1,13 @@
 ---
-title: "AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with Ultra-High Energy Efficiency"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.23728
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23728
 next_step: skim
+priority: low
+slack_ts: '1795157492.628529'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with
+  Ultra-High Energy Efficiency'
 ---
 # AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with Ultra-High Energy Efficiency
 > 原文: [https://arxiv.org/abs/2611.23728](https://arxiv.org/abs/2611.23728)

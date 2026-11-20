@@ -1,11 +1,12 @@
 ---
-title: "Fooling Yourself: how narratives shape beliefs"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2607.04753
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2607.04753
 next_step: skim
+priority: low
+slack_ts: '1795157496.797549'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Fooling Yourself: how narratives shape beliefs'
 ---
 # Fooling Yourself: how narratives shape beliefs
 > 原文: [https://arxiv.org/abs/2607.04753](https://arxiv.org/abs/2607.04753)

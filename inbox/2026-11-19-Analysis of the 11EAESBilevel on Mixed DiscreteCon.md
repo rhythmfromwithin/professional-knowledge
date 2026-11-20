@@ -1,11 +1,13 @@
 ---
-title: "Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.24251
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24251
 next_step: skim
+priority: low
+slack_ts: '1795157492.779409'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization
+  Problems with Interactions
 ---
 # Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions
 > 原文: [https://arxiv.org/abs/2611.24251](https://arxiv.org/abs/2611.24251)

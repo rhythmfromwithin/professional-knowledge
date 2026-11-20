@@ -1,0 +1,14 @@
+---
+title: "Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing"
+source: "cs.NE - Neural and Evolutionary Computing"
+link: https://arxiv.org/abs/2611.25610
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing
+> 原文: [https://arxiv.org/abs/2611.25610](https://arxiv.org/abs/2611.25610)
+
+arXiv:2611.25610v1 Announce Type: new
+Abstract: Long-horizon world modeling in partially observable environments requires compact memories that preserve spatial structure despite accumulated localization drift. Inspired by hippocampal episodic and spatial memory and the multi-periodic coding of entorhinal grid cells, we propose HiSTFormer, a hierarchical spatiotemporal world model, which adopts a layer-wise organization of local temporal RoPE and multi-periodic spatial RoPE, together with content-conditioned address offsets, to capture recent temporal context and long-range spatial structure. A fixed-capacity memory keeps KV storage and per-step attention cost bounded as the sequence grows. On MemoryMaze and HM3D, HiSTFormer outperforms strong world-model baselines within the training sequence length and generalizes substantially better to prediction horizons far beyond those seen during training, while using a compact model. The hierarchical spatiotemporal design remains effective across deeper Transformer stacks, with consistent gains as depth increases. These results show that hierarchical spatiotemporal organization and content-adaptive spatial addressing provide effective inductive biases for efficient long-horizon world modeling.

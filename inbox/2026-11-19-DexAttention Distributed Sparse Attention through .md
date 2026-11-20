@@ -1,11 +1,13 @@
 ---
-title: "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.23512
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23512
 next_step: skim
+priority: medium
+slack_ts: '1795157496.068919'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'DexAttention: Distributed Sparse Attention through Rapid Online Planning and
+  Persistent GPU Execution'
 ---
 # DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution
 > 原文: [https://arxiv.org/abs/2611.23512](https://arxiv.org/abs/2611.23512)

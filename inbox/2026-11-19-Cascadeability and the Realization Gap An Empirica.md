@@ -1,11 +1,13 @@
 ---
-title: "Cascadeability and the Realization Gap: An Empirical Study of LLM-Powered Semantic Filtering"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.23898
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23898
 next_step: skim
+priority: low
+slack_ts: '1795157494.419029'
+source: cs.DB - Databases
+status: unread
+title: 'Cascadeability and the Realization Gap: An Empirical Study of LLM-Powered
+  Semantic Filtering'
 ---
 # Cascadeability and the Realization Gap: An Empirical Study of LLM-Powered Semantic Filtering
 > 原文: [https://arxiv.org/abs/2611.23898](https://arxiv.org/abs/2611.23898)

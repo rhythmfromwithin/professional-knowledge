@@ -1,11 +1,12 @@
 ---
-title: "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.23386
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23386
 next_step: skim
+priority: high
+slack_ts: '1795157494.566759'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Chorus: Shared N-gram Embeddings with Layer-wise Adaptation'
 ---
 # Chorus: Shared N-gram Embeddings with Layer-wise Adaptation
 > 原文: [https://arxiv.org/abs/2611.23386](https://arxiv.org/abs/2611.23386)

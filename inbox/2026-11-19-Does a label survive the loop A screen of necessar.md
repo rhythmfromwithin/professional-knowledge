@@ -1,11 +1,13 @@
 ---
-title: "Does a label survive the loop? A screen of necessary physical conditions for a self-measuring system, with a pre-registered test on fly connectomes"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.23320
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23320
 next_step: skim
+priority: low
+slack_ts: '1795157496.216779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Does a label survive the loop? A screen of necessary physical conditions for
+  a self-measuring system, with a pre-registered test on fly connectomes
 ---
 # Does a label survive the loop? A screen of necessary physical conditions for a self-measuring system, with a pre-registered test on fly connectomes
 > 原文: [https://arxiv.org/abs/2611.23320](https://arxiv.org/abs/2611.23320)

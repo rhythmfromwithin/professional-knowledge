@@ -1,11 +1,13 @@
 ---
-title: "A Free Lunch: Gradient Averaging Achieves Optimal Statistical Efficiency in Newton Sketch"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.23671
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23671
 next_step: skim
+priority: medium
+slack_ts: '1795157491.794989'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'A Free Lunch: Gradient Averaging Achieves Optimal Statistical Efficiency in
+  Newton Sketch'
 ---
 # A Free Lunch: Gradient Averaging Achieves Optimal Statistical Efficiency in Newton Sketch
 > 原文: [https://arxiv.org/abs/2611.23671](https://arxiv.org/abs/2611.23671)

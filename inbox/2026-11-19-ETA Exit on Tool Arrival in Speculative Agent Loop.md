@@ -1,11 +1,12 @@
 ---
-title: "ETA: Exit on Tool Arrival in Speculative Agent Loops"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.23239
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23239
 next_step: skim
+priority: low
+slack_ts: '1795157496.359549'
+source: cs.SE - Software Engineering
+status: unread
+title: 'ETA: Exit on Tool Arrival in Speculative Agent Loops'
 ---
 # ETA: Exit on Tool Arrival in Speculative Agent Loops
 > 原文: [https://arxiv.org/abs/2611.23239](https://arxiv.org/abs/2611.23239)

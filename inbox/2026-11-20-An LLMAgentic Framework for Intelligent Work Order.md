@@ -1,0 +1,15 @@
+---
+title: "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2611.25070
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance
+> 原文: [https://arxiv.org/abs/2611.25070](https://arxiv.org/abs/2611.25070)
+
+arXiv:2611.25070v1 Announce Type: new
+Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions. The framework employs an advanced AI agentic approach to interpret human instructions, providing knowledge extraction, asset status summarization, and work order recommendations. It identifies patterns and trends and predicts work orders by standardizing industrial data into business objects (BOs) and utilizing analytical function API calls. The AI agent operates through a Thought-Action-Observation process similar to human problem-solving, automating complex analytical tasks typically performed by data scientists. Notably, the Action phase generates executable code, replacing manual coding efforts.
+A case study focusing on chiller maintenance demonstrates the framework's capability to analyze multiple years of work orders, and alerts and anomalies are presented. The results indicate that the AI agent framework effectively processes human utterances to analyze data, extract valuable insights, and support informed decision-making, reducing the need for data scientist involvement. By recontextualizing NLP agent frameworks in industrial engineering, the approach enables autonomous function generation and task execution across a range of domain-specific maintenance scenarios, with chillers used as a representative case study.

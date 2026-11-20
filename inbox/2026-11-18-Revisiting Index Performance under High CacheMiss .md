@@ -1,11 +1,12 @@
 ---
-title: "Revisiting Index Performance under High Cache-Miss Penalties"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.21835
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21835
 next_step: skim
+priority: low
+slack_ts: '1795157488.892589'
+source: cs.DB - Databases
+status: unread
+title: Revisiting Index Performance under High Cache-Miss Penalties
 ---
 # Revisiting Index Performance under High Cache-Miss Penalties
 > 原文: [https://arxiv.org/abs/2611.21835](https://arxiv.org/abs/2611.21835)

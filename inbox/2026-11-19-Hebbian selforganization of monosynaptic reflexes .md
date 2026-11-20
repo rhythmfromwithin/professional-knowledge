@@ -1,11 +1,13 @@
 ---
-title: "Hebbian self-organization of monosynaptic reflexes in a biologically realistic multiarticular limb"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.23441
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23441
 next_step: skim
+priority: low
+slack_ts: '1795157498.089509'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Hebbian self-organization of monosynaptic reflexes in a biologically realistic
+  multiarticular limb
 ---
 # Hebbian self-organization of monosynaptic reflexes in a biologically realistic multiarticular limb
 > 原文: [https://arxiv.org/abs/2611.23441](https://arxiv.org/abs/2611.23441)

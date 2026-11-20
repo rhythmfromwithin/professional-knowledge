@@ -1,11 +1,13 @@
 ---
-title: "WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster Engagement in Computing Education"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.23058
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23058
 next_step: skim
+priority: medium
+slack_ts: '1795157490.681999'
+source: cs.CY - Computers and Society
+status: unread
+title: 'WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster
+  Engagement in Computing Education'
 ---
 # WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster Engagement in Computing Education
 > 原文: [https://arxiv.org/abs/2611.23058](https://arxiv.org/abs/2611.23058)

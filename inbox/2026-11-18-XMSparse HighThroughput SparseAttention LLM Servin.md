@@ -1,11 +1,13 @@
 ---
-title: "XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.22280
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22280
 next_step: skim
+priority: medium
+slack_ts: '1795157491.137639'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory
+  Pools'
 ---
 # XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools
 > 原文: [https://arxiv.org/abs/2611.22280](https://arxiv.org/abs/2611.22280)

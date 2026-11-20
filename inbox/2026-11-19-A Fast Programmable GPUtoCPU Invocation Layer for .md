@@ -1,11 +1,12 @@
 ---
-title: "A Fast, Programmable GPU-to-CPU Invocation Layer for GPU-Initiated Communication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.23848
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23848
 next_step: skim
+priority: medium
+slack_ts: '1795157491.588559'
+source: cs.DC - Distributed Computing
+status: unread
+title: A Fast, Programmable GPU-to-CPU Invocation Layer for GPU-Initiated Communication
 ---
 # A Fast, Programmable GPU-to-CPU Invocation Layer for GPU-Initiated Communication
 > 原文: [https://arxiv.org/abs/2611.23848](https://arxiv.org/abs/2611.23848)

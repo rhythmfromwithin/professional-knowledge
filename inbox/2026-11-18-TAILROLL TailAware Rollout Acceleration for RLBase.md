@@ -1,11 +1,12 @@
 ---
-title: "TAILROLL: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.22206
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22206
 next_step: skim
+priority: medium
+slack_ts: '1795157489.918649'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TAILROLL: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training'
 ---
 # TAILROLL: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training
 > 原文: [https://arxiv.org/abs/2611.22206](https://arxiv.org/abs/2611.22206)

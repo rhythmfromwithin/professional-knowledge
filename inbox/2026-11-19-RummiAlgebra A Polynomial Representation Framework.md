@@ -1,11 +1,13 @@
 ---
-title: "RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.23443
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23443
 next_step: skim
+priority: medium
+slack_ts: '1795157502.919199'
+source: cs.CY - Computers and Society
+status: unread
+title: 'RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra
+  Learning with Jokers'
 ---
 # RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers
 > 原文: [https://arxiv.org/abs/2611.23443](https://arxiv.org/abs/2611.23443)

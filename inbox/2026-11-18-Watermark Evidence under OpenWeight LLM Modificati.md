@@ -1,11 +1,13 @@
 ---
-title: "Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.21702
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.21702
 next_step: skim
+priority: low
+slack_ts: '1795157490.827899'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank
+  Output Watermarks'
 ---
 # Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks
 > 原文: [https://arxiv.org/abs/2611.21702](https://arxiv.org/abs/2611.21702)

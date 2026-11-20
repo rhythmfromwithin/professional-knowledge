@@ -1,11 +1,13 @@
 ---
-title: "The Structural Number of Parties: An Electoral-Outcome-Independent Baseline for Comparing Party-System Scale"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.24714
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24714
 next_step: skim
+priority: low
+slack_ts: '1795157504.003359'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Structural Number of Parties: An Electoral-Outcome-Independent Baseline
+  for Comparing Party-System Scale'
 ---
 # The Structural Number of Parties: An Electoral-Outcome-Independent Baseline for Comparing Party-System Scale
 > 原文: [https://arxiv.org/abs/2611.24714](https://arxiv.org/abs/2611.24714)

@@ -1,11 +1,13 @@
 ---
-title: "Bounded-Order Non-Identifiability in Latent Structure Block Models: The Fiber in Closed Form"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.23547
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23547
 next_step: skim
+priority: medium
+slack_ts: '1795157493.760569'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Bounded-Order Non-Identifiability in Latent Structure Block Models: The Fiber
+  in Closed Form'
 ---
 # Bounded-Order Non-Identifiability in Latent Structure Block Models: The Fiber in Closed Form
 > 原文: [https://arxiv.org/abs/2611.23547](https://arxiv.org/abs/2611.23547)

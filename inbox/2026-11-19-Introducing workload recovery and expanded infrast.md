@@ -1,11 +1,13 @@
 ---
-title: "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/
 next_step: skim
+priority: high
+slack_ts: '1795157499.989949'
+source: AWS Blog
+status: unread
+title: Introducing workload recovery and expanded infrastructure checks on Amazon
+  SageMaker HyperPod
 ---
 # Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod
 > 原文: [https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/](https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/)

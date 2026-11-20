@@ -1,11 +1,13 @@
 ---
-title: "AI, Specialization, and the Organization of Knowledge Work: Evidence from Legal Services"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.23354
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23354
 next_step: skim
+priority: low
+slack_ts: '1795157492.096179'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'AI, Specialization, and the Organization of Knowledge Work: Evidence from
+  Legal Services'
 ---
 # AI, Specialization, and the Organization of Knowledge Work: Evidence from Legal Services
 > 原文: [https://arxiv.org/abs/2611.23354](https://arxiv.org/abs/2611.23354)

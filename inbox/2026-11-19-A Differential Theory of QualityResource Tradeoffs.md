@@ -1,11 +1,13 @@
 ---
-title: "A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.23324
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23324
 next_step: skim
+priority: medium
+slack_ts: '1795157491.420979'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'A Differential Theory of Quality-Resource Trade-offs for AI Model Selection:
+  The Multiresource Frontier and Its Minimax Price'
 ---
 # A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price
 > 原文: [https://arxiv.org/abs/2611.23324](https://arxiv.org/abs/2611.23324)

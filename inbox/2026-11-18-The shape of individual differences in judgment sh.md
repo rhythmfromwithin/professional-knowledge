@@ -1,11 +1,13 @@
 ---
-title: "The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.22440
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.22440
 next_step: skim
+priority: low
+slack_ts: '1795157490.354009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The shape of individual differences in judgment: shared axes, personal weights,
+  and when their spread crosses the consensus'
 ---
 # The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus
 > 原文: [https://arxiv.org/abs/2611.22440](https://arxiv.org/abs/2611.22440)

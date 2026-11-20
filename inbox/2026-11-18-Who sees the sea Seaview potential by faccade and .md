@@ -1,11 +1,5 @@
 ---
-title: "Who sees the sea? Sea-view potential by fa\c{c}ade and floor from cadastral LoD1 models on the Costa del Sol"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.21672
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1795157490.981299'
 ---
 # Who sees the sea? Sea-view potential by fa\c{c}ade and floor from cadastral LoD1 models on the Costa del Sol
 > 原文: [https://arxiv.org/abs/2611.21672](https://arxiv.org/abs/2611.21672)
