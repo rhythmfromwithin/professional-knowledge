@@ -1,11 +1,12 @@
 ---
-title: "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.25200
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25200
 next_step: skim
+priority: low
+slack_ts: '1795243610.001639'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests'
 ---
 # Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests
 > 原文: [https://arxiv.org/abs/2611.25200](https://arxiv.org/abs/2611.25200)

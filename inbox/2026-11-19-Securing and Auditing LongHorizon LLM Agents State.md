@@ -1,11 +1,13 @@
 ---
-title: "Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.23346
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23346
 next_step: skim
+priority: low
+slack_ts: '1795243592.960159'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and
+  Controls in the Agent Harness'
 ---
 # Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness
 > 原文: [https://arxiv.org/abs/2611.23346](https://arxiv.org/abs/2611.23346)

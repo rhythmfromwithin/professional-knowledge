@@ -1,11 +1,13 @@
 ---
-title: "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.25070
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25070
 next_step: skim
+priority: high
+slack_ts: '1795243597.476079'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: An LLM-Agentic Framework for Intelligent Work Order Management in Industrial
+  Maintenance
 ---
 # An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance
 > 原文: [https://arxiv.org/abs/2611.25070](https://arxiv.org/abs/2611.25070)

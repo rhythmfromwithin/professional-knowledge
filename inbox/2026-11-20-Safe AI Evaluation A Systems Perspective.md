@@ -1,11 +1,12 @@
 ---
-title: "Safe AI Evaluation: A Systems Perspective"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.24987
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24987
 next_step: skim
+priority: low
+slack_ts: '1795243608.982999'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Safe AI Evaluation: A Systems Perspective'
 ---
 # Safe AI Evaluation: A Systems Perspective
 > 原文: [https://arxiv.org/abs/2611.24987](https://arxiv.org/abs/2611.24987)

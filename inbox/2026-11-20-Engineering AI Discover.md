@@ -1,7 +1,9 @@
 ---
-title: "Engineering AI Discover"
-source: "Netflix Tech Blog"
-link: https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4
+link: https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss
+slack_ts: '1795243601.948009'
+source: Netflix Tech Blog
+title: Engineering AI Discover
+----2615bd06b42e---4
 priority: high
 status: unread
 interest: medium

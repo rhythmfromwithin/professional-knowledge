@@ -1,11 +1,12 @@
 ---
-title: "Amazon SageMaker Inference: 2026 launches in review, part 2"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/
 next_step: skim
+priority: high
+slack_ts: '1795243597.257319'
+source: AWS Blog
+status: unread
+title: 'Amazon SageMaker Inference: 2026 launches in review, part 2'
 ---
 # Amazon SageMaker Inference: 2026 launches in review, part 2
 > 原文: [https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/)

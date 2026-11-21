@@ -1,11 +1,12 @@
 ---
-title: "A Matter of Representation: Evolving Partial Spreads for Bent Functions"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.26011
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26011
 next_step: skim
+priority: low
+slack_ts: '1795243596.601699'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'A Matter of Representation: Evolving Partial Spreads for Bent Functions'
 ---
 # A Matter of Representation: Evolving Partial Spreads for Bent Functions
 > 原文: [https://arxiv.org/abs/2611.26011](https://arxiv.org/abs/2611.26011)

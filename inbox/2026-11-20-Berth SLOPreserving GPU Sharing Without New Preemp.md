@@ -1,11 +1,12 @@
 ---
-title: "Berth: SLO-Preserving GPU Sharing Without New Preemption"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.25091
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25091
 next_step: skim
+priority: medium
+slack_ts: '1795243598.140079'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Berth: SLO-Preserving GPU Sharing Without New Preemption'
 ---
 # Berth: SLO-Preserving GPU Sharing Without New Preemption
 > 原文: [https://arxiv.org/abs/2611.25091](https://arxiv.org/abs/2611.25091)

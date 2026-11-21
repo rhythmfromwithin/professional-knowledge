@@ -1,11 +1,13 @@
 ---
-title: "The Value Semantics Layer: Enabling Machine-Understandable Databases for Agentic AI"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.23629
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23629
 next_step: skim
+priority: low
+slack_ts: '1795243594.268749'
+source: cs.DB - Databases
+status: unread
+title: 'The Value Semantics Layer: Enabling Machine-Understandable Databases for Agentic
+  AI'
 ---
 # The Value Semantics Layer: Enabling Machine-Understandable Databases for Agentic AI
 > 原文: [https://arxiv.org/abs/2611.23629](https://arxiv.org/abs/2611.23629)

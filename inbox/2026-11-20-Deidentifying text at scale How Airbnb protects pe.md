@@ -1,7 +1,9 @@
 ---
-title: "De-identifying text at scale: How Airbnb protects personal data in AI training"
-source: "Airbnb Engineering"
-link: https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4
+link: https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss
+slack_ts: '1795243600.845729'
+source: Airbnb Engineering
+title: 'De-identifying text at scale: How Airbnb protects personal data in AI training'
+----53c7c27702d5---4
 priority: medium
 status: unread
 interest: medium

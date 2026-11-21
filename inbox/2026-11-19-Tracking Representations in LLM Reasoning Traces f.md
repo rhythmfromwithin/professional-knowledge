@@ -1,11 +1,12 @@
 ---
-title: "Tracking Representations in LLM Reasoning Traces for Iterated Games"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.23403
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23403
 next_step: skim
+priority: high
+slack_ts: '1795243595.503079'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Tracking Representations in LLM Reasoning Traces for Iterated Games
 ---
 # Tracking Representations in LLM Reasoning Traces for Iterated Games
 > 原文: [https://arxiv.org/abs/2611.23403](https://arxiv.org/abs/2611.23403)

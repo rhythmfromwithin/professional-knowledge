@@ -1,11 +1,13 @@
 ---
-title: "Crisis Governance at the Joints. Mapping the Ethical and Societal Territory of Crisis Management Technologies: The Case of Human-Swarm Teaming"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.25202
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25202
 next_step: skim
+priority: medium
+slack_ts: '1795243600.199049'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Crisis Governance at the Joints. Mapping the Ethical and Societal Territory
+  of Crisis Management Technologies: The Case of Human-Swarm Teaming'
 ---
 # Crisis Governance at the Joints. Mapping the Ethical and Societal Territory of Crisis Management Technologies: The Case of Human-Swarm Teaming
 > 原文: [https://arxiv.org/abs/2611.25202](https://arxiv.org/abs/2611.25202)

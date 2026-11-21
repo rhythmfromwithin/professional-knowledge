@@ -1,11 +1,12 @@
 ---
-title: "Cultural invariance in music-evoked emotions"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.25189
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25189
 next_step: skim
+priority: low
+slack_ts: '1795243600.417459'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Cultural invariance in music-evoked emotions
 ---
 # Cultural invariance in music-evoked emotions
 > 原文: [https://arxiv.org/abs/2611.25189](https://arxiv.org/abs/2611.25189)

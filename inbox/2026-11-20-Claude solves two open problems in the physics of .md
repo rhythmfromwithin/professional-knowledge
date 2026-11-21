@@ -1,11 +1,12 @@
 ---
-title: "Claude solves two open problems in the physics of black holes"
-source: "Anthropic"
-link: https://www.anthropic.com/research/claude-black-hole-physics
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/claude-black-hole-physics
 next_step: skim
+priority: high
+slack_ts: '1795243599.304389'
+source: Anthropic
+status: unread
+title: Claude solves two open problems in the physics of black holes
 ---
 # Claude solves two open problems in the physics of black holes
 > 原文: [https://www.anthropic.com/research/claude-black-hole-physics](https://www.anthropic.com/research/claude-black-hole-physics)

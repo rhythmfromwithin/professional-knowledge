@@ -1,11 +1,13 @@
 ---
-title: "A Human-Centric Adaptive Multi-Fidelity Digital Twin Framework for Cyber-Physical Systems"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.25082
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25082
 next_step: skim
+priority: low
+slack_ts: '1795243596.381149'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: A Human-Centric Adaptive Multi-Fidelity Digital Twin Framework for Cyber-Physical
+  Systems
 ---
 # A Human-Centric Adaptive Multi-Fidelity Digital Twin Framework for Cyber-Physical Systems
 > 原文: [https://arxiv.org/abs/2611.25082](https://arxiv.org/abs/2611.25082)

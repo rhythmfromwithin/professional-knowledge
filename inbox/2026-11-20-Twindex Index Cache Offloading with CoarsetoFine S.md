@@ -1,11 +1,13 @@
 ---
-title: "Twindex: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.25078
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25078
 next_step: skim
+priority: medium
+slack_ts: '1795243611.825179'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Twindex: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context
+  Sparse-Attention Serving'
 ---
 # Twindex: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving
 > 原文: [https://arxiv.org/abs/2611.25078](https://arxiv.org/abs/2611.25078)

@@ -1,11 +1,13 @@
 ---
-title: "Miscalibrated AI improves human calibration: An alignment problem for AI-assisted Decision education"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.23618
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23618
 next_step: skim
+priority: low
+slack_ts: '1795243590.528899'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Miscalibrated AI improves human calibration: An alignment problem for AI-assisted
+  Decision education'
 ---
 # Miscalibrated AI improves human calibration: An alignment problem for AI-assisted Decision education
 > 原文: [https://arxiv.org/abs/2611.23618](https://arxiv.org/abs/2611.23618)

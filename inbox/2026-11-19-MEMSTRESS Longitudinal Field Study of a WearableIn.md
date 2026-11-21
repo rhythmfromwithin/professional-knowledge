@@ -1,11 +1,13 @@
 ---
-title: "MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.23691
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23691
 next_step: skim
+priority: low
+slack_ts: '1795243590.086769'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for
+  Stress Management'
 ---
 # MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management
 > 原文: [https://arxiv.org/abs/2611.23691](https://arxiv.org/abs/2611.23691)

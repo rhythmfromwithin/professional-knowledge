@@ -1,11 +1,12 @@
 ---
-title: "Training Language Models for Introspective Oversight"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.23365
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23365
 next_step: skim
+priority: high
+slack_ts: '1795243595.724819'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Training Language Models for Introspective Oversight
 ---
 # Training Language Models for Introspective Oversight
 > 原文: [https://arxiv.org/abs/2611.23365](https://arxiv.org/abs/2611.23365)

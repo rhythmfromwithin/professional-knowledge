@@ -1,11 +1,13 @@
 ---
-title: "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.23240
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23240
 next_step: skim
+priority: high
+slack_ts: '1795243590.966869'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach
+  Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models'
 ---
 # Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models
 > 原文: [https://arxiv.org/abs/2611.23240](https://arxiv.org/abs/2611.23240)

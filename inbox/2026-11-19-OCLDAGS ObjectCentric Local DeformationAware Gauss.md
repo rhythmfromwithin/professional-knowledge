@@ -1,11 +1,12 @@
 ---
-title: "OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.23416
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23416
 next_step: skim
+priority: medium
+slack_ts: '1795243591.403529'
+source: cs.CV - Computer Vision
+status: unread
+title: 'OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming'
 ---
 # OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming
 > 原文: [https://arxiv.org/abs/2611.23416](https://arxiv.org/abs/2611.23416)

@@ -1,11 +1,12 @@
 ---
-title: "Incremental Speciation in Evolutionary Red Teaming of Large Language Models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.23949
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23949
 next_step: skim
+priority: low
+slack_ts: '1795243588.308569'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Incremental Speciation in Evolutionary Red Teaming of Large Language Models
 ---
 # Incremental Speciation in Evolutionary Red Teaming of Large Language Models
 > 原文: [https://arxiv.org/abs/2611.23949](https://arxiv.org/abs/2611.23949)

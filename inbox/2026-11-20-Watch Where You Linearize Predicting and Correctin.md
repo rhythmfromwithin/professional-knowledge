@@ -1,11 +1,12 @@
 ---
-title: "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.25000
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25000
 next_step: skim
+priority: high
+slack_ts: '1795243612.832429'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Watch Where You Linearize: Predicting and Correcting Model-Merging Interference'
 ---
 # Watch Where You Linearize: Predicting and Correcting Model-Merging Interference
 > 原文: [https://arxiv.org/abs/2611.25000](https://arxiv.org/abs/2611.25000)

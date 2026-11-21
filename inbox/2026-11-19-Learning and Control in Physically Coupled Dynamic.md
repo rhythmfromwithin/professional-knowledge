@@ -1,11 +1,12 @@
 ---
-title: "Learning and Control in Physically Coupled Dynamical Systems"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.23502
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23502
 next_step: skim
+priority: medium
+slack_ts: '1795243589.648239'
+source: cs.RO - Robotics
+status: unread
+title: Learning and Control in Physically Coupled Dynamical Systems
 ---
 # Learning and Control in Physically Coupled Dynamical Systems
 > 原文: [https://arxiv.org/abs/2611.23502](https://arxiv.org/abs/2611.23502)

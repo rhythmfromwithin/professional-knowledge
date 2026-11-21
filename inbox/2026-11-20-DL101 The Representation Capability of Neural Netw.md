@@ -1,11 +1,12 @@
 ---
-title: "DL101 The Representation Capability of Neural Network Models"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.24980
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24980
 next_step: skim
+priority: low
+slack_ts: '1795243600.631809'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: DL101 The Representation Capability of Neural Network Models
 ---
 # DL101 The Representation Capability of Neural Network Models
 > 原文: [https://arxiv.org/abs/2611.24980](https://arxiv.org/abs/2611.24980)

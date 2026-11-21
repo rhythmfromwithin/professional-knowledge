@@ -1,11 +1,13 @@
 ---
-title: "EgoPass-Bench: Identifying Objects That May Affect the Wearer's Passage in Egocentric Video"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.24995
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24995
 next_step: skim
+priority: medium
+slack_ts: '1795243601.726369'
+source: cs.CV - Computer Vision
+status: unread
+title: 'EgoPass-Bench: Identifying Objects That May Affect the Wearer''s Passage in
+  Egocentric Video'
 ---
 # EgoPass-Bench: Identifying Objects That May Affect the Wearer's Passage in Egocentric Video
 > 原文: [https://arxiv.org/abs/2611.24995](https://arxiv.org/abs/2611.24995)

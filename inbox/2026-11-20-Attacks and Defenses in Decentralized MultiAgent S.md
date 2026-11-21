@@ -1,11 +1,13 @@
 ---
-title: "Attacks and Defenses in Decentralized Multi-Agent Systems with Hop-by-Hop Task Decomposition and Delegation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.25056
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25056
 next_step: skim
+priority: low
+slack_ts: '1795243597.699409'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Attacks and Defenses in Decentralized Multi-Agent Systems with Hop-by-Hop Task
+  Decomposition and Delegation
 ---
 # Attacks and Defenses in Decentralized Multi-Agent Systems with Hop-by-Hop Task Decomposition and Delegation
 > 原文: [https://arxiv.org/abs/2611.25056](https://arxiv.org/abs/2611.25056)

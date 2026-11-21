@@ -1,11 +1,13 @@
 ---
-title: "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.25043
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25043
 next_step: skim
+priority: high
+slack_ts: '1795243599.549599'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving
+  Laboratories'
 ---
 # Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories
 > 原文: [https://arxiv.org/abs/2611.25043](https://arxiv.org/abs/2611.25043)

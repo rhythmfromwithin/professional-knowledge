@@ -1,11 +1,13 @@
 ---
-title: "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.23359
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23359
 next_step: skim
+priority: high
+slack_ts: '1795243591.866729'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Prioritize, Don''t Decide: What We Learned Auditing a Deployed Human-in-the-Loop
+  CV Sorter'
 ---
 # Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter
 > 原文: [https://arxiv.org/abs/2611.23359](https://arxiv.org/abs/2611.23359)

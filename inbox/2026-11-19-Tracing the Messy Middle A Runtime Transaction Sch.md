@@ -1,11 +1,12 @@
 ---
-title: "Tracing the Messy Middle: A Runtime Transaction Schema for AI Coding Agents"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.23234
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.23234
 next_step: skim
+priority: low
+slack_ts: '1795243595.249379'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Tracing the Messy Middle: A Runtime Transaction Schema for AI Coding Agents'
 ---
 # Tracing the Messy Middle: A Runtime Transaction Schema for AI Coding Agents
 > 原文: [https://arxiv.org/abs/2611.23234](https://arxiv.org/abs/2611.23234)
