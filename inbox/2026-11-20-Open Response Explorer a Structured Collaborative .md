@@ -1,11 +1,13 @@
 ---
-title: "Open Response Explorer: a Structured Collaborative Writing System for Peer-Informed Open-Response Assignments"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.25169
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25169
 next_step: skim
+priority: low
+slack_ts: '1795328173.852999'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Open Response Explorer: a Structured Collaborative Writing System for Peer-Informed
+  Open-Response Assignments'
 ---
 # Open Response Explorer: a Structured Collaborative Writing System for Peer-Informed Open-Response Assignments
 > 原文: [https://arxiv.org/abs/2611.25169](https://arxiv.org/abs/2611.25169)

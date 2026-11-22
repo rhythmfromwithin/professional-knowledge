@@ -1,11 +1,12 @@
 ---
-title: "Structural economic change under the digital transformation"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.26338
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26338
 next_step: skim
+priority: low
+slack_ts: '1795328175.676889'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Structural economic change under the digital transformation
 ---
 # Structural economic change under the digital transformation
 > 原文: [https://arxiv.org/abs/2611.26338](https://arxiv.org/abs/2611.26338)

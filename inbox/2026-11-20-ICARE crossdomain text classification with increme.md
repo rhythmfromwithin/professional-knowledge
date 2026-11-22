@@ -1,11 +1,13 @@
 ---
-title: "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.24959
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24959
 next_step: skim
+priority: high
+slack_ts: '1795328172.521859'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'ICARE: cross-domain text classification with incremental class-aware representation
+  and distillation learning'
 ---
 # ICARE: cross-domain text classification with incremental class-aware representation and distillation learning
 > 原文: [https://arxiv.org/abs/2611.24959](https://arxiv.org/abs/2611.24959)

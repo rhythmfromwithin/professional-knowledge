@@ -1,11 +1,12 @@
 ---
-title: "See PR scans in action"
-source: "OpenAI Blog"
-link: https://openai.com/business/learn/pr-scans-demo
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/business/learn/pr-scans-demo
 next_step: skim
+priority: high
+slack_ts: '1795328175.085859'
+source: OpenAI Blog
+status: unread
+title: See PR scans in action
 ---
 # See PR scans in action
 > 原文: [https://openai.com/business/learn/pr-scans-demo](https://openai.com/business/learn/pr-scans-demo)

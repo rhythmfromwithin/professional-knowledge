@@ -1,11 +1,12 @@
 ---
-title: "Ties at the Top: A Point-in-Time Comparison of CVSS and EPSS at a Fixed Budget"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.24983
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24983
 next_step: skim
+priority: low
+slack_ts: '1795328176.149729'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Ties at the Top: A Point-in-Time Comparison of CVSS and EPSS at a Fixed Budget'
 ---
 # Ties at the Top: A Point-in-Time Comparison of CVSS and EPSS at a Fixed Budget
 > 原文: [https://arxiv.org/abs/2611.24983](https://arxiv.org/abs/2611.24983)

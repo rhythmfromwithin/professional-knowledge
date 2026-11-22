@@ -1,11 +1,13 @@
 ---
-title: "Trace2ST: Recovering PLC Structured Text from I/O Traces with LLM Generation and Verification"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.24979
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24979
 next_step: skim
+priority: low
+slack_ts: '1795328176.287829'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Trace2ST: Recovering PLC Structured Text from I/O Traces with LLM Generation
+  and Verification'
 ---
 # Trace2ST: Recovering PLC Structured Text from I/O Traces with LLM Generation and Verification
 > 原文: [https://arxiv.org/abs/2611.24979](https://arxiv.org/abs/2611.24979)

@@ -1,11 +1,12 @@
 ---
-title: "TripleKV: Predict, Prefetch, Protect -- KV Cache Management for AI Agents"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.25112
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25112
 next_step: skim
+priority: medium
+slack_ts: '1795328176.438839'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'TripleKV: Predict, Prefetch, Protect -- KV Cache Management for AI Agents'
 ---
 # TripleKV: Predict, Prefetch, Protect -- KV Cache Management for AI Agents
 > 原文: [https://arxiv.org/abs/2611.25112](https://arxiv.org/abs/2611.25112)

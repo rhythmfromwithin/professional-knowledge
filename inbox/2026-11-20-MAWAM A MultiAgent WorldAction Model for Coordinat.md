@@ -1,11 +1,12 @@
 ---
-title: "MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.25105
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25105
 next_step: skim
+priority: medium
+slack_ts: '1795328173.580479'
+source: cs.RO - Robotics
+status: unread
+title: 'MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation'
 ---
 # MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation
 > 原文: [https://arxiv.org/abs/2611.25105](https://arxiv.org/abs/2611.25105)

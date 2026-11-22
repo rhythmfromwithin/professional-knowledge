@@ -1,11 +1,13 @@
 ---
-title: "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.25001
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25001
 next_step: skim
+priority: high
+slack_ts: '1795328179.022449'
+source: cs.LG - Machine Learning
+status: unread
+title: Density Feedback Control for Transferability of Generative Sparse Adversarial
+  Attacks
 ---
 # Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks
 > 原文: [https://arxiv.org/abs/2611.25001](https://arxiv.org/abs/2611.25001)

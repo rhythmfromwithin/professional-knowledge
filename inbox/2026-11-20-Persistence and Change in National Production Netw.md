@@ -1,11 +1,12 @@
 ---
-title: "Persistence and Change in National Production Networks"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.25869
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25869
 next_step: skim
+priority: low
+slack_ts: '1795328174.205279'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Persistence and Change in National Production Networks
 ---
 # Persistence and Change in National Production Networks
 > 原文: [https://arxiv.org/abs/2611.25869](https://arxiv.org/abs/2611.25869)

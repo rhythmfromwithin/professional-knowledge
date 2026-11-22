@@ -1,11 +1,12 @@
 ---
-title: "Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.25610
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25610
 next_step: skim
+priority: low
+slack_ts: '1795328171.672439'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing
 ---
 # Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing
 > 原文: [https://arxiv.org/abs/2611.25610](https://arxiv.org/abs/2611.25610)

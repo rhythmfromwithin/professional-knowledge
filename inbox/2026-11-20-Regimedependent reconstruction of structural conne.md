@@ -1,11 +1,13 @@
 ---
-title: "Regime-dependent reconstruction of structural connectivity: an in silico study of spatially constrained modular neuronal networks"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.25830
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25830
 next_step: skim
+priority: low
+slack_ts: '1795328174.653009'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Regime-dependent reconstruction of structural connectivity: an in silico study
+  of spatially constrained modular neuronal networks'
 ---
 # Regime-dependent reconstruction of structural connectivity: an in silico study of spatially constrained modular neuronal networks
 > 原文: [https://arxiv.org/abs/2611.25830](https://arxiv.org/abs/2611.25830)

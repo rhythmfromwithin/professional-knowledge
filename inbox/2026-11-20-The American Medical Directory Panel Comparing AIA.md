@@ -1,11 +1,13 @@
 ---
-title: "The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.25218
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25218
 next_step: skim
+priority: low
+slack_ts: '1795328175.983499'
+source: cs.DB - Databases
+status: unread
+title: 'The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription
+  with Manual Data Entry at Scale'
 ---
 # The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale
 > 原文: [https://arxiv.org/abs/2611.25218](https://arxiv.org/abs/2611.25218)

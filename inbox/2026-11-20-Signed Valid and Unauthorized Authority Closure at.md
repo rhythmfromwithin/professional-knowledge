@@ -1,11 +1,13 @@
 ---
-title: "Signed, Valid, and Unauthorized: Authority Closure at the Trust Boundary Between Agent Commerce Protocols and Crypto Wallets"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.24989
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24989
 next_step: skim
+priority: low
+slack_ts: '1795328175.378449'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Signed, Valid, and Unauthorized: Authority Closure at the Trust Boundary Between
+  Agent Commerce Protocols and Crypto Wallets'
 ---
 # Signed, Valid, and Unauthorized: Authority Closure at the Trust Boundary Between Agent Commerce Protocols and Crypto Wallets
 > 原文: [https://arxiv.org/abs/2611.24989](https://arxiv.org/abs/2611.24989)

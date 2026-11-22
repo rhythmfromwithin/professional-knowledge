@@ -1,11 +1,13 @@
 ---
-title: "Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.25005
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25005
 next_step: skim
+priority: medium
+slack_ts: '1795328172.664859'
+source: cs.RO - Robotics
+status: unread
+title: 'Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with
+  Spatial Control and Quantitative Feedback'
 ---
 # Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback
 > 原文: [https://arxiv.org/abs/2611.25005](https://arxiv.org/abs/2611.25005)

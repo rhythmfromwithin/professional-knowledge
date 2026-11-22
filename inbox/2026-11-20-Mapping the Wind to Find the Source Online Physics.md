@@ -1,11 +1,13 @@
 ---
-title: "Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization with Mobile Robots"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.25067
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25067
 next_step: skim
+priority: medium
+slack_ts: '1795328173.708949'
+source: cs.RO - Robotics
+status: unread
+title: 'Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization
+  with Mobile Robots'
 ---
 # Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization with Mobile Robots
 > 原文: [https://arxiv.org/abs/2611.25067](https://arxiv.org/abs/2611.25067)

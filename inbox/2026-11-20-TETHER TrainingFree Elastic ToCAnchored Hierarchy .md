@@ -1,11 +1,13 @@
 ---
-title: "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.24960
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24960
 next_step: skim
+priority: high
+slack_ts: '1795328175.841549'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery
+  in Design-Driven Long Documents'
 ---
 # TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents
 > 原文: [https://arxiv.org/abs/2611.24960](https://arxiv.org/abs/2611.24960)

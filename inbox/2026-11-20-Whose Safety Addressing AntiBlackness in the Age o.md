@@ -1,11 +1,12 @@
 ---
-title: "Whose Safety? Addressing Anti-Blackness in the Age of AI Safety"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.25302
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25302
 next_step: skim
+priority: medium
+slack_ts: '1795328177.174259'
+source: cs.CY - Computers and Society
+status: unread
+title: Whose Safety? Addressing Anti-Blackness in the Age of AI Safety
 ---
 # Whose Safety? Addressing Anti-Blackness in the Age of AI Safety
 > 原文: [https://arxiv.org/abs/2611.25302](https://arxiv.org/abs/2611.25302)

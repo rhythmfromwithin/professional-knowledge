@@ -1,11 +1,13 @@
 ---
-title: "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.24943
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24943
 next_step: skim
+priority: high
+slack_ts: '1795328173.281709'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'LLM Complexity: Towards a Computational Complexity View of Large Language
+  Model Inference'
 ---
 # LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference
 > 原文: [https://arxiv.org/abs/2611.24943](https://arxiv.org/abs/2611.24943)

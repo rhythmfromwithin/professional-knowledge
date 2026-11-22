@@ -1,11 +1,13 @@
 ---
-title: "Show Your Work: Can Small Open Models Read SEC Filings with Evidence a Machine Can Check?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.24990
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24990
 next_step: skim
+priority: low
+slack_ts: '1795328175.242139'
+source: cs.SE - Software Engineering
+status: unread
+title: 'Show Your Work: Can Small Open Models Read SEC Filings with Evidence a Machine
+  Can Check?'
 ---
 # Show Your Work: Can Small Open Models Read SEC Filings with Evidence a Machine Can Check?
 > 原文: [https://arxiv.org/abs/2611.24990](https://arxiv.org/abs/2611.24990)

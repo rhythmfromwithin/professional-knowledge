@@ -1,11 +1,13 @@
 ---
-title: "Standardized Tolerance for Adaptive Reuse and Repair: A Method for HNSW Migration Under Embedding Model Change Scenarios"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.25416
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25416
 next_step: skim
+priority: low
+slack_ts: '1795328175.526629'
+source: cs.DB - Databases
+status: unread
+title: 'Standardized Tolerance for Adaptive Reuse and Repair: A Method for HNSW Migration
+  Under Embedding Model Change Scenarios'
 ---
 # Standardized Tolerance for Adaptive Reuse and Repair: A Method for HNSW Migration Under Embedding Model Change Scenarios
 > 原文: [https://arxiv.org/abs/2611.25416](https://arxiv.org/abs/2611.25416)

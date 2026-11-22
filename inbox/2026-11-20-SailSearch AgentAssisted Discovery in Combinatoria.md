@@ -1,11 +1,12 @@
 ---
-title: "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.25087
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25087
 next_step: skim
+priority: high
+slack_ts: '1795328174.939329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SailSearch: Agent-Assisted Discovery in Combinatorial Optimization'
 ---
 # SailSearch: Agent-Assisted Discovery in Combinatorial Optimization
 > 原文: [https://arxiv.org/abs/2611.25087](https://arxiv.org/abs/2611.25087)

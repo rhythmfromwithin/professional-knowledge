@@ -1,11 +1,12 @@
 ---
-title: "VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.25069
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.25069
 next_step: skim
+priority: medium
+slack_ts: '1795328176.898229'
+source: cs.CV - Computer Vision
+status: unread
+title: 'VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation'
 ---
 # VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation
 > 原文: [https://arxiv.org/abs/2611.25069](https://arxiv.org/abs/2611.25069)
