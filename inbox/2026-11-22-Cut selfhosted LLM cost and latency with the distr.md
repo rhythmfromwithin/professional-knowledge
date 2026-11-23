@@ -1,11 +1,13 @@
 ---
-title: "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/
 next_step: skim
+priority: high
+slack_ts: '1795417666.995829'
+source: AWS Blog
+status: unread
+title: Cut self-hosted LLM cost and latency with the distributed KV caching agent
+  skill
 ---
 # Cut self-hosted LLM cost and latency with the distributed KV caching agent skill
 > 原文: [https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)

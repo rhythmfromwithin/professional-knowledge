@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2611.27117
+next_step: skim
+priority: low
+slack_ts: '1795417669.641639'
+source: cs.DB - Databases
+status: unread
+title: Highly Efficient Vertical Federated Clustering with Triangle-Inequality-based
+  Pruning
+---
+# Highly Efficient Vertical Federated Clustering with Triangle-Inequality-based Pruning
+> 原文: [https://arxiv.org/abs/2611.27117](https://arxiv.org/abs/2611.27117)
+
+arXiv:2611.27117v1 Announce Type: new
+Abstract: In many real-world scenarios, multiple parties hold complementary feature subsets for the same samples but cannot share raw data. This makes efficient clustering over distributed feature subsets an important and challenging problem. While vertical federated learning (VFL) enables such collaboration, existing VFL clustering methods often require many communication rounds or substantial local computation. To address these limitations, we first propose TriCD, an exact pruning method for CDKM that preserves the same cluster assignments under the same initialization. TriCD constructs triangle-inequality bounds on demand to skip redundant objective evaluations with negligible extra space. Building upon this, we propose FedTriCD, an efficient federated clustering algorithm. By decomposing the global objective into client-local subproblems, FedTriCD enables pruning-based local optimization using only local data. FedTriCD further reduces communication by allowing multiple local updates between server synchronizations. A proximal regularization term is introduced to control the drift caused by infrequent communication. Our theoretical analysis establishes the exactness and finite convergence of TriCD and provides a bounded-error server-side update guarantee for FedTriCD. Experiments on multiple real-world datasets demonstrate the efficiency and clustering quality of the proposed methods. TriCD achieves up to a 50.07$\times$ speedup over \Lloyd's algorithm. Moreover, FedTriCD achieves competitive clustering quality while requiring fewer local evaluations and fewer communication rounds than state-of-the-art federated clustering methods.

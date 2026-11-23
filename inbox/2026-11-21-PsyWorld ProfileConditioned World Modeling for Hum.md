@@ -1,11 +1,12 @@
 ---
-title: "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.24999
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.24999
 next_step: skim
+priority: high
+slack_ts: '1795417666.135919'
+source: cs.LG - Machine Learning
+status: unread
+title: 'PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction'
 ---
 # PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction
 > 原文: [https://arxiv.org/abs/2611.24999](https://arxiv.org/abs/2611.24999)
