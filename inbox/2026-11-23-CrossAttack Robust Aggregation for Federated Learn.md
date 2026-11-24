@@ -1,11 +1,12 @@
 ---
-title: "Cross-Attack Robust Aggregation for Federated Learning"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.26731
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26731
 next_step: skim
+priority: high
+slack_ts: '1795512702.663419'
+source: cs.LG - Machine Learning
+status: unread
+title: Cross-Attack Robust Aggregation for Federated Learning
 ---
 # Cross-Attack Robust Aggregation for Federated Learning
 > 原文: [https://arxiv.org/abs/2611.26731](https://arxiv.org/abs/2611.26731)

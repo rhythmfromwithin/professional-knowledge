@@ -1,11 +1,13 @@
 ---
-title: "Federated KPI Aggregation with Local Privacy Constraints and Coordinated OLAP Roll-Ups"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.26709
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26709
 next_step: skim
+priority: low
+slack_ts: '1795512704.682639'
+source: cs.DB - Databases
+status: unread
+title: Federated KPI Aggregation with Local Privacy Constraints and Coordinated OLAP
+  Roll-Ups
 ---
 # Federated KPI Aggregation with Local Privacy Constraints and Coordinated OLAP Roll-Ups
 > 原文: [https://arxiv.org/abs/2611.26709](https://arxiv.org/abs/2611.26709)

@@ -1,11 +1,12 @@
 ---
-title: "Latent Space Planning with Sequential Monte Carlo"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.26706
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26706
 next_step: skim
+priority: medium
+slack_ts: '1795512708.082199'
+source: cs.RO - Robotics
+status: unread
+title: Latent Space Planning with Sequential Monte Carlo
 ---
 # Latent Space Planning with Sequential Monte Carlo
 > 原文: [https://arxiv.org/abs/2611.26706](https://arxiv.org/abs/2611.26706)

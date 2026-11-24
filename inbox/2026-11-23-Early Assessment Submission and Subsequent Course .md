@@ -1,11 +1,13 @@
 ---
-title: "Early Assessment Submission and Subsequent Course Outcome: A Day-30 Landmark Observational Analysis of OULAD with Explicit Weighting Diagnostics"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.27005
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27005
 next_step: skim
+priority: medium
+slack_ts: '1795512703.524939'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Early Assessment Submission and Subsequent Course Outcome: A Day-30 Landmark
+  Observational Analysis of OULAD with Explicit Weighting Diagnostics'
 ---
 # Early Assessment Submission and Subsequent Course Outcome: A Day-30 Landmark Observational Analysis of OULAD with Explicit Weighting Diagnostics
 > 原文: [https://arxiv.org/abs/2611.27005](https://arxiv.org/abs/2611.27005)

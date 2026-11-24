@@ -1,11 +1,13 @@
 ---
-title: "Forehead ROI Localization under Real-World Imaging Degradations via Cross-View Pseudo-Labeling"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.26712
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26712
 next_step: skim
+priority: medium
+slack_ts: '1795512704.828869'
+source: cs.CV - Computer Vision
+status: unread
+title: Forehead ROI Localization under Real-World Imaging Degradations via Cross-View
+  Pseudo-Labeling
 ---
 # Forehead ROI Localization under Real-World Imaging Degradations via Cross-View Pseudo-Labeling
 > 原文: [https://arxiv.org/abs/2611.26712](https://arxiv.org/abs/2611.26712)

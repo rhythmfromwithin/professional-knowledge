@@ -1,11 +1,12 @@
 ---
-title: "Explain Your Code: AI-Based Examination at Class Scale"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.26836
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26836
 next_step: skim
+priority: low
+slack_ts: '1795512703.862349'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Explain Your Code: AI-Based Examination at Class Scale'
 ---
 # Explain Your Code: AI-Based Examination at Class Scale
 > 原文: [https://arxiv.org/abs/2611.26836](https://arxiv.org/abs/2611.26836)

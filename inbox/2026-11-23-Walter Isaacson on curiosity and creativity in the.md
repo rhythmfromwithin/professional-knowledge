@@ -1,11 +1,12 @@
 ---
-title: "Walter Isaacson on curiosity and creativity in the AI age."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/
 next_step: skim
+priority: high
+slack_ts: '1795512714.103989'
+source: Google AI Blog
+status: unread
+title: Walter Isaacson on curiosity and creativity in the AI age.
 ---
 # Walter Isaacson on curiosity and creativity in the AI age.
 > 原文: [https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/](https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/)

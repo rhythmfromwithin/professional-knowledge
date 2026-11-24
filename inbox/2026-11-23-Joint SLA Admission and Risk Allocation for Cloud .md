@@ -1,11 +1,12 @@
 ---
-title: "Joint SLA Admission and Risk Allocation for Cloud Resource Provisioning"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.26924
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26924
 next_step: skim
+priority: medium
+slack_ts: '1795512707.724319'
+source: cs.DC - Distributed Computing
+status: unread
+title: Joint SLA Admission and Risk Allocation for Cloud Resource Provisioning
 ---
 # Joint SLA Admission and Risk Allocation for Cloud Resource Provisioning
 > 原文: [https://arxiv.org/abs/2611.26924](https://arxiv.org/abs/2611.26924)

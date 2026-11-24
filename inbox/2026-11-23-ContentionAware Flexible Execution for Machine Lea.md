@@ -1,11 +1,12 @@
 ---
-title: "Contention-Aware Flexible Execution for Machine Learning Workloads"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.26840
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26840
 next_step: skim
+priority: medium
+slack_ts: '1795512702.397779'
+source: cs.DC - Distributed Computing
+status: unread
+title: Contention-Aware Flexible Execution for Machine Learning Workloads
 ---
 # Contention-Aware Flexible Execution for Machine Learning Workloads
 > 原文: [https://arxiv.org/abs/2611.26840](https://arxiv.org/abs/2611.26840)

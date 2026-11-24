@@ -1,11 +1,12 @@
 ---
-title: "The Rural Margin of Territorial Peace: Within-Municipality Evidence from Colombia"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.26882
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26882
 next_step: skim
+priority: low
+slack_ts: '1795512712.729399'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Rural Margin of Territorial Peace: Within-Municipality Evidence from Colombia'
 ---
 # The Rural Margin of Territorial Peace: Within-Municipality Evidence from Colombia
 > 原文: [https://arxiv.org/abs/2611.26882](https://arxiv.org/abs/2611.26882)

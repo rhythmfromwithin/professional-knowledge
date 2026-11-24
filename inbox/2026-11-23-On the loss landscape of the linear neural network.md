@@ -1,11 +1,12 @@
 ---
-title: "On the loss landscape of the linear neural network: beyond critical points"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.26671
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26671
 next_step: skim
+priority: high
+slack_ts: '1795512708.968789'
+source: cs.LG - Machine Learning
+status: unread
+title: 'On the loss landscape of the linear neural network: beyond critical points'
 ---
 # On the loss landscape of the linear neural network: beyond critical points
 > 原文: [https://arxiv.org/abs/2611.26671](https://arxiv.org/abs/2611.26671)

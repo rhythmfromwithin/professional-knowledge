@@ -1,0 +1,14 @@
+---
+title: "What the annual energy balance hides: the coordination value of digital platforms for positive energy districts"
+source: "econ.GN - General Economics (AI Economics)"
+link: https://arxiv.org/abs/2611.29485
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# What the annual energy balance hides: the coordination value of digital platforms for positive energy districts
+> 原文: [https://arxiv.org/abs/2611.29485](https://arxiv.org/abs/2611.29485)
+
+arXiv:2611.29485v1 Announce Type: new
+Abstract: Positive energy districts (PEDs) are usually assessed by annual net energy, whereas distribution networks operate hour by hour. An annually positive district still imports on low-generation hours and exports or curtails on high-generation hours. How large this hourly imbalance is behind an annual balance, and how much of it coordination among prosumers can close without new physical capacity, is not established. This paper models a multi-carrier prosumer community coupling electricity and heat behind a shared grid connection with a net-export hosting limit. The model is solved as a centralized community problem and as a price-taking peer-to-peer (P2P) market. Under convexity, the equilibrium implements the regularized community optimum and the P2P and congestion prices are the duals of the pool-clearing and hosting constraints. The model is calibrated to six European district archetypes with constructed hourly profiles. Hourly self-sufficiency is only 48-50% in the four deeply studied districts and ranges from 48-55% across all six, leaving a no-platform coordination gap of 2.8-5.9% of no-platform economic cost. The shared-forecast step recovers only 6-18% of the gap, while grid-aware pricing reduces curtailment by 45% in the primary district. Coordination mainly reduces surplus-side inefficiency, whereas closing the deficit side requires storage. The results are scenario-based projections for calibrated archetypes, and the operating benefit is small and contingent on binding hosting limits and high feed-in remuneration. For regulators and distribution system operators this supports hourly, bidirectional indicators alongside the annual positive-energy target, and a congestion charge active only in binding hours with a predetermined refund, while the business case for a platform at district scale rests on grid-side value and aggregation across districts.

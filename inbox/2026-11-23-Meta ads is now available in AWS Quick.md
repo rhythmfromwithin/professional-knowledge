@@ -1,11 +1,12 @@
 ---
-title: "Meta ads is now available in AWS Quick"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/
 next_step: skim
+priority: high
+slack_ts: '1795512708.534749'
+source: AWS Blog
+status: unread
+title: Meta ads is now available in AWS Quick
 ---
 # Meta ads is now available in AWS Quick
 > 原文: [https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)

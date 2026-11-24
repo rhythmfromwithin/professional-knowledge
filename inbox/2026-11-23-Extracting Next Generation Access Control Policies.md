@@ -1,11 +1,13 @@
 ---
-title: "Extracting Next Generation Access Control Policies from Natural Language Using LLMs: An Intermediate-Representation Approach with Back-Translation Verification"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.26941
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26941
 next_step: skim
+priority: low
+slack_ts: '1795512704.205449'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Extracting Next Generation Access Control Policies from Natural Language Using
+  LLMs: An Intermediate-Representation Approach with Back-Translation Verification'
 ---
 # Extracting Next Generation Access Control Policies from Natural Language Using LLMs: An Intermediate-Representation Approach with Back-Translation Verification
 > 原文: [https://arxiv.org/abs/2611.26941](https://arxiv.org/abs/2611.26941)

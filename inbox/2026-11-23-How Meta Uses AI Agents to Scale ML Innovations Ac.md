@@ -1,11 +1,12 @@
 ---
-title: "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models"
-source: "Meta Engineering"
-link: https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/
-priority: medium
-status: unread
 interest: medium
+link: https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/
 next_step: skim
+priority: medium
+slack_ts: '1795512706.551969'
+source: Meta Engineering
+status: unread
+title: How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models
 ---
 # How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models
 > 原文: [https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/](https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/)

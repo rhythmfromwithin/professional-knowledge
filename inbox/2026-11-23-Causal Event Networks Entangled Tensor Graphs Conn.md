@@ -1,11 +1,13 @@
 ---
-title: "Causal Event Networks: Entangled Tensor Graphs, Connectome Quotient Topology, and Subjective Experience as Geometric Dual"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.26646
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26646
 next_step: skim
+priority: low
+slack_ts: '1795512701.607779'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Causal Event Networks: Entangled Tensor Graphs, Connectome Quotient Topology,
+  and Subjective Experience as Geometric Dual'
 ---
 # Causal Event Networks: Entangled Tensor Graphs, Connectome Quotient Topology, and Subjective Experience as Geometric Dual
 > 原文: [https://arxiv.org/abs/2611.26646](https://arxiv.org/abs/2611.26646)

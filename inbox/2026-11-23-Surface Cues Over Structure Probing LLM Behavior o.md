@@ -1,11 +1,12 @@
 ---
-title: "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.26913
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26913
 next_step: skim
+priority: low
+slack_ts: '1795512711.732289'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs'
 ---
 # Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs
 > 原文: [https://arxiv.org/abs/2611.26913](https://arxiv.org/abs/2611.26913)

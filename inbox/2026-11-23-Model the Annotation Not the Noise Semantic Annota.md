@@ -1,11 +1,13 @@
 ---
-title: "Model the Annotation, Not the Noise: Semantic Annotation-Channel Prompt Learning against Noisy Labels"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.26702
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26702
 next_step: skim
+priority: medium
+slack_ts: '1795512708.690389'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Model the Annotation, Not the Noise: Semantic Annotation-Channel Prompt Learning
+  against Noisy Labels'
 ---
 # Model the Annotation, Not the Noise: Semantic Annotation-Channel Prompt Learning against Noisy Labels
 > 原文: [https://arxiv.org/abs/2611.26702](https://arxiv.org/abs/2611.26702)

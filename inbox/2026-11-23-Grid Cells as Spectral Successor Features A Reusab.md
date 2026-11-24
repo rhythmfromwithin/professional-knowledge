@@ -1,11 +1,13 @@
 ---
-title: "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.26504
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26504
 next_step: skim
+priority: low
+slack_ts: '1795512705.716939'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Grid Cells as Spectral Successor Features: A Reusable Basis for Continual
+  Reinforcement Learning'
 ---
 # Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2611.26504](https://arxiv.org/abs/2611.26504)

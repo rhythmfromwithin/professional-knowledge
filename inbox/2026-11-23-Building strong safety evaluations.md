@@ -1,11 +1,12 @@
 ---
-title: "Building strong safety evaluations"
-source: "Anthropic"
-link: https://www.anthropic.com/research/building-strong-safety-evaluations
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/building-strong-safety-evaluations
 next_step: skim
+priority: high
+slack_ts: '1795512701.335209'
+source: Anthropic
+status: unread
+title: Building strong safety evaluations
 ---
 # Building strong safety evaluations
 > 原文: [https://www.anthropic.com/research/building-strong-safety-evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)

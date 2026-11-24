@@ -1,11 +1,13 @@
 ---
-title: "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.26717
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26717
 next_step: skim
+priority: high
+slack_ts: '1795512701.960329'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal
+  Limits of Coherence Validation'
 ---
 # Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation
 > 原文: [https://arxiv.org/abs/2611.26717](https://arxiv.org/abs/2611.26717)

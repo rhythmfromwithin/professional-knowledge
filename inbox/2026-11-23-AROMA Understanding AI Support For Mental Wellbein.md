@@ -1,11 +1,12 @@
 ---
-title: "AROMA: Understanding AI Support For Mental Well-being through Role Theory"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.26843
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26843
 next_step: skim
+priority: low
+slack_ts: '1795512700.379619'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'AROMA: Understanding AI Support For Mental Well-being through Role Theory'
 ---
 # AROMA: Understanding AI Support For Mental Well-being through Role Theory
 > 原文: [https://arxiv.org/abs/2611.26843](https://arxiv.org/abs/2611.26843)

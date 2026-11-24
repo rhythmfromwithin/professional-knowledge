@@ -1,11 +1,12 @@
 ---
-title: "A Unified Framework for Intelligent Cyber Attack Detection and Alert Correlation"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.26824
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26824
 next_step: skim
+priority: low
+slack_ts: '1795512700.219229'
+source: cs.CR - Cryptography and Security
+status: unread
+title: A Unified Framework for Intelligent Cyber Attack Detection and Alert Correlation
 ---
 # A Unified Framework for Intelligent Cyber Attack Detection and Alert Correlation
 > 原文: [https://arxiv.org/abs/2611.26824](https://arxiv.org/abs/2611.26824)

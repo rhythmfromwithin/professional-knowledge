@@ -1,0 +1,14 @@
+---
+title: "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment"
+source: "cs.AI - Artificial Intelligence"
+link: https://arxiv.org/abs/2611.28197
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment
+> 原文: [https://arxiv.org/abs/2611.28197](https://arxiv.org/abs/2611.28197)
+
+arXiv:2611.28197v1 Announce Type: new
+Abstract: Coding agents can translate 3D measurements into CAD geometry, but reconstructing engineering models for the built environment demands semantic interpretation and consistent construction constraints beyond surface fitting. We formulate scene-level Scan-to-BIM (Building Information Modeling) as an agentic 3D coding task and introduce S2Bench, comprising public and proprietary scans of 128 real-world scenes across five domains, paired with expert-curated reference models spanning diverse spatial scales. A shared framework lets agents measure scans in Python, build class-labeled components in a live CAD/BIM kernel, and iteratively refine their code. We also propose parallel asynchronous collaboration, where a lead delegates versioned tasks, continues modeling while workers execute, and integrates revision-bound proposals. Evaluating five agents and a collaborative team across 1,028 reconstructions shows that scan-to-model residuals directly guide geometric repair, whereas inferring semantic classes and construction relations requires joint geometric, visual, and engineering reasoning that agents struggle to ground and verify. Consequently, the leading agent fits scan geometry closely ($96\%$ coverage within $5\,\text{cm}$) yet reaches only $63\%$ mIoU, and no agent passes all engineering checks on more than $38\%$ of scenes. Coverage and engineering conformance drop with scene scale, whereas running a smaller model as a team improves all three axes with greater coverage gains on larger scenes. The project page is available at https://tumcms.github.io/S2Bench.github.io/

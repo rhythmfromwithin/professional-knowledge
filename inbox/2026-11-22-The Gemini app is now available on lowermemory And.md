@@ -1,11 +1,12 @@
 ---
-title: "The Gemini app is now available on lower-memory Android devices."
-source: "Google AI Blog"
-link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/
 next_step: skim
+priority: high
+slack_ts: '1795512699.654279'
+source: Google AI Blog
+status: unread
+title: The Gemini app is now available on lower-memory Android devices.
 ---
 # The Gemini app is now available on lower-memory Android devices.
 > 原文: [https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)

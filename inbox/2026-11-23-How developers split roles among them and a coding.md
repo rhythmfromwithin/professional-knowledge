@@ -1,11 +1,5 @@
 ---
-title: "How developers split roles among them and a coding agent and what "collaboration" means"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.26668
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1795512706.681129'
 ---
 # How developers split roles among them and a coding agent and what "collaboration" means
 > 原文: [https://arxiv.org/abs/2611.26668](https://arxiv.org/abs/2611.26668)

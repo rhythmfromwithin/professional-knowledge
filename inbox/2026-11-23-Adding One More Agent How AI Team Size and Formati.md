@@ -1,11 +1,13 @@
 ---
-title: "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.26663
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26663
 next_step: skim
+priority: high
+slack_ts: '1795512700.861909'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Adding One More Agent: How AI Team Size and Formation Shape Productivity and
+  Diversity in Human-AI Brainstorming Teams'
 ---
 # Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams
 > 原文: [https://arxiv.org/abs/2611.26663](https://arxiv.org/abs/2611.26663)

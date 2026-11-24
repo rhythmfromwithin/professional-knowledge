@@ -1,11 +1,13 @@
 ---
-title: "Seabird-Aware Multi-Objective Offshore Wind Capacity Allocation: A Gippsland Case Study"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.27073
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27073
 next_step: skim
+priority: low
+slack_ts: '1795512710.732159'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Seabird-Aware Multi-Objective Offshore Wind Capacity Allocation: A Gippsland
+  Case Study'
 ---
 # Seabird-Aware Multi-Objective Offshore Wind Capacity Allocation: A Gippsland Case Study
 > 原文: [https://arxiv.org/abs/2611.27073](https://arxiv.org/abs/2611.27073)

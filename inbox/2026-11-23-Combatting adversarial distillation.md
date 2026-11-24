@@ -1,11 +1,12 @@
 ---
-title: "Combatting adversarial distillation"
-source: "OpenAI Blog"
-link: https://openai.com/index/combatting-adversarial-distillation
-priority: high
-status: unread
 interest: medium
+link: https://openai.com/index/combatting-adversarial-distillation
 next_step: skim
+priority: high
+slack_ts: '1795512702.106979'
+source: OpenAI Blog
+status: unread
+title: Combatting adversarial distillation
 ---
 # Combatting adversarial distillation
 > 原文: [https://openai.com/index/combatting-adversarial-distillation](https://openai.com/index/combatting-adversarial-distillation)

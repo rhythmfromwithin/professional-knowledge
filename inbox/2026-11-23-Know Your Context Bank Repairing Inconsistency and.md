@@ -1,11 +1,13 @@
 ---
-title: "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.26775
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26775
 next_step: skim
+priority: high
+slack_ts: '1795512707.896639'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Know Your Context Bank: Repairing Inconsistency and Measuring Generalization
+  in Context-Aware Text-to-SQL'
 ---
 # Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL
 > 原文: [https://arxiv.org/abs/2611.26775](https://arxiv.org/abs/2611.26775)
