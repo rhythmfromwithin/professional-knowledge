@@ -1,11 +1,13 @@
 ---
-title: "Development of an Effective Federated Learning-Based Defense System Against Phishing Attacks on Mobile Platforms"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.28245
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28245
 next_step: skim
+priority: low
+slack_ts: '1795593785.701169'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Development of an Effective Federated Learning-Based Defense System Against
+  Phishing Attacks on Mobile Platforms
 ---
 # Development of an Effective Federated Learning-Based Defense System Against Phishing Attacks on Mobile Platforms
 > 原文: [https://arxiv.org/abs/2611.28245](https://arxiv.org/abs/2611.28245)

@@ -1,11 +1,12 @@
 ---
-title: "Testing Settlement Flags after Late Evidence and Process Restart"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.26665
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26665
 next_step: skim
+priority: low
+slack_ts: '1795593782.907609'
+source: cs.SE - Software Engineering
+status: unread
+title: Testing Settlement Flags after Late Evidence and Process Restart
 ---
 # Testing Settlement Flags after Late Evidence and Process Restart
 > 原文: [https://arxiv.org/abs/2611.26665](https://arxiv.org/abs/2611.26665)

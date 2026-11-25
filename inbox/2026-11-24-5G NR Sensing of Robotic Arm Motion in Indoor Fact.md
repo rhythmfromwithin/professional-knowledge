@@ -1,11 +1,12 @@
 ---
-title: "5G NR Sensing of Robotic Arm Motion in Indoor Factory Environments"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.28053
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28053
 next_step: skim
+priority: medium
+slack_ts: '1795593783.856219'
+source: cs.RO - Robotics
+status: unread
+title: 5G NR Sensing of Robotic Arm Motion in Indoor Factory Environments
 ---
 # 5G NR Sensing of Robotic Arm Motion in Indoor Factory Environments
 > 原文: [https://arxiv.org/abs/2611.28053](https://arxiv.org/abs/2611.28053)

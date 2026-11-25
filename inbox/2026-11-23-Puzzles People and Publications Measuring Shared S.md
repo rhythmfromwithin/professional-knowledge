@@ -1,11 +1,13 @@
 ---
-title: "Puzzles, People, and Publications: Measuring Shared Significance in Crosswords from 1942 to 2024"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.26677
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26677
 next_step: skim
+priority: medium
+slack_ts: '1795593781.519759'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Puzzles, People, and Publications: Measuring Shared Significance in Crosswords
+  from 1942 to 2024'
 ---
 # Puzzles, People, and Publications: Measuring Shared Significance in Crosswords from 1942 to 2024
 > 原文: [https://arxiv.org/abs/2611.26677](https://arxiv.org/abs/2611.26677)

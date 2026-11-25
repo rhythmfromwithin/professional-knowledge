@@ -1,11 +1,12 @@
 ---
-title: "Distributionally-Verifiable Rewards for Human-Behavior Simulation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.28048
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28048
 next_step: skim
+priority: high
+slack_ts: '1795593785.805419'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Distributionally-Verifiable Rewards for Human-Behavior Simulation
 ---
 # Distributionally-Verifiable Rewards for Human-Behavior Simulation
 > 原文: [https://arxiv.org/abs/2611.28048](https://arxiv.org/abs/2611.28048)

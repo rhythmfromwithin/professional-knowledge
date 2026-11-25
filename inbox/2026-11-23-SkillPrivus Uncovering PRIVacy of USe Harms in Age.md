@@ -1,11 +1,12 @@
 ---
-title: "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.26747
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26747
 next_step: skim
+priority: high
+slack_ts: '1795593782.274939'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills'
 ---
 # SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills
 > 原文: [https://arxiv.org/abs/2611.26747](https://arxiv.org/abs/2611.26747)

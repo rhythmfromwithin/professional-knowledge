@@ -1,0 +1,16 @@
+---
+interest: medium
+link: https://arxiv.org/abs/2611.12603
+next_step: skim
+priority: low
+slack_ts: '1795593793.145129'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical
+  Contributions to Sound Reconstruction
+---
+# Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction
+> 原文: [https://arxiv.org/abs/2611.12603](https://arxiv.org/abs/2611.12603)
+
+arXiv:2611.12603v1 Announce Type: cross
+Abstract: Reconstructing audio from brain activity remains challenging. Existing brain-to-audio pipelines typically map neural responses to predefined stimulus representations before synthesis. While recent work in the visual domain has explored direct conditioning on brain activity, this approach has not yet been extended to audio diffusion models. We introduce MAAS (Multi-Area Auditory Synthesis), an end-to-end framework that conditions a pretrained audio diffusion transformer on ROI-wise fMRI responses without first supervising a decoder to predict an external stimulus representation. MAAS uses region-specific projections and learned brain tokens to condition Stable Audio through a dedicated cross-attention pathway. On a 7T fMRI dataset, we demonstrate consistent improvements over baselines, including two-stage fMRI-to-latent conditioning, across both acoustic and semantic evaluation metrics. In addition, we introduce a fidelity metric grounded in a computational model of auditory neural processing, which allows us to quantify the contribution of individual auditory cortical regions to reconstructed audio representations.

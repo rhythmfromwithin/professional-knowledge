@@ -1,11 +1,12 @@
 ---
-title: "Bound to be Complete: Efficient Verification for SQL Equivalence via U-Expressions"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.28516
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28516
 next_step: skim
+priority: low
+slack_ts: '1795593784.683799'
+source: cs.DB - Databases
+status: unread
+title: 'Bound to be Complete: Efficient Verification for SQL Equivalence via U-Expressions'
 ---
 # Bound to be Complete: Efficient Verification for SQL Equivalence via U-Expressions
 > 原文: [https://arxiv.org/abs/2611.28516](https://arxiv.org/abs/2611.28516)

@@ -1,11 +1,12 @@
 ---
-title: "The Rise of Agents and the Human Labor Market"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.27210
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27210
 next_step: skim
+priority: low
+slack_ts: '1795593783.218669'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: The Rise of Agents and the Human Labor Market
 ---
 # The Rise of Agents and the Human Labor Market
 > 原文: [https://arxiv.org/abs/2611.27210](https://arxiv.org/abs/2611.27210)

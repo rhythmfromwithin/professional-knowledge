@@ -1,11 +1,12 @@
 ---
-title: "FlowPAC: Flow-Guided Visual Pruning and Action Caching for Efficient VLA Inference"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.28256
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28256
 next_step: skim
+priority: medium
+slack_ts: '1795593786.532549'
+source: cs.RO - Robotics
+status: unread
+title: 'FlowPAC: Flow-Guided Visual Pruning and Action Caching for Efficient VLA Inference'
 ---
 # FlowPAC: Flow-Guided Visual Pruning and Action Caching for Efficient VLA Inference
 > 原文: [https://arxiv.org/abs/2611.28256](https://arxiv.org/abs/2611.28256)

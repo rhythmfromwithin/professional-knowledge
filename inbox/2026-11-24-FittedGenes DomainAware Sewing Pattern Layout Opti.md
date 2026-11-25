@@ -1,11 +1,12 @@
 ---
-title: "FittedGenes: Domain-Aware Sewing Pattern Layout Optimization"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.28022
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28022
 next_step: skim
+priority: low
+slack_ts: '1795593786.426369'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'FittedGenes: Domain-Aware Sewing Pattern Layout Optimization'
 ---
 # FittedGenes: Domain-Aware Sewing Pattern Layout Optimization
 > 原文: [https://arxiv.org/abs/2611.28022](https://arxiv.org/abs/2611.28022)

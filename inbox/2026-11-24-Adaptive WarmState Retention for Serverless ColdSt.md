@@ -1,11 +1,13 @@
 ---
-title: "Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating Keep-Alive Time as an Online Control Parameter"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.28306
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28306
 next_step: skim
+priority: medium
+slack_ts: '1795593784.371619'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating
+  Keep-Alive Time as an Online Control Parameter'
 ---
 # Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating Keep-Alive Time as an Online Control Parameter
 > 原文: [https://arxiv.org/abs/2611.28306](https://arxiv.org/abs/2611.28306)

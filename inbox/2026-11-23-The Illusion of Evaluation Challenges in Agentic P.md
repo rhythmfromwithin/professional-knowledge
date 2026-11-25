@@ -1,11 +1,12 @@
 ---
-title: "The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.26923
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26923
 next_step: skim
+priority: medium
+slack_ts: '1795593783.107129'
+source: cs.CY - Computers and Society
+status: unread
+title: 'The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice'
 ---
 # The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice
 > 原文: [https://arxiv.org/abs/2611.26923](https://arxiv.org/abs/2611.26923)

@@ -1,11 +1,12 @@
 ---
-title: "A Design Space for Data Agents: Insights from KDD Cup 2026"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.28970
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28970
 next_step: skim
+priority: low
+slack_ts: '1795593783.954739'
+source: cs.DB - Databases
+status: unread
+title: 'A Design Space for Data Agents: Insights from KDD Cup 2026'
 ---
 # A Design Space for Data Agents: Insights from KDD Cup 2026
 > 原文: [https://arxiv.org/abs/2611.28970](https://arxiv.org/abs/2611.28970)

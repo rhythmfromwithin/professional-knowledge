@@ -1,11 +1,13 @@
 ---
-title: "Following the Error Through a Compressed Network:An Angular Measure for FFN Weight Compression in ViT-L/16"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.28067
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28067
 next_step: skim
+priority: medium
+slack_ts: '1795593786.645419'
+source: cs.CV - Computer Vision
+status: unread
+title: Following the Error Through a Compressed Network:An Angular Measure for FFN
+  Weight Compression in ViT-L/16
 ---
 # Following the Error Through a Compressed Network:An Angular Measure for FFN Weight Compression in ViT-L/16
 > 原文: [https://arxiv.org/abs/2611.28067](https://arxiv.org/abs/2611.28067)

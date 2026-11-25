@@ -1,11 +1,13 @@
 ---
-title: "Which Archived Results Survive a Rule Change? A Case Study in Revalidating Decisions"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.26666
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26666
 next_step: skim
+priority: low
+slack_ts: '1795593783.752109'
+source: cs.SE - Software Engineering
+status: unread
+title: Which Archived Results Survive a Rule Change? A Case Study in Revalidating
+  Decisions
 ---
 # Which Archived Results Survive a Rule Change? A Case Study in Revalidating Decisions
 > 原文: [https://arxiv.org/abs/2611.26666](https://arxiv.org/abs/2611.26666)

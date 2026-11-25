@@ -1,11 +1,12 @@
 ---
-title: "Spectral Estimation with Deformed Decompression"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.26945
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26945
 next_step: skim
+priority: medium
+slack_ts: '1795593782.489289'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Spectral Estimation with Deformed Decompression
 ---
 # Spectral Estimation with Deformed Decompression
 > 原文: [https://arxiv.org/abs/2611.26945](https://arxiv.org/abs/2611.26945)

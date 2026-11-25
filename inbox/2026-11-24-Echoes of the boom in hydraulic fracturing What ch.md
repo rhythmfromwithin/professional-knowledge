@@ -1,11 +1,13 @@
 ---
-title: "Echoes of the boom in hydraulic fracturing: What changes in Louisiana's energy complex reveal about global energy cycles"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.28309
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28309
 next_step: skim
+priority: low
+slack_ts: '1795593785.908509'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'Echoes of the boom in hydraulic fracturing: What changes in Louisiana''s energy
+  complex reveal about global energy cycles'
 ---
 # Echoes of the boom in hydraulic fracturing: What changes in Louisiana's energy complex reveal about global energy cycles
 > 原文: [https://arxiv.org/abs/2611.28309](https://arxiv.org/abs/2611.28309)

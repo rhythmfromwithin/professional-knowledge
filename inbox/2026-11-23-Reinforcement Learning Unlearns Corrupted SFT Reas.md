@@ -1,11 +1,12 @@
 ---
-title: "Reinforcement Learning Unlearns Corrupted SFT Reasoning"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.26756
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26756
 next_step: skim
+priority: high
+slack_ts: '1795593781.736729'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Reinforcement Learning Unlearns Corrupted SFT Reasoning
 ---
 # Reinforcement Learning Unlearns Corrupted SFT Reasoning
 > 原文: [https://arxiv.org/abs/2611.26756](https://arxiv.org/abs/2611.26756)

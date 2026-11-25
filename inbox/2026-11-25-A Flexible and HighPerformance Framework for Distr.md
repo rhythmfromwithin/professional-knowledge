@@ -1,0 +1,14 @@
+---
+title: "A Flexible and High-Performance Framework for Distributed Dynamic Graph Processing"
+source: "cs.DB - Databases"
+link: https://arxiv.org/abs/2611.31645
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# A Flexible and High-Performance Framework for Distributed Dynamic Graph Processing
+> 原文: [https://arxiv.org/abs/2611.31645](https://arxiv.org/abs/2611.31645)
+
+arXiv:2611.31645v1 Announce Type: new
+Abstract: The proliferation of massive, constantly evolving graphs in domains such as social and financial networks necessitates efficient and scalable dynamic graph processing. Existing distributed systems, such as Ingress, attempt to automatically adapt static algorithms to dynamic updates, but they face critical limitations: overly conservative strategy selection, inability to leverage algorithm-specific optimizations, and limited inference capabilities that often force fallbacks to slow, generic methods. To overcome these limitations, we propose a new paradigm that emphasizes user flexibility and performance over unreliable automation. Following this paradigm, we present a high-performance, user-friendly distributed system for dynamic graph processing. Built on the Bulk Synchronous Parallel (BSP) model, it provides a flexible programming model based on vertex subsets to control computation flow, along with a simple API offering powerful abstractions. By enabling direct expression of dynamic logic and incorporating system-level optimizations, our system achieves significant performance gains. We demonstrate its expressiveness through six implemented dynamic graph algorithms, and extensive experiments on eight real-world datasets validate its superior performance and flexibility compared to state-of-the-art solutions.

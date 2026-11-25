@@ -1,11 +1,13 @@
 ---
-title: "One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.26676
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26676
 next_step: skim
+priority: medium
+slack_ts: '1795593781.098129'
+source: cs.RO - Robotics
+status: unread
+title: 'One Behavior, Out of Order: Deterministic Execution and Parallel Simulation
+  of ROS 2 Applications'
 ---
 # One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications
 > 原文: [https://arxiv.org/abs/2611.26676](https://arxiv.org/abs/2611.26676)

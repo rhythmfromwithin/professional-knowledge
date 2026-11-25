@@ -1,11 +1,12 @@
 ---
-title: "Trust and Lottery-Related Anomalies"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.27020
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27020
 next_step: skim
+priority: low
+slack_ts: '1795593783.540159'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Trust and Lottery-Related Anomalies
 ---
 # Trust and Lottery-Related Anomalies
 > 原文: [https://arxiv.org/abs/2611.27020](https://arxiv.org/abs/2611.27020)

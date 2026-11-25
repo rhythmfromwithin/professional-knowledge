@@ -1,11 +1,13 @@
 ---
-title: "Testability of Homomorphism Inadmissibility: Property Testing Meets Database Theory"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.26861
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26861
 next_step: skim
+priority: low
+slack_ts: '1795593782.803999'
+source: cs.DB - Databases
+status: unread
+title: 'Testability of Homomorphism Inadmissibility: Property Testing Meets Database
+  Theory'
 ---
 # Testability of Homomorphism Inadmissibility: Property Testing Meets Database Theory
 > 原文: [https://arxiv.org/abs/2611.26861](https://arxiv.org/abs/2611.26861)

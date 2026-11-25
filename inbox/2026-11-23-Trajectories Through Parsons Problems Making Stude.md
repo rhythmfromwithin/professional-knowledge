@@ -1,11 +1,13 @@
 ---
-title: "Trajectories Through Parsons Problems: Making Student Difficulty Patterns Visible to Instructors"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.26799
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26799
 next_step: skim
+priority: low
+slack_ts: '1795593783.432219'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Trajectories Through Parsons Problems: Making Student Difficulty Patterns
+  Visible to Instructors'
 ---
 # Trajectories Through Parsons Problems: Making Student Difficulty Patterns Visible to Instructors
 > 原文: [https://arxiv.org/abs/2611.26799](https://arxiv.org/abs/2611.26799)

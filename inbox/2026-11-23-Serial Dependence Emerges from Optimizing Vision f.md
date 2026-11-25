@@ -1,11 +1,12 @@
 ---
-title: "Serial Dependence Emerges from Optimizing Vision for Noise Robustness"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.26949
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26949
 next_step: skim
+priority: low
+slack_ts: '1795593782.170529'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Serial Dependence Emerges from Optimizing Vision for Noise Robustness
 ---
 # Serial Dependence Emerges from Optimizing Vision for Noise Robustness
 > 原文: [https://arxiv.org/abs/2611.26949](https://arxiv.org/abs/2611.26949)

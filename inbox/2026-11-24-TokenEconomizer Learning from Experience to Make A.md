@@ -1,11 +1,12 @@
 ---
-title: "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient"
-source: "Microsoft Research"
-link: https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/
-priority: high
-status: unread
 interest: medium
+link: https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/
 next_step: skim
+priority: high
+slack_ts: '1795593790.160529'
+source: Microsoft Research
+status: unread
+title: 'TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient'
 ---
 # TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient
 > 原文: [https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/](https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/)

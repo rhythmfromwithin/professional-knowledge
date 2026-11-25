@@ -1,11 +1,13 @@
 ---
-title: "Semiparametric Efficiency for Entropic Optimal Transport under Structured Distribution Shift"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.27261
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27261
 next_step: skim
+priority: medium
+slack_ts: '1795593782.049499'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Semiparametric Efficiency for Entropic Optimal Transport under Structured Distribution
+  Shift
 ---
 # Semiparametric Efficiency for Entropic Optimal Transport under Structured Distribution Shift
 > 原文: [https://arxiv.org/abs/2611.27261](https://arxiv.org/abs/2611.27261)

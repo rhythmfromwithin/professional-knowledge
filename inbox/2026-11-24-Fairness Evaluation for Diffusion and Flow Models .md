@@ -1,11 +1,13 @@
 ---
-title: "Fairness Evaluation for Diffusion and Flow Models Should Account for the Generation Path: Implications for Clinical Imaging"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.28077
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28077
 next_step: skim
+priority: medium
+slack_ts: '1795593786.216959'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Fairness Evaluation for Diffusion and Flow Models Should Account for the Generation
+  Path: Implications for Clinical Imaging'
 ---
 # Fairness Evaluation for Diffusion and Flow Models Should Account for the Generation Path: Implications for Clinical Imaging
 > 原文: [https://arxiv.org/abs/2611.28077](https://arxiv.org/abs/2611.28077)

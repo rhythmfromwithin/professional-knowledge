@@ -1,11 +1,12 @@
 ---
-title: "SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.26637
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26637
 next_step: skim
+priority: medium
+slack_ts: '1795593781.939379'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention'
 ---
 # SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention
 > 原文: [https://arxiv.org/abs/2611.26637](https://arxiv.org/abs/2611.26637)

@@ -1,11 +1,12 @@
 ---
-title: "Spiking Neural Networks Incrementally Track Firing-Rate Networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.27322
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27322
 next_step: skim
+priority: low
+slack_ts: '1795593782.589409'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Spiking Neural Networks Incrementally Track Firing-Rate Networks
 ---
 # Spiking Neural Networks Incrementally Track Firing-Rate Networks
 > 原文: [https://arxiv.org/abs/2611.27322](https://arxiv.org/abs/2611.27322)

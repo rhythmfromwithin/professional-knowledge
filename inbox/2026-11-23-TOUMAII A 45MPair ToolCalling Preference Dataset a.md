@@ -1,11 +1,13 @@
 ---
-title: "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.26722
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.26722
 next_step: skim
+priority: high
+slack_ts: '1795593782.696719'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic
+  Generator'
 ---
 # TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator
 > 原文: [https://arxiv.org/abs/2611.26722](https://arxiv.org/abs/2611.26722)

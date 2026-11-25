@@ -1,11 +1,13 @@
 ---
-title: "Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.28078
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28078
 next_step: skim
+priority: medium
+slack_ts: '1795593784.478649'
+source: cs.CV - Computer Vision
+status: unread
+title: Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image
+  Tokenizers
 ---
 # Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers
 > 原文: [https://arxiv.org/abs/2611.28078](https://arxiv.org/abs/2611.28078)
