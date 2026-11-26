@@ -1,11 +1,12 @@
 ---
-title: "What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.28038
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28038
 next_step: skim
+priority: high
+slack_ts: '1795679636.086909'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs
 ---
 # What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs
 > 原文: [https://arxiv.org/abs/2611.28038](https://arxiv.org/abs/2611.28038)

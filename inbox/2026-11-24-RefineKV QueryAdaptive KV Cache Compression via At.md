@@ -1,11 +1,12 @@
 ---
-title: "RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.28171
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28171
 next_step: skim
+priority: high
+slack_ts: '1795679635.280529'
+source: cs.LG - Machine Learning
+status: unread
+title: 'RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds'
 ---
 # RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds
 > 原文: [https://arxiv.org/abs/2611.28171](https://arxiv.org/abs/2611.28171)

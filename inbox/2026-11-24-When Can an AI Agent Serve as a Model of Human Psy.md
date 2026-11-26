@@ -1,11 +1,12 @@
 ---
-title: "When Can an AI Agent Serve as a Model of Human Psychopathology?"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.28405
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28405
 next_step: skim
+priority: low
+slack_ts: '1795679636.210839'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: When Can an AI Agent Serve as a Model of Human Psychopathology?
 ---
 # When Can an AI Agent Serve as a Model of Human Psychopathology?
 > 原文: [https://arxiv.org/abs/2611.28405](https://arxiv.org/abs/2611.28405)

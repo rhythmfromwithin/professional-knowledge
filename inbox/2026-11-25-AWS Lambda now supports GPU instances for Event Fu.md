@@ -1,11 +1,13 @@
 ---
-title: "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/
 next_step: skim
+priority: high
+slack_ts: '1795679636.599339'
+source: AWS Blog
+status: unread
+title: AWS Lambda now supports GPU instances for Event Functions on Lambda Managed
+  Instances
 ---
 # AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances
 > 原文: [https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/)

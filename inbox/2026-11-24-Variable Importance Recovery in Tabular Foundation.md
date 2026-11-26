@@ -1,11 +1,12 @@
 ---
-title: "Variable Importance Recovery in Tabular Foundation Models: A Simulation Study"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.28241
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28241
 next_step: skim
+priority: medium
+slack_ts: '1795679635.948729'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: 'Variable Importance Recovery in Tabular Foundation Models: A Simulation Study'
 ---
 # Variable Importance Recovery in Tabular Foundation Models: A Simulation Study
 > 原文: [https://arxiv.org/abs/2611.28241](https://arxiv.org/abs/2611.28241)

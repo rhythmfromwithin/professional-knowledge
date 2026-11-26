@@ -1,11 +1,12 @@
 ---
-title: "How Far Can LLMs Go in Generating Android Lint Checks from Natural Language?"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.28159
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28159
 next_step: skim
+priority: low
+slack_ts: '1795679633.997509'
+source: cs.SE - Software Engineering
+status: unread
+title: How Far Can LLMs Go in Generating Android Lint Checks from Natural Language?
 ---
 # How Far Can LLMs Go in Generating Android Lint Checks from Natural Language?
 > 原文: [https://arxiv.org/abs/2611.28159](https://arxiv.org/abs/2611.28159)

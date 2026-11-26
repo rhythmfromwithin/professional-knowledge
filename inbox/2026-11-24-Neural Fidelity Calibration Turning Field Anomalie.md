@@ -1,11 +1,12 @@
 ---
-title: "Neural Fidelity Calibration: Turning Field Anomalies into Simulation Fine-Tuning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.28260
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28260
 next_step: skim
+priority: medium
+slack_ts: '1795679634.803949'
+source: cs.RO - Robotics
+status: unread
+title: 'Neural Fidelity Calibration: Turning Field Anomalies into Simulation Fine-Tuning'
 ---
 # Neural Fidelity Calibration: Turning Field Anomalies into Simulation Fine-Tuning
 > 原文: [https://arxiv.org/abs/2611.28260](https://arxiv.org/abs/2611.28260)

@@ -1,11 +1,12 @@
 ---
-title: "MemVanta: Memory-Efficient CPU Inference for Quantized GGUF Language Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.27997
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27997
 next_step: skim
+priority: medium
+slack_ts: '1795679634.675429'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'MemVanta: Memory-Efficient CPU Inference for Quantized GGUF Language Models'
 ---
 # MemVanta: Memory-Efficient CPU Inference for Quantized GGUF Language Models
 > 原文: [https://arxiv.org/abs/2611.27997](https://arxiv.org/abs/2611.27997)

@@ -1,11 +1,13 @@
 ---
-title: "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.28153
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28153
 next_step: skim
+priority: low
+slack_ts: '1795679633.476139'
+source: cs.SE - Software Engineering
+status: unread
+title: 'From Observation to Explanation: Mechanistic Interpretability of LLM-Generated
+  Code for Principled Repair'
 ---
 # From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair
 > 原文: [https://arxiv.org/abs/2611.28153](https://arxiv.org/abs/2611.28153)

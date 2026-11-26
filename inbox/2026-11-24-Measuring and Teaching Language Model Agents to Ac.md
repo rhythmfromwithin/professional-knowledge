@@ -1,11 +1,12 @@
 ---
-title: "Measuring and Teaching Language Model Agents to Act on Delayed Consequences"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.28158
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28158
 next_step: skim
+priority: high
+slack_ts: '1795679634.612819'
+source: cs.LG - Machine Learning
+status: unread
+title: Measuring and Teaching Language Model Agents to Act on Delayed Consequences
 ---
 # Measuring and Teaching Language Model Agents to Act on Delayed Consequences
 > 原文: [https://arxiv.org/abs/2611.28158](https://arxiv.org/abs/2611.28158)

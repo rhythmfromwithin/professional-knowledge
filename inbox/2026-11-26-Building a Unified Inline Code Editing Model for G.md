@@ -1,0 +1,14 @@
+---
+title: "Building a Unified Inline Code Editing Model for GitHub Copilot"
+source: "cs.SE - Software Engineering"
+link: https://arxiv.org/abs/2611.33314
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Building a Unified Inline Code Editing Model for GitHub Copilot
+> 原文: [https://arxiv.org/abs/2611.33314](https://arxiv.org/abs/2611.33314)
+
+arXiv:2611.33314v1 Announce Type: new
+Abstract: AI-assisted coding ranges from fully agentic coding to inline code suggestions in the editor. Inline suggestions require predicting a developer's most likely next edit from an editing session. The next edit may lie at the cursor, in nearby lines, or farther away, and one editing intent can span several of these. The preceding system queries separate completion, nearby edit, and long-distance edit models, each with its own output format, in a fixed sequence; it thus cannot express intents spanning distant locations in one response, can require several sequential model calls per suggestion, and prioritizes completion even when a correction would serve better. We present a unified model that predicts all three edit types in one output space: a sequence of anchored diff patches specifying locations, deleted lines, and added lines. This representation permits multiple edits per response, so the client can serve later edits from a cache without further model calls. We train this model in two phases, first unifying next edit and long-distance edit prediction, then adding code completion. We synthesize multi-edit supervision from single-edit data via model pseudolabeling and edit history playback. We use a binary LLM-graded reward, a patch validity taxonomy shared by data filtering, reward, and evaluation, and grader boosting for targeted failure modes. Phase 2 also adapts how the client processes and presents model outputs. In controlled online A/B experiments in GitHub Copilot, Phase 1 significantly reduces time to display by 6.77% and output tokens by 58.93% relative to the three-model baseline. In Phase 2, the 3-in-1 model and client adaptations reduce dismissed suggestions per user by 10.06% relative to the 2-in-1 model paired with the completion model. Throughout this report, we also share our methodology and learnings in evaluation, training, and end-to-end model and system design.

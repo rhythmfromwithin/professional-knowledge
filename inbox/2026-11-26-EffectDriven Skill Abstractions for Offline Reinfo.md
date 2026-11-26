@@ -1,0 +1,14 @@
+---
+title: "Effect-Driven Skill Abstractions for Offline Reinforcement Learning"
+source: "cs.RO - Robotics"
+link: https://arxiv.org/abs/2611.33229
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Effect-Driven Skill Abstractions for Offline Reinforcement Learning
+> 原文: [https://arxiv.org/abs/2611.33229](https://arxiv.org/abs/2611.33229)
+
+arXiv:2611.33229v1 Announce Type: new
+Abstract: We seek to learn discrete skill abstractions to facilitate long-horizon, goal-conditioned reinforcement-learning (RL) tasks. Recent approaches have shown success by quantizing actions via clustering or reconstruction. However, these objectives lead to skills that are not directly related to what the current state affords or what the goal requires. Instead, we argue that goal-directed skills should be driven by \emph{how they affect the state} of the agent. To realize this, we introduce a novel quantization method for action chunks that optimizes next-state predictions conditioned on the current state and action. This objective encourages skills to be distinguished by the future states they lead to, resulting in a vocabulary that spans diverse outcomes reachable from a given state. Our framework can easily be paired with common offline RL methods by replacing their continuous actor head with a discrete one that selects among the learned skills. We can execute these skills in the environment by converting them back to continuous actions using a trained low-level controller. Experiments on benchmark navigation and manipulation tasks largely show substantial and consistent improvements over both the continuous-actor baselines and reconstruction-based discretizations. Our project page can be found at: https://burcukilic.github.io/projects/effect-driven-skill-abstractions/.

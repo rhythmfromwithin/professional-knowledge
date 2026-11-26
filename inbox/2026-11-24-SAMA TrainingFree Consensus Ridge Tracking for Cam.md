@@ -1,11 +1,13 @@
 ---
-title: "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.28185
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28185
 next_step: skim
+priority: high
+slack_ts: '1795679635.491539'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on
+  Five Public Datasets'
 ---
 # SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets
 > 原文: [https://arxiv.org/abs/2611.28185](https://arxiv.org/abs/2611.28185)

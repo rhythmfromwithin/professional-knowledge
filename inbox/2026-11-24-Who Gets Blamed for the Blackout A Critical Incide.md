@@ -1,11 +1,13 @@
 ---
-title: "Who Gets Blamed for the Blackout? A Critical Incident Analysis of Clients, Reputation Systems, and Online Freelancers"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.28365
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28365
 next_step: skim
+priority: medium
+slack_ts: '1795679636.271409'
+source: cs.CY - Computers and Society
+status: unread
+title: Who Gets Blamed for the Blackout? A Critical Incident Analysis of Clients,
+  Reputation Systems, and Online Freelancers
 ---
 # Who Gets Blamed for the Blackout? A Critical Incident Analysis of Clients, Reputation Systems, and Online Freelancers
 > 原文: [https://arxiv.org/abs/2611.28365](https://arxiv.org/abs/2611.28365)

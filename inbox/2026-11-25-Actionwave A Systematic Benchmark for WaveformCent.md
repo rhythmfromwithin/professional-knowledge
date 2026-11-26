@@ -1,11 +1,13 @@
 ---
-title: "Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.31249
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31249
 next_step: skim
+priority: high
+slack_ts: '1795679636.723649'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction
+  Across Care Scenarios'
 ---
 # Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios
 > 原文: [https://arxiv.org/abs/2611.31249](https://arxiv.org/abs/2611.31249)

@@ -1,11 +1,13 @@
 ---
-title: "Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.31275
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31275
 next_step: skim
+priority: low
+slack_ts: '1795679636.786709'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering
+  Design'
 ---
 # Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design
 > 原文: [https://arxiv.org/abs/2611.31275](https://arxiv.org/abs/2611.31275)

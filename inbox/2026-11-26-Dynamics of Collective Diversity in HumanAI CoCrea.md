@@ -1,0 +1,14 @@
+---
+title: "Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks"
+source: "cs.HC - Human-Computer Interaction"
+link: https://arxiv.org/abs/2611.33192
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks
+> 原文: [https://arxiv.org/abs/2611.33192](https://arxiv.org/abs/2611.33192)
+
+arXiv:2611.33192v1 Announce Type: new
+Abstract: Generative AI systems are increasingly deployed at scale to support human users in creative tasks across a variety of domains. However, as more users adopt the same AI agent, the resulting artifacts may become increasingly homogeneous, leading to a collapse in collective diversity. Prior work has documented this risk, but lacks a systematic framework for understanding how collective diversity changes as AI adoption scales across co-creation settings. In this work, we conduct a large-scale crowdsourcing study to understand and model the dynamics of collective diversity, quality, and effort in human-AI co-creation across two creative domains: Creative Hypothesis Generation and Creative Story Writing. We find that current AI agents used in co-creation can improve artifact quality and reduce effort, but at the cost of declining collective diversity as adoption increases. We further show that more fine-grained human-AI interaction, along with more diverse agent policies, can mitigate this collapse. Finally, we fit predictive models that quantify how collective diversity scales with adoption across co-creation settings, providing insights for designing AI agents that aim to preserve collective diversity.

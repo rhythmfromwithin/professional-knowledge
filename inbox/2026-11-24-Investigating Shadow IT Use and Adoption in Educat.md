@@ -1,11 +1,13 @@
 ---
-title: "Investigating Shadow IT Use and Adoption in Educational Institutions and their Privacy Implications"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.28280
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28280
 next_step: skim
+priority: medium
+slack_ts: '1795679634.483549'
+source: cs.CY - Computers and Society
+status: unread
+title: Investigating Shadow IT Use and Adoption in Educational Institutions and their
+  Privacy Implications
 ---
 # Investigating Shadow IT Use and Adoption in Educational Institutions and their Privacy Implications
 > 原文: [https://arxiv.org/abs/2611.28280](https://arxiv.org/abs/2611.28280)

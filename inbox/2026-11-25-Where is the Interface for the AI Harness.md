@@ -1,11 +1,12 @@
 ---
-title: "Where is the Interface for the AI Harness?"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.31739
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31739
 next_step: skim
+priority: low
+slack_ts: '1795679640.555979'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Where is the Interface for the AI Harness?
 ---
 # Where is the Interface for the AI Harness?
 > 原文: [https://arxiv.org/abs/2611.31739](https://arxiv.org/abs/2611.31739)

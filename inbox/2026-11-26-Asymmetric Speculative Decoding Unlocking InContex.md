@@ -1,0 +1,14 @@
+---
+title: "Asymmetric Speculative Decoding: Unlocking In-Context Learning in Draft Models"
+source: "cs.DC - Distributed Computing"
+link: https://arxiv.org/abs/2611.34010
+priority: medium
+status: unread
+interest: medium
+next_step: skim
+---
+# Asymmetric Speculative Decoding: Unlocking In-Context Learning in Draft Models
+> 原文: [https://arxiv.org/abs/2611.34010](https://arxiv.org/abs/2611.34010)
+
+arXiv:2611.34010v1 Announce Type: new
+Abstract: Speculative decoding addresses Large Language Model (LLM) inference latency by first drafting and then verifying in parallel. Yet practical speedups fall far short of theoretical bounds, especially on reasoning tasks. We identify the root cause as task isomorphism: existing methods provide identical prompts to both models, forcing the draft model to solve problems beyond its capacity. This produces high rejection rates that eliminate parallelization gains. We discover that acceptance rates increase monotonically during generation, revealing a latent in-context learning (ICL) effect wherein the draft model progressively aligns with the target distribution by learning from verified tokens. Controlled experiments with varying context window sizes confirm this improvement stems from ICL-driven alignment rather than token difficulty. Motivated by this finding, we propose Asymmetric Speculative Decoding (AsymSpec), a training-free framework that decouples the prompts provided to draft and target models. By supplying the draft model with task-relevant example solutions, we reformulate its objective from reasoning to simulation, amplifying the ICL effect from the first token. We prove AsymSpec produces exact samples and converges exponentially to the target distribution. Across reasoning, code generation, and summarization tasks, AsymSpec achieves 2.29$\times$ to 4.95$\times$ speedup over autoregressive decoding, outperforming standard speculative decoding without model retraining.

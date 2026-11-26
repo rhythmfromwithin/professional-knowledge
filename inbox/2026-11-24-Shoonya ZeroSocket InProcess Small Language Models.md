@@ -1,11 +1,14 @@
 ---
-title: "Shoonya: Zero-Socket In-Process Small Language Models for Graph Databases with Schema-Epoch KV Caching, Live Catalog Logit Masking, and Verifier-Advantage Distillation"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.28502
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28502
 next_step: skim
+priority: low
+slack_ts: '1795679635.689239'
+source: cs.DB - Databases
+status: unread
+title: 'Shoonya: Zero-Socket In-Process Small Language Models for Graph Databases
+  with Schema-Epoch KV Caching, Live Catalog Logit Masking, and Verifier-Advantage
+  Distillation'
 ---
 # Shoonya: Zero-Socket In-Process Small Language Models for Graph Databases with Schema-Epoch KV Caching, Live Catalog Logit Masking, and Verifier-Advantage Distillation
 > 原文: [https://arxiv.org/abs/2611.28502](https://arxiv.org/abs/2611.28502)

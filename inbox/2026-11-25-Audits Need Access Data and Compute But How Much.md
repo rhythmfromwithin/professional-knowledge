@@ -1,11 +1,12 @@
 ---
-title: "Audits Need Access, Data, and Compute. But How Much?"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.31968
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31968
 next_step: skim
+priority: medium
+slack_ts: '1795679636.852369'
+source: cs.CY - Computers and Society
+status: unread
+title: Audits Need Access, Data, and Compute. But How Much?
 ---
 # Audits Need Access, Data, and Compute. But How Much?
 > 原文: [https://arxiv.org/abs/2611.31968](https://arxiv.org/abs/2611.31968)

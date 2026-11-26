@@ -1,11 +1,13 @@
 ---
-title: "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.28197
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28197
 next_step: skim
+priority: high
+slack_ts: '1795679633.551749'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction
+  in the Built Environment'
 ---
 # From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment
 > 原文: [https://arxiv.org/abs/2611.28197](https://arxiv.org/abs/2611.28197)

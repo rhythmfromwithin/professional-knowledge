@@ -1,11 +1,12 @@
 ---
-title: "The Value of Labels in Data Selection for Least Squares"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.28169
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28169
 next_step: skim
+priority: medium
+slack_ts: '1795679635.812139'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: The Value of Labels in Data Selection for Least Squares
 ---
 # The Value of Labels in Data Selection for Least Squares
 > 原文: [https://arxiv.org/abs/2611.28169](https://arxiv.org/abs/2611.28169)

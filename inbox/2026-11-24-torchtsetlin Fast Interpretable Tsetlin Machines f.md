@@ -1,11 +1,12 @@
 ---
-title: "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.28195
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28195
 next_step: skim
+priority: high
+slack_ts: '1795679636.408259'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch'
 ---
 # torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch
 > 原文: [https://arxiv.org/abs/2611.28195](https://arxiv.org/abs/2611.28195)

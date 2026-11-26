@@ -1,0 +1,14 @@
+---
+title: "Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches in LLM-Generated PLC Code"
+source: "cs.CR - Cryptography and Security"
+link: https://arxiv.org/abs/2611.33227
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches in LLM-Generated PLC Code
+> 原文: [https://arxiv.org/abs/2611.33227](https://arxiv.org/abs/2611.33227)
+
+arXiv:2611.33227v1 Announce Type: new
+Abstract: Language models can generate Python that drives industrial protocols on programmable logic controllers, yet existing code-grounding checks ask whether an imported package or symbol exists rather than whether it suits the declared industrial target. We define \emph{metadata-conditioned, import-level vendor--protocol incompatibility} and build \textsc{Proteus-OT}, a label-free static verifier over a version-pinned graph of documented bindings. Across 883 generated scripts, 180 carry an import-level mismatch against the declared target (20.4\%); restricting to single-vendor targets gives 16.3\%, and additionally requiring the offending library to reach a protocol communication call gives 14.2\%, which we read as conditional on the corpus metadata rather than on verified intent. None of the 28 adjudicable human control files carries one, a sample too small to estimate a prevalence. Within the balanced subset, 96.6\% of mismatching scripts import packages and call methods that exist, so an existence baseline does not represent them, and every positive ships with an inspectable witness. We also audit machine-versus-human classification on the same corpus, where character $n$-grams reach macro-F1 1.000 under task, model and vendor-disjoint partitions and survive comment removal, an AST round trip and identifier anonymisation. The trailing newline present in 95.2\% of human files and in none of the generated ones separates the classes on its own. Vendor--protocol consistency is a useful static audit target, whereas provenance classification on repository-labelled corpora is not authorship detection.

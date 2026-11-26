@@ -1,11 +1,13 @@
 ---
-title: "What the annual energy balance hides: the coordination value of digital platforms for positive energy districts"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.29485
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.29485
 next_step: skim
+priority: low
+slack_ts: '1795679636.151719'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'What the annual energy balance hides: the coordination value of digital platforms
+  for positive energy districts'
 ---
 # What the annual energy balance hides: the coordination value of digital platforms for positive energy districts
 > 原文: [https://arxiv.org/abs/2611.29485](https://arxiv.org/abs/2611.29485)

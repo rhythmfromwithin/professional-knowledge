@@ -1,11 +1,12 @@
 ---
-title: "Frontier Open-Weight AI Risk Management Framework"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.28082
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28082
 next_step: skim
+priority: medium
+slack_ts: '1795679633.630219'
+source: cs.CY - Computers and Society
+status: unread
+title: Frontier Open-Weight AI Risk Management Framework
 ---
 # Frontier Open-Weight AI Risk Management Framework
 > 原文: [https://arxiv.org/abs/2611.28082](https://arxiv.org/abs/2611.28082)

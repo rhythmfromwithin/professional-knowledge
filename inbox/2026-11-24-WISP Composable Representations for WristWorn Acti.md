@@ -1,11 +1,12 @@
 ---
-title: "WISP: Composable Representations for Wrist-Worn Activity Recognition"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.28033
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28033
 next_step: skim
+priority: high
+slack_ts: '1795679636.017919'
+source: cs.LG - Machine Learning
+status: unread
+title: 'WISP: Composable Representations for Wrist-Worn Activity Recognition'
 ---
 # WISP: Composable Representations for Wrist-Worn Activity Recognition
 > 原文: [https://arxiv.org/abs/2611.28033](https://arxiv.org/abs/2611.28033)

@@ -1,11 +1,12 @@
 ---
-title: "A Flexible and High-Performance Framework for Distributed Dynamic Graph Processing"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.31645
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31645
 next_step: skim
+priority: low
+slack_ts: '1795679636.468959'
+source: cs.DB - Databases
+status: unread
+title: A Flexible and High-Performance Framework for Distributed Dynamic Graph Processing
 ---
 # A Flexible and High-Performance Framework for Distributed Dynamic Graph Processing
 > 原文: [https://arxiv.org/abs/2611.31645](https://arxiv.org/abs/2611.31645)

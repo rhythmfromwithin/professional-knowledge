@@ -1,11 +1,13 @@
 ---
-title: "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/
 next_step: skim
+priority: high
+slack_ts: '1795679636.665249'
+source: AWS Blog
+status: unread
+title: 'AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more
+  (November 24, 2026)'
 ---
 # AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)
 > 原文: [https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/)

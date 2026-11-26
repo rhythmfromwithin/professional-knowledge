@@ -1,0 +1,14 @@
+---
+title: "The Marauder's Map: B\'{e}zier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling"
+source: "q-bio.NC - Neurons and Cognition"
+link: https://arxiv.org/abs/2611.33353
+priority: low
+status: unread
+interest: medium
+next_step: skim
+---
+# The Marauder's Map: B\'{e}zier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling
+> 原文: [https://arxiv.org/abs/2611.33353](https://arxiv.org/abs/2611.33353)
+
+arXiv:2611.33353v1 Announce Type: cross
+Abstract: Neural circuits are famously more robust than deep networks. This is often explained through degeneracy, where structurally distinct configurations support the same function. However, real biological systems exhibit a more flexible form of degeneracy in which specialized circuits continually adapt towards new competencies through localized changes while preserving existing function. Deep learning studies degeneracy through mode connectivity, which connects same-task networks by low-loss curves, sheets, or volumes. However, the field lacks a counterpart to flexible degeneracy, which demands more than ordinary mode connectivity. Defining such an analogue requires asking whether many independently initialized models trained on distinct tasks can be connected by a high-dimensional region of multi-task solutions. We introduce $\textit{Nimbus}$, which learns a high-dimensional B\'ezier manifold connecting $N$ specialists, going beyond the one-dimensional paths and two-dimensional sheets of mode connectivity work. A naive parameterization would scale combinatorially with $N$, but $\textit{Nimbus}$ requires learning corrections of only 3 interaction orders, showing that the connecting manifold has surprisingly low complexity yet supports multi-task competencies. The resulting manifold forms a navigable "Marauder's Map" that connects specialist models through a shared geometry of competent solutions. Trained across vision and language domains, $\textit{Nimbus}$ produces manifolds that are functionally and locally weight-flat: ensembles sampled from them degrade more gracefully than baselines under input and weight perturbations, with the largest gains in NLL loss and calibration error. $\textit{Nimbus}$ supplies a deep learning interpretation of flexible degeneracy, recasting model connectivity from a low-dimensional path between distant solutions into a high-dimensional volume of nearby ones.

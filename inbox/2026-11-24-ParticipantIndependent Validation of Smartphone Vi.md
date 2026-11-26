@@ -1,11 +1,13 @@
 ---
-title: "Participant-Independent Validation of Smartphone Video and Wearable Inertial Sensing for Coach-Rated Running-Form Classification"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.27996
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27996
 next_step: skim
+priority: low
+slack_ts: '1795679635.103949'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Participant-Independent Validation of Smartphone Video and Wearable Inertial
+  Sensing for Coach-Rated Running-Form Classification
 ---
 # Participant-Independent Validation of Smartphone Video and Wearable Inertial Sensing for Coach-Rated Running-Form Classification
 > 原文: [https://arxiv.org/abs/2611.27996](https://arxiv.org/abs/2611.27996)

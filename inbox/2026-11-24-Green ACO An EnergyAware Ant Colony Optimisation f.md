@@ -1,11 +1,13 @@
 ---
-title: "Green ACO: An Energy-Aware Ant Colony Optimisation for the MAX-SAT Problem with EI/J Scheduling and Thompson Sampling"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.28109
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28109
 next_step: skim
+priority: low
+slack_ts: '1795679633.789629'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: 'Green ACO: An Energy-Aware Ant Colony Optimisation for the MAX-SAT Problem
+  with EI/J Scheduling and Thompson Sampling'
 ---
 # Green ACO: An Energy-Aware Ant Colony Optimisation for the MAX-SAT Problem with EI/J Scheduling and Thompson Sampling
 > 原文: [https://arxiv.org/abs/2611.28109](https://arxiv.org/abs/2611.28109)

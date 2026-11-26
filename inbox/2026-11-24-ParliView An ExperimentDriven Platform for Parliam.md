@@ -1,11 +1,12 @@
 ---
-title: "ParliView: An Experiment-Driven Platform for Parliamentary Transparency"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.27991
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.27991
 next_step: skim
+priority: low
+slack_ts: '1795679635.044459'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'ParliView: An Experiment-Driven Platform for Parliamentary Transparency'
 ---
 # ParliView: An Experiment-Driven Platform for Parliamentary Transparency
 > 原文: [https://arxiv.org/abs/2611.27991](https://arxiv.org/abs/2611.27991)

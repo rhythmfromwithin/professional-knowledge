@@ -1,0 +1,14 @@
+---
+title: "Code availability is not enough: schemas for documenting and extending data analysis"
+source: "cs.LG - Machine Learning"
+link: https://arxiv.org/abs/2611.33167
+priority: high
+status: unread
+interest: medium
+next_step: skim
+---
+# Code availability is not enough: schemas for documenting and extending data analysis
+> 原文: [https://arxiv.org/abs/2611.33167](https://arxiv.org/abs/2611.33167)
+
+arXiv:2611.33167v1 Announce Type: new
+Abstract: A data analysis involves a sequence of decisions, from data cleaning to model specification, each of which can affect the reported result. Reproducing that result is not the same as understanding the sequence of decisions that produced it and the reasons for each: the code mixes those decisions with implementation details, while the manuscript states the major decisions and their rationale but scatters them across its sections and often leaves out the minor ones. A reader may then ask how the result would change under a different decision: the question itself is easy to pose, but implementing it is often non-trivial in practice. In this work, we propose a schema that represents a data analysis as a collection of decisions in natural language, from which large language models (LLMs) can generate and validate analysis scripts directly. This workflow can also expand a single analysis into a full multiverse of alternatives, specified in an alternative file, ready for comparison. We demonstrate the proposed workflow in two applications. In the first, we construct a schema for a published regression analysis of heaped smoking data and show that it reproduces the reported estimates, and that a reviewer-suggested alternative can be specified through the alternative file and turned into code automatically. In the second, where no schema is provided, we show how the workflow serves instead as a reproducibility check, applied to the many-analysts football study. As an intermediate representation between the manuscript and code scripts, our schema gives a self-contained account of an analysis and makes it extensible from a reader's perspective.

@@ -1,11 +1,12 @@
 ---
-title: "STEGOGUARD-LM: Evaluating End-to-End Protection Against LLM Covert Channels"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.28152
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28152
 next_step: skim
+priority: low
+slack_ts: '1795679635.561339'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'STEGOGUARD-LM: Evaluating End-to-End Protection Against LLM Covert Channels'
 ---
 # STEGOGUARD-LM: Evaluating End-to-End Protection Against LLM Covert Channels
 > 原文: [https://arxiv.org/abs/2611.28152](https://arxiv.org/abs/2611.28152)

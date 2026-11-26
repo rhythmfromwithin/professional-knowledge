@@ -1,11 +1,12 @@
 ---
-title: "On Monotonic Hamming Sphere Landscapes"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.28510
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28510
 next_step: skim
+priority: low
+slack_ts: '1795679634.951109'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: On Monotonic Hamming Sphere Landscapes
 ---
 # On Monotonic Hamming Sphere Landscapes
 > 原文: [https://arxiv.org/abs/2611.28510](https://arxiv.org/abs/2611.28510)

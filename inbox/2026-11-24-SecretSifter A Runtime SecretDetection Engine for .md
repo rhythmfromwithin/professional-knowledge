@@ -1,11 +1,12 @@
 ---
-title: "SecretSifter: A Runtime Secret-Detection Engine for Live Web Traffic"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.28168
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.28168
 next_step: skim
+priority: low
+slack_ts: '1795679635.627259'
+source: cs.SE - Software Engineering
+status: unread
+title: 'SecretSifter: A Runtime Secret-Detection Engine for Live Web Traffic'
 ---
 # SecretSifter: A Runtime Secret-Detection Engine for Live Web Traffic
 > 原文: [https://arxiv.org/abs/2611.28168](https://arxiv.org/abs/2611.28168)
