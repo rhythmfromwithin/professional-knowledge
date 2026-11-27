@@ -1,11 +1,13 @@
 ---
-title: "Information Security Risk Preparedness in Electronic Data Interchange: A Comparative Assessment of General IT and Healthcare Environments"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.31294
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31294
 next_step: skim
+priority: low
+slack_ts: '1795766094.615439'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Information Security Risk Preparedness in Electronic Data Interchange: A Comparative
+  Assessment of General IT and Healthcare Environments'
 ---
 # Information Security Risk Preparedness in Electronic Data Interchange: A Comparative Assessment of General IT and Healthcare Environments
 > 原文: [https://arxiv.org/abs/2611.31294](https://arxiv.org/abs/2611.31294)

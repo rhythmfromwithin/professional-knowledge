@@ -1,11 +1,12 @@
 ---
-title: "DAGGER: Deployment-Free Quality Estimation for Generative AI Workflows"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.31252
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31252
 next_step: skim
+priority: high
+slack_ts: '1795766092.100479'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'DAGGER: Deployment-Free Quality Estimation for Generative AI Workflows'
 ---
 # DAGGER: Deployment-Free Quality Estimation for Generative AI Workflows
 > 原文: [https://arxiv.org/abs/2611.31252](https://arxiv.org/abs/2611.31252)

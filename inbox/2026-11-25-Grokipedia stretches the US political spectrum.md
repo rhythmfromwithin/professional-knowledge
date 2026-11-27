@@ -1,11 +1,12 @@
 ---
-title: "Grokipedia stretches the US political spectrum"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.32420
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.32420
 next_step: skim
+priority: low
+slack_ts: '1795766093.915029'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Grokipedia stretches the US political spectrum
 ---
 # Grokipedia stretches the US political spectrum
 > 原文: [https://arxiv.org/abs/2611.32420](https://arxiv.org/abs/2611.32420)

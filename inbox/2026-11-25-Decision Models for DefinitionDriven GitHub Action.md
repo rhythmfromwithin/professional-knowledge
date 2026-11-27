@@ -1,11 +1,12 @@
 ---
-title: "Decision Models for Definition-Driven GitHub Actions Workflow Smell Detection"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.31421
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31421
 next_step: skim
+priority: low
+slack_ts: '1795766092.232819'
+source: cs.SE - Software Engineering
+status: unread
+title: Decision Models for Definition-Driven GitHub Actions Workflow Smell Detection
 ---
 # Decision Models for Definition-Driven GitHub Actions Workflow Smell Detection
 > 原文: [https://arxiv.org/abs/2611.31421](https://arxiv.org/abs/2611.31421)

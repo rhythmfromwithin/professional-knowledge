@@ -1,11 +1,12 @@
 ---
-title: "LLM Genetic Feature Engineering"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.31277
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31277
 next_step: skim
+priority: low
+slack_ts: '1795766095.564709'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: LLM Genetic Feature Engineering
 ---
 # LLM Genetic Feature Engineering
 > 原文: [https://arxiv.org/abs/2611.31277](https://arxiv.org/abs/2611.31277)

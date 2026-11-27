@@ -1,11 +1,13 @@
 ---
-title: "PEACE-TEST-PROTOCOL: Polarization-Keyed Examination Papers and Mandatory Issued Eyewear that Displace AI Glasses and Extend Universal Design"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.31299
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31299
 next_step: skim
+priority: medium
+slack_ts: '1795766096.831319'
+source: cs.CV - Computer Vision
+status: unread
+title: 'PEACE-TEST-PROTOCOL: Polarization-Keyed Examination Papers and Mandatory Issued
+  Eyewear that Displace AI Glasses and Extend Universal Design'
 ---
 # PEACE-TEST-PROTOCOL: Polarization-Keyed Examination Papers and Mandatory Issued Eyewear that Displace AI Glasses and Extend Universal Design
 > 原文: [https://arxiv.org/abs/2611.31299](https://arxiv.org/abs/2611.31299)

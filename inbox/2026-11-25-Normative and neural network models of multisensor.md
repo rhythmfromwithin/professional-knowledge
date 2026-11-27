@@ -1,11 +1,12 @@
 ---
-title: "Normative and neural network models of multisensory integration"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.32829
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.32829
 next_step: skim
+priority: low
+slack_ts: '1795766096.616619'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: Normative and neural network models of multisensory integration
 ---
 # Normative and neural network models of multisensory integration
 > 原文: [https://arxiv.org/abs/2611.32829](https://arxiv.org/abs/2611.32829)

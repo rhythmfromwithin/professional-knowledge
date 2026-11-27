@@ -1,11 +1,13 @@
 ---
-title: "Rapid Exploratory Maps and their potential role in supporting evidence-to-policy dialogues and processes"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.31693
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31693
 next_step: skim
+priority: medium
+slack_ts: '1795766097.280249'
+source: cs.CY - Computers and Society
+status: unread
+title: Rapid Exploratory Maps and their potential role in supporting evidence-to-policy
+  dialogues and processes
 ---
 # Rapid Exploratory Maps and their potential role in supporting evidence-to-policy dialogues and processes
 > 原文: [https://arxiv.org/abs/2611.31693](https://arxiv.org/abs/2611.31693)

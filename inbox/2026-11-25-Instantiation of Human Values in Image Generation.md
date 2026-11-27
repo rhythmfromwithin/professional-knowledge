@@ -1,11 +1,12 @@
 ---
-title: "Instantiation of Human Values in Image Generation"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.31253
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31253
 next_step: skim
+priority: high
+slack_ts: '1795766094.753399'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: Instantiation of Human Values in Image Generation
 ---
 # Instantiation of Human Values in Image Generation
 > 原文: [https://arxiv.org/abs/2611.31253](https://arxiv.org/abs/2611.31253)

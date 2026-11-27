@@ -1,11 +1,13 @@
 ---
-title: "The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered Human-AI Interactions"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.31573
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31573
 next_step: skim
+priority: low
+slack_ts: '1795766098.303399'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered
+  Human-AI Interactions'
 ---
 # The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered Human-AI Interactions
 > 原文: [https://arxiv.org/abs/2611.31573](https://arxiv.org/abs/2611.31573)

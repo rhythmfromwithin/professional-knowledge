@@ -1,11 +1,13 @@
 ---
-title: "New in AWS Quick: More capable flows, an updated web experience, and agents that work together"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/
 next_step: skim
+priority: high
+slack_ts: '1795766096.503339'
+source: AWS Blog
+status: unread
+title: 'New in AWS Quick: More capable flows, an updated web experience, and agents
+  that work together'
 ---
 # New in AWS Quick: More capable flows, an updated web experience, and agents that work together
 > 原文: [https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)

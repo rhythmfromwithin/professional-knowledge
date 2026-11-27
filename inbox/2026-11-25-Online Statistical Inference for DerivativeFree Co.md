@@ -1,11 +1,12 @@
 ---
-title: "Online Statistical Inference for Derivative-Free Constrained Stochastic Optimization"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.31687
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31687
 next_step: skim
+priority: medium
+slack_ts: '1795766096.727189'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Online Statistical Inference for Derivative-Free Constrained Stochastic Optimization
 ---
 # Online Statistical Inference for Derivative-Free Constrained Stochastic Optimization
 > 原文: [https://arxiv.org/abs/2611.31687](https://arxiv.org/abs/2611.31687)

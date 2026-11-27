@@ -1,11 +1,12 @@
 ---
-title: "Conservative Overlap Fuzzy Rough Sets for Incomplete Data"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.31329
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31329
 next_step: skim
+priority: high
+slack_ts: '1795766091.724669'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Conservative Overlap Fuzzy Rough Sets for Incomplete Data
 ---
 # Conservative Overlap Fuzzy Rough Sets for Incomplete Data
 > 原文: [https://arxiv.org/abs/2611.31329](https://arxiv.org/abs/2611.31329)

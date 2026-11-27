@@ -1,11 +1,12 @@
 ---
-title: "Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.33192
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33192
 next_step: skim
+priority: low
+slack_ts: '1795766102.289139'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks
 ---
 # Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks
 > 原文: [https://arxiv.org/abs/2611.33192](https://arxiv.org/abs/2611.33192)

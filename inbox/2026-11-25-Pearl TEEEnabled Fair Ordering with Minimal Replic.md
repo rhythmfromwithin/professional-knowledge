@@ -1,11 +1,12 @@
 ---
-title: "Pearl: TEE-Enabled Fair Ordering with Minimal Replication"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.31468
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31468
 next_step: skim
+priority: medium
+slack_ts: '1795766097.166919'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Pearl: TEE-Enabled Fair Ordering with Minimal Replication'
 ---
 # Pearl: TEE-Enabled Fair Ordering with Minimal Replication
 > 原文: [https://arxiv.org/abs/2611.31468](https://arxiv.org/abs/2611.31468)

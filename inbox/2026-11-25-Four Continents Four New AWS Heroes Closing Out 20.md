@@ -1,11 +1,12 @@
 ---
-title: "Four Continents, Four New AWS Heroes: Closing Out 2026"
-source: "AWS Blog"
-link: https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/
-priority: high
-status: unread
 interest: medium
+link: https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/
 next_step: skim
+priority: high
+slack_ts: '1795766093.293519'
+source: AWS Blog
+status: unread
+title: 'Four Continents, Four New AWS Heroes: Closing Out 2026'
 ---
 # Four Continents, Four New AWS Heroes: Closing Out 2026
 > 原文: [https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/](https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/)

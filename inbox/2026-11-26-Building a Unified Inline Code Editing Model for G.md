@@ -1,11 +1,12 @@
 ---
-title: "Building a Unified Inline Code Editing Model for GitHub Copilot"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.33314
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33314
 next_step: skim
+priority: low
+slack_ts: '1795766100.270229'
+source: cs.SE - Software Engineering
+status: unread
+title: Building a Unified Inline Code Editing Model for GitHub Copilot
 ---
 # Building a Unified Inline Code Editing Model for GitHub Copilot
 > 原文: [https://arxiv.org/abs/2611.33314](https://arxiv.org/abs/2611.33314)

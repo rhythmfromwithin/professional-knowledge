@@ -1,11 +1,12 @@
 ---
-title: "Geometric Control Analysis of an Internally Actuated Flying Wing"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.31463
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31463
 next_step: skim
+priority: medium
+slack_ts: '1795766093.798819'
+source: cs.RO - Robotics
+status: unread
+title: Geometric Control Analysis of an Internally Actuated Flying Wing
 ---
 # Geometric Control Analysis of an Internally Actuated Flying Wing
 > 原文: [https://arxiv.org/abs/2611.31463](https://arxiv.org/abs/2611.31463)

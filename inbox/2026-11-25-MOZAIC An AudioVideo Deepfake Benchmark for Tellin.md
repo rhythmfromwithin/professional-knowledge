@@ -1,11 +1,12 @@
 ---
-title: "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.31301
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31301
 next_step: skim
+priority: high
+slack_ts: '1795766096.150039'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake'
 ---
 # MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake
 > 原文: [https://arxiv.org/abs/2611.31301](https://arxiv.org/abs/2611.31301)

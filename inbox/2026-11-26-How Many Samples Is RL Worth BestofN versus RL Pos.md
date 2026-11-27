@@ -1,11 +1,13 @@
 ---
-title: "How Many Samples Is RL Worth? Best-of-N versus RL Post-Training for Text-to-Image Models"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.33232
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33232
 next_step: skim
+priority: medium
+slack_ts: '1795766104.310769'
+source: cs.CV - Computer Vision
+status: unread
+title: How Many Samples Is RL Worth? Best-of-N versus RL Post-Training for Text-to-Image
+  Models
 ---
 # How Many Samples Is RL Worth? Best-of-N versus RL Post-Training for Text-to-Image Models
 > 原文: [https://arxiv.org/abs/2611.33232](https://arxiv.org/abs/2611.33232)

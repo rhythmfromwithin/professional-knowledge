@@ -1,11 +1,13 @@
 ---
-title: "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.31284
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31284
 next_step: skim
+priority: high
+slack_ts: '1795766095.459709'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation,
+  Strategy-Proofness, and Multi-Scale Composition'
 ---
 # Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition
 > 原文: [https://arxiv.org/abs/2611.31284](https://arxiv.org/abs/2611.31284)

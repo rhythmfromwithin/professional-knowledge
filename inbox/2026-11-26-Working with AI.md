@@ -1,11 +1,12 @@
 ---
-title: "Working with AI"
-source: "Anthropic"
-link: https://www.anthropic.com/research/working-with-ai
-priority: high
-status: unread
 interest: medium
+link: https://www.anthropic.com/research/working-with-ai
 next_step: skim
+priority: high
+slack_ts: '1795766108.313089'
+source: Anthropic
+status: unread
+title: Working with AI
 ---
 # Working with AI
 > 原文: [https://www.anthropic.com/research/working-with-ai](https://www.anthropic.com/research/working-with-ai)

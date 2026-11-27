@@ -1,11 +1,12 @@
 ---
-title: "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.31358
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31358
 next_step: skim
+priority: medium
+slack_ts: '1795766096.382959'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation'
 ---
 # Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation
 > 原文: [https://arxiv.org/abs/2611.31358](https://arxiv.org/abs/2611.31358)

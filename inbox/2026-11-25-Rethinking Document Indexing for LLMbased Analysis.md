@@ -1,11 +1,12 @@
 ---
-title: "Rethinking Document Indexing for LLM-based Analysis"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.31679
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31679
 next_step: skim
+priority: low
+slack_ts: '1795766097.408219'
+source: cs.DB - Databases
+status: unread
+title: Rethinking Document Indexing for LLM-based Analysis
 ---
 # Rethinking Document Indexing for LLM-based Analysis
 > 原文: [https://arxiv.org/abs/2611.31679](https://arxiv.org/abs/2611.31679)

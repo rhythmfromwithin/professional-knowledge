@@ -1,11 +1,13 @@
 ---
-title: "Look Where Camouflage Breaks: Concealment-Guided Observation for Camouflaged Object Detection"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.31392
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31392
 next_step: skim
+priority: medium
+slack_ts: '1795766096.031239'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Look Where Camouflage Breaks: Concealment-Guided Observation for Camouflaged
+  Object Detection'
 ---
 # Look Where Camouflage Breaks: Concealment-Guided Observation for Camouflaged Object Detection
 > 原文: [https://arxiv.org/abs/2611.31392](https://arxiv.org/abs/2611.31392)

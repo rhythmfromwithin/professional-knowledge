@@ -1,11 +1,13 @@
 ---
-title: "Local subspace encoding for spectral prediction: from TabPFN to operator-adaptive calibration"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.31245
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31245
 next_step: skim
+priority: high
+slack_ts: '1795766095.906439'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Local subspace encoding for spectral prediction: from TabPFN to operator-adaptive
+  calibration'
 ---
 # Local subspace encoding for spectral prediction: from TabPFN to operator-adaptive calibration
 > 原文: [https://arxiv.org/abs/2611.31245](https://arxiv.org/abs/2611.31245)

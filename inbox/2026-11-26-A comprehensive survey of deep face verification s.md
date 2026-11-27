@@ -1,11 +1,13 @@
 ---
-title: "A comprehensive survey of deep face verification systems adversarial attacks and defense strategies"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.33231
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33231
 next_step: skim
+priority: medium
+slack_ts: '1795766099.278639'
+source: cs.CV - Computer Vision
+status: unread
+title: A comprehensive survey of deep face verification systems adversarial attacks
+  and defense strategies
 ---
 # A comprehensive survey of deep face verification systems adversarial attacks and defense strategies
 > 原文: [https://arxiv.org/abs/2611.33231](https://arxiv.org/abs/2611.33231)
