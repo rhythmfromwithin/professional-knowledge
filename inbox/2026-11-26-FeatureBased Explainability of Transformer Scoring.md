@@ -1,11 +1,13 @@
 ---
-title: "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.33175
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33175
 next_step: skim
+priority: high
+slack_ts: '1795850664.450219'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First
+  Framework for Automated Writing Assessment'
 ---
 # Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment
 > 原文: [https://arxiv.org/abs/2611.33175](https://arxiv.org/abs/2611.33175)

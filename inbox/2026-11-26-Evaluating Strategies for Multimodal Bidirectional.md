@@ -1,11 +1,13 @@
 ---
-title: "Evaluating Strategies for Multimodal Bidirectional Interactions between Pedestrians and AVs"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.33581
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33581
 next_step: skim
+priority: low
+slack_ts: '1795850662.411149'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: Evaluating Strategies for Multimodal Bidirectional Interactions between Pedestrians
+  and AVs
 ---
 # Evaluating Strategies for Multimodal Bidirectional Interactions between Pedestrians and AVs
 > 原文: [https://arxiv.org/abs/2611.33581](https://arxiv.org/abs/2611.33581)

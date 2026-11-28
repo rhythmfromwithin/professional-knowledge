@@ -1,11 +1,13 @@
 ---
-title: "Conditional Work Bounds and Timing Evidence for an Industrial NDT Scan Matcher: Cross-Language Work-Trace Conformance"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.33159
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33159
 next_step: skim
+priority: medium
+slack_ts: '1795850658.741799'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Conditional Work Bounds and Timing Evidence for an Industrial NDT Scan Matcher:
+  Cross-Language Work-Trace Conformance'
 ---
 # Conditional Work Bounds and Timing Evidence for an Industrial NDT Scan Matcher: Cross-Language Work-Trace Conformance
 > 原文: [https://arxiv.org/abs/2611.33159](https://arxiv.org/abs/2611.33159)

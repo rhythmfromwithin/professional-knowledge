@@ -1,11 +1,13 @@
 ---
-title: "Designing an Integrated Learning Ecosystem for Introductory Python Programming: Scaffolded Problem Solving, Tablet-Inspired Navigation, and AI-Enhanced Instruction"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.33471
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33471
 next_step: skim
+priority: medium
+slack_ts: '1795850661.114499'
+source: cs.CY - Computers and Society
+status: unread
+title: 'Designing an Integrated Learning Ecosystem for Introductory Python Programming:
+  Scaffolded Problem Solving, Tablet-Inspired Navigation, and AI-Enhanced Instruction'
 ---
 # Designing an Integrated Learning Ecosystem for Introductory Python Programming: Scaffolded Problem Solving, Tablet-Inspired Navigation, and AI-Enhanced Instruction
 > 原文: [https://arxiv.org/abs/2611.33471](https://arxiv.org/abs/2611.33471)

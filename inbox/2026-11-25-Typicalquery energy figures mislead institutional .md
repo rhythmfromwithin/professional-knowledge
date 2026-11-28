@@ -1,11 +1,12 @@
 ---
-title: "Typical-query energy figures mislead institutional AI electricity demand"
-source: "cs.CY - Computers and Society"
-link: https://arxiv.org/abs/2611.31960
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31960
 next_step: skim
+priority: medium
+slack_ts: '1795850654.436779'
+source: cs.CY - Computers and Society
+status: unread
+title: Typical-query energy figures mislead institutional AI electricity demand
 ---
 # Typical-query energy figures mislead institutional AI electricity demand
 > 原文: [https://arxiv.org/abs/2611.31960](https://arxiv.org/abs/2611.31960)

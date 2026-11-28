@@ -1,11 +1,12 @@
 ---
-title: "AI, Automation, and Fiscal Pressure"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.34234
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.34234
 next_step: skim
+priority: low
+slack_ts: '1795850655.720039'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: AI, Automation, and Fiscal Pressure
 ---
 # AI, Automation, and Fiscal Pressure
 > 原文: [https://arxiv.org/abs/2611.34234](https://arxiv.org/abs/2611.34234)

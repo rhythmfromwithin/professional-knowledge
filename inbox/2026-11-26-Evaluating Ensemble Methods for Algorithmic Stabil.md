@@ -1,11 +1,12 @@
 ---
-title: "Evaluating Ensemble Methods for Algorithmic Stability Under Data Perturbations"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.33375
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33375
 next_step: skim
+priority: medium
+slack_ts: '1795850662.202989'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: Evaluating Ensemble Methods for Algorithmic Stability Under Data Perturbations
 ---
 # Evaluating Ensemble Methods for Algorithmic Stability Under Data Perturbations
 > 原文: [https://arxiv.org/abs/2611.33375](https://arxiv.org/abs/2611.33375)

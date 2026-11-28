@@ -1,11 +1,13 @@
 ---
-title: "The Recycler: In-Transit Machine Learning on High-Fidelity Data from Simulation Campaigns as an Optimized Approach for Building Frontier Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.31434
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31434
 next_step: skim
+priority: medium
+slack_ts: '1795850653.580399'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'The Recycler: In-Transit Machine Learning on High-Fidelity Data from Simulation
+  Campaigns as an Optimized Approach for Building Frontier Models'
 ---
 # The Recycler: In-Transit Machine Learning on High-Fidelity Data from Simulation Campaigns as an Optimized Approach for Building Frontier Models
 > 原文: [https://arxiv.org/abs/2611.31434](https://arxiv.org/abs/2611.31434)

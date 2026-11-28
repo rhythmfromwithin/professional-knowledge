@@ -1,11 +1,13 @@
 ---
-title: "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.33162
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33162
 next_step: skim
+priority: high
+slack_ts: '1795850656.604339'
+source: cs.LG - Machine Learning
+status: unread
+title: Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive
+  2D Environments
 ---
 # Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments
 > 原文: [https://arxiv.org/abs/2611.33162](https://arxiv.org/abs/2611.33162)

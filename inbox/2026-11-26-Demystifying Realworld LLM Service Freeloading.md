@@ -1,11 +1,12 @@
 ---
-title: "Demystifying Real-world LLM Service Freeloading"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.33218
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33218
 next_step: skim
+priority: low
+slack_ts: '1795850660.680539'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Demystifying Real-world LLM Service Freeloading
 ---
 # Demystifying Real-world LLM Service Freeloading
 > 原文: [https://arxiv.org/abs/2611.33218](https://arxiv.org/abs/2611.33218)

@@ -1,11 +1,13 @@
 ---
-title: "The Defect Is in the Arithmetic Between the Files: Static Detection of Exactly-Once Violations in Payment Pipelines"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.31298
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31298
 next_step: skim
+priority: low
+slack_ts: '1795850652.936269'
+source: cs.SE - Software Engineering
+status: unread
+title: 'The Defect Is in the Arithmetic Between the Files: Static Detection of Exactly-Once
+  Violations in Payment Pipelines'
 ---
 # The Defect Is in the Arithmetic Between the Files: Static Detection of Exactly-Once Violations in Payment Pipelines
 > 原文: [https://arxiv.org/abs/2611.31298](https://arxiv.org/abs/2611.31298)

@@ -1,11 +1,12 @@
 ---
-title: "Will AI Replace Juniors? How Task Complexity Reduces Automation Risk"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.34099
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.34099
 next_step: skim
+priority: low
+slack_ts: '1795850672.867869'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: Will AI Replace Juniors? How Task Complexity Reduces Automation Risk
 ---
 # Will AI Replace Juniors? How Task Complexity Reduces Automation Risk
 > 原文: [https://arxiv.org/abs/2611.34099](https://arxiv.org/abs/2611.34099)

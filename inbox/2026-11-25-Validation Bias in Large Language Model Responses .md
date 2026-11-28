@@ -1,11 +1,13 @@
 ---
-title: "Validation Bias in Large Language Model Responses to Cancer Treatment Queries: A Factorial Cross-Sectional Study"
-source: "cs.CL - Computation and Language (NLP)"
-link: https://arxiv.org/abs/2611.31251
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31251
 next_step: skim
+priority: high
+slack_ts: '1795850654.860869'
+source: cs.CL - Computation and Language (NLP)
+status: unread
+title: 'Validation Bias in Large Language Model Responses to Cancer Treatment Queries:
+  A Factorial Cross-Sectional Study'
 ---
 # Validation Bias in Large Language Model Responses to Cancer Treatment Queries: A Factorial Cross-Sectional Study
 > 原文: [https://arxiv.org/abs/2611.31251](https://arxiv.org/abs/2611.31251)

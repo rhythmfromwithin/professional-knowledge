@@ -1,11 +1,13 @@
 ---
-title: "Differential coupling drives Turing pattern formation in neural fields: a mechanism for Parkinson's disease and deep brain stimulation"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.33602
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33602
 next_step: skim
+priority: low
+slack_ts: '1795850661.326859'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'Differential coupling drives Turing pattern formation in neural fields: a
+  mechanism for Parkinson''s disease and deep brain stimulation'
 ---
 # Differential coupling drives Turing pattern formation in neural fields: a mechanism for Parkinson's disease and deep brain stimulation
 > 原文: [https://arxiv.org/abs/2611.33602](https://arxiv.org/abs/2611.33602)

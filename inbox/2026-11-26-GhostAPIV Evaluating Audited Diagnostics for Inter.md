@@ -1,11 +1,12 @@
 ---
-title: "GhostAPI-V: Evaluating Audited Diagnostics for Internal API Migration Repair"
-source: "cs.SE - Software Engineering"
-link: https://arxiv.org/abs/2611.33396
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33396
 next_step: skim
+priority: low
+slack_ts: '1795850665.740099'
+source: cs.SE - Software Engineering
+status: unread
+title: 'GhostAPI-V: Evaluating Audited Diagnostics for Internal API Migration Repair'
 ---
 # GhostAPI-V: Evaluating Audited Diagnostics for Internal API Migration Repair
 > 原文: [https://arxiv.org/abs/2611.33396](https://arxiv.org/abs/2611.33396)

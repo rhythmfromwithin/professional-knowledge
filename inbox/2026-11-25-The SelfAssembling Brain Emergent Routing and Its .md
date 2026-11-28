@@ -1,11 +1,12 @@
 ---
-title: "The Self-Assembling Brain: Emergent Routing and Its Open Challenges"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.31629
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31629
 next_step: skim
+priority: low
+slack_ts: '1795850653.806439'
+source: q-bio.NC - Neurons and Cognition
+status: unread
+title: 'The Self-Assembling Brain: Emergent Routing and Its Open Challenges'
 ---
 # The Self-Assembling Brain: Emergent Routing and Its Open Challenges
 > 原文: [https://arxiv.org/abs/2611.31629](https://arxiv.org/abs/2611.31629)

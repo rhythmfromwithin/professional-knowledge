@@ -1,11 +1,13 @@
 ---
-title: "Symbolic Proof Compression and Fractal Universality: A Conditional Non-Constructive Refutation of the Riemann Hypothesis"
-source: "cs.HC - Human-Computer Interaction"
-link: https://arxiv.org/abs/2611.31469
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31469
 next_step: skim
+priority: low
+slack_ts: '1795850652.721219'
+source: cs.HC - Human-Computer Interaction
+status: unread
+title: 'Symbolic Proof Compression and Fractal Universality: A Conditional Non-Constructive
+  Refutation of the Riemann Hypothesis'
 ---
 # Symbolic Proof Compression and Fractal Universality: A Conditional Non-Constructive Refutation of the Riemann Hypothesis
 > 原文: [https://arxiv.org/abs/2611.31469](https://arxiv.org/abs/2611.31469)

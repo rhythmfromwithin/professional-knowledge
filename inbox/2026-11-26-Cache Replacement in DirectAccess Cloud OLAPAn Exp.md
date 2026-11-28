@@ -1,11 +1,13 @@
 ---
-title: "Cache Replacement in Direct-Access Cloud OLAP-An Experimental Comparison and Practical Guidance"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.33977
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33977
 next_step: skim
+priority: low
+slack_ts: '1795850657.897919'
+source: cs.DB - Databases
+status: unread
+title: Cache Replacement in Direct-Access Cloud OLAP-An Experimental Comparison and
+  Practical Guidance
 ---
 # Cache Replacement in Direct-Access Cloud OLAP-An Experimental Comparison and Practical Guidance
 > 原文: [https://arxiv.org/abs/2611.33977](https://arxiv.org/abs/2611.33977)

@@ -1,11 +1,12 @@
 ---
-title: "Data Agents Need a Map: Evolving, Demand-Driven Knowledge of Large Collections"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.33763
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33763
 next_step: skim
+priority: low
+slack_ts: '1795850660.051159'
+source: cs.DB - Databases
+status: unread
+title: 'Data Agents Need a Map: Evolving, Demand-Driven Knowledge of Large Collections'
 ---
 # Data Agents Need a Map: Evolving, Demand-Driven Knowledge of Large Collections
 > 原文: [https://arxiv.org/abs/2611.33763](https://arxiv.org/abs/2611.33763)

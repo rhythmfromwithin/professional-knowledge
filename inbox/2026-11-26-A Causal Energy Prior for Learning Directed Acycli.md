@@ -1,11 +1,12 @@
 ---
-title: "A Causal Energy Prior for Learning Directed Acyclic Graphs"
-source: "stat.ML - Machine Learning (Statistics)"
-link: https://arxiv.org/abs/2611.33225
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33225
 next_step: skim
+priority: medium
+slack_ts: '1795850655.290259'
+source: stat.ML - Machine Learning (Statistics)
+status: unread
+title: A Causal Energy Prior for Learning Directed Acyclic Graphs
 ---
 # A Causal Energy Prior for Learning Directed Acyclic Graphs
 > 原文: [https://arxiv.org/abs/2611.33225](https://arxiv.org/abs/2611.33225)

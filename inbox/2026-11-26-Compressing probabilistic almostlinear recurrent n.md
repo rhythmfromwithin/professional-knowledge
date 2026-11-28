@@ -1,11 +1,12 @@
 ---
-title: "Compressing probabilistic almost-linear recurrent networks without refitting"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.34203
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.34203
 next_step: skim
+priority: low
+slack_ts: '1795850658.525449'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Compressing probabilistic almost-linear recurrent networks without refitting
 ---
 # Compressing probabilistic almost-linear recurrent networks without refitting
 > 原文: [https://arxiv.org/abs/2611.34203](https://arxiv.org/abs/2611.34203)

@@ -1,11 +1,12 @@
 ---
-title: "Asymmetric Speculative Decoding: Unlocking In-Context Learning in Draft Models"
-source: "cs.DC - Distributed Computing"
-link: https://arxiv.org/abs/2611.34010
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.34010
 next_step: skim
+priority: medium
+slack_ts: '1795850656.380669'
+source: cs.DC - Distributed Computing
+status: unread
+title: 'Asymmetric Speculative Decoding: Unlocking In-Context Learning in Draft Models'
 ---
 # Asymmetric Speculative Decoding: Unlocking In-Context Learning in Draft Models
 > 原文: [https://arxiv.org/abs/2611.34010](https://arxiv.org/abs/2611.34010)

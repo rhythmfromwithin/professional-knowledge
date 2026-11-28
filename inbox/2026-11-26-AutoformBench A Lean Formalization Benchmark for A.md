@@ -1,11 +1,12 @@
 ---
-title: "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.33165
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33165
 next_step: skim
+priority: high
+slack_ts: '1795850657.044579'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics'
 ---
 # AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics
 > 原文: [https://arxiv.org/abs/2611.33165](https://arxiv.org/abs/2611.33165)

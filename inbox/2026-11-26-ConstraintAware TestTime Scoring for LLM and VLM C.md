@@ -1,11 +1,12 @@
 ---
-title: "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.33161
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33161
 next_step: skim
+priority: high
+slack_ts: '1795850659.162789'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection
 ---
 # Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection
 > 原文: [https://arxiv.org/abs/2611.33161](https://arxiv.org/abs/2611.33161)

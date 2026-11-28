@@ -1,11 +1,5 @@
 ---
-title: "The Marauder's Map: B\'{e}zier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling"
-source: "q-bio.NC - Neurons and Cognition"
-link: https://arxiv.org/abs/2611.33353
-priority: low
-status: unread
-interest: medium
-next_step: skim
+slack_ts: '1795850671.857609'
 ---
 # The Marauder's Map: B\'{e}zier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling
 > 原文: [https://arxiv.org/abs/2611.33353](https://arxiv.org/abs/2611.33353)

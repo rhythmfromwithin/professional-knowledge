@@ -1,11 +1,12 @@
 ---
-title: "Decoupling the clocks of learning and computing in spiking neural networks"
-source: "cs.NE - Neural and Evolutionary Computing"
-link: https://arxiv.org/abs/2611.34381
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.34381
 next_step: skim
+priority: low
+slack_ts: '1795850660.264619'
+source: cs.NE - Neural and Evolutionary Computing
+status: unread
+title: Decoupling the clocks of learning and computing in spiking neural networks
 ---
 # Decoupling the clocks of learning and computing in spiking neural networks
 > 原文: [https://arxiv.org/abs/2611.34381](https://arxiv.org/abs/2611.34381)

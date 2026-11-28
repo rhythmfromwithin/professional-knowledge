@@ -1,11 +1,12 @@
 ---
-title: "Context Scaling: A New Frontier of AI Scaling"
-source: "cs.AI - Artificial Intelligence"
-link: https://arxiv.org/abs/2611.33160
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33160
 next_step: skim
+priority: high
+slack_ts: '1795850659.375459'
+source: cs.AI - Artificial Intelligence
+status: unread
+title: 'Context Scaling: A New Frontier of AI Scaling'
 ---
 # Context Scaling: A New Frontier of AI Scaling
 > 原文: [https://arxiv.org/abs/2611.33160](https://arxiv.org/abs/2611.33160)

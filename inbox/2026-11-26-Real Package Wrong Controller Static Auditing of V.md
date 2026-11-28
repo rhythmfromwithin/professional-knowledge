@@ -1,11 +1,13 @@
 ---
-title: "Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches in LLM-Generated PLC Code"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.33227
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33227
 next_step: skim
+priority: low
+slack_ts: '1795850670.864869'
+source: cs.CR - Cryptography and Security
+status: unread
+title: 'Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches
+  in LLM-Generated PLC Code'
 ---
 # Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches in LLM-Generated PLC Code
 > 原文: [https://arxiv.org/abs/2611.33227](https://arxiv.org/abs/2611.33227)

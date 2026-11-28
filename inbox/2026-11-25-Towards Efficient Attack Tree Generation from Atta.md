@@ -1,11 +1,13 @@
 ---
-title: "Towards Efficient Attack Tree Generation from Attack Graphs for Unobservable Target Analysis"
-source: "cs.CR - Cryptography and Security"
-link: https://arxiv.org/abs/2611.31302
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31302
 next_step: skim
+priority: low
+slack_ts: '1795850654.226809'
+source: cs.CR - Cryptography and Security
+status: unread
+title: Towards Efficient Attack Tree Generation from Attack Graphs for Unobservable
+  Target Analysis
 ---
 # Towards Efficient Attack Tree Generation from Attack Graphs for Unobservable Target Analysis
 > 原文: [https://arxiv.org/abs/2611.31302](https://arxiv.org/abs/2611.31302)

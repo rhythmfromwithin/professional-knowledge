@@ -1,11 +1,13 @@
 ---
-title: "Confidence-Based Adaptive Retrieval Fails Where It Matters Most: A Paradox in Biomedical Question Answering"
-source: "cs.CV - Computer Vision"
-link: https://arxiv.org/abs/2611.33210
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33210
 next_step: skim
+priority: medium
+slack_ts: '1795850658.954559'
+source: cs.CV - Computer Vision
+status: unread
+title: 'Confidence-Based Adaptive Retrieval Fails Where It Matters Most: A Paradox
+  in Biomedical Question Answering'
 ---
 # Confidence-Based Adaptive Retrieval Fails Where It Matters Most: A Paradox in Biomedical Question Answering
 > 原文: [https://arxiv.org/abs/2611.33210](https://arxiv.org/abs/2611.33210)

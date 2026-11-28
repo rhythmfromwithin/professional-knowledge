@@ -1,11 +1,12 @@
 ---
-title: "Effect-Driven Skill Abstractions for Offline Reinforcement Learning"
-source: "cs.RO - Robotics"
-link: https://arxiv.org/abs/2611.33229
-priority: medium
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33229
 next_step: skim
+priority: medium
+slack_ts: '1795850661.770319'
+source: cs.RO - Robotics
+status: unread
+title: Effect-Driven Skill Abstractions for Offline Reinforcement Learning
 ---
 # Effect-Driven Skill Abstractions for Offline Reinforcement Learning
 > 原文: [https://arxiv.org/abs/2611.33229](https://arxiv.org/abs/2611.33229)

@@ -1,11 +1,13 @@
 ---
-title: "Code availability is not enough: schemas for documenting and extending data analysis"
-source: "cs.LG - Machine Learning"
-link: https://arxiv.org/abs/2611.33167
-priority: high
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.33167
 next_step: skim
+priority: high
+slack_ts: '1795850658.317859'
+source: cs.LG - Machine Learning
+status: unread
+title: 'Code availability is not enough: schemas for documenting and extending data
+  analysis'
 ---
 # Code availability is not enough: schemas for documenting and extending data analysis
 > 原文: [https://arxiv.org/abs/2611.33167](https://arxiv.org/abs/2611.33167)

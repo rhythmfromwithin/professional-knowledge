@@ -1,11 +1,12 @@
 ---
-title: "How Gemini is changing the game for Golden State's organization and fans."
-source: "Google AI Blog"
-link: https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/
-priority: high
-status: unread
 interest: medium
+link: https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/
 next_step: skim
+priority: high
+slack_ts: '1795850677.818809'
+source: Google AI Blog
+status: unread
+title: How Gemini is changing the game for Golden State's organization and fans.
 ---
 # How Gemini is changing the game for Golden State's organization and fans.
 > 原文: [https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/](https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/)

@@ -1,11 +1,13 @@
 ---
-title: "How Large are Monetary Policy Effects? dentifying the Shocks in a VAR also Identifies the Constants"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.34722
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.34722
 next_step: skim
+priority: low
+slack_ts: '1795850666.626259'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: How Large are Monetary Policy Effects? dentifying the Shocks in a VAR also
+  Identifies the Constants
 ---
 # How Large are Monetary Policy Effects? dentifying the Shocks in a VAR also Identifies the Constants
 > 原文: [https://arxiv.org/abs/2611.34722](https://arxiv.org/abs/2611.34722)

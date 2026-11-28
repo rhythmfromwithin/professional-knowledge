@@ -1,11 +1,12 @@
 ---
-title: "The Effect of Remote Working on Regional Waste: Evidence from South Korea"
-source: "econ.GN - General Economics (AI Economics)"
-link: https://arxiv.org/abs/2611.31860
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31860
 next_step: skim
+priority: low
+slack_ts: '1795850653.160239'
+source: econ.GN - General Economics (AI Economics)
+status: unread
+title: 'The Effect of Remote Working on Regional Waste: Evidence from South Korea'
 ---
 # The Effect of Remote Working on Regional Waste: Evidence from South Korea
 > 原文: [https://arxiv.org/abs/2611.31860](https://arxiv.org/abs/2611.31860)

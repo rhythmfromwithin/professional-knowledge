@@ -1,11 +1,12 @@
 ---
-title: "Toward Database-Native Genomics: A Vision for Declarative Genomic Analysis"
-source: "cs.DB - Databases"
-link: https://arxiv.org/abs/2611.31893
-priority: low
-status: unread
 interest: medium
+link: https://arxiv.org/abs/2611.31893
 next_step: skim
+priority: low
+slack_ts: '1795850654.018839'
+source: cs.DB - Databases
+status: unread
+title: 'Toward Database-Native Genomics: A Vision for Declarative Genomic Analysis'
 ---
 # Toward Database-Native Genomics: A Vision for Declarative Genomic Analysis
 > 原文: [https://arxiv.org/abs/2611.31893](https://arxiv.org/abs/2611.31893)
